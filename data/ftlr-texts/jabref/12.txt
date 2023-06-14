@@ -1,0 +1,1 @@
+We use an event bus to publish events from the model to the other layers.

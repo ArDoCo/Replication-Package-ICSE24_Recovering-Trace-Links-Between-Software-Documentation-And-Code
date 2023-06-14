@@ -1,0 +1,1 @@
+We have extracted out the component that integrates with FreeSWITCH into it’s own application.

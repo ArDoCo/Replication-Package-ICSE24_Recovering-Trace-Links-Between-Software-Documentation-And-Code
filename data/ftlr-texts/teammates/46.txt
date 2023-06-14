@@ -1,0 +1,1 @@
+Fourth, the Action object checks the access rights of the user.

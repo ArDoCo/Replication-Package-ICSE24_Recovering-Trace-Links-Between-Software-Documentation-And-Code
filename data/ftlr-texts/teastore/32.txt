@@ -1,0 +1,1 @@
+If the user is known, Slope One as item-based collaborative filtering is applied to calculate the recommendations.

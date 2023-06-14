@@ -1,0 +1,1 @@
+Implementation of Transaction Control has been minimized due to limitations of GAE environment and the nature of our data schema.

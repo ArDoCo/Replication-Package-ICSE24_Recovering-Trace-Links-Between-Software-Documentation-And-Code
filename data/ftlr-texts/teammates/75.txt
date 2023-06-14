@@ -1,0 +1,1 @@
+It is configured in queue.xml as well as the TaskQueue nested class of the Const class.

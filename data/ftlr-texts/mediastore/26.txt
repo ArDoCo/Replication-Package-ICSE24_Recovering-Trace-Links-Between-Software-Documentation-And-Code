@@ -1,0 +1,1 @@
+When a user uploads an audio file, the MediaAccess component stores it at the predefined location.

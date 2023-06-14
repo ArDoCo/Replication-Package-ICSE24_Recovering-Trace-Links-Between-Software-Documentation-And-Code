@@ -1,0 +1,1 @@
+It implements the BigBlueButton API and holds a copy of the meeting state.

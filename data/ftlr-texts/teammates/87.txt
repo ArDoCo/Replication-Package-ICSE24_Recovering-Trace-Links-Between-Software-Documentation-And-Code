@@ -1,0 +1,1 @@
+Logic API is represented by the classes Logic, GateKeeper, EmailGenerator, EmailSender, TaskQueuer.

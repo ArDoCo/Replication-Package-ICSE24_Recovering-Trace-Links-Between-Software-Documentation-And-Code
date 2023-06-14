@@ -1,0 +1,1 @@
+The WebUI provides the TeaStore front-end using Servlets in combination with JSP files.

@@ -1,0 +1,1 @@
+As of 2.3-alpha-7, bbb-html5 uses 2 "frontend" and two "backend" processes (this value is configurable in bbb-html5-with-roles.conf, see Configuration Files).

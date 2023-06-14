@@ -1,0 +1,1 @@
+It contains logic to save and retireve values from cookies.

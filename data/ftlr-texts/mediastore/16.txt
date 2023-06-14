@@ -1,0 +1,1 @@
+The re-encoded files are then digitally and individually watermarked by the TagWatermarking component.

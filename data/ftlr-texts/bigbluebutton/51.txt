@@ -1,0 +1,1 @@
+It provides the list of users, chat, whiteboard, presentations in a meeting.

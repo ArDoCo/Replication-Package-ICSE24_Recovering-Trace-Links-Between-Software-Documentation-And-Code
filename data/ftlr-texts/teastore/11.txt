@@ -1,0 +1,1 @@
+It matches the provided product ID or UI name (the filename for images not representing a product and therefore without product ID) and the image size to a unique image identifier.

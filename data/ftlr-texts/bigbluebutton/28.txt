@@ -1,0 +1,1 @@
+If more than one backend is running, bbb-web splits the load in round-robin fashion by assigning an instanceId.

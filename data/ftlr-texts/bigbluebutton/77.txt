@@ -1,0 +1,1 @@
+The conversion process sends progress messages to the client through the Redis pubsub.

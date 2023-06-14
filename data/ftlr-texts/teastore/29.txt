@@ -1,0 +1,1 @@
+Recommendations are generated based on the users current shopping cart, the user's previous orders and/or the item the user is currently looking at.

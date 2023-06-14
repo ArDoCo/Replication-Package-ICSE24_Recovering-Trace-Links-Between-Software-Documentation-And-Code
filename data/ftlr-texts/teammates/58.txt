@@ -1,0 +1,1 @@
+Automated requests are all requests sent automatically by the GAE server during specific periods of time.

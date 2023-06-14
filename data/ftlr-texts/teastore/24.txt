@@ -1,0 +1,1 @@
+It features endpoints for general CRUD-Operations (Create, Read, Update, Delete) for the persistent entities.

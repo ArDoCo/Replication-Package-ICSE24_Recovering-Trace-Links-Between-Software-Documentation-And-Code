@@ -1,0 +1,1 @@
+Managing transactions, e.g. ensuring atomicity of a transaction.

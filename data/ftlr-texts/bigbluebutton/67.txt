@@ -1,0 +1,1 @@
+KMS is responsible for streaming of webcams, listen-only audio, and screensharing.

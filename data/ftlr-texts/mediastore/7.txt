@@ -1,0 +1,1 @@
+Application business logic is provided by a central business logic component, called the MediaManagement component.

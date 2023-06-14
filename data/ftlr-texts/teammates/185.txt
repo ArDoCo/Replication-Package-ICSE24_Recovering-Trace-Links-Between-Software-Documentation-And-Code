@@ -1,0 +1,1 @@
+The E2E component has no knowledge of the internal workings of the application and can only interact either with Web browser as a whole application or REST API calls for the back-end logic.

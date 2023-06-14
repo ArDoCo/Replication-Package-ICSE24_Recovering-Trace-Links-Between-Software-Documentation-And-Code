@@ -1,0 +1,1 @@
+Images (with few exceptions) are not provides by the WebUi, but are retrieved from the Image Provider service instead.

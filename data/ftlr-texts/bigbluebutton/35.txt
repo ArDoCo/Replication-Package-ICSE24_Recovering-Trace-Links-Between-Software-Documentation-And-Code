@@ -1,0 +1,1 @@
+BigBlueButton web application is a Java-based application written in Scala.

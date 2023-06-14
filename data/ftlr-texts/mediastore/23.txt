@@ -1,0 +1,1 @@
+The Database component represents an actual database (e.g., MySQL).

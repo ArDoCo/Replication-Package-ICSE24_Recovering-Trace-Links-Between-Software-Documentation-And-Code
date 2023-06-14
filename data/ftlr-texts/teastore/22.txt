@@ -1,0 +1,1 @@
+The Persistence service provides access to the data persisted in the relational database back-end.

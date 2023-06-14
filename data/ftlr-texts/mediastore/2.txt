@@ -1,0 +1,1 @@
+To meet the user authentication requirement, registration and log-in have to be offered.

@@ -1,0 +1,1 @@
+The user-invoked requests and the automated (GAE server-invoked) requests, which are processed differently.

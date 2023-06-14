@@ -1,0 +1,1 @@
+By limiting it to a single registry instance, it enables easy configuration of multiple parallel TeaStores with minimal configuration overhead.

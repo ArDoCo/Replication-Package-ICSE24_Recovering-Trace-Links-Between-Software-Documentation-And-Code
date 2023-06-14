@@ -1,0 +1,1 @@
+These are origin check, authentication and authorization check.

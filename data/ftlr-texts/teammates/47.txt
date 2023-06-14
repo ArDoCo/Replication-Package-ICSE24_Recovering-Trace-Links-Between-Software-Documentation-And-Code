@@ -1,0 +1,1 @@
+If the action is allowed, it will be performed, interacting with the Logic component as necessary.

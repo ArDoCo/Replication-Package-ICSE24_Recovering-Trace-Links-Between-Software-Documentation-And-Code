@@ -1,0 +1,2 @@
+The breakdown of functionality between front-end and back-end is as follows:
+Frontends receive the ValidateAuthTokenResp event to complete authentication.

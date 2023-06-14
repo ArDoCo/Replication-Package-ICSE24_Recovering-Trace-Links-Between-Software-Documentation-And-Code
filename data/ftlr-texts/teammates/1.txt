@@ -1,0 +1,1 @@
+Architecture contains UI Component, Logic Component, Storage Component, Common Component, Test Driver Component, E2E Component, Client Component.

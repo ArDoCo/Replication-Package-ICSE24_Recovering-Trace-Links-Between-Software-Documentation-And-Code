@@ -1,0 +1,1 @@
+TestNG is used for Java testing (all levels) and Jest for JavaScript unit-testing.

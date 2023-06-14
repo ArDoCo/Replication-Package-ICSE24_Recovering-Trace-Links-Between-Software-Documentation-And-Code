@@ -1,0 +1,1 @@
+Hiding the complexities of datastore from the Logic component.

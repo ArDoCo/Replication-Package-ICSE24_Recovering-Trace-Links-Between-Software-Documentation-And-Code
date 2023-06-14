@@ -1,0 +1,1 @@
+Selenium Java is used to automate E2E testing with actual Web browsers.

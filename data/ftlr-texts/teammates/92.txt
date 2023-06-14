@@ -1,0 +1,1 @@
+It connects to the email provider by using the appropriate Service class.

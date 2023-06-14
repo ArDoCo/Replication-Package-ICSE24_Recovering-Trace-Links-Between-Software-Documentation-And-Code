@@ -1,0 +1,1 @@
+The model represents the most important data structures (BibDatases, BibEntries, Events, and related aspects) and has only a little bit of logic attached.

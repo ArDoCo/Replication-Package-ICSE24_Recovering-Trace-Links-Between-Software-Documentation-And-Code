@@ -1,0 +1,1 @@
+In the UI Server the entry point for the application back end logic is designed as a REST-ful controller.

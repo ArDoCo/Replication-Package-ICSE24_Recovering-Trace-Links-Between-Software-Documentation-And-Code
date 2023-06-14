@@ -1,0 +1,1 @@
+Although this component provides methods to perform access control, the API itself is not access controlled.

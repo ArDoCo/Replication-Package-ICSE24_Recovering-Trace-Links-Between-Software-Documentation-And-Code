@@ -1,0 +1,1 @@
+Test data is transmitted using JSON format.

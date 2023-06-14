@@ -1,0 +1,1 @@
+All GQL queries are to be contained inside the Storage component.

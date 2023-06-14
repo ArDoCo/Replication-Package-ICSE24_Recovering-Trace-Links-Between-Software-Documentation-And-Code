@@ -1,0 +1,1 @@
+The following diagram gives an overview of the architecture of the HTML5 client and its communications with the other components in BigBlueButton.

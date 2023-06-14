@@ -1,0 +1,1 @@
+When a user requests files to download, the MediaAccess component fetches the associated meta-data from the Database.

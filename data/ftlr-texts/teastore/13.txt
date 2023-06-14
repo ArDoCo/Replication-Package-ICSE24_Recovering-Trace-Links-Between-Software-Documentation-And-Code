@@ -1,0 +1,1 @@
+If the product ID or UI name is found but not in the requested size, the largest image will be loaded and scaled.

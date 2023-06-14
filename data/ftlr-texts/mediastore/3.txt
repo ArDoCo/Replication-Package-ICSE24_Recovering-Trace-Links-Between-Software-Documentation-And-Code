@@ -1,0 +1,1 @@
+To this end, the Facade component delivers the corresponding registration and log-in pages to users.

@@ -1,0 +1,1 @@
+This way, read operations can be used easily for checking the existence of an entity.

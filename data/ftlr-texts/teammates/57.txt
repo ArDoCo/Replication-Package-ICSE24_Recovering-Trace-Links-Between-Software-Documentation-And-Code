@@ -1,0 +1,1 @@
+Those keys are strings known only to the person who deployed the application (typically, the administrator).

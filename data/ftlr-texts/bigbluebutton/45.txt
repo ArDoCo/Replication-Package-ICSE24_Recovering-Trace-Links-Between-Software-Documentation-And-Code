@@ -1,0 +1,1 @@
+Redis PubSub provides a communication channel between different applications running on the BigBlueButton server.

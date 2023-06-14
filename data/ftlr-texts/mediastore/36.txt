@@ -1,0 +1,1 @@
+When a user uploads a file, it will be stored in the DataStorage without any change.

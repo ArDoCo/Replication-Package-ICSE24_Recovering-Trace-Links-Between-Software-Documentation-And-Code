@@ -1,0 +1,1 @@
+For example, an object we deleted may appear to still exist for a short while.

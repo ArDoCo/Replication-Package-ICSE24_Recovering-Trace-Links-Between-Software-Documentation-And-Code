@@ -1,0 +1,1 @@
+All salted hashes of passwords are also stored in the Database component.

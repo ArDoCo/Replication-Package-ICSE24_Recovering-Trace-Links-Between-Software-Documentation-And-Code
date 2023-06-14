@@ -1,0 +1,1 @@
+Package overview contains e2e.util, e2e.pageobjects, e2e.cases, x.util, x.e2e, x.lnp.

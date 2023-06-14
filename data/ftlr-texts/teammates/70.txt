@@ -1,0 +1,1 @@
+These configurations are cron jobs or task queue workers.

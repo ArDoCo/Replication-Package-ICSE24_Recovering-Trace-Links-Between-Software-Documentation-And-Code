@@ -1,0 +1,1 @@
+x.automated contains system test cases for testing the system-automated actions (manually invoked during testing).

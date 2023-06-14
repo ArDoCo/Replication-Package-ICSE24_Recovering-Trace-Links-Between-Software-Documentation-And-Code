@@ -1,0 +1,1 @@
+User-invoked requests are all requests made by the users of the application, typically from the Web browser (i.e. by navigating to a particular URL of the application).

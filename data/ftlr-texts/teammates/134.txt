@@ -1,0 +1,1 @@
+Note that the navigability of the association links between entity objects appear to be in the reverse direction of what we see in a normal OOP design.

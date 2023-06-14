@@ -1,0 +1,1 @@
+It maps the relational entities to the JSON entity objects passed between services using the EclipseLink JPA ORM mapper.

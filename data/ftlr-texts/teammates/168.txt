@@ -1,0 +1,1 @@
+This component automates the testing of TEAMMATES.

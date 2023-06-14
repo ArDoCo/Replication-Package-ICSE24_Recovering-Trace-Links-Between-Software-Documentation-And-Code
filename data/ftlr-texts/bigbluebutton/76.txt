@@ -1,0 +1,1 @@
+The PDF document is then converted into scalable vector graphics (SVG) via bbb-web.
