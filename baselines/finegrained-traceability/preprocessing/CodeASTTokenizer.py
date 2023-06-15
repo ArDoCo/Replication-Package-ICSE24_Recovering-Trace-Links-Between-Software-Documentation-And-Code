@@ -26,11 +26,18 @@ class JavaCodeASTTokenizer(Tokenizer.Tokenizer):
 
     def tokenize(self, file_path):
         text_as_string = FileUtil.read_textfile_into_string(file_path, self._dataset.encoding())
-        tree = javalang.parse.parse(text_as_string)
+        try:
+            tree = javalang.parse.parse(text_as_string)
+        except Exception:
+            raise javalang.parser.JavaParserError()
+
         JavaLangUtil.COMMENT_TOKENIZER = self._tokenizer_for_comments
         file_name = FileUtil.get_filename_from_path(file_path)
         class_objects = [JavaLangUtil.extract_type(node, file_name) for node in tree.types]
-        return CodeFileRepresentation(class_objects, file_path)
+        if not all(x is None for x in class_objects):
+            return CodeFileRepresentation(class_objects, file_path)
+        else:
+            raise NoClassifierFoundError()
 
 
 class CCodeASTTokenizer(Tokenizer.Tokenizer):
@@ -49,6 +56,10 @@ class FileExtensionNotSupportedError(Exception):
     pass
 
 
+class NoClassifierFoundError(Exception):
+    pass
+
+
 class MixedASTTokenizer(Tokenizer.Tokenizer):
 
 
@@ -61,10 +72,16 @@ class MixedASTTokenizer(Tokenizer.Tokenizer):
         text_as_string = FileUtil.read_textfile_into_string(file_path, self._dataset.encoding())
         file_name = FileUtil.get_filename_from_path(file_path)
         if file_name.endswith(".java"):
-            tree = javalang.parse.parse(text_as_string)
+            try:
+                tree = javalang.parse.parse(text_as_string)
+            except Exception:
+                raise JavaParserError()
             JavaLangUtil.COMMENT_TOKENIZER = self._tokenizer_for_java_comments
             class_objects = [JavaLangUtil.extract_type(node, file_name) for node in tree.types]
-            return CodeFileRepresentation(class_objects, file_path)
+            if not all(x is None for x in class_objects):
+                return CodeFileRepresentation(class_objects, file_path)
+            else:
+                raise NoClassifierFoundError()
         elif file_name.endswith(".jsp"):
             class_name = IdentifierString(file_name, file_name.replace(".jsp", ""))
             return CodeFileRepresentation([Classifier(class_name, IdentifierString(file_name, ""))], file_path)
