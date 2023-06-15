@@ -1,27 +1,12 @@
-
-from TraceabilityRunner import BaseLineRunner, BaseLineCDRunner, \
-    BaseLineUCTRunner, BaseLineMCRunner, \
-    BaseLineUCTMCRunner, BaseLineUCTCDRunner, BaseLineUCTMCCDRunner, \
-    BaseLineMCCDRunner, OUTPUT_DIR, BaseLineUCTMCCDCCRunner, FileLevelWMDRunner,FileLevelWMDUCTRunner, FileLevelWMDMCRunner, \
-    FileLevelWMDUCTMCRunner, FileLevelAvgRunner, FileLevelAvgUCTRunner, FileLevelAvgMCRunner, FileLevelAvgUCTMCRunner, \
-    ElementLevelAvgRunner, ElementLevelAvgCDRunner, ElementLevelAvgMCRunner, ElementLevelAvgUCTRunner, \
-    ElementLevelAvgUCTMCRunner, ElementLevelAvgMCCDRunner, ElementLevelAvgUCTCDRunner, ElementLevelAvgUCTMCCDRunner
-from traceLinkProcessing.ElementFilter import ElementFilter, NFRElementFilter, OnlyQualityElementFilter, \
-    QualityElementFilter,  DataElementFilter, BehaviorElementFilter, \
-    BehaviorAndQualityElementFilter, FuncConcernsElementFilter, \
-    FuncConcernsNFRElementFilter, BehaviorAndNonFunctionalElementFilter, \
-    UserRelatedElementFilter, UserRelatedNFRElementFilter, \
-    UserRelatedBehaviorNFRElementFilter
-from datasets.Dataset import MediaStore, JabRef, TeaStore, Teammates, BigBlueButton
-from utility import Util
+from TraceabilityRunner import BaseLineMCRunner, \
+    OUTPUT_DIR, FileLevelWMDMCRunner, \
+    FileLevelAvgMCRunner
+from datasets.Dataset import MediaStore, Teammates, TeaStore, BigBlueButton, JabRef
 from utility.FileUtil import setup_clear_dir
 
-ENGLISH_FASTTEXT_MODEL_PATH = "/mnt/raid1/diss/INDIRECT/models/cc.en.300.bin"
-ITALIAN_FASTTEXT_MODEL_PATH = "/mnt/raid1/diss/INDIRECT/models/cc.it.300.bin"
+ENGLISH_FASTTEXT_MODEL_PATH = "/../models/cc.en.300.bin"
+ITALIAN_FASTTEXT_MODEL_PATH = "/../models/cc.it.300.bin"
 models = {'english': ENGLISH_FASTTEXT_MODEL_PATH, 'italian': ITALIAN_FASTTEXT_MODEL_PATH}
-
-FINAL_THRESHOLDS = [0.44]
-MAJORITY_THRESHOLDS = [0.59]
 
 setup_clear_dir(OUTPUT_DIR)
 
@@ -33,24 +18,52 @@ PRECALCULATION EXAMPLE
 3. Caution: With matrix_file_path=None, artifact_map_file_path=None the output precalculated files will be written
             to their default location which will overwrite the existing files. Change the location to avoid this.
 
-b = BaseLineRunner(Etour())
-b.precalculate(ENGLISH_FASTTEXT_MODEL_PATH, matrix_file_path=None, artifact_map_file_path=None)
+b = BaseLineMCRunner(MediaStore())
+b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
 
 """
+FTLR_DEFAULT_FINAL_THRESHOLD = 0.44
+FTLR_DEFAULT_MAJORITY_THRESHOLD = 0.59
 
-b = BaseLineMCRunner(MediaStore(), use_types=True)
-#b = BaseLineMCRunner(Teammates(), use_types=True)
-#b = BaseLineMCRunner(TeaStore(), use_types=True)
-#b = BaseLineMCRunner(BigBlueButton(), use_types=True)
-#b = BaseLineMCRunner(JabRef(), use_types=True)
-#b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
+b = BaseLineMCRunner(MediaStore())
+# b = BaseLineMCRunner(Teammates())
+# b = BaseLineMCRunner(TeaStore())
+# b = BaseLineMCRunner(BigBlueButton())
+# b = BaseLineMCRunner(JabRef())
+b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
 
-FINAL_THRESHOLDS = Util.get_range_array(0.4, 0.70, 0.001)  # [0.4, 0.41, ..., 0.5]
-MAJORITY_THRESHOLDS = Util.get_range_array(0.53, 0.63, 0.001)  # [0.53, 0.54, ..., 0.63]
+# b.calculate_f1([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD])
+# b.calculate_f1_and_map([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD])
+b.output_trace_links([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD], matrix_file_path=None,
+                     artifact_map_file_path=None, final=FTLR_DEFAULT_FINAL_THRESHOLD,
+                     maj=FTLR_DEFAULT_MAJORITY_THRESHOLD)
 
-#b.calculate_f1(FINAL_THRESHOLDS, MAJORITY_THRESHOLDS)
-#b.calculate_f1_and_map(FINAL_THRESHOLDS, MAJORITY_THRESHOLDS)
-b.output_trace_links([0.44],[0.59])
+"""
+FileLevelWMD Variant
+"""
+FILE_LEVEL_WMD_DEFAULT_THRESHOLD = 0.506
 
+b = FileLevelWMDMCRunner(MediaStore())
+# b = FileLevelWMDMCRunner(Teammates())
+# b = FileLevelWMDMCRunner(TeaStore())
+# b = FileLevelWMDMCRunner(BigBlueButton())
+# b = FileLevelWMDMCRunner(JabRef())
+b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
+b.output_trace_links([FILE_LEVEL_WMD_DEFAULT_THRESHOLD], [FILE_LEVEL_WMD_DEFAULT_THRESHOLD], matrix_file_path=None,
+                     artifact_map_file_path=None, final=FILE_LEVEL_WMD_DEFAULT_THRESHOLD,
+                     maj=FILE_LEVEL_WMD_DEFAULT_THRESHOLD)
 
+"""
+FileLevel Average Cosine Distance Variant
+"""
+FILE_LEVEL_AVG_DEFAULT_THRESHOLD = 0.741
 
+b = FileLevelAvgMCRunner(MediaStore())
+# b = FileLevelAvgMCRunner(Teammates())
+# b = FileLevelAvgMCRunner(TeaStore())
+# b = FileLevelAvgMCRunner(BigBlueButton())
+# b = FileLevelAvgMCRunner(JabRef())
+b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
+b.output_trace_links([FILE_LEVEL_AVG_DEFAULT_THRESHOLD], [FILE_LEVEL_AVG_DEFAULT_THRESHOLD], matrix_file_path=None,
+                     artifact_map_file_path=None, final=FILE_LEVEL_AVG_DEFAULT_THRESHOLD,
+                     maj=FILE_LEVEL_AVG_DEFAULT_THRESHOLD)
