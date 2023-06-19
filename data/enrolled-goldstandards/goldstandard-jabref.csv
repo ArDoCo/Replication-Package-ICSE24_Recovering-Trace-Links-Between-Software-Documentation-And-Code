@@ -1,3 +1,4 @@
+modelElementID,sentence
 1,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java
 1,buildSrc/src/copied/java/org/jabref/logic/journals/Abbreviation.java
 1,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationWriter.java
