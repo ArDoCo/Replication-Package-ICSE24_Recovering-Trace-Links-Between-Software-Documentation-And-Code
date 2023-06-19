@@ -14,4 +14,4 @@ java -jar evaluator.jar -t ../results/raw/ArDoCo/sadCodeTlr_teammates.csv -g ../
 echo "TeaStore"
 java -jar evaluator.jar -t ../results/raw/ArDoCo/sadCodeTlr_teastore.csv -g ../data/enrolled-goldstandards/goldstandard-teastore.csv -c 8815
 
-read -p "Press Any Key To Close..."
+read -p "Press Enter To Close..."
