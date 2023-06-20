@@ -35,8 +35,8 @@ public record EvaluationResults<T>(double precision, double recall, double f1, I
 
         // There are no true negatives set, so we cannot calculate the other metrics
         if (nrTrueNeg <= 0) {
-            return new EvaluationResults<>(precision, recall, f1, matrix.truePositives(), matrix.trueNegatives(), matrix.falseNegatives(), matrix
-                    .falsePositives(), accuracy, phiCoefficient, specificity, phiCoefficientMax, phiOverPhiMax);
+            return new EvaluationResults<>(precision, recall, f1, matrix.truePositives(), matrix.trueNegatives(), matrix.falseNegatives(),
+                    matrix.falsePositives(), accuracy, phiCoefficient, specificity, phiCoefficientMax, phiOverPhiMax);
         }
 
         if (nrTruePos + nrFalsePos + nrFalseNeg + nrTrueNeg != 0) {
@@ -64,10 +64,20 @@ public record EvaluationResults<T>(double precision, double recall, double f1, I
 
     public String getResultsString() {
         StringBuilder outputBuilder = new StringBuilder();
-        outputBuilder.append(String.format(Locale.ENGLISH, "%n\tPrecision:%8.2f%n\tRecall:%11.2f%n\tF1:%15.2f", precision, recall, f1));
+        outputBuilder.append(String.format(Locale.ENGLISH, "%nPrecision:%8.2f%nRecall:%11.2f%nF1:%15.2f", precision, recall, f1));
         if (trueNegatives > 0) {
-            outputBuilder.append(String.format(Locale.ENGLISH, "%n\tAccuracy:%9.2f%n\tSpecificity:%6.2f", accuracy, specificity));
-            outputBuilder.append(String.format(Locale.ENGLISH, "%n\tPhi Coef.:%8.2f", phiCoefficient));
+            outputBuilder.append(String.format(Locale.ENGLISH, "%nAccuracy:%9.2f%nSpecificity:%6.2f", accuracy, specificity));
+            outputBuilder.append(String.format(Locale.ENGLISH, "%nPhi Coef.:%8.2f", phiCoefficient));
+        }
+
+        return outputBuilder.toString();
+    }
+
+    public String getMinimizedResultsString() {
+        StringBuilder outputBuilder = new StringBuilder();
+        outputBuilder.append(String.format(Locale.ENGLISH, "%.2f;%.2f;%.2f", precision, recall, f1));
+        if (trueNegatives > 0) {
+            outputBuilder.append(String.format(Locale.ENGLISH, ";%.2f;%.2f;%.2f", accuracy, specificity, phiCoefficient));
         }
 
         return outputBuilder.toString();
