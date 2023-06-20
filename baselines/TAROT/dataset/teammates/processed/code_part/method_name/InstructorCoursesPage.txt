@@ -1,0 +1,66 @@
+instructor cours page 
+expect page content 
+activ cours tabl 
+archiv cours tabl 
+delet cours tabl 
+verifi activ cours detail 
+verifi activ cours statist 
+verifi archiv cours detail 
+verifi delet cours detail 
+verifi modifi 
+verifi num activ cours 
+verifi num archiv cours 
+verifi num delet cours 
+add cours 
+show statist 
+archiv cours 
+copi cours 
+move cours recycl bin 
+unarch cours 
+move archiv cours recycl bin 
+show delet tabl 
+show archiv tabl 
+restor cours 
+delet cours 
+restor cours 
+delet cours 
+sort cours 
+sort cours id 
+activ tabl row 
+archiv tabl row 
+delet tabl row 
+cours detail 
+date string 
+delet cours detail 
+restor button 
+delet button 
+select cours institut 
+select time zone 
+select copi time zone 
+show statist link 
+action button 
+archiv button 
+copi button 
+move recycl bin button 
+unarch button 
+move archiv recycl bin button 
+restor button 
+delet button 
+cours count 
+archiv cours count 
+delet cours count 
+row number cours 
+row number archiv cours 
+row number delet cours 
+cours id cell 
+archiv cours id cell 
+delet cours id cell 
+show statist link row 
+action button row 
+archiv button row 
+copi button row 
+move recycl bin button row 
+unarch button row 
+move archiv recycl bin button row 
+restor button row 
+delet button row 

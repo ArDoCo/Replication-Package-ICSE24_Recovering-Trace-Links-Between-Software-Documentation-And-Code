@@ -1,0 +1,4 @@
+view model 
+search pane 
+progress indic 
+citat display 

@@ -1,0 +1,10 @@
+entri 
+map 
+field 
+author 
+type 
+field 
+standard num 
+map 
+standard num 
+map 

@@ -1,0 +1,2 @@
+bib databas 
+purg empti entri 

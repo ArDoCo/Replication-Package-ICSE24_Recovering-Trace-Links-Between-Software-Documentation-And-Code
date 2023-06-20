@@ -1,0 +1,4 @@
+compon case:compound
+test case:compound
+storag compon:compound
+compon test:obj

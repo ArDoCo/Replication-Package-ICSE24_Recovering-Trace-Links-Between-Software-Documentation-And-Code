@@ -1,0 +1,5 @@
+data transfer:obj
+construct data:dep
+home page:compound
+page construct:obj
+instructor construct:obl

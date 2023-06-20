@@ -1,0 +1,8 @@
+refer mark kind 
+footnot mark kind 
+cursor mark kind 
+bibliographi mark kind 
+rang 
+kind 
+id kind 
+descript 

@@ -1,0 +1,4 @@
+bib entri 
+citat style output format 
+bib entri type manag 
+citat style output format 

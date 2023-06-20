@@ -1,0 +1,136 @@
+role moder 
+role attende 
+
+ext meet id 
+int meet id 
+parent meet id 
+sequenc 
+free join 
+captur slide 
+captur note 
+captur slide filenam 
+captur note filenam 
+durat 
+creat time 
+start time 
+time 
+forcibl 
+tel voic 
+web voic 
+moder pass 
+viewer pass 
+learn dashboard cleanup delay minut 
+learn dashboard access token 
+disabl featur 
+disabl featur 
+notifi record 
+welcom msg templat 
+welcom msg 
+mod onli messag 
+logout url 
+logout timer 
+max user 
+banner color 
+banner text 
+record 
+auto start record 
+start stop record 
+record mark 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+dial number 
+default avatar url 
+guest polici 
+guest lobbi messag 
+user guest lobbi messag 
+user guest lobbi messag 
+authent guest 
+meet layout 
+user join 
+guest user posit wait line 
+guest user posit wait line 
+metadata 
+metadata 
+user custom data 
+user custom data 
+user 
+user 
+regist user 
+regist user 
+enter user 
+enter user 
+breakout 
+breakout room 
+breakout room 
+group 
+group 
+custom logo url 
+custom copyright 
+mute start 
+mod unmut user 
+request session 
+mod eject camera 
+meet event 
+present upload extern descript 
+present upload extern url 
+meet expir user join minut 
+meet expir user left minut 
+user inact inspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+moder 
+moder delay minut 
+breakout room param 
+lock set param 
+max user concurr access 
+meet callback url 
+html instanc id 
+
+extern id 
+intern id 
+max user 
+record 
+auto start record 
+start stop record 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+moder pass 
+viewer pass 
+learn dashboard cleanup delay minut 
+learn dashboard access token 
+disabl featur 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+durat 
+web voic 
+tel voic 
+welcom msg templat 
+welcom msg 
+logout url 
+banner color 
+banner text 
+logout timer 
+metadata 
+metadata 
+dial number 
+default avatar url 
+creat time 
+breakout 
+guest polici 
+authent guest 
+request session 
+meet layout 
+breakout room param 
+lock set param 
+max user concurr access 
+moder 
+moder delay minut 
+html instanc id 
+group 
+group 

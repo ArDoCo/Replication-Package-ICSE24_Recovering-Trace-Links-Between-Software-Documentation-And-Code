@@ -1,0 +1,5 @@
+save configur 
+prefer servic 
+entri type manag 
+git handler 
+temp repositori directori 

@@ -1,0 +1,6 @@
+logger 
+max amount result fetcher 
+activ fetcher 
+activ fetcher 
+search queri 
+search queri 

@@ -1,0 +1,6 @@
+valid auth token resp pass:nsubj
+backend pass:xcomp
+frontend backend:appos
+dev environ:compound
+environ frontend:nmod
+scale care:obl

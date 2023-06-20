@@ -1,0 +1,8 @@
+pars entri 
+file dir databas 
+pref 
+formatt 
+bibtex 
+databas 
+databas context 
+encod 

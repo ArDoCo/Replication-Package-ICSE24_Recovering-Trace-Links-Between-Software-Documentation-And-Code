@@ -1,0 +1,4 @@
+group view mode intersect 
+group view mode union 
+auto assign group 
+display group count 

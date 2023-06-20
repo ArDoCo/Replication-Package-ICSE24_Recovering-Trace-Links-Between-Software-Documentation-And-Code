@@ -1,0 +1,5 @@
+set 
+journal accept list 
+journal doe accept list 
+journal titl doe accept random input titl 
+journal doe accept random input titl 

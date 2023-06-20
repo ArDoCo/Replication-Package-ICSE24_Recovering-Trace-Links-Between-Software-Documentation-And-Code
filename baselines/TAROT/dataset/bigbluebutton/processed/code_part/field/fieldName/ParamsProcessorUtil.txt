@@ -1,0 +1,82 @@
+log 
+urldecod separ 
+filterdecod separ element 
+filterdecod separ oper 
+server url 
+dial num 
+conf num 
+conf 
+api version 
+servic enabl 
+secur salt 
+support checksum algorithm 
+checksum hash 
+default max user 
+default welcom messag 
+default welcom messag footer 
+default dial access number 
+test voic bridg 
+test confer mock 
+default logout url 
+default server url 
+default num digit tel voic 
+default html client url 
+default guest wait url 
+request session 
+default http session timeout 
+default avatar 
+default avatar url 
+default guest polici 
+authent guest 
+default meet layout 
+default meet durat 
+disabl record default 
+auto start record 
+start stop record 
+learn dashboard enabl 
+learn dashboard cleanup delay minut 
+webcam onli moder 
+default meet camera cap 
+default user camera cap 
+default max pin camera 
+default mute start 
+default mod unmut user 
+default mod eject camera 
+default disabl featur 
+default notifi record 
+default event 
+default logo 
+default logo url 
+default present upload extern descript 
+default present upload extern url 
+default breakout room enabl 
+default breakout room record 
+default breakout room captur slide 
+default breakout room captur note 
+default breakout room captur slide filenam 
+default breakout room captur note filenam 
+defaultbreakout room privat chat enabl 
+default lock set disabl cam 
+default lock set disabl mic 
+default lock set disabl privat chat 
+default lock set disabl public chat 
+default lock set disabl note 
+default lock set hide user list 
+default lock set lock join 
+default lock set lock join configur 
+default lock set hide viewer cursor 
+max present file upload 
+client logout timer minut 
+default meet expir user join minut 
+default meet expir user left minut 
+user inact inspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+default duplic ext userid 
+max user concurr access 
+default moder 
+default moder delay minut 
+default html instanc id 
+bbb version 
+reveal bbb version 
+meta var pattern 

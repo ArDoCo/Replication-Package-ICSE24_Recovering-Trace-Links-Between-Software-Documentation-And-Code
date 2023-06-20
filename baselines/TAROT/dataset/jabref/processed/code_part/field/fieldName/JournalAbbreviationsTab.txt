@@ -1,0 +1,23 @@
+load label 
+progress indic 
+journal abbrevi tabl 
+journal abbrevi tabl 
+journal tabl column 
+journal tabl column 
+journal tabl abbrevi column 
+journal tabl abbrevi column 
+journal tabl shortest uniqu abbrevi column 
+journal tabl shortest uniqu abbrevi column 
+action column 
+action column 
+filter abbrevi 
+filter abbrevi 
+journal file box 
+journal file box 
+add abbrevi button 
+remov abbrevi list button 
+search box 
+journal 
+task executor 
+abbrevi repositori 
+invalid search 

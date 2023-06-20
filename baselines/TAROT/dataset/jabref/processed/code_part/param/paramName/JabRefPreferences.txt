@@ -1,0 +1,73 @@
+valu 
+convert 
+data 
+key 
+key 
+key 
+key 
+def 
+key 
+key 
+def 
+key 
+key 
+key 
+key 
+key 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+key 
+valu 
+key 
+key 
+default valu 
+key 
+pref 
+result 
+pref 
+key 
+key 
+prefix 
+number 
+path 
+file 
+repositori 
+key bind repositori 
+preview style 
+bib databas mode 
+mode 
+entri type manag 
+bib entri type 
+bib databas mode 
+mode 
+custom tab 
+pattern 
+column list 
+column width list 
+sort type list 
+default width 
+sort order list 
+tabl column 
+column prefer 
+column prefer 
+column prefer 
+column prefer 
+save order 
+abbrevi repositori 
+export 
+style 
+layout 
+visibl pane 
+prefer posit 
+histori 
+import 
+fetcher api key 

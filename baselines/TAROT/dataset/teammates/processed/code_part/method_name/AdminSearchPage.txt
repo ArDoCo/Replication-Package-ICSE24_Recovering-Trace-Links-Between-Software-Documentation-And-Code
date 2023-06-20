@@ -1,0 +1,59 @@
+admin search page 
+expect page content 
+input search content 
+clear search box 
+click search button 
+regener student key 
+regener instructor key 
+click expand student link 
+click expand instructor link 
+click expand account request link 
+click collaps student link 
+click collaps instructor link 
+click collaps account request link 
+remov span text 
+student row 
+student detail 
+student 
+student googl id 
+student home link 
+student institut 
+student comment 
+student manag account link 
+student email 
+student join link 
+student join link 
+reset student googl id 
+instructor row 
+instructor cours id 
+instructor 
+instructor googl id 
+instructor home page link 
+instructor institut 
+instructor manag account link 
+instructor email 
+instructor join link 
+instructor join link 
+reset instructor googl id 
+account request row 
+account request 
+account request email 
+account request institut 
+account request creat 
+account request regist 
+account request registr link 
+click delet account request button 
+click reset account request button 
+num expand row 
+column text 
+column link 
+expand row input valu 
+verifi student row content 
+verifi student expand link 
+verifi instructor row content 
+verifi instructor expand link 
+verifi account request row content 
+verifi account request expand link 
+verifi link expans button 
+verifi regener student key 
+verifi regener instructor key 

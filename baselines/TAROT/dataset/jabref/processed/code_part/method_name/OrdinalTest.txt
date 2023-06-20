@@ -1,0 +1,7 @@
+test empti 
+test null 
+test singl digit 
+test multi digit 
+test alreadi ordin 
+test full sentenc 
+test letter 

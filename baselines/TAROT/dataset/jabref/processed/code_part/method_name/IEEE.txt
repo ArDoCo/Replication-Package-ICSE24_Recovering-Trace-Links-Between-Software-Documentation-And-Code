@@ -1,0 +1,10 @@
+ieee 
+pars json respons 
+find full text 
+trust level 
+parser 
+
+page 
+api key 
+test url 
+url queri 

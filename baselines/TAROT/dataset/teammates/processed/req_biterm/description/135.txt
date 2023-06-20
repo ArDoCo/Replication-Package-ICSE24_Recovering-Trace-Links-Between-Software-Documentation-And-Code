@@ -1,0 +1,6 @@
+data schema:compound
+entiti type:compound
+type ad:nsubj
+minim modif:amod
+exist element:amod
+element ad:obl

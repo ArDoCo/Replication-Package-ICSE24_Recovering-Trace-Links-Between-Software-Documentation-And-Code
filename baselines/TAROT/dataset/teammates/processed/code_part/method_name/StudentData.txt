@@ -1,0 +1,18 @@
+student data 
+email 
+cours id 
+
+googl id 
+comment 
+join state 
+team 
+section 
+key 
+institut 
+set googl id 
+set comment 
+set join state 
+set key 
+set institut 
+hide inform student 
+add addit inform admin search 

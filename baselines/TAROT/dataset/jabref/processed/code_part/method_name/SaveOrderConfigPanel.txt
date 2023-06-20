@@ -1,0 +1,15 @@
+save order config panel 
+initi 
+creat criterion row 
+creat row button 
+clear criterion row 
+set criteria limit 
+add criterion 
+move criterion 
+move criterion 
+remov criterion 
+save origin properti 
+save tabl order properti 
+save specifi order properti 
+sortabl field properti 
+sort criteria properti 

@@ -1,0 +1,6 @@
+remov redund 
+replac 
+replac everi 
+move number oper 
+move number equat 
+escap percent sign onc 

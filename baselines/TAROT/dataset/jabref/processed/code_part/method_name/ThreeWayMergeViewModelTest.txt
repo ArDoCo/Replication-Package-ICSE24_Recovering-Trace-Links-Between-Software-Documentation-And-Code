@@ -1,0 +1,7 @@
+setup 
+visibl field return sort list field entri type head list 
+visibl field duplic 
+visibl field entri type field head list 
+visibl field intern field left entri 
+visibl field includ custom field 
+intern field 

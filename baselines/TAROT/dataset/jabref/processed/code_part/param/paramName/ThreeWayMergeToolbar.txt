@@ -1,0 +1,15 @@
+plain text diff 
+string 
+diff view 
+string 
+diff view 
+show diff 
+diff highlight method 
+click 
+click 
+valu 
+
+str 
+valu 
+
+str 

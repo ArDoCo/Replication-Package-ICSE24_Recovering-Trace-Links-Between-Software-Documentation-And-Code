@@ -1,0 +1,8 @@
+pdf document:compound
+document convert:nsubj
+scalabl graphic:amod
+vector graphic:compound
+graphic convert:obl
+svg graphic:appos
+bbb web:compound
+web convert:obl

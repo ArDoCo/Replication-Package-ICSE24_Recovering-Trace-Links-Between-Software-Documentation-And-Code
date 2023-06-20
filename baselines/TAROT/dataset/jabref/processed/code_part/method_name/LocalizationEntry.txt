@@ -1,0 +1,9 @@
+local entri 
+path 
+key 
+id 
+equal 
+hash code 
+bundl 
+string 
+compar 

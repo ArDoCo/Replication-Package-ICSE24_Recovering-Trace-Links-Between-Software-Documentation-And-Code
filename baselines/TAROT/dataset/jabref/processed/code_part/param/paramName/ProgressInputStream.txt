@@ -1,0 +1,8 @@
+
+max num byte 
+ 
+
+len 
+ 
+readlimit 
+num byte read 

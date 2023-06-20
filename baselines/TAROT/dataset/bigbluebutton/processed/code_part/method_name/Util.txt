@@ -1,0 +1,2 @@
+delet directori 
+delet directori file handl error 

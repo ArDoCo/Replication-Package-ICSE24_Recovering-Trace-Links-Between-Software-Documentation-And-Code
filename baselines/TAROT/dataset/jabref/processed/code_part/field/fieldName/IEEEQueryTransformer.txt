@@ -1,0 +1,4 @@
+stop word 
+stop word 
+journal 
+articl number 

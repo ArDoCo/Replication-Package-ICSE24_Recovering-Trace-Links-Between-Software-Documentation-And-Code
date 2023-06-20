@@ -1,0 +1,13 @@
+numer field compar 
+
+
+val 
+val 
+number 
+number 
+
+
+compar 
+pars int 
+number 
+

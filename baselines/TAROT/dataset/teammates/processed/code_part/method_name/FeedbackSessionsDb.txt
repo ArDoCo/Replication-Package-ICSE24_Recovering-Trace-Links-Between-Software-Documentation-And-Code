@@ -1,0 +1,29 @@
+feedback session db 
+inst 
+ongo session 
+feedback session 
+soft delet feedback session 
+feedback session cours 
+feedback session cours start 
+soft delet feedback session cours 
+feedback session possibl open email 
+feedback session possibl close email 
+feedback session possibl close email 
+feedback session possibl open email 
+feedback session possibl publish email 
+updat feedback session 
+soft delet feedback session 
+restor delet feedback session 
+delet feedback session 
+delet feedback session 
+feedback session entiti cours 
+feedback session entiti cours start 
+feedback session entiti possibl open email 
+feedback session entiti possibl open email 
+feedback session entiti possibl close email 
+feedback session entiti possibl close email 
+feedback session entiti possibl publish email 
+feedback session entiti 
+load 
+exist entiti 
+attribut 

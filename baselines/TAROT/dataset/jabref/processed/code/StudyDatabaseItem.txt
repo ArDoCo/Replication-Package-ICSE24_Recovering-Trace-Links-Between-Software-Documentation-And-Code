@@ -1,0 +1,23 @@
+studi databas item 
+
+enabl 
+
+
+
+enabl 
+
+enabl 
+ 
+
+
+studi databas item 
+
+set 
+properti 
+enabl 
+set enabl 
+enabl properti 
+string 
+equal 
+hash code 
+

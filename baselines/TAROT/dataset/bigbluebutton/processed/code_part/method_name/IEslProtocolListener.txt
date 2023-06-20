@@ -1,0 +1,4 @@
+auth respons receiv 
+event receiv 
+disconnect 
+caught 

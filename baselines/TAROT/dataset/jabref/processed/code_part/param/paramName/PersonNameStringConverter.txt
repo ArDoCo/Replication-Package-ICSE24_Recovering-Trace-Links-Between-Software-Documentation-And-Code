@@ -1,0 +1,6 @@
+auto comp ff 
+auto comp lf 
+auto complet mode 
+prefer 
+author 
+string 

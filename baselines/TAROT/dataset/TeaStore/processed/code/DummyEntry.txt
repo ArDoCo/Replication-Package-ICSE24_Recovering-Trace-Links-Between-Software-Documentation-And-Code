@@ -1,0 +1,18 @@
+dummi entri 
+data 
+
+store imag 
+
+data 
+obj 
+
+store imag 
+
+dummi entri 
+
+byte size 
+id 
+data 
+hash code 
+equal 
+

@@ -1,0 +1,7 @@
+set 
+bib tex accept note capit letter 
+bib tex accept note capit letter doe care rest 
+bib tex doe accept lowercas letter 
+bib la tex accept note capit letter 
+bib tex accept url 
+bib la tex accept lowercas letter 

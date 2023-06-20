@@ -1,0 +1,3 @@
+logger 
+doi url 
+pdf url 

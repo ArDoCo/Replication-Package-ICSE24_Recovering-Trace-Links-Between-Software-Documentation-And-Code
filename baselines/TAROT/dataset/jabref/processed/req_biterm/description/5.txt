@@ -1,0 +1,13 @@
+model repres:nsubj
+import structur:amod
+data structur:compound
+structur repres:iobj
+bib datas bib entri:compound
+bib entri structur:dep
+event structur:dep
+event bib entri:conj
+relat aspect:amod
+aspect structur:dep
+aspect bib entri:conj
+logic bit:nmod
+attach logic:acl

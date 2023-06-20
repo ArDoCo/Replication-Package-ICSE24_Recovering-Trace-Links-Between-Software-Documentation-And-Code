@@ -1,0 +1,7 @@
+min auth level 
+check specif access control 
+execut 
+student cours 
+instructor cours 
+cours 
+soft delet cours 

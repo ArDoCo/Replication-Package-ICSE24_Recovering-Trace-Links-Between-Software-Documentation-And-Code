@@ -1,0 +1,16 @@
+db manag 
+em 
+
+
+file 
+id 
+user id 
+
+
+save audio file 
+audio 
+audio id 
+clear tabl 
+clear user 
+audio count 
+

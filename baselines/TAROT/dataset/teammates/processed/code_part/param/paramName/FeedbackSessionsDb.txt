@@ -1,0 +1,25 @@
+rang start 
+rang 
+cours id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+cours id 
+
+cours id 
+updat option 
+feedback session 
+cours id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+queri 
+cours id 
+cours id 
+
+feedback session 
+cours id 
+entiti creat 
+entiti 

@@ -1,0 +1,15 @@
+databas context 
+cleanup renam pdf label 
+clean doi 
+clean eprint 
+clean issn 
+clean move pdf 
+clean path relat 
+clean renam pdf 
+clean renam pd fon relat path 
+clean upgrad extern link 
+clean biblatex 
+clean bibtex 
+clean timestamp creation date 
+clean timestamp modif date 
+formatt cleanup panel 

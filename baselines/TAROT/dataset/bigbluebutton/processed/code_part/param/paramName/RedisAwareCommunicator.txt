@@ -1,0 +1,7 @@
+password 
+event 
+log 
+client 
+host 
+port 
+expir key 

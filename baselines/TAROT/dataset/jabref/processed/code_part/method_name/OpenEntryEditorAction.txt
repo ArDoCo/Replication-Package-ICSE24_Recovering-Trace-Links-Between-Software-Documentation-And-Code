@@ -1,0 +1,2 @@
+open entri editor action 
+execut 

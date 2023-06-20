@@ -1,0 +1,5 @@
+salt hash:amod
+hash store:nsubj
+password hash:nmod
+databas compon:compound
+compon store:obl

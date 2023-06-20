@@ -1,0 +1,7 @@
+bezier path iter 
+bezier path iter 
+wind rule 
+
+
+current segment 
+current segment 

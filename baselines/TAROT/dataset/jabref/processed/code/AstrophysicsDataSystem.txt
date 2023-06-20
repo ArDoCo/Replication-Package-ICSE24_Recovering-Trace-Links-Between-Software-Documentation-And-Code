@@ -1,0 +1,52 @@
+trophys data system 
+api search url 
+api export url 
+api key 
+prefer 
+import prefer 
+
+import format prefer 
+import prefer 
+
+prefer 
+import prefer 
+bibcod 
+lucen queri 
+page number 
+entri 
+identifi 
+entri 
+entri 
+url 
+identifi 
+identifi 
+lucen queri 
+lucen queri 
+page number 
+url 
+
+import format prefer 
+import prefer 
+bib entri 
+bib entri 
+bib entri 
+
+trophys data system 
+build post data 
+ur lfor export 
+
+api key 
+url queri 
+url entri 
+url identifi 
+page 
+parser 
+post cleanup 
+perform search 
+fetch bibcod 
+perform search id 
+perform search id 
+perform search 
+perform search page 
+url download 
+

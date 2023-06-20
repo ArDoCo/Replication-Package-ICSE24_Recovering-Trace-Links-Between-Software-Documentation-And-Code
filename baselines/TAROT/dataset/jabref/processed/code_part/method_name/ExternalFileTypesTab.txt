@@ -1,0 +1,5 @@
+extern file type tab 
+tab 
+initi 
+add type 
+reset default 

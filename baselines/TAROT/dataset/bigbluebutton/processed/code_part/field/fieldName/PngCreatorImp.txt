@@ -1,0 +1,7 @@
+log 
+page number pattern 
+blank png 
+slide width 
+conv timeout 
+wait sec 
+temp png 

@@ -1,0 +1,3 @@
+diff mode 
+pars 
+display text 

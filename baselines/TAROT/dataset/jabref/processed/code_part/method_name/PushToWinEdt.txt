@@ -1,0 +1,4 @@
+push win edt 
+display 
+applic icon 
+command line 

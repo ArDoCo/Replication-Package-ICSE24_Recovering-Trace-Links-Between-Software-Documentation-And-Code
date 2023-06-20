@@ -1,0 +1,14 @@
+option valu tabl cell factori 
+graphic present 
+graphic present 
+default graphic 
+
+
+graphic present 
+default graphic 
+
+
+graphic present 
+default graphic 
+set graphic 
+

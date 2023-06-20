@@ -1,0 +1,15 @@
+clear cach 
+persist product 
+set id 
+id 
+categori id 
+set categori id 
+
+set 
+descript 
+set descript 
+list price cent 
+set list price cent 
+categori 
+set categori 
+order item 

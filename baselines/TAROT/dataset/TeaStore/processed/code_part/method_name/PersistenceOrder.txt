@@ -1,0 +1,31 @@
+persist order 
+delet order 
+clear cach 
+id 
+set id 
+user id 
+set user id 
+order time 
+set order time 
+time 
+set time 
+total price cent 
+set total price cent 
+address 
+set address 
+address 
+set address 
+address 
+set address 
+credit card compani 
+set credit card compani 
+credit card number 
+set credit card number 
+credit card expiri local date 
+set credit card expiri local date 
+credit card expiri date 
+set credit card expiri date 
+order item 
+set order item 
+user 
+set user 

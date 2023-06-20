@@ -1,0 +1,4 @@
+load test:compound
+perform load:conj
+perform test:compound
+experiment test:dep

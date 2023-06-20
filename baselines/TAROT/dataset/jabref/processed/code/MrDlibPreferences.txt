@@ -1,0 +1,31 @@
+dlib prefer 
+accept recommend 
+send languag 
+send os 
+send timezon 
+
+
+accept recommend 
+send languag 
+send os 
+send timezon 
+accept recommend 
+send languag 
+send os 
+send timezon 
+
+
+dlib prefer 
+accept recommend 
+accept recommend properti 
+set accept recommend 
+send languag 
+send languag properti 
+set send languag 
+send os 
+send os properti 
+set send os 
+send timezon 
+send timezon properti 
+set send timezon 
+

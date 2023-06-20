@@ -1,0 +1,15 @@
+studi 
+studi 
+author 
+set author 
+queri 
+set queri 
+databas 
+set databas 
+titl 
+set titl 
+research question 
+set research question 
+string 
+equal 
+hash code 

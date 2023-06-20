@@ -1,0 +1,13 @@
+svg convers handler 
+log 
+path output 
+imag tag output 
+path pattern 
+imag tag pattern 
+
+
+
+
+number path 
+number imag tag 
+

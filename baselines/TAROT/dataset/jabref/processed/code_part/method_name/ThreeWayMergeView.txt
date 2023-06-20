@@ -1,0 +1,20 @@
+merg view 
+merg view 
+initi toolbar 
+show hide equal field 
+updat diff 
+initi header view 
+initi scroll pane 
+initi column constraint 
+initi merg grid pane 
+field index 
+add row 
+merg entri 
+set left header 
+set header 
+select left entri valu 
+select entri valu 
+show diff 
+left entri 
+entri 
+save configur 

@@ -1,0 +1,5 @@
+share databas login dialog view 
+open databas 
+initi 
+show save db file dialog 
+show open keystor file dialog 

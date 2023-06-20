@@ -1,0 +1,10 @@
+properti 
+dev properti 
+key 
+default valu 
+properti 
+dev properti 
+key 
+app version 
+app id 
+relat url 

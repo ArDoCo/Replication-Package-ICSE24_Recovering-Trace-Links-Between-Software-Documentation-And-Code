@@ -1,0 +1,12 @@
+init work correct 
+id updat set id 
+clone doe chang content 
+clone bibtex string equal origin string 
+id generat doe hit origin id 
+set field clone work 
+modifi clone doe modifi origin entri 
+content return null 
+author type correct determin 
+institut type correct determin 
+type correct determin case 
+type correct determin upper case 

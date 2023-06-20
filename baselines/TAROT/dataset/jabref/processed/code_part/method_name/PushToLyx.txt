@@ -1,0 +1,6 @@
+push lyx 
+display 
+applic icon 
+oper complet 
+set 
+push entri 

@@ -1,0 +1,17 @@
+xls 
+xlsx 
+doc 
+docx 
+ppt 
+pptx 
+odt 
+rtf 
+txt 
+od 
+odp 
+pdf 
+jpeg 
+png 
+svg 
+extens mime 
+extens mime 

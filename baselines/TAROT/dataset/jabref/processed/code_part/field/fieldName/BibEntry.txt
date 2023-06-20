@@ -1,0 +1,18 @@
+default type 
+logger 
+share bib entri data 
+field word 
+field word 
+latex free field 
+latex free field 
+field keyword 
+field keyword 
+event bus 
+id 
+type 
+type 
+field 
+field 
+comment befor entri 
+pars serial 
+chang 

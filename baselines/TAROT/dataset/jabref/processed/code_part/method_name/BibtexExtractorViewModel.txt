@@ -1,0 +1,6 @@
+bibtex extractor view model 
+input text properti 
+start pars 
+pars bibtex extractor 
+pars grobid 
+track entri 

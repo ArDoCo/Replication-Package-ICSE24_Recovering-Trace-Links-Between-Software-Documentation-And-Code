@@ -1,0 +1,3 @@
+storag rule 
+str represent 
+storag rule string 

@@ -1,0 +1,16 @@
+open databas 
+
+
+file open 
+import format prefer 
+file monitor 
+parser result 
+keyword delimit 
+
+import format prefer 
+file updat monitor 
+
+open databas 
+load databas 
+perform load databas migrat 
+

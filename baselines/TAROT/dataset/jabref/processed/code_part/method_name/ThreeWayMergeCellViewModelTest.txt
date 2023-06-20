@@ -1,0 +1,9 @@
+setup 
+test odd logic 
+return true row index 
+odd return true row index odd 
+text set text consist 
+test odd logic 
+return true row index 
+odd return true row index odd 
+text set text consist 

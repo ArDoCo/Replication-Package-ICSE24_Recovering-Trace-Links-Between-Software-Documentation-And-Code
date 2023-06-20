@@ -1,0 +1,19 @@
+bib string diff 
+origin string 
+string 
+
+
+origin string 
+string 
+origin databas 
+databas 
+
+
+
+bib string diff 
+compar 
+origin string 
+string 
+equal 
+hash code 
+

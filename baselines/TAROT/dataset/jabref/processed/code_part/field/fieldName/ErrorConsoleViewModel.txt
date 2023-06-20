@@ -1,0 +1,6 @@
+logger 
+dialog servic 
+clip board manag 
+build info 
+messag data 
+messag data 

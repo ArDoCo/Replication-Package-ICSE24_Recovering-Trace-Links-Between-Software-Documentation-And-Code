@@ -1,0 +1,4 @@
+servic requir:nsubj
+send requir:xcomp
+heartbeat signal:compound
+signal send:obj

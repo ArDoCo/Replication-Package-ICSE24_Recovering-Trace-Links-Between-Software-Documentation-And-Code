@@ -1,0 +1,10 @@
+bib entri writer 
+serial 
+write 
+write 
+write user comment 
+write requir field remain field 
+write key field 
+write field 
+length longest field 
+format field 

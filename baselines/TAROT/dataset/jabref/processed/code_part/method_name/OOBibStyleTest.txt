@@ -1,0 +1,34 @@
+set 
+test author year 
+test author year file 
+test numer 
+run num citat marker 
+num entri 
+num bib entri 
+run num citat marker 
+citat marker entri 
+citat marker 
+citat marker 
+test num citat marker 
+test num citat marker undefin 
+test cit properti 
+test citat marker 
+test layout 
+test institut author 
+test von author 
+test institut author marker 
+test von author marker 
+test null author marker 
+test null year marker 
+test empti entri marker 
+test citat marker parenthesi uniquefi 
+test citat marker text uniquefi 
+test citat marker parenthesi uniquefi author 
+test citat marker text uniquefi author 
+test equal 
+test equal 
+test compar equal 
+test compar equal 
+test empti string properti oxford comma 
+test valid default section start 
+test citat marker join 

@@ -1,0 +1,16 @@
+lnp result statist 
+error pct 
+res time 
+pct res time 
+throughput 
+error count 
+sampl count 
+
+
+
+
+display lnp result statist 
+res time 
+error pct 
+format result stat 
+

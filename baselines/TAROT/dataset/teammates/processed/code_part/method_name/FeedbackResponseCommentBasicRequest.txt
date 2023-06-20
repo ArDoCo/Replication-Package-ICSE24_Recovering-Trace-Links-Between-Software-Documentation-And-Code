@@ -1,0 +1,6 @@
+feedback respons comment basic request 
+valid 
+comment text 
+show comment 
+show giver 
+convert feedback particip type 

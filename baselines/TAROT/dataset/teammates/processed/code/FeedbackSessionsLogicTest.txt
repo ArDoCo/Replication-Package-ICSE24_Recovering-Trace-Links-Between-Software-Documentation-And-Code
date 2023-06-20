@@ -1,0 +1,43 @@
+feedback session logic test 
+cours logic 
+fs logic 
+fs db 
+fq logic 
+fr logic 
+frc logic 
+
+feedback session db 
+feedback respons comment logic 
+
+
+
+prepar test data 
+befor method 
+test delet feedback session cascad delet session recycl bin cascad delet 
+test delet feedback session cascad delet session recycl bin cascad delet 
+test delet feedback session cours id delet session cours 
+test feedback session notif 
+test 
+test soft delet feedback session list instructor 
+test feedback session close time limit 
+test feedback session close hour 
+test feedback session open time limit 
+test feedback session open mail sent 
+test feedback session publish email sent 
+test creat delet feedback session 
+test feedback session viewabl user type 
+test feedback session user type answer 
+test updat feedback session 
+test updat feedback session adjust email send status accord 
+test updat feedback session instructor deadlin email 
+test updat feedback session student deadlin email 
+test delet feedback session deadlin instructor 
+test delet feedback session deadlin student 
+test publish unpublish feedback session 
+test feedback session attempt instructor 
+test feedback session attempt student 
+feedback session 
+unpublish session 
+test move feedback session recycl bin 
+test restor feedback session recycl bin 
+

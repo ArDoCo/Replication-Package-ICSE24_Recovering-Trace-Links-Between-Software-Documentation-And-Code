@@ -1,0 +1,28 @@
+bn fetcher 
+logger 
+newlin space pattern 
+import format prefer 
+open librari isbn fetcher 
+retri isbn fetcher 
+retri isbn fetcher 
+
+import format prefer 
+open librari isbn fetcher 
+
+import format prefer 
+identifi 
+entri 
+retri fetcher 
+identifi 
+
+import format prefer 
+bib entri 
+
+bn fetcher 
+
+page 
+perform search id 
+perform search 
+add retri fetcher 
+remov newlin space identifi 
+

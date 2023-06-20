@@ -1,0 +1,19 @@
+file dialog configur 
+initi directori 
+default extens 
+initi file 
+extens filter 
+select extens filter 
+set select extens filter 
+build 
+initi directori 
+initi directori 
+initi file 
+default extens 
+default extens 
+default extens 
+default extens 
+add extens filter 
+add extens filter 
+add extens filter 
+add extens filter 

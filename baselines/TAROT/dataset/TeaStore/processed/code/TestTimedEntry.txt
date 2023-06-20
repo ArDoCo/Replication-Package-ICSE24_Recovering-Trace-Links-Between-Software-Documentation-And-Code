@@ -1,0 +1,12 @@
+test time entri 
+mock img 
+
+store imag 
+
+
+
+initi 
+test constructor 
+test constructor null 
+test time 
+

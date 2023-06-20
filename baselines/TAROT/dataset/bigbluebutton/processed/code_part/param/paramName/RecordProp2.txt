@@ -1,0 +1,3 @@
+record 
+auto start record 
+start stop record 

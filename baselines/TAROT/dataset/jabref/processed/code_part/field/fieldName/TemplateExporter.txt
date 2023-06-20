@@ -1,0 +1,13 @@
+blank line pattern 
+layout prefix 
+layout extens 
+formatt extens 
+infix 
+infix 
+logger 
+lf file 
+directori 
+layout prefer 
+save configur 
+custom export 
+blank line behaviour 

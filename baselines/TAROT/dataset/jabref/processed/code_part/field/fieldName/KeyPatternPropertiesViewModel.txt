@@ -1,0 +1,6 @@
+pattern list properti 
+pattern list properti 
+default key pattern properti 
+default key pattern properti 
+prefer servic 
+databas context 

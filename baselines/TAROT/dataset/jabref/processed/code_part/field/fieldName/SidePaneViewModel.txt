@@ -1,0 +1,12 @@
+logger 
+side pane compon lookup 
+side pane compon lookup 
+prefer servic 
+state manag 
+side pane content factori 
+dialog servic 
+prefer posit 
+prefer posit 
+move pane 
+move pane 
+close pane 

@@ -1,0 +1,5 @@
+bind entri 
+node 
+focus 
+child focus 
+weight 

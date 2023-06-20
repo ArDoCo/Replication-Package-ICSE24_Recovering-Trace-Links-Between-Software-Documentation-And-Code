@@ -1,0 +1,5 @@
+file 
+copacfil 
+test recogn format 
+test recogn format 
+test import entri 

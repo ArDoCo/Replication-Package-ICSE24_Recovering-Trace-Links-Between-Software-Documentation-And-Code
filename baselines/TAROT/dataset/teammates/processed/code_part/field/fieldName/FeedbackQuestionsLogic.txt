@@ -1,0 +1,9 @@
+user 
+log 
+instanc 
+fq db 
+cours logic 
+fr logic 
+fs logic 
+instructor logic 
+student logic 

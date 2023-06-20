@@ -1,0 +1,80 @@
+api param 
+start stop record 
+attende pw 
+auto start record 
+banner color 
+banner text 
+checksum 
+copyright 
+dial number 
+durat 
+free join 
+full 
+guest polici 
+meet layout 
+breakout 
+logo 
+logout timer 
+logout url 
+max particip 
+meet id 
+meta 
+moder onli messag 
+moder pw 
+mute start 
+meet event 
+mod unmut user 
+request session 
+mod eject camera 
+
+parent meet id 
+password 
+record 
+record id 
+redirect 
+sequenc 
+voic bridg 
+web voic 
+learn dashboard enabl 
+learn dashboard cleanup delay minut 
+virtual background disabl 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+meet expir user join minut 
+meet expir user left minut 
+welcom 
+html instanc id 
+role 
+group 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+breakout room captur slide 
+breakout room captur note 
+breakout room captur slide filenam 
+breakout room captur note filenam 
+breakout room enabl 
+breakout room record 
+breakout room privat chat enabl 
+lock set disabl cam 
+lock set disabl mic 
+lock set disabl privat chat 
+lock set disabl public chat 
+deprec lock set disabl note 
+lock set disabl note 
+lock set hide user list 
+lock set lock join 
+lock set lock join configur 
+lock set hide viewer cursor 
+meet callback url 
+moder 
+moder delay minut 
+
+
+
+
+api param 
+

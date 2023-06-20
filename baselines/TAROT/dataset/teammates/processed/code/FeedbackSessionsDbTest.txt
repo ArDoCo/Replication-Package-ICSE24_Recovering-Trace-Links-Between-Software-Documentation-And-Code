@@ -1,0 +1,30 @@
+feedback session db test 
+fs db 
+data bundl 
+
+
+
+
+add session db 
+delet session db 
+test ongo session typic case queri success duplic 
+test delet feedback session 
+test delet feedback session cours id 
+test creat delet feedback session 
+test soft delet feedback session typic case delet session 
+test soft delet feedback session session delet return null 
+test feedback session 
+test feedback session 
+test feedback session cours 
+test soft delet feedback session cours 
+test soft delet feedback session 
+test feedback session possibl open email 
+test feedback session possibl open email 
+test feedback session possibl close email 
+test feedback session possibl close email 
+test feedback session possibl publish email 
+test updat feedback session chang session issu save request 
+test updat feedback session 
+test updat feedback session singl field updat updat correct 
+feedback session 
+

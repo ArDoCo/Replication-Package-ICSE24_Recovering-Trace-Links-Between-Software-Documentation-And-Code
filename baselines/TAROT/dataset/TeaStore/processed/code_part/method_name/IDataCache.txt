@@ -1,0 +1,10 @@
+max cach size 
+current cach size 
+free space 
+storag 
+cach data 
+uncach data 
+data cachabl 
+data cach 
+clear cach 
+set max cach size 

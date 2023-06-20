@@ -1,0 +1,14 @@
+default connect timeout 
+default read timeout 
+default rest applic 
+read timeout 
+connect timeout 
+applic uri 
+endpoint uri 
+client 
+servic 
+entiti class 
+entiti class 
+parameter generic type 
+generic list type 
+generic list type 

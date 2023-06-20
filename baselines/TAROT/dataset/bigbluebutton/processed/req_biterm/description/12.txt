@@ -1,0 +1,6 @@
+client side:compound
+side subscrib:nsubj
+publish collect:amod
+collect subscrib:obl
+server side:compound
+side collect:nmod

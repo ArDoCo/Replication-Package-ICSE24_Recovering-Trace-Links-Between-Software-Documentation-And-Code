@@ -1,0 +1,7 @@
+associ link:compound
+link navig:nmod
+entiti object:compound
+object link:nmod
+revers direct:amod
+normal design:amod
+oop design:compound

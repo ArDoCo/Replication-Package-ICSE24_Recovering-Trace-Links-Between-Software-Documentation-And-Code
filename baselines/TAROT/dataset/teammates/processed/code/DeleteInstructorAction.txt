@@ -1,0 +1,12 @@
+delet instructor action 
+
+
+cours id 
+instructor delet email 
+
+
+min auth level 
+check specif access control 
+execut 
+altern instructor 
+

@@ -1,0 +1,2 @@
+similar 
+edit distanc ignor case 

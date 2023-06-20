@@ -1,0 +1,29 @@
+instructor type coowner 
+instructor type manag 
+instructor type observ 
+instructor type tutor 
+instructor type custom 
+cours modifi cours 
+cours modifi instructor 
+cours modifi session 
+cours modifi student 
+cours view student 
+cours give respons session 
+cours view respons session 
+cours modifi respons session 
+section view student 
+section give respons session 
+section view respons session 
+section modifi respons session 
+session give respons 
+session view respons 
+session modifi respons 
+cours id text box 
+cours text box 
+cours institut text box 
+time zone drop 
+edit cours button 
+delet cours button 
+save cours button 
+add instructor button 
+copi instructor button 

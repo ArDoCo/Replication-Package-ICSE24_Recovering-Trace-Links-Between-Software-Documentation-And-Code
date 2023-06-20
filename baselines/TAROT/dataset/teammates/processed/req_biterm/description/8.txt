@@ -1,0 +1,6 @@
+main logic:amod
+logic pojo:nsubj
+applic logic:nmod
+plain object:compound
+java object:compound
+object pojo:dep

@@ -1,0 +1,34 @@
+clip board manag 
+xml 
+logger 
+clipboard 
+primari 
+prefer servic 
+
+
+prefer servic 
+clipboard 
+primari 
+prefer servic 
+input 
+content 
+content 
+html 
+fallback plain 
+string 
+entri 
+
+bib entri 
+
+clip board manag 
+clip board manag 
+add support 
+content 
+bib te entri clipboard 
+content primari 
+set content 
+set primari clipboard content 
+set html content 
+set content 
+set content 
+

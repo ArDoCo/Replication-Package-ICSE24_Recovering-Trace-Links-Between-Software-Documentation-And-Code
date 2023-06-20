@@ -1,0 +1,3 @@
+graphic present 
+default graphic 
+set graphic 

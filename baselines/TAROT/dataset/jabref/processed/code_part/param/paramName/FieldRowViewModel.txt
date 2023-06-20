@@ -1,0 +1,13 @@
+field 
+left entri 
+entri 
+merg entri 
+field merger factori 
+merg field valu 
+select 
+field merg 
+left field valu 
+field valu 
+left 
+
+merg field 

@@ -1,0 +1,5 @@
+oper add:obj
+data persist:nsubj
+persist wait:advcl
+datastor persist:obl
+return persist:advcl

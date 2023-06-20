@@ -1,0 +1,7 @@
+error consol view model 
+messag data properti 
+log messag string 
+copi log 
+copi log 
+clear log 
+report issu 

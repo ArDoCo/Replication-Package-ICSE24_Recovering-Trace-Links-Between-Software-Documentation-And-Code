@@ -1,0 +1,5 @@
+addit packag:amod
+util packag:compound
+prefer packag:nmod
+cli packag:nmod
+cli prefer:conj

@@ -1,0 +1,48 @@
+instructor data 
+googl id 
+cours id 
+email 
+display student 
+display student 
+
+role 
+join state 
+key 
+institut 
+
+instructor permiss role 
+
+instructor attribut 
+googl id 
+role 
+display student 
+display student 
+join state 
+key 
+institut 
+key 
+institut 
+googl id 
+
+instructor permiss role 
+
+instructor data 
+googl id 
+set googl id 
+cours id 
+email 
+role 
+set role 
+display student 
+set display student 
+display student 
+set display student 
+
+join state 
+set join state 
+key 
+set key 
+institut 
+set institut 
+add addit inform admin search 
+

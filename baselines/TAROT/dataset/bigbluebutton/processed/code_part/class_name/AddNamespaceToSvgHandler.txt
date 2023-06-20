@@ -1,0 +1,1 @@
+add namespac svg handler 

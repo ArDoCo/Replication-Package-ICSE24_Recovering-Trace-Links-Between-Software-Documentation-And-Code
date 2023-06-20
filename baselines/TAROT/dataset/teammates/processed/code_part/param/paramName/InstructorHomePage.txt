@@ -1,0 +1,46 @@
+browser 
+cours tab index 
+cours 
+session 
+cours tab index 
+session index 
+session 
+expect num 
+cours tab index 
+session index 
+expect respons rate 
+cours tab index 
+session index 
+copi cours 
+session 
+cours tab index 
+session index 
+cours tab index 
+session index 
+cours tab index 
+session index 
+student 
+cours tab index 
+session index 
+cours tab index 
+session index 
+student 
+cours tab index 
+session index 
+cours tab index 
+session index 
+cours tab index 
+cours tab index 
+cours tab index 
+cours tab index 
+cours tab index 
+instant 
+time zone 
+session 
+cours tab index 
+session index 
+cours tab index 
+session index 
+copi fs modal 
+cours copi id 
+student email 

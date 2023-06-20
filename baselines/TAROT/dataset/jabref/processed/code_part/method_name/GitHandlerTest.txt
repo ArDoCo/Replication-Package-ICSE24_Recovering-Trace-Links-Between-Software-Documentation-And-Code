@@ -1,0 +1,4 @@
+set git handler 
+checkout branch 
+creat commit current branch 
+current check branch 

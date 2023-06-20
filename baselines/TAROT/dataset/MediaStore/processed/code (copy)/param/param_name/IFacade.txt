@@ -1,0 +1,11 @@
+user 
+usernam 
+password 
+id 
+bitrat 
+download login 
+file 
+id 
+bitrat 
+download login 
+local 

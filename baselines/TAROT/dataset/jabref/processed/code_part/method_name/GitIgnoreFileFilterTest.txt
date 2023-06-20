@@ -1,0 +1,4 @@
+check simpl git ignor 
+check simpl git ignor 
+check simpl git ignor overwrit def 
+check directori git ignor 

@@ -1,0 +1,18 @@
+browser 
+cours 
+instructor 
+num section 
+num team 
+num student 
+student 
+expect 
+student 
+student 
+instructor 
+student 
+student 
+student 
+student 
+student 
+student 
+student 

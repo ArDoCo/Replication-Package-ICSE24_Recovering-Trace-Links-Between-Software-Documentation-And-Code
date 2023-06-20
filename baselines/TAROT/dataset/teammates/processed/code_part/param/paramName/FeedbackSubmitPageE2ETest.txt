@@ -1,0 +1,11 @@
+student 
+session 
+current student 
+current student 
+current student 
+question id 
+recipi 
+
+answer 
+respons id 
+comment 

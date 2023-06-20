@@ -1,0 +1,3 @@
+voic confer:compound
+confer join:obj
+headset join:obl

@@ -1,0 +1,6 @@
+setup 
+renam field renam field exist 
+renam field noth field exist 
+renam field anyth field empti 
+renam field anyth field whitespac charact 
+renam field noth alreadi field field 

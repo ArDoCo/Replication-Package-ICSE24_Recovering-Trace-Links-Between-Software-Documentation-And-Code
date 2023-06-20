@@ -1,0 +1,10 @@
+web fetcher 
+id base fetcher field 
+id fetcher identifi 
+id fetcher field 
+search base fetcher 
+id base fetcher 
+entri base fetcher 
+id fetcher 
+full text fetcher 
+customiz key fetcher 

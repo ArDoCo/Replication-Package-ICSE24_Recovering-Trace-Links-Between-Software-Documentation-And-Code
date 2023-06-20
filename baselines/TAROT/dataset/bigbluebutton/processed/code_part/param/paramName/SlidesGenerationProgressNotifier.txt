@@ -1,0 +1,20 @@
+msg 
+pres 
+upload file size 
+max upload file size 
+pres 
+file mime 
+file extens 
+pres 
+page 
+slide complet 
+pres 
+page generat 
+pres 
+pres 
+pres 
+ 
+max number attempt 
+helper 
+pres 
+pres 

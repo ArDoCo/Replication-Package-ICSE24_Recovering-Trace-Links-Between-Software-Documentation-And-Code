@@ -1,0 +1,14 @@
+log event view model 
+log event 
+
+
+log event 
+
+
+log event view model 
+display text 
+style class 
+icon 
+stack trace 
+detail text 
+

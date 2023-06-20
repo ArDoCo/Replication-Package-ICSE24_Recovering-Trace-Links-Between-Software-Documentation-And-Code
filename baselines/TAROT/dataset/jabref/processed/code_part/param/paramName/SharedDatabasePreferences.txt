@@ -1,0 +1,15 @@
+share databas id 
+type 
+host 
+port 
+
+user 
+password 
+rememb password 
+folder 
+autosav 
+ssl 
+keystor file 
+server timezon 
+key 
+properti 

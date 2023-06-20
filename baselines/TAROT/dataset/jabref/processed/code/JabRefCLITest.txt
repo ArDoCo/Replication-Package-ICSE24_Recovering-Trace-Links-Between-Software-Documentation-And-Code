@@ -1,0 +1,25 @@
+jab ref cli test 
+bibtex 
+
+
+
+
+empti cli left long option 
+gui disabl long option 
+success pars file import cli long option 
+success pars file export cli long option 
+empti cli left short option 
+gui disabl short option 
+success pars file import short option 
+success pars file export short option 
+empti prefer left 
+success export prefer 
+gui disabl prefer export 
+empti left cli short import bibtex 
+recogn import bibtex short 
+success pars bibtex import short 
+empti left cli long import bibtex 
+recogn import bibtex long 
+success pars bibtex import long 
+wrap string list 
+

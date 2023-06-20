@@ -1,0 +1,5 @@
+mongo databas:compound
+server meet:nmod
+turn client:obl
+connect client:acl
+meet connect:obl

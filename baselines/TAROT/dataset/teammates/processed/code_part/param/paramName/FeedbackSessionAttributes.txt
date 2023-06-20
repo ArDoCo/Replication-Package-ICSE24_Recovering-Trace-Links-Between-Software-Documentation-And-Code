@@ -1,0 +1,64 @@
+feedback session 
+cours id 
+fs 
+feedback session 
+cours id 
+student email 
+instructor email 
+hour 
+hour 
+hour 
+hour 
+instructor email 
+
+feedback session 
+cours id 
+creator email 
+instruct 
+creat time 
+delet time 
+start time 
+time 
+session visibl time 
+result visibl time 
+time zone 
+grace period minut 
+sent open email 
+sent open email 
+sent close email 
+sent close email 
+sent publish email 
+open email enabl 
+close email enabl 
+publish email enabl 
+student deadlin 
+instructor deadlin 
+updat option 
+feedback session 
+cours id 
+updat option 
+feedback session 
+cours id 
+creator email 
+feedback session 
+cours id 
+updat option 
+feedback session 
+cours id 
+sent open email option 
+sent open email 
+sent close email 
+sent close email 
+sent publish email 
+updat option 
+instruct 
+start time 
+time 
+session visibl time 
+result visibl time 
+time zone 
+grace period 
+close email enabl 
+publish email enabl 
+student deadlin 
+instructor deadlin 

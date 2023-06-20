@@ -1,0 +1,6 @@
+share databas ui manag 
+listen 
+listen 
+listen 
+open share databas tab 
+open share databas parser result 

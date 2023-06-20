@@ -1,0 +1,3 @@
+registr daemon 
+context destroy 
+context initi 

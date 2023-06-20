@@ -1,0 +1,4 @@
+citat key editor 
+view model 
+bind entri 
+node 

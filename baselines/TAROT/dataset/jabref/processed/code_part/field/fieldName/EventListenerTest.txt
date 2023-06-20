@@ -1,0 +1,6 @@
+ad entri 
+ad entri 
+insert entri 
+remov entri 
+remov entri 
+chang entri 

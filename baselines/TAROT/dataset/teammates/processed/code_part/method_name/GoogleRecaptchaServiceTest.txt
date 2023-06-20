@@ -1,0 +1,3 @@
+test verif success 
+googl recaptcha servic stub 
+api respons 

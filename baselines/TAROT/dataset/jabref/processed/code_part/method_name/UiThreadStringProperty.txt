@@ -1,0 +1,12 @@
+ui thread string properti 
+bind 
+unbind 
+bound 
+bean 
+
+
+set 
+add listen 
+remov listen 
+add listen 
+remov listen 

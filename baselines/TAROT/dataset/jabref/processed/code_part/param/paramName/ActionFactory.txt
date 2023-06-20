@@ -1,0 +1,23 @@
+key bind repositori 
+node 
+action 
+menu item 
+action 
+command 
+menu item 
+action 
+command 
+action 
+command 
+select 
+action 
+command 
+select bind 
+action 
+action 
+children 
+action 
+command 
+action 
+command 
+button 

@@ -1,0 +1,6 @@
+truncat text null empti return sourc 
+truncat default max charact return text 
+truncat ellipsi posit return truncat text 
+truncat ellipsi posit center return truncat text 
+truncat default max charact null ellipsi posit return truncat text 
+truncat null ellipsi posit throw null pointer 

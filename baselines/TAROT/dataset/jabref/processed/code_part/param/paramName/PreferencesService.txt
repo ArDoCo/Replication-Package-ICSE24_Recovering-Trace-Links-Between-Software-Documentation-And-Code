@@ -1,0 +1,8 @@
+key bind repositori 
+file 
+file 
+repositori 
+key 
+entri type manag 
+repositori 
+export 

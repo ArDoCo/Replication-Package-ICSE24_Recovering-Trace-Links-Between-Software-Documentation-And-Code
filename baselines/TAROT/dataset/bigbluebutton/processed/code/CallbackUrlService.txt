@@ -1,0 +1,41 @@
+callback url servic 
+log 
+receiv messag 
+receiv messag 
+process messag 
+max redirect 
+msg processor exec 
+run exec 
+
+delay callback 
+
+msg 
+msg 
+delay milli 
+num attempt 
+msg 
+msg 
+messag 
+redirect url 
+redirect count 
+orig url 
+callback url 
+
+delay callback 
+delay callback 
+delay callback 
+delay callback 
+callback event 
+
+stop 
+start 
+run 
+process messag 
+run 
+sched callback 
+giveup callback 
+sched retri callback 
+handl messag 
+follow redirect 
+fetch callback url 
+

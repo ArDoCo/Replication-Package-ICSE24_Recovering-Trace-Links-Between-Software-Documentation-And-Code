@@ -1,0 +1,5 @@
+log 
+path output 
+imag tag output 
+path pattern 
+imag tag pattern 

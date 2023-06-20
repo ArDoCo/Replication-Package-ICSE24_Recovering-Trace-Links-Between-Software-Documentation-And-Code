@@ -1,0 +1,7 @@
+set 
+save set work directori 
+save set work directori select 
+save show save databas select 
+creat save databas action bib databas 
+save chang flag 
+save save databas path set 

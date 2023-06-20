@@ -1,0 +1,17 @@
+updat instructor privileg action test 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut valid cours level input succeed 
+test execut valid section level input succeed 
+test execut valid session level input succeed 
+test execut request privileg inconsist auto fix 
+test execut instructor modifi instructor privileg preserv 
+test execut null privileg fail 
+test execut invalid instructor email fail 
+test access control 
+

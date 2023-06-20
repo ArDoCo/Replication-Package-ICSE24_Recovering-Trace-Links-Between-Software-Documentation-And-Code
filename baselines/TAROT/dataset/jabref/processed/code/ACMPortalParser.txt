@@ -1,0 +1,20 @@
+acm portal parser 
+host 
+doi url 
+
+
+stream 
+stream 
+doi list 
+doi list 
+type str 
+json str 
+
+
+pars entri 
+pars doi search page 
+bib entri doi list 
+url doi list 
+type str enum 
+pars bib entri 
+

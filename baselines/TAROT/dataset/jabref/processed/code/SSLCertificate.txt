@@ -1,0 +1,33 @@
+ssl certif 
+logger 
+sha thumbprint 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+
+
+encod 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+certif 
+cert path 
+
+
+ssl certif 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+sha thumbprint 
+
+path 
+

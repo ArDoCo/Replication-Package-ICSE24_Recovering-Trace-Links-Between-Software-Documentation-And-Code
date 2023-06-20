@@ -1,0 +1,6 @@
+search servic host 
+reset 
+instructor 
+document 
+result 
+queri string 

@@ -1,0 +1,4 @@
+compon extract:obl
+integr compon:acl
+free switch integr:obl
+applic integr:obl

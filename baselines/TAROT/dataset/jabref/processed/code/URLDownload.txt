@@ -1,0 +1,62 @@
+url download 
+user agent 
+logger 
+default connect timeout 
+sourc 
+paramet 
+paramet 
+post data 
+connect timeout 
+
+
+sourc 
+sourc 
+chain 
+auth type 
+chain 
+auth type 
+socket factori 
+verifi 
+type 
+key 
+valu 
+post data 
+encod 
+exist connect 
+encod 
+connect 
+destin 
+
+
+encod 
+connect timeout 
+
+
+url download 
+url download 
+bypass ssl verif 
+check client trust 
+check server trust 
+accept issuer 
+set ssl verif 
+sourc 
+mime type 
+reach 
+mime type 
+pdf 
+add header 
+set post data 
+string 
+string 
+string 
+string 
+cooki url 
+file 
+input stream 
+temporari file 
+string 
+copi 
+open connect 
+set connect timeout 
+connect timeout 
+

@@ -1,0 +1,13 @@
+font size valu factori 
+font size valu factori 
+font overrid properti 
+font size properti 
+theme light properti 
+theme dark properti 
+theme custom properti 
+custom path theme properti 
+dialog servic 
+prefer 
+prefer 
+font size valid 
+custom path theme valid 

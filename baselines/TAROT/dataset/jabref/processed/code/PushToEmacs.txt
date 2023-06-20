@@ -1,0 +1,22 @@
+push emac 
+
+logger 
+
+
+dialog servic 
+prefer servic 
+databas 
+entri 
+key 
+applic 
+prefer 
+
+
+push emac 
+display 
+applic icon 
+push entri 
+oper complet 
+command 
+set 
+

@@ -1,0 +1,5 @@
+user remind 
+set user remind 
+send copi instructor 
+set send copi instructor 
+valid 

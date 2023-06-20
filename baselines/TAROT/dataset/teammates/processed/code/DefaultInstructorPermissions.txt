@@ -1,0 +1,12 @@
+default instructor permiss 
+valu 
+
+
+valu 
+role 
+
+
+default instructor permiss 
+valu 
+privileg 
+

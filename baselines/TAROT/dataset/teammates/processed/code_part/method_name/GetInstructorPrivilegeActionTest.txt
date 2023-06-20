@@ -1,0 +1,10 @@
+action uri 
+request method 
+prepar test data 
+test execut 
+test execut fetch privileg exist instructor fail 
+test execut fetch privileg anoth instructor email succeed 
+test execut fetch privileg anoth instructor succeed 
+test execut paramet fail 
+test execut fetch privileg succeed 
+test access control 

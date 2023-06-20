@@ -1,0 +1,7 @@
+base 
+entri 
+base 
+entri 
+base 
+entri 
+cut 

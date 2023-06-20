@@ -1,0 +1,10 @@
+protect term tab view model 
+set valu 
+store set 
+add file 
+remov list 
+creat file 
+edit 
+display content 
+reload list 
+term file properti 

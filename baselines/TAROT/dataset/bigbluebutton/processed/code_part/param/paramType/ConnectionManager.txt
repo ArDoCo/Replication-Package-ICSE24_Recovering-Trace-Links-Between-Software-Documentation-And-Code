@@ -1,0 +1,11 @@
+manag connect 
+confer event listen 
+broadcast confer command 
+user status command 
+forc eject user command 
+deaf user command 
+hold user command 
+play sound command 
+transfer user meet command 
+eject user command 
+record confer command 

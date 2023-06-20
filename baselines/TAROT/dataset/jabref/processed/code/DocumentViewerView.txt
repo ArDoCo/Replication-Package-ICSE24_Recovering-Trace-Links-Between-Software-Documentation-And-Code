@@ -1,0 +1,43 @@
+document viewer view 
+scroll bar 
+file choic 
+file choic 
+main pane 
+mode live 
+mode lock 
+current page 
+max page 
+state manag 
+task executor 
+prefer servic 
+viewer 
+view model 
+
+link file 
+
+live mode 
+page number 
+action event 
+action event 
+action event 
+action event 
+action event 
+action event 
+
+
+document viewer view 
+initi 
+setup mode button 
+setup scrollbar 
+setup page control 
+setup file choic 
+setup viewer 
+set live mode 
+goto page 
+page 
+previous page 
+fit width 
+zoom 
+zoom 
+fit singl page 
+

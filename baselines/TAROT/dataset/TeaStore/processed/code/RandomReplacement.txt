@@ -1,0 +1,25 @@
+random replac 
+rand 
+
+
+max cach size 
+max cach size 
+cach rule 
+cach storag 
+max cach size 
+cach rule 
+cach storag 
+max cach size 
+cach rule 
+seed 
+seed 
+
+
+random replac 
+random replac 
+random replac 
+random replac 
+random replac 
+set seed 
+remov entri cach strategi 
+

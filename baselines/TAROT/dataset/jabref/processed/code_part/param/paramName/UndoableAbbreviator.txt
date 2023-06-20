@@ -1,0 +1,8 @@
+journal abbrevi repositori 
+abbrevi type 
+journal field 
+databas 
+entri 
+field 
+ce 
+text 

@@ -1,0 +1,43 @@
+geom 
+line point 
+line point 
+line point 
+direct 
+direct 
+outcod 
+outcod 
+south 
+south 
+center 
+center 
+chop 
+west 
+west 
+east 
+east 
+north 
+north 
+rang 
+rang 
+length 
+length 
+length 
+length 
+length 
+cap 
+point angl 
+point angl 
+angl 
+angl point 
+angl point 
+polar point 
+polar point 
+oval angl point 
+oval angl point 
+intersect 
+intersect 
+intersect 
+distanc line 
+grow 
+
+

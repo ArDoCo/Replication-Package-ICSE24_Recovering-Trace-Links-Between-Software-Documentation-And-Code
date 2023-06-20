@@ -1,0 +1,5 @@
+log reader startup 
+context destroy 
+stop file writer 
+context initi 
+start file writer 

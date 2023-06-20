@@ -1,0 +1,12 @@
+atom file output stream test 
+fifti char 
+thousand char 
+
+
+temp dir 
+temp dir 
+
+
+normal save work 
+origin content exist write error 
+

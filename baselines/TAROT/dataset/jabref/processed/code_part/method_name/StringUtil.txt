@@ -1,0 +1,45 @@
+boolean binari string 
+quot 
+part 
+shave string 
+join 
+strip bracket 
+correct file 
+wrap 
+add wrap line 
+quot html 
+decod string doubl array 
+put brace capit 
+remov brace capit 
+remov singl brace capit 
+unifi line break 
+cur bracket 
+squar bracket 
+citat mark 
+int valu 
+int valu option 
+strip valid xml charact 
+token list 
+limit string length 
+replac special charact 
+repeat space 
+repeat 
+null empti 
+blank 
+blank 
+blank 
+blank 
+bold html 
+bold html 
+unquot 
+strip accent 
+capit 
+string word 
+string sentenc 
+ignor case 
+substr 
+ignor cur bracket 
+quot string space 
+whitespac 
+remov string 
+ignor case 

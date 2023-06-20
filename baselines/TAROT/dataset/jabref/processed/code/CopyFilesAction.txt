@@ -1,0 +1,16 @@
+copi file action 
+dialog servic 
+prefer servic 
+state manag 
+
+
+dialog servic 
+prefer servic 
+state manag 
+data 
+
+
+copi file action 
+show dialog 
+execut 
+

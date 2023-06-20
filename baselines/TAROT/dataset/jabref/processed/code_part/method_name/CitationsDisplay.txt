@@ -1,0 +1,4 @@
+citat display 
+base path properti 
+display graphic 
+display tooltip 

@@ -1,0 +1,6 @@
+pars latex dialog view 
+initi 
+brows button click 
+search button click 
+select 
+unselect 

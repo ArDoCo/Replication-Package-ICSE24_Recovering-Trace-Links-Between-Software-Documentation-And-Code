@@ -1,0 +1,12 @@
+tabl 
+dbms connect 
+dbms processor 
+key 
+valu 
+dbms connect 
+dbms processor 
+express 
+dbms processor 
+express 
+dbms processor 
+valu 

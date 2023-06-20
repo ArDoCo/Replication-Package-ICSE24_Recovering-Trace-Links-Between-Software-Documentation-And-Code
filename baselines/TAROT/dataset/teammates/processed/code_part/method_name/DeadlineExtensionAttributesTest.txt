@@ -1,0 +1,12 @@
+test valu typic data generat attribut correct 
+test builder typic data build correct attribut 
+test builder build noth default valu 
+test builder null argument throw 
+test updat option typic updat option updat attribut correct 
+test updat option exist updat option return equival deadlin extens 
+test updat option null updat option throw assert error 
+test valid 
+test string 
+test equal 
+test hash code 
+valid deadlin extens attribut object 

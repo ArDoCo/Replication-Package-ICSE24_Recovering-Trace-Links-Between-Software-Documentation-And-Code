@@ -1,0 +1,19 @@
+languag list properti 
+languag list properti 
+select languag properti 
+select languag properti 
+bibliographi mode list properti 
+bibliographi mode list properti 
+select biblatex mode properti 
+select biblatex mode properti 
+inspect warn duplic properti 
+confirm delet properti 
+memori stick mode properti 
+collect telemetri properti 
+open startup properti 
+show advanc hint properti 
+dialog servic 
+general prefer 
+telemetri prefer 
+restart warn 
+restart warn 

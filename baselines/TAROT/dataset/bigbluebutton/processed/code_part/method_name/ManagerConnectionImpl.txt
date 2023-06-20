@@ -1,0 +1,11 @@
+manag connect impl 
+set hostnam 
+set port 
+set password 
+set timeout 
+hostnam 
+port 
+password 
+esl client 
+connect 
+disconnect 

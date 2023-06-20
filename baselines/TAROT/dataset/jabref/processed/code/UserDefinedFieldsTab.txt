@@ -1,0 +1,34 @@
+er defin field tab 
+field 
+field 
+
+field 
+
+
+field 
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+task executor 
+journal abbrevi repositori 
+entri 
+
+field 
+bib databas context 
+suggest provid 
+dialog servic 
+prefer servic 
+theme manag 
+index task manag 
+task executor 
+journal abbrevi repositori 
+bib entri 
+
+er defin field tab 
+determin field show 
+

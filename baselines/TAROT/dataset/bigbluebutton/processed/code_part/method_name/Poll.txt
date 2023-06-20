@@ -1,0 +1,9 @@
+poll 
+add answer 
+remov answer 
+generat poll id 
+generat answer id 
+store 
+meet id 
+poll id 
+map 

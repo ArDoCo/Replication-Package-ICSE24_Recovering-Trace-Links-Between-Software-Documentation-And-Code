@@ -1,0 +1,9 @@
+file tab view model 
+set valu 
+store set 
+wrap file properti 
+resolv string properti 
+resolv string properti 
+resolv string field properti 
+alway reformat bib properti 
+autosav local librari properti 

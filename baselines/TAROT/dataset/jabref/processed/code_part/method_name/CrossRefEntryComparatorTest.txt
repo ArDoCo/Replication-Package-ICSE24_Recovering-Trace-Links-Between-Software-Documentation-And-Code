@@ -1,0 +1,6 @@
+set 
+tear 
+equal entri cross ref 
+equal entri cross ref 
+greater entri cross ref 
+smaller entri cross ref 

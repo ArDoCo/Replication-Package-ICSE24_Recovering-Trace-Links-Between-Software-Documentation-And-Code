@@ -1,0 +1,12 @@
+text flow equal helper 
+
+
+expect text 
+descript 
+text 
+expect text 
+
+
+assert equal 
+check text equal expect text 
+

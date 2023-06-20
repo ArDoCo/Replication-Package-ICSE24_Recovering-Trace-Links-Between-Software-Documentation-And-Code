@@ -1,0 +1,35 @@
+feedback respons comment data 
+comment giver 
+editor email 
+feedback respons comment id 
+comment text 
+creat 
+edit 
+visibl follow feedback question 
+show giver 
+show giver 
+show comment 
+show comment 
+
+comment visibl type 
+comment visibl type 
+
+frc 
+feedback particip type list 
+
+feedback respons comment attribut 
+feedback particip type 
+
+feedback respons comment data 
+convert feedback visibl type 
+comment text 
+feedback respons comment id 
+feedback comment text 
+comment giver 
+show giver 
+show comment 
+creat 
+editor email 
+edit 
+visibl follow feedback question 
+

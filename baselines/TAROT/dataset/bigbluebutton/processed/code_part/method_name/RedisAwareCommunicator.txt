@@ -1,0 +1,9 @@
+start 
+stop 
+set password 
+connect status handler 
+set client 
+set host 
+set port 
+set expir key 
+creat pool config 

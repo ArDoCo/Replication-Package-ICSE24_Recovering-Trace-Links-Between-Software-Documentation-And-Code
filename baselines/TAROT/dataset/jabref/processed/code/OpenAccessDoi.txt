@@ -1,0 +1,14 @@
+open access doi 
+logger 
+api url 
+
+
+entri 
+doi 
+
+bib entri 
+
+find full text 
+trust level 
+find full text 
+

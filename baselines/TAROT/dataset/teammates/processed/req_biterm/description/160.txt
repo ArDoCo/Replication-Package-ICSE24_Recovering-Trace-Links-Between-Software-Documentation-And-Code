@@ -1,0 +1,6 @@
+lightweight data:amod
+transfer class:compound
+object class:compound
+transfer class:acl
+data transfer:obj
+compon transfer:obl

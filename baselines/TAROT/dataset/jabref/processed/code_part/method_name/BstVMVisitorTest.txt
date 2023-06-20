@@ -1,0 +1,12 @@
+test visit string command 
+test visit integ command 
+test visit function command 
+test visit macro command 
+test visit entri command 
+test visit read command 
+test visit execut command 
+test visit iter command 
+test visit revers command 
+test visit sort command 
+test visit identifi 
+test visit stackitem 

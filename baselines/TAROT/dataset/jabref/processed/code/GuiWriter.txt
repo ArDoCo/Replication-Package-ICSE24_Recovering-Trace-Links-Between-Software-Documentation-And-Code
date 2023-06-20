@@ -1,0 +1,14 @@
+gui writer 
+
+
+properti 
+log entri 
+
+
+gui writer 
+gui writer 
+requir log entri valu 
+write 
+flush 
+close 
+

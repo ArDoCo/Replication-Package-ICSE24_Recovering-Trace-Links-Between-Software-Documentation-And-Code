@@ -1,0 +1,12 @@
+automat person group test 
+
+
+
+
+
+creat person group 
+creat subgroup comma separ 
+creat subgroup space separ 
+creat subgroup latex 
+creat subgroup unicod 
+

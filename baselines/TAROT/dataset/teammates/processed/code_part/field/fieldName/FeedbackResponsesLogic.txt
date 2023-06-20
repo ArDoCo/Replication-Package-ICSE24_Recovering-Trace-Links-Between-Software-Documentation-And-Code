@@ -1,0 +1,10 @@
+instanc 
+fr db 
+fq logic 
+frc logic 
+instructor logic 
+student logic 
+respons id 
+respons id 
+respons 
+respons 

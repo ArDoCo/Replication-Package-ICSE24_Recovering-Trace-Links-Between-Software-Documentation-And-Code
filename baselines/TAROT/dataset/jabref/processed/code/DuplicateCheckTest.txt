@@ -1,0 +1,39 @@
+duplic check test 
+simpl articl 
+unrel articl 
+simpl inbook 
+simpl incollect 
+duplic checker 
+
+
+cloneabl 
+field 
+valu 
+valu 
+
+
+set 
+test duplic detect 
+test word correl 
+unrel entri duplic 
+unrel entri differ doi duplic 
+unrel entri equal doi duplic 
+unrel entri equal pmid duplic 
+unrel entri equal eprint duplic 
+entri doi differ type duplic 
+entri doi underscor equal 
+entri isbn differ type duplic 
+inbook differ chapter duplic 
+inbook differ page duplic 
+incollect differ chapter duplic 
+incollect differ page duplic 
+entri differ specif field duplic 
+inbook chapter duplic inbook chapter 
+book differ edit duplic 
+book edit duplic 
+book partial edit duplic 
+book differ edit duplic 
+compar entri content lf report differ 
+compar entri content cr lf report differ 
+compar entri content mix line report differ 
+

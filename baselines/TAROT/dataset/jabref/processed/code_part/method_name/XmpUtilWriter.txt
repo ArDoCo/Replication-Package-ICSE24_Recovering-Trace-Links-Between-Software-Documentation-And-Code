@@ -1,0 +1,10 @@
+xmp util writer 
+write xmp 
+write dc schema 
+write dc schema 
+write dublin core 
+generat xmp string xmp declar 
+generat xmp string xmp declar 
+write document inform 
+write xmp 
+default databas entri 

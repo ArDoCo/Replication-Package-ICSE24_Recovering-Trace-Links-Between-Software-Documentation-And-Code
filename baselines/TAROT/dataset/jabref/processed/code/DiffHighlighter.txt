@@ -1,0 +1,35 @@
+diff highlight 
+split diff highlight 
+unifi diff highlight 
+sourc textview 
+target textview 
+diff method 
+separ 
+
+diff method 
+
+sourc textview 
+target textview 
+diff method 
+str 
+diff method 
+separ 
+string list 
+posit 
+span size 
+type 
+
+diff method 
+diff method 
+
+diff highlight 
+highlight 
+split string 
+set diff method 
+diff method 
+separ 
+basic diff method 
+separ 
+join 
+chang 
+

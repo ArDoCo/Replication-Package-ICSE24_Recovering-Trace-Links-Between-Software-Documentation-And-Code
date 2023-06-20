@@ -1,0 +1,1 @@
+gae server send autom request configur 

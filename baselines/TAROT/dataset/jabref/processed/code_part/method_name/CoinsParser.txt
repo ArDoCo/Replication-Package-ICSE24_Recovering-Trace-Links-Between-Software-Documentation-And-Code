@@ -1,0 +1,2 @@
+pars entri 
+append data 

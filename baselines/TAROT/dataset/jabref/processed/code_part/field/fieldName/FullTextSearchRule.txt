@@ -1,0 +1,7 @@
+logger 
+search flag 
+search flag 
+queri 
+search result 
+search result 
+databas context 

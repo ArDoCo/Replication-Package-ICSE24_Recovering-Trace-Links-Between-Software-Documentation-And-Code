@@ -1,0 +1,16 @@
+button type 
+dialog pane 
+consum 
+node 
+cell 
+pseudo class 
+cell 
+event 
+cell 
+event 
+cell 
+cell 
+text 
+max charact 
+ellipsi string 
+ellipsi posit 

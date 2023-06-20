@@ -1,0 +1,9 @@
+thumbprint 
+serial number 
+issuer 
+valid 
+valid 
+sig algorithm 
+version 
+path 
+ssl certif 

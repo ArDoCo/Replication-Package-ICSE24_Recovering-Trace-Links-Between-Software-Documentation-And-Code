@@ -1,0 +1,7 @@
+logger 
+listen 
+listen 
+watcher 
+shutdown 
+filesystem monitor failur 
+filesystem monitor failur 

@@ -1,0 +1,16 @@
+question number 
+question 
+question descript 
+question detail 
+question detail 
+question type 
+giver type 
+recipi type 
+number entiti give feedback set 
+custom number entiti give feedback 
+show respons 
+show respons 
+show giver 
+show giver 
+show recipi 
+show recipi 

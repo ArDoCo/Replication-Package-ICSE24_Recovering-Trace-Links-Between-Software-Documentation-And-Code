@@ -1,0 +1,26 @@
+init 
+set user provis 
+set task queuer 
+set email sender 
+set recaptcha verifi 
+set log processor 
+set auth proxi 
+check access control 
+user info log 
+init auth info 
+request param valu 
+null request param valu 
+boolean request param valu 
+long request param valu 
+request bodi 
+defin request bodi 
+null feedback session 
+valid request bodi 
+unregist student 
+unregist instructor 
+possibl unregist instructor 
+possibl unregist student 
+construct instructor privileg 
+min auth level 
+check specif access control 
+execut 

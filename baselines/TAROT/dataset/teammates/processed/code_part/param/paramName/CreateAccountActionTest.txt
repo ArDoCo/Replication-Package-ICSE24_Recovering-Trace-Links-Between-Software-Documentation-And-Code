@@ -1,0 +1,3 @@
+maximum id length 
+instructor email propos cours id 
+maximum id length 

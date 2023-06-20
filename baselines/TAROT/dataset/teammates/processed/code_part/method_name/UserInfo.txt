@@ -1,0 +1,6 @@
+er info 
+id 
+admin 
+instructor 
+student 
+maintain 

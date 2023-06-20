@@ -1,0 +1,7 @@
+teammat applic:nsubj
+web applic:compound
+run applic:acl
+googl engin:compound
+app engin:compound
+engin run:obl
+gae applic:dep

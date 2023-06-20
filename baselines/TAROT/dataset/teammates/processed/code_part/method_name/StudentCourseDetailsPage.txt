@@ -1,0 +1,7 @@
+student cours detail page 
+expect page content 
+verifi cours detail 
+verifi instructor detail 
+verifi student detail 
+verifi teammat detail 
+sort teammat 

@@ -1,0 +1,57 @@
+updat field 
+
+
+
+field 
+valu 
+
+field 
+valu 
+
+field 
+valu 
+null field valu 
+entri 
+overwrit owner 
+overwrit timestamp 
+owner prefer 
+timestamp prefer 
+entri 
+set owner 
+owner 
+set time stamp 
+time stamp 
+bib 
+overwrit owner 
+owner prefer 
+timestamp prefer 
+bib 
+owner prefer 
+timestamp prefer 
+
+bib entri 
+field 
+bib entri 
+field 
+bib entri 
+field 
+bib entri 
+owner prefer 
+timestamp prefer 
+bib entri 
+bib entri 
+owner prefer 
+timestamp prefer 
+bib entri 
+owner prefer 
+timestamp prefer 
+
+updat field 
+updat field 
+updat display field 
+updat field 
+set automat field 
+set automat field 
+set automat field 
+set automat field 
+

@@ -1,0 +1,9 @@
+status view:compound
+view list:nsubj
+instanc count:compound
+count list:obj
+host list:obj
+host count:conj
+regist instanc:amod
+servic instanc:compound
+instanc host:nmod

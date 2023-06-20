@@ -1,0 +1,5 @@
+stage 
+scene 
+area 
+pane 
+sourc tab 

@@ -1,0 +1,5 @@
+browser 
+cours detail 
+instructor detail 
+student detail 
+teammat 

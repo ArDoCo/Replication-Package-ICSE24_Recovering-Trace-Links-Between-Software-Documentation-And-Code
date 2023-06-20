@@ -1,0 +1,12 @@
+id 
+order time 
+total price cent 
+address 
+address 
+address 
+credit card compani 
+credit card number 
+credit card expiri local date 
+order item 
+order item 
+user 

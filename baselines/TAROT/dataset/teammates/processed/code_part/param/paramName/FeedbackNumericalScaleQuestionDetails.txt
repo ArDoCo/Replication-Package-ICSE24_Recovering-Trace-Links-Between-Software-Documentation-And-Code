@@ -1,0 +1,8 @@
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+min scale 
+max scale 
+step 

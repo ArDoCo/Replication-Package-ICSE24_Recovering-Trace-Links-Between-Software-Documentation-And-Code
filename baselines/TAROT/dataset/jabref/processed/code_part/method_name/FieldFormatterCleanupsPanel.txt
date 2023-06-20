@@ -1,0 +1,10 @@
+field formatt cleanup panel 
+initi 
+setup tabl 
+setup combo 
+setup bind 
+reset recommend 
+clear 
+add cleanup 
+cleanup disabl properti 
+cleanup properti 

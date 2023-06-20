@@ -1,0 +1,142 @@
+feedback session logic 
+log 
+error exist fs string format 
+error exist fs updat 
+error fs alreadi publish 
+error fs alreadi unpublish 
+number hour befor close alert 
+number hour befor open alert 
+instanc 
+fs db 
+cours logic 
+fq logic 
+fr logic 
+frc logic 
+instructor logic 
+student logic 
+de logic 
+
+logger 
+feedback session logic 
+feedback session db 
+feedback question logic 
+feedback respons logic 
+feedback respons comment logic 
+student logic 
+
+fsa 
+rang start 
+rang 
+feedback session 
+cours id 
+feedback session 
+cours id 
+cours id 
+cours id 
+
+instructor list 
+instructor list 
+feedback session 
+cours id 
+user email 
+fsa 
+user email 
+user team 
+fsa 
+user email 
+updat option 
+cours id 
+email address 
+email address 
+cours id 
+email address 
+email address 
+cours id 
+email address 
+cours id 
+email address 
+cours id 
+cours time zone 
+feedback session 
+cours id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+queri 
+feedback session 
+cours id 
+feedback session 
+cours id 
+fsa 
+fsa 
+cours id 
+cours id 
+session 
+instructor 
+session 
+instructor 
+cours id 
+email address 
+email address 
+instructor 
+cours id 
+email address 
+instructor 
+cours id 
+email address 
+instructor 
+deadlin updat 
+
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+feedback session attribut 
+feedback session attribut 
+attribut delet queri 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+
+feedback session logic 
+inst 
+init logic depend 
+creat feedback session 
+ongo session 
+feedback session 
+feedback session recycl bin 
+feedback session cours 
+feedback session cours start 
+feedback session list instructor 
+soft delet feedback session list instructor 
+feedback session autom publish email sent 
+feedback session open email sent 
+creator session 
+feedback session attempt student 
+feedback session attempt instructor 
+updat feedback session 
+updat feedback session instructor deadlin email 
+updat feedback session student deadlin email 
+delet feedback session deadlin instructor 
+delet feedback session deadlin student 
+updat feedback session time zone cours 
+publish feedback session 
+unpublish feedback session 
+feedback session open time limit 
+feedback session close time limit 
+feedback session close hour 
+delet feedback session cascad 
+delet feedback session 
+move feedback session recycl bin 
+restor feedback session recycl bin 
+expect total submiss 
+actual total submiss 
+feedback session list cours 
+soft delet feedback session list cours 
+feedback session viewabl user type 
+feedback session user type answer 
+updat feedback session deadlin email 
+delet feedback session deadlin user 
+updat feedback session deadlin user 
+

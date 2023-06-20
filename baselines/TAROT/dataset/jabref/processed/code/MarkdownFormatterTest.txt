@@ -1,0 +1,12 @@
+markdown formatt test 
+markdown formatt 
+
+
+
+
+set 
+format format plain text return text wrap paragraph 
+format format complex markup return onli line 
+format format empti string return empti string 
+format format null throw 
+

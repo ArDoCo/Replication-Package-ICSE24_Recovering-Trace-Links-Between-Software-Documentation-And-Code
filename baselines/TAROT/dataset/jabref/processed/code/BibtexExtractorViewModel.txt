@@ -1,0 +1,34 @@
+bibtex extractor view model 
+logger 
+input text properti 
+dialog servic 
+prefer servic 
+task executor 
+import handler 
+
+dialog servic 
+import handler 
+
+bibdatabas context 
+dialog servic 
+prefer servic 
+file updat monitor 
+task executor 
+undo manag 
+state manag 
+import format reader 
+bib entri 
+event messag 
+
+dialog servic 
+file updat monitor 
+import format reader 
+bib entri 
+
+bibtex extractor view model 
+input text properti 
+start pars 
+pars bibtex extractor 
+pars grobid 
+track entri 
+

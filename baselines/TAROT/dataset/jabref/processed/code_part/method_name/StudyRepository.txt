@@ -1,0 +1,27 @@
+studi repositori 
+fetcher result entri 
+queri result entri 
+studi result entri 
+pars studi file 
+search queri string 
+activ librari entri 
+studi 
+persist 
+updat remot search work branch 
+updat work search branch 
+set repositori structur queri fetcher 
+creat queri result folder 
+creat folder 
+creat fetcher result file 
+creat queri result file 
+creat studi result file 
+creat bib file 
+trim add id 
+comput id queri 
+persist result 
+generat cite key 
+write result file 
+path fetcher result file 
+path queri result file 
+path studi result file 
+path queri directori 

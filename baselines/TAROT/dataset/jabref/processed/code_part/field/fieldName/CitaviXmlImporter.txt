@@ -1,0 +1,32 @@
+logger 
+uuid length 
+uuid semicolon offset index 
+quotat type 
+quotat type 
+html latex formatt 
+page formatt 
+person 
+person 
+keyword 
+keyword 
+publish 
+publish 
+ref id author 
+ref id author 
+ref id editor 
+ref id editor 
+ref id keyword 
+ref id keyword 
+ref id publish 
+ref id publish 
+person 
+keyword 
+publish 
+knowledg item 
+ref author 
+ref editor 
+ref keyword 
+ref publish 
+unmarshal 
+citavi type 
+

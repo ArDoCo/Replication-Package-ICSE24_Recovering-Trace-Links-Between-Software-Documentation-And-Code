@@ -1,0 +1,24 @@
+diff highlight 
+logger 
+
+
+base string 
+modifi string 
+separ 
+text 
+text 
+text 
+text 
+base string 
+modifi string 
+separ 
+
+
+diff highlight 
+generat diff highlight 
+chang 
+unchang 
+ad 
+remov 
+generat symmetr highlight 
+

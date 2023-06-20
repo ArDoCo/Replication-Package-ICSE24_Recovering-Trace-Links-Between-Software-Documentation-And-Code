@@ -1,0 +1,10 @@
+instructor 
+student email 
+cours 
+cours 
+feedback session await 
+feedback session open 
+feedback session close 
+feedback session publish 
+cours session 
+file 

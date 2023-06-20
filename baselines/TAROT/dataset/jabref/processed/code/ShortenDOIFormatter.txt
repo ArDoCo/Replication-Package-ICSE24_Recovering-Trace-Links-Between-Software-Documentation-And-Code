@@ -1,0 +1,13 @@
+shorten doi formatt 
+logger 
+
+
+valu 
+
+
+
+key 
+format 
+descript 
+exampl input 
+

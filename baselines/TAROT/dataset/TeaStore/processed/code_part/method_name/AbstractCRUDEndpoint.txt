@@ -1,0 +1,11 @@
+creat 
+creat entiti 
+find id 
+find entiti id 
+list 
+list entiti 
+updat 
+updat entiti 
+delet id 
+delet entiti 
+pars int queri param 

@@ -1,0 +1,25 @@
+student attribut test 
+
+
+
+
+test builder build noth default valu 
+test builder null valu throw 
+test copi 
+test valu field popul cours student generat attribut correct 
+test valu field popul null default valu 
+test builder typic data build attribut correct valu 
+test valid 
+test updat option typic updat option updat attribut correct 
+test updat option builder null input fail assert error 
+test sort team 
+test sort section 
+test regist 
+test string 
+test registr link 
+test equal 
+test hash code 
+generat typic student object 
+generat typic student attribut list 
+generat valid student attribut object 
+

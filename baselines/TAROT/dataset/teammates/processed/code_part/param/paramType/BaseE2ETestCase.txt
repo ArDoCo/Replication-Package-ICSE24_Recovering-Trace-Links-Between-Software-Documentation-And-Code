@@ -1,0 +1,14 @@
+app url 
+app url 
+app url 
+account attribut 
+cours attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+instructor attribut 
+account request attribut 
+notif attribut 
+deadlin extens attribut 
+data bundl 
+data bundl 

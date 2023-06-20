@@ -1,0 +1,11 @@
+bib entri tabl view model 
+creat link identifi bind 
+entri 
+creat match group bind 
+field 
+link file 
+link identifi 
+match group 
+special field 
+field 
+bib databas context properti 

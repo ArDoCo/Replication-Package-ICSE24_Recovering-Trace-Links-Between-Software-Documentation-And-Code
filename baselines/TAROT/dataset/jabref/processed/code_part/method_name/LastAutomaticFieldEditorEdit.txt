@@ -1,0 +1,6 @@
+automat field editor edit 
+affect entri 
+edit 
+tab index 
+undo 
+redo 

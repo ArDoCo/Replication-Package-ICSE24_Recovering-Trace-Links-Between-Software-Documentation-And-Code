@@ -1,0 +1,57 @@
+write metadata pdf action 
+state manag 
+entri type manag 
+field prefer 
+dialog servic 
+task executor 
+file prefer 
+xmp prefer 
+option dialog 
+databas 
+entri 
+entri 
+continu 
+skip 
+entri chang 
+error 
+button 
+cancel button 
+cancel 
+progress area 
+
+field prefer 
+dialog servic 
+file prefer 
+xmp prefer 
+bib entri 
+
+state manag 
+entri type manag 
+field prefer 
+dialog servic 
+task executor 
+file prefer 
+xmp prefer 
+file 
+entri 
+databas context 
+databas 
+
+field prefer 
+dialog servic 
+file prefer 
+xmp prefer 
+bib entri 
+
+write metadata pdf action 
+execut 
+init 
+write metadata 
+write metadata file 
+option dialog 
+dispos 
+
+open 
+cancel 
+progress area 
+

@@ -1,0 +1,8 @@
+properti util 
+
+
+interfac 
+
+
+init properti 
+

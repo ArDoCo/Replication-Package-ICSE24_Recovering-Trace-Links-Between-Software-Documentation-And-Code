@@ -1,0 +1,7 @@
+wrap file 
+resolv string 
+resolv string 
+resolv string field 
+alway reformat bib 
+autosav local librari 
+autosav local librari 

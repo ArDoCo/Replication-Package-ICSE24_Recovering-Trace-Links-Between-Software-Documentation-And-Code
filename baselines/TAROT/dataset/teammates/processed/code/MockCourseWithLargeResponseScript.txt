@@ -1,0 +1,39 @@
+mock cours larg respons script 
+number student 
+number team 
+number feedback question 
+feedback question recipi type 
+cours id 
+cours 
+cours time zone 
+instructor id 
+instructor 
+instructor email 
+student id 
+student 
+student email 
+team 
+giver section 
+receiv section 
+feedback session 
+feedback question id 
+feedback question text 
+feedback respons id 
+
+feedback particip type 
+
+arg 
+
+
+mock cours larg respons script 
+oper 
+generat account 
+generat cours 
+generat instructor 
+generat student 
+generat feedback session 
+generat feedback question 
+generat feedback respons 
+generat data bundl 
+main 
+

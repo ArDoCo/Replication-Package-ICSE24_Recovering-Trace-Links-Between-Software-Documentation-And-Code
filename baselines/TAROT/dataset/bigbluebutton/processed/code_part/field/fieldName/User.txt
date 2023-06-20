@@ -1,0 +1,16 @@
+intern user id 
+extern user id 
+fullnam 
+role 
+lock 
+avatar url 
+status 
+status 
+guest 
+guest status 
+listen onli 
+voic join 
+client type 
+stream 
+stream 
+left 

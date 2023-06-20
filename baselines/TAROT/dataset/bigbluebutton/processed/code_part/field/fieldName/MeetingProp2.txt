@@ -1,0 +1,8 @@
+
+ext id 
+int id 
+meet camera cap 
+max pin camera 
+parent id 
+sequenc 
+breakout 

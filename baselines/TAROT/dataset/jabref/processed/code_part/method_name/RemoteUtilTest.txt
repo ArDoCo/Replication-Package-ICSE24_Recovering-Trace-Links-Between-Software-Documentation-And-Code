@@ -1,0 +1,4 @@
+reject port number 
+reject reserv system port 
+reject port abov bit 
+accept port abov system port 

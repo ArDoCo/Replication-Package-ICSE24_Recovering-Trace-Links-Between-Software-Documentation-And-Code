@@ -1,0 +1,64 @@
+feedback session 
+cours id 
+creator email 
+instruct 
+creat time 
+delet time 
+start time 
+time 
+session visibl time 
+result visibl time 
+time zone 
+grace period 
+sent open email 
+sent open email 
+sent close email 
+sent close email 
+sent publish email 
+open email enabl 
+close email enabl 
+publish email enabl 
+student deadlin 
+student deadlin 
+instructor deadlin 
+instructor deadlin 
+user email 
+deadlin supplier 
+deadlin supplier 
+feedback session attribut 
+cours id 
+feedback session 
+instruct option 
+instruct option 
+start time option 
+start time option 
+time option 
+time option 
+session visibl time option 
+session visibl time option 
+result visibl time option 
+result visibl time option 
+time zone option 
+time zone option 
+grace period option 
+grace period option 
+sent open email option 
+sent open email option 
+sent open email option 
+sent open email option 
+sent close email option 
+sent close email option 
+sent close email option 
+sent close email option 
+sent publish email option 
+sent publish email option 
+close email enabl option 
+close email enabl option 
+publish email enabl option 
+publish email enabl option 
+student deadlin option 
+student deadlin option 
+instructor deadlin option 
+instructor deadlin option 
+updat option 
+builder 

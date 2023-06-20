@@ -1,0 +1,4 @@
+store imag 
+store imag 
+abstract entri 
+store imag 

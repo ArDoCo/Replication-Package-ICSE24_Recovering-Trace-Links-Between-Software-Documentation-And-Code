@@ -1,0 +1,10 @@
+categori 
+categori 
+id 
+set id 
+
+set 
+descript 
+set descript 
+hash code 
+equal 

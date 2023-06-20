@@ -1,0 +1,6 @@
+dbms synchron 
+bib databas 
+pattern 
+dbms connect 
+dbms processor 
+dbms type 

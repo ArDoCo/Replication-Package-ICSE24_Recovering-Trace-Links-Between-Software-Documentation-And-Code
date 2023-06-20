@@ -1,0 +1,6 @@
+detect biblatex 
+detect undistinguish bibtex 
+detect mix mode biblatex 
+detect unknown type bibtex 
+ignor unknown type bibtex decis 
+ignor unknown type biblatex decis 

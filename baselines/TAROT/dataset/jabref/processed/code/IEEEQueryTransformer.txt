@@ -1,0 +1,30 @@
+ieee queri transform 
+stop word 
+stop word 
+journal 
+articl number 
+
+
+author 
+titl 
+journal 
+year 
+field string 
+term 
+term 
+term 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+handl field 
+handl field term 
+handl articl number 
+journal 
+articl number 
+

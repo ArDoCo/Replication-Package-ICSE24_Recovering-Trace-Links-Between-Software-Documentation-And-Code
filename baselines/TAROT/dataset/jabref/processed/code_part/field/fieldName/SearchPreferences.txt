@@ -1,0 +1,7 @@
+search display mode 
+search display mode 
+search flag 
+search flag 
+window top 
+search window height 
+search window width 

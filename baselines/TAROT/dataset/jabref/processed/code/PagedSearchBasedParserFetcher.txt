@@ -1,0 +1,18 @@
+page search base parser fetcher 
+
+
+lucen queri 
+page number 
+url queri 
+lucen queri 
+page number 
+lucen queri 
+lucen queri 
+
+
+perform search page 
+bib entri 
+url queri 
+url queri 
+perform search 
+

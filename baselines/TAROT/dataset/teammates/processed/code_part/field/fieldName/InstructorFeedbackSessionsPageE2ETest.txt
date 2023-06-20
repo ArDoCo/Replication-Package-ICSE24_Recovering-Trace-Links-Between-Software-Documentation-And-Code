@@ -1,0 +1,8 @@
+instructor 
+cours 
+copi cours 
+student email 
+open session 
+close session 
+session 
+file 

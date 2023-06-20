@@ -1,0 +1,3 @@
+setup algo 
+test singl result 
+test multi result 

@@ -1,0 +1,6 @@
+instructor cours student detail edit page 
+expect page content 
+verifi correct page 
+verifi student detail 
+edit student detail 
+edit student email resend link 

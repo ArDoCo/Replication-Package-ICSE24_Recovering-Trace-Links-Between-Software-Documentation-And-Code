@@ -1,0 +1,22 @@
+freeswitch applic 
+run delay command 
+queue messag 
+transfer user meet 
+start 
+run 
+user status 
+check run record 
+user 
+mute user 
+deaf user 
+hold user 
+play sound 
+stop sound 
+eject 
+eject 
+gen timestamp 
+start record 
+stop record 
+send messag freeswitch 
+run 
+stop 

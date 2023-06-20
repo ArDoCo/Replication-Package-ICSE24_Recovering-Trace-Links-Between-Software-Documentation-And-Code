@@ -1,0 +1,6 @@
+room 
+request id 
+record 
+icecast path 
+respons 
+event listen 

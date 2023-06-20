@@ -1,0 +1,26 @@
+copi singl file action 
+link file 
+dialog servic 
+databas context 
+file prefer 
+resolv path filenam 
+resolv path filenam 
+
+link file 
+dialog servic 
+file prefer 
+
+link file 
+dialog servic 
+databas context 
+file prefer 
+export path 
+
+link file 
+dialog servic 
+file prefer 
+
+copi singl file action 
+execut 
+copi file destin 
+

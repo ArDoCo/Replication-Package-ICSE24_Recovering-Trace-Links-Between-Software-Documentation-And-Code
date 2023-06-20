@@ -1,0 +1,10 @@
+bib databas 
+
+
+entri 
+
+bib entri 
+
+bib databas 
+purg empti entri 
+

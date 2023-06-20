@@ -1,0 +1,12 @@
+event receiv 
+confer event join 
+confer event leav 
+confer event mute 
+confer event mute 
+confer event action 
+confer event transfer 
+confer event thread run 
+confer event record 
+confer event play file 
+background job result receiv 
+caught 

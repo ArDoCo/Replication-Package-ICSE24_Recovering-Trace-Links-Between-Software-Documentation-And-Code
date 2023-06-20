@@ -1,0 +1,6 @@
+manag compon:compound
+compon answer:nsubj
+request answer:obj
+registr request:nmod
+authent request:nmod
+authent registr:conj

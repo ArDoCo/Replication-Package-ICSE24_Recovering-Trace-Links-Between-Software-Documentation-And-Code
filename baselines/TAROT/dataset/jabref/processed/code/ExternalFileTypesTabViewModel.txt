@@ -1,0 +1,25 @@
+extern file type tab view model 
+file type 
+file type 
+file prefer 
+dialog servic 
+
+
+file prefer 
+dialog servic 
+item 
+dialog titl 
+type 
+type 
+
+
+extern file type tab view model 
+set valu 
+store set 
+reset default 
+add type 
+file type 
+show edit dialog 
+edit 
+remov 
+

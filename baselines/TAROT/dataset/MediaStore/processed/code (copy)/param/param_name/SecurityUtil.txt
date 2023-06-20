@@ -1,0 +1,10 @@
+string 
+string 
+salt 
+length 
+login password 
+db password 
+text 
+text 
+ 
+ 

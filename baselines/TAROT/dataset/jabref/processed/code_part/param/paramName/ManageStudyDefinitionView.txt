@@ -1,0 +1,11 @@
+path studi data directori 
+studi 
+studi directori 
+edit 
+add control 
+add action 
+content column 
+action column 
+content column 
+action column 
+remov action 

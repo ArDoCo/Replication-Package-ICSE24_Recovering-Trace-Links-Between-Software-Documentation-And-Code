@@ -1,0 +1,23 @@
+valid 
+question number 
+question descript 
+question detail 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 
+convert feedback particip type 
+set question number 
+set question 
+set question descript 
+set question detail 
+set question type 
+set giver type 
+set recipi type 
+set number entiti give feedback set 
+set custom number entiti give feedback 
+set show respons 
+set show giver 
+set show recipi 

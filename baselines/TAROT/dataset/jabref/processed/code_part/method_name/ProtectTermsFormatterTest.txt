@@ -1,0 +1,7 @@
+set 
+test singl word 
+test protect alreadi protect 
+test case sensit 
+format exampl 
+test correct order term 
+test 

@@ -1,0 +1,24 @@
+regex keyword group 
+pattern 
+
+
+
+context 
+search field 
+search express 
+case sensit 
+search express 
+case sensit 
+entri 
+ 
+
+field 
+bib entri 
+
+regex keyword group 
+compil pattern 
+
+equal 
+deep copi 
+hash code 
+

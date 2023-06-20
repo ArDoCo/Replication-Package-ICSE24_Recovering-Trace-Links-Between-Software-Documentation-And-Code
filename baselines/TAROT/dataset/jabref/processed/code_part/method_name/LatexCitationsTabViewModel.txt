@@ -1,0 +1,12 @@
+latex citat tab view model 
+init 
+directori properti 
+citat list 
+status properti 
+search error properti 
+start search 
+cancel search 
+search pars 
+search directori 
+set latex directori 
+show 

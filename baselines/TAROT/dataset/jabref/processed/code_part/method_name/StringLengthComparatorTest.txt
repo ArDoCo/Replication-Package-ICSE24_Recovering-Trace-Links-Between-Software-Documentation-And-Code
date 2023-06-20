@@ -1,0 +1,3 @@
+set 
+compar string length 
+test 

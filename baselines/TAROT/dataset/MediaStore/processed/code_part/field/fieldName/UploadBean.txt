@@ -1,0 +1,12 @@
+serial version uid 
+session bean 
+download bean 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+facad 
+file 

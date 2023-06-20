@@ -1,0 +1,6 @@
+standard extern file type 
+
+extens 
+mime type 
+open applic 
+icon 

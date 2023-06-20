@@ -1,0 +1,20 @@
+log 
+svg imag requir 
+generat pngs 
+page extractor 
+big pdf size 
+max big pdf page size 
+max convers time 
+text file creator 
+svg imag creator 
+thumbnail creator 
+png creator 
+notifi 
+counter servic 
+present convers complet servic 
+imag slide generat servic 
+pdf slide generat servic 
+executor 
+process present 
+present 
+present 

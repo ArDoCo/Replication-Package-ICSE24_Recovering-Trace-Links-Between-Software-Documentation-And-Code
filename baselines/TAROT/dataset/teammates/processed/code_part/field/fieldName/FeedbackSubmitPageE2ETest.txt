@@ -1,0 +1,6 @@
+student 
+instructor 
+cours 
+open session 
+close session 
+grace period session 

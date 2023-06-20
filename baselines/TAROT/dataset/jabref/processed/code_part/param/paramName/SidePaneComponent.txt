@@ -1,0 +1,7 @@
+side pane type 
+close command 
+move command 
+move command 
+content factori 
+button 
+posit 

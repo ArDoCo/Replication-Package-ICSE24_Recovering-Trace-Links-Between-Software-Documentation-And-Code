@@ -1,0 +1,34 @@
+aux parser result 
+master databas 
+uniqu key 
+uniqu key 
+unresolv key 
+unresolv key 
+aux databas 
+nest aux count 
+cross ref entri count 
+insert string 
+
+bib databas 
+bib databas 
+
+master databas 
+string 
+
+bib databas 
+
+aux parser result 
+generat bib databas 
+unresolv key 
+key aux 
+resolv key count 
+unresolv key count 
+cross ref entri count 
+increas cross ref entri counter 
+increas nest aux file counter 
+insert string 
+master databas 
+nest aux count 
+insert string 
+uniqu key 
+

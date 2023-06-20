@@ -1,0 +1,13 @@
+iacr eprint fetcher 
+perform search id 
+creat entri iacr citat 
+set addit field 
+version 
+abstract 
+date 
+html 
+requir valu 
+year 
+
+find full text 
+trust level 

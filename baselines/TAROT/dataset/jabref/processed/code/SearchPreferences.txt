@@ -1,0 +1,51 @@
+search prefer 
+search display mode 
+search display mode 
+search flag 
+search flag 
+window top 
+search window height 
+search window width 
+
+
+search display mode 
+case sensit 
+regular express 
+fulltext 
+search string 
+window top 
+search window height 
+search window width 
+search display mode 
+search flag 
+window top 
+search display mode 
+flag 
+valu 
+window top 
+height 
+width 
+
+
+search prefer 
+search prefer 
+search flag 
+observ search flag 
+search display mode 
+search display mode properti 
+set search display mode 
+case sensit 
+set search flag 
+regular express 
+fulltext 
+search string 
+window top 
+window top properti 
+set window top 
+search window height 
+search window width 
+search window height properti 
+search window width properti 
+set search window height 
+set search window width 
+

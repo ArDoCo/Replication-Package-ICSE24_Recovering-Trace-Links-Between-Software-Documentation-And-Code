@@ -1,0 +1,5 @@
+dialog size limit 
+toast messag display time 
+logger 
+main window 
+theme manag 

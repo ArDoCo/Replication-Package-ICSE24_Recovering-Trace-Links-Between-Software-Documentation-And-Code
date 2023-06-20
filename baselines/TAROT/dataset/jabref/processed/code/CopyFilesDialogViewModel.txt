@@ -1,0 +1,13 @@
+copi file dialog view model 
+copi file result item 
+copi file result item 
+
+copi file result item view model 
+
+result 
+
+copi file result list depend 
+
+copi file dialog view model 
+copi file result list properti 
+

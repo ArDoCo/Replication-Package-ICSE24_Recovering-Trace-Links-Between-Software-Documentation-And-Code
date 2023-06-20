@@ -1,0 +1,17 @@
+author 
+add dot abbrevi 
+hash code 
+equal 
+proper bracket 
+remov start brace 
+
+abbr 
+von 
+
+jr 
+onli 
+
+
+string 
+alphabet 
+latex free 

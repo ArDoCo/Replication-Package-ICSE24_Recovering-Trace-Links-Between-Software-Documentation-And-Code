@@ -1,0 +1,18 @@
+pars entri 
+pars entri 
+pars entri 
+put isbn 
+put person 
+put titl 
+put edit 
+put public 
+put physic descript 
+put seri 
+put summari 
+put keyword 
+put doi 
+put electron locat 
+put note 
+subfield 
+child 
+children 

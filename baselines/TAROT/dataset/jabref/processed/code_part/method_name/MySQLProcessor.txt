@@ -1,0 +1,5 @@
+sql processor 
+set 
+escap 
+escap tabl 
+current version db struct 

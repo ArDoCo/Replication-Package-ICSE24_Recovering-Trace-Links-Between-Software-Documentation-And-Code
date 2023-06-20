@@ -1,0 +1,14 @@
+abstract push applic 
+applic icon 
+tooltip 
+action 
+push entri 
+oper complet 
+requir citat key 
+command line 
+command 
+cite command 
+set 
+text 
+icon 
+key bind 

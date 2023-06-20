@@ -1,0 +1,12 @@
+editor valid 
+prefer 
+
+
+prefer 
+status 
+text input 
+
+
+editor valid 
+configur valid 
+

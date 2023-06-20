@@ -1,0 +1,7 @@
+extern file entri linker 
+copi file file dir 
+renam link file pattern 
+move link file file dir 
+add file entri 
+move file file dir add entri 
+copi file file dir add entri 

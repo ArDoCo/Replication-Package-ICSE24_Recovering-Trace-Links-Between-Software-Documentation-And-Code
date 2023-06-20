@@ -1,0 +1,4 @@
+diagram describ:nsubj
+flow describ:obj
+present convers:compound
+convers flow:nmod

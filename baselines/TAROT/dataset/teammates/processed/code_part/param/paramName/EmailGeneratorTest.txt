@@ -1,0 +1,8 @@
+email 
+recipi 
+subject 
+email content file path 
+actual email 
+recipi 
+subject 
+email content file path 

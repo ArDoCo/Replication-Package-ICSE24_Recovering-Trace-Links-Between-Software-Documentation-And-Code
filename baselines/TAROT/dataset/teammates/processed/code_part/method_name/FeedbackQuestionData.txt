@@ -1,0 +1,17 @@
+feedback question data 
+convert feedback visibl type 
+feedback question id 
+question number 
+set question number 
+question 
+question descript 
+question detail 
+question type 
+giver type 
+recipi type 
+number entiti give feedback set 
+custom number entiti give feedback 
+show respons 
+show giver 
+show recipi 
+hide inform student 

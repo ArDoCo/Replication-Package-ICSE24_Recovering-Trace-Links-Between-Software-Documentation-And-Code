@@ -1,0 +1,22 @@
+xmp prefer 
+file 
+entri 
+databas 
+dc schema 
+entri 
+databas 
+dc schema 
+entri 
+document 
+entri 
+databas 
+entri 
+entri 
+document 
+entri 
+databas 
+path 
+bibtex entri 
+databas 
+default entri 
+databas 

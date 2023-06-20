@@ -1,0 +1,7 @@
+push applic command 
+regist reconfigur 
+set applic 
+action 
+key string 
+execut 
+push entri 

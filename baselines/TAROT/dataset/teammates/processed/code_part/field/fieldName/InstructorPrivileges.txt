@@ -1,0 +1,19 @@
+privileg coowner 
+privileg manag 
+privileg observ 
+privileg tutor 
+privileg custom 
+cours level onli list 
+section level onli list 
+session level onli list 
+cours level onli privileg 
+cours level onli privileg 
+section level onli privileg 
+section level onli privileg 
+session level onli privileg 
+session level onli privileg 
+cours level 
+section level 
+section level 
+session level 
+session level 

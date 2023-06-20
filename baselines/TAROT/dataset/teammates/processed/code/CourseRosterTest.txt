@@ -1,0 +1,18 @@
+cours roster test 
+
+
+student data 
+instructor data 
+
+
+test 
+test build team member tabl empti student list return empti map 
+test build team member tabl typic student list build map 
+test team member tabl typic case group team correct 
+test info identifi student case show correct info 
+test info identifi instructor case show correct info 
+test info identifi team case show correct info 
+test info identifi unknown case show correct info 
+creat student list 
+creat instructor list 
+

@@ -1,0 +1,34 @@
+constant properti view model 
+string label 
+string list properti 
+string list properti 
+valid properti 
+databas context 
+dialog servic 
+
+constant item model 
+dialog servic 
+
+databas context 
+dialog servic 
+item 
+bibtex string 
+view model 
+label 
+
+dialog servic 
+constant item model 
+constant item model 
+
+constant properti view model 
+set valu 
+add string 
+remov string 
+convert bib tex string 
+store set 
+bibtex string view model 
+label alreadi exist 
+open page 
+string list properti 
+valid properti 
+

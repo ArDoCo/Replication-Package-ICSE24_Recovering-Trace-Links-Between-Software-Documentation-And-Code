@@ -1,0 +1,3 @@
+content 
+affect entri 
+total entri 

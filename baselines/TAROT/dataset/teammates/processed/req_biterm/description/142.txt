@@ -1,0 +1,6 @@
+result state:obl
+data state:nsubj
+inconsist state:amod
+short period:amod
+period state:nmod
+time period:nmod

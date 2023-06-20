@@ -1,0 +1,46 @@
+feedback respons comment logic test 
+frc logic 
+fq logic 
+fr logic 
+cours roster data bundl 
+
+feedback respons comment logic 
+
+fr comment 
+fr comment 
+exist fr comment data bundl 
+fr comment 
+exist fr comment 
+question data bundl 
+respons data bundl 
+question data bundl 
+
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+
+prepar test data 
+refresh test data 
+test creat feedback respons comment 
+test creat feedback respons comment invalid comment giver type thrown 
+test creat feedback respons comment unknown feedback particip thrown 
+test creat feedback respons comment invalid visibl set thrown 
+test feedback respons comment 
+test updat feedback respons comment 
+test delet feedback respons comment 
+test delet feedback respons comment delet respons id 
+test delet feedback respons comment delet cours id 
+test feedback respons comment session section section return comment session 
+test feedback respons comment session section section return comment section 
+test feedback respons comment question section section return comment question 
+test feedback respons comment question section section return comment question 
+test visibl user 
+test respons comment visibl user 
+verifi null fr comment session 
+verifi null fr comment 
+restor fr comment data bundl 
+restor fr comment id exist 
+question id data bundl 
+respons id data bundl 
+

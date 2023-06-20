@@ -1,0 +1,12 @@
+cours id 
+cours 
+cours time zone 
+institut 
+creat 
+delet 
+uniqu id 
+
+creat 
+delet 
+time zone 
+institut 

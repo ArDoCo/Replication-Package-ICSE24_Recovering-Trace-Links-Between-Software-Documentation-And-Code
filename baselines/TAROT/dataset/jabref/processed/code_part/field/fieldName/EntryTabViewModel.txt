@@ -1,0 +1,9 @@
+keyword separ properti 
+mark owner properti 
+mark owner properti 
+mark owner overwrit properti 
+add creation date properti 
+add modif date properti 
+bib entri prefer 
+owner prefer 
+timestamp prefer 

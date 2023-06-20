@@ -1,0 +1,30 @@
+progress input stream 
+max num byte 
+total num byte read 
+progress 
+
+
+
+max num byte 
+ 
+
+len 
+ 
+readlimit 
+num byte read 
+
+
+progress input stream 
+total num byte read 
+total num byte read properti 
+progress 
+progress properti 
+max num byte 
+read 
+read 
+skip 
+mark 
+reset 
+mark support 
+updat progress 
+

@@ -1,0 +1,6 @@
+resourc prefix 
+logger 
+local 
+local messag 
+lookup 
+lookup 

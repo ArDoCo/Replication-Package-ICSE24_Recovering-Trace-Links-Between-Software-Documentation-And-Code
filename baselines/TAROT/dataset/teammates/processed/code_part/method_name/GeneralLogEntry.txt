@@ -1,0 +1,11 @@
+general log entri 
+set messag 
+set detail 
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 

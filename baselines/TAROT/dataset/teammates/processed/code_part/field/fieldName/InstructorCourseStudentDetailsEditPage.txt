@@ -1,0 +1,7 @@
+cours id 
+student textbox 
+section textbox 
+team textbox 
+student email textbox 
+comment textbox 
+submit button 

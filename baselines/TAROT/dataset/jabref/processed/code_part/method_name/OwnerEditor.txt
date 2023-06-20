@@ -1,0 +1,5 @@
+owner editor 
+view model 
+bind entri 
+node 
+set owner 

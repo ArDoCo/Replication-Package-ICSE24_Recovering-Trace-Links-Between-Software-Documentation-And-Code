@@ -1,0 +1,4 @@
+registri startup 
+context destroy 
+context initi 
+run 

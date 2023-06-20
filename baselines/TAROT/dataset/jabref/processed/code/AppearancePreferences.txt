@@ -1,0 +1,29 @@
+prefer 
+overrid default font size 
+main font size 
+default font size 
+theme 
+theme 
+
+
+overrid default font size 
+main font size 
+default font size 
+theme 
+valu 
+main font size 
+theme 
+
+
+prefer 
+overrid default font size 
+set overrid default font size 
+overrid default font size properti 
+main font size 
+default font size 
+set main font size 
+main font size properti 
+theme 
+set theme 
+theme properti 
+

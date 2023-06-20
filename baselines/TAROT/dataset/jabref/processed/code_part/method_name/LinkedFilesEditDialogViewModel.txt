@@ -1,0 +1,10 @@
+link file edit dialog view model 
+set extern file type extens 
+open brows dialog 
+set valu 
+link properti 
+descript properti 
+extern file type properti 
+select extern file type properti 
+link file 
+relativ 

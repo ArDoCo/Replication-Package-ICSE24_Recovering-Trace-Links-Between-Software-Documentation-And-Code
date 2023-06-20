@@ -1,0 +1,21 @@
+java local entri parser 
+infinit whitespac 
+dot 
+local start pattern 
+local menu start pattern 
+escap quotat symbol 
+quotat placehold 
+quotat symbol pattern 
+
+
+content 
+type 
+param 
+content 
+type 
+
+
+languag key string 
+content quot 
+local paramet 
+

@@ -1,0 +1,1 @@
+featur endpoint general crud oper creat read updat delet persist entiti 

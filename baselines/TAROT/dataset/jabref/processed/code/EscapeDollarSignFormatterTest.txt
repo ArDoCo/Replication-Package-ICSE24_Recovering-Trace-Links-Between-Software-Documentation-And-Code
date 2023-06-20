@@ -1,0 +1,13 @@
+cape dollar sign formatt test 
+formatt 
+
+cape dollar sign formatt 
+
+expect 
+input 
+
+
+correct format 
+correct format 
+format exampl 
+

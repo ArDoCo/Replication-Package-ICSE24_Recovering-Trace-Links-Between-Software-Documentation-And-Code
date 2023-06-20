@@ -1,0 +1,4 @@
+event bus:compound
+event publish:obj
+model publish:obl
+layer model:nmod

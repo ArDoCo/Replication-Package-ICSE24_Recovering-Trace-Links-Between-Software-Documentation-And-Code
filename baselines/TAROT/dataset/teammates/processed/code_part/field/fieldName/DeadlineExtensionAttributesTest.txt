@@ -1,0 +1,3 @@
+valid cours id 
+valid feedback session 
+valid user email 

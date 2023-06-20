@@ -1,0 +1,14 @@
+jabref download url 
+unknown version 
+version pattern 
+ci suffix pattern 
+jabref github releas 
+full version 
+major 
+minor 
+patch 
+develop stage 
+develop num 
+develop version 
+stabil 
+stage 

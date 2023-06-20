@@ -1,0 +1,46 @@
+feedback respons comment id 
+feedback respons id 
+comment giver 
+creat 
+cours id 
+comment giver 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+question id 
+cours id 
+feedback session 
+section 
+question id 
+section 
+updat option 
+cours id 
+email 
+updat email 
+cours id 
+email 
+updat email 
+comment id 
+queri 
+feedback respons comment id 
+feedback respons id 
+giver email 
+creat 
+cours id 
+giver email 
+cours id 
+editor email 
+feedback respons id 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+question id 
+question id 
+section 
+cours id 
+feedback session 
+section 
+entiti creat 
+entiti 

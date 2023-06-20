@@ -1,0 +1,4 @@
+endofrecord 
+pattern 
+pattern 
+prefer 

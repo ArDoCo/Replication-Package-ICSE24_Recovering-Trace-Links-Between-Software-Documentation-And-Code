@@ -1,0 +1,4 @@
+standard action 
+dialog servic 
+clip board manag 
+prefer servic 

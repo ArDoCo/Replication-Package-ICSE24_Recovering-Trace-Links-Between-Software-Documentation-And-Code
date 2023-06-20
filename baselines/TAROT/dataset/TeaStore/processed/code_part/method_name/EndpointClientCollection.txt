@@ -1,0 +1,5 @@
+endpoint client collect 
+updat server 
+endpoint uri 
+updat client 
+rest client 

@@ -1,0 +1,3 @@
+test pair duplic doi 
+test multi pair duplic doi 
+test duplic doi 

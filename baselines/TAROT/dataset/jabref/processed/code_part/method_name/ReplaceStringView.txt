@@ -1,0 +1,3 @@
+replac string view 
+initi 
+button replac 

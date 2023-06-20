@@ -1,0 +1,27 @@
+student cours detail page 
+cours field 
+cours id field 
+cours institut field 
+instructor list 
+student field 
+student section field 
+student team field 
+student email field 
+
+
+browser 
+cours detail 
+instructor detail 
+student detail 
+teammat 
+
+cours attribut 
+
+student cours detail page 
+expect page content 
+verifi cours detail 
+verifi instructor detail 
+verifi student detail 
+verifi teammat detail 
+sort teammat 
+

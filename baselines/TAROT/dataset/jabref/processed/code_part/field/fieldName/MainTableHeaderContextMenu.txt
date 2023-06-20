@@ -1,0 +1,5 @@
+bound 
+main tabl 
+factori 
+index 
+visibl tabl 

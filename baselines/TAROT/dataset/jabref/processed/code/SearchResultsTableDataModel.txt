@@ -1,0 +1,24 @@
+search result tabl data model 
+entri filter 
+entri filter 
+entri sort 
+entri sort 
+field valu formatt 
+field valu formatt 
+display prefer 
+bib databas context 
+
+main tabl field valu formatt 
+
+bib databas context 
+prefer servic 
+state manag 
+queri 
+entri 
+
+
+search result tabl data model 
+match search 
+entri filter sort 
+refresh 
+

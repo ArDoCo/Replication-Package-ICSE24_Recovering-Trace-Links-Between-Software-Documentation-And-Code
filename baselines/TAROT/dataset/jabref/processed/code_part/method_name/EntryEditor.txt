@@ -1,0 +1,18 @@
+entri editor 
+setup key bind 
+close 
+delet entri 
+generat cite key button 
+generat cleanup button 
+navig previous entri 
+navig entri 
+creat tab 
+recalcul visibl tab 
+entri 
+set entri 
+select tab 
+setup tool bar 
+fetch merg 
+set focus field 
+preview style 
+previous preview style 

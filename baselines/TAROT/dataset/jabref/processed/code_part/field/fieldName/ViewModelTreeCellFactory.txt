@@ -1,0 +1,8 @@
+text 
+text 
+graphic 
+graphic 
+mous click event 
+mous click event 
+tooltip 
+tooltip 

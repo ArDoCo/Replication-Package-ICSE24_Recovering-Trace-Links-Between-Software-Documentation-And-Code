@@ -1,0 +1,14 @@
+formatt 
+truncat pattern 
+
+
+modifi 
+
+
+formatt 
+convert 
+case changer 
+
+
+formatt modifi 
+

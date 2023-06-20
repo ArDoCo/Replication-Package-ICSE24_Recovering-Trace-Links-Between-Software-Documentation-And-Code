@@ -1,0 +1,5 @@
+oracl connect 
+listen 
+databas chang registr 
+version db struct default 
+current version db struct 

@@ -1,0 +1,260 @@
+const 
+user nobodi text 
+user team instructor 
+default display instructor 
+display anonym particip 
+section size limit 
+default section 
+unknown institut 
+default time zone 
+encod 
+feedback session search window 
+log retent period 
+cooki valid period 
+search queri size limit 
+int uniniti 
+max possibl recipi 
+point equal share 
+point 
+point submit 
+point valu 
+general question 
+time repres follow open 
+time repres follow visibl 
+time repres 
+time repres 
+time repres default timestamp 
+test email domain 
+instructor permiss role coowner 
+instructor permiss role manag 
+instructor permiss role observ 
+instructor permiss role tutor 
+instructor permiss role custom 
+modifi cours 
+modifi instructor 
+modifi session 
+modifi student 
+view student section 
+view session section 
+submit session section 
+modifi session comment section 
+recycl bin 
+student rejoin 
+instructor rejoin 
+cours id 
+cours status 
+instructor id 
+instructor email 
+instructor institut 
+creat account 
+instructor 
+feedback session 
+feedback session starttim 
+feedback session endtim 
+feedback session moder person 
+feedback session log type 
+feedback session log starttim 
+feedback session log endtim 
+feedback question id 
+feedback respons id 
+feedback respons comment id 
+feedback result groupbysect 
+feedback result section giver receiv 
+previewa 
+student id 
+invit id 
+regkey 
+student email 
+section 
+team 
+error 
+user id 
+search key 
+user captcha respons 
+email type 
+user email 
+entiti type 
+intent 
+timezon 
+notifi deadlin 
+queri log starttim 
+queri log endtim 
+queri log sever 
+queri log min sever 
+queri log trace 
+queri log action class 
+queri log email 
+queri log event 
+queri log sourc locat file 
+queri log sourc locat function 
+queri log class 
+queri log latenc 
+queri log status 
+queri log version 
+queri log extra filter 
+queri log order 
+limit 
+notif id 
+notif target user 
+notif fetch 
+notfic time 
+continu url 
+backdoor key 
+csrf key 
+web version 
+csrf token 
+activ 
+archiv 
+soft delet 
+student 
+instructor 
+admin 
+maintain 
+csrf cooki 
+auth cooki 
+instructor cours join 
+student cours join 
+student cours join 
+instructor home page 
+student home page 
+student feedback submiss edit page 
+student feedback result page 
+instructor feedback submiss edit page 
+instructor feedback result page 
+login 
+logout 
+uri prefix 
+student page 
+instructor page 
+admin page 
+maintain page 
+front page 
+join page 
+admin home page 
+admin account page 
+admin search page 
+admin session page 
+admin timezon page 
+admin log page 
+admin notif page 
+maintain home page 
+instructor home page 
+instructor search page 
+instructor session page 
+instructor session submiss page 
+instructor session edit page 
+instructor session individu extens page 
+instructor session result page 
+instructor session report page 
+instructor cours page 
+instructor cours detail page 
+instructor cours edit page 
+instructor cours enrol page 
+instructor cours student detail page 
+instructor cours student detail edit page 
+instructor student list page 
+instructor student record page 
+instructor student activ log page 
+instructor notif page 
+student home page 
+student cours detail page 
+student session submiss page 
+student session result page 
+student notif page 
+session result page 
+session submiss page 
+session link recoveri page 
+uri prefix 
+databundl 
+databundl document 
+deadlin extens 
+
+error report 
+auth 
+auth regkey 
+account 
+account reset 
+account request 
+account request reset 
+account 
+respons comment 
+cours 
+cours archiv 
+bin cours 
+cours section 
+cours 
+instructor 
+instructor 
+instructor privileg 
+instructor key 
+result 
+student 
+student 
+student key 
+notif 
+notif 
+notif read 
+session ongo 
+session 
+session publish 
+session remind submiss 
+session remind result 
+session stat 
+session submit giver set 
+session 
+search account request 
+search instructor 
+search student 
+bin session 
+question 
+question 
+question recipi 
+respons 
+usag statist 
+respons 
+join 
+join remind 
+timezon 
+session link recoveri 
+email 
+login email 
+session log 
+log 
+action class 
+user cooki 
+uri prefix 
+autom log compil 
+autom datastor backup 
+autom feedback open remind 
+autom feedback open remind 
+autom feedback close remind 
+autom feedback close remind 
+autom feedback publish remind 
+autom usag statist collect 
+uri prefix 
+feedback session publish email queue 
+feedback session publish email worker url 
+feedback session resend publish email queue 
+feedback session resend publish email worker url 
+feedback session remind email queue 
+feedback session remind email worker url 
+feedback session remind user email queue 
+feedback session remind user email worker url 
+feedback session unpublish email queue 
+feedback session unpublish email worker url 
+instructor cours join email queue 
+instructor cours join email worker url 
+send email queue 
+send email worker url 
+student cours join email queue 
+student cours join email worker url 
+search index queue 
+instructor search index worker url 
+account request search index worker url 
+student search index worker url 
+
+
+
+
+const 
+

@@ -1,0 +1,8 @@
+activ applic 
+command path 
+emac argument 
+vim server 
+activ applic 
+command path 
+emac argument 
+vim server 

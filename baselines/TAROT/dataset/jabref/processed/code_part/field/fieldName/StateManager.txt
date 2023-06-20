@@ -1,0 +1,34 @@
+logger 
+local dragboard 
+open databas 
+open databas 
+activ databas 
+activ databas 
+activ group 
+activ group 
+select entri 
+select entri 
+select group 
+select group 
+activ search queri 
+activ search queri 
+search result map 
+search result map 
+focus owner 
+focus owner 
+background task 
+background task 
+ani task run 
+ani task run 
+ani task recov run 
+ani task recov run 
+task progress 
+task progress 
+dialog window state 
+dialog window state 
+visibl side pane 
+visibl side pane 
+automat field editor edit 
+automat field editor edit 
+search histori 
+search histori 

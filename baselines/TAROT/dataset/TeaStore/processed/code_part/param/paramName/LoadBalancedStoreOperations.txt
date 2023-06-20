@@ -1,0 +1,20 @@
+blob 
+address 
+address 
+address 
+credit card compani 
+credit card expiri date 
+total price cent 
+credit card number 
+blob 
+
+password 
+blob 
+blob 
+blob 
+pid 
+blob 
+pid 
+blob 
+pid 
+quantiti 

@@ -1,0 +1,10 @@
+spreadsheet num start row 
+num enrol attribut 
+enrol header 
+toggl exist student header 
+exist student tabl 
+enrol spreadsheet 
+enrol button 
+result panel 
+add row button 
+add row input 

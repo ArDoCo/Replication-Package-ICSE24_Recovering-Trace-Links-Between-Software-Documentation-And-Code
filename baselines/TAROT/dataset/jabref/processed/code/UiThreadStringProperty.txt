@@ -1,0 +1,26 @@
+ui thread string properti 
+deleg 
+
+
+deleg 
+extend 
+valu 
+super 
+super 
+listen 
+listen 
+
+
+ui thread string properti 
+bind 
+unbind 
+bound 
+bean 
+
+
+set 
+add listen 
+remov listen 
+add listen 
+remov listen 
+

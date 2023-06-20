@@ -1,0 +1,9 @@
+add edit 
+undo 
+redo 
+mark unchang 
+chang 
+regist listen 
+unregist listen 
+post undo redo event 
+post add undo event 

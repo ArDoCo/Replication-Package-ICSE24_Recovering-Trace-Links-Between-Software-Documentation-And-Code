@@ -1,0 +1,8 @@
+custom import tab view model 
+set valu 
+store set 
+path class 
+add import 
+remov select import 
+select import properti 
+import properti 

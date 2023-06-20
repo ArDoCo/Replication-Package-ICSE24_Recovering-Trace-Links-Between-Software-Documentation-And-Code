@@ -1,0 +1,3 @@
+lucen queri 
+entri 
+field text 

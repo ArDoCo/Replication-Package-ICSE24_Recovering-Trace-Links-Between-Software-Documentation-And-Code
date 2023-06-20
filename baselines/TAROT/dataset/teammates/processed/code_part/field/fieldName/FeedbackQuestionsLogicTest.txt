@@ -1,0 +1,6 @@
+fq logic 
+fr logic 
+frc logic 
+fs logic 
+student logic 
+instructor logic 

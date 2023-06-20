@@ -1,0 +1,18 @@
+trophys data system 
+build post data 
+ur lfor export 
+
+api key 
+url queri 
+url entri 
+url identifi 
+page 
+parser 
+post cleanup 
+perform search 
+fetch bibcod 
+perform search id 
+perform search id 
+perform search 
+perform search page 
+url download 

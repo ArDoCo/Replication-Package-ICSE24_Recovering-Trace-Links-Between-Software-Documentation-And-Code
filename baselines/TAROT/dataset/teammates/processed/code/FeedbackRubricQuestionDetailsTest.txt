@@ -1,0 +1,23 @@
+feedback rubric question detail test 
+
+
+
+
+test constructor default constructor field correct default valu 
+test chang requir respons delet empti rubric choic return true 
+test chang requir respons delet equal size question return fals 
+test chang requir respons delet differ size question return true 
+test chang requir respons delet differ list question return true 
+test chang requir respons delet differ list question return true 
+test chang requir respons delet differ list question return true 
+test valid question detail invalid weight list size error return 
+test valid question detail valid weight list size error list empti 
+test valid question detail invalid descript size error return 
+test valid question detail invalid choic size min choic 
+test valid question detail invalid question size min question 
+test valid question detail invalid empti question size empti question 
+test valid respons detail valid answer return empti error list 
+test valid respons detail invalid answer return empti error list 
+test instructor comment respons return true 
+test feedback particip comment respons return fals 
+

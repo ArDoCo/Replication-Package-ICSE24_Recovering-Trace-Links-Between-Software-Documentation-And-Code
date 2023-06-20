@@ -1,0 +1,10 @@
+big blue button app:compound
+app applic:nsubj
+main applic:amod
+pull applic:acl
+applic pull:obj
+provid applic:acl
+real time:amod
+time collabor:compound
+collabor provid:obj
+meet provid:obl

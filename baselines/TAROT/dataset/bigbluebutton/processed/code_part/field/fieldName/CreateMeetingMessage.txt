@@ -1,0 +1,26 @@
+creat meet request event 
+version 
+id 
+extern id 
+
+record 
+voic bridg 
+durat 
+auto start record 
+start stop record 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+moder pass 
+viewer pass 
+learn dashboard access token 
+disabl featur 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+creat time 
+creat date 
+metadata 
+metadata 

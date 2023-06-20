@@ -1,0 +1,22 @@
+explicit group test 
+group 
+group 
+entri 
+
+explicit group 
+explicit group 
+bib entri 
+
+
+
+set 
+add singl group empti bib entri chang group field 
+add singl group nonempti bib entri append group field 
+add group bib entri chang group field 
+add duplic group doe chang group field 
+remov doe chang field part 
+remov doe chang field word 
+onli match complet phrase whitespac 
+onli match complet phrase slash 
+match phrase bracket 
+

@@ -1,0 +1,4 @@
+checker 
+checkerb 
+abbrevi repositori 
+entri 

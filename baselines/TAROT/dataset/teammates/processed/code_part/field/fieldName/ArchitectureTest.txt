@@ -1,0 +1,29 @@
+class 
+common packag 
+storag packag 
+storag api packag 
+storag entiti packag 
+storag search packag 
+logic packag 
+logic core packag 
+logic api packag 
+logic extern packag 
+ui packag 
+ui webapi packag 
+ui servlet packag 
+ui output packag 
+ui request packag 
+main packag 
+test driver packag 
+packag 
+case packag 
+pageobject packag 
+util packag 
+lnp packag 
+lnp case packag 
+lnp util packag 
+client packag 
+client connector packag 
+client script packag 
+client util packag 
+test file suffix 

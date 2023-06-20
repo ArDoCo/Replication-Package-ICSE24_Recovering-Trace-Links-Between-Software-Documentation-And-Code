@@ -1,0 +1,33 @@
+doc 
+doc 
+citat group 
+doc 
+citat 
+page info 
+group 
+doc 
+mark 
+doc 
+citat key 
+page info 
+citat type 
+posit 
+insert space 
+data model 
+joinabl group 
+joinabl group 
+group 
+group 
+doc 
+group 
+doc 
+group 
+doc 
+group 
+doc 
+group 
+doc 
+doc 
+citat group 
+doc 
+citat entri 

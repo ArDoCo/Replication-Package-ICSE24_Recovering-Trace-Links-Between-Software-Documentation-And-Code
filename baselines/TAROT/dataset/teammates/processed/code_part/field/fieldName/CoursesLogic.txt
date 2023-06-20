@@ -1,0 +1,11 @@
+log 
+instanc 
+cours db 
+account logic 
+feedback session logic 
+fq logic 
+fr logic 
+frc logic 
+instructor logic 
+student logic 
+deadlin extens logic 

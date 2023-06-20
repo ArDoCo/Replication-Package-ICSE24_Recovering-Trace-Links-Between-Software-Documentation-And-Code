@@ -1,0 +1,4 @@
+question type structur 
+valu 
+const sum option question struct 
+const sum recipi question struct 

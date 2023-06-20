@@ -1,0 +1,4 @@
+databas context 
+file prefer 
+pathnam 
+entri 

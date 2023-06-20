@@ -1,0 +1,6 @@
+record 
+privat chat enabl 
+captur note 
+captur slide 
+captur note filenam 
+captur slide filenam 

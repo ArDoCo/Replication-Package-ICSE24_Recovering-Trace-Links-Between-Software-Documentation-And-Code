@@ -1,0 +1,5 @@
+set 
+perform action write group membership entri 
+perform action clear legaci key 
+perform action write group membership entri complex group tree 
+generat parser result 

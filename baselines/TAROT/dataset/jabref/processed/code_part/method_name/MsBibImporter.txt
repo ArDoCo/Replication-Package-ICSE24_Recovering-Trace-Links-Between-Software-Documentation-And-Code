@@ -1,0 +1,9 @@
+recogn format 
+warn 
+fatal error 
+error 
+import databas 
+
+file type 
+descript 
+safe doc builder factori 

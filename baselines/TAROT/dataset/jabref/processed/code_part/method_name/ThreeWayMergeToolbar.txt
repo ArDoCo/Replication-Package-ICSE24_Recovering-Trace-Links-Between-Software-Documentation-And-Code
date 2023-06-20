@@ -1,0 +1,30 @@
+merg toolbar 
+initi 
+string 
+string 
+string 
+string 
+load save configur 
+save toolbar configur 
+diff view properti 
+diff view 
+set diff view 
+show diff properti 
+set show diff 
+hide equal field properti 
+hide equal field 
+show diff properti 
+show diff 
+diff highlight method properti 
+diff highlight method 
+set diff highlight method 
+set select left entri valu button click 
+set select entri valu button click 
+plain text diff 
+pars 
+valu 
+string 
+diff view 
+pars 
+valu 
+string 

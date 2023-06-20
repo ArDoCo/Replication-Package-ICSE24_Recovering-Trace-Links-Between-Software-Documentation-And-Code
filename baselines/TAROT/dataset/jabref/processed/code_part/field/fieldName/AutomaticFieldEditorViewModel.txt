@@ -1,0 +1,5 @@
+compound edit 
+field editor tab 
+field editor tab 
+dialog edit 
+undo manag 

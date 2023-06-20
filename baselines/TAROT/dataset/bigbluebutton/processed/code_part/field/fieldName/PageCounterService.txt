@@ -1,0 +1,3 @@
+log 
+max num page 
+page counter 

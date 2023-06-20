@@ -1,0 +1,4 @@
+backend frontend:dep
+process backend:dep
+valu configur:nsubj
+configur file:compound

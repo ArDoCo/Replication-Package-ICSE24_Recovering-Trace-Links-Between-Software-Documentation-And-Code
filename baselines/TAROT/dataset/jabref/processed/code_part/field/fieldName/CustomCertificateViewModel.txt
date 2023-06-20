@@ -1,0 +1,10 @@
+serial number properti 
+issuer properti 
+valid properti 
+valid properti 
+valid properti 
+valid properti 
+signatur algorithm properti 
+version properti 
+thumbprint properti 
+path properti 

@@ -1,0 +1,64 @@
+abstract cach 
+cach storag 
+cach storag 
+entri 
+max cach size 
+current cach size 
+cach rule 
+cach rule 
+log 
+lock 
+
+
+entri 
+cach storag 
+max cach size 
+cach rule 
+id 
+id 
+mark 
+max cach size 
+size 
+data 
+data 
+data 
+id 
+id 
+id 
+data 
+data 
+data 
+size 
+size 
+data 
+data 
+data 
+
+
+abstract cach 
+cach storag 
+entri 
+find entri 
+data 
+max cach size 
+set max cach size 
+current cach size 
+free space 
+storag 
+cach data 
+uncach data 
+data cachabl 
+data cach 
+clear cach 
+data exist 
+load data 
+save data 
+data storabl 
+delet data 
+data remov cach 
+data ad cach 
+creat entri 
+add entri 
+remov entri cach strategi 
+reorder tag 
+

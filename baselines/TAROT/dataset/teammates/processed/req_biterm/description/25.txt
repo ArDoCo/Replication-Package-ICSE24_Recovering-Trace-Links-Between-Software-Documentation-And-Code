@@ -1,0 +1,4 @@
+diagram show:nsubj
+object structur:compound
+structur show:obj
+compon structur:nmod

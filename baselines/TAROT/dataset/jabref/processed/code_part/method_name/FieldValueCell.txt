@@ -1,0 +1,16 @@
+field valu cell 
+initi 
+initi label 
+initi action 
+initi select box 
+creat copi button 
+creat open link button 
+initi scroll pane 
+prevent text select mous event 
+toggl group 
+set toggl group 
+toggl group properti 
+select 
+set select 
+select properti 
+style class label 

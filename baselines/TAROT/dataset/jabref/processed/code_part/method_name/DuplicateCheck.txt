@@ -1,0 +1,21 @@
+duplic check 
+identifi 
+differ entri type 
+differ edit 
+differ chapter page book 
+compar requir field 
+threshold 
+compar option field 
+compar field set 
+compar singl field 
+compar author field 
+compar page field 
+compar journal field 
+compar chapter field 
+compar field 
+compar entri strict 
+singl field equal 
+correl word 
+similar 
+duplic 
+duplic 

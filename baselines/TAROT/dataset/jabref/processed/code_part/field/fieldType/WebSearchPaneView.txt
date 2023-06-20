@@ -1,0 +1,2 @@
+web search pane view model 
+dialog servic 

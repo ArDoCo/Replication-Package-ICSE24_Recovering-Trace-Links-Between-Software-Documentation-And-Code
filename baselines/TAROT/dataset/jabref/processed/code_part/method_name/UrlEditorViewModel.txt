@@ -1,0 +1,4 @@
+url editor view model 
+valid url present 
+valid url present properti 
+open extern link 

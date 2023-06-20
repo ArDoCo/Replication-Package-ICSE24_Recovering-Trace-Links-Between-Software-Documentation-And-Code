@@ -1,0 +1,178 @@
+bezier path 
+serial version uid 
+mask 
+mask 
+mask 
+mask 
+general path 
+bound 
+outer 
+close 
+wind rule 
+serial version uid 
+mask 
+ 
+ 
+colinear 
+
+
+
+
+ 
+mask 
+ 
+ 
+ 
+ 
+ 
+mask 
+ 
+ 
+ 
+ 
+ 
+ 
+valu 
+index 
+ 
+index 
+ 
+ 
+ 
+dx 
+dy 
+ 
+ 
+ 
+ 
+ctrl mask 
+ 
+ 
+ 
+point 
+node index 
+ctrl index 
+ 
+node index 
+ctrl index 
+ 
+ 
+toler 
+ 
+
+
+flat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+valu 
+tx 
+
+ 
+relat 
+flat 
+flat 
+find 
+flat 
+find 
+toler 
+join 
+toler 
+split 
+toler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rx 
+ry 
+axi rotat 
+larg arc flag 
+sweep flag 
+ 
+ 
+valu 
+
+bezier path 
+
+node 
+node 
+set 
+node 
+node 
+node 
+node 
+mask 
+set mask 
+set control point 
+control point 
+move 
+move 
+move 
+clone 
+string 
+hash code 
+equal 
+bezier path 
+add 
+add 
+add 
+add polylin 
+set 
+
+invalid path 
+valid path 
+general path 
+raw path 
+
+outlin 
+intersect 
+path iter 
+path iter 
+
+intersect 
+bound 
+bound 
+
+
+set close 
+close 
+clone 
+transform 
+set 
+center 
+chop 
+index outermost node 
+point path 
+length path 
+relat posit path 
+find segment 
+join segment 
+split segment 
+move 
+line 
+quad 
+curv 
+arc 
+polygon array 
+set wind rule 
+wind rule 
+

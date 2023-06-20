@@ -1,0 +1,5 @@
+simpl articl 
+unrel articl 
+simpl inbook 
+simpl incollect 
+duplic checker 

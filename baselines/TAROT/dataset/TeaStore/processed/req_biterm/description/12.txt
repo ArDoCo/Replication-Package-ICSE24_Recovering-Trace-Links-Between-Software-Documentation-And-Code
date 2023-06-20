@@ -1,0 +1,5 @@
+imag provid:compound
+standard deliv:nsubj
+imag standard:dep
+correct size:amod
+size deliv:obl

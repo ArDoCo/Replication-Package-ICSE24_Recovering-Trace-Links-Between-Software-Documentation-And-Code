@@ -1,0 +1,81 @@
+grammar base search rule 
+logger 
+search flag 
+search flag 
+tree 
+queri 
+search result 
+search result 
+databas context 
+instanc 
+oper 
+field pattern 
+valu pattern 
+search flag 
+search flag 
+entri 
+
+search result 
+bib entri 
+
+recogn 
+offend symbol 
+line 
+char posit line 
+msg 
+ 
+search flag 
+search flag 
+queri 
+queri 
+queri 
+bib entri 
+queri 
+bib entri 
+queri 
+valu 
+field 
+valu 
+oper 
+search flag 
+entri 
+content 
+search flag 
+bib entri 
+field 
+oper 
+valu 
+ctx 
+context 
+ctx 
+ctx 
+ctx 
+
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+
+syntax error 
+grammar base search rule 
+valid 
+tree 
+queri 
+init 
+appli rule 
+fulltext result 
+valid search string 
+search flag 
+build 
+compar 
+compar 
+match field key 
+match field valu 
+bibtex search visitor 
+comparison 
+visit start 
+visit comparison 
+visit unari express 
+visit paren express 
+visit binari express 
+

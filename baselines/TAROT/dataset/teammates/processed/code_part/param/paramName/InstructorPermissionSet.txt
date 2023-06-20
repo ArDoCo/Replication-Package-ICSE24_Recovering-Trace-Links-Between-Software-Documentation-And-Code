@@ -1,0 +1,13 @@
+modifi cours 
+modifi instructor 
+modifi session 
+modifi student 
+view student section 
+view session section 
+submit session section 
+modifi session comment section 
+privileg 
+privileg 
+valu 
+legaci map 
+

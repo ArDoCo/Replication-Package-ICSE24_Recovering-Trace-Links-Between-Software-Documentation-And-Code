@@ -1,0 +1,3 @@
+invalid paramet:amod
+paramet throw:nsubj
+invalid paramet throw:obj

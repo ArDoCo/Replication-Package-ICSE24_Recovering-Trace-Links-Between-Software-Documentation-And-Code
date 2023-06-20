@@ -1,0 +1,82 @@
+unlink file dialog view model 
+logger 
+import handler 
+directori path 
+select extens 
+select extens 
+select date 
+select date 
+select sort 
+select sort 
+tree root properti 
+tree root properti 
+check file list properti 
+check file list properti 
+task activ properti 
+progress valu properti 
+progress text properti 
+result list 
+result list 
+file filter list 
+file filter list 
+date filter list 
+date filter list 
+file sort list 
+file sort list 
+dialog servic 
+prefer 
+find unlink file task 
+find unlink file task 
+import file background task 
+import file background task 
+bib databas 
+task executor 
+scan directori valid 
+scan directori valid 
+
+import handler 
+file extens view model 
+date rang 
+import file result item view model 
+file extens view model 
+date rang 
+dialog servic 
+background task 
+background task 
+task executor 
+
+dialog servic 
+undo manag 
+file updat monitor 
+prefer 
+state manag 
+task executor 
+import format reader 
+
+dialog servic 
+file updat monitor 
+task executor 
+import format reader 
+
+unlink file dialog view model 
+start search 
+start import 
+start export 
+file filter 
+date filter 
+sorter 
+cancel task 
+brows file directori 
+search directori 
+result tabl item 
+tree root properti 
+select extens properti 
+select date properti 
+select sort properti 
+directori path properti 
+directori path valid status 
+progress valu properti 
+progress text properti 
+task activ properti 
+check file list properti 
+

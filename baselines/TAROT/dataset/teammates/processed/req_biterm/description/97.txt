@@ -1,0 +1,7 @@
+check expect:xcomp
+access control:compound
+control check:obj
+gate keeper class:compound
+call check:advcl
+method call:obj
+logic method:nmod

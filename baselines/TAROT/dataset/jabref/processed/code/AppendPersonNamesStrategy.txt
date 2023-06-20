@@ -1,0 +1,11 @@
+append person strategi 
+separ space 
+
+
+separ space 
+
+
+append person strategi 
+append person strategi 
+delimit 
+

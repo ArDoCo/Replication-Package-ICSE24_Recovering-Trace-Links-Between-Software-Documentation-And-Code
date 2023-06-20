@@ -1,0 +1,5 @@
+databas compon:compound
+compon execut:nsubj
+actual queri:amod
+queri execut:obj
+file queri:nmod

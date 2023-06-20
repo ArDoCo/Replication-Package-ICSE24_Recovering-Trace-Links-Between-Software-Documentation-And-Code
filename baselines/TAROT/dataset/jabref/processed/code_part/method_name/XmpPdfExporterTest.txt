@@ -1,0 +1,11 @@
+init bib entri 
+set 
+success export file entri 
+unsuccess export file entri 
+provid bib entri valid pdf file link 
+provid bib entri invalid pdf file link 
+success export file path 
+unsuccess export file path 
+provid path valid pdf 
+provid path invalid pdf 
+creat default link file 

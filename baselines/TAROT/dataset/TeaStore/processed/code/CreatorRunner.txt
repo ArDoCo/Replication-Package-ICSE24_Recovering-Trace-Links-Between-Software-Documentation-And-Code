@@ -1,0 +1,27 @@
+creator runner 
+product id 
+img db 
+size 
+work dir 
+shape imag 
+categori imag 
+nr imag generat 
+log 
+
+imag db 
+imag size 
+
+img db 
+size 
+product id 
+shape imag 
+categori imag 
+work dir 
+nr imag generat 
+
+imag db 
+imag size 
+
+creator runner 
+run 
+

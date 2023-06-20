@@ -1,0 +1,8 @@
+open file 
+detect program path 
+program path 
+applic directori 
+default file chooser directori 
+open file applic 
+open folder select file 
+open consol 

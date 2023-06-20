@@ -1,0 +1,3 @@
+push applic set 
+store set 
+set pane 

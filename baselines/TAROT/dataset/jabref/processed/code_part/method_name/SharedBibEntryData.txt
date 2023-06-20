@@ -1,0 +1,7 @@
+share bib entri data 
+share id 
+set share id 
+version 
+set version 
+string 
+compar 

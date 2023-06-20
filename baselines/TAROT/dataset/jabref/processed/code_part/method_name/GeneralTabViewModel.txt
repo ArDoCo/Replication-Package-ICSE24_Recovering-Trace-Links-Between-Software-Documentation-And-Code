@@ -1,0 +1,14 @@
+general tab view model 
+set valu 
+store set 
+restart warn 
+languag list properti 
+select languag properti 
+biblatex mode list properti 
+select biblatex mode properti 
+inspect warn duplic properti 
+confirm delet properti 
+memori stick mode properti 
+collect telemetri properti 
+open startup properti 
+show advanc hint properti 

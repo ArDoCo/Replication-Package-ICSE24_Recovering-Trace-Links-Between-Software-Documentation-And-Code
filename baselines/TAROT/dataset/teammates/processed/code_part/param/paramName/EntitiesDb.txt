@@ -1,0 +1,17 @@
+entiti creat 
+entiti add 
+check exist 
+entiti attribut 
+entiti creat 
+entiti add 
+entiti add 
+valu 
+valu 
+entiti save 
+entiti save 
+key 
+key 
+entiti 
+entiti 
+entiti 
+web safe string 

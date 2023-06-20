@@ -1,0 +1,3 @@
+storag mode 
+str represent 
+storag mode string 

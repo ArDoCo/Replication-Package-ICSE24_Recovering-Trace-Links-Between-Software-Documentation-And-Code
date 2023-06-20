@@ -1,0 +1,10 @@
+test manag 
+
+
+dbms connect 
+
+dbms connect 
+
+dbms type test paramet 
+clear tabl 
+

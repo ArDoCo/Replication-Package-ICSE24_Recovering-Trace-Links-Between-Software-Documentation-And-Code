@@ -1,0 +1,8 @@
+admin home page 
+expect page content 
+queue instructor ad 
+queue instructor ad 
+add instructor 
+messag instructor 
+click info button regist instructor 
+click reset account request link 

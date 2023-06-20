@@ -1,0 +1,13 @@
+preview prefer 
+layout cycl 
+layout cycl posit 
+layout cycl posit properti 
+set layout cycl posit 
+select preview layout 
+custom preview layout 
+custom preview layout properti 
+set custom preview layout 
+default custom preview layout 
+show preview extra tab 
+show preview extra tab properti 
+set show preview extra tab 

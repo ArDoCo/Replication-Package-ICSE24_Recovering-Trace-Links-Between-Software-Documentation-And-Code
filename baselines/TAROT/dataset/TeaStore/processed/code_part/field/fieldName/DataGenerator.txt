@@ -1,0 +1,20 @@
+mainten status code 
+small db categori 
+small db product categori 
+small db user 
+small db max order user 
+tini db categori 
+tini db product categori 
+tini db user 
+tini db max order user 
+random 
+password 
+categorynam 
+categorydescript 
+productnam 
+firstnam 
+lastnam 
+max item order 
+preffer categori chanc 
+generat 
+mainten mode 

@@ -1,0 +1,3 @@
+servic assum:nsubj
+regist function:compound
+function call:nsubj

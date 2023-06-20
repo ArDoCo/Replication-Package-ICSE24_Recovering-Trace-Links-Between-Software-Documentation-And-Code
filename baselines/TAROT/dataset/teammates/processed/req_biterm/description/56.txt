@@ -1,0 +1,4 @@
+special key:amod
+csrf key:compound
+backdoor key:compound
+purpos test:obj

@@ -1,0 +1,44 @@
+field valid 
+invalid info email 
+invalid info grace period 
+invalid info googl id 
+invalid info cours id 
+invalid info section 
+invalid info team 
+invalid info student role comment 
+invalid info feedback session 
+invalid info cours 
+invalid info institut 
+invalid info person 
+invalid info time zone 
+invalid info role 
+valid info 
+invalid info notif titl 
+invalid info notif bodi 
+invalid info notif style 
+invalid info notif target user 
+valid info size cap possibl empti string 
+invalid info start time 
+invalid info time 
+invalid info time session start 
+invalid info time visibl start session start 
+invalid info time visibl start 
+invalid info time visibl start result publish 
+invalid info time session extend deadlin 
+invalid info time notif start 
+invalid info time befor time 
+invalid info time strict befor time 
+invalid info time compar time 
+invalid info exact hour time 
+valid info feedback particip type 
+invalid info comment giver type 
+invalid info visibl feedback particip comment 
+valid info feedback respons visibl 
+valid info html field 
+valid info null field 
+untrim 
+valid email address 
+element uniqu 
+popul error messag 
+popul error messag 
+popul empti string error messag 

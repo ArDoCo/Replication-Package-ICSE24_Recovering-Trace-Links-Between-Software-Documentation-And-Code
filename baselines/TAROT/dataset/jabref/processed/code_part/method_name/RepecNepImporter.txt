@@ -1,0 +1,15 @@
+repec nep import 
+
+id 
+file type 
+descript 
+recogn format 
+start keyword 
+read line 
+read multipl line 
+pars titl string 
+pars author 
+pars abstract 
+pars addit field 
+start work paper 
+import databas 

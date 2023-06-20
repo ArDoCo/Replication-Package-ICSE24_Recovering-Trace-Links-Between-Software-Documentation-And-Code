@@ -1,0 +1,6 @@
+entri 
+root dir 
+graphic dir 
+pdfs dir 
+jpg file 
+pdf file 

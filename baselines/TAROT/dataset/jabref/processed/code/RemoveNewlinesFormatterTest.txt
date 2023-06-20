@@ -1,0 +1,13 @@
+remov newlin formatt test 
+formatt 
+
+
+
+
+set 
+remov carriag return line feed 
+remov carriag return 
+remov line feed 
+line unmodifi 
+remov platform specif line 
+

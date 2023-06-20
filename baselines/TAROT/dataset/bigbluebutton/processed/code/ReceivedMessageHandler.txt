@@ -1,0 +1,27 @@
+receiv messag handler 
+log 
+receiv messag 
+receiv messag 
+process messag 
+msg processor exec 
+run exec 
+handler 
+
+receiv messag 
+
+msg 
+pattern 
+channel 
+messag 
+ 
+
+receiv messag 
+
+stop 
+start 
+run 
+process messag 
+run 
+handl messag 
+set messag distributor 
+

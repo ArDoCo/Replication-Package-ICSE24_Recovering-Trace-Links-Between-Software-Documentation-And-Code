@@ -1,0 +1,11 @@
+oracl notif listen 
+dbms synchron 
+
+
+dbms synchron 
+event 
+
+
+oracl notif listen 
+databas chang notif 
+

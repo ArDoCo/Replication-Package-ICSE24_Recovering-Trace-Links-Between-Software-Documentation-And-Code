@@ -1,0 +1,21 @@
+queri 
+queri 
+term 
+queri 
+author 
+titl 
+journal titl 
+year 
+year rang 
+year rang 
+term 
+field string 
+term 
+field string 
+term 
+separ 
+field string 
+term 
+queri 
+lucen queri 
+queri 

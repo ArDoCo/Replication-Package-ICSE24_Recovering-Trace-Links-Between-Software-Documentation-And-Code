@@ -1,0 +1,6 @@
+truncat formatt 
+
+key 
+format 
+descript 
+exampl input 

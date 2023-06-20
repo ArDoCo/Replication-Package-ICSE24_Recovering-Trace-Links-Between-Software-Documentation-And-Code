@@ -1,0 +1,8 @@
+style select item view model 
+properti 
+journal properti 
+icon properti 
+file properti 
+style 
+intern style properti 
+style path 

@@ -1,0 +1,6 @@
+instructor logic 
+instructor db 
+cours logic 
+fr logic 
+frc logic 
+fs logic 

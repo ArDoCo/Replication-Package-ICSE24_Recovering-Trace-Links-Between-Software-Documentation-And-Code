@@ -1,0 +1,8 @@
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 

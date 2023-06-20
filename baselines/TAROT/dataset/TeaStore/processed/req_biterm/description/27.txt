@@ -1,0 +1,4 @@
+individu recommend:amod
+product recommend:compound
+recommend generat:obj
+user generat:obl

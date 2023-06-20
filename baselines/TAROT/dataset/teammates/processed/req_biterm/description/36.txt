@@ -1,0 +1,5 @@
+invok request:amod
+applic user:nmod
+web browser:compound
+url navig:obl
+applic url:nmod

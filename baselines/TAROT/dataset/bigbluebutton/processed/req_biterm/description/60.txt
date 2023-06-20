@@ -1,0 +1,5 @@
+free switch piec:nsubj
+amaz piec:amod
+softwar piec:nmod
+handl softwar:acl
+audio handl:obj

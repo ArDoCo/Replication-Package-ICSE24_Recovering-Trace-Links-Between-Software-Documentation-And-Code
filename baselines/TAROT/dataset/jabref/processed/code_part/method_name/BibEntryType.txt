@@ -1,0 +1,16 @@
+bib entri type 
+type 
+option field 
+requir 
+requir field 
+bib field 
+field 
+primari option field 
+secondari option field 
+deprec field 
+secondari option deprec field 
+option field alias 
+equal 
+hash code 
+string 
+compar 

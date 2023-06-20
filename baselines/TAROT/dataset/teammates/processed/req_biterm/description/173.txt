@@ -1,0 +1,7 @@
+compon case:compound
+test case:compound
+test infrastructur:compound
+driver infrastructur:compound
+infrastructur test:obj
+helper test:obj
+helper infrastructur:conj

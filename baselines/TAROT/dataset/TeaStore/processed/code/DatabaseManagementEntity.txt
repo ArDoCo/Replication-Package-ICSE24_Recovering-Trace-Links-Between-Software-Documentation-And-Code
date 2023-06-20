@@ -1,0 +1,13 @@
+databas manag entiti 
+id 
+finish generat 
+
+
+finish generat 
+
+
+databas manag entiti 
+id 
+finish generat 
+set finish generat 
+

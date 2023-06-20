@@ -1,0 +1,18 @@
+web bean manag 
+web bean 
+
+
+requir interfac 
+type 
+interfac 
+requir interfac 
+type 
+interfac 
+
+
+init requir interfac 
+local 
+web bean 
+init requir interfac 
+local 
+

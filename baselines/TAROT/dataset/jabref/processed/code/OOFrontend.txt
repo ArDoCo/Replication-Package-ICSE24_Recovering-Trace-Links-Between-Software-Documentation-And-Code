@@ -1,0 +1,83 @@
+oo frontend 
+backend 
+citat group 
+
+
+doc 
+doc 
+backend 
+doc 
+citat group 
+doc 
+map footnot footnot mark 
+doc 
+map footnot footnot mark 
+fcursor 
+doc 
+map footnot footnot mark 
+doc 
+citat key 
+page info 
+citat type 
+posit 
+insert space 
+group 
+doc 
+citat group 
+doc 
+doc 
+group 
+doc 
+group 
+doc 
+group 
+doc 
+doc 
+doc 
+doc 
+citat rang 
+overlap 
+doc 
+user rang 
+requir separ 
+doc 
+user rang 
+requir separ 
+report 
+doc 
+doc 
+citat entri 
+doc 
+fcursor 
+
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
+citat entri 
+
+oo frontend 
+data model 
+health report 
+read citat group document 
+creat visual sort input 
+visual sort citat group 
+citat group sort partit 
+creat citat group 
+remov citat group 
+remov citat group 
+mark rang 
+fill cursor citat group 
+clean fill cursor citat group 
+citat rang 
+bibliographi rang 
+view cursor rang 
+footnot mark rang 
+rang overlap messag 
+check rang overlap cursor 
+check rang overlap 
+citat entri 
+appli citat entri 
+impos global order 
+

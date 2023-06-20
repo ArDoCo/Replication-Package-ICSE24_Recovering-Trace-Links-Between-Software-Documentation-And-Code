@@ -1,0 +1,12 @@
+key 
+entri 
+tex file 
+file 
+bib file 
+key 
+file 
+line number 
+start 
+
+line 
+obj 

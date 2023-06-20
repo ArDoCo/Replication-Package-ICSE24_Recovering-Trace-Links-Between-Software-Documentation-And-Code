@@ -1,0 +1,19 @@
+logger 
+logfil prefix 
+logfil ext 
+databas context 
+prefer servic 
+export path 
+local success messag 
+local error messag 
+total file count 
+entri 
+entri 
+result 
+result 
+path 
+path 
+number success 
+total file counter 
+resolv path filenam 
+resolv path filenam 

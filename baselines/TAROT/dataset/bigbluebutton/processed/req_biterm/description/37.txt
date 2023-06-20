@@ -1,0 +1,8 @@
+big blue button api:compound
+parti integr:compound
+big blue button plugin:compound
+plugin integr:nmod
+moodl plugin:nmod
+control endpoint:acl
+big blue button server:compound
+server control:obj

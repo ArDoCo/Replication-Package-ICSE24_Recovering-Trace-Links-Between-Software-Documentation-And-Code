@@ -1,0 +1,18 @@
+group entri changer 
+
+
+entri add 
+entri add 
+entri remov 
+entri add 
+
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+
+add 
+add 
+remov 
+remov 
+

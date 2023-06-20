@@ -1,0 +1,4 @@
+type bib entri 
+type bib entri 
+requir field 
+type display 

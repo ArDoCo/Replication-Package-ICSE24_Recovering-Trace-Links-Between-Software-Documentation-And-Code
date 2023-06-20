@@ -1,0 +1,23 @@
+modifi cours 
+set modifi cours 
+modifi instructor 
+set modifi instructor 
+modifi session 
+set modifi session 
+modifi student 
+set modifi student 
+view student section 
+set view student section 
+view session section 
+set view session section 
+submit session section 
+set submit session section 
+modifi session comment section 
+set modifi session comment section 
+copi 
+
+put 
+legaci map format 
+legaci map format 
+equal 
+hash code 

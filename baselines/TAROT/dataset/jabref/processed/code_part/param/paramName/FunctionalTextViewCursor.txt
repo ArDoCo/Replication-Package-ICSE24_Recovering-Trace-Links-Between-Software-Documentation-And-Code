@@ -1,0 +1,8 @@
+initi posit 
+initi select 
+view cursor 
+doc 
+doc 
+initi posit 
+initi select 
+doc 

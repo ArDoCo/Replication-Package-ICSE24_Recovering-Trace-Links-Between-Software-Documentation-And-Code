@@ -1,0 +1,6 @@
+protect term list item model 
+term list 
+descript properti 
+locat properti 
+intern properti 
+enabl properti 

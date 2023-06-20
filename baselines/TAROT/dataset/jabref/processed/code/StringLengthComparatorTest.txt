@@ -1,0 +1,14 @@
+string length compar test 
+slc 
+
+string length compar 
+
+comparison result 
+string 
+string 
+
+
+set 
+compar string length 
+test 
+

@@ -1,0 +1,9 @@
+convert author field 
+convert default field 
+convert explicit default field 
+convert journal field 
+convert alphabet journal field 
+convert year field 
+convert numer year field 
+convert year rang field 
+convert multipl valu field 

@@ -1,0 +1,11 @@
+test timestamp 
+test creat student 
+test exist student cours 
+test student 
+test updat student chang student issu save request 
+test updat student 
+test updat student singl field updat updat correct 
+test delet student 
+creat student 
+creat student 
+enrol info 

@@ -1,0 +1,8 @@
+db 
+pull chang 
+close share databas 
+regist listen 
+open share databas 
+synchron share entri 
+synchron local databas 
+connect properti 

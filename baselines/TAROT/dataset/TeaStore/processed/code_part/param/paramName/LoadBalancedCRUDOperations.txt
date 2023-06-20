@@ -1,0 +1,34 @@
+servic 
+endpoint uri 
+entiti class 
+entiti 
+servic 
+endpoint uri 
+entiti class 
+id 
+entiti 
+servic 
+endpoint uri 
+entiti class 
+id 
+servic 
+endpoint uri 
+entiti class 
+id 
+servic 
+endpoint uri 
+entiti class 
+properti 
+properti valu 
+servic 
+endpoint uri 
+entiti class 
+start index 
+limit 
+servic 
+endpoint uri 
+entiti class 
+filter uri 
+filter id 
+start index 
+limit 

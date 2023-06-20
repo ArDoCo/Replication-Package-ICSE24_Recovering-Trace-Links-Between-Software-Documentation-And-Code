@@ -1,0 +1,10 @@
+git handler 
+setup git ignor 
+git repositori 
+checkout branch 
+ref branch 
+creat commit current branch 
+merg branch 
+push commit remot repositori 
+pull current branch 
+current check branch 

@@ -1,0 +1,13 @@
+user client:nmod
+client awar:nsubj
+meet state:nmod
+state awar:obl
+user messag:nmod
+public messag:amod
+privat public:conj
+privat messag:amod
+chat messag:compound
+messag state:appos
+sent messag:acl
+receiv messag:acl
+receiv sent:conj

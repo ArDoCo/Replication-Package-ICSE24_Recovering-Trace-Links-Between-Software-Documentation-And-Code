@@ -1,0 +1,6 @@
+logic compon:compound
+storag compon:compound
+common compon:compound
+test compon:compound
+driver compon:compound
+client compon:compound

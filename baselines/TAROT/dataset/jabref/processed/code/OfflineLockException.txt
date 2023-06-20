@@ -1,0 +1,17 @@
+offlin lock 
+local bib entri 
+share bib entri 
+
+bib entri 
+bib entri 
+
+local bib entri 
+share bib entri 
+
+bib entri 
+bib entri 
+
+offlin lock 
+local bib entri 
+share bib entri 
+

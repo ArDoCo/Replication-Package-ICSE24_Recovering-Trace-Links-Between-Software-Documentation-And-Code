@@ -1,0 +1,16 @@
+search rule 
+
+
+queri 
+bib entri 
+queri 
+bib entri 
+queri 
+
+bib entri 
+bib entri 
+
+appli rule 
+fulltext result 
+valid search string 
+

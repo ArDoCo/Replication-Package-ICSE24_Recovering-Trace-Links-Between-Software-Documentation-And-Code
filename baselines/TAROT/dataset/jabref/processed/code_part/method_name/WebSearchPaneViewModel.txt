@@ -1,0 +1,9 @@
+web search pane view model 
+fetcher 
+fetcher properti 
+select fetcher 
+select fetcher properti 
+queri 
+queri properti 
+search 
+queri valid status 

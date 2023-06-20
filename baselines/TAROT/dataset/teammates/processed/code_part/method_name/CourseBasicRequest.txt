@@ -1,0 +1,5 @@
+valid 
+cours 
+set cours 
+time zone 
+set time zone 

@@ -1,0 +1,22 @@
+voic call state event 
+call session 
+client session 
+user id 
+caller 
+call state 
+orig caller id 
+orig call dest 
+
+
+conf 
+call session 
+client session 
+user id 
+caller 
+call state 
+orig caller id 
+orig call dest 
+
+
+voic call state event 
+

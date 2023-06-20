@@ -1,0 +1,7 @@
+base log uri 
+batch size 
+number scan key 
+number affect entiti 
+number updat entiti 
+entiti save buffer 
+entiti save buffer 

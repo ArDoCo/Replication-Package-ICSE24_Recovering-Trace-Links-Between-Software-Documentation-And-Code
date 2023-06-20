@@ -1,0 +1,11 @@
+enabl xmp filter 
+filter list 
+filter list 
+field column 
+field column 
+action column 
+action column 
+add field 
+add field 
+add field 
+valid visual 

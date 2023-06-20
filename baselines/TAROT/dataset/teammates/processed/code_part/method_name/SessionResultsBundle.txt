@@ -1,0 +1,19 @@
+session result bundl 
+build question respons map 
+respons giver visibl 
+respons recipi visibl 
+respons particip visibl 
+comment giver visibl 
+anon 
+question respons map 
+question respons map 
+encrypt 
+hash 
+question map 
+question visibl preview map 
+question comment visibl preview 
+respons comment map 
+roster 
+respons giver visibl tabl 
+respons recipi visibl tabl 
+comment giver visibl tabl 

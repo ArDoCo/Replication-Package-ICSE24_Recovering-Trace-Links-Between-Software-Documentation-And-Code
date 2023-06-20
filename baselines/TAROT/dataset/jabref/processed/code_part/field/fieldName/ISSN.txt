@@ -1,0 +1,3 @@
+issn pattern 
+issn pattern nodash 
+issn string 

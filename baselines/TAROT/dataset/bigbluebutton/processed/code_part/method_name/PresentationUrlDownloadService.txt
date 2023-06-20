@@ -1,0 +1,17 @@
+stop 
+process upload present 
+run 
+process upload file 
+extract present page 
+run 
+extract page 
+accept 
+accept 
+follow redirect 
+save present 
+process 
+set page extractor 
+set present dir 
+set present base url 
+set document convers servic 
+set blank present 

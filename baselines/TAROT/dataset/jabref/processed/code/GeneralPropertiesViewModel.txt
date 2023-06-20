@@ -1,0 +1,52 @@
+general properti view model 
+encod disabl properti 
+encod properti 
+encod properti 
+select encod properti 
+select encod properti 
+databas mode properti 
+databas mode properti 
+select databas mode properti 
+select databas mode properti 
+general file directori properti 
+user specif file directori properti 
+la tex file directori properti 
+preambl properti 
+dialog servic 
+prefer servic 
+databas context 
+meta data 
+directori dialog configur 
+undo manag 
+
+bib databas mode 
+bib databas mode 
+dialog servic 
+prefer servic 
+meta data 
+directori dialog configur 
+
+databas context 
+dialog servic 
+prefer servic 
+undo manag 
+
+dialog servic 
+prefer servic 
+
+general properti view model 
+set valu 
+store set 
+brows general dir 
+brows user dir 
+brows latex dir 
+encod disabl properti 
+encod properti 
+select encod properti 
+databas mode properti 
+select databas mode properti 
+general file directori properti properti 
+user specif file directori properti 
+la tex file directori properti 
+preambl properti 
+

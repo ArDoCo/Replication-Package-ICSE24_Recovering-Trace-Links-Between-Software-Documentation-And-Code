@@ -1,0 +1,24 @@
+question text 
+detail 
+error 
+point 
+total point 
+boundari type 
+respons 
+num recipi 
+respons 
+total point 
+respons 
+total point 
+answer 
+point 
+total point 
+feedback question attribut 
+const sum option 
+distribut recipi 
+point option 
+forc uneven distribut 
+distribut point 
+point 
+min point 
+max point 

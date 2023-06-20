@@ -1,0 +1,8 @@
+cours id 
+feedback session 
+question id 
+respons id 
+user email 
+instructor 
+invalid combin 
+attribut delet queri 

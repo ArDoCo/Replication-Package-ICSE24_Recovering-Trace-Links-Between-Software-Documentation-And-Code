@@ -1,0 +1,8 @@
+codec 
+pars mark 
+citat type int 
+citat type int 
+uniqu mark 
+pars mark 
+jab ref refer mark 
+filter jab ref refer mark 

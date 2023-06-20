@@ -1,0 +1,4 @@
+
+abbrevi 
+shortest uniqu abbrevi 
+pseudo abbrevi 

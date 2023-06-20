@@ -1,0 +1,12 @@
+field view model 
+field 
+properti 
+requir properti 
+requir 
+multilin properti 
+multilin 
+prioriti 
+bib field 
+string 
+mandatori 
+display 

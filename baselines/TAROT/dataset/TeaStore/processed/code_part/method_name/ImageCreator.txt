@@ -1,0 +1,8 @@
+imag creator 
+creat imag 
+draw categori imag 
+switch color 
+rectangl 
+line 
+oval 
+text 

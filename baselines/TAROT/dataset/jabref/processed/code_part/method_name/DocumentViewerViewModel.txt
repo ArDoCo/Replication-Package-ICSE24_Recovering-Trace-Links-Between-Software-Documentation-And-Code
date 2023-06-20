@@ -1,0 +1,15 @@
+document viewer view model 
+current page 
+current page properti 
+max page properti 
+live mode 
+current document properti 
+file properti 
+set current entri 
+set current entri 
+set current document 
+switch file 
+live mode properti 
+show page 
+show page 
+show previous page 

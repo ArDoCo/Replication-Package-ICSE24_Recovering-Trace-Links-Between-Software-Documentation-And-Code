@@ -1,0 +1,21 @@
+java local entri parser test 
+
+
+code 
+expect languag key 
+code 
+expect languag key 
+code 
+expect paramet 
+code 
+
+
+singl line check 
+multi line check 
+singl line paramet check 
+caus runtim 
+test local key pars 
+test local key pars 
+test local paramet pars 
+throw runtim 
+

@@ -1,0 +1,25 @@
+string helper test 
+
+
+plaintext 
+plaintext 
+data 
+
+
+test empti 
+test generat string length 
+test match 
+test string 
+test key encrypt 
+test default ae cipher param 
+assert encrypt expect default param 
+encrypt specifi algorithm param 
+generat signatur 
+test decrypt invalid ciphertext throw 
+test remov extra space 
+test replac illeg char 
+test convert empti string null 
+test truncat head 
+test signatur generat 
+test signatur verif 
+

@@ -1,0 +1,39 @@
+instructor 
+queri string 
+instructor add 
+googl id 
+cours id 
+archiv status 
+cours id 
+instructor email address 
+cours id 
+email 
+cours id 
+email 
+cours id 
+googl id 
+registr key 
+cours id 
+cours id 
+googl id 
+googl id 
+omit archiv 
+cours id 
+origin instructor display 
+edit instructor display 
+updat option 
+updat option 
+queri 
+cours id 
+email 
+googl id 
+cours id 
+origin email 
+cours id 
+cours id 
+instructor edit 
+cours id 
+email 
+googl id 
+start time 
+time 

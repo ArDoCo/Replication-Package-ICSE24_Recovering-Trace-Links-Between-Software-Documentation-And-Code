@@ -1,0 +1,2 @@
+tea store applic:nsubj
+test applic:compound

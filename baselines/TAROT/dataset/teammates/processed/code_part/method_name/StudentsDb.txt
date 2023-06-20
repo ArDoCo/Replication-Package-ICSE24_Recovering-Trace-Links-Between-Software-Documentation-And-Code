@@ -1,0 +1,42 @@
+student db 
+inst 
+search manag 
+put document 
+search 
+search student system 
+delet document student id 
+regener entiti key 
+exist student cours 
+student email 
+student email 
+student googl id 
+student registr key 
+student googl id 
+number student cours 
+student cours 
+student cours 
+student section 
+student team 
+student count team 
+unregist student cours 
+updat student 
+delet student 
+delet student 
+cours student entiti email 
+cours student entiti email 
+cours student entiti registr key 
+cours student cours queri 
+cours student cours queri 
+cours student entiti cours 
+cours student entiti cours 
+student googl id 
+cours student googl id queri 
+cours student entiti googl id 
+cours student entiti team 
+cours student count team 
+cours student entiti section 
+load 
+exist entiti 
+attribut 
+convert entiti save 
+num student time rang 

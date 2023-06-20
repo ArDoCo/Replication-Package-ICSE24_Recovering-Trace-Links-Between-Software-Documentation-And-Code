@@ -1,0 +1,9 @@
+springer fetcher 
+pars springer jso nto bibtex 
+
+page 
+api key 
+test url 
+url queri 
+construct complex queri string 
+parser 

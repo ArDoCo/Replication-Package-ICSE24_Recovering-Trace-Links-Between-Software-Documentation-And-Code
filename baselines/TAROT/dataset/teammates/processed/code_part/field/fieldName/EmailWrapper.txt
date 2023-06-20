@@ -1,0 +1,10 @@
+email copi subject prefix 
+type 
+sender 
+sender email 
+repli 
+recipi 
+bcc 
+subject 
+content 
+copi 

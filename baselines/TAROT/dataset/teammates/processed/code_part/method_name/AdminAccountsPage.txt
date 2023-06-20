@@ -1,0 +1,6 @@
+admin account page 
+expect page content 
+verifi account detail 
+click remov instructor cours 
+click remov student cours 
+click delet account 

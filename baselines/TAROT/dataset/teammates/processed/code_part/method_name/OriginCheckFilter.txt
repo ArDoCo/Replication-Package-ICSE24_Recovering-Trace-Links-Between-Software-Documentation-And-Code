@@ -1,0 +1,6 @@
+init 
+filter 
+http referr valid 
+csrf token error ani 
+deni access 
+destroy 

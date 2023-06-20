@@ -1,0 +1,12 @@
+test acm citat 
+test apa citat 
+test ignor line 
+test ignor carriag return line 
+test citat style 
+test html format 
+test text format 
+test handl diacrit 
+test handl ampersand 
+test handl cross ref field 
+test csl map 
+test csl map 

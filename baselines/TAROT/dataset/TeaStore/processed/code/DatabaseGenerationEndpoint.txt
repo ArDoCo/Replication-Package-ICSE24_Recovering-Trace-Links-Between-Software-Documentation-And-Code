@@ -1,0 +1,19 @@
+databas generat endpoint 
+log 
+
+
+categori 
+product 
+user 
+order 
+param 
+default valu 
+mainten mode 
+
+
+generat data base 
+pars queri 
+finsh 
+set mainten mode 
+mainten 
+

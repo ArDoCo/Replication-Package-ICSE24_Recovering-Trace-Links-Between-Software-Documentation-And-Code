@@ -1,0 +1,8 @@
+latex citat tab 
+set search pane 
+latex directori box 
+citat pane 
+pane 
+error pane 
+bind entri 
+show 

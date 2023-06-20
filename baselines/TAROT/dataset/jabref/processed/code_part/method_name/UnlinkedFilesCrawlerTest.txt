@@ -1,0 +1,2 @@
+minim git ignor 
+exclud current librari test 

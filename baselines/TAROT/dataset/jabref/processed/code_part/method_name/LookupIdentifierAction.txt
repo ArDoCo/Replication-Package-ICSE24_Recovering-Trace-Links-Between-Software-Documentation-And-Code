@@ -1,0 +1,8 @@
+lookup identifi action 
+execut 
+action 
+icon 
+key bind 
+text 
+descript 
+lookup identifi 

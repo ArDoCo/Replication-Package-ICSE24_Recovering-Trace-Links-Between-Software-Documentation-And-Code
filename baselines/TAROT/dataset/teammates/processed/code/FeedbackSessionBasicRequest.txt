@@ -1,0 +1,49 @@
+feedback session basic request 
+instruct 
+submiss start timestamp 
+submiss timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+close email enabl 
+publish email enabl 
+
+session visibl set 
+respons visibl set 
+
+instruct 
+submiss start timestamp 
+submiss timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+close email enabl 
+publish email enabl 
+
+session visibl set 
+respons visibl set 
+
+instruct 
+submiss start time 
+submiss time 
+grace period 
+result visibl time 
+session visibl time 
+close email enabl 
+publish email enabl 
+set instruct 
+set submiss start timestamp 
+set submiss timestamp 
+set grace period 
+set session visibl set 
+set custom session visibl timestamp 
+set respons visibl set 
+set custom respons visibl timestamp 
+set close email enabl 
+set publish email enabl 
+valid 
+

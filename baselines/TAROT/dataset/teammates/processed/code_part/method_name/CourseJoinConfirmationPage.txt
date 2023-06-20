@@ -1,0 +1,5 @@
+cours join confirm page 
+expect page content 
+verifi join user 
+confirm join cours 
+verifi display messag 

@@ -1,0 +1,7 @@
+cours id 
+cours 
+time zone 
+institut 
+creation timestamp 
+delet timestamp 
+privileg 

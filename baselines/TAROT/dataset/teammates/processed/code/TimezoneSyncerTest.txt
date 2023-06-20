@@ -1,0 +1,10 @@
+timezon syncer test 
+iana timezon databas url 
+day updat tz 
+
+
+
+
+prepar test data 
+test 
+

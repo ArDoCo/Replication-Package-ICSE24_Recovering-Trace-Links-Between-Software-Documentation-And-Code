@@ -1,0 +1,5 @@
+media manag compon:compound
+audio file:amod
+tag watermark compon:compound
+compon file:nmod
+user compon:nmod

@@ -1,0 +1,6 @@
+field 
+field 
+field 
+display 
+primari 
+compar 

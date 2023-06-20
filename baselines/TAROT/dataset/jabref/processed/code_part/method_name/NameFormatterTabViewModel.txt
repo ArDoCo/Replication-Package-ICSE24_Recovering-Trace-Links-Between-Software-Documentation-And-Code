@@ -1,0 +1,8 @@
+formatt tab view model 
+set valu 
+store set 
+add formatt 
+remov formatt 
+formatt list properti 
+add formatt properti 
+add formatt string properti 

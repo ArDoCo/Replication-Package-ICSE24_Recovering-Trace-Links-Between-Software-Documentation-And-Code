@@ -1,0 +1,19 @@
+common format:amod
+format result:nsubj
+request result:dep
+obtain request:acl
+process data:conj
+process data:compound
+exist data:amod
+data obtain:obj
+format result:conj
+defin format:acl
+file download result result:conj
+file download result format:conj
+feedback report:compound
+session report:compound
+report download:obj
+imag result result:conj
+imag result format:conj
+profil pictur:compound
+pictur imag result:acl

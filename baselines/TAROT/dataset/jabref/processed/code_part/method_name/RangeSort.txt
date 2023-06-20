@@ -1,0 +1,9 @@
+rang sort 
+holder compar partit 
+compar 
+sort partit 
+rang partit 
+add 
+partit 
+partit rang 
+partit sort rang 

@@ -1,0 +1,2 @@
+open browser action 
+execut 

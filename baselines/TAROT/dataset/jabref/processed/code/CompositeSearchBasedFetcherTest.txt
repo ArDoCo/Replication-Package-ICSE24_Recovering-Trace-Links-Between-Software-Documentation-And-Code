@@ -1,0 +1,16 @@
+composit search base fetcher test 
+logger 
+
+
+fetcher 
+fetcher 
+
+search base fetcher 
+search base fetcher 
+
+creat composit fetcher null set 
+perform search fetcher 
+perform search empti queri 
+perform search empti queri 
+perform search paramet 
+

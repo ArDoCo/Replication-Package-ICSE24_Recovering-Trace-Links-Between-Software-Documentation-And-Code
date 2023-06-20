@@ -1,0 +1,35 @@
+feedback respons comment 
+feedback respons comment 
+feedback respons comment id 
+cours id 
+set cours id 
+feedback session 
+set feedback session 
+feedback question id 
+set feedback question id 
+visibl follow feedback question 
+set visibl follow feedback question 
+giver email 
+set giver email 
+comment giver type 
+set comment giver type 
+set show comment 
+show comment 
+set show giver 
+show giver 
+feedback respons id 
+set feedback respons id 
+creat 
+set creat 
+comment text 
+set comment text 
+giver section 
+set giver section 
+receiv section 
+set receiv section 
+set editor email 
+editor email 
+edit 
+set edit 
+comment feedback particip 
+set comment feedback particip 

@@ -1,0 +1,18 @@
+check freeswitch status command 
+log 
+send command timestamp 
+
+
+room 
+request id 
+respons 
+event listen 
+
+messag 
+confer event listen 
+
+check freeswitch status command 
+command 
+command arg 
+handl respons 
+

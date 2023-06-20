@@ -1,0 +1,10 @@
+client compon:compound
+connect script:acl
+applic connect:obl
+administr purpos:amod
+migrat purpos:acl
+data migrat:obj
+schema migrat:obl
+calcul purpos:acl
+calcul migrat:conj
+statist calcul:obj

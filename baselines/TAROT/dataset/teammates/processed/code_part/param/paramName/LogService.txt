@@ -1,0 +1,10 @@
+queri log param 
+cours id 
+email 
+fs 
+fsl type 
+cours id 
+email 
+start time 
+time 
+fs 

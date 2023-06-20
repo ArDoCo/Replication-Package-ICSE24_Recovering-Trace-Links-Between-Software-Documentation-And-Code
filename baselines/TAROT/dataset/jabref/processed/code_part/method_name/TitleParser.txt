@@ -1,0 +1,4 @@
+pars 
+creat word 
+reset 
+determin protect char 

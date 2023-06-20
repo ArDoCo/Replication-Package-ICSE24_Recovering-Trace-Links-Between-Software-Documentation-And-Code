@@ -1,0 +1,3 @@
+gui interact:nsubj
+prefer user:conj
+task solv:obj

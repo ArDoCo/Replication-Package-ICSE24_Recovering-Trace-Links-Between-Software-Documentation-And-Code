@@ -1,0 +1,19 @@
+person string convert test 
+author 
+
+author 
+
+auto comp ff 
+auto comp lf 
+auto complet mode 
+expect result 
+auto complet 
+mode 
+format 
+expect result 
+
+
+set 
+test string auto complet prefer 
+test string auto complet prefer 
+

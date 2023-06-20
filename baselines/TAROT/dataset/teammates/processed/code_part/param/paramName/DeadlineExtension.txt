@@ -1,0 +1,19 @@
+cours id 
+feedback session 
+user email 
+instructor 
+sent close email 
+time 
+id 
+cours id 
+feedback session 
+user email 
+instructor 
+sent close email 
+time 
+creat 
+updat 
+cours id 
+feedback session 
+user email 
+instructor 

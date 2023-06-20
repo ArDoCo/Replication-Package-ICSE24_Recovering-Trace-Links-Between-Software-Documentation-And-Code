@@ -1,0 +1,25 @@
+field compar 
+collat 
+field 
+field type 
+numer 
+multipli 
+
+
+field 
+sort criterion 
+field 
+descend 
+entri 
+ 
+ 
+
+
+field compar 
+field compar 
+field compar 
+collat 
+determin field type 
+field valu 
+compar 
+

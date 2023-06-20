@@ -1,0 +1,51 @@
+entri 
+line separ 
+entri 
+resolv 
+databas 
+compar 
+id 
+key 
+key 
+entri 
+entri 
+event sourc 
+entri 
+entri 
+entri 
+event sourc 
+bib entri 
+bib entri 
+event sourc 
+delet 
+delet 
+event sourc 
+preambl 
+string 
+string add 
+id 
+id 
+
+databas 
+label 
+content 
+entri 
+entri resolv 
+place 
+entri 
+place 
+label 
+id 
+id 
+result 
+id 
+id 
+epilog 
+listen 
+listen 
+event 
+entri 
+share databas id 
+key 
+key 
+line separ 

@@ -1,0 +1,37 @@
+studi repositori test 
+exist directori 
+citat key pattern prefer 
+prefer servic 
+general prefer 
+import format prefer 
+save configur 
+entri type manag 
+temp repositori directori 
+studi repositori 
+git handler 
+hash code quantum 
+hash code cloud comput 
+hash code softwar engin 
+
+import format prefer 
+
+entri 
+
+
+set mock 
+provid path exist repositori throw 
+repositori structur correct creat 
+bib entri correct store 
+fetcher result persist correct 
+merg result persist correct 
+studi result persist correct 
+test studi repositori 
+set test studi definit file 
+set test result file 
+duplic bib entri result 
+mock result 
+strip citat key 
+ar xiv quantum mock result 
+springer quantum mock result 
+springer cloud comput mock result 
+

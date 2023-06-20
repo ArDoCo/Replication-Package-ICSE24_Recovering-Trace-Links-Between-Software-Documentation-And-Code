@@ -1,0 +1,31 @@
+dublin core extractor 
+extract editor 
+extract author 
+extract date 
+extract abstract 
+extract doi 
+extract publish 
+extract bib tex field 
+extract 
+extract sourc 
+extract subject 
+extract titl 
+extract type 
+extract coverag 
+extract languag 
+extract bibtex entri 
+fill contributor 
+fill creator 
+fill date 
+fill descript 
+fill identifi 
+fill publish 
+fill keyword 
+fill titl 
+fill coverag 
+fill languag 
+fill 
+fill sourc 
+fill custom field 
+fill type 
+fill dublin core schema 

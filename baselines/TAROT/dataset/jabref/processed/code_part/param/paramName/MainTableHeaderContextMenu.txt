@@ -1,0 +1,18 @@
+main tabl 
+factori 
+show 
+main tabl 
+column 
+display 
+search column 
+tabl column 
+index 
+tabl column 
+tabl column 
+search column 
+tabl column 
+display 
+column 
+visibl 
+index 
+visibl tabl 

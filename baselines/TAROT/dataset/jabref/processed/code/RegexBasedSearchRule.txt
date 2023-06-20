@@ -1,0 +1,15 @@
+regex base search rule 
+logger 
+
+
+search flag 
+queri 
+queri 
+bib entri 
+
+bib entri 
+
+regex base search rule 
+valid search string 
+appli rule 
+

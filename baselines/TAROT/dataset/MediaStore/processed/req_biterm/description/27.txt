@@ -1,0 +1,8 @@
+media access compon:compound
+compon encapsul:nsubj
+databas access:compound
+access encapsul:obj
+meta data:compound
+data access:nmod
+audio file:amod
+file data:nmod

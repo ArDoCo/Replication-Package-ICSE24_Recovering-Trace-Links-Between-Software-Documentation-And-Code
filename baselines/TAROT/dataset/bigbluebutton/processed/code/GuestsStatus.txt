@@ -1,0 +1,11 @@
+guest status 
+user id 
+status 
+
+
+user id 
+status 
+
+
+guest status 
+

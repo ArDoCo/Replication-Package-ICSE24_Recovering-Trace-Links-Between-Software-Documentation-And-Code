@@ -1,0 +1,37 @@
+cours id 
+email 
+
+googl id 
+role 
+display 
+archiv 
+display student 
+privileg 
+key 
+creat 
+updat 
+instructor attribut 
+cours id 
+email 
+googl id option 
+googl id option 
+updat option email 
+cours id 
+googl id 
+email option 
+email option 
+updat option googl id 
+option 
+option 
+archiv option 
+archiv option 
+role option 
+role option 
+display student option 
+display student option 
+display option 
+display option 
+instructor privileg option 
+instructor privileg option 
+updat option 
+builder 

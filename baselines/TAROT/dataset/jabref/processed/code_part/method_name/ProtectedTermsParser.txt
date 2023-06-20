@@ -1,0 +1,5 @@
+read term resourc 
+read term file 
+read term list 
+set descript 
+protect term list 

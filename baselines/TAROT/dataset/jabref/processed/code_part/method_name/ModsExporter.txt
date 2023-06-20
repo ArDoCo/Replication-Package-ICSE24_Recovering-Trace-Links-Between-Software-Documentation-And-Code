@@ -1,0 +1,21 @@
+mod export 
+export 
+creat marshal write file 
+add relat origin info mod group 
+add genr 
+add abstract 
+add titl 
+add affili 
+add locat 
+add note 
+add url 
+add journal 
+add languag 
+add page 
+add key word 
+handl author 
+add identifi 
+add start page 
+add detail 
+add origin inform 
+add date 

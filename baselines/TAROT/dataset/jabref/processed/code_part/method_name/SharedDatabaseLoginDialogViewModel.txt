@@ -1,0 +1,30 @@
+share databas login dialog view model 
+open databas 
+setup key store 
+open share databas 
+set prefer 
+appli prefer 
+share databas alreadi present 
+show save db file dialog 
+show open keystor file dialog 
+databaseproperti 
+host properti 
+port properti 
+user properti 
+password properti 
+autosav properti 
+rememb password properti 
+folder properti 
+key store properti 
+key store password properti 
+ssl properti 
+select dbmstype properti 
+load properti 
+db valid 
+host valid 
+port valid 
+user valid 
+folder valid 
+keystor valid 
+form valid 
+server timezon properti 

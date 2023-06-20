@@ -1,0 +1,19 @@
+feedback respons comment id 
+cours id 
+feedback session 
+feedback question id 
+giver email 
+comment giver type 
+feedback respons id 
+giver section 
+receiv section 
+show comment 
+show comment 
+show giver 
+show giver 
+visibl follow feedback question 
+comment feedback particip 
+creat 
+comment text 
+editor email 
+edit 

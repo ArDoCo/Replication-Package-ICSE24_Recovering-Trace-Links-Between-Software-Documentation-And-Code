@@ -1,0 +1,7 @@
+auth token 
+user id 
+regist 
+guest status 
+exclud dashboard 
+guest wait 
+left guest lobbi 

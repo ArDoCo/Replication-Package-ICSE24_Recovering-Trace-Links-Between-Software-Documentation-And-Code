@@ -1,0 +1,5 @@
+rebuild fulltext search index action 
+execut 
+init 
+rebuild index 
+

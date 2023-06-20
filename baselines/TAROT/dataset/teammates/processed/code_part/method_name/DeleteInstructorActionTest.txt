@@ -1,0 +1,16 @@
+action uri 
+request method 
+test execut 
+test execut typic case googl id pass 
+test execut delet instructor email success 
+test execut admin delet instructor googl id fail 
+test execut instructor delet role googl id pass 
+test execut delet instructor googl id fail 
+test execut delet instructor masquerad googl id fail 
+test execut delet instructor masquerad googl id pass 
+test execut paramet fail 
+test execut instructor fail 
+attempt delet fake instructor googl id 
+attempt delet fake instructor email 
+test execut admin delet instructor fake cours fail 
+test access control 

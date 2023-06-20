@@ -1,0 +1,6 @@
+log 
+client 
+shutdown 
+host 
+port 
+password 

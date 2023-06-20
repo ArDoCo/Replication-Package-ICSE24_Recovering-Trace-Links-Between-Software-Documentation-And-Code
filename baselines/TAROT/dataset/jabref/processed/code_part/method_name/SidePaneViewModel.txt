@@ -1,0 +1,16 @@
+side pane view model 
+side pane compon 
+updat prefer posit 
+move 
+move 
+show 
+pane 
+swap 
+prefer index sort 
+compar 
+move action 
+execut 
+move action 
+execut 
+close pane action 
+execut 

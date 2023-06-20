@@ -1,0 +1,4 @@
+url pdf 
+url page 
+fetcher 
+entri 

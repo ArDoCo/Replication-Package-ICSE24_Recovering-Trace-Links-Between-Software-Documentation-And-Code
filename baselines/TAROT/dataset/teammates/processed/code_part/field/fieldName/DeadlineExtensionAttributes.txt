@@ -1,0 +1,21 @@
+cours id 
+feedback session 
+user email 
+instructor 
+sent close email 
+time 
+creat 
+updat 
+deadlin extens attribut 
+cours id 
+feedback session 
+user email 
+instructor 
+time option 
+time option 
+sent close email option 
+sent close email option 
+email option 
+email option 
+updat option 
+builder 

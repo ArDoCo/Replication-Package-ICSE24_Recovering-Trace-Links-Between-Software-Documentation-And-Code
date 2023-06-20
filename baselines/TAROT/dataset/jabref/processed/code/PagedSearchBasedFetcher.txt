@@ -1,0 +1,15 @@
+page search base fetcher 
+
+
+lucen queri 
+page number 
+search queri 
+page number 
+lucen queri 
+
+
+perform search page 
+perform search page 
+page size 
+perform search 
+

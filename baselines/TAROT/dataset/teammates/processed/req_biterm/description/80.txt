@@ -1,0 +1,4 @@
+manag transact:amod
+ensur transact:acl
+atom ensur:obj
+transact atom:nmod

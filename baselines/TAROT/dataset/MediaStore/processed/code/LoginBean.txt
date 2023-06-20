@@ -1,0 +1,20 @@
+login bean 
+serial version uid 
+session bean 
+usernam 
+password 
+
+
+session bean 
+usernam 
+password 
+
+
+dologin 
+session bean 
+set session bean 
+usernam 
+set usernam 
+password 
+set password 
+

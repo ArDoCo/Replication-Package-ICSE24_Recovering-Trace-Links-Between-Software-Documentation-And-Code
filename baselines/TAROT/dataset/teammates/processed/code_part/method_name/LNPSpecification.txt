@@ -1,0 +1,9 @@
+lnp specif 
+verifi lnp test success 
+check res time limit 
+check error limit 
+builder 
+builder 
+error rate limit 
+resp time limit 
+build 

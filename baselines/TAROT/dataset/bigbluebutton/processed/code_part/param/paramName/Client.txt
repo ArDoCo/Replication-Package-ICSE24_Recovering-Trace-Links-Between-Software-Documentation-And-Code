@@ -1,0 +1,22 @@
+ 
+ 
+listen 
+host 
+port 
+password 
+timeout 
+command 
+arg 
+command 
+arg 
+format 
+event 
+event header 
+valu filter 
+event header 
+valu filter 
+send msg 
+level 
+respons 
+event 
+ 

@@ -1,0 +1,7 @@
+student home page 
+expect page content 
+student home cours panel 
+verifi visibl cours student 
+verifi visibl feedback session student 
+click close notif banner button 
+click mark read button 

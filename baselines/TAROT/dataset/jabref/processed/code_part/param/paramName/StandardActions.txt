@@ -1,0 +1,20 @@
+text 
+text 
+icon 
+text 
+icon 
+key bind 
+text 
+descript 
+icon 
+text 
+descript 
+icon 
+key bind 
+text 
+key bind 
+text 
+descript 
+text 
+descript 
+key bind 

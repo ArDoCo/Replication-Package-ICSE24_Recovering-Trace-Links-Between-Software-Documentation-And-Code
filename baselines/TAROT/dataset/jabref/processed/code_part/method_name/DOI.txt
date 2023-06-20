@@ -1,0 +1,15 @@
+doi 
+pars 
+valid 
+find text 
+string 
+doi 
+short doi 
+extern uri 
+extern uri custom base 
+extern uri base 
+uria ascii string 
+default field 
+normal 
+equal 
+hash code 

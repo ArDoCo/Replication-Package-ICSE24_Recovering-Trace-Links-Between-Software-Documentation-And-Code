@@ -1,0 +1,17 @@
+recurs tree item test 
+root tree item 
+root tree item 
+root 
+filter predic 
+filter predic 
+node 
+
+recurs tree item 
+
+
+
+set 
+add children node 
+add children child node 
+respect filter 
+

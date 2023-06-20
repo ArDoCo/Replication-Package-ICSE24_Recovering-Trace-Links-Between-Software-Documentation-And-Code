@@ -1,0 +1,4 @@
+move field valu action 
+move field valu action 
+execut 
+execut affect entri count 

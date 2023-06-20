@@ -1,0 +1,16 @@
+word keyword group 
+case insensit 
+case insensit 
+add 
+remov 
+equal 
+
+deep copi 
+hash code 
+
+string search strategi 
+
+type search strategi 
+
+keyword list search strategi 
+

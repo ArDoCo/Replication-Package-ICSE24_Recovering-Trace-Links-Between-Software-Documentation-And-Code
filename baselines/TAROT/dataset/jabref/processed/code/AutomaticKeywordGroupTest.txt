@@ -1,0 +1,9 @@
+automat keyword group test 
+
+
+
+
+creat subgroup keyword 
+creat subgroup ignor empti keyword 
+creat includ keyword subgroup 
+

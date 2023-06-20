@@ -1,0 +1,23 @@
+feedback msq question detail 
+feedback msq question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+msq choic 
+set msq choic 
+enabl 
+set enabl 
+assign weight 
+set assign weight 
+msq weight 
+set msq weight 
+msq weight 
+set msq weight 
+generat option 
+set generat option 
+max select choic 
+set max select choic 
+min select choic 
+set min select choic 

@@ -1,0 +1,18 @@
+retriev correct text style normal 
+string remain transform normal 
+retriev correct text style bold 
+string remain transform bold 
+retriev correct text style ital 
+string remain transform ital 
+test creat text monospac 
+retriev correct style monospac 
+string remain transform monospac 
+transform text html string bold 
+transform text html string ital 
+transform text html string monospac 
+transform text html string monospac bold 
+transform text html string linebreak 
+format text replac 
+format text 
+format text 
+format text middl 

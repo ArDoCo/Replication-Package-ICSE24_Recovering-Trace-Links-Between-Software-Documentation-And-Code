@@ -1,0 +1,13 @@
+feedback numer scale question detail 
+feedback numer scale question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+min scale 
+set min scale 
+max scale 
+set max scale 
+step 
+set step 

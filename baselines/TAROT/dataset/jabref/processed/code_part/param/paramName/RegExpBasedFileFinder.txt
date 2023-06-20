@@ -1,0 +1,18 @@
+reg exp 
+keyword delimit 
+file part 
+extens reg exp 
+entri 
+expand content 
+entri 
+directori 
+extens 
+entri 
+dir 
+extens reg exp 
+entri 
+directori 
+file 
+extens reg exp 
+root directori 
+path 

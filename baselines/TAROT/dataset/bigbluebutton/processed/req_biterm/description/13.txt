@@ -1,0 +1,7 @@
+updat push:nsubj
+mongo updat:nmod
+server side:compound
+side mongo:nmod
+mini mongo push:obl
+client side:compound
+side push:obl

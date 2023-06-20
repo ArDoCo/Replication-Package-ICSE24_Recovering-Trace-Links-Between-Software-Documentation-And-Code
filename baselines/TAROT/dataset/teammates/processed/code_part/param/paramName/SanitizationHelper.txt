@@ -1,0 +1,8 @@
+raw googl id 
+raw email 
+raw 
+raw titl 
+raw text 
+content 
+unsanit string 
+uri 

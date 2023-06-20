@@ -1,0 +1,1 @@
+general delet oper throw target entiti exist 

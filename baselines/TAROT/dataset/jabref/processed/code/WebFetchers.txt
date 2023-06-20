@@ -1,0 +1,48 @@
+web fetcher 
+
+
+field 
+import format prefer 
+clazz 
+field 
+import format prefer 
+import prefer 
+import format prefer 
+import prefer 
+import prefer 
+import format prefer 
+file prefer 
+databas context 
+import format prefer 
+import format prefer 
+import prefer 
+import format prefer 
+import prefer 
+
+field 
+import format prefer 
+field 
+import format prefer 
+import prefer 
+import format prefer 
+import prefer 
+import prefer 
+import format prefer 
+file prefer 
+import format prefer 
+import format prefer 
+import prefer 
+import format prefer 
+import prefer 
+
+web fetcher 
+id base fetcher field 
+id fetcher identifi 
+id fetcher field 
+search base fetcher 
+id base fetcher 
+entri base fetcher 
+id fetcher 
+full text fetcher 
+customiz key fetcher 
+

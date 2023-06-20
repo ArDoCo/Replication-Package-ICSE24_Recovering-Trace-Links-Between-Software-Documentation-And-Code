@@ -1,0 +1,10 @@
+parser 
+
+
+input stream 
+data string 
+
+
+pars entri 
+pars entri 
+

@@ -1,0 +1,6 @@
+encod compon:compound
+compon convert:nsubj
+bit rate:compound
+rate convert:obj
+audio file:amod
+file rate:nmod

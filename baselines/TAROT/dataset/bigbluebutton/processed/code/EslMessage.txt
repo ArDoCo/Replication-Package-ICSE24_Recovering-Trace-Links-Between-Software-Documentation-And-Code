@@ -1,0 +1,27 @@
+messag 
+log 
+header 
+header 
+bodi 
+bodi 
+content length 
+
+
+header 
+header 
+
+valu 
+line 
+
+
+header 
+header 
+header valu 
+content length 
+content length 
+content type 
+bodi line 
+add header 
+add bodi line 
+string 
+

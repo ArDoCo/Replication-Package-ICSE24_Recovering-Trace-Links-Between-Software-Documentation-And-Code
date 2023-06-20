@@ -1,0 +1,26 @@
+reader 
+file path 
+file path 
+data 
+data 
+data 
+ref 
+data 
+data 
+author editor 
+keyword list 
+publish list 
+data 
+data 
+data 
+data 
+text 
+string 
+reader 
+reader 
+input stream 
+file path 
+input stream 
+input 
+citavi type 
+

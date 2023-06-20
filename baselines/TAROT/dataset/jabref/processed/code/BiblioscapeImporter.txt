@@ -1,0 +1,13 @@
+biblioscap import 
+
+
+reader 
+reader 
+
+
+
+file type 
+descript 
+recogn format 
+import databas 
+

@@ -1,0 +1,3 @@
+valid giver 
+valid recipi 
+valid viewer 

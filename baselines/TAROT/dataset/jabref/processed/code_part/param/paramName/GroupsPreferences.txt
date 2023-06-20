@@ -1,0 +1,8 @@
+group view mode 
+auto assign group 
+display group count 
+default hierarch context 
+group view mode 
+auto assign group 
+display group count 
+default hierarch context 

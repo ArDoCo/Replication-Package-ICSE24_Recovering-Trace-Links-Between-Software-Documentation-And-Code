@@ -1,0 +1,180 @@
+meet 
+add breakout room 
+breakout room 
+metadata 
+user 
+user map 
+count uniqu ext id 
+user ext id 
+guest wait 
+set left guest lobbi 
+guest user leav guest lobbi 
+set guest status id 
+regist user auth token 
+guest status auth token 
+html instanc id 
+set html instanc id 
+group 
+set group 
+start time 
+set start time 
+creat time 
+set sequenc 
+sequenc 
+free join 
+set free join 
+captur slide 
+set captur slide 
+captur note 
+set captur note 
+set captur note filenam 
+set captur slide filenam 
+durat 
+time 
+set moder onli messag 
+moder onli messag 
+set time 
+run 
+breakout 
+set record mark 
+record mark 
+
+forcibl 
+set forcibl 
+extern id 
+intern id 
+set parent meet id 
+parent meet id 
+web voic 
+tel voic 
+moder password 
+viewer password 
+learn dashboard cleanup delay minut 
+learn dashboard access token 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+welcom messag templat 
+welcom messag 
+default avatar url 
+set wait posit wait queue 
+wait posit wait queue 
+set guest polici 
+guest polici 
+set guest lobbi messag 
+guest lobbi messag 
+set privat guest lobbi messag 
+set authent guest 
+authent guest 
+set meet layout 
+meet layout 
+unauthent guest status 
+calc guest status 
+logout url 
+max user 
+max user concurr access 
+logout timer 
+banner color 
+banner text 
+record 
+auto start record 
+start stop record 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+user join 
+custom logo url 
+set custom logo url 
+set custom copyright 
+custom copyright 
+set mute start 
+mute start 
+set meet event 
+meet event 
+set mod unmut user 
+mod unmut user 
+set request session 
+request session 
+set mod eject camera 
+mod eject camera 
+user join 
+user left 
+remov user 
+user id 
+num user 
+num user onlin 
+num moder 
+dial number 
+num listen onli 
+num voic join 
+num video 
+add user custom data 
+set meet expir user left minut 
+meet expir user left minut 
+set meet expir user join minut 
+meet expir user join minut 
+user inact inspect timer minut 
+set user inact inspect timer minut 
+user inact threshold minut 
+set user inact threshold minut 
+user activ sign respons delay minut 
+set user activ sign respons delay minut 
+moder 
+set moder 
+moder delay minut 
+set moder delay minut 
+meet callback url 
+set meet callback url 
+user custom data 
+user regist 
+user unregist 
+regist user 
+enter user 
+user enter 
+remov enter user 
+enter user id 
+builder 
+
+durat 
+max user 
+record 
+auto start record 
+start stop record 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+web voic 
+tel voic 
+dial number 
+moder pass 
+viewer pass 
+learn dashboard cleanup delay minut 
+learn dashboard access token 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+welcom messag 
+welcom messag templat 
+default avatar url 
+breakout 
+logout url 
+logout timer 
+banner color 
+banner text 
+metadata 
+guest polici 
+authent guest 
+request session 
+meet layout 
+breakout room param 
+lock set param 
+max user concurr access 
+moder 
+moder delay minut 
+html instanc id 
+group 
+build 

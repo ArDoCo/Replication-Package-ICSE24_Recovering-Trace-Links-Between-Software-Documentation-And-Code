@@ -1,0 +1,14 @@
+slr git handler test 
+logger 
+repositori path 
+git handler 
+
+slr git handler 
+
+
+
+set git handler 
+calcul diff branch 
+calcul patch 
+appli patch 
+

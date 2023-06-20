@@ -1,0 +1,10 @@
+start 
+creat descript 
+test simpl queri case sensit regex 
+test simpl queri case sensit 
+test simpl queri 
+test simpl queri regex 
+test complex queri case sensit regex 
+test complex queri regex 
+test complex queri case sensit 
+test complex queri 

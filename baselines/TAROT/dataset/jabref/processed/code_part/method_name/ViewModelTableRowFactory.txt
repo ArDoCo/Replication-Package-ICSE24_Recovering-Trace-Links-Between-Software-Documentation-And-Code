@@ -1,0 +1,16 @@
+mous click event 
+context menu 
+set drag detect 
+set drag detect 
+set drag drop 
+set drag drop 
+set drag enter 
+set mous drag enter 
+set mous drag enter 
+set drag exit 
+set drag exit 
+set drag 
+set drag 
+tooltip 
+call 
+instal 

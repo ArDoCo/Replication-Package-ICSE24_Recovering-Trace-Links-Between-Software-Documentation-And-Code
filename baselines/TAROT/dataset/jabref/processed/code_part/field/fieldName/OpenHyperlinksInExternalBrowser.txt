@@ -1,0 +1,4 @@
+logger 
+click event 
+anchor tag 
+web view 

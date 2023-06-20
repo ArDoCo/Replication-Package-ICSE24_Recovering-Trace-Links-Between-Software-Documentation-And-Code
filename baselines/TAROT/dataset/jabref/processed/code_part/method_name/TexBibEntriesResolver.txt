@@ -1,0 +1,4 @@
+tex bib entri resolv 
+resolv 
+appli 
+add cross referenc data 

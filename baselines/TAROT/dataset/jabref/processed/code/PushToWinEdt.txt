@@ -1,0 +1,14 @@
+push win edt 
+
+
+
+dialog servic 
+prefer servic 
+key string 
+
+
+push win edt 
+display 
+applic icon 
+command line 
+

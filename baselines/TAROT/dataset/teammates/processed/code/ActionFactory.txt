@@ -1,0 +1,23 @@
+action factori 
+action map 
+action map 
+
+post 
+put 
+delet 
+
+
+uri 
+method 
+extend 
+req 
+method 
+uri 
+method 
+
+
+action factori 
+map 
+action 
+action 
+

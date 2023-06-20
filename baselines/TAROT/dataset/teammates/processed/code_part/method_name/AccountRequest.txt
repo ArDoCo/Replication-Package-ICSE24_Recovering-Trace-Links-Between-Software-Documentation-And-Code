@@ -1,0 +1,18 @@
+account request 
+account request 
+id 
+set id 
+registr key 
+set registr key 
+
+set 
+email 
+set email 
+institut 
+set institut 
+regist 
+set regist 
+creat 
+set creat 
+generat id 
+generat registr key 

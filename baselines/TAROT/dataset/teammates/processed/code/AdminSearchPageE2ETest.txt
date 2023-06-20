@@ -1,0 +1,20 @@
+admin search page test 
+
+
+student 
+student 
+student 
+student 
+instructor 
+instructor 
+
+
+prepar test data 
+test 
+expect student detail 
+expect student home page link 
+expect student manag account link 
+expect num expand row 
+expect instructor home page link 
+expect instructor manag account link 
+

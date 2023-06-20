@@ -1,0 +1,8 @@
+set 
+compar higher prioriti 
+compar prioriti 
+compar prioriti 
+compar unrel field 
+compar empti input 
+compar input empti 
+compar input empti 

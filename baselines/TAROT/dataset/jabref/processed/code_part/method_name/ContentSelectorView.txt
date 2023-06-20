@@ -1,0 +1,12 @@
+content selector view 
+tab 
+initi 
+init field compon 
+init keyword compon 
+add field 
+remov field 
+add keyword 
+remov keyword 
+init list view 
+select field 
+select keyword 

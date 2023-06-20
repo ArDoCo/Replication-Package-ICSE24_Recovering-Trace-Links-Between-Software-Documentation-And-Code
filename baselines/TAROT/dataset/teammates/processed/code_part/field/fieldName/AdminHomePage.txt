@@ -1,0 +1,7 @@
+detail singl line text box 
+text box 
+email text box 
+institut text box 
+submit button 
+submit button detail singl line form 
+add instructor button 

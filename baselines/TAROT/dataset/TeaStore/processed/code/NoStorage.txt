@@ -1,0 +1,16 @@
+storag 
+
+
+id 
+id 
+data 
+data 
+data 
+
+
+data exist 
+load data 
+save data 
+data storabl 
+delet data 
+

@@ -1,0 +1,36 @@
+biblatex apa field 
+
+display 
+properti 
+properti 
+
+field properti 
+
+
+
+display 
+
+display 
+
+rest 
+
+
+rest 
+type 
+
+
+field properti 
+field properti 
+field properti 
+field properti 
+
+biblatex apa field 
+biblatex apa field 
+biblatex apa field 
+biblatex apa field 
+
+properti 
+
+standard field 
+display 
+

@@ -1,0 +1,6 @@
+field 
+left entri 
+entri 
+merg entri 
+field merger factori 
+row index 

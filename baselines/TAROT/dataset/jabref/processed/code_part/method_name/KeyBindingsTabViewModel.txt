@@ -1,0 +1,10 @@
+key bind tab view model 
+set valu 
+set bind current 
+store set 
+reset default 
+load preset 
+key bind preset 
+restart warn 
+select key bind properti 
+root key bind properti 

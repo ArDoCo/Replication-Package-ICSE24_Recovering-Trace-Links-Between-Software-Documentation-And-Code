@@ -1,0 +1,5 @@
+inform store:nsubj
+meet inform:nmod
+messag process:nsubj
+meet messag:nmod
+process store:conj

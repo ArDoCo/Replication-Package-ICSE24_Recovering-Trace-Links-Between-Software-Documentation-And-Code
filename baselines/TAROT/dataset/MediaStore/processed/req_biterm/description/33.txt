@@ -1,0 +1,14 @@
+contrast store:obl
+audio file:amod
+file store:nsubj
+specif locat:amod
+locat store:obl
+dedic server:amod
+file server:compound
+server locat:dep
+local disk:amod
+disk locat:dep
+disk server:conj
+decoupl store:advcl
+data storag decoupl:obj
+databas decoupl:obl

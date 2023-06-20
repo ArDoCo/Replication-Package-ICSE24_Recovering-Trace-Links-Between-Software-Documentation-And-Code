@@ -1,0 +1,26 @@
+test compar function 
+test arithmet function 
+test arithmet function type mismatch 
+test string oper 
+test 
+test num 
+test substr 
+test empti 
+test format static 
+test format entri 
+test chang case 
+test text length 
+test int str 
+test chr int 
+test chr int int chr 
+test type 
+test call type 
+test swap 
+test assign function 
+test simpl 
+test simpl 
+test nest control function 
+test logic 
+test width 
+test duplic empti pop swap 
+test preambl write newlin quot 

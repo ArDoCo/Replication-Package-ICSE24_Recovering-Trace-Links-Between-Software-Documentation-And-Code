@@ -1,0 +1,23 @@
+notif db test 
+notif db 
+typic notif 
+typic notif 
+
+notif db 
+
+
+
+setup 
+clean 
+test notif 
+test notif 
+test activ notif target user 
+test creat notif 
+test updat notif 
+test updat notif singl field updat updat success 
+test delet notif 
+test doe notif exist 
+test exist entiti 
+creat notif 
+notif attribut 
+

@@ -1,0 +1,11 @@
+notif pane adapt 
+
+
+content 
+affect entri 
+total entri 
+
+
+notif pane adapt 
+notifi 
+

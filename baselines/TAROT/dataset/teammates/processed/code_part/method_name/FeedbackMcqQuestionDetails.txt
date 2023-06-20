@@ -1,0 +1,22 @@
+feedback mcq question detail 
+feedback mcq question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+assign weight 
+set assign weight 
+mcq weight 
+set mcq weight 
+mcq weight 
+set mcq weight 
+num mcq choic 
+mcq choic 
+set mcq choic 
+enabl 
+set enabl 
+question dropdown enabl 
+set question dropdown enabl 
+generat option 
+set generat option 

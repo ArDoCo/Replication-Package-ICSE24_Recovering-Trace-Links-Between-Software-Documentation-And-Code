@@ -1,0 +1,5 @@
+selenium java:compound
+test autom:obj
+actual browser:amod
+web browser:compound
+browser autom:obl

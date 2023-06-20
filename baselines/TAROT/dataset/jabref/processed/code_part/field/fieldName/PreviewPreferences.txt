@@ -1,0 +1,7 @@
+layout cycl 
+layout cycl 
+layout cycl posit 
+custom preview layout 
+custom preview layout 
+default custom preview layout 
+show preview extra tab 

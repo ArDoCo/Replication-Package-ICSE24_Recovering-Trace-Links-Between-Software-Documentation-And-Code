@@ -1,0 +1,4 @@
+file test:nsubj
+type script file:acl
+test front:appos
+jest test:obl

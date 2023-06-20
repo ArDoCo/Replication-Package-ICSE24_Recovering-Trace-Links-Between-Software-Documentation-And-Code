@@ -1,0 +1,4 @@
+persist provid:compound
+level cach:compound
+entiti cach:compound
+jpa implement:compound

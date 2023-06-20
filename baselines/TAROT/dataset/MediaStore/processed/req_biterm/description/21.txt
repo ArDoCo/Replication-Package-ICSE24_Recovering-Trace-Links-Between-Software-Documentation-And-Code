@@ -1,0 +1,3 @@
+reduct result:obl
+file size:compound
+size reduct:nmod

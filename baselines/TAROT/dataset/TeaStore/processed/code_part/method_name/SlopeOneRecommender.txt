@@ -1,0 +1,9 @@
+differ 
+set differ 
+frequenc 
+set frequenc 
+execut 
+user vector 
+calcul score item 
+execut preprocess 
+build differ matric 

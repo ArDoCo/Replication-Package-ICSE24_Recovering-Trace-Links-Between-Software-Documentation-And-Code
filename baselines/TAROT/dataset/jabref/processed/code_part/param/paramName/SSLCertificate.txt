@@ -1,0 +1,9 @@
+encod 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+certif 
+cert path 

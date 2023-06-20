@@ -1,0 +1,9 @@
+dialog servic 
+state manag 
+clip board manag 
+task executor 
+prefer servic 
+export 
+result 
+content 
+file type 

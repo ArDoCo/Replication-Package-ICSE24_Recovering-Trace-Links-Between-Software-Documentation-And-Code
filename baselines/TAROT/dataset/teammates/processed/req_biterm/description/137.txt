@@ -1,0 +1,4 @@
+class act:nsubj
+bridg act:obl
+gae datastor:compound
+datastor act:obl

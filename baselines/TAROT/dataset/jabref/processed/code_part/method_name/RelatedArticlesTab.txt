@@ -1,0 +1,7 @@
+relat articl tab 
+relat articl pane 
+relat articl info 
+error info 
+privaci dialog 
+show 
+bind entri 

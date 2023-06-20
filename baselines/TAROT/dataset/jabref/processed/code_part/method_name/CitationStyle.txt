@@ -1,0 +1,14 @@
+citat style 
+creat citat style sourc 
+strip invalid prolog 
+creat citat style file 
+default 
+discov citat style 
+discov citat style path 
+citat style file 
+titl 
+sourc 
+file path 
+string 
+equal 
+hash code 

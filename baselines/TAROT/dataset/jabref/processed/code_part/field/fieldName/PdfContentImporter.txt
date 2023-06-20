@@ -1,0 +1,6 @@
+year extract pattern 
+import format prefer 
+line 
+line index 
+cur string 
+year 

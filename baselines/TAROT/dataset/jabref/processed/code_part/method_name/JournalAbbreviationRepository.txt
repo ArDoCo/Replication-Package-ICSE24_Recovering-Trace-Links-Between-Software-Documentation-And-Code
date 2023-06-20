@@ -1,0 +1,15 @@
+journal abbrevi repositori 
+match 
+match abbrevi 
+
+abbrevi 
+
+add custom abbrevi 
+custom abbrevi 
+add custom abbrevi 
+abbrevi 
+default abbrevi 
+dotless 
+shortest uniqu abbrevi 
+full 
+load 

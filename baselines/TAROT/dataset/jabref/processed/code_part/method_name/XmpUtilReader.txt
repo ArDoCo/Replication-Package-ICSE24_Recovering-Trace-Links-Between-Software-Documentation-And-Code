@@ -1,0 +1,5 @@
+xmp util reader 
+read raw xmp 
+read xmp 
+xmp metadata 
+load automat decrypt 

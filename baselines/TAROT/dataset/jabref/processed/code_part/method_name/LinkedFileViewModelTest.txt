@@ -1,0 +1,17 @@
+set 
+tear 
+delet file path present return true 
+delet remov chosen return true doe delet file 
+delet delet chosen return true delet file 
+delet file return true 
+delet dialog cancel return fals doe remov file 
+download html file caus warn display 
+download file replac link 
+download doe overwrit file type extens 
+download html link file point html 
+path 
+path 
+path pattern 
+path pattern 
+mime type string paramet return paramet 
+download pdf file link file point pdf url 

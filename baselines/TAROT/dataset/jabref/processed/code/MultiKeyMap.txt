@@ -1,0 +1,19 @@
+multi key map 
+map 
+map 
+
+
+key type 
+key 
+key 
+key 
+key 
+valu 
+key 
+
+
+multi key map 
+
+put 
+remov 
+

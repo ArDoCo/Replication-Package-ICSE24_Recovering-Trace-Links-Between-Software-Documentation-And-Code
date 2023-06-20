@@ -1,0 +1,5 @@
+oo bib style num citat marker 
+compar citat marker numer entri 
+num citat marker bibliographi 
+emit block 
+num citat marker 

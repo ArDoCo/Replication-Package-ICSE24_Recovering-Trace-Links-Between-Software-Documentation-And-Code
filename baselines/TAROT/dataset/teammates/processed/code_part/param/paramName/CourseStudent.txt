@@ -1,0 +1,19 @@
+email 
+
+googl id 
+comment 
+cours id 
+team 
+section 
+email 
+cours id 
+creat 
+updat 
+email 
+googl id 
+
+comment 
+registr key 
+cours id 
+team 
+section 

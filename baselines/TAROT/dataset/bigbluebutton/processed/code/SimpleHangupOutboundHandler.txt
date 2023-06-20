@@ -1,0 +1,16 @@
+simpl hangup outbound handler 
+
+
+ctx 
+event 
+ctx 
+event 
+channel 
+
+event 
+event 
+
+handl connect respons 
+handl esl event 
+hangup call 
+

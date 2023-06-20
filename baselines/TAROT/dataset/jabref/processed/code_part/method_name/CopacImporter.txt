@@ -1,0 +1,7 @@
+
+file type 
+id 
+descript 
+recogn format 
+set append 
+import databas 

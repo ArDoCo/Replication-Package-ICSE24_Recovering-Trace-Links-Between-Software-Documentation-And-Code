@@ -1,0 +1,10 @@
+file 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+session bean 
+download bean 

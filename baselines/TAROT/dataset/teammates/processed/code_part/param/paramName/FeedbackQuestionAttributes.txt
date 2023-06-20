@@ -1,0 +1,35 @@
+fq 
+id 
+user type 
+attribut 
+ 
+obj 
+question detail 
+feedback session 
+cours id 
+question descript 
+question number 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 
+question detail json 
+question type 
+updat option 
+feedback question id 
+feedback session 
+cours id 
+feedback question id 
+feedback question id 
+updat option 
+question detail 
+question descript 
+question number 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 

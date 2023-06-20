@@ -1,0 +1,6 @@
+entiti exist:nsubj
+throw exist:ccomp
+entiti exist throw:obj
+escal entiti exist:acl
+storag level:compound
+level escal:obl

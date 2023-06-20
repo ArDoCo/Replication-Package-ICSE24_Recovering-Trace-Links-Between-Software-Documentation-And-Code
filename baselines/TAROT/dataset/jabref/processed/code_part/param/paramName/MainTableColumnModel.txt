@@ -1,0 +1,12 @@
+
+
+display 
+text 
+type 
+qualifi 
+type 
+type 
+qualifi 
+width 
+ 
+raw column 

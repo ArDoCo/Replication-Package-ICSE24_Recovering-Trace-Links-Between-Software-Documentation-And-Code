@@ -1,0 +1,17 @@
+remov latex command formatt test 
+formatt 
+
+
+
+
+set 
+latex command unmodifi 
+singl command wipe 
+singl space command remov 
+multipl space command remov 
+escap backslash becom backslash 
+escap backslash follow text becom backslash follow text 
+escap backslash 
+escap underscor replac 
+exampl url correct clean 
+

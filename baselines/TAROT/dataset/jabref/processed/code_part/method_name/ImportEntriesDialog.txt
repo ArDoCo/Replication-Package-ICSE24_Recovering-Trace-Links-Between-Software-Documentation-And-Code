@@ -1,0 +1,7 @@
+import entri dialog 
+initi 
+entri node 
+icon 
+unselect 
+select entri 
+select entri 

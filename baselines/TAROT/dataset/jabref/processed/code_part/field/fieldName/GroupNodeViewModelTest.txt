@@ -1,0 +1,5 @@
+state manag 
+databas context 
+view model 
+task executor 
+prefer servic 

@@ -1,0 +1,16 @@
+custom entri type prefer migrat 
+custom type 
+custom type req 
+custom type opt 
+custom type priopt 
+pref 
+
+
+default bib databas mode 
+number 
+
+
+custom entri type prefer migrat 
+upgrad store bib entri type 
+bib entri type 
+

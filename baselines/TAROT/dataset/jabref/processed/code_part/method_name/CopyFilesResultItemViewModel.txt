@@ -1,0 +1,5 @@
+copi file result item view model 
+file 
+messag 
+icon 
+string 

@@ -1,0 +1,4 @@
+collect comput scienc bibliographi parser 
+pars entri 
+match regex input stream html 
+pars bibtex string link 

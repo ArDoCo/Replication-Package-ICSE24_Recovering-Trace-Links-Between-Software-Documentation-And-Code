@@ -1,0 +1,55 @@
+cours id 
+email 
+cours id 
+email 
+instructor 
+
+key 
+archiv 
+privileg 
+display 
+email 
+display student 
+instructor 
+
+privileg 
+section 
+privileg 
+section 
+session 
+privileg 
+session 
+privileg 
+cours id 
+googl id 
+role 
+creat 
+updat 
+privileg 
+updat option 
+updat option 
+updat option 
+cours id 
+email 
+cours id 
+googl id 
+cours id 
+email 
+googl id 
+cours id 
+email 
+cours id 
+email 
+googl id 
+cours id 
+googl id 
+cours id 
+email 
+email 
+updat option 
+
+role 
+display 
+instructor privileg 
+display student 
+achiev 

@@ -1,0 +1,4 @@
+initi datastor 
+regist entiti class 
+context initi 
+context destroy 

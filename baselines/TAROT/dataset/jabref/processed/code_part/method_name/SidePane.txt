@@ -1,0 +1,4 @@
+side pane 
+updat view 
+pane visibl bind 
+toggl command 

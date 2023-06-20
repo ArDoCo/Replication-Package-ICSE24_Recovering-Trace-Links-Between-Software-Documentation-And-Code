@@ -1,0 +1,16 @@
+oo error 
+oo error 
+titl 
+set titl 
+show error dialog 
+
+
+
+
+misc 
+data base open cite 
+data base open sync citat 
+data base open export 
+data base open 
+valid style select 
+entri select citat 

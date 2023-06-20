@@ -1,0 +1,16 @@
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 

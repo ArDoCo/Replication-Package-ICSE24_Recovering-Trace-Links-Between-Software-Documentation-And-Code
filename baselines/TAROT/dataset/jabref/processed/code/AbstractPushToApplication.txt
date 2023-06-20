@@ -1,0 +1,36 @@
+abstract push applic 
+logger 
+call 
+connect 
+defin 
+command path 
+dialog servic 
+prefer servic 
+
+
+dialog servic 
+prefer servic 
+databas 
+entri 
+key string 
+key string 
+applic 
+prefer 
+
+bib entri 
+
+abstract push applic 
+applic icon 
+tooltip 
+action 
+push entri 
+oper complet 
+requir citat key 
+command line 
+command 
+cite command 
+set 
+text 
+icon 
+key bind 
+

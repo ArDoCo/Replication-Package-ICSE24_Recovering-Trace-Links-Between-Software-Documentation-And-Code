@@ -1,0 +1,7 @@
+side pane prefer 
+visibl pane 
+prefer posit 
+set prefer posit 
+web search fetcher select 
+web search fetcher select properti 
+set web search fetcher select 

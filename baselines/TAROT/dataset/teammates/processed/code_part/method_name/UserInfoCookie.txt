@@ -1,0 +1,9 @@
+er info cooki 
+cooki 
+user id 
+set user id 
+verif code 
+set verif code 
+expiri time 
+set expiri time 
+valid 

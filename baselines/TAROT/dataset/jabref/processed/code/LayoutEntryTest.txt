@@ -1,0 +1,14 @@
+layout entri test 
+bte 
+
+bib entri 
+
+layout file 
+entri 
+
+bib entri 
+
+set 
+layout 
+test pars method call 
+

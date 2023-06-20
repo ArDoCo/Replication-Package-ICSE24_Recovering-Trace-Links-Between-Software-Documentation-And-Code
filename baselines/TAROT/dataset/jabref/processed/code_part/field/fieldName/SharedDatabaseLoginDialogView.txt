@@ -1,0 +1,22 @@
+frame 
+databas type 
+databas type 
+host 
+databas 
+port 
+user 
+password 
+rememb password 
+folder 
+brows button 
+autosav 
+connect button 
+ssl 
+file keystor 
+password keystor 
+brows keystor 
+server timezon 
+dialog servic 
+prefer servic 
+view model 
+visual 

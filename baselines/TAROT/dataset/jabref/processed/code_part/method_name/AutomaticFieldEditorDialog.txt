@@ -1,0 +1,4 @@
+automat field editor dialog 
+initi 
+save chang 
+cancel chang 

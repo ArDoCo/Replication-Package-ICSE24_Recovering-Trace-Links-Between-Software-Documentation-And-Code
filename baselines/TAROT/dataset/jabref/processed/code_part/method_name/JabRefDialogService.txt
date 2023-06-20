@@ -1,0 +1,35 @@
+jab ref dialog servic 
+creat dialog 
+creat dialog opt 
+creat detail button 
+shorten dialog messag 
+show choic dialog wait 
+show input dialog wait 
+show input dialog default wait 
+show inform dialog wait 
+show warn dialog wait 
+show error dialog wait 
+show error dialog wait 
+show error dialog wait 
+show error dialog wait 
+show confirm dialog wait 
+show confirm dialog wait 
+show confirm dialog wait 
+show confirm dialog opt wait 
+show confirm dialog opt wait 
+show custom button dialog wait 
+show custom dialog wait 
+show custom dialog wait 
+show password dialog wait 
+show progress dialog 
+show background progress dialog wait 
+notifi 
+show file save dialog 
+show file open dialog 
+show directori select dialog 
+show file open dialog multipl file 
+configur directori chooser 
+configur file chooser 
+show print dialog 
+show file open archiv dialog 
+show custom dialog 

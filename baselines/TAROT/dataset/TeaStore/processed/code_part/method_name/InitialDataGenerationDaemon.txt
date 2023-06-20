@@ -1,0 +1,4 @@
+initi data generat daemon 
+context destroy 
+context initi 
+wait databas 

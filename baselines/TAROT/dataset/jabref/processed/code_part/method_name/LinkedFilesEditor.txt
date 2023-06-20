@@ -1,0 +1,17 @@
+link file editor 
+handl drag 
+handl drag detect 
+handl drag drop 
+creat file display 
+set key bind 
+view model 
+bind entri 
+node 
+add file 
+fetch fulltext 
+add url 
+handl item mous click 
+weight 
+creat context menu file 
+context action 
+execut 

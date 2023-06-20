@@ -1,0 +1,36 @@
+copi move field content tab view model 
+tab index 
+field 
+field 
+field 
+field 
+overwrit field content 
+select entri 
+select entri 
+field valid 
+move 
+swap 
+
+bib entri 
+
+select entri 
+bib databas 
+state manag 
+
+bib entri 
+
+copi move field content tab view model 
+field valid status 
+move properti 
+swap properti 
+field 
+field properti 
+field 
+field properti 
+overwrit field content 
+overwrit field content properti 
+copi valu 
+move valu 
+swap valu 
+select entri 
+

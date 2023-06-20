@@ -1,0 +1,15 @@
+open access doi test 
+finder 
+entri 
+
+open access doi 
+bib entri 
+
+
+
+set 
+find doi 
+doi 
+entri doi 
+trust level 
+

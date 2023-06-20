@@ -1,0 +1,82 @@
+librari tab 
+add chang inform 
+add mode info 
+add share db inform 
+set data load task 
+cancel load 
+creat load anim layout 
+databas load start 
+databas load succeed 
+databas load fail 
+feed data 
+instal autosav manag backup manag 
+databas readi auto save 
+databas readi backup 
+updat tab titl 
+listen 
+suggest provid 
+mode 
+set mode 
+frame 
+delet 
+delet 
+delet 
+regist undoabl chang 
+insert entri 
+insert entri 
+edit entri focus field 
+creat main tabl 
+setup main panel 
+setup auto complet 
+updat search manag 
+entri editor 
+show edit 
+show bottom pane 
+close bottom pane 
+clear select 
+select previous entri 
+select entri 
+entri editor close 
+ensur show bottom panel 
+updat entri editor show 
+mark chang chang 
+databas 
+show delet confirm dialog 
+save divid locat 
+clean 
+select entri 
+bib databas context 
+save 
+set save 
+show 
+format output messag 
+undo manag 
+main tabl 
+current search queri 
+set current search queri 
+citat style cach 
+annot cach 
+reset chang monitor 
+copi 
+
+drop entri 
+cut 
+chang properti 
+modifi 
+mark base chang 
+undoabl chang properti 
+mark undoabl base chang 
+reset chang properti 
+creat librari tab 
+listen 
+listen 
+listen 
+listen 
+listen 
+listen 
+listen 
+listen 
+index task manag 
+databas notif 
+notifi 
+notif pane 

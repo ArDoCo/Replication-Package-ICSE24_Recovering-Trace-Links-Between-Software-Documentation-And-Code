@@ -1,0 +1,5 @@
+seventh perform:nsubj
+autom action seventh:appos
+interact perform:xcomp
+logic compon:compound
+compon interact:obl

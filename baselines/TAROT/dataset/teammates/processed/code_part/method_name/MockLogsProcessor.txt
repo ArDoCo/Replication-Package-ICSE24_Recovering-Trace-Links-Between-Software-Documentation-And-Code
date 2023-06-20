@@ -1,0 +1,8 @@
+insert feedback session log 
+insert info log 
+insert warn log 
+insert error log 
+insert general log 
+queri log 
+creat feedback session log 
+feedback session log 

@@ -1,0 +1,7 @@
+product 
+id 
+categori id 
+
+descript 
+list price cent 
+obj 

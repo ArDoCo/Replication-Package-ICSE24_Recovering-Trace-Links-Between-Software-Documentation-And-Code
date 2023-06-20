@@ -1,0 +1,38 @@
+custom feedback path option 
+feedback path separ 
+custom visibl option 
+fs edit button 
+fs save button 
+fs copi button 
+cours id text box 
+timezon drop 
+cours text box 
+session text box 
+instruct editor 
+start date box 
+start time dropdown 
+date box 
+time dropdown 
+grace period dropdown 
+submiss status text box 
+publish status text box 
+chang visibl button 
+custom session visibl time button 
+session visibl date box 
+session visibl time dropdown 
+open session visibl time button 
+custom respons visibl time button 
+respons visibl date box 
+respons visibl time dropdown 
+immedi respons visibl time button 
+manual respons visibl time button 
+chang email button 
+open session email checkbox 
+close session email checkbox 
+publish session email checkbox 
+add question button 
+copi question button 
+preview student dropdown 
+preview student button 
+preview instructor dropdown 
+preview instructor button 

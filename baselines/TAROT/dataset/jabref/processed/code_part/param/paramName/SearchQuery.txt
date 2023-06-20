@@ -1,0 +1,7 @@
+regex 
+regex 
+regex 
+queri 
+search flag 
+entri 
+escap mode 

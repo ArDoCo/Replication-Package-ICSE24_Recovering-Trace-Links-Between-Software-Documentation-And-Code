@@ -1,0 +1,35 @@
+cours logic test 
+account logic 
+cours logic 
+cours db 
+fq logic 
+fr logic 
+frc logic 
+fs logic 
+instructor logic 
+student logic 
+
+feedback respons logic 
+feedback respons comment logic 
+student logic 
+
+
+
+prepar test data 
+refresh test data 
+test updat cours cascad cascad updat timezon feedback session 
+test 
+test cours 
+test soft delet cours instructor 
+test cours present 
+test verifi cours present 
+test section cours 
+test team cours 
+test cours student account 
+test creat cours 
+test creat cours instructor 
+test move cours recycl bin 
+test restor cours recycl bin 
+test delet cours cascad 
+test updat cours cascad 
+

@@ -1,0 +1,6 @@
+configur 
+main 
+read percentag 
+read total memori kb 
+read group memori kb 
+write set env file 

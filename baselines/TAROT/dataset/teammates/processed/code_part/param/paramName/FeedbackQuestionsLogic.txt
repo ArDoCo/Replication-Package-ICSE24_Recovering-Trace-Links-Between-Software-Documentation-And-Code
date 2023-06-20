@@ -1,0 +1,45 @@
+fqa 
+feedback question id 
+feedback session 
+cours id 
+question number 
+feedback session 
+cours id 
+cours id 
+question type 
+question 
+fsa 
+creator 
+feedback session 
+cours id 
+user email 
+question 
+creator 
+fsa 
+feedback session 
+cours id 
+question 
+feedback session 
+cours id 
+feedback session 
+cours id 
+giver type 
+question 
+instructor giver 
+student giver 
+cours roster 
+relat question 
+cours roster 
+fqa 
+cours roster 
+feedback question attribut 
+email entiti question 
+team entiti question 
+updat option 
+question number 
+question number 
+question 
+feedback question id 
+queri 
+question number shift 
+question shift 

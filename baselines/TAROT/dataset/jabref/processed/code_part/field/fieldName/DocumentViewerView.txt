@@ -1,0 +1,13 @@
+scroll bar 
+file choic 
+file choic 
+main pane 
+mode live 
+mode lock 
+current page 
+max page 
+state manag 
+task executor 
+prefer servic 
+viewer 
+view model 

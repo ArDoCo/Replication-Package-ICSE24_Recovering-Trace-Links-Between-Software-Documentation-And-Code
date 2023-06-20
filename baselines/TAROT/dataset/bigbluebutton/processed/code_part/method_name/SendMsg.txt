@@ -1,0 +1,13 @@
+send msg 
+send msg 
+add call command 
+add execut app 
+add execut app arg 
+add loop 
+add hangup caus 
+add nomedia uuid 
+add event lock 
+add generic line 
+msg line 
+uuid 
+string 

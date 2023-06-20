@@ -1,0 +1,17 @@
+logger 
+field merg 
+select 
+select 
+left field valu 
+field valu 
+merg field valu 
+field 
+left entri 
+entri 
+merg entri 
+equal left 
+field merger factori 
+field merg edit 
+left 
+
+merg field 

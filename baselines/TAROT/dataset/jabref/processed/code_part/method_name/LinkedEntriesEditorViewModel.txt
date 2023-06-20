@@ -1,0 +1,6 @@
+link entri editor view model 
+link entri properti 
+string convert 
+string 
+string 
+jump entri 

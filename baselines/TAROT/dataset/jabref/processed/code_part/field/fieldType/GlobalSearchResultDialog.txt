@@ -1,0 +1,4 @@
+prefer servic 
+dialog servic 
+theme manag 
+global search result dialog view model 

@@ -1,0 +1,34 @@
+logger 
+doi prefix 
+chosen automat doi field 
+chosen automat doi field 
+chosen manual doi field 
+chosen manual doi field 
+arxiv keyword comma replac 
+arxiv keyword comma replac 
+ar xiv 
+doi fetcher 
+import format prefer 
+logger 
+api url 
+import format prefer 
+titl 
+titl 
+url abstract page 
+url abstract page 
+publish date 
+publish date 
+abstract text 
+abstract text 
+author 
+author 
+categori 
+categori 
+pdf url 
+pdf url 
+doi 
+doi 
+journal refer text 
+journal refer text 
+primari categori 
+primari categori 

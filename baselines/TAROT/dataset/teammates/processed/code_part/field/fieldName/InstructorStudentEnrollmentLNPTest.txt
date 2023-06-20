@@ -1,0 +1,9 @@
+num instructor 
+ramp period 
+num student instructor 
+num student section 
+instructor 
+instructor email 
+cours 
+error rate limit 
+resp time limit 

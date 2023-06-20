@@ -1,0 +1,69 @@
+connect manag 
+log 
+event 
+conn exec 
+manag 
+connect task 
+connect task 
+subscrib 
+confer event listen 
+esl event listen 
+status check 
+
+manag connect 
+confer event listen 
+
+conn manag 
+event listen 
+conf listen 
+rcc 
+prc 
+prc 
+command 
+ccrc 
+ccrc 
+ccrc 
+mpc 
+duc 
+huc 
+psc 
+ssc 
+tutmc 
+mpc 
+mpc 
+rcc 
+
+manag connect 
+confer event listen 
+broadcast confer command 
+user status command 
+forc eject user command 
+deaf user command 
+hold user command 
+play sound command 
+transfer user meet command 
+eject user command 
+record confer command 
+
+connect manag 
+connect 
+start 
+stop 
+run 
+broadcast 
+user status 
+user 
+check conf run command 
+check freeswitch status 
+forc eject user 
+check confer record 
+mute 
+deaf 
+hold 
+play sound 
+stop sound 
+tranfer 
+eject 
+eject 
+record 
+

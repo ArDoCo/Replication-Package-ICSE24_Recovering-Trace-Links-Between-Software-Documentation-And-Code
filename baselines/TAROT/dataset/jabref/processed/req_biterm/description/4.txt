@@ -1,0 +1,11 @@
+unit test:compound
+violat detect:obj
+crucial depend:amod
+depend violat:nmod
+logic depend:nmod
+model depend:nmod
+model logic:conj
+gui depend:nmod
+gui logic:conj
+build fail:nsubj
+case fail:obl

@@ -1,0 +1,29 @@
+mod import 
+recogn format 
+import databas 
+pars mod collect 
+pars mod group 
+pars relat item 
+handl extent 
+handl detail 
+pars 
+pars origin info 
+pars subject 
+pars record info 
+pars languag 
+pars titl 
+pars locat url 
+map genr 
+pars identifi 
+put date 
+put list empti 
+handl author part 
+put valu null 
+append valu null blank 
+charact xml event 
+start xml event 
+xml event 
+
+file type 
+descript 
+pars entri 

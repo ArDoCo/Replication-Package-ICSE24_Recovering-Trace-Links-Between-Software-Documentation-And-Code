@@ -1,0 +1,6 @@
+gui writer 
+gui writer 
+requir log entri valu 
+write 
+flush 
+close 

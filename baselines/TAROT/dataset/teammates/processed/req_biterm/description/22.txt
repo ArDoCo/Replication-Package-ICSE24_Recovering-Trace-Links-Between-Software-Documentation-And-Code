@@ -1,0 +1,6 @@
+logic repres:nsubj
+applic repres:obj
+model control:compound
+view control:compound
+control pattern:compound
+pattern applic:nmod

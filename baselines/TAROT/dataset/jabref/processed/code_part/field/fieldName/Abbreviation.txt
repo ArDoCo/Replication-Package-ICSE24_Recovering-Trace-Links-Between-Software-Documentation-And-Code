@@ -1,0 +1,5 @@
+serial version uid 
+
+abbrevi 
+dotless abbrevi 
+shortest uniqu abbrevi 

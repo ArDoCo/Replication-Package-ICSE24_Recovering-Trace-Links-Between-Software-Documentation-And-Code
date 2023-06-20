@@ -1,0 +1,16 @@
+invalid path 
+invalid directori 
+invalid document type 
+annot write protect 
+annot encrypt 
+annot thesi exampl 
+annot minim 
+inlin note minim 
+popup note minim 
+highlight minim foxit 
+highlight note minim 
+squigg note minim 
+strikeout note minim 
+highlight note minim 
+underlin note minim 
+polygon note minim 

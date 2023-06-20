@@ -1,0 +1,2 @@
+global citat key pattern 
+entri type 

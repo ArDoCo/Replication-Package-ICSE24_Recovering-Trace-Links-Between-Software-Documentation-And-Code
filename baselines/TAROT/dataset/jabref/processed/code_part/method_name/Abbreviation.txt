@@ -1,0 +1,13 @@
+abbrevi 
+abbrevi 
+abbrevi 
+
+abbrevi 
+shortest uniqu abbrevi 
+default shortest uniqu abbrevi 
+dotless abbrevi 
+compar 
+
+string 
+equal 
+hash code 

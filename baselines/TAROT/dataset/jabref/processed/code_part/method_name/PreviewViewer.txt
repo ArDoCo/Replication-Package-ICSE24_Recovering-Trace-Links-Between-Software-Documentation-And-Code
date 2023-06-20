@@ -1,0 +1,13 @@
+preview viewer 
+highlight search pattern 
+creat java script regex 
+set layout 
+set entri 
+updat 
+set preview text 
+print 
+copi preview clip board 
+copi select clip board 
+invalid 
+select text content 
+select html content 

@@ -1,0 +1,5 @@
+singl page:amod
+html page:compound
+generat page:acl
+angular framework:amod
+framework generat:obl

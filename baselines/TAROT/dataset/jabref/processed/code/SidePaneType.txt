@@ -1,0 +1,18 @@
+side pane type 
+titl 
+icon 
+toggl action 
+
+action 
+
+titl 
+icon 
+toggl action 
+
+action 
+
+side pane type 
+titl 
+icon 
+toggl action 
+

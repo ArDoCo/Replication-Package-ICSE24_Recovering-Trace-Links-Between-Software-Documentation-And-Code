@@ -1,0 +1,22 @@
+basic comment submiss action 
+feedback respons comment empti 
+
+
+feedback question 
+feedback respons id 
+student 
+respons 
+question 
+instructor 
+respons 
+
+feedback question attribut 
+feedback respons attribut 
+feedback question attribut 
+feedback respons attribut 
+
+valid question comment submiss 
+verifi comment exist 
+verifi respons owner ship student 
+verifi respons owner ship instructor 
+

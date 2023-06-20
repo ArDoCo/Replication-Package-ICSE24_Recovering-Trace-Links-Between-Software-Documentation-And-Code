@@ -1,0 +1,12 @@
+citat key checker test 
+checker 
+
+citat key checker 
+
+
+
+bib tex accept key author year 
+accept key author titl 
+accept key titl year 
+empti citat key 
+

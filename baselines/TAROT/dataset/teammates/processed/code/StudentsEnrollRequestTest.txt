@@ -1,0 +1,12 @@
+student enrol request test 
+
+
+index 
+
+
+test valid valid request pass 
+test valid null valu request fail 
+test valid empti enrol list fail 
+test valid duplic email fail 
+typic student enrol request 
+

@@ -1,0 +1,11 @@
+prefer servic 
+clipboard 
+primari 
+prefer servic 
+input 
+content 
+content 
+html 
+fallback plain 
+string 
+entri 

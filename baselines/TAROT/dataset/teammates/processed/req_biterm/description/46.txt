@@ -1,0 +1,2 @@
+action object:compound
+object check:nsubj

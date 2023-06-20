@@ -1,0 +1,6 @@
+set 
+export entri write noth 
+export correct content 
+format content correct 
+pass modifi charset 
+pass modifi charset null 

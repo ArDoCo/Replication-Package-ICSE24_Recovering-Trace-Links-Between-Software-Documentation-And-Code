@@ -1,0 +1,37 @@
+preview panel 
+logger 
+file linker 
+key bind repositori 
+preview view 
+preview prefer 
+dialog servic 
+state manag 
+index task manag 
+entri 
+
+dialog servic 
+bib entri 
+
+databas 
+dialog servic 
+key bind repositori 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri 
+posit 
+
+dialog servic 
+theme manag 
+bib entri 
+
+preview panel 
+creat key bind 
+creat popup menu 
+set entri 
+print 
+preview style 
+previous preview style 
+cycl preview 
+

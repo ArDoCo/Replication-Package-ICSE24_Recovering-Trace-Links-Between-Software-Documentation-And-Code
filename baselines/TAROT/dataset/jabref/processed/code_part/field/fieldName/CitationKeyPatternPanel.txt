@@ -1,0 +1,10 @@
+entri type column 
+entri type column 
+pattern column 
+pattern column 
+action column 
+action column 
+prefer 
+view model 
+key press time 
+tabl search term 

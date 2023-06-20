@@ -1,0 +1,4 @@
+delet file action 
+execut 
+delet file 
+delet file disk 

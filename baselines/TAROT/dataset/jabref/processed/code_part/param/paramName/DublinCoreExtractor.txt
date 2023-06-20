@@ -1,0 +1,15 @@
+dc schema 
+xmp prefer 
+resolv entri 
+author 
+creator 
+descript 
+identifi 
+publish 
+valu 
+titl 
+coverag 
+languag 
+
+sourc 
+field 

@@ -1,0 +1,12 @@
+open entri editor action 
+frame 
+state manag 
+
+
+frame 
+state manag 
+
+
+open entri editor action 
+execut 
+

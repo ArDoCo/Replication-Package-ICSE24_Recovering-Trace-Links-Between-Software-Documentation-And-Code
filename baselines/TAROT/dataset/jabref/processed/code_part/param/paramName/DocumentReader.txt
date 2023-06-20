@@ -1,0 +1,20 @@
+bib entri 
+file prefer 
+databas context 
+pdf 
+databas context 
+pdf 
+resolv pdf path 
+document 
+resolv pdf path 
+page number 
+document 
+field 
+valu 
+valu 
+text 
+pdf document 
+document 
+page number 
+document 
+path 

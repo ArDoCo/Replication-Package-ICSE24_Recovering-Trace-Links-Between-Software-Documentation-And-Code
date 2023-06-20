@@ -1,0 +1,13 @@
+pars latex dialog view model 
+latex file directori properti 
+latex directori valid 
+root properti 
+check file list 
+file properti 
+search progress properti 
+success search properti 
+brows button click 
+search button click 
+handl failur 
+search directori 
+pars button click 

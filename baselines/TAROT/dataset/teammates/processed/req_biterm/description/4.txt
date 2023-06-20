@@ -1,0 +1,12 @@
+browser consist:nsubj
+web page:compound
+page consist:obl
+css html:conj
+style css:nmod
+java script html:conj
+client side:compound
+side interact:compound
+interact java script:nmod
+sort input:compound
+input valid:compound
+valid interact:nmod

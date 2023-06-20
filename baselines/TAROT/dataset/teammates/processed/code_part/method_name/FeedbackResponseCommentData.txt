@@ -1,0 +1,12 @@
+feedback respons comment data 
+convert feedback visibl type 
+comment text 
+feedback respons comment id 
+feedback comment text 
+comment giver 
+show giver 
+show comment 
+creat 
+editor email 
+edit 
+visibl follow feedback question 

@@ -1,0 +1,12 @@
+set 
+test style bibtexkey pattern 
+test style bibtexkey pattern 
+test arbitrari bibtexkey pattern 
+test preview style 
+upgrad preview style markup default 
+upgrad preview style markup custom 
+test upgrad column prefer alreadi migrat 
+test upgrad column prefer type 
+test chang column prefer variabl 
+test chang column prefer variabl compat 
+test restor column variabl compat 

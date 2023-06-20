@@ -1,0 +1,41 @@
+save order config panel 
+export specifi order 
+export tabl order 
+export origin order 
+sort criterion list 
+add button 
+view model 
+
+save order config panel view model 
+
+criterion view model 
+row 
+criterion view model 
+row 
+limit 
+criterion view model 
+criterion view model 
+criterion view model 
+
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+
+save order config panel 
+initi 
+creat criterion row 
+creat row button 
+clear criterion row 
+set criteria limit 
+add criterion 
+move criterion 
+move criterion 
+remov criterion 
+save origin properti 
+save tabl order properti 
+save specifi order properti 
+sortabl field properti 
+sort criteria properti 
+

@@ -1,0 +1,15 @@
+order item 
+order 
+userid 
+current item 
+prioriti list 
+current item 
+map 
+userid 
+current item 
+order 
+orderid 
+user buy matrix 
+total product 
+user item set 
+useritemset 

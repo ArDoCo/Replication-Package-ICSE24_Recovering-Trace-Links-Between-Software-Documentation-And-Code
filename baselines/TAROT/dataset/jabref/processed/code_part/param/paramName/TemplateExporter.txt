@@ -1,0 +1,34 @@
+display 
+consol 
+lf file 
+directori 
+extens 
+
+lf file 
+extens 
+layout prefer 
+save configur 
+display 
+consol 
+lf file 
+directori 
+extens 
+layout prefer 
+save configur 
+display 
+consol 
+lf file 
+directori 
+extens 
+layout prefer 
+save configur 
+blank line behaviour 
+custom 
+filenam 
+databas context 
+file 
+entri 
+databas context 
+file 
+entri 
+file dir databas 

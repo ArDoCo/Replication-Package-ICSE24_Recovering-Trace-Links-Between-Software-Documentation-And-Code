@@ -1,0 +1,11 @@
+default authoryear style path 
+default numer style path 
+logger 
+intern style file 
+intern style file 
+open offic prefer 
+layout formatt prefer 
+intern style 
+intern style 
+extern style 
+extern style 

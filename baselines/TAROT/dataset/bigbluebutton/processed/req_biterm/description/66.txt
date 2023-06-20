@@ -1,0 +1,10 @@
+kurento kms:compound
+media kms:compound
+server kms:compound
+kms server:nsubj
+media server:compound
+implement server:acl
+sfu model:compound
+mcu sfu:conj
+mcu model:compound
+model implement:obj

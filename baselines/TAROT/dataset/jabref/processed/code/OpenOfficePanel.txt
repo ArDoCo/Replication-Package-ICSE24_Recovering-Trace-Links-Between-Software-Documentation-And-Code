@@ -1,0 +1,73 @@
+open offic panel 
+logger 
+dialog servic 
+connect 
+manual connect 
+select document 
+set style file 
+push entri 
+push entri int 
+push entri empti 
+push entri advanc 
+updat 
+merg 
+unmerg 
+manag citat 
+export citat 
+set 
+
+vbox 
+prefer servic 
+state manag 
+undo manag 
+task executor 
+loader 
+oo base 
+style 
+
+dialog servic 
+prefer servic 
+task executor 
+oo bib base 
+oo bib style 
+
+prefer servic 
+open offic prefer 
+key bind repositori 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+titl 
+lo path 
+text 
+parenthesi 
+citat type 
+add page info 
+entri 
+
+prefer servic 
+open offic prefer 
+key bind repositori 
+task executor 
+dialog servic 
+bib entri 
+
+open offic panel 
+content 
+updat style 
+init panel 
+export entri 
+base list 
+connect automat 
+call 
+connect manual 
+updat button avail 
+connect 
+call 
+creat bib base 
+citat type option 
+push entri 
+check entri key 
+creat set popup 
+

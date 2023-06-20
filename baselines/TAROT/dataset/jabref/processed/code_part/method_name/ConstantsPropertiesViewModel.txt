@@ -1,0 +1,11 @@
+constant properti view model 
+set valu 
+add string 
+remov string 
+convert bib tex string 
+store set 
+bibtex string view model 
+label alreadi exist 
+open page 
+string list properti 
+valid properti 

@@ -1,0 +1,43 @@
+properti 
+descript properti 
+icon properti 
+color properti 
+color properti 
+group hierarchi list properti 
+group hierarchi list properti 
+group hierarchi select properti 
+group hierarchi select properti 
+type explicit properti 
+type keyword properti 
+type search properti 
+type auto properti 
+type tex properti 
+keyword group search term properti 
+keyword group search field properti 
+keyword group case sensit properti 
+keyword group regex properti 
+search group search term properti 
+search flag properti 
+search flag properti 
+auto group keyword option properti 
+auto group keyword field properti 
+auto group keyword delimit properti 
+auto group keyword hierarch delimit properti 
+auto group person option properti 
+auto group person field properti 
+tex group file path properti 
+valid 
+delimit valid 
+valid 
+keyword regex valid 
+keyword field empti valid 
+keyword search term empti valid 
+search regex valid 
+search search term empti valid 
+tex group file path valid 
+valid 
+dialog servic 
+prefer servic 
+current databas 
+edit group 
+group dialog header 

@@ -1,0 +1,4 @@
+key string:nsubj
+deploy person:acl
+applic deploy:obj
+administr string:dep

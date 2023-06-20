@@ -1,0 +1,5 @@
+voic system:compound
+confer system:compound
+free switch system:nmod
+creat free switch:acl
+integr creat:obj

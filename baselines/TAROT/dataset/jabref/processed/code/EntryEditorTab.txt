@@ -1,0 +1,24 @@
+entri editor tab 
+open entri 
+default sourc 
+enabl relat articl tab 
+accept recommend 
+enabl latex citat tab 
+enabl valid 
+integ edit 
+enabl auto complet 
+auto complet field 
+auto complet 
+auto complet 
+auto complet 
+mode abbrevi 
+mode full 
+mode 
+
+
+
+
+entri editor tab 
+tab 
+initi 
+

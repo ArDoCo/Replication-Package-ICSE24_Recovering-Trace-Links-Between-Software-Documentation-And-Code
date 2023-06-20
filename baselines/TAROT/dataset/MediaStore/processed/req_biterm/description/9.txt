@@ -1,0 +1,13 @@
+audio file:amod
+file fetch:obj
+specif locat:amod
+locat fetch:obl
+dedic server:amod
+file server:compound
+server locat:dep
+local disk:amod
+disk locat:dep
+disk server:conj
+process fetch:advcl
+download request:compound
+request process:obj

@@ -1,0 +1,114 @@
+architectur test 
+class 
+common packag 
+storag packag 
+storag api packag 
+storag entiti packag 
+storag search packag 
+logic packag 
+logic core packag 
+logic api packag 
+logic extern packag 
+ui packag 
+ui webapi packag 
+ui servlet packag 
+ui output packag 
+ui request packag 
+main packag 
+test driver packag 
+packag 
+case packag 
+pageobject packag 
+util packag 
+lnp packag 
+lnp case packag 
+lnp util packag 
+client packag 
+client connector packag 
+client script packag 
+client util packag 
+test file suffix 
+
+
+pack 
+packag 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+
+
+includ subpackag 
+class 
+test architectur ui touch storag 
+test architectur main touch product code common 
+appli 
+test architectur logic touch ui 
+test architectur storag touch logic 
+test architectur storag touch ui 
+test architectur common touch logic 
+test architectur common touch storag 
+test architectur common touch ui 
+test architectur ui touch logic api 
+test architectur ui onli web api touch output 
+test architectur ui onli web api touch request 
+test architectur ui api request onli touch request output 
+test architectur ui api output onli touch output 
+test architectur ui control 
+test architectur logic logic onli access storag api 
+test architectur logic core logic onli access correspond db 
+appli 
+test architectur logic core logic touch api logic 
+test architectur logic core logic touch extern logic 
+test architectur logic extern logic touch core logic 
+test architectur storag storag search touch storag entiti 
+test architectur storag storag entiti touch storag packag 
+appli 
+test architectur test class test case independ 
+appli 
+test architectur test class driver ani depend 
+appli 
+appli 
+appli 
+test architectur 
+test architectur touch product code common 
+test architectur test case independ 
+appli 
+appli 
+test architectur onli test access page object 
+test architectur util ani depend 
+appli 
+test architectur lnp lnp 
+test architectur lnp lnp touch product code common request 
+appli 
+test architectur lnp lnp test case independ 
+appli 
+appli 
+test architectur lnp lnp ani depend 
+appli 
+test architectur client client 
+test architectur client client touch ui compon 
+test architectur client connector touch script 
+test architectur client util ani depend 
+appli 
+test architectur extern api log api onli access logger 
+test architectur extern api solr api onli access search manag class 
+test architectur extern api cloud task api onli access cloud task servic 
+test architectur extern api cloud log api onli access cloud log servic 
+test architectur extern api objectifi api onli access packag 
+test architectur extern api servlet api onli access packag 
+test architectur extern api jetti api onli access packag 
+test architectur extern api assert api onli access packag 
+test architectur extern api selenium api onli access page object 
+

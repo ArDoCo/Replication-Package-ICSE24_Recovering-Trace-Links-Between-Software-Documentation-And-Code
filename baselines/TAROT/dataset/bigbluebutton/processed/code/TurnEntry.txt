@@ -1,0 +1,15 @@
+turn entri 
+usernam 
+url 
+password 
+ttl 
+
+
+usernam 
+password 
+ttl 
+url 
+
+
+turn entri 
+

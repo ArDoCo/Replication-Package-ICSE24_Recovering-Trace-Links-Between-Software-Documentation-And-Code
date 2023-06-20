@@ -1,0 +1,3 @@
+view model 
+text input 
+decor string properti 

@@ -1,0 +1,6 @@
+pars latex result view model 
+refer list 
+citat list refer 
+import button disabl properti 
+activ refer chang 
+import button click 

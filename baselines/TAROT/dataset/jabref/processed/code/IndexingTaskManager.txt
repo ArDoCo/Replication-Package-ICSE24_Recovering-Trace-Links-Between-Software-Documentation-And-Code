@@ -1,0 +1,49 @@
+index task manag 
+task queue 
+task queue 
+task executor 
+num index file 
+lock 
+run 
+block task 
+
+
+task executor 
+index task 
+index 
+index 
+databas context 
+index 
+entri 
+databas context 
+index 
+entri 
+link file 
+databas context 
+index 
+entri 
+link file 
+index 
+entri 
+
+
+bib entri 
+bib entri 
+link file 
+bib entri 
+link file 
+bib entri 
+
+index task manag 
+call 
+updat progress 
+enqueu task 
+block task 
+creat index 
+updat index 
+add index 
+add index 
+remov index 
+remov index 
+updat databas 
+

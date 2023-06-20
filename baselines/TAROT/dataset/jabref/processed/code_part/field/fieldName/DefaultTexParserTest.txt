@@ -1,0 +1,7 @@
+darwin 
+einstein 
+newton 
+einstein 
+einstein 
+unresolv 
+unknown 

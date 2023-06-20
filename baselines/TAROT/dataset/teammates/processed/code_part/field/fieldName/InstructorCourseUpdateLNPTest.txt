@@ -1,0 +1,14 @@
+num instructor 
+ramp period 
+num feedback session 
+cours id 
+cours 
+cours time zone 
+updat cours 
+updat cours time zone 
+instructor id 
+instructor 
+instructor email 
+feedback session 
+error rate limit 
+resp time limit 

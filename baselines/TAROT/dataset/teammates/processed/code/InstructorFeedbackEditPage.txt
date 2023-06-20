@@ -1,0 +1,448 @@
+instructor feedback edit page 
+custom feedback path option 
+feedback path separ 
+custom visibl option 
+fs edit button 
+fs save button 
+fs copi button 
+cours id text box 
+timezon drop 
+cours text box 
+session text box 
+instruct editor 
+start date box 
+start time dropdown 
+date box 
+time dropdown 
+grace period dropdown 
+submiss status text box 
+publish status text box 
+chang visibl button 
+custom session visibl time button 
+session visibl date box 
+session visibl time dropdown 
+open session visibl time button 
+custom respons visibl time button 
+respons visibl date box 
+respons visibl time dropdown 
+immedi respons visibl time button 
+manual respons visibl time button 
+chang email button 
+open session email checkbox 
+close session email checkbox 
+publish session email checkbox 
+add question button 
+copi question button 
+preview student dropdown 
+preview student button 
+preview instructor dropdown 
+preview instructor button 
+
+
+browser 
+cours 
+feedback session 
+feedback session 
+feedback session 
+feedback session 
+session visibl time 
+feedback session 
+respons visibl time 
+feedback session 
+feedback session 
+feedback session detail 
+cours 
+session 
+student 
+instructor 
+expect 
+question num 
+feedback question 
+question num 
+feedback question 
+question num 
+number entiti give feedback 
+question num 
+feedback question 
+question num 
+feedback question 
+tabl 
+giver 
+receiv 
+particip 
+col num 
+option num 
+cours id 
+question text 
+question num 
+question number 
+question num 
+feedback question 
+question num 
+feedback question 
+question num 
+question num 
+question num 
+question detail 
+feedback question 
+question num 
+text question detail 
+question num 
+question detail 
+feedback question 
+question num 
+question detail 
+question num 
+question detail 
+feedback question 
+question num 
+msq question detail 
+question num 
+question detail 
+feedback question 
+question num 
+question detail 
+question num 
+question detail 
+feedback question 
+feedback question 
+feedback question 
+question num 
+cs question detail 
+question num 
+question detail 
+feedback question 
+question num 
+question detail 
+question num 
+question detail 
+feedback question 
+question num 
+question detail 
+question num 
+question detail 
+feedback question 
+feedback question 
+question num 
+question detail 
+instant 
+time zone 
+instant 
+time zone 
+instruct 
+start instant 
+time zone 
+instant 
+time zone 
+start instant 
+time zone 
+instant 
+time zone 
+date box 
+time box 
+start instant 
+time zone 
+grace period minut 
+feedback session 
+feedback session 
+feedback session 
+feedback session detail 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+
+question num 
+descript 
+question num 
+feedback question 
+question num 
+text 
+question num 
+question num 
+question num 
+feedback question 
+tabl 
+giver 
+receiv 
+particip 
+col num 
+question num 
+text 
+button 
+option number 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+type 
+valu 
+question num 
+question num 
+question num 
+question num 
+question num 
+particip type 
+question num 
+option 
+question num 
+weight 
+weight 
+question num 
+
+weight 
+question num 
+question detail 
+question num 
+particip type 
+question num 
+option 
+question num 
+weight 
+weight 
+question num 
+
+weight 
+question num 
+
+question num 
+question num 
+question num 
+question num 
+question num 
+max option 
+question num 
+min option 
+question num 
+question detail 
+question num 
+max option 
+question num 
+min option 
+question num 
+question num 
+question num 
+question num 
+question detail 
+input 
+valu 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+question num 
+question detail 
+question num 
+question num 
+question num 
+question detail 
+question num 
+row number 
+question num 
+question num 
+row num 
+question num 
+row num 
+question num 
+row num 
+question num 
+col num 
+question num 
+question num 
+question num 
+question detail 
+question num 
+num qn 
+num choic 
+question num 
+question num 
+question detail 
+
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback mcq question detail 
+feedback mcq question detail 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback mcq question detail 
+feedback particip type 
+
+instructor feedback edit page 
+expect page content 
+verifi session detail 
+verifi submiss status 
+verifi publish status 
+verifi visibl set 
+verifi session visibl set 
+verifi respons visibl set 
+verifi email set 
+edit session detail 
+copi session cours 
+delet session 
+preview student 
+preview instructor 
+verifi num question 
+verifi question detail 
+verifi feedback path set 
+verifi number entiti give feedback 
+verifi question visibl set 
+verifi custom question visibl 
+assert visibl box select 
+add templat question 
+copi question 
+edit question number 
+edit question detail 
+input question detail 
+duplic question 
+delet question 
+verifi text question detail 
+add text question 
+edit text question 
+verifi mcq question detail 
+add mcq question 
+edit mcq question 
+verifi msq question detail 
+add msq question 
+edit msq question 
+verifi num scale question detail 
+add num scale question 
+edit num scale question 
+verifi const sum question detail 
+add const sum option question 
+add const sum recipi question 
+add const sum question 
+edit const sum question 
+verifi contribut question detail 
+add contribut question 
+edit contribut question 
+verifi rubric question detail 
+add rubric question 
+edit rubric question 
+verifi rank question detail 
+add rank option question 
+add rank recipi question 
+edit rank question 
+cours id 
+cours 
+time zone 
+feedback session 
+instruct 
+start date 
+start time 
+date 
+time 
+session visibl date 
+session visibl time 
+respons visibl date 
+respons visibl time 
+grace period 
+submiss status 
+publish status 
+date string 
+time string 
+set instruct 
+set session start date time 
+set session date time 
+set visibl date time 
+set respons date time 
+set date time 
+select grace period 
+set visibl set 
+set session visibl set 
+set respons visibl set 
+set email set 
+show visibl set 
+show email set 
+num question 
+question form 
+question type 
+question number 
+question 
+question descript 
+feedback giver 
+feedback receiv 
+feedback path 
+set question 
+set question descript 
+set feedback path 
+select feedback path dropdown option 
+click edit question button 
+click save question button 
+set question visibl 
+select visibl box 
+select visibl dropdown option 
+click wait question 
+add question 
+click save question button 
+recommend text length field 
+generat option checkbox 
+generat option dropdown 
+weight checkbox 
+option checkbox 
+question dropdown checkbox 
+generat option string 
+doubl string 
+option section 
+option input 
+option weight input 
+weight input 
+verifi generat option 
+verifi option 
+verifi option weight 
+verifi option 
+input mcq detail 
+input generat option 
+input option 
+input option weight 
+input choic 
+input dropdown enabl choic 
+max option checkbox 
+max option input 
+min option checkbox 
+min option input 
+verifi max option 
+verifi min option 
+input msq detail 
+input max option 
+input min option 
+min numscal input 
+max numscal input 
+num scale increment input 
+input num scale detail 
+input num scale valu 
+const sum total point radio btn 
+const sum total point input 
+const sum option point radio btn 
+const sum option point input 
+const sum uneven distribut checkbox 
+const sum uneven distribut dropdown 
+input const sum detail 
+sum checkbox 
+contribut checkbox 
+input contribut detail 
+rubric row 
+rubric choic input 
+rubric textarea 
+rubric weight 
+rubric delet qn btn 
+rubric delet choic btn 
+num rubric row 
+num rubric col 
+input rubric detail 
+adjust num rubric field 
+duplic rank checkbox 
+input rank detail 
+

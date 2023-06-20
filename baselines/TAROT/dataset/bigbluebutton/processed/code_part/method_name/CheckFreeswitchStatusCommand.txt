@@ -1,0 +1,4 @@
+check freeswitch status command 
+command 
+command arg 
+handl respons 

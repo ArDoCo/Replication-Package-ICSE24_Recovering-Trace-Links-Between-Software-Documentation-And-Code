@@ -1,0 +1,6 @@
+option object properti 
+empti 
+els opt 
+comput valu 
+present 
+comput valu 

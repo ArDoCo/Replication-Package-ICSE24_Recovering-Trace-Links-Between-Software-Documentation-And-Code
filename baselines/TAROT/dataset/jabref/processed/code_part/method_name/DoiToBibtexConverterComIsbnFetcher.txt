@@ -1,0 +1,8 @@
+doi bibtex convert isbn fetcher 
+
+url identifi 
+parser 
+post cleanup 
+json item bib entri 
+element json array key 
+evalu bib entri type string 

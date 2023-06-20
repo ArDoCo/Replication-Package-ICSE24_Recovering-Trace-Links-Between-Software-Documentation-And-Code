@@ -1,0 +1,7 @@
+speed place:advcl
+imag deliveri:compound
+deliveri speed:obj
+memori cach:compound
+cach place:nsubj
+replacemen strategi:compound
+strategi cach:nmod

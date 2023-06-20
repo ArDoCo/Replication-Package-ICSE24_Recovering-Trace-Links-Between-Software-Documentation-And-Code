@@ -1,0 +1,10 @@
+document reader 
+read link pdf 
+read link pdfs 
+read pdf content 
+add meta data 
+add string field 
+valid field 
+merg line 
+add content empti 
+add identifi 

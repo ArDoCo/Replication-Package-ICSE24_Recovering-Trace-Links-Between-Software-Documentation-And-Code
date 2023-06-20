@@ -1,0 +1,59 @@
+fr comment 
+feedback respons comment id 
+respons id 
+giver email 
+creation date 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+section 
+question id 
+section 
+cours id 
+email 
+updat email 
+feedback respons id 
+updat option 
+cours id 
+giver email 
+comment id 
+queri 
+comment 
+respons 
+user email 
+roster 
+respons 
+user email 
+roster 
+show 
+user email 
+instructor 
+student 
+student email team 
+respons 
+relat question 
+relat comment 
+student 
+student email team 
+respons 
+relat question 
+relat comment 
+user student 
+user email 
+respons 
+relat question 
+relat comment 
+visibl giver 
+user instructor 
+user student 
+relat question 
+relat comment 
+viewer type 
+cours id 
+cours id 
+comment giver 
+comment giver type 
+comment feedback particip 
+cours id 
+feedback session 

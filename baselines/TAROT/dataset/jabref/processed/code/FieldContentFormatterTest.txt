@@ -1,0 +1,12 @@
+field content formatt test 
+parser 
+
+field content formatt 
+
+
+
+set 
+doe unifi line break 
+retain whitespac multi line field 
+remov whitespac multi line field 
+

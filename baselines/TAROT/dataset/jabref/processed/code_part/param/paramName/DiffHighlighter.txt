@@ -1,0 +1,10 @@
+sourc textview 
+target textview 
+diff method 
+str 
+diff method 
+separ 
+string list 
+posit 
+span size 
+type 

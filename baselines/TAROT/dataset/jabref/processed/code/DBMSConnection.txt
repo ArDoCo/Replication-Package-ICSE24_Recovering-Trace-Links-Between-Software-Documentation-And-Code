@@ -1,0 +1,16 @@
+dbms connect 
+logger 
+connect 
+properti 
+
+dbms connect properti 
+
+connect properti 
+
+dbms connect properti 
+
+dbms connect 
+connect 
+properti 
+avail dbms type 
+

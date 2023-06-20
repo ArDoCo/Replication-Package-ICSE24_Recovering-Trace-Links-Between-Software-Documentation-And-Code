@@ -1,0 +1,11 @@
+serial entri group 
+serial explicit group 
+serial keyword group 
+serial search group 
+append group detail 
+serial tree 
+serial group 
+serial tex group 
+serial automat person group 
+append automat group detail 
+serial automat keyword group 

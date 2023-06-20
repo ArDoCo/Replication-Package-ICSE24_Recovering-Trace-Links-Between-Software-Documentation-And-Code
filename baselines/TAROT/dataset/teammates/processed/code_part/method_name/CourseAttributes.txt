@@ -1,0 +1,36 @@
+cours attribut 
+valu 
+builder 
+id 
+
+set 
+time zone 
+set time zone 
+institut 
+creat 
+set creat 
+delet 
+set delet 
+cours delet 
+invalid info 
+entiti 
+string 
+hash code 
+equal 
+sanit save 
+compar 
+sort id 
+updat 
+updat option builder 
+builder 
+build 
+updat option 
+cours id 
+string 
+builder 
+build 
+basic builder 
+
+timezon 
+institut 
+build 

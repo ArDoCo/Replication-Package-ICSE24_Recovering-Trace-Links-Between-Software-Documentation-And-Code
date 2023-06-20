@@ -1,0 +1,13 @@
+logic respons:nsubj
+logic manipul:nsubj
+read import:compound
+write import:compound
+import respons:obl
+export import:amod
+manipul respons:conj
+model manipul:obj
+structur respons:conj
+structur manipul:conj
+api structur:obl
+gui call:nsubj
+call api:acl

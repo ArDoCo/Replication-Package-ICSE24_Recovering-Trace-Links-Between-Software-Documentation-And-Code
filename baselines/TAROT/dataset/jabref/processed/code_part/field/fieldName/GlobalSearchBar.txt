@@ -1,0 +1,25 @@
+logger 
+search delay 
+class result 
+class result 
+search field 
+case sensit button 
+regular express button 
+fulltext button 
+open global search button 
+search string 
+search field tooltip 
+current result 
+state manag 
+prefer servic 
+regex valid 
+undo manag 
+search prefer 
+dialog servic 
+global search activ 
+global search result dialog 
+control 
+control 
+suggest list 
+suggest list 
+

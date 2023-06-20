@@ -1,0 +1,39 @@
+diff highlight ellips text flow 
+default ellipsi string 
+ellipsi string 
+children 
+children 
+size chang listen 
+size chang listen 
+list chang listen 
+list chang listen 
+full text 
+comparison string 
+comparison string 
+diff mode 
+diff mode 
+
+number 
+
+full text 
+comparison string 
+diff mode 
+extend 
+ 
+valu 
+
+
+diff highlight ellips text flow 
+children 
+adjust children 
+adjust text 
+remov text fit 
+fill overflow 
+ellips text fit 
+highlight diff 
+ellips string 
+set ellipsi string 
+ellipsi string 
+ellipsi string properti 
+full text 
+

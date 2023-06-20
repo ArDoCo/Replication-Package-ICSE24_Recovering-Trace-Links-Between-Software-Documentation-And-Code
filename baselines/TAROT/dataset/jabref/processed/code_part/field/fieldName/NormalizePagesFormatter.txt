@@ -1,0 +1,3 @@
+em en dash pattern 
+dash detect pattern 
+unprotect term formatt 

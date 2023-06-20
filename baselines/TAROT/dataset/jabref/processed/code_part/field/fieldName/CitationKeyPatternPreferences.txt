@@ -1,0 +1,13 @@
+avoid overwrit cite key 
+warn befor overwrit cite key 
+generat cite key befor save 
+key suffix 
+key suffix 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+key pattern 
+default pattern 
+keyword delimit 
+keyword delimit 

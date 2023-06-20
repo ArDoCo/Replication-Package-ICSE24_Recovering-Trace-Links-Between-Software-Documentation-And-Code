@@ -1,0 +1,6 @@
+accept input 
+provid accept input 
+reject disallow input 
+provid unaccept input 
+entri escap unescap ampersand 
+entri multipl escap unescap ampersand 

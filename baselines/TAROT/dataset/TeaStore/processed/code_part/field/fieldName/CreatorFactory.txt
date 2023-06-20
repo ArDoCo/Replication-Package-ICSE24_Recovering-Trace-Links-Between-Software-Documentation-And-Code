@@ -1,0 +1,12 @@
+shape imag 
+img size 
+work dir 
+categori imag 
+categori imag 
+product 
+product 
+categori 
+categori 
+img db 
+nr imag generat 
+log 

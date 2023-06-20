@@ -1,0 +1,15 @@
+default queri transform 
+
+
+author 
+titl 
+journal titl 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+

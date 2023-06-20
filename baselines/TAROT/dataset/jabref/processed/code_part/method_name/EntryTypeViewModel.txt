@@ -1,0 +1,8 @@
+entri type view model 
+hash code 
+equal 
+add field 
+field 
+entri type 
+remov field 
+string 

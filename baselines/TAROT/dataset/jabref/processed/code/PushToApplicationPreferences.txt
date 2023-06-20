@@ -1,0 +1,31 @@
+push applic prefer 
+activ applic 
+command path 
+command path 
+emac argument 
+vim server 
+
+
+activ applic 
+command path 
+emac argument 
+vim server 
+activ applic 
+command path 
+emac argument 
+vim server 
+
+
+push applic prefer 
+activ applic 
+activ applic properti 
+set activ applic 
+command path 
+set command path 
+emac argument 
+emac argument properti 
+set emac argument 
+vim server 
+vim server properti 
+set vim server 
+

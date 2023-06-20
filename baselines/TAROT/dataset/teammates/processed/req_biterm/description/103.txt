@@ -1,0 +1,5 @@
+retriev attempt:xcomp
+object retriev:obj
+null paramet:amod
+assert failur:compound
+failur attempt:nsubj

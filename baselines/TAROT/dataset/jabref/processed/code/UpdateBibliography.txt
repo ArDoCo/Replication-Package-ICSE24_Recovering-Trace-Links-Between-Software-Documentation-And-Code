@@ -1,0 +1,33 @@
+updat bibliographi 
+bib section 
+bib section 
+
+
+doc 
+doc 
+frontend 
+bibliographi 
+style 
+alway add cite page 
+doc 
+doc 
+doc 
+frontend 
+bibliographi 
+style 
+alway add cite page 
+
+oo frontend 
+cite key 
+oo bib style 
+oo frontend 
+cite key 
+oo bib style 
+
+updat bibliographi 
+bibliographi rang 
+rebuild bib text section 
+creat bib text section 
+clear bib text section content 
+popul bib text section 
+

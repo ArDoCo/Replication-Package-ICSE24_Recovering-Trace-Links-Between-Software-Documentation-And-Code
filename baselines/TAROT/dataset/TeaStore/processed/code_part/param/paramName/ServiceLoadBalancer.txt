@@ -1,0 +1,29 @@
+target servic 
+target servic 
+target servic 
+target servic 
+server 
+endpoint uri 
+entiti class 
+target servic 
+target servic 
+server 
+server 
+target servic 
+endpoint uri 
+entiti class 
+oper 
+endpoint uri 
+entiti class 
+oper 
+target servic 
+endpoint uri 
+entiti class 
+oper 
+endpoint uri 
+entiti class 
+oper 
+endpoint uri 
+entiti class 
+oper 
+

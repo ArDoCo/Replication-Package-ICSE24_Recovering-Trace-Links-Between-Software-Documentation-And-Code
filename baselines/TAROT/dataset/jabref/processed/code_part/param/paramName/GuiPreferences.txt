@@ -1,0 +1,29 @@
+posit 
+posit 
+size 
+size 
+window maximis 
+file open 
+focus file 
+file histori 
+select id base fetcher 
+merg diff mode 
+merg show diff 
+merg show unifi diff 
+merg highlight word 
+side pane width 
+merg show chang field onli 
+posit 
+posit 
+size 
+size 
+window maximis 
+file 
+focus file 
+select id base fetcher 
+merg diff mode 
+merg show diff 
+merg show unifi diff 
+merg highlight word 
+side pane width 
+show chang field onli 

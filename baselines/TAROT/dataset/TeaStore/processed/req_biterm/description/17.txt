@@ -1,0 +1,12 @@
+load perform:advcl
+imag load:obj
+physic drive:amod
+drive load:obl
+cach lookup:compound
+lookup perform:nsubj
+imag present:nsubj
+deliv perform:dep
+deliv perform:dep
+cach deliv:obl
+physic drive:amod
+drive deliv:obl

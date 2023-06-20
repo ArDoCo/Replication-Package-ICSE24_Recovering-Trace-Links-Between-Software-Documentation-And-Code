@@ -1,0 +1,26 @@
+side pane content factori 
+prefer 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+
+prefer servic 
+task executor 
+dialog servic 
+
+prefer 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+side pane type 
+
+prefer servic 
+task executor 
+dialog servic 
+side pane type 
+
+side pane content factori 
+creat 
+

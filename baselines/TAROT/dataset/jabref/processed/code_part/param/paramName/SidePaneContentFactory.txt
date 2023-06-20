@@ -1,0 +1,6 @@
+prefer 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+side pane type 

@@ -1,0 +1,4 @@
+side pane type 
+titl 
+icon 
+toggl action 

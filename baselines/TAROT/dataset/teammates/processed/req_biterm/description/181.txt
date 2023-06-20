@@ -1,0 +1,10 @@
+compon test:compound
+pure test:amod
+unit test:compound
+compon test:obj
+isol compon:nmod
+integr test:compound
+unit test:obj
+integr test:advcl
+integr test:conj
+unit integr:nmod

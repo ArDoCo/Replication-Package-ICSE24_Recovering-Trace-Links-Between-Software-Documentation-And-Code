@@ -1,0 +1,16 @@
+data generat 
+databas empti 
+generat databas content 
+generat categori 
+generat product 
+generat user 
+generat order 
+generat order item 
+digit 
+drop creat tabl 
+set generat finish flag 
+generat finish flag 
+mainten mode 
+set mainten mode intern 
+set mainten mode global 
+set mainten mode extern 

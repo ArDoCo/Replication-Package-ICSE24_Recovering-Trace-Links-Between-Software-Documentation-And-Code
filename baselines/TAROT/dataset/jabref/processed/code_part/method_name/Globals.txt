@@ -1,0 +1,11 @@
+global 
+key pref 
+clipboard manag 
+theme manag 
+start background task 
+stop telemetri client 
+start telemetri client 
+file updat monitor 
+shutdown thread pool 
+stop background task 
+telemetri client 

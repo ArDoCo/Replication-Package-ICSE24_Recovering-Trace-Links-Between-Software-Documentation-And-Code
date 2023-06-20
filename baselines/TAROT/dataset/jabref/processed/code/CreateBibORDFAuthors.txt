@@ -1,0 +1,12 @@
+creat bib ordf author 
+
+
+field text 
+sb 
+author 
+posit 
+
+
+format 
+singl author 
+

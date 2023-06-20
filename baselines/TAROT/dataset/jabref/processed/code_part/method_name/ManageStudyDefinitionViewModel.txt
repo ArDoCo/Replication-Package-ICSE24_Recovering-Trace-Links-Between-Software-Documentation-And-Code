@@ -1,0 +1,17 @@
+manag studi definit view model 
+manag studi definit view model 
+titl 
+directori 
+author 
+research question 
+queri 
+databas 
+add author 
+add research question 
+add queri 
+save studi 
+titl properti 
+set studi directori 
+delet author 
+delet question 
+delet queri 

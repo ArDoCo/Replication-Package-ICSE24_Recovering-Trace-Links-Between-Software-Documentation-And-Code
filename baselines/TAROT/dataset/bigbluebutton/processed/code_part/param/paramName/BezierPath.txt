@@ -1,0 +1,94 @@
+
+
+ 
+mask 
+ 
+ 
+ 
+ 
+ 
+mask 
+ 
+ 
+ 
+ 
+ 
+ 
+valu 
+index 
+ 
+index 
+ 
+ 
+ 
+dx 
+dy 
+ 
+ 
+ 
+ 
+ctrl mask 
+ 
+ 
+ 
+point 
+node index 
+ctrl index 
+ 
+node index 
+ctrl index 
+ 
+ 
+toler 
+ 
+
+
+flat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+valu 
+tx 
+
+ 
+relat 
+flat 
+flat 
+find 
+flat 
+find 
+toler 
+join 
+toler 
+split 
+toler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rx 
+ry 
+axi rotat 
+larg arc flag 
+sweep flag 
+ 
+ 
+valu 

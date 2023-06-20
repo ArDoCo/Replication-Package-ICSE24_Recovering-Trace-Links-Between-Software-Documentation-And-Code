@@ -1,0 +1,27 @@
+doaj fetcher 
+logger 
+search url 
+prefer 
+
+import format prefer 
+
+prefer 
+bib json entri 
+keyword separ 
+base 
+path 
+path 
+segment 
+lucen queri 
+
+import format prefer 
+
+doaj fetcher 
+pars bib jso nto bibtex 
+add path 
+append segment path 
+
+page 
+url queri 
+parser 
+

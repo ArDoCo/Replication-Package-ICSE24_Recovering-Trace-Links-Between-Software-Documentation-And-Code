@@ -1,0 +1,4 @@
+databas chang list 
+compar chang 
+creat bib string diff 
+creat bib entri diff 

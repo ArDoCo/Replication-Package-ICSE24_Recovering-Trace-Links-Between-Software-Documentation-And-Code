@@ -1,0 +1,10 @@
+encod 
+encod 
+databas mode 
+databas mode 
+general file directori 
+user specif file directori 
+la tex file directori 
+preambl 
+prefer servic 
+undo manag 

@@ -1,0 +1,26 @@
+merg cell view model test 
+view model 
+
+merg cell view model 
+
+set odd 
+set 
+expect odd 
+expect 
+row index 
+expect 
+row index 
+expect 
+set text 
+
+
+setup 
+test odd logic 
+return true row index 
+odd return true row index odd 
+text set text consist 
+test odd logic 
+return true row index 
+odd return true row index odd 
+text set text consist 
+

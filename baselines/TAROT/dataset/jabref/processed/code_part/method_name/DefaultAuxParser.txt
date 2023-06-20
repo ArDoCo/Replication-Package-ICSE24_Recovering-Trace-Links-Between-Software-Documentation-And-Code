@@ -1,0 +1,8 @@
+default aux parser 
+pars 
+pars aux file 
+match nest aux 
+match citat 
+resolv tag 
+resolv cross refer 
+insert entri 

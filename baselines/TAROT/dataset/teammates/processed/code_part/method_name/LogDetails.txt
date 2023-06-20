@@ -1,0 +1,5 @@
+log detail 
+event 
+messag 
+set messag 
+hide sensit inform 

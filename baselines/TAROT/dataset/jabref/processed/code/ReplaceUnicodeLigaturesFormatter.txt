@@ -1,0 +1,15 @@
+replac unicod ligatur formatt 
+ligatur map 
+ligatur map 
+
+
+field text 
+
+
+replac unicod ligatur formatt 
+
+key 
+format 
+descript 
+exampl input 
+

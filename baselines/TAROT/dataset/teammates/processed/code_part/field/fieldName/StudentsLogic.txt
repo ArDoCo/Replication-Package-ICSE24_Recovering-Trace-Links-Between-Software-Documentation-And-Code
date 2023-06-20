@@ -1,0 +1,9 @@
+error invalid team 
+error invalid team instruct 
+error enrol exceed section limit 
+error enrol exceed section limit instruct 
+instanc 
+student db 
+fr logic 
+fs logic 
+de logic 

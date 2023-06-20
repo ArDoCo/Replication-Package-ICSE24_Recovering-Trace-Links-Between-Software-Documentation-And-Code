@@ -1,0 +1,41 @@
+meta flag 
+entrytyp flag 
+save order config 
+save action 
+prefix keypattern 
+keypatterndefault 
+databas type 
+version db struct 
+groupstre 
+groupstre legaci 
+file directori 
+protect flag meta 
+selector meta prefix 
+escap charact 
+separ charact 
+separ string 
+logger 
+event bus 
+cite key pattern 
+cite key pattern 
+user file directori 
+user file directori 
+la tex file directori 
+la tex file directori 
+group root 
+group root 
+group root bind 
+group root bind 
+encod 
+save order 
+default cite key pattern 
+save action 
+mode 
+protect 
+default file directori 
+content selector 
+unknown meta data 
+unknown meta data 
+event propag enabl 
+encod explicit suppli 
+version db structur 

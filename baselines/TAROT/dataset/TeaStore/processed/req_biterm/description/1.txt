@@ -1,0 +1,7 @@
+tea store consist:nsubj
+replicat servic:amod
+servic consist:obl
+singl registri:amod
+registri instanc:compound
+instanc consist:obl
+instanc servic:conj

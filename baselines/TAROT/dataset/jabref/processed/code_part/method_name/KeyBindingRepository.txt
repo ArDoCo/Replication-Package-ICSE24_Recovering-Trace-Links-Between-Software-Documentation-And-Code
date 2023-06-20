@@ -1,0 +1,20 @@
+key bind repositori 
+key bind repositori 
+key bind repositori 
+check key combin equal 
+
+
+key bind 
+put 
+put 
+key bind 
+reset default 
+reset default 
+size 
+map key bind 
+key combin 
+check key combin equal 
+bind 
+bind 
+equal 
+hash code 

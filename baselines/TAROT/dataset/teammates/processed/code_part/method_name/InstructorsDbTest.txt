@@ -1,0 +1,19 @@
+add instructor db 
+set archiv status instructor 
+test creat instructor 
+test exist instructor cours 
+test instructor email 
+test instructor googl id 
+test instructor registr key 
+test instructor googl id 
+test instructor email cours 
+test instructor cours 
+test instructor display student 
+test updat instructor googl id 
+test updat instructor googl id chang instructor issu save request 
+test updat instructor googl id singl field updat updat correct 
+test updat instructor email chang instructor issu save request 
+test updat instructor email singl field updat updat correct 
+test updat instructor email 
+test delet instructor 
+test delet instructor cours id delet instructor associ cours 

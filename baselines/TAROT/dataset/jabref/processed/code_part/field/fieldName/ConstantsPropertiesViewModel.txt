@@ -1,0 +1,6 @@
+string label 
+string list properti 
+string list properti 
+valid properti 
+databas context 
+dialog servic 

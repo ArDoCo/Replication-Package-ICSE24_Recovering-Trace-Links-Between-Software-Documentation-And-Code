@@ -1,0 +1,4 @@
+complex hide:obj
+datastor complex:nmod
+logic compon:compound
+compon hide:obl

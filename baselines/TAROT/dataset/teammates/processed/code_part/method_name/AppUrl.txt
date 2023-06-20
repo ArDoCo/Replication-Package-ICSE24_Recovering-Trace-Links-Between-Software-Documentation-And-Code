@@ -1,0 +1,8 @@
+app url 
+user id 
+registr key 
+creat account 
+cours id 
+session 
+student email 
+entiti type 

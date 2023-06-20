@@ -1,0 +1,15 @@
+ejb 
+set provid interfac 
+set requir interfac 
+requir interfac 
+provid interfac 
+add requir interfac 
+add provid interfac 
+port 
+host 
+
+app 
+modul 
+bean 
+equal 
+string 

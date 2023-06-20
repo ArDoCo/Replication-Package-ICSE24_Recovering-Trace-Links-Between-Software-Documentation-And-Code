@@ -1,0 +1,12 @@
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+handl field 
+handl field term 
+handl articl number 
+journal 
+articl number 

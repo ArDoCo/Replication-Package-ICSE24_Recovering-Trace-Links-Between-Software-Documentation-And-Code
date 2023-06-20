@@ -1,0 +1,9 @@
+resourc type gae app 
+stdout log 
+stderr log 
+ascend order 
+trace prefix 
+log 
+log 
+resourc type 
+queri log param 

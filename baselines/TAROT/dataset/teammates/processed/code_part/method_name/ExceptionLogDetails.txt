@@ -1,0 +1,12 @@
+log detail 
+class 
+set class 
+class 
+set class 
+stack trace 
+set stack trace 
+messag 
+set messag 
+logger sourc locat 
+set logger sourc locat 
+hide sensit inform 

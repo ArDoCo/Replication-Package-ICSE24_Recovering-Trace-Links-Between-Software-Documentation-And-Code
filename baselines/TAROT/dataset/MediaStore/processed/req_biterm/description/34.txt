@@ -1,0 +1,9 @@
+user request:compound
+request download:nsubj
+file request:dep
+download fetch:advcl
+media access compon:compound
+compon fetch:nsubj
+meta data:compound
+data fetch:obj
+databas fetch:obl

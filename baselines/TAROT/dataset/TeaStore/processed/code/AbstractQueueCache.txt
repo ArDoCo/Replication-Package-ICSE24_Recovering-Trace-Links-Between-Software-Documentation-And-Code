@@ -1,0 +1,13 @@
+abstract queue cach 
+
+
+cach storag 
+max cach size 
+cach rule 
+data 
+
+
+abstract queue cach 
+creat entri 
+remov entri cach strategi 
+

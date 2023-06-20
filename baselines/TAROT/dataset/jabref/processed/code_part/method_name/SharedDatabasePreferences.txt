@@ -1,0 +1,31 @@
+share databas prefer 
+share databas prefer 
+type 
+host 
+port 
+
+user 
+password 
+key store file 
+server timezon 
+rememb password 
+folder 
+autosav 
+ssl 
+set type 
+set host 
+set port 
+set 
+set user 
+set password 
+set rememb password 
+set folder 
+set autosav 
+set ssl 
+set keystor file 
+set server timezon 
+clear password 
+clear 
+option valu 
+clear 
+put dbms connect properti 

@@ -1,0 +1,11 @@
+msg 
+msg 
+delay milli 
+num attempt 
+msg 
+msg 
+messag 
+redirect url 
+redirect count 
+orig url 
+callback url 

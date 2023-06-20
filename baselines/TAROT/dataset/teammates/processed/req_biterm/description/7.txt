@@ -1,0 +1,6 @@
+entri point:compound
+applic point:nmod
+logic design:nsubj
+rest control:compound
+ful control:amod
+control design:obl

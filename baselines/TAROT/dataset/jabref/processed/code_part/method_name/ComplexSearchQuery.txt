@@ -1,0 +1,30 @@
+complex search queri 
+term 
+default field phrase 
+author 
+titl phrase 
+abstract phrase 
+year 
+year 
+singl year 
+journal 
+doi 
+builder 
+equal 
+hash code 
+string 
+complex search queri builder 
+default field phrase 
+author 
+titl phrase 
+abstract phrase 
+year year 
+singl year 
+journal 
+doi 
+term 
+build 
+pars year rang 
+text search field year field empti 
+year field empti 
+string list blank 

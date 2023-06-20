@@ -1,0 +1,7 @@
+bib entri 
+style 
+output format 
+databas context 
+entri type manag 
+style 
+format 

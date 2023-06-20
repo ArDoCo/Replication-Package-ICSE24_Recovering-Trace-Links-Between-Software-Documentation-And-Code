@@ -1,0 +1,2 @@
+journal editor view model 
+toggl abbrevi 

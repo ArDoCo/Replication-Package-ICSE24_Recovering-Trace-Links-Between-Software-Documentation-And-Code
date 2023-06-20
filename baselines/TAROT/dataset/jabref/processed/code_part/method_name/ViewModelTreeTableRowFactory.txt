@@ -1,0 +1,19 @@
+mous click event 
+mous press event 
+custom initi 
+context menu 
+set drag detect 
+set drag detect 
+set drag drop 
+set drag drop 
+set drag enter 
+set mous drag enter 
+set mous drag enter 
+set drag exit 
+set drag exit 
+set drag 
+set drag 
+pseudo class 
+instal 
+call 
+updat item 

@@ -1,0 +1,10 @@
+compar 
+valu 
+valu 
+valu 
+prio 
+prio 
+prio 
+prio 
+read 
+read 

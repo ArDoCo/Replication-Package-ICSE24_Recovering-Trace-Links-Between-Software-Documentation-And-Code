@@ -1,0 +1,14 @@
+student action test 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut onli cours id return student cours 
+test execut cours id team return student team 
+test access control 
+test access control onli cours id authent instructor 
+test access control cours id team authent student 
+

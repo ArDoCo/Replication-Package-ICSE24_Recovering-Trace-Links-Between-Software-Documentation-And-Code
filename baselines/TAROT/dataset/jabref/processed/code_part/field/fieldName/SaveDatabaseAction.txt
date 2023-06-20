@@ -1,0 +1,6 @@
+logger 
+librari tab 
+frame 
+dialog servic 
+prefer 
+entri type manag 

@@ -1,0 +1,11 @@
+cach manag 
+clear cach 
+clear cach 
+clear remot cach 
+clear local cach onli 
+clear local cach onli 
+clear remot cach rest 
+reset emf 
+reset remot emf 
+reset local emf 
+reset remot emf 

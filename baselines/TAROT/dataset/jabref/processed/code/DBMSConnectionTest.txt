@@ -1,0 +1,8 @@
+dbms connect test 
+
+
+dbms type 
+
+
+connect fail whenconnect invalid host 
+

@@ -1,0 +1,4 @@
+ext marker 
+escap pattern 
+reg exp 
+keyword delimit 

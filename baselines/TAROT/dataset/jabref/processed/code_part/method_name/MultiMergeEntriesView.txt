@@ -1,0 +1,14 @@
+multi merg entri view 
+initi 
+fill diff mode 
+add column 
+generat entri header 
+write bib entri column 
+setup sourc button action 
+multilin field 
+cell 
+content 
+add sourc 
+add sourc 
+field row 
+add row 

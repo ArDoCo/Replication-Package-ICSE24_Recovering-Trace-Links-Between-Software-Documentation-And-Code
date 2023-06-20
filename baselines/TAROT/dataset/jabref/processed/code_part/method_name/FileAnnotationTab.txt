@@ -1,0 +1,3 @@
+file annot tab 
+show 
+bind entri 

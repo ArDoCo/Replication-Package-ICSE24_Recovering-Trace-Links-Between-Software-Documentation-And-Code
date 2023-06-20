@@ -1,0 +1,2 @@
+gql queri:compound
+storag compon:compound

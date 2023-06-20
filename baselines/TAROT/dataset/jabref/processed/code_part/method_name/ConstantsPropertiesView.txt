@@ -1,0 +1,5 @@
+constant properti view 
+tab 
+initi 
+add string 
+open 

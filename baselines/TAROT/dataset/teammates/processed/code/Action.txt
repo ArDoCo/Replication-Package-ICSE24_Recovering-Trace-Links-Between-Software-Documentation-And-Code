@@ -1,0 +1,69 @@
+action 
+logic 
+user provis 
+gate keeper 
+email generat 
+task queuer 
+email sender 
+recaptcha verifi 
+log processor 
+auth proxi 
+req 
+user info 
+auth type 
+unregist student 
+unregist instructor 
+request bodi 
+
+er provis 
+gate keeper 
+er info 
+
+req 
+user provis 
+task queuer 
+email sender 
+recaptcha verifi 
+log processor 
+auth proxi 
+param 
+param 
+param 
+param 
+feedback session 
+cours id 
+type bodi 
+cours id 
+cours id 
+instructor 
+feedback session 
+
+er provis 
+
+init 
+set user provis 
+set task queuer 
+set email sender 
+set recaptcha verifi 
+set log processor 
+set auth proxi 
+check access control 
+user info log 
+init auth info 
+request param valu 
+null request param valu 
+boolean request param valu 
+long request param valu 
+request bodi 
+defin request bodi 
+null feedback session 
+valid request bodi 
+unregist student 
+unregist instructor 
+possibl unregist instructor 
+possibl unregist student 
+construct instructor privileg 
+min auth level 
+check specif access control 
+execut 
+

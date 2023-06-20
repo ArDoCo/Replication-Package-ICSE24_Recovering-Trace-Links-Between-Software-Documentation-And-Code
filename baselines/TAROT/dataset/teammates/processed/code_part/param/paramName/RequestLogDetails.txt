@@ -1,0 +1,13 @@
+respons status 
+respons time 
+request method 
+request url 
+instanc id 
+web version 
+referr 
+user agent 
+request param 
+request header 
+request bodi 
+action class 
+user info 

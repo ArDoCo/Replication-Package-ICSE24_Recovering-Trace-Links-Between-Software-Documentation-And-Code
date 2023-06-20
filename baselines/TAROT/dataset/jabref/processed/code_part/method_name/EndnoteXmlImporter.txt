@@ -1,0 +1,20 @@
+endnot xml import 
+
+file type 
+id 
+descript 
+recogn format 
+import databas 
+unmarshal root 
+init unmarshal 
+convert ref type 
+pars record 
+type 
+link file 
+url 
+merg style content 
+url valu 
+keyword 
+author 
+clean 
+pars entri 

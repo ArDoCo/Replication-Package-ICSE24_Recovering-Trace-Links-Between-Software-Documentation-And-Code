@@ -1,0 +1,19 @@
+medlin queri transform 
+
+
+author 
+titl 
+journal titl 
+year 
+year rang 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+handl year rang 
+

@@ -1,0 +1,7 @@
+keyword group 
+case sensit 
+search express 
+search field 
+dynam 
+equal 
+hash code 

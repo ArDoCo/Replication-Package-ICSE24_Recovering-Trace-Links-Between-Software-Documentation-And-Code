@@ -1,0 +1,17 @@
+abstract cach wrapper 
+
+
+entri 
+cach storag 
+max cach size 
+cach rule 
+data 
+
+store imag 
+store imag 
+store imag 
+
+abstract cach wrapper 
+remov entri cach strategi 
+creat entri 
+

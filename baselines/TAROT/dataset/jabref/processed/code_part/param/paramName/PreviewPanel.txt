@@ -1,0 +1,9 @@
+databas 
+dialog servic 
+key bind repositori 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri 
+posit 

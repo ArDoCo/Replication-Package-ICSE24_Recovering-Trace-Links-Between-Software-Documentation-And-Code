@@ -1,0 +1,8 @@
+addit brows:obl
+user brows:nsubj
+user download:nsubj
+download brows:conj
+upload file:compound
+audio file:amod
+file brows:conj
+facad compon:compound

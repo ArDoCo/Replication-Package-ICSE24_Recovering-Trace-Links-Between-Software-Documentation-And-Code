@@ -1,0 +1,8 @@
+protect term tab 
+tab 
+initi 
+creat context menu 
+add file 
+creat file 
+context action 
+execut 

@@ -1,0 +1,5 @@
+request size:amod
+largest imag:amod
+imag load:nsubj
+imag scale:nsubj
+scale load:conj

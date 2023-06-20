@@ -1,0 +1,13 @@
+biodivers librari 
+
+test url 
+base url 
+item metadata url 
+part metadata url 
+detail 
+pars bib jso nto bibtex 
+json result bib entri 
+author 
+parser 
+url queri 
+api key 

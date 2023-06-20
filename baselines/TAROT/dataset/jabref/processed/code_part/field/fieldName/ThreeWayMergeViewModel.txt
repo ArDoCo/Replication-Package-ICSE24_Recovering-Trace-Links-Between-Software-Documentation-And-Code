@@ -1,0 +1,10 @@
+left entri 
+left entri 
+entri 
+entri 
+merg entri 
+merg entri 
+left header 
+header 
+visibl field 
+visibl field 

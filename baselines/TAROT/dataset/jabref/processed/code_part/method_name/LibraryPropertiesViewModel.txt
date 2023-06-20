@@ -1,0 +1,4 @@
+librari properti view model 
+set valu 
+store set 
+properti tab 

@@ -1,0 +1,18 @@
+icon map 
+icon map 
+run 
+success 
+success 
+
+
+finish 
+cancel 
+progress 
+progress 
+messag 
+titl 
+work percentag 
+show user 
+recov automat 
+work 
+max 

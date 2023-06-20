@@ -1,0 +1,28 @@
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas context 
+mode 
+set mode 
+set databas path 
+databas path 
+clear databas path 
+databas 
+meta data 
+set meta data 
+biblatex mode 
+studi 
+file directori 
+exist file dir 
+file directori path 
+dbms synchron 
+clear dbms synchron 
+locat 
+convert share databas 
+convert local databas 
+entri 
+empti entri 
+fulltext index base path 
+fulltext index path 
+string 

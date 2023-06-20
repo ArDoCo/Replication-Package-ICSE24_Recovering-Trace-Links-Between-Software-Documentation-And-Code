@@ -1,0 +1,15 @@
+general properti view model 
+set valu 
+store set 
+brows general dir 
+brows user dir 
+brows latex dir 
+encod disabl properti 
+encod properti 
+select encod properti 
+databas mode properti 
+select databas mode properti 
+general file directori properti properti 
+user specif file directori properti 
+la tex file directori properti 
+preambl properti 

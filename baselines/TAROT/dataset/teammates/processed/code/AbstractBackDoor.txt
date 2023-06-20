@@ -1,0 +1,132 @@
+abstract door 
+respons bodi 
+respons code 
+
+
+relat url 
+param 
+relat url 
+param 
+bodi 
+relat url 
+param 
+bodi 
+relat url 
+param 
+method 
+relat url 
+param 
+bodi 
+url 
+param 
+url 
+param 
+bodi 
+url 
+param 
+bodi 
+url 
+param 
+url 
+param 
+request 
+data bundl 
+data bundl 
+user id 
+data bundl 
+googl id 
+cours id 
+cours id 
+instructor id 
+cours id 
+instructor id 
+cours id 
+cours id 
+cours id 
+email 
+cours id 
+instructor email 
+cours id 
+student email 
+cours id 
+student email 
+cours id 
+feedback session 
+cours id 
+feedback session 
+deadlin 
+timezon 
+feedback session 
+instructor id 
+cours id 
+feedback session 
+qn number 
+feedback visibl type list 
+feedback question id 
+giver 
+recipi 
+feedback respons id 
+cours id 
+email 
+institut 
+email 
+institut 
+email 
+institut 
+notif id 
+notif id 
+notif id 
+cours id 
+feedback session 
+user email 
+instructor 
+respons bodi 
+respons code 
+
+
+app url 
+backdoor key 
+csrf key 
+execut request 
+execut post request 
+execut put request 
+execut delet request 
+execut request 
+creat request 
+creat post request 
+creat put request 
+creat delet request 
+creat basic uri 
+add auth key 
+remov restor data bundl 
+remov data bundl 
+user cooki 
+put document 
+account 
+cours data 
+cours 
+archiv cours data 
+archiv cours 
+cours recycl bin 
+instructor data 
+instructor 
+student data 
+student 
+feedback session data 
+feedback session 
+convert deadlin instant 
+soft delet session 
+feedback question 
+convert feedback particip type 
+feedback respons 
+feedback respons comment 
+delet cours 
+account request 
+reg key account request 
+delet account request 
+notif data 
+notif 
+delet notif 
+deadlin extens 
+respons bodi code 
+

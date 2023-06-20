@@ -1,0 +1,3 @@
+run instanc:amod
+tea store instanc:nmod
+singl registri:amod

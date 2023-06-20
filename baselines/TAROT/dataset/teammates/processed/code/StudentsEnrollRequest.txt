@@ -1,0 +1,31 @@
+student enrol request 
+error messag duplic email 
+error messag empti enrol 
+student enrol request 
+student enrol request 
+
+email 
+team 
+section 
+comment 
+
+
+student enrol request 
+
+email 
+team 
+section 
+comment 
+
+
+student enrol request 
+student enrol request 
+valid 
+student enrol request 
+valid 
+
+email 
+team 
+section 
+comment 
+

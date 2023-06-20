@@ -1,0 +1,8 @@
+set 
+replac superscript 
+replac superscript ignor case 
+replac superscript multilin string 
+replac superscript 
+ignor superscript insid word 
+format exampl 
+expect correct 

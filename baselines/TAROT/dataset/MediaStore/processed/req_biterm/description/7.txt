@@ -1,0 +1,7 @@
+applic logic:compound
+busi logic:compound
+central compon:amod
+busi compon:compound
+logic compon:compound
+media manag compon:compound
+compon call:nsubj

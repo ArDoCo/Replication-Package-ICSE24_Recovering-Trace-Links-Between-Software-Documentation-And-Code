@@ -1,0 +1,18 @@
+cours roster 
+student 
+instructor 
+team member tabl 
+student cours 
+team cours 
+student team 
+student team 
+student email 
+instructor email 
+popul student list email 
+popul instructor list email 
+build team member tabl 
+info identifi 
+particip info 
+
+team 
+section 

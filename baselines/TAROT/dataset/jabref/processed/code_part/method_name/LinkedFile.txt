@@ -1,0 +1,24 @@
+link file 
+link file 
+link file 
+link file 
+descript properti 
+link properti 
+file type properti 
+file type 
+set file type 
+descript 
+set descript 
+link 
+set link 
+observ 
+equal 
+write object 
+read object 
+onlin link 
+hash code 
+string 
+empti 
+onlin link 
+find 
+find 

@@ -1,0 +1,22 @@
+question view 
+gqr view 
+rqg view 
+grq view 
+rgq view 
+respons label 
+team label 
+section label 
+user label 
+mcq 
+current view 
+cours id 
+session 
+session durat 
+result visibl date 
+publish button 
+download button 
+respons panel 
+remind button 
+group team checkbox 
+statist checkbox 
+respons checkbox 

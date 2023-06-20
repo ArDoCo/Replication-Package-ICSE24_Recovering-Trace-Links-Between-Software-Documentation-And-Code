@@ -1,0 +1,6 @@
+custom editor field tab view model 
+set valu 
+reset default 
+set field 
+store set 
+field properti 

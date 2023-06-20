@@ -1,0 +1,5 @@
+mode 
+entri type 
+prefer servic 
+check unknown entri type 
+check differ entri type 

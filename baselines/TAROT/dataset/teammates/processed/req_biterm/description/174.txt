@@ -1,0 +1,6 @@
+compon case:compound
+test case:compound
+datatransf object:compound
+object test:obj
+common compon:amod
+compon test:obl

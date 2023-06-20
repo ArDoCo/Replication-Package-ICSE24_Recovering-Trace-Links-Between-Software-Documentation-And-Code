@@ -1,0 +1,14 @@
+system output printer 
+
+
+ 
+messag 
+titl 
+msg type 
+messag 
+
+
+set status 
+show messag 
+show messag 
+

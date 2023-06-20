@@ -1,0 +1,5 @@
+teammat test:nsubj
+map test:obj
+standard type:amod
+type test:obl
+test type:nmod

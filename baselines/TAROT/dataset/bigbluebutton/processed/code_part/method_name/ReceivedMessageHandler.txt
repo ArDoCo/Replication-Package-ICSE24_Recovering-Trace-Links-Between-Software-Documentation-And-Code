@@ -1,0 +1,7 @@
+stop 
+start 
+run 
+process messag 
+run 
+handl messag 
+set messag distributor 

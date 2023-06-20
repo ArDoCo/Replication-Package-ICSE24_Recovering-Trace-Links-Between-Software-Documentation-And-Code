@@ -1,0 +1,4 @@
+checksum 
+remov checksum queri string 
+queri string 
+set queri string 

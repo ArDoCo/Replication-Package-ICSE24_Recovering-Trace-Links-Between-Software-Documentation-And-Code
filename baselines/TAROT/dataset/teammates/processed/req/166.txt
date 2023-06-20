@@ -1,0 +1,1 @@
+class methodless data structur class 

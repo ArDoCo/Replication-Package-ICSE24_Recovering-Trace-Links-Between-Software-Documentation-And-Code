@@ -1,0 +1,4 @@
+transfer combin:xcomp
+structur data:amod
+data transfer:obj
+compon data:nmod

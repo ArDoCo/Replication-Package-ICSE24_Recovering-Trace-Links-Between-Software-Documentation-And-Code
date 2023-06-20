@@ -1,0 +1,3 @@
+global search result dialog view model 
+search databas context 
+top 

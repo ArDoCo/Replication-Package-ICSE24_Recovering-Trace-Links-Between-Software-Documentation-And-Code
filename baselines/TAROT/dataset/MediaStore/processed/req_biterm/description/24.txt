@@ -1,0 +1,8 @@
+user inform:compound
+inform store:obj
+meta data:compound
+data store:obj
+data inform:conj
+audio file:amod
+file data:nmod
+genr file:nmod

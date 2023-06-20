@@ -1,0 +1,5 @@
+type 
+entri 
+entri 
+undo manag 
+status messag properti 

@@ -1,0 +1,2 @@
+integr check dialog view model 
+messag 

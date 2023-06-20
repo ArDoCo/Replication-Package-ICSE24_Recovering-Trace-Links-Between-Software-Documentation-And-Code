@@ -1,0 +1,4 @@
+person editor 
+bind entri 
+node 
+request focus 

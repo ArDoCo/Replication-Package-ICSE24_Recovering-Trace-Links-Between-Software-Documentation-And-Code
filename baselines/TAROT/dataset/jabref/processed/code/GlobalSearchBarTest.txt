@@ -1,0 +1,17 @@
+global search bar test 
+stage 
+scene 
+box 
+search bar 
+state manag 
+
+
+stage 
+robot 
+robot 
+
+
+start 
+record search queri focus lost onli 
+empti queri record 
+

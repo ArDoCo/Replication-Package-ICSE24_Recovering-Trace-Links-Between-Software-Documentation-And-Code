@@ -1,0 +1,16 @@
+instructor student activ log page test 
+instructor 
+cours 
+feedback session 
+feedback question 
+student 
+
+instructor attribut 
+cours attribut 
+feedback question attribut 
+
+
+
+prepar test data 
+test 
+

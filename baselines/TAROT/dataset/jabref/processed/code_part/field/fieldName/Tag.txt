@@ -1,0 +1,5 @@
+valu 
+valu 
+tag remov consum 
+tag remov consum 
+text 

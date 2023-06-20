@@ -1,0 +1,3 @@
+emf manag initi 
+initi emf 
+creat persist properti test 

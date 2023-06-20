@@ -1,0 +1,28 @@
+setup control 
+wait persist 
+fetch product categori 
+fetch categori 
+convert id 
+match categori imag 
+generat imag 
+generat imag 
+detect categori imag 
+creat work dir 
+path resourc 
+detect exist imag 
+detect exist imag 
+set cach size 
+delet imag 
+delet unus imag 
+delet work dir 
+setup storag 
+configur imag provid 
+work dir 
+finish 
+state 
+wait stop imag creation 
+imag provid 
+teardown 
+startup 
+reconfigur 
+run 

@@ -1,0 +1,4 @@
+cach storag 
+max cach size 
+cach rule 
+data 

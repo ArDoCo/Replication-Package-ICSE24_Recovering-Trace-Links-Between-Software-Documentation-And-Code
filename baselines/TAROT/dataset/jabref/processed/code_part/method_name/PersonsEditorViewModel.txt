@@ -1,0 +1,4 @@
+person editor view model 
+auto complet convert 
+complet 
+auto complet strategi 

@@ -1,0 +1,48 @@
+iacr eprint fetcher 
+
+letter space 
+identifi predic 
+identifi predic 
+citat url prefix 
+descript url prefix 
+fulltext url prefix 
+version url prefix 
+pref 
+
+import format prefer 
+
+pref 
+identifi 
+valid identifi 
+entri 
+identifi 
+identifi 
+version html 
+descript html 
+descript html 
+url 
+
+
+haystack 
+entri 
+entri 
+
+import format prefer 
+bib entri 
+bib entri 
+bib entri 
+
+iacr eprint fetcher 
+perform search id 
+creat entri iacr citat 
+set addit field 
+version 
+abstract 
+date 
+html 
+requir valu 
+year 
+
+find full text 
+trust level 
+

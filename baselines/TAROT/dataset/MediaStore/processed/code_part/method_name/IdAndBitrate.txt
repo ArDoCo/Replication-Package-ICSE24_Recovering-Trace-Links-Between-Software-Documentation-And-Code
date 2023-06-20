@@ -1,0 +1,7 @@
+id bitrat 
+id 
+set id 
+bitrat 
+set bitrat 
+hash code 
+equal 

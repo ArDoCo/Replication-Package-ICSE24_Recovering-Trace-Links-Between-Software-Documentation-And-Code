@@ -1,0 +1,9 @@
+error messag duplic email 
+error messag empti enrol 
+student enrol request 
+student enrol request 
+
+email 
+team 
+section 
+comment 

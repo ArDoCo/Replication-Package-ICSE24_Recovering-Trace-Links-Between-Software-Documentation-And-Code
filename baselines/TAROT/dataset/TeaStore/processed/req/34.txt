@@ -1,0 +1,1 @@
+cpu intens calcul item rank user memori intens calcul total user rate predict matrix train phase 

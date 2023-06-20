@@ -1,0 +1,6 @@
+auth servic:compound
+servic handl:nsubj
+user handl:iobj
+session handl:iobj
+session user:conj
+authent handl:obj

@@ -1,0 +1,95 @@
+journal abbrevi view model tab test 
+abbrevi 
+abbrevi short uniqu 
+abbrevi 
+abbrevi show 
+abbrevi short uniqu 
+abbrevi 
+abbrevi short uniqu 
+abbrevi 
+abbrevi short uniqu 
+abbrevi 
+abbrevi 
+abbrevi 
+view model 
+empti test file 
+temp folder 
+repositori 
+dialog servic 
+show shortest uniqu abbrevi 
+
+journal abbrevi tab view model 
+journal abbrevi repositori 
+dialog servic 
+
+
+abbrevi 
+
+abbrevi 
+show shortest uniqu abbrevi 
+
+abbrevi 
+shortest uniqu abbrevi 
+test abbrevi 
+test abbrevi 
+file 
+content 
+csv file 
+abbrevi check 
+final content file 
+final content file 
+temp folder 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test data 
+test file 
+
+
+test abbrevi 
+test abbrevi 
+test abbrevi 
+string 
+csv list abbrevi 
+csv list abbrevi 
+file content 
+test data 
+provid test file 
+set view model 
+test initi file abbrevi 
+test initi save file increment file counter 
+test remov duplic read file 
+add file increas counter open file abbrevi 
+add duplic file result error dialog 
+test open duplic file result 
+test select journal file switch file abbrevi 
+test open valid file specif entri abbrevi 
+test remov list set current file current abbrevi null 
+test mix file usag 
+test built list includ built abbrevi 
+test current file properti chang activ file 
+test add abbrevi includ abbrevi abbrevi list 
+test add duplic abbrevi result 
+test edit abbrevi chang doe result 
+test edit abbrevi includ abbrevi abbrevi list 
+test edit abbrevi exist result 
+test edit abbrevi empti result 
+test edit abbrevi empti abbrevi result 
+test save abbrevi file creat file written abbrevi 
+select abbrevi 
+add test file view model prefer 
+creat test file 
+

@@ -1,0 +1,3 @@
+minim logic:amod
+crud oper:compound
+oper relev:obl

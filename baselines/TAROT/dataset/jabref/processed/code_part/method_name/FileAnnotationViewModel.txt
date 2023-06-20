@@ -1,0 +1,14 @@
+file annot view model 
+setup content properti 
+remov punctuat mark 
+author 
+page 
+date 
+content 
+page properti 
+date properti 
+content properti 
+mark properti 
+author properti 
+string 
+mark 

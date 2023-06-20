@@ -1,0 +1,40 @@
+search manag 
+log 
+error delet document 
+error search document 
+error search implement 
+error put document 
+error reset collect 
+start index 
+num result 
+client 
+reset 
+
+logger 
+
+search servic host 
+reset 
+queri string 
+queri 
+attribut 
+attribut 
+key 
+queri string 
+document 
+result 
+document 
+
+
+search manag 
+basic queri 
+perform queri 
+collect 
+creat document 
+put document 
+delet document 
+reset collect 
+clean special char 
+attribut document 
+sort result 
+convert document attribut 
+

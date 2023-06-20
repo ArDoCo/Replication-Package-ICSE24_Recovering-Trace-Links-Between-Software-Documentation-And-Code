@@ -1,0 +1,7 @@
+studi queri 
+studi queri 
+queri 
+set queri 
+equal 
+hash code 
+string 

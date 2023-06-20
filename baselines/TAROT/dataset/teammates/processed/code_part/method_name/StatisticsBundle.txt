@@ -1,0 +1,17 @@
+institut stat 
+add student email institut 
+add instructor email institut 
+test data 
+institut stat sort total student descend 
+num uniqu student email 
+num uniqu instructor email 
+stat sinc 
+set stat sinc 
+set institut stat metadata 
+institut stat metadata 
+set institut stat 
+institut stat 
+
+student total 
+instructor total 
+institut stat metadata 

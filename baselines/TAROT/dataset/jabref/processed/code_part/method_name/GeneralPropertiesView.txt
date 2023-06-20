@@ -1,0 +1,6 @@
+general properti view 
+tab 
+initi 
+brows general file directori 
+brows user specif file directori 
+brows latex file directori 

@@ -1,0 +1,13 @@
+fetcher 
+logger 
+stamp base string document 
+stamp pattern 
+document pattern 
+pdf pattern 
+ieee doi 
+base url 
+api key 
+test url api key 
+import format prefer 
+import prefer 
+transform 

@@ -1,0 +1,14 @@
+main tabl header context menu 
+show 
+construct item 
+creat menu item 
+obtain index column 
+add column 
+remov column 
+common column 
+column list 
+common column 
+click menu item 
+set index 
+set visibl tabl 
+visibl tabl 

@@ -1,0 +1,16 @@
+frame 
+open databas action 
+dialog servic 
+file updat monitor 
+task executor 
+prefer servic 
+state manag 
+frame 
+open databas action 
+dialog servic 
+file updat monitor 
+task executor 
+prefer servic 
+state manag 
+
+studi repositori root 

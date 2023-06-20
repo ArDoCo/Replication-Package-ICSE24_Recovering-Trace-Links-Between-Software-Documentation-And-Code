@@ -1,0 +1,7 @@
+prefer 
+dialog servic 
+state manag 
+entri 
+undo manag 
+cancel 
+modifi entri count 

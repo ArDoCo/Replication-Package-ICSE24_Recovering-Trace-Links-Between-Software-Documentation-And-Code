@@ -1,0 +1,20 @@
+oo void result 
+error 
+error 
+
+
+error 
+error 
+fun 
+fun 
+
+
+oo void result 
+
+error 
+error 
+
+error 
+error 
+map error 
+

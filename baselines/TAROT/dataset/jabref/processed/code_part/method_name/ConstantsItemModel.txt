@@ -1,0 +1,10 @@
+constant item model 
+label valid 
+content valid 
+combin valid valid properti 
+label properti 
+content properti 
+set label 
+set content 
+valid label 
+valid content 

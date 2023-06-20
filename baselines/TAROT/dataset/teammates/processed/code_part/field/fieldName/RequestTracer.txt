@@ -1,0 +1,6 @@
+thread local 
+thread local 
+trace id 
+span id 
+init timestamp 
+timeout timestamp 

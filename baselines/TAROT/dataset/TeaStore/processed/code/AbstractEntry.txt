@@ -1,0 +1,17 @@
+abstract entri 
+data 
+log 
+
+
+data 
+obj 
+
+
+abstract entri 
+data 
+
+id 
+byte size 
+hash code 
+equal 
+

@@ -1,0 +1,27 @@
+group tree view model 
+refresh 
+root group properti 
+select group properti 
+filter predic properti 
+filter text properti 
+select group chang 
+add group root 
+activ databas chang 
+add subgroup 
+write group chang meta data 
+group type equal 
+onli minor chang 
+edit group 
+remov subgroup 
+remov group subgroup 
+remov group subgroup 
+remov group subgroup 
+remov group group entri 
+add select entri 
+remov select entri 
+sort alphabet recurs 
+drag 
+add group 
+subgroup 
+add entri 
+edit 

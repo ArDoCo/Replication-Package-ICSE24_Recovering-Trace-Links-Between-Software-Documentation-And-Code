@@ -1,0 +1,44 @@
+entri type view 
+state manag 
+import format reader 
+task executor 
+generat button 
+id text field 
+id base fetcher 
+id base fetcher 
+recommend entri pane 
+entri pane 
+custom pane 
+recommend entri titl pane 
+entri titl pane 
+custom titl pane 
+librari tab 
+dialog servic 
+prefer servic 
+type 
+view model 
+visual 
+
+import format reader 
+id base fetcher 
+
+librari tab 
+dialog servic 
+prefer 
+pane 
+extend 
+event 
+event 
+entri type 
+select type 
+
+
+entri type view 
+add entri pane 
+initi 
+choic 
+run fetcher worker 
+focus text field 
+set entri type return close 
+descript 
+

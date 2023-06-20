@@ -1,0 +1,11 @@
+test constructor simpl 
+test constructor size 
+test constructor size predic 
+test constructor storag size predic 
+test constructor storag size predic seed 
+test constructor storag null 
+test constructor predic null 
+test constructor size 
+test constructor negat size 
+test cach data 
+determin replac 

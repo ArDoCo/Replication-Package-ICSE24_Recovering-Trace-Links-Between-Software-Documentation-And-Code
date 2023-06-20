@@ -1,0 +1,9 @@
+latex bib entri resolv result 
+latex parser result 
+entri 
+add entri 
+bib file 
+citat 
+string 
+equal 
+hash code 

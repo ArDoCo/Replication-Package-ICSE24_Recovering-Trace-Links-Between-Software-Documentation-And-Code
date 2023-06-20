@@ -1,0 +1,16 @@
+truncat formatt 
+truncat 
+key 
+
+
+truncat index 
+input 
+
+
+truncat formatt 
+
+key 
+format 
+descript 
+exampl input 
+

@@ -1,0 +1,18 @@
+meter element 
+test plan 
+thread group 
+loop control 
+csv data set 
+cooki manag 
+default sampler 
+default sampler 
+default sampler 
+login sampler 
+generic control 
+onc onli control 
+foreach control 
+regex extractor 
+csrf extractor 
+header manag 
+http sampler 
+http sampler 

@@ -1,0 +1,3 @@
+info messag 
+action factori 
+merg action 

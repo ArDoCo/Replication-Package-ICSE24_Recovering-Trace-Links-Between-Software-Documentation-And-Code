@@ -1,0 +1,22 @@
+extern applic prefer 
+email subject 
+mail subject properti 
+set mail subject 
+auto open email attach folder 
+auto open email attach folder properti 
+set auto open email attach folder 
+cite command 
+cite command properti 
+set cite command 
+custom termin 
+custom termin properti 
+set custom termin 
+custom termin command 
+custom termin command properti 
+set custom termin command 
+custom file browser 
+custom file browser properti 
+set custom file browser 
+custom file browser command 
+custom file browser command properti 
+set custom file browser command 

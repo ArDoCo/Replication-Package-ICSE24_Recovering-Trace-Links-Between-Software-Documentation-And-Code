@@ -1,0 +1,3 @@
+wait save finish dialog 
+show wait 
+call 

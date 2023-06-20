@@ -1,0 +1,5 @@
+gae server:compound
+server send:nsubj
+autom request:amod
+request send:obj
+configur send:obl

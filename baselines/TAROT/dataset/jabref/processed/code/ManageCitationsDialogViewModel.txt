@@ -1,0 +1,20 @@
+manag citat dialog view model 
+fail citat entri 
+citat 
+citat 
+oo base 
+dialog servic 
+
+oo bib base 
+dialog servic 
+
+oo base 
+dialog servic 
+
+oo bib base 
+dialog servic 
+
+manag citat dialog view model 
+store set 
+citat properti 
+

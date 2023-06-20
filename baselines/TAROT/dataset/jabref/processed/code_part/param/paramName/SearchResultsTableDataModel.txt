@@ -1,0 +1,5 @@
+bib databas context 
+prefer servic 
+state manag 
+queri 
+entri 

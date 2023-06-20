@@ -1,0 +1,18 @@
+imag slide generat servic 
+generat slide 
+creat text file 
+creat thumbnail 
+creat svg imag 
+creat png imag 
+resiz imag 
+set thumbnail creator 
+set text file creator 
+set png creator 
+set svg imag creator 
+set generat pngs 
+set svg imag requir 
+set max convers time 
+set slide generat progress notifi 
+set imag resiz 
+set max imag width 
+set max imag height 

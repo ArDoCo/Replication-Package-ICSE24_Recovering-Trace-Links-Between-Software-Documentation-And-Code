@@ -1,0 +1,17 @@
+dbms connect properti 
+dbms connect properti 
+type 
+host 
+port 
+databas 
+user 
+password 
+ssl 
+public key retriev 
+server timezon 
+url 
+properti 
+key store 
+equal 
+hash code 
+valid 

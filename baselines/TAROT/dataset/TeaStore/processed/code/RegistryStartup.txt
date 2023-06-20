@@ -1,0 +1,15 @@
+registri startup 
+log 
+heartbeat interv ms 
+heartbeat schedul 
+
+
+arg 
+arg 
+
+
+registri startup 
+context destroy 
+context initi 
+run 
+

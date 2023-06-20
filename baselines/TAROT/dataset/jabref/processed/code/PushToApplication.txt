@@ -1,0 +1,22 @@
+push applic 
+
+
+databas 
+entri 
+key string 
+applic 
+push applic prefer 
+
+bib entri 
+push applic 
+push applic prefer 
+
+display 
+tooltip 
+applic icon 
+push entri 
+oper complet 
+requir citat key 
+action 
+set 
+

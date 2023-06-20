@@ -1,0 +1,61 @@
+abstract ui servlet 
+serial version uid 
+messagecooki 
+errormessagecooki 
+sucesslogin 
+sucesslogout 
+wrongcredenti 
+productcooki 
+blob 
+orderconfirm 
+cartupd 
+addproduct 
+removeproduct 
+
+
+request 
+blob 
+respons 
+blob 
+respons 
+target 
+respons 
+cookienam 
+valu 
+target 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+servic 
+request 
+respons 
+ 
+request 
+respons 
+ 
+
+
+session blob 
+save session blob 
+destroy session blob 
+redirect 
+redirect 
+checkfor cooki 
+
+post 
+handl post request 
+handl request 
+serv timout respons 
+serv respons 
+serv 
+

@@ -1,0 +1,1 @@
+storag compon perform cascad delet creat oper 

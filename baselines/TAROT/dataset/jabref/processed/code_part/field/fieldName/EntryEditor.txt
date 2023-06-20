@@ -1,0 +1,26 @@
+logger 
+librari tab 
+databas context 
+entri editor prefer 
+file linker 
+tab 
+tab 
+type subscript 
+entri 
+sourc tab 
+tab 
+type chang button 
+fetcher button 
+type label 
+dialog servic 
+task executor 
+prefer servic 
+state manag 
+theme manag 
+file monitor 
+undo manag 
+bib entri type manag 
+key bind repositori 
+journal abbrevi repositori 
+entri editor tab 
+entri editor tab 

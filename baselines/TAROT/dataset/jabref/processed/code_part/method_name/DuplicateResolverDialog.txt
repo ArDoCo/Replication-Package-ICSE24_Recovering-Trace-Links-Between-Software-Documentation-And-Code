@@ -1,0 +1,5 @@
+duplic resolv dialog 
+init 
+merg entri 
+left entri 
+entri 

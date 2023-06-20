@@ -1,0 +1,5 @@
+generat action factori:acl
+match action:compound
+action object:compound
+object generat:obj
+instructor home page action object:appos

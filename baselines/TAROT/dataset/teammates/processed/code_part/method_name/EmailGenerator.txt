@@ -1,0 +1,51 @@
+email generat 
+inst 
+generat feedback session open email 
+generat feedback session open close email 
+generat feedback session open email 
+generat feedback session open close email 
+generat feedback session email base coowner 
+fill edit feedback session detail fragment 
+fill view respons detail fragment 
+fill join cours befor edit feedback session detail fragment 
+generat feedback session remind email 
+generat feedback session summari cours 
+generat session link recoveri email student 
+generat session link recoveri email exist student 
+generat session link recoveri email exist student 
+generat feedback session close email 
+generat feedback session close email 
+generat feedback session close extens email 
+generat feedback session publish email 
+generat feedback session publish email 
+generat feedback session unpublish email 
+generat feedback session publish unpublish email 
+generat feedback session publish unpublish email 
+generat deadlin grant email 
+generat deadlin updat email 
+generat deadlin revok email 
+generat deadlin extens email 
+generat feedback session email base 
+generat feedback session email base student 
+generat feedback session email base instructor 
+generat feedback session email base notifi instructor 
+join cours 
+join cours 
+generat login email 
+generat instructor account join email 
+generat student cours join email 
+generat student cours rejoin email googl id reset 
+generat instructor cours join email 
+generat instructor cours rejoin email googl id reset 
+generat user cours regist email 
+fill student join fragment 
+fill student rejoin googl id reset fragment 
+instructor cours join url 
+fill instructor join fragment 
+fill instructor rejoin googl id reset fragment 
+fill instructor preambl 
+generat compil log email 
+generat sever error log line 
+empti email address email 
+generat owner email line 
+addit contact inform fragment 

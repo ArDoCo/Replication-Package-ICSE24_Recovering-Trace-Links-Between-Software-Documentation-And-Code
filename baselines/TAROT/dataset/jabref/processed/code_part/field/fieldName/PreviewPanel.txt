@@ -1,0 +1,9 @@
+logger 
+file linker 
+key bind repositori 
+preview view 
+preview prefer 
+dialog servic 
+state manag 
+index task manag 
+entri 

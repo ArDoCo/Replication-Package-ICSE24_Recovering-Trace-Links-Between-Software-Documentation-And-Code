@@ -1,0 +1,7 @@
+set 
+cleanup move year month date 
+cleanup date alreadi present differ year doe noth 
+cleanup date alreadi present differ month doe noth 
+cleanup empti date doe noth 
+cleanup date alreadi present equal year month 
+cleanup move journal journaltitl 

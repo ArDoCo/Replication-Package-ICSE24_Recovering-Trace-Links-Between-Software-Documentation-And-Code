@@ -1,0 +1,16 @@
+log 
+error exist fs string format 
+error exist fs updat 
+error fs alreadi publish 
+error fs alreadi unpublish 
+number hour befor close alert 
+number hour befor open alert 
+instanc 
+fs db 
+cours logic 
+fq logic 
+fr logic 
+frc logic 
+instructor logic 
+student logic 
+de logic 

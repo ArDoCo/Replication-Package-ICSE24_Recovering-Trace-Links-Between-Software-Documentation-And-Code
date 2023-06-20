@@ -1,0 +1,7 @@
+adapt compon:compound
+requir function:acl
+encapsul requir:xcomp
+databas access:compound
+access encapsul:obj
+user data:compound
+data encapsul:obl

@@ -1,0 +1,5 @@
+function text view cursor 
+
+view cursor 
+restor 
+restor 

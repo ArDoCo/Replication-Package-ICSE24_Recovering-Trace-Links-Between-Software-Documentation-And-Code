@@ -1,0 +1,95 @@
+group node view model 
+display 
+root 
+children 
+children 
+databas context 
+state manag 
+group node 
+match entri 
+match entri 
+children 
+expand properti 
+ani select entri match 
+select entri match 
+task executor 
+local drag board 
+entri list 
+entri list 
+prefer servic 
+invalid group 
+
+group node view model 
+
+databas context 
+state manag 
+task executor 
+group node 
+local drag board 
+prefer servic 
+databas context 
+state manag 
+task executor 
+group 
+local dragboard 
+prefer servic 
+databas 
+state manag 
+task executor 
+local drag board 
+prefer servic 
+child 
+entri 
+ 
+icon code 
+extend 
+subgroup 
+search string 
+path sourc 
+dragboard 
+target 
+target 
+target index 
+target 
+mous locat 
+
+group node view model 
+group node view model 
+
+group node view model 
+group node view model 
+entri group 
+view model 
+add entri group 
+expand properti 
+ani select entri match properti 
+select entri match properti 
+children properti 
+display 
+root 
+descript 
+hit 
+equal 
+string 
+hash code 
+icon 
+creat default icon 
+pars icon 
+children 
+group node 
+databas chang 
+refresh group 
+updat match entri 
+add subgroup 
+toggl expans 
+match 
+color 
+path 
+child path 
+accept drop 
+move 
+move 
+parent 
+drag 
+posit parent 
+

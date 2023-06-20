@@ -1,0 +1,2 @@
+entiti throw:nsubj
+entiti exist throw:obj

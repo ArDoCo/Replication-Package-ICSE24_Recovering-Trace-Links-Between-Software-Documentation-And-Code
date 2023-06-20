@@ -1,0 +1,6 @@
+journal abbrevi prefer 
+extern journal list 
+set extern journal list 
+journal field 
+journal field properti 
+set journal field 

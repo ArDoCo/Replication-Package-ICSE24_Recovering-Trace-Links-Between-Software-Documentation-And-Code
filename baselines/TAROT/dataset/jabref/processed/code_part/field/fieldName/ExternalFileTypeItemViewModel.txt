@@ -1,0 +1,6 @@
+icon 
+icon 
+
+extens 
+mimetyp 
+applic 

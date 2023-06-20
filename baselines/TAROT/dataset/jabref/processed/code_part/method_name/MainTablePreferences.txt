@@ -1,0 +1,8 @@
+main tabl prefer 
+column prefer 
+resiz column fit 
+resiz column fit properti 
+set resiz column fit 
+extra file column enabl 
+extra file column enabl properti 
+set extra file column enabl 

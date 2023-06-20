@@ -1,0 +1,11 @@
+text 
+icon 
+descript 
+protect select action 
+execut 
+format field action 
+execut 
+add protect term action 
+execut 
+protect term menu 
+extern file menu 

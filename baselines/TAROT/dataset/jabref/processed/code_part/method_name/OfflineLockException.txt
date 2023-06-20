@@ -1,0 +1,3 @@
+offlin lock 
+local bib entri 
+share bib entri 

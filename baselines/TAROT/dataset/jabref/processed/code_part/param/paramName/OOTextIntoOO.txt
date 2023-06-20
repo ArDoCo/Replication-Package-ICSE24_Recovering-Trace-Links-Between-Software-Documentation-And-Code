@@ -1,0 +1,29 @@
+doc 
+posit 
+ootext 
+cursor 
+cursor 
+set 
+cursor 
+
+attribut 
+cursor 
+properti 
+valu 
+valu 
+valu 
+valu 
+valu 
+valu 
+valu 
+valu 
+valu 
+height 
+relat 
+format stack 
+format stack 
+format stack 
+cursor 
+paragraph style 
+text 
+cursor 

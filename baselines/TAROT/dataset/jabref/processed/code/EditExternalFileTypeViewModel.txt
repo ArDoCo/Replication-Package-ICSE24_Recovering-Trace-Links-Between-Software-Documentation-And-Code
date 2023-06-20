@@ -1,0 +1,23 @@
+edit extern file type view model 
+file type view model 
+properti 
+mime type properti 
+extens properti 
+select applic properti 
+default applic select properti 
+custom applic select properti 
+
+
+file type view model 
+
+
+edit extern file type view model 
+icon 
+properti 
+extens properti 
+mime type properti 
+select applic properti 
+default applic select properti 
+custom applic select properti 
+store set 
+

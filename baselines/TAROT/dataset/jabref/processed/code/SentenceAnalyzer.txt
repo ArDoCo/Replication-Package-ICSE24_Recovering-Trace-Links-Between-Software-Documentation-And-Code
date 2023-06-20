@@ -1,0 +1,12 @@
+sentenc analyz 
+escap char 
+quot char 
+queri 
+
+
+queri 
+
+
+sentenc analyz 
+word 
+

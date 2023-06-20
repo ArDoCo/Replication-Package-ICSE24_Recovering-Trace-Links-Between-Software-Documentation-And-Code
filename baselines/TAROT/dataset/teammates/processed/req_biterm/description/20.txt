@@ -1,0 +1,7 @@
+common compon:amod
+util code:compound
+data transfer:compound
+transfer object:compound
+object code:dep
+helper class:compound
+class object:appos

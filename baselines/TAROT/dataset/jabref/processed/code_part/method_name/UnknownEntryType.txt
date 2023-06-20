@@ -1,0 +1,6 @@
+unknown entri type 
+string 
+
+display 
+equal 
+hash code 

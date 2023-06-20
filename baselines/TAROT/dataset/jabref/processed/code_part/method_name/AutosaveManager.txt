@@ -1,0 +1,7 @@
+autosav manag 
+listen 
+shutdown 
+start 
+shutdown 
+regist listen 
+unregist listen 

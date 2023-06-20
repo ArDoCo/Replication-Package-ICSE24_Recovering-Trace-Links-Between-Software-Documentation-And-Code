@@ -1,0 +1,40 @@
+deadlin extens logic 
+instanc 
+de db 
+
+deadlin extens logic 
+deadlin extens db 
+
+updat option 
+cours id 
+email 
+email 
+instructor 
+deadlin extens 
+cours id 
+feedback session 
+user email 
+instructor 
+cours id 
+user email 
+instructor 
+queri 
+cours id 
+feedback session 
+user email 
+instructor 
+
+deadlin extens attribut 
+attribut delet queri 
+
+deadlin extens logic 
+inst 
+updat deadlin extens 
+updat deadlin extens email 
+creat deadlin extens 
+delet deadlin extens 
+delet deadlin extens 
+delet deadlin extens 
+deadlin extens 
+deadlin extens possibl close email 
+

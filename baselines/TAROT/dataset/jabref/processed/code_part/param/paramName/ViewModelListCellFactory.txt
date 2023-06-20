@@ -1,0 +1,23 @@
+text 
+graphic 
+icon 
+icon 
+color 
+string tooltip 
+tooltip 
+context menu 
+style class 
+mous click event 
+drag detect 
+drag drop 
+drag enter 
+drag exit 
+drag 
+pseudo class 
+condit 
+valid status properti 
+combo box 
+list view 
+param 
+item 
+empti 

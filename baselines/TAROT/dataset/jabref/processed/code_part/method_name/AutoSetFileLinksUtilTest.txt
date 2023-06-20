@@ -1,0 +1,3 @@
+set 
+test find associ link file success 
+test find associ link file empti search dir 

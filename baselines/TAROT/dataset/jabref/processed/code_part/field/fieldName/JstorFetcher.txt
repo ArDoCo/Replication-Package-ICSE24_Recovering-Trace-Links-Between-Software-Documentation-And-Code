@@ -1,0 +1,5 @@
+host 
+search host 
+cite host 
+url queri regex 
+import format prefer 

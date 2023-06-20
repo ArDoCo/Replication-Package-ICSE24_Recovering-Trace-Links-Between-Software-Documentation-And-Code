@@ -1,0 +1,4 @@
+generat entri id dialog 
+generat entri 
+set entri id pop 
+dialog pane 

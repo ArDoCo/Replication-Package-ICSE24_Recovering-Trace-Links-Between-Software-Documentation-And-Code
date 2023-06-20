@@ -1,0 +1,7 @@
+document inform extractor 
+extract author 
+extract titl 
+extract keyword 
+extract subject 
+extract field 
+extract bibtex entri 

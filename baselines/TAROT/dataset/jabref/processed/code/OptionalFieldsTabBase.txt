@@ -1,0 +1,29 @@
+option field tab base 
+entri type manag 
+primari option field 
+
+
+titl 
+primari option field 
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri type manag 
+task executor 
+journal abbrevi repositori 
+entri 
+
+suggest provid 
+dialog servic 
+theme manag 
+index task manag 
+bib entri 
+
+option field tab base 
+determin field show 
+

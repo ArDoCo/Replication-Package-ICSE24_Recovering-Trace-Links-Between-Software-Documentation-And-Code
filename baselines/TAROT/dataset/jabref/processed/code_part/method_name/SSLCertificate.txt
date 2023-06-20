@@ -1,0 +1,10 @@
+ssl certif 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+sha thumbprint 
+
+path 

@@ -1,0 +1,3 @@
+page 
+max page 
+max page properti 

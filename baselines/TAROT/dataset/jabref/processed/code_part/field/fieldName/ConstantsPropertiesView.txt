@@ -1,0 +1,12 @@
+string list 
+string list 
+label column 
+label column 
+content column 
+content column 
+action column 
+action column 
+add string button 
+save button 
+prefer servic 
+dialog servic 

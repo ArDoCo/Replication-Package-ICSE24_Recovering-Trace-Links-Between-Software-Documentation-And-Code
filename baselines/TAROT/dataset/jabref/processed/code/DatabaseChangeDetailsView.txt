@@ -1,0 +1,15 @@
+databas chang detail view 
+entri preview sourc detail view 
+group chang detail view 
+metadata chang detail view 
+preambl chang detail view 
+bib tex string add detail view 
+bib tex string chang detail view 
+bib tex string delet detail view 
+bib tex string renam detail view 
+entri chang detail view 
+
+
+
+
+

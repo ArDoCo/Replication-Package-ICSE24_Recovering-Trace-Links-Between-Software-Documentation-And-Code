@@ -1,0 +1,22 @@
+queri log param 
+log 
+queri log param 
+detail 
+class filter 
+detail 
+action class filter 
+latenc filter 
+status filter 
+regkey filter 
+email filter 
+googl id filter 
+cours id 
+email 
+fs 
+fsl type 
+cours id 
+email 
+start time 
+time 
+fs 
+log entri 

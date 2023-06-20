@@ -1,0 +1,10 @@
+main compon:amod
+media store:compound
+store compon:nmod
+server side:compound
+side web:dep
+facad compon:compound
+deliv compon:acl
+websit deliv:obj
+user deliv:obl
+session manag:compound

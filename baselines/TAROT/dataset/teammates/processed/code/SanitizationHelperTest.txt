@@ -1,0 +1,16 @@
+sanit helper test 
+
+
+
+
+test sanit googl id 
+test sanit email 
+test sanit 
+test sanit titl 
+test sanit text field 
+test sanit html 
+sanit html receiv null return null 
+sanit html receiv code inject return sanit 
+sanit html receiv sanit return unchang 
+test sanit rich text 
+

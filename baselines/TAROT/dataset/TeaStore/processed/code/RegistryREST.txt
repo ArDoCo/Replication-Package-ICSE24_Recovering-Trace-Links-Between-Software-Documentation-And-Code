@@ -1,0 +1,14 @@
+registri rest 
+
+
+
+locat 
+
+locat 
+
+
+
+regist 
+unregist 
+instanc 
+

@@ -1,0 +1,12 @@
+tex group test 
+meta data 
+
+meta data 
+
+
+
+set 
+return true entri aux 
+return true entri aux 
+file path return relat path 
+

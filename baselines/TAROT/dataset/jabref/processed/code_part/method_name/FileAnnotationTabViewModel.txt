@@ -1,0 +1,10 @@
+file annot tab view model 
+current annot properti 
+annot empti 
+annot properti 
+file properti 
+notifi select annot 
+notifi select file 
+reload annot 
+copi current annot 
+current annot 

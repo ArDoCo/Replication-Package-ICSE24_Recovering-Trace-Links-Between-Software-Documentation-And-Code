@@ -1,0 +1,6 @@
+log 
+host 
+port 
+password 
+client 
+hb thread 

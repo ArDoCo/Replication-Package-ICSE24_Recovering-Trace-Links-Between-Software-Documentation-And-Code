@@ -1,0 +1,12 @@
+collect comput scienc bibliographi parser test 
+
+
+xml 
+resourc 
+
+
+pars entri return empti list xml result 
+pars entri return bib entri list xml singl result 
+pars entri return multipl bib entri list xml multipl result 
+pars xml check result 
+

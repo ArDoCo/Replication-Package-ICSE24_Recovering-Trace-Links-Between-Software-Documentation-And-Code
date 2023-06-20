@@ -1,0 +1,9 @@
+registri 
+servic locat map 
+servic locat map 
+heartbeat map 
+heartbeat map 
+read write lock 
+read lock 
+write lock 
+log 

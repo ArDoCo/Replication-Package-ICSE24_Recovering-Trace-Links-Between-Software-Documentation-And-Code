@@ -1,0 +1,14 @@
+db manag 
+em 
+
+
+user data 
+usernam 
+password 
+
+er reg data 
+
+save user 
+find user 
+clear tabl 
+

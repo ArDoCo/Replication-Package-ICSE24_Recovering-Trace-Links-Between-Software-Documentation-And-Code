@@ -1,0 +1,10 @@
+browser 
+driver 
+add cooki 
+switch window 
+wait page load 
+wait page readi state 
+close current window switch parent window 
+close 
+url 
+creat web driver 

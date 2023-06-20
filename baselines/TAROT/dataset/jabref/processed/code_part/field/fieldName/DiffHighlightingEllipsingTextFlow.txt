@@ -1,0 +1,13 @@
+default ellipsi string 
+ellipsi string 
+children 
+children 
+size chang listen 
+size chang listen 
+list chang listen 
+list chang listen 
+full text 
+comparison string 
+comparison string 
+diff mode 
+diff mode 

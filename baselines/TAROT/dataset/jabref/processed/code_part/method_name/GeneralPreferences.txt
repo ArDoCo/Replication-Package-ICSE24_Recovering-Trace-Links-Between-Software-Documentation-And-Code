@@ -1,0 +1,22 @@
+general prefer 
+languag 
+languag properti 
+set languag 
+default bib databas mode 
+default bib databas mode properti 
+set default bib databas mode 
+warn duplic inspect 
+warn duplic inspect properti 
+set warn duplic inspect 
+confirm delet 
+confirm delet properti 
+set confirm delet 
+memori stick mode 
+memori stick mode properti 
+set memori stick mode 
+open edit 
+open edit properti 
+set open edit 
+show advanc hint 
+show advanc hint properti 
+set show advanc hint 

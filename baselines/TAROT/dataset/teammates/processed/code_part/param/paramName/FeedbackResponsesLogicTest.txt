@@ -1,0 +1,20 @@
+question id 
+receiv 
+respons 
+max rank 
+respons 
+modifi respons 
+student email 
+session 
+cours id 
+session 
+cours id 
+data bundl 
+json id 
+json id 
+data bundl 
+json id 
+json id 
+json id 
+bundl 
+respons id 

@@ -1,0 +1,19 @@
+open entri properti 
+default sourc properti 
+enabl relat articl tab properti 
+accept recommend properti 
+enabl latex citat tab properti 
+enabl valid properti 
+integ edit properti 
+enabl auto complet properti 
+auto complet field properti 
+auto complet properti 
+auto complet properti 
+auto complet properti 
+mode abbrevi properti 
+mode full properti 
+mode properti 
+entri editor prefer 
+auto complet prefer 
+restart warn 
+restart warn 

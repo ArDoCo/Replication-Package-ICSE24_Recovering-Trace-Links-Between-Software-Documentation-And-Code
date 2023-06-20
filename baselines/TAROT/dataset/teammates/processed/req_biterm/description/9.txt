@@ -1,0 +1,6 @@
+storag layer:compound
+applic layer:nmod
+persist framework:compound
+gae datastor:compound
+sql databas:compound
+databas datastor:appos

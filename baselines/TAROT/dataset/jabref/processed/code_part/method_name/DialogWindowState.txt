@@ -1,0 +1,5 @@
+dialog window state 
+
+
+height 
+width 

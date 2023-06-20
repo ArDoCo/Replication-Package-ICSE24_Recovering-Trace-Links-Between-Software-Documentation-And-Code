@@ -1,0 +1,29 @@
+feedback question id 
+feedback session 
+cours id 
+question number 
+feedback session 
+cours id 
+feedback session 
+cours id 
+giver type 
+feedback session 
+cours id 
+giver type 
+updat option 
+feedback question id 
+queri 
+feedback question id 
+feedback session 
+cours id 
+question number 
+feedback session 
+cours id 
+feedback session 
+cours id 
+giver type 
+feedback session 
+cours id 
+giver type 
+entiti creat 
+entiti 

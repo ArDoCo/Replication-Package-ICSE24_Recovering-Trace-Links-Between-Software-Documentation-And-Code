@@ -1,0 +1,11 @@
+generat file:amod
+svg file:compound
+file heavi:nsubj
+heavi detect:ccomp
+load heavi:xcomp
+browser load:obl
+raster imag:amod
+imag put:obj
+svg file:compound
+file imag:nmod
+load light:compound

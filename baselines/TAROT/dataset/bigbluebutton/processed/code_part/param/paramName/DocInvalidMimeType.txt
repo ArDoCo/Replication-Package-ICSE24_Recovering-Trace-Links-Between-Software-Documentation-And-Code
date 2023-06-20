@@ -1,0 +1,9 @@
+pod id 
+meet id 
+pres id 
+temporari present id 
+filenam 
+authz token 
+messag key 
+file mime 
+file extens 

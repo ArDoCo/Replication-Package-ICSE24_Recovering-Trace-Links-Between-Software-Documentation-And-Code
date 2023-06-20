@@ -1,0 +1,30 @@
+regist user 
+auth token 
+user id 
+regist 
+guest status 
+exclud dashboard 
+guest wait 
+left guest lobbi 
+
+
+auth token 
+user id 
+guest status 
+exclud dashboard 
+left guest lobbi 
+status 
+exclud dashboard 
+bool 
+
+
+regist user 
+set guest status 
+guest status 
+left guest lobbi 
+set exclud dashboard 
+exclud dashboard 
+updat guest wait 
+set left guest lobbi 
+guest wait 
+

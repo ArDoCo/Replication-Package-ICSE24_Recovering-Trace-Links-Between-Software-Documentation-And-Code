@@ -1,0 +1,38 @@
+tree node 
+index path root 
+descend 
+posit parent 
+index child 
+level 
+number children 
+move 
+path root 
+sibl 
+previous sibl 
+relat sibl 
+parent 
+set parent 
+child 
+child index exist 
+root 
+ancestor 
+root 
+leaf 
+remov parent 
+remov children 
+child 
+child 
+node descend 
+children 
+remov child 
+remov child 
+add child 
+add child 
+move children 
+sort children 
+move 
+copi subtre 
+copi node 
+subscrib descend chang 
+notifi descend chang 
+find children satisfi 

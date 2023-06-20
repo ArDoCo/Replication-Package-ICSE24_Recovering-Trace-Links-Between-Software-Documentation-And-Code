@@ -1,0 +1,16 @@
+field row view 
+select left valu 
+select valu 
+select 
+merg valu 
+merg valu properti 
+field cell 
+left valu cell 
+valu cell 
+merg valu cell 
+show diff 
+hide 
+show 
+hide diff 
+equal left valu 
+string 

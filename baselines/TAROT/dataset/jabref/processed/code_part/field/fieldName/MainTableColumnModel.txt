@@ -1,0 +1,12 @@
+column qualifi delimit 
+logger 
+icon column 
+icon column 
+
+display 
+type properti 
+type properti 
+qualifi properti 
+width properti 
+sort type properti 
+sort type properti 

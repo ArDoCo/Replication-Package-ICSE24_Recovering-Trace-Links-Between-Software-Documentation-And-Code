@@ -1,0 +1,5 @@
+high level:amod
+level view:compound
+big blue button compon:nmod
+compon work:nsubj
+work view:acl

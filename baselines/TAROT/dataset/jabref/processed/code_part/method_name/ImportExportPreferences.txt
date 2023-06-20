@@ -1,0 +1,22 @@
+import export prefer 
+alway reformat save 
+alway reformat save properti 
+set alway reformat save 
+import work directori 
+import work directori properti 
+set import work directori 
+export extens 
+export extens properti 
+set export extens 
+export work directori 
+export work directori properti 
+set export work directori 
+export save order 
+export save order properti 
+set export save order 
+auto save 
+auto save properti 
+set auto save 
+warn duplic import 
+warn duplic import properti 
+set warn duplic import 

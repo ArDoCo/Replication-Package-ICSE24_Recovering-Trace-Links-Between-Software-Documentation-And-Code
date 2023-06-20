@@ -1,0 +1,8 @@
+creat text 
+creat text 
+creat text html 
+convert html bold 
+format text 
+split replac 
+text replac 
+text html string 

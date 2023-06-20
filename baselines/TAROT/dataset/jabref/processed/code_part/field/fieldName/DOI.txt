@@ -1,0 +1,21 @@
+agenc resolv 
+resolv 
+logger 
+doi exp 
+find doi exp 
+short doi shortcut 
+text short doi shortcut 
+short doi exp prefix 
+short doi exp 
+find short doi exp 
+http exp 
+short doi http exp 
+exact doi patt 
+find doi patt 
+exact short doi shortcut 
+find short doi shortcut 
+exact short doi patt 
+find short doi patt 
+char remov 
+doi 
+short doi 

@@ -1,0 +1,6 @@
+oo text 
+string 
+string 
+string 
+equal 
+hash code 

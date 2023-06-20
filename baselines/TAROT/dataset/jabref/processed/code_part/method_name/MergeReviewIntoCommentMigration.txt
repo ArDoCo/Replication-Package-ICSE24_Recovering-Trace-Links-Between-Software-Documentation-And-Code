@@ -1,0 +1,9 @@
+migrat 
+perform migrat 
+collect conflict 
+perform conflict migrat 
+comment field 
+review field 
+merg comment field present 
+migrat 
+updat field 

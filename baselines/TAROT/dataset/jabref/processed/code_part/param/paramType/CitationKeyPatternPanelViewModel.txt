@@ -1,0 +1,4 @@
+citat key pattern prefer 
+bib entri type 
+abstract citat key pattern 
+citat key pattern panel item model 

@@ -1,0 +1,14 @@
+sort criterion view model 
+field properti 
+field properti 
+descend properti 
+
+
+criterion 
+
+
+sort criterion view model 
+field properti 
+descend properti 
+criterion 
+

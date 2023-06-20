@@ -1,0 +1,58 @@
+word keyword group 
+keyword separ 
+search strategi 
+onli split word separ 
+search word 
+search word 
+search word 
+search word 
+search word 
+
+keyword list 
+
+
+context 
+search field 
+search express 
+case sensit 
+keyword separ 
+onli split word separ 
+search 
+search 
+search 
+search 
+entri add 
+entri remov 
+ 
+entri 
+entri 
+entri 
+entri 
+entri 
+
+field 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+
+word keyword group 
+case insensit 
+case insensit 
+add 
+remov 
+equal 
+
+deep copi 
+hash code 
+
+string search strategi 
+
+type search strategi 
+
+keyword list search strategi 
+
+

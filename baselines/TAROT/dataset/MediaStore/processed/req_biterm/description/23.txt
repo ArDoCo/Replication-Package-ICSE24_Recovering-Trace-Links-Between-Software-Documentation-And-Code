@@ -1,0 +1,5 @@
+databas compon:compound
+compon repres:nsubj
+actual databas:amod
+databas repres:obj
+sql repres:dep

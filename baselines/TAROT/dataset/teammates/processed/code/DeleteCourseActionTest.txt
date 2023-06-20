@@ -1,0 +1,11 @@
+delet cours action test 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut recycl bin pass 
+test access control 
+

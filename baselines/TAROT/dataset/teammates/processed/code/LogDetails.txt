@@ -1,0 +1,17 @@
+log detail 
+event 
+messag 
+
+log event 
+
+event 
+messag 
+
+log event 
+
+log detail 
+event 
+messag 
+set messag 
+hide sensit inform 
+

@@ -1,0 +1,35 @@
+instructor db 
+inst 
+search manag 
+put document 
+delet document instructor id 
+regener entiti key 
+search instructor system 
+exist instructor cours 
+instructor email 
+instructor id 
+instructor googl id 
+instructor registr key 
+instructor googl id 
+instructor email cours 
+instructor cours 
+instructor display student 
+updat instructor googl id 
+updat instructor email 
+delet instructor 
+delet instructor 
+instructor entiti googl id 
+instructor entiti email 
+instructor entiti id 
+instructor entiti display cours 
+instructor entiti registr key 
+instructor googl id 
+instructor googl id queri 
+instructor entiti googl id 
+instructor entiti googl id 
+instructor entiti cours 
+load 
+exist entiti 
+attribut 
+convert entiti save 
+num instructor time rang 

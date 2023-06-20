@@ -1,0 +1,16 @@
+logger 
+default node 
+prefer path 
+share databas type 
+share databas host 
+share databas port 
+share databas 
+share databas user 
+share databas password 
+share databas folder 
+share databas autosav 
+share databas rememb password 
+share databas ssl 
+share databas keystor file 
+share databas server timezon 
+intern pref 

@@ -1,0 +1,7 @@
+pod id 
+meet id 
+filenam 
+authz token 
+key 
+upload file size 
+max upload file size 

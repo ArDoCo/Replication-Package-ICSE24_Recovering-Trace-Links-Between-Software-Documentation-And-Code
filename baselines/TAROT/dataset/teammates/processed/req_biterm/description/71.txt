@@ -1,0 +1,9 @@
+cron job:compound
+schedul job:acl
+period schedul:obl
+time period:nmod
+schedul remind:compound
+feedback remind:compound
+session remind:compound
+open remind:compound
+remind time:dep

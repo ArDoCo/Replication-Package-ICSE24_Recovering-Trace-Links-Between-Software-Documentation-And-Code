@@ -1,0 +1,20 @@
+version 
+logger 
+pars 
+avail version 
+newer 
+updat 
+updat 
+full version 
+major 
+minor 
+patch 
+develop num 
+develop version 
+changelog url 
+equal 
+hash code 
+string 
+develop stage 
+pars 
+stabl 

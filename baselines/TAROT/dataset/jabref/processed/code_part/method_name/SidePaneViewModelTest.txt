@@ -1,0 +1,6 @@
+set 
+move 
+move posit 
+move 
+move posit 
+sort prefer posit 

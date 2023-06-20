@@ -1,0 +1,3 @@
+regkey 
+email 
+googl id 

@@ -1,0 +1,4 @@
+compon api:nmod
+access compon:acl
+logic compon:compound
+compon access:obl

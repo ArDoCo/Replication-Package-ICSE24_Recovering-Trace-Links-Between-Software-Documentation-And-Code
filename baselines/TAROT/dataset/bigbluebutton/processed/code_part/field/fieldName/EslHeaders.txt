@@ -1,0 +1,9 @@
+liter 
+
+auth request 
+api respons 
+command repli 
+text event plain 
+text event xml 
+text disconnect notic 
+err invalid 

@@ -1,0 +1,20 @@
+turn server 
+hmac sha algorithm 
+colon 
+secret key 
+url 
+ttl 
+
+
+secret key 
+url 
+ttl 
+user id 
+data 
+key 
+
+
+turn server 
+generat password 
+calcul rfc hmac 
+

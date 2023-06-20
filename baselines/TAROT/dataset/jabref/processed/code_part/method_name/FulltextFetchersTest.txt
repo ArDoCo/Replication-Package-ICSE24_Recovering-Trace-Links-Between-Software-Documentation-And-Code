@@ -1,0 +1,4 @@
+accept pdf url 
+reject pdf url 
+trust level 
+higher trust level win 

@@ -1,0 +1,32 @@
+main stage 
+file path 
+filenam 
+observ 
+ 
+ 
+librari tab 
+parser result 
+focus panel 
+tab 
+key bind repositori 
+librari tab 
+rais panel 
+databas context 
+rais panel 
+panel 
+parser result 
+librari tab 
+librari tab 
+context 
+librari tab 
+librari tab 
+destin librari tab 
+parent 
+group tree node copi 
+destin librari tab 
+librari tab 
+librari tab 
+databas context 
+event 
+event 
+event 

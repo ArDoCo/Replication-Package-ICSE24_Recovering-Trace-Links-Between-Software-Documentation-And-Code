@@ -1,0 +1,5 @@
+generat data base 
+pars queri 
+finsh 
+set mainten mode 
+mainten 

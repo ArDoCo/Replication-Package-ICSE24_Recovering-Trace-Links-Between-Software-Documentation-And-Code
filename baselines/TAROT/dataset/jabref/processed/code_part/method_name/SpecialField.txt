@@ -1,0 +1,9 @@
+special field 
+valu 
+key word 
+
+singl valu field 
+pars valu 
+properti 
+
+standard field 

@@ -1,0 +1,14 @@
+cross ref entri compar test 
+compar 
+
+cross ref entri compar 
+
+
+
+set 
+tear 
+equal entri cross ref 
+equal entri cross ref 
+greater entri cross ref 
+smaller entri cross ref 
+

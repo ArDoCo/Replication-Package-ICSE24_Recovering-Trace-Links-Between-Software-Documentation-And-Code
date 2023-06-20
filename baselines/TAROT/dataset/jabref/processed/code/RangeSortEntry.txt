@@ -1,0 +1,20 @@
+rang sort entri 
+rang 
+index posit 
+content 
+
+
+rang 
+index posit 
+content 
+rang 
+index posit 
+
+
+rang sort entri 
+rang 
+index posit 
+content 
+set rang 
+set index posit 
+

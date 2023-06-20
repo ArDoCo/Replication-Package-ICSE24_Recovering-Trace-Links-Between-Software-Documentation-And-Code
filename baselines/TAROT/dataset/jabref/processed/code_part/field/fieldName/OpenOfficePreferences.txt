@@ -1,0 +1,13 @@
+default win exec path 
+window execut 
+default osx exec path 
+osx execut 
+default linux exec path 
+default linux flatpak exec path 
+linux execut 
+execut path 
+databas 
+sync cite 
+extern style 
+extern style 
+current style 

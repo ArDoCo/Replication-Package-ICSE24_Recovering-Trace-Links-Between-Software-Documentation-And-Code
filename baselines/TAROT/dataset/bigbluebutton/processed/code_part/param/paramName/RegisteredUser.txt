@@ -1,0 +1,8 @@
+auth token 
+user id 
+guest status 
+exclud dashboard 
+left guest lobbi 
+status 
+exclud dashboard 
+bool 

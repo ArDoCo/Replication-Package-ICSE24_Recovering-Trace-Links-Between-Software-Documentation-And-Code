@@ -1,0 +1,68 @@
+oo bib style citat marker 
+field 
+content 
+
+
+citat marker norm entri 
+
+author list 
+number 
+style 
+
+style 
+author list 
+max author 
+string 
+field 
+content 
+entri 
+databas 
+field 
+style 
+db 
+field 
+style 
+db 
+style 
+entri 
+style 
+purpos 
+entri 
+start group 
+max author overrid 
+
+style 
+norm entri 
+max author overrid 
+style 
+citat marker entri 
+max author overrid 
+style 
+citat marker entri 
+parenthesi 
+uniqu citat marker handl 
+
+citat marker norm entri 
+citat marker norm entri 
+uniqu citat marker 
+
+oo bib style citat marker 
+author 
+markup author 
+format author list 
+field content 
+raw citat marker field 
+citat marker field 
+author list 
+calcul author emit 
+author year parenthesi marker 
+citat marker norm entri wrap 
+citat key 
+lookup result 
+uniqu letter 
+page info 
+sourc 
+normal citat marker 
+normal citat marker 
+creat citat marker 
+

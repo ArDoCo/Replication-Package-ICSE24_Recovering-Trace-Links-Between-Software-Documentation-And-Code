@@ -1,0 +1,5 @@
+set 
+cleanup move date year month 
+cleanup year alreadi present doe noth 
+cleanup move journaltitl journal 
+clean doesnt move file field 

@@ -1,0 +1,6 @@
+bibtex entrytyp 
+biblatex entrytyp 
+custom modifi type 
+custom modifi type 
+standard type 
+standard type 

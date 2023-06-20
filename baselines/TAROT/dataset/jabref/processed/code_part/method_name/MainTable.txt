@@ -1,0 +1,24 @@
+main tabl 
+jump search key 
+listen 
+clear select 
+copi 
+cut 
+setup key bind 
+clear select 
+clear select 
+
+handl bib te string data 
+drop entri 
+handl drag 
+handl drag tabl view 
+handl drag enter 
+handl drag exit 
+handl drag detect 
+handl drag drop 
+handl drag drop tabl view 
+add select listen 
+tabl model 
+entri 
+select entri 
+find entri 

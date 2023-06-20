@@ -1,0 +1,1 @@
+attempt creat entiti exist throw entiti exist 

@@ -1,0 +1,4 @@
+key bind 
+key bind view model 
+key bind repositori 
+key bind categori 

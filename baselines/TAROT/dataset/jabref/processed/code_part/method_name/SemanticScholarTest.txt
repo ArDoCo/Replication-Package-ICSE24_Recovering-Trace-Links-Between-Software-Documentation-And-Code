@@ -1,0 +1,17 @@
+set 
+document 
+full text find doi 
+full text find doi altern 
+full text search empti entri 
+full text doi 
+full text find ar xiv 
+full text entiti doi 
+trust level 
+page fetcher 
+url queri lucen 
+search queri find entri 
+search plain queri find entri 
+search quot queri find entri 
+perform search empti queri 
+find entri 
+page search return uniqu result page 

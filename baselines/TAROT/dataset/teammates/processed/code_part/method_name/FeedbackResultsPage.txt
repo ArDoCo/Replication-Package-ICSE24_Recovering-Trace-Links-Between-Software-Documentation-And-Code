@@ -1,0 +1,66 @@
+feedback result page 
+expect page content 
+verifi feedback session detail 
+verifi question detail 
+verifi respons detail 
+verifi question present 
+verifi question respons visibl preview 
+verifi question comment visibl preview 
+verifi num scale statist 
+verifi rubric statist 
+verifi contribut statist 
+verifi comment detail 
+verifi question doe show respons 
+verifi question doe show comment 
+verifi visibl respons alert present 
+verifi visibl comment alert present 
+display respons 
+verifi respons 
+verifi respons 
+recipi 
+verifi respons recipi 
+verifi anonym respons view 
+respons equal 
+rubric respons equal 
+anonym 
+ani anonym respons equal 
+cours id 
+cours 
+cours institut 
+feedback session 
+open time 
+close time 
+assert date equal 
+date string abbr 
+date string offset 
+question text 
+mcq add info 
+msq add info 
+append multi choic info 
+rubric add info 
+num scale add info 
+rank option add info 
+const sum option add info 
+const sum recipi add info 
+append option 
+question respons section 
+show addit info 
+addit info 
+respons field 
+recipi index 
+addit info string 
+answer string 
+rank option string 
+const sum option string 
+respons view 
+respons field 
+num scale statist 
+rubric exclud checkbox 
+rubric statist 
+comment respons giver 
+comment giver 
+comment editor 
+comment field 
+comment field 
+giver index 
+recipi index 

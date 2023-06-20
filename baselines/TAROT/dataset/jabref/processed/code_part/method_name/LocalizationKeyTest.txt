@@ -1,0 +1,2 @@
+properti key test case 
+properti key return correct valu 

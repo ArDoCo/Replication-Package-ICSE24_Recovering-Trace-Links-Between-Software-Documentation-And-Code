@@ -1,0 +1,37 @@
+upload pres 
+pod id 
+meet id 
+pres id 
+filenam 
+pres file 
+current 
+authz token 
+upload fail 
+upload fail reason 
+sourc meet id 
+present id 
+present slide 
+destin meet id 
+sourc meet id 
+present id 
+present slide 
+destin meet id 
+dir 
+
+dir 
+
+meet id 
+redirect url 
+redirect count 
+orig url 
+meet id 
+filenam 
+url string 
+respons 
+file 
+content type 
+extractor 
+pres dir 
+present base url 
+document convers servic 
+blank present 

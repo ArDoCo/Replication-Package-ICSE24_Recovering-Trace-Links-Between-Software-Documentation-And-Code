@@ -1,0 +1,9 @@
+postgr sql processor 
+set 
+insert entri tabl 
+escap 
+escap tabl 
+current version db struct 
+start notif listen 
+stop notif listen 
+notifi client 

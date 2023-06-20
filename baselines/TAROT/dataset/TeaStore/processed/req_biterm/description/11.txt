@@ -1,0 +1,8 @@
+imag filenam:nmod
+repres imag:acl
+product repres:obj
+imag size:compound
+size match:obj
+uniqu identifi:amod
+imag identifi:compound
+identifi size:nmod

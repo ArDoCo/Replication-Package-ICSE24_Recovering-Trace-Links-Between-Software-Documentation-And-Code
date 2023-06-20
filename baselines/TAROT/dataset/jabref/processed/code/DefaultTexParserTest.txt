@@ -1,0 +1,30 @@
+default tex parser test 
+darwin 
+einstein 
+newton 
+einstein 
+einstein 
+unresolv 
+unknown 
+
+
+key 
+cite string 
+cite string 
+
+
+test match cite 
+test match cite 
+test cite command 
+test citat line 
+test file encod utf 
+test file encod iso 
+test file encod iso 
+test file encod file 
+test singl file 
+test file 
+test duplic file 
+test unknown key 
+test file 
+test nest file 
+

@@ -1,0 +1,19 @@
+type 
+set type 
+sender 
+set sender 
+sender email 
+set sender email 
+repli 
+set repli 
+recipi 
+set recipi 
+bcc 
+set bcc 
+subject 
+set subject 
+set subject type 
+content 
+set content 
+copi 
+set copi 

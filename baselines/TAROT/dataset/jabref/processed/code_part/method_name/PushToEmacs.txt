@@ -1,0 +1,7 @@
+push emac 
+display 
+applic icon 
+push entri 
+oper complet 
+command 
+set 

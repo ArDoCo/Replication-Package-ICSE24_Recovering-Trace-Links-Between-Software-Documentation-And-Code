@@ -1,0 +1,22 @@
+event header 
+event 
+event subclass 
+event date local 
+event date gmt 
+event date timestamp 
+event call file 
+event call function 
+event call line number 
+freeswitch hostnam 
+freeswitch ipv 
+freeswitch ipv 
+core uuid 
+content length 
+job command 
+job uuid 
+
+
+
+
+event header 
+

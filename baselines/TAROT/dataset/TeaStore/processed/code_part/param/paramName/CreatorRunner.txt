@@ -1,0 +1,7 @@
+img db 
+size 
+product id 
+shape imag 
+categori imag 
+work dir 
+nr imag generat 

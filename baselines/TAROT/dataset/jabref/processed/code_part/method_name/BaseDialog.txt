@@ -1,0 +1,4 @@
+base dialog 
+default button 
+default button type 
+set dialog icon 

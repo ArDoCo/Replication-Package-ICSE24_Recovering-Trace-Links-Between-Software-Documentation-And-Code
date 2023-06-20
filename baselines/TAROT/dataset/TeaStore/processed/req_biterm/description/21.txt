@@ -1,0 +1,6 @@
+session blob receiv:nsubj
+cooki content:compound
+content check:nsubj
+check hash:acl
+session check:obl
+tamper session:acl

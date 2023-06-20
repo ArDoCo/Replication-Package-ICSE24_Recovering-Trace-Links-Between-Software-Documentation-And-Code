@@ -1,0 +1,17 @@
+doc 
+frontend 
+style 
+doc 
+cursor 
+citat text 
+text 
+style 
+frontend 
+doc 
+citat key 
+page info 
+citat type 
+citat text 
+posit 
+style 
+insert space 

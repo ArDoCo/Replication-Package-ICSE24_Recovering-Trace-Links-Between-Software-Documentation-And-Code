@@ -1,0 +1,9 @@
+logger 
+view model 
+show diff 
+field cell 
+left valu cell 
+valu cell 
+merg valu cell 
+toggl group 
+parent 

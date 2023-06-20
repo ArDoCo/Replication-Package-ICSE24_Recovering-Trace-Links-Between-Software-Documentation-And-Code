@@ -1,0 +1,21 @@
+confer command result 
+room 
+request id 
+success 
+messag 
+
+
+room 
+request id 
+success 
+messag 
+
+
+confer command result 
+success 
+set success 
+room 
+messag 
+set messag 
+request id 
+

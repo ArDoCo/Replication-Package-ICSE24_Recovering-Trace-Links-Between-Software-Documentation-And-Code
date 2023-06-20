@@ -1,0 +1,4 @@
+memori log storag 
+store record 
+record 
+clear memori storag 

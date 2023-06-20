@@ -1,0 +1,15 @@
+document viewer view 
+initi 
+setup mode button 
+setup scrollbar 
+setup page control 
+setup file choic 
+setup viewer 
+set live mode 
+goto page 
+page 
+previous page 
+fit width 
+zoom 
+zoom 
+fit singl page 

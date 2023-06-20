@@ -1,0 +1,2 @@
+voic confer:compound
+confer join:obj

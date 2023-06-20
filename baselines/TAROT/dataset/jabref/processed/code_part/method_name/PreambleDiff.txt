@@ -1,0 +1,6 @@
+preambl diff 
+compar 
+preambl 
+origin preambl 
+equal 
+hash code 

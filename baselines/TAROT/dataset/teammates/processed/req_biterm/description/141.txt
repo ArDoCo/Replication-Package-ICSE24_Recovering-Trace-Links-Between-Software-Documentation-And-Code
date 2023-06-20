@@ -1,0 +1,7 @@
+eventu consist:amod
+databas oper:compound
+oper time:nmod
+serv propag:obl
+googl datastor:nmod
+distribut datastor:amod
+datastor serv:nmod

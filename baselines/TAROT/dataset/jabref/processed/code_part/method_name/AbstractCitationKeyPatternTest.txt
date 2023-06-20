@@ -1,0 +1,2 @@
+abstract citat key pattern pars 
+abstract citat key pattern pars empti spacer 

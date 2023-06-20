@@ -1,0 +1,6 @@
+
+extens 
+open 
+icon 
+mime type 
+icon 

@@ -1,0 +1,17 @@
+entri delet 
+delet entri 
+
+bib entri 
+
+delet entri 
+databas context 
+databas chang resolv factori 
+undo edit 
+
+bib entri 
+databas chang resolv factori 
+
+entri delet 
+appli chang 
+delet entri 
+

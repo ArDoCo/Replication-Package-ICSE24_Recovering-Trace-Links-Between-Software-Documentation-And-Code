@@ -1,0 +1,29 @@
+node simpl tree 
+node complex tree 
+keyword group 
+search group 
+explict 
+root 
+set 
+node simpl tree 
+search rule independ group return group matcher 
+search rule refin group return parent group matcher 
+search rule includ group return group subgroup matcher 
+find match return empti empti list 
+find match entri 
+find match multipl entri 
+find match work refin group 
+find match work hierarchi independ group 
+set group chang group 
+set group add previous assign explicit explicit 
+set group fals doe add previous assign 
+set group add onli previous assign 
+set group explicit search doe previous assign 
+set group explicit explicit renam remov previous assign 
+child path find correct child level 
+child path doe find child invalid path 
+path simpl tree 
+onli root child node entri 
+onli subgroup entri 
+add entri group work group support explicit ad entri 
+remov entri group work group support explicit remov entri 

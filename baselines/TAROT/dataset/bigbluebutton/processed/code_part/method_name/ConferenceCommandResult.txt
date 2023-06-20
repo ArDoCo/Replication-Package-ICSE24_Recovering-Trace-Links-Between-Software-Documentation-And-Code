@@ -1,0 +1,7 @@
+confer command result 
+success 
+set success 
+room 
+messag 
+set messag 
+request id 

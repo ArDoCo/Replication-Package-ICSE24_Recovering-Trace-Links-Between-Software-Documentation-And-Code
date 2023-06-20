@@ -1,0 +1,8 @@
+appli rule match singl term regex 
+appli rule doe match singl term regex 
+search rule document match 
+search ani field work 
+search ani keyword work 
+search citat key work 
+search thesi entri type work 
+bibtex entri 

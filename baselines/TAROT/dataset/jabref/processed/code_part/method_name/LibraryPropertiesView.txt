@@ -1,0 +1,3 @@
+librari properti view 
+initi 
+save prefer close dialog 

@@ -1,0 +1,12 @@
+citat entri test 
+
+
+
+
+test citat entri initi page info 
+test citat entri option initi page info 
+test citat entri init page info chang 
+test citat entri initi page info 
+test citat entri equal 
+test citat entri compar 
+

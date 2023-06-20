@@ -1,0 +1,25 @@
+semant scholar 
+logger 
+sourc id search 
+sourc web search 
+
+
+entri 
+sourc 
+lucen queri 
+page number 
+item 
+entri 
+
+bib entri 
+bib entri 
+
+find full text 
+trust level 
+url sourc 
+url queri 
+parser 
+json item bib entri 
+
+perform search 
+

@@ -1,0 +1,17 @@
+info button 
+info messag 
+action factori 
+merg action 
+
+action factori 
+action 
+
+info messag 
+
+
+icon 
+text 
+info button 
+configur button 
+execut 
+

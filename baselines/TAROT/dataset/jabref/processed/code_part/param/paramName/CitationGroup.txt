@@ -1,0 +1,9 @@
+data model 
+group id 
+citat type 
+citat storag order 
+refer mark link 
+entri compar 
+index global order 
+refer mark link 
+citat marker 

@@ -1,0 +1,7 @@
+searcher 
+queri 
+score doc 
+searcher 
+score doc 
+field 
+entri 

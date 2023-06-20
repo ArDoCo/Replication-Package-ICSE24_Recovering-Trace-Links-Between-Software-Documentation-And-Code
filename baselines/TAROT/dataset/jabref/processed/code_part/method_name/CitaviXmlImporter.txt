@@ -1,0 +1,32 @@
+
+file type 
+id 
+descript 
+recogn format 
+recogn format 
+import databas 
+pars data list 
+pars data 
+type 
+convert ref type 
+page 
+author 
+build person list 
+build keyword list 
+build publish list 
+editor 
+keyword 
+publish 
+knowledg item 
+clean text 
+remov space befor line break 
+init unmarshal 
+unmarshal root 
+import databas 
+pars entri 
+reader zip 
+check utf bom discard ani 
+clean 
+quotat type map 
+
+citavi index type 

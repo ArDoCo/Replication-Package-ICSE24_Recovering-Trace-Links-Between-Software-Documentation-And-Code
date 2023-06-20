@@ -1,0 +1,14 @@
+current user:amod
+user unknown:nsubj
+unknown chosen:advcl
+user log:nsubj
+user purchas:nsubj
+log unknown:advcl
+purchas unknown:advcl
+purchas log:conj
+fallback algorithm:amod
+algorithm chosen:nsubj
+base popular:case
+general item:amod
+item popular:compound
+popular algorithm:nmod

@@ -1,0 +1,1 @@
+breakdown function front frontend receiv valid auth token resp event complet authent 

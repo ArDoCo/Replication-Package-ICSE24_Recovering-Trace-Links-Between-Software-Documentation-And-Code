@@ -1,0 +1,21 @@
+group parser test 
+file monitor 
+meta data 
+
+file updat monitor 
+
+
+
+set 
+string pars explicit group escap charact 
+keyword delimit escap 
+hierarch delimit escap 
+string throw pars escap group 
+test import group 
+string pars explicit group icon descript 
+string pars automat keyword group 
+string pars automat person group 
+string pars tex group 
+string unknown group throw 
+string pars search group 
+

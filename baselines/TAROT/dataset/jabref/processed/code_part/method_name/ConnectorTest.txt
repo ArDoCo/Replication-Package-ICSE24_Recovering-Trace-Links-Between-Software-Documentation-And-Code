@@ -1,0 +1,2 @@
+test dbms connect 
+test connect properti 

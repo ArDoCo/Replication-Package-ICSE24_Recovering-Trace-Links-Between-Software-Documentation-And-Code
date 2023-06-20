@@ -1,0 +1,50 @@
+custom extern file type 
+
+extens 
+open 
+icon 
+mime type 
+icon 
+
+jab ref icon 
+
+
+extens 
+mime type 
+open 
+icon 
+icon 
+type 
+val 
+
+extens 
+mime type 
+open 
+
+icon 
+object 
+
+jab ref icon 
+extern file type 
+jab ref icon 
+
+custom extern file type 
+custom extern file type 
+build arg 
+
+set 
+extens 
+set extens 
+mime type 
+set mime type 
+open applic 
+set open 
+icon 
+set icon 
+icon 
+set icon 
+string 
+copi 
+hash code 
+equal 
+

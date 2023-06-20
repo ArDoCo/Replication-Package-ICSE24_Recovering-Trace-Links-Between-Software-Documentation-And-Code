@@ -1,0 +1,5 @@
+setup algo 
+test singl result 
+test multi result 
+check diff matrix 
+check freq matrix 

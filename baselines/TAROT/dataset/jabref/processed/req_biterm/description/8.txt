@@ -1,0 +1,5 @@
+layer form:obl
+packag form:obj
+respons form:obl
+vertic structur:amod
+structur respons:appos

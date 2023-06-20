@@ -1,0 +1,13 @@
+left entri 
+entri 
+left header 
+header 
+bib entri prefer 
+left entri 
+entri 
+bib entri prefer 
+index 
+field index 
+left header 
+header 
+diff config 

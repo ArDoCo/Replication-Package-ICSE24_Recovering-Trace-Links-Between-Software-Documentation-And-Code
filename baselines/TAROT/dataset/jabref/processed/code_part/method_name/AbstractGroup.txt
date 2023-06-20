@@ -1,0 +1,22 @@
+abstract group 
+string 
+equal 
+hash code 
+color 
+set color 
+set color 
+expand 
+set expand 
+descript 
+set descript 
+icon 
+set icon 
+hierarch context 
+
+properti 
+
+match 
+ani 
+
+dynam 
+deep copi 

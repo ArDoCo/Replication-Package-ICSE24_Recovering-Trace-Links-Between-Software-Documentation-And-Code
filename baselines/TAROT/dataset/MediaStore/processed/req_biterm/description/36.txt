@@ -1,0 +1,5 @@
+user upload:nsubj
+upload store:advcl
+file upload:obj
+data storag store:obl
+chang store:obl

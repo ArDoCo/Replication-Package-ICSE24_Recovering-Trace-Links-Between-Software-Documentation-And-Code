@@ -1,0 +1,7 @@
+field 
+field 
+requir 
+multilin 
+prioriti properti 
+prioriti properti 
+

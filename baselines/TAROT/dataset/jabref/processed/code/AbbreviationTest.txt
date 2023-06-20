@@ -1,0 +1,19 @@
+abbrevi test 
+
+
+
+
+test abbrevi trail space 
+test abbrevi trail space shortest uniqu abbrevi 
+test abbrevi semicolon 
+test abbrevi semicolon shortest uniqu abbrevi 
+test element 
+test element shortest uniqu abbrevi 
+test element trail space 
+test element trail space shortest uniqu abbrevi 
+test default medlin abbrevi 
+test default medlin abbrevi shortest uniqu abbrevi 
+test default shortest uniqu abbrevi 
+test equal 
+equal abbrev compon compar 
+

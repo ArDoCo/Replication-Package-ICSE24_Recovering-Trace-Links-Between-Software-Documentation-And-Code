@@ -1,0 +1,58 @@
+intern prefer 
+bib entri prefer 
+journal abbrevi prefer 
+store key bind repositori 
+key bind repositori 
+file prefer 
+field prefer 
+open offic prefer 
+prefer 
+default 
+export prefer 
+import prefer 
+layout formatt prefer 
+import format prefer 
+export configur 
+clear 
+delet key 
+flush 
+custom entri type repositori 
+store custom entri type repositori 
+cleanup prefer 
+default cleanup preset 
+general prefer 
+telemetri prefer 
+doi prefer 
+owner prefer 
+timestamp prefer 
+group prefer 
+default tab field 
+default tab field 
+entri editor prefer 
+remot prefer 
+proxi prefer 
+ssl prefer 
+citat key pattern prefer 
+push applic prefer 
+extern applic prefer 
+main tabl column prefer 
+main tabl prefer 
+display prefer 
+search dialog column prefer 
+prefer 
+auto link prefer 
+import export prefer 
+custom export format 
+store custom export format 
+import prefer 
+grobid prefer 
+preview prefer 
+side pane prefer 
+gui prefer 
+xmp prefer 
+formatt prefer 
+auto complet prefer 
+special field prefer 
+search prefer 
+dlib prefer 
+protect term prefer 

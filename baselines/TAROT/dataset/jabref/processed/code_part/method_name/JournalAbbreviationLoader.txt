@@ -1,0 +1,3 @@
+read journal list file 
+load repositori 
+load built repositori 

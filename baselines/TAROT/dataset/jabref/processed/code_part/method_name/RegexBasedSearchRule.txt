@@ -1,0 +1,3 @@
+regex base search rule 
+valid search string 
+appli rule 

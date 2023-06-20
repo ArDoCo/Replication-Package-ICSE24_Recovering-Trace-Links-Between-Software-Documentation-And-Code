@@ -1,0 +1,21 @@
+citat key base file finder test 
+entri 
+root dir 
+graphic dir 
+pdfs dir 
+jpg file 
+pdf file 
+
+bib entri 
+
+temporari folder 
+
+
+set 
+find associ file directori 
+find associ file ignor file start key continu text 
+find associ file find file start key 
+find associ file exist directori find noth 
+find associ file unsaf charact start search 
+find associ file unsaf charact exact search 
+

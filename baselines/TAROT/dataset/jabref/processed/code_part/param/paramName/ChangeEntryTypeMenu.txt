@@ -1,0 +1,15 @@
+entri 
+bib databas context 
+undo manag 
+key bind repositori 
+entri type manag 
+entri 
+bib databas context 
+undo manag 
+text 
+entri type 
+entri 
+undo manag 
+type 
+entri 
+undo manag 

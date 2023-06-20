@@ -1,0 +1,42 @@
+instructor 
+instructor uniqu id 
+origin instructor 
+queri string 
+cours id 
+instructor email address 
+cours id 
+email 
+cours id 
+email 
+cours id 
+googl id 
+registr key 
+googl id 
+omit archiv 
+cours id 
+cours id 
+cours id 
+updat option 
+updat option 
+cours id 
+email 
+queri 
+cours id 
+googl id 
+cours id 
+email 
+cours id 
+email 
+cours id 
+key 
+googl id 
+googl id 
+googl id 
+googl id 
+omit archiv 
+cours id 
+entiti creat 
+entiti 
+attribut 
+start time 
+time 

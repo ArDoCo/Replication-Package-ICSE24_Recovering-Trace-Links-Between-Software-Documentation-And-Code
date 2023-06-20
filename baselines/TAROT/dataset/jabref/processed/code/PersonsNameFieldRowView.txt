@@ -1,0 +1,23 @@
+person field row view 
+left entri 
+entri 
+
+author list 
+author list 
+
+field 
+left entri 
+entri 
+merg entri 
+field merger factori 
+row index 
+
+field 
+bib entri 
+bib entri 
+bib entri 
+field merger factori 
+
+person field row view 
+show person info 
+

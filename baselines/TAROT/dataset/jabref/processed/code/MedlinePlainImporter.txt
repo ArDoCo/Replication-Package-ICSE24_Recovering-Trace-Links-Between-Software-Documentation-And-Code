@@ -1,0 +1,62 @@
+medlin plain import 
+pmid pattern 
+pmc pattern 
+pmcr pattern 
+creat date pattern 
+complet date pattern 
+
+
+reader 
+reader 
+line 
+valu 
+type 
+hm 
+lab 
+valu 
+hm 
+author 
+field 
+hm 
+lab 
+valu 
+hm 
+lab 
+val 
+type 
+hm 
+lab 
+valu 
+hm 
+lab 
+val 
+valu 
+valu 
+
+entri type 
+field 
+field 
+field 
+field 
+field 
+entri type 
+field 
+field 
+
+
+file type 
+descript 
+id 
+recogn format 
+import databas 
+check line valid 
+add sourc type 
+add standard number 
+fix author 
+add id 
+add titl 
+add abstract 
+add date 
+creat date format 
+date format 
+

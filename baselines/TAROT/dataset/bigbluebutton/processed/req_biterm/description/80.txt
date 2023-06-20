@@ -1,0 +1,7 @@
+disabl convers:amod
+swf convers:compound
+svg swf:conj
+svg convers:compound
+png swf:conj
+png convers:compound
+convers enabl:conj

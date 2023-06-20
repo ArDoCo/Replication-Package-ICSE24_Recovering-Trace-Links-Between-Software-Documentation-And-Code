@@ -1,0 +1,15 @@
+titl checker 
+insid cur braket 
+delimit 
+capit letter 
+capit letter 
+databas context 
+
+
+databas context 
+valu 
+
+
+titl checker 
+check valu 
+

@@ -1,0 +1,18 @@
+user status command 
+log 
+callernam pattern 
+callernam sess info pattern 
+global audion pattern 
+
+
+room 
+request id 
+respons 
+event listen 
+
+confer event listen 
+
+user status command 
+command arg 
+handl respons 
+

@@ -1,0 +1,30 @@
+add session button 
+session type dropdown 
+cours id dropdown 
+session text box 
+instruct editor 
+start date box 
+start time dropdown 
+date box 
+time dropdown 
+grace period dropdown 
+chang visibl button 
+custom session visibl time button 
+session visibl date box 
+session visibl time dropdown 
+open session visibl time button 
+custom respons visibl time button 
+respons visibl date box 
+respons visibl time dropdown 
+immedi respons visibl time button 
+manual respons visibl time button 
+chang email button 
+open session email checkbox 
+close session email checkbox 
+publish session email checkbox 
+creat session button 
+session tabl 
+delet tabl head 
+restor button 
+delet button 
+delet session tabl 

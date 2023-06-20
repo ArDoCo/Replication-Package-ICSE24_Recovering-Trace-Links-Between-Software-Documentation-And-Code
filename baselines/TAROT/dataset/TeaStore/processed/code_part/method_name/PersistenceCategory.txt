@@ -1,0 +1,9 @@
+persist categori 
+clear cach 
+id 
+set id 
+
+set 
+descript 
+set descript 
+product 

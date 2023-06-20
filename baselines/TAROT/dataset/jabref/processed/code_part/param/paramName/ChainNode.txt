@@ -1,0 +1,6 @@
+deriv class 
+parent 
+child 
+target 
+anoth node 
+node 

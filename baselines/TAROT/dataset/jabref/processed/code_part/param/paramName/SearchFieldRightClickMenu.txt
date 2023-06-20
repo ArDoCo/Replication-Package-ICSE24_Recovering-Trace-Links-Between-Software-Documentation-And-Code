@@ -1,0 +1,6 @@
+key bind repositori 
+state manag 
+search field 
+factori 
+state manag 
+search field 

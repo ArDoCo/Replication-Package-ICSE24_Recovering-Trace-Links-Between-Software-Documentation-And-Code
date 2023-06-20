@@ -1,0 +1,3 @@
+max num byte 
+total num byte read 
+progress 

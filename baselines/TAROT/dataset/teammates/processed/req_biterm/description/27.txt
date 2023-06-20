@@ -1,0 +1,9 @@
+angular framework:amod
+framework written:obl
+consist written:conj
+html file:compound
+scss html:conj
+scss file:compound
+type script html:conj
+type script file:compound
+file consist:obj

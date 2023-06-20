@@ -1,0 +1,8 @@
+copi citat action 
+execut 
+generat citat 
+generat text base preview layout citat 
+process preview 
+process text 
+process html 
+set clip board content 

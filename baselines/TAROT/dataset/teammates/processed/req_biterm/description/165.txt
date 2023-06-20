@@ -1,0 +1,8 @@
+result send:obj
+feedback session:compound
+session result:nmod
+show result:dep
+feedback report:compound
+session report:compound
+report show:obj
+instructor show:obl

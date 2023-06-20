@@ -1,0 +1,14 @@
+applic insight writer 
+
+
+properti 
+log entri 
+
+
+applic insight writer 
+applic insight writer 
+requir log entri valu 
+write 
+flush 
+close 
+

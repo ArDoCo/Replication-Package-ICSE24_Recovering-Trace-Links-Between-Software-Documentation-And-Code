@@ -1,0 +1,7 @@
+slope base:obl
+item slope:nmod
+base filter:amod
+collabor filter:amod
+filter appli:nsubj
+calcul appli:xcomp
+recommend calcul:obj

@@ -1,0 +1,46 @@
+proxi prefer 
+proxi 
+hostnam 
+port 
+authent 
+usernam 
+password 
+
+
+proxi 
+hostnam 
+port 
+authent 
+usernam 
+password 
+proxi 
+hostnam 
+port 
+authent 
+usernam 
+password 
+ 
+
+
+proxi prefer 
+proxi 
+proxi properti 
+set proxi 
+hostnam 
+hostnam properti 
+set hostnam 
+port 
+port properti 
+set port 
+authent 
+authent properti 
+set authent 
+usernam 
+usernam properti 
+set usernam 
+password 
+password properti 
+set password 
+equal 
+hash code 
+

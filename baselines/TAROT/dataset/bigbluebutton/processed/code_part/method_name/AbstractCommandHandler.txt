@@ -1,0 +1,11 @@
+pre start 
+start 
+stdout 
+stderr 
+exit 
+exit error 
+stdout 
+stdout equal 
+stderr 
+command success 
+command timeout 

@@ -1,0 +1,25 @@
+logger 
+show extra tab properti 
+avail list properti 
+avail list properti 
+avail select model properti 
+avail select model properti 
+filter avail layout 
+filter avail layout 
+chosen list properti 
+chosen list properti 
+chosen select model properti 
+chosen select model properti 
+select edit properti 
+select layout properti 
+select layout properti 
+sourc text properti 
+dialog servic 
+preview prefer 
+task executor 
+chosen list valid 
+local dragboard 
+drag sourc list 
+drag sourc list 
+drag sourc select model 
+drag sourc select model 

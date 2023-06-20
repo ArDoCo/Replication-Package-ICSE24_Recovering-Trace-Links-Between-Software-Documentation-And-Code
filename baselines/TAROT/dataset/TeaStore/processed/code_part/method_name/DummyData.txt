@@ -1,0 +1,5 @@
+dummi data 
+byte size 
+id 
+hash code 
+equal 

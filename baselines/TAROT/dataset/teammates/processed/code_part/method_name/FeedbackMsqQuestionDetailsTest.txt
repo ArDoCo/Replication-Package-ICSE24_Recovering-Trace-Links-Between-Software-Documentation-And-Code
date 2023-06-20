@@ -1,0 +1,33 @@
+test constructor default constructor field correct default valu 
+test valid question detail choic min requir error return 
+test valid question detail number choic greater weight error return 
+test valid question detail valid error error list empti 
+test valid question detail negat weight error return 
+test valid question detail negat weight error return 
+test valid question detail duplic msq option error return 
+test valid question detail max select choic total number choic return error 
+test valid question detail max select choic equal total number choic return error 
+test valid question detail empti choic enter return error 
+test valid question detail weight enabl exist return error 
+test valid question detail enabl weight exist return error 
+test valid question detail min choic return error 
+test valid question detail min choic exist choic return error 
+test valid question detail min choic max return error 
+test valid respons detail answer chosen field empti trigger error 
+test valid respons detail choic valid choic trigger error 
+test valid respons detail disabl exist return error 
+test valid respons detail enabl empti return error 
+test valid respons detail choic max return error 
+test valid respons detail choic min return error 
+test valid respons detail abov select min restrict return error 
+test valid respons detail abov select exist return error 
+test instructor comment respons return true 
+test feedback particip comment respons return true 
+test chang requir respons delet differ msq choic return true 
+test chang requir respons delet differ generat option return true 
+test chang requir respons delet max restrict ad return true 
+test chang requir respons delet min restrict ad return true 
+test chang requir respons delet strict max restrict ad return true 
+test chang requir respons delet strict min restrict ad return true 
+test chang requir respons delet differ enabl return true 
+test chang requir respons delet question differ order return fals 

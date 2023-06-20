@@ -1,0 +1,20 @@
+compar month field ident 
+compar month field equal 
+compar month field bigger ascend 
+compar month field bigger descend 
+compar year field ident 
+compar year field equal 
+compar year field bigger ascend 
+compar year field bigger descend 
+compar type field ident 
+compar type field equal 
+compar type field bigger ascend 
+compar type field bigger descend 
+compar string field ident 
+compar string field equal 
+compar string field bigger ascend 
+compar string field bigger descend 
+compar numer field bigger descend 
+compar parsabl parsabl numer field descend 
+compar numer valu 
+provid argument numer comparison 

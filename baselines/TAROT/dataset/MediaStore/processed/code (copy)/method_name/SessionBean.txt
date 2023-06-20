@@ -1,0 +1,3 @@
+session bean 
+current user 
+set current user 

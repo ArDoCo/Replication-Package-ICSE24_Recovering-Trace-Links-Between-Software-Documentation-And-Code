@@ -1,0 +1,7 @@
+cours id field 
+cours field 
+cours institut field 
+num section field 
+num team field 
+num student field 
+instructor field 

@@ -1,0 +1,6 @@
+detect open offic instal 
+execut path defin 
+select instal path 
+check auto detect path 
+set open offic prefer 
+choos instal 

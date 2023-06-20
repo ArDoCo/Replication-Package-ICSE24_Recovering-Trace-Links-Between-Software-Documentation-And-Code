@@ -1,0 +1,10 @@
+apach common lang 
+swing 
+assert 
+java awt 
+path 
+respect layer architectur 
+logic model 
+restrict usag model 
+restrict usag logic 
+restrict standard stream 

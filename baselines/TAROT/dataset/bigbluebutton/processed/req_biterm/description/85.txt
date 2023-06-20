@@ -1,0 +1,4 @@
+diagram show:nsubj
+compon connect:nsubj
+big blue button compon:nmod
+connect show:ccomp

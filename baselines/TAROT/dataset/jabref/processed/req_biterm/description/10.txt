@@ -1,0 +1,8 @@
+cli packag:compound
+packag bundl:compound
+class bundl:dep
+respons class:acl
+jab ref interfac:nmod
+command line:compound
+line interfac:compound
+interfac respons:obl

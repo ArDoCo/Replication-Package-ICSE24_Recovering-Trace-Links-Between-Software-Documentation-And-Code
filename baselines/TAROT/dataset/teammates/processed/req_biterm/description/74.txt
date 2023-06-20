@@ -1,0 +1,8 @@
+long time:amod
+minut process:compound
+standard process:amod
+request process:compound
+process exceed:obj
+limit process:dep
+impos process:acl
+gae impos:obl

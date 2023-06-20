@@ -1,0 +1,4 @@
+command 
+text input control 
+text input control 
+key bind repositori 

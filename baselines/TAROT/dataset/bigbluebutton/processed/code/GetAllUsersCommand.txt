@@ -1,0 +1,16 @@
+user command 
+log 
+callernam pattern 
+
+
+room 
+request id 
+respons 
+event listen 
+
+confer event listen 
+
+user command 
+command arg 
+handl respons 
+

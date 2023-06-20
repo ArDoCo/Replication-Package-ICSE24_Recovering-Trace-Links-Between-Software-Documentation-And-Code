@@ -1,0 +1,11 @@
+max cach size 
+max cach size 
+cach rule 
+cach storag 
+max cach size 
+cach rule 
+cach storag 
+max cach size 
+cach rule 
+seed 
+seed 

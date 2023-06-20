@@ -1,0 +1,16 @@
+data migrat sampl googl id student attribut 
+
+
+arg 
+student 
+student 
+
+cours student 
+cours student 
+
+main 
+filter queri 
+preview 
+migrat 
+migrat entiti 
+

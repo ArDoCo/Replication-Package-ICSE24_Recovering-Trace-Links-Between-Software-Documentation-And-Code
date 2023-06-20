@@ -1,0 +1,14 @@
+deaf user command 
+particip 
+deaf 
+
+
+room 
+particip 
+deaf 
+request id 
+
+
+deaf user command 
+command arg 
+

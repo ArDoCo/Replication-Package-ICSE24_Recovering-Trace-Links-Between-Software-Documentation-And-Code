@@ -1,0 +1,8 @@
+action uri 
+request method 
+test execut 
+test execut typic usag pass 
+test execut exist cours fail 
+test access control 
+test access control test invalid access pass 
+test access control test instructor access pass 

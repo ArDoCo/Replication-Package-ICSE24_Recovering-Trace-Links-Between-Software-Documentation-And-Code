@@ -1,0 +1,20 @@
+automat field editor edit 
+affect entri 
+edit 
+tab index 
+
+compound 
+
+affect entri 
+tab index 
+edit 
+
+compound 
+
+automat field editor edit 
+affect entri 
+edit 
+tab index 
+undo 
+redo 
+

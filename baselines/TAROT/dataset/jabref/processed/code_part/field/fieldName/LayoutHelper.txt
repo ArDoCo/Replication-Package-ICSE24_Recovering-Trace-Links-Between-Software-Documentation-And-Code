@@ -1,0 +1,18 @@
+layout text 
+simpl command 
+field start 
+field 
+option field 
+group start 
+group 
+encod 
+filenam 
+filepath 
+current group 
+
+pars entri 
+pars entri 
+file dir databas 
+file dir databas 
+prefer 
+file 

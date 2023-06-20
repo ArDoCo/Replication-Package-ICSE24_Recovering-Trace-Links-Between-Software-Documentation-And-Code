@@ -1,0 +1,11 @@
+frontend requir:nsubj
+meet start event:compound
+meet meet start:conj
+meet event:compound
+event requir:obj
+creat requir:xcomp
+destroy creat:conj
+meet queue:compound
+event process:compound
+process queue:compound
+queue destroy:obj

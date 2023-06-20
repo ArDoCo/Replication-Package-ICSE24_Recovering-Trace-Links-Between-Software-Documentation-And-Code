@@ -1,0 +1,3 @@
+max number page 
+type 
+page count 

@@ -1,0 +1,9 @@
+serial version uid 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 

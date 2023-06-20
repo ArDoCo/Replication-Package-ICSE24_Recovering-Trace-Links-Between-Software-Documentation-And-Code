@@ -1,0 +1,4 @@
+collect subscript:dep
+subscript frontend:dep
+publish frontend:dep
+publish subscript:conj

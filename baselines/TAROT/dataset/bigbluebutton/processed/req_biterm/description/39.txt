@@ -1,0 +1,6 @@
+big blue button integr:nsubj
+moodl sakai:compound
+wordpress sakai:appos
+canva sakai:appos
+sakai integr:obj
+parti integr:compound

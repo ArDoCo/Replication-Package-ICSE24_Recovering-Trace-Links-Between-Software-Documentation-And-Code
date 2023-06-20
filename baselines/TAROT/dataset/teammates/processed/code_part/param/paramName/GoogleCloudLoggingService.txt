@@ -1,0 +1,20 @@
+queri log param 
+sever 
+cours id 
+email 
+fs 
+fsl type 
+cours id 
+email 
+start time 
+time 
+fs 
+log search param 
+log search param 
+page size 
+ 
+page size 
+queri log param 
+log 
+resourc type 
+queri log param 

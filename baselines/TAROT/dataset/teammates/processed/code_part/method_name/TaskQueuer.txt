@@ -1,0 +1,16 @@
+task queuer 
+inst 
+add task 
+add defer task 
+schedul feedback session remind 
+schedul feedback session remind user 
+schedul feedback session publish email 
+schedul feedback session resend publish email 
+schedul feedback session unpublish email 
+schedul cours registr invit instructor 
+schedul cours registr invit student 
+schedul email send 
+schedul instructor search index 
+schedul account request search index 
+schedul student search index 
+schedul email send 

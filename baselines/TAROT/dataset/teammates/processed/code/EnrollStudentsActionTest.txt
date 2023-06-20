@@ -1,0 +1,40 @@
+enrol student action test 
+
+
+request 
+respons 
+cours id 
+req 
+expect team 
+expect section 
+expect section 
+enrol student 
+cours id 
+req 
+expect student 
+actual student cours 
+actual student email 
+cours id 
+
+student data 
+
+action uri 
+request method 
+test execut 
+test execut student ad databas 
+test execut student empti section ad databas default section 
+test execut exist student updat databas 
+test execut section field chang updat databas 
+test execut email field chang creat student 
+test execut invalid enrol request enrol 
+test execut duplic team section exist student throw invalid bodi 
+test execut duplic team section input throw invalid bodi 
+test execut number student section limit throw invalid http request bodi 
+verifi correct respons data 
+verifi duplic team detect 
+prepar request 
+execut action return result 
+verifi student databas 
+typic student 
+test access control 
+

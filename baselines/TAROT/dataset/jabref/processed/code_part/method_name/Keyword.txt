@@ -1,0 +1,12 @@
+keyword 
+
+equal 
+hash code 
+string 
+compar 
+add 
+subchain string 
+
+path root string 
+flatten 
+subchain string 

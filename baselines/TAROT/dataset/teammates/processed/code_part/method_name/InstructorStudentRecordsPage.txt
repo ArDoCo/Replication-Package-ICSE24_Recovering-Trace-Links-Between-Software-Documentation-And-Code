@@ -1,0 +1,4 @@
+instructor student record page 
+expect page content 
+verifi correct page 
+verifi student detail 

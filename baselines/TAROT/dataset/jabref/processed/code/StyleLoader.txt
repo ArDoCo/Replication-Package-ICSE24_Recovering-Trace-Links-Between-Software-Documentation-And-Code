@@ -1,0 +1,34 @@
+style loader 
+default authoryear style path 
+default numer style path 
+logger 
+intern style file 
+intern style file 
+open offic prefer 
+layout formatt prefer 
+intern style 
+intern style 
+extern style 
+extern style 
+
+open offic prefer 
+oo bib style 
+oo bib style 
+
+open offic prefer 
+formatt prefer 
+filenam 
+style 
+
+open offic prefer 
+oo bib style 
+
+style loader 
+style 
+add style valid 
+load extern style 
+load intern style 
+store extern style 
+remov style 
+style 
+

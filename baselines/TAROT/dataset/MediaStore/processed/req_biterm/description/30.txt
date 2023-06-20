@@ -1,0 +1,6 @@
+adapt compon:compound
+compon creat:nsubj
+queri creat:obj
+base request:case
+user request:nmod
+request creat:advcl

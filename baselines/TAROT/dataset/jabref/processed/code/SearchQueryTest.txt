@@ -1,0 +1,36 @@
+search queri test 
+
+
+
+
+test string 
+test base search 
+test grammar base search 
+test grammar search 
+test grammar search full entri char 
+test grammar search full entri 
+test search open braket booktitl 
+test search match singl keyword part 
+test search match singl keyword 
+test search field 
+test search field specif field 
+test search field specif field 
+test match 
+test valid queri reg 
+test valid queri bracket reg 
+test valid queri bracket reg 
+test valid queri reg 
+test valid queri number reg 
+test valid queri bracket reg 
+test valid queri equal sign reg 
+test valid queri number equal sign reg 
+test valid queri equal sign reg 
+test valid queri number equal sign reg 
+match normal field base search mix 
+test simpl term 
+test pattern 
+test regexp pattern 
+test regexp javascript pattern 
+test escap pattern 
+test escap javascript pattern 
+

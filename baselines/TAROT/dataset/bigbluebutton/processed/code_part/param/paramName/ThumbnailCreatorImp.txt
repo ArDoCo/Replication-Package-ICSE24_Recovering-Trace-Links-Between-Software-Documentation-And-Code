@@ -1,0 +1,16 @@
+pres 
+page 
+page file 
+thumb dir 
+pres 
+page 
+page file 
+present file 
+dir 
+page 
+thumb dir 
+page 
+thumb 
+directori 
+imag magick dir 
+blank thumbnail 

@@ -1,0 +1,17 @@
+number 
+journal abbrevi repositori 
+key bind repositori 
+bib entri type manag 
+column prefer 
+column prefer 
+column prefer 
+column prefer 
+save order 
+journal abbrevi repositori 
+templat export 
+preview layout 
+side pane type 
+side pane type 
+file histori 
+custom import 
+fetcher api key 

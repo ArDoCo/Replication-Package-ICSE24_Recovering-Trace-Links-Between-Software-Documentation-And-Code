@@ -1,0 +1,52 @@
+group tree node view model 
+logger 
+node 
+
+group tree node 
+
+node 
+entri 
+entri 
+recurs 
+ 
+entri 
+undo manag 
+entri 
+group 
+undo manag 
+entri 
+subscrib 
+
+group tree node 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+abstract group 
+bib entri 
+group tree node view model 
+
+group tree node view model 
+string 
+node 
+children 
+print ital 
+descript 
+add entri 
+remov entri 
+sort children 
+equal 
+hash code 
+
+edit 
+move 
+move 
+move left 
+move 
+chang entri 
+remov entri group 
+entri group 
+add group 
+add entri group 
+subscrib descend chang 
+

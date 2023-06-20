@@ -1,0 +1,53 @@
+group parser 
+logger 
+
+
+order data 
+keyword separ 
+file monitor 
+meta data 
+ 
+keyword separ 
+file monitor 
+meta data 
+string 
+file monitor 
+meta data 
+string 
+string 
+ 
+keyword separ 
+input 
+keyword separ 
+input 
+keyword separ 
+tok 
+group 
+ 
+ 
+token 
+group 
+
+file updat monitor 
+meta data 
+file updat monitor 
+meta data 
+file updat monitor 
+meta data 
+explicit group 
+abstract group 
+
+group parser 
+import group 
+string 
+tex group string 
+automat person group string 
+automat keyword group string 
+keyword group string 
+explicit group string 
+legaci explicit group string 
+add legaci entri key 
+entri group string 
+search group string 
+add group detail 
+

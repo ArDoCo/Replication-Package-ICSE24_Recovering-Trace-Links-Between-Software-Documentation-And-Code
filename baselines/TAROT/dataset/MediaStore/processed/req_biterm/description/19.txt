@@ -1,0 +1,11 @@
+file download:obj
+time download:obl
+packag compon:compound
+compon provid:obj
+archiv compon:acl
+multipl file:amod
+audio file:amod
+file archiv:dep
+singl compress:advmod
+compress file:amod
+file provid:obl

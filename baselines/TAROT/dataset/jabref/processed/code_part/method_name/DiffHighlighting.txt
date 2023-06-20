@@ -1,0 +1,7 @@
+diff highlight 
+generat diff highlight 
+chang 
+unchang 
+ad 
+remov 
+generat symmetr highlight 

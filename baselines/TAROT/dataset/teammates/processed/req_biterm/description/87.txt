@@ -1,0 +1,8 @@
+logic api:compound
+api repres:nsubj
+class repres:obl
+logic task queuer:compound
+gate keeper task queuer:appos
+email generat task queuer:appos
+email sender task queuer:appos
+task queuer class:dep

@@ -1,0 +1,64 @@
+config 
+app id 
+app region 
+app version 
+app frontend url 
+product gcs bucketnam 
+backup gcs bucketnam 
+csrf key 
+backdoor key 
+encrypt key 
+auth type 
+oauth client id 
+oauth client secret 
+captcha secret key 
+app admin 
+app admin 
+app maintain 
+app maintain 
+support email 
+email senderemail 
+email sendernam 
+email replyto 
+email servic 
+sendgrid apikey 
+mailgun apikey 
+mailgun domainnam 
+mailjet apikey 
+mailjet secretkey 
+search servic host 
+enabl datastor backup 
+mainten 
+app localdatastor port 
+enabl devserv login 
+taskqueu activ 
+dev server 
+log 
+
+
+properti 
+dev properti 
+key 
+default valu 
+properti 
+dev properti 
+key 
+app version 
+app id 
+relat url 
+
+
+config 
+default front url 
+properti 
+properti 
+port 
+instanc id 
+dev server 
+dev server login enabl 
+front app url 
+firebas 
+sendgrid 
+mailgun 
+mailjet 
+

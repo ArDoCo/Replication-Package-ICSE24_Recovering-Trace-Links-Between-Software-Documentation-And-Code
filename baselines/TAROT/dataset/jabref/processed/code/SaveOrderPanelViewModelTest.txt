@@ -1,0 +1,19 @@
+save order panel view model test 
+sort criterion key 
+sort criterion author 
+sort criterion titl 
+view model 
+
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+save order config panel view model 
+
+
+
+set 
+add criterion 
+remov criterion 
+move criterion 
+move criterion 
+

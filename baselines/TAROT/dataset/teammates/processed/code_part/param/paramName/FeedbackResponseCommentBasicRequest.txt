@@ -1,0 +1,4 @@
+comment text 
+show comment 
+show giver 
+comment visibl type 

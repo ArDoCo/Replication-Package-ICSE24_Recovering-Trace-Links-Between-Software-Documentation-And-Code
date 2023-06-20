@@ -1,0 +1,34 @@
+er 
+intern user id 
+set intern user id 
+extern user id 
+set extern user id 
+set guest 
+guest 
+set guest status 
+guest status 
+left 
+join 
+left 
+left 
+fullnam 
+set fullnam 
+role 
+set role 
+set lock 
+avatar url 
+set avatar url 
+moder 
+set status 
+remov status 
+status 
+present 
+add stream 
+remov stream 
+stream 
+video 
+listen onli 
+set listen onli 
+voic join 
+set voic join 
+client type 

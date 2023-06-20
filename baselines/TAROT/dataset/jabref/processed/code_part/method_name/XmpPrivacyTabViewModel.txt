@@ -1,0 +1,11 @@
+xmp privaci tab view model 
+set valu 
+store set 
+add field 
+remov filter 
+xmp filter list valid status 
+valid set 
+xmp filter enabl properti 
+filter list properti 
+avail field properti 
+add field properti 

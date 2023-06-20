@@ -1,0 +1,10 @@
+bibtex databas writer 
+bibtex databas writer 
+write epilogu 
+write meta data item 
+write preambl 
+write string 
+write entri type definit 
+write prolog 
+write databas id 
+write entri 

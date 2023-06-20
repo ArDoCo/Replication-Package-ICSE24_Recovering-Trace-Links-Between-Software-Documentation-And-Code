@@ -1,0 +1,27 @@
+std work dir 
+persist creation max wait time 
+persist creation wait time 
+persist creation wait time 
+creation thread pool size 
+creation thread pool wait 
+creation thread pool wait img nr 
+storag rule 
+cach rule 
+work dir 
+cach size 
+storag mode 
+cach mode 
+nr imag generat 
+nr imag exist 
+nr imag categori 
+nr imag generat 
+categori imag 
+categori imag 
+img db 
+storag 
+storag 
+cach 
+cach 
+img creation pool 
+log 
+finish 

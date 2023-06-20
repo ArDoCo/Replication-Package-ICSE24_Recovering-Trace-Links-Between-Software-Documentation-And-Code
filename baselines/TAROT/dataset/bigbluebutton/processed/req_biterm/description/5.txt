@@ -1,0 +1,17 @@
+client applic:nsubj
+singl page:amod
+page applic:compound
+respons web:amod
+web applic:dep
+built applic:acl
+compon built:obl
+user interfac:compound
+interfac render:obj
+effici manner:amod
+manner render:obl
+web rtc manner:appos
+send web rtc:acl
+receiv audio:dep
+audio web rtc:dep
+video web rtc:dep
+video audio:conj

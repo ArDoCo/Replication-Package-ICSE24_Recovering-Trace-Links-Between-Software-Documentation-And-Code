@@ -1,0 +1,22 @@
+attribut delet queri 
+cours id present 
+feedback session present 
+question id present 
+respons id present 
+user email present 
+instructor present 
+cours id 
+feedback session 
+question id 
+respons id 
+user email 
+instructor 
+builder 
+builder 
+cours id 
+feedback session 
+question id 
+respons id 
+user email 
+instructor 
+build 

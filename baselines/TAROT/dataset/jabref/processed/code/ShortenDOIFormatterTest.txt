@@ -1,0 +1,11 @@
+shorten doi formatt test 
+formatt 
+
+shorten doi formatt 
+
+
+
+set 
+format doi 
+invalid doi 
+

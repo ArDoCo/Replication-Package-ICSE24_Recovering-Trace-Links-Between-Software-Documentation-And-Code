@@ -1,0 +1,7 @@
+full 
+short 
+number 
+number 
+short 
+valu 
+valu 

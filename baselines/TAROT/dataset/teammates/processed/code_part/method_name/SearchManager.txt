@@ -1,0 +1,12 @@
+search manag 
+basic queri 
+perform queri 
+collect 
+creat document 
+put document 
+delet document 
+reset collect 
+clean special char 
+attribut document 
+sort result 
+convert document attribut 

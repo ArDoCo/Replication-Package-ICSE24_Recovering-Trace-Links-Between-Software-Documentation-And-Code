@@ -1,0 +1,12 @@
+trim whitespac formatt 
+
+
+valu 
+
+
+
+key 
+format 
+descript 
+exampl input 
+

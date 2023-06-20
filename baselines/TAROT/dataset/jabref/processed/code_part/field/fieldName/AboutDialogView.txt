@@ -1,0 +1,6 @@
+copi version button 
+text area version 
+dialog servic 
+clip board manag 
+build info 
+view model 

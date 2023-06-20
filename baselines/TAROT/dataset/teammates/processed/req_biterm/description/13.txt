@@ -1,0 +1,5 @@
+java test:compound
+level test:dep
+jest test:compound
+java script jest:nmod
+unit test:compound

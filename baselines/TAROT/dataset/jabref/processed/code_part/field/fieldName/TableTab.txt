@@ -1,0 +1,20 @@
+column list 
+column list 
+column 
+column 
+action column 
+action column 
+add column 
+add column 
+special field enabl 
+special field 
+extra file column enabl 
+auto resiz column 
+natbib 
+
+
+
+abbrevi disabl 
+abbrevi enabl 
+abbrevi onli 
+valid visual 

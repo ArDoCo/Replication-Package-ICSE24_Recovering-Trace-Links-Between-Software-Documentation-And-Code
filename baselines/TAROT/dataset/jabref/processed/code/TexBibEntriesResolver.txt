@@ -1,0 +1,37 @@
+tex bib entri resolv 
+logger 
+master databas 
+general prefer 
+import format prefer 
+file monitor 
+
+bib databas 
+general prefer 
+import format prefer 
+file updat monitor 
+
+master databas 
+general prefer 
+import format prefer 
+file monitor 
+latex parser result 
+map entri 
+latex parser result 
+bib databas 
+entri 
+bib file 
+bib databas 
+
+bib databas 
+general prefer 
+import format prefer 
+file updat monitor 
+latex parser result 
+latex parser result 
+bib entri 
+
+tex bib entri resolv 
+resolv 
+appli 
+add cross referenc data 
+

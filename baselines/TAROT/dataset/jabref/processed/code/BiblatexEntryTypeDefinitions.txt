@@ -1,0 +1,82 @@
+biblatex entri type definit 
+articl 
+book 
+mvbook 
+inbook 
+bookinbook 
+suppbook 
+booklet 
+collect 
+mvcollect 
+incollect 
+suppcollect 
+manual 
+misc 
+onlin 
+patent 
+period 
+suppperiod 
+proceed 
+mvproceed 
+inproceed 
+refer 
+mvrefer 
+inrefer 
+report 
+set 
+thesi 
+unpublish 
+confer 
+electron 
+mastersthesi 
+phdthesi 
+techreport 
+www 
+softwar 
+dataset 
+
+
+recommend 
+recommend 
+
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+
+
+
+

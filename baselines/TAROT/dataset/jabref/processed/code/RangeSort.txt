@@ -1,0 +1,25 @@
+rang sort 
+cmp 
+partit 
+partit 
+
+
+text 
+ 
+ 
+rang holder 
+holder 
+holder 
+holder 
+
+
+rang sort 
+holder compar partit 
+compar 
+sort partit 
+rang partit 
+add 
+partit 
+partit rang 
+partit sort rang 
+

@@ -1,0 +1,23 @@
+oo text oo 
+write 
+remov direct format 
+properti stack 
+push layer 
+pop layer 
+appli 
+properti valu 
+pars attribut 
+properti default 
+set char weight 
+set char postur 
+set char case map 
+set char underlin 
+set char strikeout 
+set char style 
+set char local 
+set char local 
+set char escap 
+set script 
+set super script 
+set paragraph style 
+insert paragraph break 

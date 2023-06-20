@@ -1,0 +1,36 @@
+state manag 
+visibl side pane compon 
+local dragboard 
+open databas 
+activ databas properti 
+activ search queri properti 
+set activ search result size 
+search result size 
+activ group properti 
+select entri 
+set select entri 
+set select group 
+select group 
+clear select group 
+activ databas 
+set activ databas 
+entri current databas 
+clear search queri 
+set search queri 
+focus owner properti 
+focus owner 
+background task 
+add background task 
+ani task run 
+ani task recov run 
+task progress 
+dialog window state 
+set dialog window state 
+automat field editor edit properti 
+automat field editor edit 
+set automat field editor edit 
+collect databas path 
+add search histori 
+search histori 
+search histori 
+clear search histori 

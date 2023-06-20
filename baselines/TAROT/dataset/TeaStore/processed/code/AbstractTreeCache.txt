@@ -1,0 +1,16 @@
+abstract tree cach 
+
+
+cach storag 
+max cach size 
+cach rule 
+order 
+data 
+data 
+
+
+abstract tree cach 
+creat entri 
+remov entri cach strategi 
+reorder tag 
+

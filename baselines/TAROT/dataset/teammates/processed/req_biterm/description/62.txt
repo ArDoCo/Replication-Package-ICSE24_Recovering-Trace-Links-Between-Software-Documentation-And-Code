@@ -1,0 +1,5 @@
+request equip:nsubj
+generat request:acl
+gae server:compound
+server generat:obl
+privileg equip:obl

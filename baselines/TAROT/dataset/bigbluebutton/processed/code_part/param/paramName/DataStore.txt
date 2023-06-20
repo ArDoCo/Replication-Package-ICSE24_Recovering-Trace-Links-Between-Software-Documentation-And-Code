@@ -1,0 +1,10 @@
+entiti 
+id 
+entiti class 
+entiti class 
+record id 
+meet id 
+state 
+key 
+valu 
+entiti 

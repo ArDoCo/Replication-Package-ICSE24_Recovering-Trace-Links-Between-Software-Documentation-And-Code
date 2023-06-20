@@ -1,0 +1,5 @@
+
+bs case sensit 
+bs case insensit 
+bs case sensit regexp 
+bs case insensit regexp 

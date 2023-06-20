@@ -1,0 +1,12 @@
+logger 
+char 
+max alpha author 
+decim digit 
+capit charact 
+inlin abbrevi 
+depart 
+whitespac 
+univers 
+technolog institut 
+depart lab 
+pattern 

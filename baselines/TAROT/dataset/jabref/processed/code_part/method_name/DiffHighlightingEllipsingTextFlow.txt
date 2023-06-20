@@ -1,0 +1,13 @@
+diff highlight ellips text flow 
+children 
+adjust children 
+adjust text 
+remov text fit 
+fill overflow 
+ellips text fit 
+highlight diff 
+ellips string 
+set ellipsi string 
+ellipsi string 
+ellipsi string properti 
+full text 

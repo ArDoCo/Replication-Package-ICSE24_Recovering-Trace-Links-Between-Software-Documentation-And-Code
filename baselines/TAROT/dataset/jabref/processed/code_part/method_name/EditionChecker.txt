@@ -1,0 +1,3 @@
+edit checker 
+check valu 
+char digit 

@@ -1,0 +1,92 @@
+list 
+string 
+reader 
+input 
+reader 
+bib item 
+start element 
+reader 
+field 
+start element 
+reader 
+field 
+start element 
+field 
+reader 
+eid type 
+reader 
+section titl list 
+reader 
+bib item 
+start element 
+reader 
+field 
+start element 
+reader 
+field 
+start element 
+reader 
+investig list 
+start element 
+reader 
+person subject list 
+start element 
+reader 
+mesh head list 
+start element 
+reader 
+field 
+start element 
+reader 
+field 
+start element 
+reader 
+field 
+start element 
+reader 
+field 
+reader 
+field 
+reader 
+field 
+start element 
+field 
+articl id list 
+field 
+general note list 
+field 
+investig list 
+field 
+keyword list 
+field 
+id list 
+field 
+person subject list 
+field 
+mesh head list 
+reader 
+field 
+start element 
+reader 
+field 
+start element 
+reader 
+text list 
+start element 
+reader 
+field 
+start element 
+medlin date 
+reader 
+field 
+start element 
+reader 
+author 
+field 
+field 
+valu 
+page rang 
+reader 
+reader 
+reader 
+input stream 

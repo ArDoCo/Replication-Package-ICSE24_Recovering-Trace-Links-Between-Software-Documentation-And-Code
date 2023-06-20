@@ -1,0 +1,3 @@
+delet api:dep
+entiti delet:obj
+inform present:nsubj

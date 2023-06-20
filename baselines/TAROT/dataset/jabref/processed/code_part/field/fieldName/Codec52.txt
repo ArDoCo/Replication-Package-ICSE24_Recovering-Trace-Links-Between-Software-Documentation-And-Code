@@ -1,0 +1,6 @@
+bib citat 
+cite pattern 
+index 
+citat type 
+citat key 
+citat key 

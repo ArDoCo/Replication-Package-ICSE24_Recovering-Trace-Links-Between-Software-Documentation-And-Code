@@ -1,0 +1,17 @@
+bezier wrapper 
+
+
+point 
+width 
+height 
+val 
+max 
+val 
+max 
+
+
+bezier wrapper 
+line simplifi curv 
+denorm 
+normal 
+

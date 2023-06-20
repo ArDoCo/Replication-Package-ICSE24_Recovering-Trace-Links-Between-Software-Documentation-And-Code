@@ -1,0 +1,68 @@
+feedback question attribut 
+builder 
+valu 
+creat 
+updat 
+id 
+set id 
+entiti 
+copi 
+string 
+invalid info 
+valid 
+respons visibl 
+respons delet requir chang 
+compar 
+hash code 
+equal 
+remov irrelev visibl option 
+sanit save 
+question detail 
+set question detail 
+question detail copi 
+serial question detail 
+feedback question id 
+feedback session 
+set feedback session 
+cours id 
+set cours id 
+question descript 
+set question descript 
+question number 
+set question number 
+question type 
+giver type 
+set giver type 
+recipi type 
+set recipi type 
+number entiti give feedback 
+set number entiti give feedback 
+show respons 
+set show respons 
+show giver 
+set show giver 
+show recipi 
+set show recipi 
+deseri feedback question detail 
+updat 
+updat option builder 
+builder 
+feedback session 
+cours id 
+build 
+updat option 
+feedback question id 
+string 
+builder 
+build 
+basic builder 
+question detail 
+question descript 
+question number 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 
+build 

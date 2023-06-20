@@ -1,0 +1,7 @@
+test driver:compound
+manner data bundl:nmod
+arbitrari number:amod
+number send:obj
+object number:nmod
+persist send:advcl
+databas persist:obl

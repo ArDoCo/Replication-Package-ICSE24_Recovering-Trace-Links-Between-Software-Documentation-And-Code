@@ -1,0 +1,22 @@
+pars latex result view model 
+resolv result 
+databas context 
+refer list 
+refer list 
+citat list 
+citat list 
+import button disabl 
+
+
+resolv result 
+databas context 
+refer 
+
+
+pars latex result view model 
+refer list 
+citat list refer 
+import button disabl properti 
+activ refer chang 
+import button click 
+

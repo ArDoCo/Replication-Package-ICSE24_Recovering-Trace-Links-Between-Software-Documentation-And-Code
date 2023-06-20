@@ -1,0 +1,3 @@
+datatransf class:compound
+class packag:nsubj
+explain packag:xcomp

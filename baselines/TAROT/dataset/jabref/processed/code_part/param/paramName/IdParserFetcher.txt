@@ -1,0 +1,5 @@
+entri 
+entri 
+input entri 
+fetch entri 
+entri 

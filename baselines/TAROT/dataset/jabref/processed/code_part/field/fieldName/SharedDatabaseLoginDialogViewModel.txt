@@ -1,0 +1,27 @@
+logger 
+select dbms type 
+select dbms type 
+databas 
+host 
+port 
+user 
+password 
+folder 
+autosav 
+rememb password 
+load 
+keystor 
+ssl 
+key store password properti 
+server timezon 
+frame 
+dialog servic 
+prefer servic 
+share databas prefer 
+databas valid 
+host valid 
+port valid 
+user valid 
+folder valid 
+keystor valid 
+form valid 

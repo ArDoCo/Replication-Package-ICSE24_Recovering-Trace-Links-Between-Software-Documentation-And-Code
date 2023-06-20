@@ -1,0 +1,8 @@
+generat citat key action 
+execut 
+confirm overwrit key 
+check overwrit key chosen 
+generat key background 
+call 
+success 
+format output messag 

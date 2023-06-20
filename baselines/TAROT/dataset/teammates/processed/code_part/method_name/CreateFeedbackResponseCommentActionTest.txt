@@ -1,0 +1,29 @@
+action uri 
+request method 
+prepar test data 
+test execut 
+test execut invalid http paramet fail 
+test execut unpublish session instructor result pass 
+test execut unpublish session empti giver permiss pass 
+test execut unpublish session valid visibl set pass 
+test execut publish session instructor result pass 
+test execut empti comment text fail 
+test execut typic case submiss pass 
+test execut invalid intent fail 
+test access control 
+test access control text type question respons add comment 
+test access control contribut question respons instructor add comment 
+test execut comment alreadi exist creat 
+test access control submit comment respons fail 
+test access control invalid intent fail 
+test access control instructor submit session section privileg fail 
+test access control log fail 
+test access control student access instructor respons fail 
+test access control access instructor cours pass 
+test access control access admin masquerad instructor pass 
+test access control onli instructor correct privileg pass 
+test access control onli instructor onli privileg fail 
+test access control instructor submiss time befor deadlin 
+test access control student submiss time befor deadlin 
+submiss param cross section respons 
+instructor comment 

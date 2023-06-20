@@ -1,0 +1,7 @@
+doi accept valid input 
+doi accept empti input 
+doi accept valid input onli number 
+doi accept valid input matter length doi 
+doi doe accept invalid input 
+doi doe accept input typo part 
+doi doe accept input typo part 

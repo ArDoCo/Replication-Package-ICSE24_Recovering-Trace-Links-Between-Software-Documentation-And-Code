@@ -1,0 +1,2 @@
+eprint identifi editor view model 
+bind entri 

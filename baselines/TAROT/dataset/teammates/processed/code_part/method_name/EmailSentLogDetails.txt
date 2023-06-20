@@ -1,0 +1,14 @@
+email sent log detail 
+email recipi 
+set email recipi 
+email subject 
+set email subject 
+email content 
+set email content 
+email type 
+set email type 
+email status 
+set email status 
+email status messag 
+set email status messag 
+hide sensit inform 

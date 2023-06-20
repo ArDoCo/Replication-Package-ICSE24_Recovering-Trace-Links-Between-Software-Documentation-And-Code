@@ -1,0 +1,15 @@
+oo bib base connect 
+simpl bootstrap 
+close offic connect 
+text document 
+select document dialog 
+document titl view model 
+xtext document 
+string 
+select document 
+forget document 
+connect document 
+document connect 
+text document throw 
+text document 
+current document titl 

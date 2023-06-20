@@ -1,0 +1,15 @@
+instructor student record page 
+header text 
+
+
+browser 
+cours id 
+student 
+student 
+
+
+instructor student record page 
+expect page content 
+verifi correct page 
+verifi student detail 
+

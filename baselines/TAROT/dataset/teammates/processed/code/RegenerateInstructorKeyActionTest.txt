@@ -1,0 +1,15 @@
+regener instructor key action test 
+
+
+
+
+action uri 
+request method 
+base class setup 
+test execut paramet 
+test execut exist cours fail 
+test execut exist instructor cours fail 
+test execut regener instructor key 
+test execut 
+test access control 
+

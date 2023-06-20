@@ -1,0 +1,6 @@
+updat bibliographi 
+bibliographi rang 
+rebuild bib text section 
+creat bib text section 
+clear bib text section content 
+popul bib text section 

@@ -1,0 +1,27 @@
+import format prefer 
+file monitor 
+bibtex string 
+import format prefer 
+file monitor 
+input stream 
+bibtex string 
+
+line separ 
+type 
+meta 
+context 
+string purg 
+input 
+charact 
+charact 
+charact 
+entri type 
+entri 
+field 
+remov 
+string builder 
+charact 
+expect 
+expect 
+option 
+option 

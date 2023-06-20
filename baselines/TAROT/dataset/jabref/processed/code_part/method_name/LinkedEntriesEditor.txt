@@ -1,0 +1,4 @@
+link entri editor 
+view model 
+bind entri 
+node 

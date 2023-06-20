@@ -1,0 +1,5 @@
+test file creat 
+path studi definit file 
+set 
+set repositori 
+set test studi definit file 

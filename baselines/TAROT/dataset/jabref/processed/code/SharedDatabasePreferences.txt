@@ -1,0 +1,69 @@
+share databas prefer 
+logger 
+default node 
+prefer path 
+share databas type 
+share databas host 
+share databas port 
+share databas 
+share databas user 
+share databas password 
+share databas folder 
+share databas autosav 
+share databas rememb password 
+share databas ssl 
+share databas keystor file 
+share databas server timezon 
+intern pref 
+
+
+share databas id 
+type 
+host 
+port 
+
+user 
+password 
+rememb password 
+folder 
+autosav 
+ssl 
+keystor file 
+server timezon 
+key 
+properti 
+
+databas connect properti 
+
+share databas prefer 
+share databas prefer 
+type 
+host 
+port 
+
+user 
+password 
+key store file 
+server timezon 
+rememb password 
+folder 
+autosav 
+ssl 
+set type 
+set host 
+set port 
+set 
+set user 
+set password 
+set rememb password 
+set folder 
+set autosav 
+set ssl 
+set keystor file 
+set server timezon 
+clear password 
+clear 
+option valu 
+clear 
+put dbms connect properti 
+

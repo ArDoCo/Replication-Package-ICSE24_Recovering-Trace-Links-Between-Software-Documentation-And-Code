@@ -1,0 +1,27 @@
+feedback session 
+cours id 
+question text 
+question descript 
+question number 
+question type 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 
+date 
+date 
+feedback question id 
+feedback session 
+cours id 
+question text 
+question descript 
+question type 
+question number 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show giver 
+show recipi 

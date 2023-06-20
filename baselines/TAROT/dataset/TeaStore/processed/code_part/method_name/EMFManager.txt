@@ -1,0 +1,6 @@
+emf manag 
+configur emf properti 
+emf 
+clear emf 
+creat persist properti java env 
+creat persist properti memori db 

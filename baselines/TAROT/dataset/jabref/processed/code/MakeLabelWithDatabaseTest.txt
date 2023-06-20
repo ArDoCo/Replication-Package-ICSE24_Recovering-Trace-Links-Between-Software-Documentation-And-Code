@@ -1,0 +1,64 @@
+label databas test 
+databas 
+prefer 
+pattern 
+bibtex key pattern 
+entri 
+
+citat key pattern prefer 
+bib entri 
+
+
+
+set 
+generat default key 
+generat default key alreadi exist duplic start 
+generat default key alway letter 
+generat default key alway letter alreadi exist duplic start 
+generat default key start duplic 
+generat default key alreadi exist duplic start 
+generat default key alreadi exist mani duplic 
+generat default key alreadi exist 
+generat key auth modifi 
+generat key auth upper modifi 
+generat key auth titl case modifi 
+generat key auth sentenc case modifi 
+generat key auth capit modifi 
+generat default key fix valu 
+generat key short year 
+generat key auth 
+generat key auth short 
+generat key empti field 
+generat key empti field default text 
+generat key empti field colon default text 
+generat key titl 
+generat key titl abbr 
+generat key shorttitl 
+generat key shorttitl modifi 
+generat key shorttitl upper modifi 
+generat key shorttitl titl case modifi 
+generat key shorttitl sentenc case modifi 
+generat key shorttitl capit modifi 
+generat key veryshorttitl 
+generat key veryshorttitl modifi 
+generat key veryshorttitl upper modifi 
+generat key veryshorttitl titl case modifi 
+generat key veryshorttitl sentenc case modifi 
+generat key veryshorttitl capit modifi 
+generat key shorttitl ini 
+generat key camel 
+generat key auth nm 
+generat key auth nm larg 
+generat key auth nm larg 
+generat key auth nm larg realli return empti string 
+generat key reg replac 
+generat key auth ini 
+generat key auth ini mani 
+generat key titl regex 
+generat key titl titl case 
+generat key titl capit 
+generat key titl sentenc case 
+generat key titl titl case abbr 
+generat key titl capit abbr 
+generat key titl sentenc case abbr 
+

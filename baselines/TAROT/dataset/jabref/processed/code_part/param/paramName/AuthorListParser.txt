@@ -1,0 +1,8 @@
+index array 
+list 
+list 
+token 
+start 
+
+offset 
+dot 

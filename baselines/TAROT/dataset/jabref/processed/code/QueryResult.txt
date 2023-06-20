@@ -1,0 +1,16 @@
+queri result 
+queri 
+result librari 
+result librari 
+
+fetch result 
+
+queri 
+result librari 
+
+fetch result 
+
+queri result 
+queri 
+result fetcher 
+

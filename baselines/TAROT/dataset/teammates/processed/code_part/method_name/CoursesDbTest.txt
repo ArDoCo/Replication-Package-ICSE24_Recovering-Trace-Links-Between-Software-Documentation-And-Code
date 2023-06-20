@@ -1,0 +1,9 @@
+test creat cours 
+test cours 
+test cours 
+test updat cours chang cours issu save request 
+test updat cours 
+test updat cours singl field updat updat correct 
+test delet cours 
+test soft delet cours 
+creat cours 

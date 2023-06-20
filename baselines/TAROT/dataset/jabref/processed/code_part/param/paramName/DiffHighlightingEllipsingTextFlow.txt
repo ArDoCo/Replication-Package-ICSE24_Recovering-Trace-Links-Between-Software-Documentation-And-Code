@@ -1,0 +1,6 @@
+full text 
+comparison string 
+diff mode 
+extend 
+ 
+valu 

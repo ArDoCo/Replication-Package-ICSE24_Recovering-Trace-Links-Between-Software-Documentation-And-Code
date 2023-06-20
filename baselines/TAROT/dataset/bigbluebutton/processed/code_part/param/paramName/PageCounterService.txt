@@ -1,0 +1,6 @@
+pres 
+number page 
+number page 
+pres 
+max page 
+page counter 

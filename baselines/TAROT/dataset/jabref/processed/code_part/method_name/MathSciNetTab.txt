@@ -1,0 +1,5 @@
+math sci net tab 
+math sci net id 
+pane 
+show 
+bind entri 

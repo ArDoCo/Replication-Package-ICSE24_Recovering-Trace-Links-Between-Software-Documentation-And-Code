@@ -1,0 +1,94 @@
+instructor feedback result page 
+expect page content 
+verifi session detail 
+unpublish session result 
+publish session result 
+download result 
+sort respons 
+verifi respons panel detail 
+remind respond 
+includ group team 
+includ respons 
+includ statist 
+expand panel 
+filter section 
+unfilt respons 
+verifi qn view respons 
+verifi grq view respons 
+verifi rgq view respons 
+verifi gqr view respons 
+verifi rqg view respons 
+verifi question text 
+verifi group respons 
+verifi qn view stat 
+verifi gqr view stat 
+verifi rqg view stat 
+verifi user view stat 
+verifi statist 
+verifi mcq statist 
+verifi qn view stat hidden 
+verifi gqr view stat hidden 
+verifi rqg view stat hidden 
+panel stat 
+verifi stat hidden 
+verifi qn view comment 
+verifi gqr view comment 
+verifi rqg view comment 
+verifi grq view comment 
+verifi rgq view comment 
+verifi respons row comment 
+verifi group respons comment 
+verifi comment detail 
+verifi respons messag 
+expect respons detail 
+expect qn view detail 
+expect gqr detail 
+expect rqg detail 
+mcq respons summari 
+mcq recipi statist 
+answer string 
+rubric string 
+rank option string 
+const sum option string 
+contrib string 
+user header 
+session durat string 
+date string 
+doubl string 
+respons tabl 
+includ option 
+select view type 
+select section dropdown 
+select section type dropdown 
+question panel 
+question panel 
+section panel 
+team panel 
+user panel 
+user panel 
+user panel 
+user parent panel 
+expand question panel 
+hide question panel 
+question panel expand 
+question text 
+respons tabl 
+respons row 
+respons row 
+group respons 
+group respons 
+team stat 
+comment giver 
+comment editor 
+comment field 
+comment field 
+respons 
+filter respons 
+giver 
+recipi 
+respons giver 
+respons recipi 
+section 
+team 
+
+email 

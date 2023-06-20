@@ -1,0 +1,56 @@
+citat key generat 
+appendix charact 
+default unwant charact 
+logger 
+disallow charact 
+disallow charact 
+cite key pattern 
+databas 
+citat key pattern prefer 
+unwant charact 
+
+abstract citat key pattern 
+bib databas 
+citat key pattern prefer 
+
+bib databas context 
+citat key pattern prefer 
+cite key pattern 
+databas 
+citat key pattern prefer 
+number 
+key 
+key 
+unwant charact 
+key 
+unwant charact 
+entri 
+key 
+key 
+key 
+entri 
+entri 
+entri 
+
+citat key pattern prefer 
+abstract citat key pattern 
+bib databas 
+citat key pattern prefer 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+
+citat key generat 
+citat key generat 
+appendix 
+remov default unwant charact 
+remov unwant charact 
+clean key 
+generat key 
+append letter key 
+replac regex 
+creat citat key pattern 
+expand bracket content 
+generat set key 
+

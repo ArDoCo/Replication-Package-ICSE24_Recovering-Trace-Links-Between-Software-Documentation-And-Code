@@ -1,0 +1,13 @@
+
+file type 
+id 
+descript 
+recogn format 
+process 
+process capit 
+import databas 
+pars page 
+pars month 
+isi author convert 
+isi author convert 
+isi author convert 

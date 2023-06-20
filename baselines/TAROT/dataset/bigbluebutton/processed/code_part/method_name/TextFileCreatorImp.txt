@@ -1,0 +1,4 @@
+creat text file 
+generat text file 
+determin textfil directori 
+clean directori 

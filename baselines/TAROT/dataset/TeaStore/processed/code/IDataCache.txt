@@ -1,0 +1,23 @@
+data cach 
+std max cach size 
+
+
+size 
+data 
+data 
+data 
+id 
+cach size 
+
+
+max cach size 
+current cach size 
+free space 
+storag 
+cach data 
+uncach data 
+data cachabl 
+data cach 
+clear cach 
+set max cach size 
+

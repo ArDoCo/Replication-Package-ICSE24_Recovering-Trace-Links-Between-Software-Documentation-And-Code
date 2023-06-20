@@ -1,0 +1,4 @@
+remot client 
+ping 
+send command line argument 
+open connect 

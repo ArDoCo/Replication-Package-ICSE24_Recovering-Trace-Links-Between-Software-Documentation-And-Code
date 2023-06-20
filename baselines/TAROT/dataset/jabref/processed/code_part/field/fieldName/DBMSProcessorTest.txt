@@ -1,0 +1,3 @@
+dbms connect 
+dbms processor 
+dbms type 

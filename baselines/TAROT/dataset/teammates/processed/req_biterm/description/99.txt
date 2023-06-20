@@ -1,0 +1,2 @@
+null paramet:amod
+assert failur:compound

@@ -1,0 +1,60 @@
+file prefer 
+default filenam pattern 
+user 
+main file directori 
+store file relat bib file 
+file pattern 
+file directori pattern 
+download link file 
+fulltext index link file 
+work directori 
+work directori 
+extern file type 
+extern file type 
+
+extern file type 
+
+user 
+main file directori 
+store file relat bib file 
+file pattern 
+file directori pattern 
+download link file 
+fulltext index link file 
+work directori 
+extern file type 
+main file directori 
+store file relat bib file 
+file pattern 
+file directori pattern 
+download link file 
+fulltext index link file 
+work directori 
+
+extern file type 
+
+file prefer 
+user 
+main file directori 
+main file directori properti 
+set main file directori 
+store file relat bib file 
+store file relat bib file properti 
+set store file relat bib file 
+file pattern 
+file pattern properti 
+set file pattern 
+file directori pattern 
+file directori pattern properti 
+set file directori pattern 
+download link file 
+download link file properti 
+set download link file 
+fulltext index link file 
+fulltext index link file properti 
+set fulltext index link file 
+work directori 
+work directori properti 
+set work directori 
+extern file type 
+

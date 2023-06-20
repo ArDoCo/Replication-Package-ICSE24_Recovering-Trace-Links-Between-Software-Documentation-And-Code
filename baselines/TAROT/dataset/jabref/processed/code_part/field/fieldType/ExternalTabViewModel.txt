@@ -1,0 +1,8 @@
+push applic 
+push applic 
+dialog servic 
+prefer servic 
+file dialog configur 
+extern applic prefer 
+push applic prefer 
+push applic prefer 

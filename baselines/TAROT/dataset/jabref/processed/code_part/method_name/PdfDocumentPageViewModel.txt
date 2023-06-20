@@ -1,0 +1,5 @@
+pdf document page view model 
+resiz 
+render 
+page number 
+aspect ratio 

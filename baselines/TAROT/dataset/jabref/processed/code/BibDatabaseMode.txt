@@ -1,0 +1,11 @@
+bib databas mode 
+
+
+data 
+
+
+format 
+opposit mode 
+pars 
+string 
+

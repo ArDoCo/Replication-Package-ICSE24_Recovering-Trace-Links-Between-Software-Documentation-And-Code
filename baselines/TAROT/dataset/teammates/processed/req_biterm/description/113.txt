@@ -1,0 +1,6 @@
+general throw:advcl
+delet oper:amod
+oper throw:nsubj
+target entiti:compound
+entiti exist:nsubj
+exist throw:advcl

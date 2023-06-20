@@ -1,0 +1,8 @@
+jab ref gui 
+open window 
+open databas 
+save window state 
+debug log window state 
+window posit bound 
+open edit databas 
+main frame 

@@ -1,0 +1,15 @@
+edit action 
+execut 
+sourc tab 
+highlight search pattern 
+sourc string 
+select text 
+locat offset 
+cancel latest commit text 
+text locat 
+setup sourc editor 
+show 
+updat code area 
+bind entri 
+store sourc 
+listen save keybind 

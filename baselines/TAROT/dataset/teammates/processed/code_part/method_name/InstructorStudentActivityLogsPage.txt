@@ -1,0 +1,18 @@
+instructor student activ log page 
+expect page content 
+start search 
+log present session 
+activ type 
+student 
+log date 
+log date 
+log time 
+log time 
+session 
+set activ type 
+set student 
+set log date time 
+set log date time 
+set session dropdown 
+time string 
+set date time 

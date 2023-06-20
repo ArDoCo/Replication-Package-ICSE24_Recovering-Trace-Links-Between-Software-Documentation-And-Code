@@ -1,0 +1,1 @@
+sudo bbb conf setip hostnam sudo bbb conf restart bbb conf run bigbluebutton bbb conf appli config shutdown restart big blue button process 

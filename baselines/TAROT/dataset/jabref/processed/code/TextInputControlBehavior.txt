@@ -1,0 +1,14 @@
+text input control behavior 
+
+
+text field 
+context menu 
+ 
+text area 
+context menu 
+ 
+
+
+show context menu 
+show context menu 
+

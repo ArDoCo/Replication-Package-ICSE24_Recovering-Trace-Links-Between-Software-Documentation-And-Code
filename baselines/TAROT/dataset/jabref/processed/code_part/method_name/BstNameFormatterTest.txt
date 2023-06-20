@@ -1,0 +1,13 @@
+test umlaut full 
+test umlaut abbrevi 
+test umlaut abbrevi question mark 
+test format 
+assert format 
+assert format 
+assert format 
+assert format 
+match brace consum complet word 
+match brace consum brace word 
+test consum match brace 
+test char string 
+test number char 

@@ -1,0 +1,117 @@
+state manag 
+logger 
+local dragboard 
+open databas 
+open databas 
+activ databas 
+activ databas 
+activ group 
+activ group 
+select entri 
+select entri 
+select group 
+select group 
+activ search queri 
+activ search queri 
+search result map 
+search result map 
+focus owner 
+focus owner 
+background task 
+background task 
+ani task run 
+ani task run 
+ani task recov run 
+ani task recov run 
+task progress 
+task progress 
+dialog window state 
+dialog window state 
+visibl side pane 
+visibl side pane 
+automat field editor edit 
+automat field editor edit 
+search histori 
+search histori 
+
+custom local dragboard 
+bib databas context 
+option object properti 
+bib databas context 
+group tree node 
+bib entri 
+bib databas context 
+option object properti 
+search queri 
+bib databas context 
+option object properti 
+side pane type 
+automat field editor edit 
+
+databas 
+result size 
+select entri 
+databas 
+select group 
+databas 
+databas 
+databas 
+search queri 
+background task 
+task 
+class 
+class 
+state 
+automat field editor edit 
+search 
+size 
+
+bib databas context 
+bib entri 
+bib databas context 
+group tree node 
+bib databas context 
+bib databas context 
+bib databas context 
+search queri 
+background task 
+dialog window state 
+automat field editor edit 
+
+state manag 
+visibl side pane compon 
+local dragboard 
+open databas 
+activ databas properti 
+activ search queri properti 
+set activ search result size 
+search result size 
+activ group properti 
+select entri 
+set select entri 
+set select group 
+select group 
+clear select group 
+activ databas 
+set activ databas 
+entri current databas 
+clear search queri 
+set search queri 
+focus owner properti 
+focus owner 
+background task 
+add background task 
+ani task run 
+ani task recov run 
+task progress 
+dialog window state 
+set dialog window state 
+automat field editor edit properti 
+automat field editor edit 
+set automat field editor edit 
+collect databas path 
+add search histori 
+search histori 
+search histori 
+clear search histori 
+

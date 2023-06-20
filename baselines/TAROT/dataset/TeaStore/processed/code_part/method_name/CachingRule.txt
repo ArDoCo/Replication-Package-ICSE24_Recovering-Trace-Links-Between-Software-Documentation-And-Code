@@ -1,0 +1,3 @@
+cach rule 
+str represent 
+cach rule string 

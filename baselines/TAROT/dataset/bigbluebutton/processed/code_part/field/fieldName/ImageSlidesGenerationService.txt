@@ -1,0 +1,13 @@
+log 
+executor 
+notifi 
+svg imag creator 
+thumbnail creator 
+text file creator 
+png creator 
+imag resiz 
+max imag width 
+max imag height 
+max convers time 
+svg imag requir 
+generat pngs 

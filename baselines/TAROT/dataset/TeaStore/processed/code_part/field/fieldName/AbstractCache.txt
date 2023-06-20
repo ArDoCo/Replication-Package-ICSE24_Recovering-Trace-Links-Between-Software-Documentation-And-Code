@@ -1,0 +1,9 @@
+cach storag 
+cach storag 
+entri 
+max cach size 
+current cach size 
+cach rule 
+cach rule 
+log 
+lock 

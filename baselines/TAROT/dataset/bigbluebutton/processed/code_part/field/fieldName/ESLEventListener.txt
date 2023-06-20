@@ -1,0 +1,14 @@
+log 
+start talk event 
+stop talk event 
+start record event 
+stop record event 
+confer creat event 
+confer destroy event 
+floor chang event 
+confer event listen 
+global audion pattern 
+callernam pattern 
+callernam sess info pattern 
+callernam listenon pattern 
+echo test dest pattern 

@@ -1,0 +1,4 @@
+logger 
+dbms synchron 
+pg connect 
+stop 

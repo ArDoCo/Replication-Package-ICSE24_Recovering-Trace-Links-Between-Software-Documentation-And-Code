@@ -1,0 +1,29 @@
+abbrevi file view model 
+abbrevi 
+abbrevi 
+built list 
+
+path 
+path 
+
+abbrevi view model 
+
+file path 
+abbrevi 
+
+obj 
+
+abbrevi view model 
+
+abbrevi file view model 
+abbrevi file view model 
+read abbrevi 
+write creat 
+abbrevi properti 
+exist 
+absolut path 
+built list properti 
+string 
+hash code 
+equal 
+

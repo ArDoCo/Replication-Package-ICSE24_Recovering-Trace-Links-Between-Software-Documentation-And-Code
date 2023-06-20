@@ -1,0 +1,4 @@
+messag 
+sever 
+trace id 
+log entri 

@@ -1,0 +1,11 @@
+recogn format null buffer reader throw 
+recogn format null string throw 
+import databas null buffer reader throw 
+import databas null string throw 
+formatt doe return null 
+file type doe return null 
+id doe return null 
+id doe whitespac 
+id strip special charact convert lowercas 
+descript doe return null 
+instanc test 

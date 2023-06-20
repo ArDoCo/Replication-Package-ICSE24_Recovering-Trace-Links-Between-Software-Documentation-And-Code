@@ -1,0 +1,26 @@
+tree collector 
+children 
+children 
+add child 
+add child 
+equival 
+equival 
+
+
+children 
+add child 
+equival 
+equival 
+target 
+node 
+
+
+tree collector 
+merg tree 
+supplier 
+accumul 
+merg 
+combin 
+finish 
+characterist 
+

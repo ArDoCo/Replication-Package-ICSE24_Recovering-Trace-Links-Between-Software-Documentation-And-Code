@@ -1,0 +1,71 @@
+titl 
+content 
+button label 
+default choic 
+choic 
+titl 
+content 
+button label 
+choic 
+titl 
+content 
+titl 
+content 
+default valu 
+titl 
+content 
+titl 
+content 
+titl 
+content 
+messag 
+
+
+titl 
+content 
+
+messag 
+titl 
+content 
+titl 
+content 
+button label 
+titl 
+content 
+button label 
+cancel button label 
+titl 
+content 
+opt messag 
+opt action 
+titl 
+content 
+button label 
+cancel button label 
+opt messag 
+opt action 
+titl 
+header 
+content 
+dialog 
+type 
+titl 
+content 
+button type 
+titl 
+content pane 
+button type 
+dialog 
+titl 
+content 
+task 
+titl 
+content 
+state manag 
+messag 
+file dialog configur 
+file dialog configur 
+file dialog configur 
+directori dialog configur 
+job 
+archiv path 

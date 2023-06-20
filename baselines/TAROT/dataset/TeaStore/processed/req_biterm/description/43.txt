@@ -1,0 +1,12 @@
+limit enabl:advcl
+singl instanc:amod
+registri instanc:compound
+instanc limit:obl
+easi configur:amod
+configur enabl:obj
+multipl tea store:amod
+parallel tea store:amod
+tea store configur:nmod
+minim overhead:amod
+configur overhead:compound
+overhead enabl:obl

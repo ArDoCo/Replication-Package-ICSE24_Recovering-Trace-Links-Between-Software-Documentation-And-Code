@@ -1,0 +1,72 @@
+ital al 
+multi cite chronolog 
+minimum group count 
+al string 
+max author 
+refer header paragraph format 
+refer paragraph format 
+titl 
+undefin citat marker 
+num pattern 
+layout mrk 
+properti mark 
+citat mark 
+mark 
+journal mark 
+default mark 
+bracket list 
+bracket befor list 
+uniquefi separ 
+citat key citat 
+subscript citat 
+superscript citat 
+bold citat 
+ital citat 
+citat charact format 
+format citat 
+group number separ 
+citat group markup befor 
+citat group markup 
+author part markup befor 
+author part markup 
+author list markup befor 
+author list markup 
+author markup befor 
+author markup 
+page info separ 
+citat separ 
+text year separ 
+max author 
+year field 
+author field 
+bracket 
+bracket befor 
+number entri 
+sort posit 
+sort algorithm 
+oxford comma 
+year separ 
+author separ text 
+author separ 
+author separ 
+quot 
+logger 
+journal 
+journal 
+field formatt 
+bib layout 
+bib layout 
+properti 
+properti 
+cit properti 
+cit properti 
+resourc 
+path 
+pref 
+
+default bib layout 
+valid 
+style file 
+style file modif time 
+local copi 
+default layout present 

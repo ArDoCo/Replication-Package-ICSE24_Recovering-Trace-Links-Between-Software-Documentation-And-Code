@@ -1,0 +1,12 @@
+databas writer 
+databas 
+meta data 
+bibtex context 
+import format prefer 
+file monitor 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+string writer 
+bib writer 

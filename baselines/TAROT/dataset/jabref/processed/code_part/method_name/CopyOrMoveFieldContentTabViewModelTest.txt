@@ -1,0 +1,7 @@
+setup 
+copi valu doe copi blank valu 
+swap valu swap field valu valu blank 
+swap valu swap field valu valu blank 
+move valu move valu field blank overwrit enabl 
+move valu move valu overwrit enabl 
+field view model 

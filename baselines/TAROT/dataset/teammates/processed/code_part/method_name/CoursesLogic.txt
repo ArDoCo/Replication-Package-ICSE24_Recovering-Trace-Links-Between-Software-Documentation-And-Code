@@ -1,0 +1,20 @@
+cours logic 
+inst 
+init logic depend 
+cours institut 
+creat cours 
+creat cours instructor 
+cours 
+cours present 
+verifi cours present 
+section cours 
+team cours 
+team section 
+cours student account 
+cours instructor 
+soft delet cours instructor 
+updat cours cascad 
+delet cours cascad 
+move cours recycl bin 
+restor cours recycl bin 
+num cours time rang 

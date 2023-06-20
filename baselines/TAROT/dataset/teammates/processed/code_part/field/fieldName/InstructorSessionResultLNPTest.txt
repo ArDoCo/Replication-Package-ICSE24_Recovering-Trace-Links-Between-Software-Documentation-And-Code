@@ -1,0 +1,12 @@
+ramp period 
+number user account 
+number question 
+size team 
+size section 
+student 
+student email 
+instructor email 
+cours id 
+feedback session 
+error rate limit 
+resp time limit 

@@ -1,0 +1,10 @@
+member id 
+flag 
+uuid 
+caller id 
+caller id 
+join time 
+talk 
+member type 
+record path 
+record start time 

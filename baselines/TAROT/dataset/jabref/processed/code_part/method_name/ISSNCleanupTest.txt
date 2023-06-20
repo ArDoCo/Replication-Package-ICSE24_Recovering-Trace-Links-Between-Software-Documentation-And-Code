@@ -1,0 +1,4 @@
+set 
+cleanup issn return correct issn 
+cleanup issn add dash 
+cleanup issn junk stay junk 

@@ -1,0 +1,4 @@
+detail page 
+cours 
+instructor 
+student 

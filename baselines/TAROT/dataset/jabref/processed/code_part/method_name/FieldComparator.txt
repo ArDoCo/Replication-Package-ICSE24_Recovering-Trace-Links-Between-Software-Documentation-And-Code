@@ -1,0 +1,7 @@
+field compar 
+field compar 
+field compar 
+collat 
+determin field type 
+field valu 
+compar 

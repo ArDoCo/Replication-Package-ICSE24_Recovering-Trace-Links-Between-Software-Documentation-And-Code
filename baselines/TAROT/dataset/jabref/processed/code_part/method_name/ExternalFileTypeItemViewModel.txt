@@ -1,0 +1,9 @@
+extern file type item view model 
+extern file type item view model 
+icon properti 
+
+properti 
+extens properti 
+mimetyp properti 
+applic properti 
+extern file type 

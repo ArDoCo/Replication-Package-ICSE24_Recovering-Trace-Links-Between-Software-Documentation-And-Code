@@ -1,0 +1,11 @@
+recommend generat:nsubj
+base user:case
+user generat:advcl
+current cart:amod
+shop cart:compound
+cart user:dep
+user order:nmod
+previous order:amod
+order cart:appos
+item generat:advcl
+item user:conj

@@ -1,0 +1,14 @@
+cours 
+cours 
+uniqu id 
+set uniqu id 
+
+set 
+creat 
+set creat 
+delet 
+set delet 
+time zone 
+set time zone 
+institut 
+set institut 

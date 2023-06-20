@@ -1,0 +1,44 @@
+feedback question recipi action test 
+session cours 
+session cours 
+session cours 
+student cours 
+student cours 
+instructor cours 
+instructor cours 
+
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+
+session 
+question number 
+intent 
+reg key 
+moder person 
+preview person 
+param 
+expect 
+actual 
+
+feedback session attribut 
+feedback question recipi data 
+feedback question recipi data 
+
+prepar test data 
+action uri 
+request method 
+test execut 
+test execut invalid intend fail 
+test execut moder preview person recipi return recipi giver 
+test execut differ recipi type return recipi correct 
+test access control 
+test access control student submiss 
+test access control instructor submiss 
+typic data bundl 
+generat paramet 
+recipi 
+verifi feedback question recipi data equal 
+

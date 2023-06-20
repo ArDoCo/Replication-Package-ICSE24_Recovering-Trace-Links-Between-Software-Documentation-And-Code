@@ -1,0 +1,22 @@
+logic extens 
+
+
+feedback session 
+cours id 
+question number 
+feedback question id 
+giver email 
+recipi 
+respons id 
+giver email 
+creation date 
+respons id 
+feedback question id 
+
+
+feedback question 
+feedback respons 
+feedback respons comment 
+feedback respons comment respons 
+feedback respons question 
+

@@ -1,0 +1,6 @@
+text 
+layout formatt prefer 
+layout 
+text 
+entri 
+databas context 

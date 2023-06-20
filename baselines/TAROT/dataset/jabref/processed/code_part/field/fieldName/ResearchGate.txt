@@ -1,0 +1,7 @@
+logger 
+host 
+googl search 
+googl site 
+search 
+search bib entri 
+format prefer 

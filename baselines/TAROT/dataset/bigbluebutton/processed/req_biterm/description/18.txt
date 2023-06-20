@@ -1,0 +1,11 @@
+nodej run:nsubj
+run fail:advcl
+singl core:amod
+cpu core:compound
+core run:obl
+cpu server:compound
+core server:compound
+big blue button server:nmod
+yield fail:xcomp
+addit scalabl:amod
+scalabl yield:obj

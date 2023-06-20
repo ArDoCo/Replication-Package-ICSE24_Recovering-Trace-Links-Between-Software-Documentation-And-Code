@@ -1,0 +1,3 @@
+prepar test data 
+test 
+student detail view page url 

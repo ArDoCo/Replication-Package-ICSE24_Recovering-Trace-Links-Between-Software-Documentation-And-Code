@@ -1,0 +1,43 @@
+gui prefer 
+posit 
+posit properti 
+set posit 
+posit 
+posit properti 
+set posit 
+size 
+size properti 
+set size 
+size 
+size properti 
+set size 
+window maximis 
+window maximis properti 
+set window maximis 
+file open 
+set file open 
+focus file 
+focus file properti 
+set focus file 
+file histori 
+select id base fetcher 
+select id base fetcher properti 
+set select id base fetcher 
+merg diff mode 
+merg diff mode properti 
+set merg diff mode 
+merg show diff 
+merg show diff properti 
+set merg show diff 
+merg show unifi diff 
+merg show unifi diff properti 
+set merg show unifi diff 
+merg highlight word 
+merg highlight word properti 
+set merg highlight word 
+side pane width 
+side pane width properti 
+set side pane width 
+merg show chang field onli properti 
+merg show chang field onli 
+set merg show chang fiel onli 

@@ -1,0 +1,33 @@
+feedback rank option question detail 
+question type 
+min num option 
+error invalid max option enabl 
+error invalid min option enabl 
+error min option enabl choic 
+error max option enabl choic 
+error option 
+error empti option enter 
+error duplic rank respons 
+error invalid rank respons 
+option 
+option 
+
+
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+option 
+
+
+feedback rank option question detail 
+feedback rank option question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+option 
+set option 
+

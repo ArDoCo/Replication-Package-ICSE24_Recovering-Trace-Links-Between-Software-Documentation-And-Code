@@ -1,0 +1,10 @@
+group quot char 
+group unit separ 
+keyword group id 
+entri group id 
+legaci explicit group id 
+explicit group id 
+search group id 
+automat person group id 
+automat keyword group id 
+tex group id 

@@ -1,0 +1,27 @@
+manag citat dialog view 
+html bold tag 
+html bold start tag 
+oo base 
+citat tabl view 
+citat tabl view 
+citat 
+citat 
+extra info 
+extra info 
+dialog servic 
+view model 
+
+oo bib base 
+dialog servic 
+manag citat dialog view model 
+
+oo base 
+citat context 
+
+oo bib base 
+
+manag citat dialog view 
+initi 
+text 
+show dialog 
+

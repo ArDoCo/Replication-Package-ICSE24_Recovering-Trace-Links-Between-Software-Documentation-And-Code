@@ -1,0 +1,8 @@
+pdf font type detector handler 
+log 
+
+
+
+
+font type 
+

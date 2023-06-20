@@ -1,0 +1,11 @@
+renam field view model 
+field valid status 
+field valid status 
+renam properti 
+field 
+field properti 
+set field 
+select field 
+select field properti 
+select field 
+renam field 

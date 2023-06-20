@@ -1,0 +1,10 @@
+extract 
+generat entiti 
+find url 
+find year 
+find author 
+find author pattern 
+generat author 
+find page 
+fix space 
+find part 

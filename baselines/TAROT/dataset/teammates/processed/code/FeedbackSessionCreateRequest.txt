@@ -1,0 +1,19 @@
+feedback session creat request 
+feedback session 
+copi cours id 
+copi session 
+
+
+feedback session 
+copi cours id 
+copi session 
+
+
+feedback session 
+copi cours id 
+copi session 
+set feedback session 
+set copi cours id 
+set copi session 
+valid 
+

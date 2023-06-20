@@ -1,0 +1,14 @@
+toggl merg unmerg button 
+configur merg button 
+configur unmerg button 
+field state properti 
+set field state 
+field state 
+merg properti 
+merg 
+set merg 
+icon 
+text 
+icon 
+text 
+execut 

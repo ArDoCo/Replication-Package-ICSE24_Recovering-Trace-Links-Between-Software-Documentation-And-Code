@@ -1,0 +1,32 @@
+dbms synchron test 
+dbms synchron 
+bib databas 
+pattern 
+dbms connect 
+dbms processor 
+dbms type 
+
+dbms synchron 
+bib databas 
+global citat key pattern 
+dbms connect 
+dbms processor 
+dbms type 
+
+index 
+
+
+creat exampl bib entri 
+setup 
+clear 
+test entri ad event listen 
+local field chang synchron correct 
+local share field chang synchron correct 
+test entri remov event listen 
+test meta data chang event listen 
+test initi databas 
+test synchron local databas entri remov 
+test synchron local databas entri updat 
+updat entri doe modifi local databas 
+test appli meta data 
+

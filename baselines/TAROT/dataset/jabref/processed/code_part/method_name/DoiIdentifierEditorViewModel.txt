@@ -1,0 +1,4 @@
+doi identifi editor view model 
+lookup identifi 
+fetch bibliographi inform 
+open extern link 

@@ -1,0 +1,16 @@
+unknown version 
+os 
+os version 
+os arch 
+java version 
+version 
+maintain 
+year 
+azur instrument key 
+springer natur api key 
+astrophys data system api key 
+ieee api key 
+scienc direct api key 
+min requir java version 
+java 
+biodivers heritag api key 

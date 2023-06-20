@@ -1,0 +1,2 @@
+core logic:compound
+system logic:nmod

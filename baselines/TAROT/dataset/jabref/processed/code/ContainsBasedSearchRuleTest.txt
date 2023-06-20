@@ -1,0 +1,14 @@
+base search rule test 
+
+bs case sensit 
+bs case insensit 
+bs case sensit regexp 
+bs case insensit regexp 
+
+
+
+
+test content singl field 
+test content distribut multipl field 
+test regular express match 
+

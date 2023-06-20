@@ -1,0 +1,21 @@
+rang overlap check 
+refer mark kind 
+footnot mark kind 
+cursor mark kind 
+bibliographi mark kind 
+rang 
+kind 
+id kind 
+descript 
+
+
+rang 
+id kind 
+kind 
+descript 
+
+
+rang overlap check 
+format 
+rang 
+

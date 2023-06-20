@@ -1,0 +1,13 @@
+main tabl column factori 
+creat column 
+creat column 
+set exact width 
+creat index column 
+creat group column 
+creat group color region 
+creat field column 
+creat identifi column 
+creat special field column 
+creat file column 
+creat extra file column 
+creat librari column 

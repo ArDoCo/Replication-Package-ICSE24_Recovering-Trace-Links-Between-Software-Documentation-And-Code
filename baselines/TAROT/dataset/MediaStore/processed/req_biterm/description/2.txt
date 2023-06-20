@@ -1,0 +1,4 @@
+user authent:compound
+authent requir:compound
+requir meet:obj
+log registr:conj

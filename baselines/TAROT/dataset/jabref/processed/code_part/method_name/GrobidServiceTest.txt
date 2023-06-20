@@ -1,0 +1,6 @@
+setup 
+process valid citat test 
+process empti string test 
+process invalid citat test 
+fail grobid disabl 
+process pdf test 

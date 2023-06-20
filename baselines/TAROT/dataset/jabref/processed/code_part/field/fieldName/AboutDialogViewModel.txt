@@ -1,0 +1,17 @@
+homepag url 
+donat url 
+librari url 
+github url 
+licens url 
+contributor url 
+changelog url 
+version info 
+environ info 
+logger 
+head 
+maintain 
+licens 
+develop version 
+dialog servic 
+develop version 
+clip board manag 

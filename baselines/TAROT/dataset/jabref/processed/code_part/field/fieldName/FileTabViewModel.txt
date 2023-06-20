@@ -1,0 +1,8 @@
+wrap file properti 
+resolv string properti 
+resolv string properti 
+resolv string field properti 
+alway reformat bib properti 
+autosav local librari 
+import export prefer 
+field prefer 

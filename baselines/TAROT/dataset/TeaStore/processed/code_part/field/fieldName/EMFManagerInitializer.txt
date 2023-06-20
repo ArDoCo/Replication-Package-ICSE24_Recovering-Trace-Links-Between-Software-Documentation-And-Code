@@ -1,0 +1,4 @@
+ddl properti 
+ddl valu 
+ddl output properti 
+ddl output valu 

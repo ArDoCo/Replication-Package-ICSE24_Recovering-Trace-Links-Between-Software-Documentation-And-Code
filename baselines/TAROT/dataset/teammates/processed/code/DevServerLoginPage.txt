@@ -1,0 +1,14 @@
+dev server login page 
+email text box 
+login button 
+
+
+browser 
+usernam 
+
+browser 
+
+dev server login page 
+expect page content 
+login user 
+

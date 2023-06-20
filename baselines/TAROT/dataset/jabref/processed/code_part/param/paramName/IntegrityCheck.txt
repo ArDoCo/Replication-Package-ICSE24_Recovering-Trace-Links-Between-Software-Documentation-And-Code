@@ -1,0 +1,7 @@
+bib databas context 
+file prefer 
+citat key pattern prefer 
+journal abbrevi repositori 
+integ edit 
+entri 
+databas 

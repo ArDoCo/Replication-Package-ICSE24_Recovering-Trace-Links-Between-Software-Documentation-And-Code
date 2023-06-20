@@ -1,0 +1,9 @@
+master databas 
+uniqu key 
+uniqu key 
+unresolv key 
+unresolv key 
+aux databas 
+nest aux count 
+cross ref entri count 
+insert string 

@@ -1,0 +1,2 @@
+record info 
+write record info 

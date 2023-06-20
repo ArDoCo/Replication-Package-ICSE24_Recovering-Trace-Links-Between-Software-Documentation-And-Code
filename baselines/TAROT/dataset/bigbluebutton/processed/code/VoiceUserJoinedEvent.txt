@@ -1,0 +1,31 @@
+voic user join event 
+voic user id 
+caller id num 
+caller id 
+mute 
+speak 
+lock 
+user id 
+call 
+
+
+user id 
+voic user id 
+room 
+caller id num 
+caller id 
+mute 
+speak 
+call 
+
+
+voic user join event 
+user id 
+voic user id 
+caller id num 
+caller id 
+mute 
+speak 
+lock 
+call 
+

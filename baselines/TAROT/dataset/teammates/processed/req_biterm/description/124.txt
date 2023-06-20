@@ -1,0 +1,2 @@
+persist object:amod
+object hide:obj

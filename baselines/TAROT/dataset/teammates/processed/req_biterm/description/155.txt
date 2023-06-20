@@ -1,0 +1,2 @@
+common compon:amod
+common util:amod

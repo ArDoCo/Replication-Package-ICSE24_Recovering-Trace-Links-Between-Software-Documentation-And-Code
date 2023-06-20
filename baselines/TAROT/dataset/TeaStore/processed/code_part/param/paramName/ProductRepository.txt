@@ -1,0 +1,8 @@
+entiti 
+id 
+entiti 
+categori id 
+start 
+limit 
+categori id 
+ 

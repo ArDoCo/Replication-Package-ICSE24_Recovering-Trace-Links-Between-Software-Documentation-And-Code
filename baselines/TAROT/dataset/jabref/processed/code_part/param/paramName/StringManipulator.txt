@@ -1,0 +1,20 @@
+offset 
+text 
+caret posit 
+target case 
+caret posit 
+text 
+direct 
+caret posit 
+text 
+direct 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 

@@ -1,0 +1,14 @@
+file languag 
+ensur duplic 
+key valu equal english properti messag 
+languag key underscor space 
+languag key html br html 
+find local key 
+find obsolet local key 
+local paramet includ string 
+instal languag 
+resourc bundl exist 
+languag load 
+duplic detect properti 
+put 
+duplic 

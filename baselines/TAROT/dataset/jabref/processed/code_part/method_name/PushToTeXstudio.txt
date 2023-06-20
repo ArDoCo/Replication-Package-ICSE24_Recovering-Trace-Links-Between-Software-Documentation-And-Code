@@ -1,0 +1,4 @@
+push te xstudio 
+display 
+applic icon 
+command line 

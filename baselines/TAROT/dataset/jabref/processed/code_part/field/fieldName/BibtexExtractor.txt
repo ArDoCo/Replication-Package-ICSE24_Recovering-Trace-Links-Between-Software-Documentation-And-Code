@@ -1,0 +1,20 @@
+author tag 
+url tag 
+year tag 
+page tag 
+initi group 
+lastnam group 
+url pattern 
+year pattern 
+author pattern 
+author pattern 
+page pattern 
+url 
+url 
+author 
+author 
+year 
+page 
+titl 
+articl 
+journal publish 

@@ -1,0 +1,3 @@
+system communic:obl
+user registr:nmod
+authent registr:conj

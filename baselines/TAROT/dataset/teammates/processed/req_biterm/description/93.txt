@@ -1,0 +1,4 @@
+task queuer add:nsubj
+task add:obj
+task queue:compound
+queue add:obl

@@ -1,0 +1,10 @@
+custom entri type view model 
+
+
+entri type 
+multilin 
+
+field 
+
+custom entri type view model 
+

@@ -1,0 +1,8 @@
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+set dialog icon 
+dialog window 

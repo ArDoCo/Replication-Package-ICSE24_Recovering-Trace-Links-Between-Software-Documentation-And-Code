@@ -1,0 +1,6 @@
+min auth level 
+check specif access control 
+execut 
+student join status 
+instructor join status 
+join status result 

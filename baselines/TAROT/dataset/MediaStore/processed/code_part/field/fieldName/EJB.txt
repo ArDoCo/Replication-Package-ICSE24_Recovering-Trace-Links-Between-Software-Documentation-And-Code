@@ -1,0 +1,10 @@
+
+host 
+port 
+app 
+modul 
+bean 
+provid interfac 
+provid interfac 
+requir interfac 
+requir interfac 

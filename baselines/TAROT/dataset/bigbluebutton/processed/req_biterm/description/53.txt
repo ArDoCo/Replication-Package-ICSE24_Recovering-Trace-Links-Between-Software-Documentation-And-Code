@@ -1,0 +1,3 @@
+meet logic:compound
+busi logic:compound
+logic meet actor:nsubj

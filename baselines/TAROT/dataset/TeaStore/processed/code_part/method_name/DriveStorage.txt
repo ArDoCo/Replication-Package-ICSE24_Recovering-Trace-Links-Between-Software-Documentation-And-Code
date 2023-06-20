@@ -1,0 +1,8 @@
+drive storag 
+data exist 
+id lock 
+load disk 
+load data 
+save data 
+data storabl 
+delet data 

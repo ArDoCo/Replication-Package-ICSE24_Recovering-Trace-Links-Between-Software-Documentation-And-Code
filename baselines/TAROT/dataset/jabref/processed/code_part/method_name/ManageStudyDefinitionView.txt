@@ -1,0 +1,14 @@
+manag studi definit view 
+manag studi definit view 
+setup save survey button 
+initi 
+init author tab 
+init question tab 
+init queri tab 
+init databas tab 
+setup common properti tabl 
+setup cell factori 
+add author 
+add research question 
+add queri 
+select studi directori 

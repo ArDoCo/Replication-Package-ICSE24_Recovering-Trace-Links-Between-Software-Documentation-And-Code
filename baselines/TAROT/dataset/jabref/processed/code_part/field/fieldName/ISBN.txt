@@ -1,0 +1,2 @@
+isbn pattern 
+isbn string 

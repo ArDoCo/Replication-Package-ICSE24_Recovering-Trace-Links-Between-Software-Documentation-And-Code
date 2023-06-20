@@ -1,0 +1,16 @@
+set mock 
+provid path exist repositori throw 
+repositori structur correct creat 
+bib entri correct store 
+fetcher result persist correct 
+merg result persist correct 
+studi result persist correct 
+test studi repositori 
+set test studi definit file 
+set test result file 
+duplic bib entri result 
+mock result 
+strip citat key 
+ar xiv quantum mock result 
+springer quantum mock result 
+springer cloud comput mock result 

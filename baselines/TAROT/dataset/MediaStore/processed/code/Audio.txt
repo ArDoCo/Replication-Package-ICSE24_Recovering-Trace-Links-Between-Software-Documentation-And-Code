@@ -1,0 +1,40 @@
+audio 
+serial version uid 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+user id 
+
+
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+user id 
+
+
+audio 
+id 
+set id 
+album 
+set album 
+artist 
+set artist 
+bitrat 
+set bitrat 
+genr 
+set genr 
+releaseyear 
+set releaseyear 
+titl 
+set titl 
+user id 
+set user id 
+

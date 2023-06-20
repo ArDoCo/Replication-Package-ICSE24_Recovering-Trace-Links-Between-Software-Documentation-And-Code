@@ -1,0 +1,22 @@
+cart action servlet 
+serial version uid 
+dtf 
+
+
+request 
+respons 
+request 
+respons 
+request 
+request 
+order item 
+respons 
+
+order item 
+
+cart action servlet 
+handl request 
+confirm order 
+extract order inform 
+updat order 
+

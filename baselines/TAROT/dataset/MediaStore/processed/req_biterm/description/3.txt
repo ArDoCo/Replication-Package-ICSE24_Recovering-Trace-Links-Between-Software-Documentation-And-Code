@@ -1,0 +1,7 @@
+facad compon:compound
+compon deliv:nsubj
+registr deliv:obj
+log deliv:obj
+log registr:conj
+page log:nmod
+user log:nmod

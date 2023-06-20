@@ -1,0 +1,19 @@
+rfc fetcher test 
+fetcher 
+bib entri 
+
+rfc fetcher 
+bib entri 
+
+
+
+set 
+return equal id 
+perform search id find entri draft identifi 
+perform search id find entri rfc prefix 
+perform search id find entri rfc prefix 
+perform search id find noth identifi 
+perform search id find noth valid draft identifi 
+perform search id find noth valid identifi 
+perform search id find noth invalid identifi 
+

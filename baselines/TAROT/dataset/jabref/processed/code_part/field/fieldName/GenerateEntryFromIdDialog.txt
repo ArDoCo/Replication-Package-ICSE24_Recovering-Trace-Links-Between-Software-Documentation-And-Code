@@ -1,0 +1,9 @@
+dialog pane 
+id text field 
+generat button 
+prefer servic 
+dialog servic 
+librari tab 
+task executor 
+state manag 
+entri id pop 

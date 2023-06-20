@@ -1,0 +1,2 @@
+citat style 
+bib entri type manag 

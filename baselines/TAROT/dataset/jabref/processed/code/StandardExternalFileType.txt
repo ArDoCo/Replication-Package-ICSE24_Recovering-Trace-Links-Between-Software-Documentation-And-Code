@@ -1,0 +1,24 @@
+standard extern file type 
+
+extens 
+mime type 
+open 
+icon 
+icon 
+
+
+
+extens 
+mime type 
+open 
+icon 
+icon 
+
+
+standard extern file type 
+
+extens 
+mime type 
+open applic 
+icon 
+

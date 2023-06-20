@@ -1,0 +1,24 @@
+latex citat tab 
+view model 
+search pane 
+progress indic 
+citat display 
+
+
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+entri 
+entri 
+
+
+latex citat tab 
+set search pane 
+latex directori box 
+citat pane 
+pane 
+error pane 
+bind entri 
+show 
+

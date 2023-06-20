@@ -1,0 +1,5 @@
+databas 
+entri 
+key string 
+applic 
+push applic prefer 

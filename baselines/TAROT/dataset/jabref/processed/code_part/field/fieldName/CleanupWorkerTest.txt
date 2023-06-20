@@ -1,0 +1,4 @@
+empti preset 
+worker 
+bib folder 
+pdf path 

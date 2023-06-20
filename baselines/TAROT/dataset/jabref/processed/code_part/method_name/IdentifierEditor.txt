@@ -1,0 +1,7 @@
+identifi editor 
+view model 
+bind entri 
+node 
+fetch inform identifi 
+lookup identifi 
+open extern link 

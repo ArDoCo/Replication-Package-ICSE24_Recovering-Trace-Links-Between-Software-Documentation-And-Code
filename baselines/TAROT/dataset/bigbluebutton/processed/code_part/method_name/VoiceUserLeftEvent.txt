@@ -1,0 +1,2 @@
+voic user left event 
+user id 

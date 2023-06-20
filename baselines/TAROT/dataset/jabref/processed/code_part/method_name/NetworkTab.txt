@@ -1,0 +1,9 @@
+network tab 
+tab 
+initi 
+format date 
+format version 
+proxi password reveal 
+proxi password mask 
+check connect 
+add certif file 

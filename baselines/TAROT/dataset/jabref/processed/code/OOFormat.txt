@@ -1,0 +1,27 @@
+oo format 
+
+
+ootext 
+local 
+ootext 
+ootext 
+char style 
+ootext 
+para style 
+ootext 
+refer mark 
+
+oo text 
+oo text 
+oo text 
+oo text 
+oo text 
+
+oo format 
+set local 
+set local 
+set char style 
+paragraph 
+paragraph 
+format refer page number refer mark 
+

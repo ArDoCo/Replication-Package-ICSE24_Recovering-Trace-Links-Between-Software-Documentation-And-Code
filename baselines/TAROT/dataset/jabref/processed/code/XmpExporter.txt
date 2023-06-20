@@ -1,0 +1,17 @@
+xmp export 
+xmp split directori indic 
+xmp prefer 
+
+
+xmp prefer 
+databas context 
+file 
+entri 
+file 
+entri 
+
+
+xmp export 
+export 
+write bib xmp 
+

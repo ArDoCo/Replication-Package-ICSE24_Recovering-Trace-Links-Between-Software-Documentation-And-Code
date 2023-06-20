@@ -1,0 +1,13 @@
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+msq choic 
+enabl 
+assign weight 
+msq weight 
+msq weight 
+generat option 
+max select choic 
+min select choic 

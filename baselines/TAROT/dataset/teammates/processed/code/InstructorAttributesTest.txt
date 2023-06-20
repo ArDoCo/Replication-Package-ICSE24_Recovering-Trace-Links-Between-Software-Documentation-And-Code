@@ -1,0 +1,22 @@
+instructor attribut test 
+
+
+
+
+test builder build noth default valu 
+test builder null argument throw 
+test builder typic data build correct attribut 
+test valu field popul instructor generat attribut correct 
+test valu field popul null default valu 
+test regist 
+test entiti 
+test invalid info 
+test sanit save 
+test privileg 
+test updat option email typic data updat attribut correct 
+test updat option googl id typic data updat attribut correct 
+test updat option builder null input fail assert error 
+test registr link 
+test equal 
+test hash code 
+

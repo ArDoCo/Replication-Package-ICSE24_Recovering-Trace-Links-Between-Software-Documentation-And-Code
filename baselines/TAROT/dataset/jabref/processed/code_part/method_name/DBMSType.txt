@@ -1,0 +1,6 @@
+dbms type 
+string 
+string 
+driver class path 
+url 
+default port 

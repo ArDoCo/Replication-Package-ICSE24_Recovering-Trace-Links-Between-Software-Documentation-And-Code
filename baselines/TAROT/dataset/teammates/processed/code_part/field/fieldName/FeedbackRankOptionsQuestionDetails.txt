@@ -1,0 +1,12 @@
+question type 
+min num option 
+error invalid max option enabl 
+error invalid min option enabl 
+error min option enabl choic 
+error max option enabl choic 
+error option 
+error empti option enter 
+error duplic rank respons 
+error invalid rank respons 
+option 
+option 

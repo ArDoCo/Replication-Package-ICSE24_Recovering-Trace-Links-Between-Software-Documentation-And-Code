@@ -1,0 +1,13 @@
+year checker 
+digit 
+digit 
+digit 
+digit 
+punctuat mark 
+
+
+valu 
+
+
+check valu 
+

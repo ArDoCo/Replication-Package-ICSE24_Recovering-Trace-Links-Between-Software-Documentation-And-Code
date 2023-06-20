@@ -1,0 +1,2 @@
+simpl demo:amod
+api demo:compound

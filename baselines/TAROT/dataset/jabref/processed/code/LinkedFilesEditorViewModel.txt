@@ -1,0 +1,50 @@
+link file editor view model 
+file 
+file 
+fulltext lookup progress 
+dialog servic 
+databas context 
+task executor 
+prefer 
+
+
+field 
+suggest provid 
+dialog servic 
+databas context 
+task executor 
+field checker 
+prefer 
+file 
+file 
+file directori 
+file prefer 
+file 
+file prefer 
+string valu 
+entri 
+entri 
+url text 
+url 
+file 
+file 
+
+
+link file editor view model 
+string represent 
+file 
+file 
+fulltext lookup progress 
+pars file view model 
+file 
+file properti 
+add file 
+bind entri 
+find associ link file 
+download file 
+fetch fulltext 
+add url 
+add url download 
+delet file 
+remov file link 
+

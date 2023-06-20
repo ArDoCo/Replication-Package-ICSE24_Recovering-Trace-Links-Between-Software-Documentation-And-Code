@@ -1,0 +1,7 @@
+
+key 
+format 
+descript 
+exampl input 
+hash code 
+equal 

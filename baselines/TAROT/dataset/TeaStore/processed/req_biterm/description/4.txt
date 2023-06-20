@@ -1,0 +1,7 @@
+data retriev:nsubj
+persist provid retriev:obl
+product recommend:compound
+recommend retriev:obl
+recommend persist provid:conj
+recommend servic:compound
+servic retriev:obl

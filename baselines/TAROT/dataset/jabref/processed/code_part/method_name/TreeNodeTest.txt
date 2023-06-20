@@ -1,0 +1,73 @@
+set 
+constructor check class implement correct interfac 
+constructor correct implement 
+tree node parent children 
+index path root return empti list root 
+index path root simpl path 
+index path root complex path 
+descend simpl path 
+descend complex path 
+descend exist return empti 
+posit parent root throw 
+posit parent simpl tree 
+index exist child return empti 
+index child 
+level root 
+level simpl tree 
+level complex tree 
+child count simpl tree 
+child count complex tree 
+move add child simpl tree 
+move add child complex tree 
+move chang parent 
+move level add 
+move level node befor target index 
+move level node target index 
+path root simpl tree 
+path root complex tree 
+previous sibl return correct 
+previous sibl root return empti 
+previous sibl nonexist return empti 
+sibl return correct 
+sibl root return empti 
+sibl nonexist return empti 
+parent return correct 
+parent root return empti 
+child return correct 
+child invalid index return empti 
+root return true root 
+root return fals child 
+node ancestor 
+ancestor simpl tree 
+ancestor complex tree 
+root singl node 
+root simpl tree 
+root complex tree 
+leaf correct root children 
+remov parent set parent empti 
+remov parent remov node children collect 
+remov children set parent child empti 
+remov children remov node children collect 
+child return correct 
+child leaf return empti 
+node descend level 
+node descend complex 
+children return children 
+remov child set parent empti 
+remov child remov node children collect 
+remov child index set parent empti 
+remov child index remov node children collect 
+add throw node parent 
+move children add specifi posit 
+move children chang parent 
+move children descend throw 
+sort children sort level 
+sort children recurs sort deeper level 
+copi subtre copi children 
+add child somewher tree invok chang event 
+move node somewher tree invok chang event 
+remov child somewher tree invok chang event 
+remov child index somewher tree invok chang event 
+find children 
+wrong tree node implement 
+copi node 

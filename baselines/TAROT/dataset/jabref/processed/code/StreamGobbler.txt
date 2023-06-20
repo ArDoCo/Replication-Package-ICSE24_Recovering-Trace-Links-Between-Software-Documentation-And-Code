@@ -1,0 +1,14 @@
+stream gobbler 
+logger 
+input stream 
+consum 
+consum 
+
+
+input stream 
+consum 
+
+
+stream gobbler 
+run 
+

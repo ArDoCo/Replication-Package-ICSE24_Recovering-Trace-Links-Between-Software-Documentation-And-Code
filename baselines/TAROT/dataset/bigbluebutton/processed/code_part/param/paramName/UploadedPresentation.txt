@@ -1,0 +1,25 @@
+pod id 
+meet id 
+id 
+temporari present id 
+
+base url 
+current 
+authz token 
+upload fail 
+upload fail reason 
+pod id 
+meet id 
+id 
+
+base url 
+current 
+authz token 
+upload fail 
+upload fail reason 
+upload file 
+file type 
+number page 
+convers status 
+remov 
+valu 

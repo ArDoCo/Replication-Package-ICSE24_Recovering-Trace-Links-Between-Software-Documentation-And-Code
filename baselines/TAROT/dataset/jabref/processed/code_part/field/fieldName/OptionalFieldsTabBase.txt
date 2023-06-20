@@ -1,0 +1,2 @@
+entri type manag 
+primari option field 

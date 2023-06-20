@@ -1,0 +1,80 @@
+link file editor 
+view model 
+list view 
+list view 
+dialog servic 
+databas context 
+decor model list 
+decor model list 
+prefer servic 
+bib entri 
+bib entri 
+command 
+link file 
+
+link file editor view model 
+link file view model 
+dialog servic 
+ui thread observ list 
+link file view model 
+prefer servic 
+bib entri 
+standard action 
+link file view model 
+
+field 
+dialog servic 
+databas context 
+task executor 
+suggest provid 
+field checker 
+prefer 
+origin item 
+event 
+link file 
+event 
+origin item 
+event 
+link file 
+entri 
+link file 
+event 
+link file 
+command 
+link file 
+prefer servic 
+
+field 
+dialog servic 
+task executor 
+field checker 
+prefer servic 
+link file view model 
+link file view model 
+link file view model 
+link file view model 
+bib entri 
+link file view model 
+link file view model 
+standard action 
+link file view model 
+prefer servic 
+
+link file editor 
+handl drag 
+handl drag detect 
+handl drag drop 
+creat file display 
+set key bind 
+view model 
+bind entri 
+node 
+add file 
+fetch fulltext 
+add url 
+handl item mous click 
+weight 
+creat context menu file 
+context action 
+execut 
+

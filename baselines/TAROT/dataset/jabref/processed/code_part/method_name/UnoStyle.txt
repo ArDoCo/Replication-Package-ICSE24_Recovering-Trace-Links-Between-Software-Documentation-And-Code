@@ -1,0 +1,7 @@
+uno style 
+style famili 
+paragraph style 
+charact style 
+intern style 
+intern paragraph style 
+intern charact style 

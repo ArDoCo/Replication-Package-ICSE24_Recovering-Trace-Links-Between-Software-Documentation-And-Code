@@ -1,0 +1,7 @@
+invalid pseudo class 
+valid status properti 
+valid status properti 
+string convert 
+string convert 
+subscript 
+subscript 

@@ -1,0 +1,20 @@
+join cours action 
+log 
+
+logger 
+
+regkey 
+regkey 
+cours id 
+user 
+user email 
+instructor 
+
+
+min auth level 
+check specif access control 
+execut 
+join cours student 
+join cours instructor 
+send join email 
+

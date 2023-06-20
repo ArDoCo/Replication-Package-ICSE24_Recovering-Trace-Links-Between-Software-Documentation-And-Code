@@ -1,0 +1,7 @@
+action uri 
+request method 
+test execut 
+test access control 
+test generat demo cours id 
+test generat demo cours id length limit 
+generat demo cours id 

@@ -1,0 +1,6 @@
+replac unicod ligatur formatt 
+
+key 
+format 
+descript 
+exampl input 

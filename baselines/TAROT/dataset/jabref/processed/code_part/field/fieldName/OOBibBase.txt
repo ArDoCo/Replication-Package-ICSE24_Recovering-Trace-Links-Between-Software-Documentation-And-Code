@@ -1,0 +1,5 @@
+logger 
+dialog servic 
+refresh bibliographi dure sync cite 
+alway add cite page 
+connect 

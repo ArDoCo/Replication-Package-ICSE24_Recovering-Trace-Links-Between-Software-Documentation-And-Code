@@ -1,0 +1,12 @@
+diff mode 
+text 
+
+
+text 
+
+
+
+diff mode 
+pars 
+display text 
+

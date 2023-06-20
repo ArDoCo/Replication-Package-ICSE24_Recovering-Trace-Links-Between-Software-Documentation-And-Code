@@ -1,0 +1,3 @@
+valid 
+cours id 
+set cours id 

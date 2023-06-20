@@ -1,0 +1,10 @@
+type 
+host 
+port 
+databas 
+user 
+password 
+ssl 
+public key retriev 
+server timezon 
+key store 

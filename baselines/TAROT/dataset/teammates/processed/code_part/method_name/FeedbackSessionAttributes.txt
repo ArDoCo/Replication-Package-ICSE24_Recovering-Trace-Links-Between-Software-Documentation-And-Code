@@ -1,0 +1,103 @@
+feedback session attribut 
+valu 
+builder 
+copi 
+copi student 
+copi instructor 
+cours id 
+feedback session 
+instruct string 
+entiti 
+invalid info 
+deadlin 
+user email 
+open hour 
+close 
+close time limit 
+open time limit 
+close hour 
+close 
+open 
+grace period 
+wait open 
+visibl 
+publish 
+creator 
+sanit save 
+string 
+hash code 
+equal 
+set feedback session 
+set cours id 
+creator email 
+set creator email 
+instruct 
+set instruct 
+creat time 
+set creat time 
+delet time 
+set delet time 
+session delet 
+start time 
+set start time 
+time 
+set time 
+session visibl time 
+set session visibl time 
+result visibl time 
+set result visibl time 
+time zone 
+set time zone 
+grace period minut 
+set grace period minut 
+sent open email 
+set sent open email 
+sent open email 
+set sent open email 
+sent close email 
+set sent close email 
+sent close email 
+set sent close email 
+sent publish email 
+set sent publish email 
+open email enabl 
+set open email enabl 
+close email enabl 
+set close email enabl 
+publish email enabl 
+set publish email enabl 
+student deadlin 
+set student deadlin 
+instructor deadlin 
+set instructor deadlin 
+updat 
+updat option builder 
+updat option builder 
+builder 
+creator email 
+build 
+updat option 
+cours id 
+feedback session 
+string 
+builder 
+builder 
+sent open email 
+sent open email 
+sent close email 
+sent close email 
+sent publish email 
+build 
+basic builder 
+instruct 
+start time 
+time 
+session visibl time 
+result visibl time 
+time zone 
+grace period 
+close email enabl 
+publish email enabl 
+student deadlin 
+instructor deadlin 
+build 

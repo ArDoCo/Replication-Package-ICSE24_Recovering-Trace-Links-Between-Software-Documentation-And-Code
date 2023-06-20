@@ -1,0 +1,8 @@
+pars entri link 
+pars entri link 
+key 
+link entri 
+set key 
+hash code 
+equal 
+databas 

@@ -1,0 +1,3 @@
+bib tex string delet 
+appli chang 
+delet string 

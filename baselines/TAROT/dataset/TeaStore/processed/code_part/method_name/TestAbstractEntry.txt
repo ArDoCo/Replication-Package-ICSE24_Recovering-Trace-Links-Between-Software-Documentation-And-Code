@@ -1,0 +1,8 @@
+initi 
+test constructor 
+test constructor null 
+test count 
+test data 
+test byte size 
+test id 
+test equal 

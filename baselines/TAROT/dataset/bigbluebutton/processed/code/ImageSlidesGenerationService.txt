@@ -1,0 +1,61 @@
+imag slide generat servic 
+log 
+executor 
+notifi 
+svg imag creator 
+thumbnail creator 
+text file creator 
+png creator 
+imag resiz 
+max imag width 
+max imag height 
+max convers time 
+svg imag requir 
+generat pngs 
+
+svg imag creator 
+
+pres 
+pres 
+page 
+pres 
+page 
+pres 
+page 
+pres 
+page 
+pres 
+ratio 
+thumbnail creator 
+text file creator 
+png creator 
+svg imag creator 
+generat pngs 
+svg 
+minut 
+notifi 
+imag resiz 
+max imag width 
+max imag height 
+
+svg imag creator 
+
+imag slide generat servic 
+generat slide 
+creat text file 
+creat thumbnail 
+creat svg imag 
+creat png imag 
+resiz imag 
+set thumbnail creator 
+set text file creator 
+set png creator 
+set svg imag creator 
+set generat pngs 
+set svg imag requir 
+set max convers time 
+set slide generat progress notifi 
+set imag resiz 
+set max imag width 
+set max imag height 
+

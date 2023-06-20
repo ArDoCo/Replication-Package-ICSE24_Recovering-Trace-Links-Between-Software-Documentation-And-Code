@@ -1,0 +1,4 @@
+sanit receiv:csubj
+input valu:compound
+valu sanit:obj
+compon receiv:obl

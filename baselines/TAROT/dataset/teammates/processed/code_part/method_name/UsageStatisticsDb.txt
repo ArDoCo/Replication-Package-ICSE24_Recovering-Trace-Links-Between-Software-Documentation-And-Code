@@ -1,0 +1,6 @@
+age statist db 
+inst 
+usag statist time rang 
+load 
+exist entiti 
+attribut 

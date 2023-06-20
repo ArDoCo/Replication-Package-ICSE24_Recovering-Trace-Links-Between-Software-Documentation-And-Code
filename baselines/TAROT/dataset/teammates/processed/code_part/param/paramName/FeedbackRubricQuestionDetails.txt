@@ -1,0 +1,10 @@
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+assign weight 
+rubric weight cell 
+rubric choic 
+rubric question 
+rubric descript 

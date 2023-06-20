@@ -1,0 +1,6 @@
+citat key pattern tab 
+tab 
+initi 
+set valu 
+store set 
+reset key pattern 

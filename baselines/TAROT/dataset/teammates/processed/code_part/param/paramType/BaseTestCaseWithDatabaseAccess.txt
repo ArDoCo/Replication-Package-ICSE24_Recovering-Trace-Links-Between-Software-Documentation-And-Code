@@ -1,0 +1,22 @@
+data bundl 
+account attribut 
+account attribut 
+account attribut 
+cours attribut 
+cours attribut 
+feedback question attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons attribut 
+notif attribut 
+notif attribut 
+cours attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+account request attribut 
+notif attribut 
+data bundl 
+data bundl 
+data bundl 
+data bundl 

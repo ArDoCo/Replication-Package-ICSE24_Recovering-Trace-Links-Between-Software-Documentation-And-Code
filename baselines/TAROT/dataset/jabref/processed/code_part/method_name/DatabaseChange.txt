@@ -1,0 +1,9 @@
+databas chang 
+accept 
+accept properti 
+set accept 
+accept 
+
+set chang 
+extern chang resolv 
+appli chang 

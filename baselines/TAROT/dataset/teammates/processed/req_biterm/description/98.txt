@@ -1,0 +1,3 @@
+creat api:dep
+entiti creat:obj
+inform present:nsubj

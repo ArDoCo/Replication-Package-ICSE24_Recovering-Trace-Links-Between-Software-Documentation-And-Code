@@ -1,0 +1,13 @@
+data model 
+group id 
+citat type 
+citat storag order 
+citat storag order 
+refer mark link 
+refer mark link 
+local order 
+local order 
+index global order 
+index global order 
+citat marker 
+citat marker 

@@ -1,0 +1,22 @@
+shape imag 
+categori img 
+size 
+rand 
+graphic 
+max size 
+categori img 
+rand 
+graphic 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 

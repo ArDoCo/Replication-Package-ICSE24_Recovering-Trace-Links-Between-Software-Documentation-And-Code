@@ -1,0 +1,25 @@
+api key 
+api key 
+select api key properti 
+select api key properti 
+generat key import properti 
+custom doi properti 
+custom doi properti 
+export origin properti 
+export tabl order properti 
+export specifi order properti 
+sortabl field properti 
+sortabl field properti 
+sort criteria properti 
+sort criteria properti 
+grobid enabl properti 
+grobid url properti 
+warn duplic import properti 
+download link onlin file 
+dialog servic 
+prefer servic 
+doi prefer 
+grobid prefer 
+import prefer 
+import export prefer 
+file prefer 

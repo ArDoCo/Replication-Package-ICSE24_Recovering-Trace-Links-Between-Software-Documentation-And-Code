@@ -1,0 +1,39 @@
+student logic 
+inst 
+init logic depend 
+creat student 
+student email 
+student email 
+student cours id googl id 
+student registr key 
+student googl id 
+number student cours 
+student cours 
+student cours 
+student section 
+student team 
+unregist student cours 
+search student 
+search student system 
+verifi student exist cours 
+student ani cours 
+student team 
+student team 
+updat student cascad 
+reset student googl id 
+regener student registr key 
+valid section team 
+merg list 
+section team 
+section invalid info 
+team invalid info 
+delet student cours cascad 
+delet student cascad 
+updat student respons delet 
+delet student googl id cascad 
+delet student 
+put document 
+enrol list 
+team chang 
+section chang 
+num student time rang 

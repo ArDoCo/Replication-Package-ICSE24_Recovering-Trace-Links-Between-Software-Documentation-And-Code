@@ -1,0 +1,49 @@
+main tabl column factori 
+style icon column 
+logger 
+prefer servic 
+column prefer 
+databas 
+cell factori 
+undo manag 
+dialog servic 
+state manag 
+
+column prefer 
+
+databas 
+prefer servic 
+abstract column pref 
+undo manag 
+dialog servic 
+state manag 
+column 
+column 
+width 
+column model 
+column model 
+entri 
+match group 
+column model 
+column model 
+column model 
+column model 
+column model 
+column model 
+
+column prefer 
+
+main tabl column factori 
+creat column 
+creat column 
+set exact width 
+creat index column 
+creat group column 
+creat group color region 
+creat field column 
+creat identifi column 
+creat special field column 
+creat file column 
+creat extra file column 
+creat librari column 
+

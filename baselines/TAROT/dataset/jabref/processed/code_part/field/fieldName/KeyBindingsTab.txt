@@ -1,0 +1,12 @@
+key bind tabl 
+key bind tabl 
+action column 
+action column 
+shortcut column 
+shortcut column 
+reset column 
+reset column 
+clear column 
+clear column 
+preset button 
+key bind repositori 

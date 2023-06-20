@@ -1,0 +1,17 @@
+view model 
+copi log button 
+clear log button 
+creat issu button 
+messag list view 
+messag list view 
+descript label 
+dialog servic 
+clip board manag 
+build info 
+key bind repositori 
+theme manag 
+graphic 
+icon 
+messag 
+head 
+stacktrac 

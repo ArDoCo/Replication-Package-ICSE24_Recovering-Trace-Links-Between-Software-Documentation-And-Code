@@ -1,0 +1,13 @@
+markdown 
+set 
+normal newlin abstract field 
+preserv newlin abstract field 
+preserv multipl newlin abstract field 
+preserv newlin review field 
+remov whitespac multi line field 
+report unbalanc brace 
+report unbalanc brace escap brace 
+toler balanc brace 
+toler escap charact 
+hash enclos word real string month field 
+hash sign comment 

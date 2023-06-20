@@ -1,0 +1,3 @@
+set mock 
+activ fetcher instanc 
+copi test studi definit file directori 

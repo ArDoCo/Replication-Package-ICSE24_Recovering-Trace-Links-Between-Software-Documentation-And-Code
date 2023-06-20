@@ -1,0 +1,3 @@
+search base fetcher 
+maximum number return result 
+lucen queri 

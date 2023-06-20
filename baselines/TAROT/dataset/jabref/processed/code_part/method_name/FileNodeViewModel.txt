@@ -1,0 +1,11 @@
+file node view model 
+path 
+children 
+file count 
+set file count 
+format date time 
+display text 
+display text edit date 
+string 
+hash code 
+equal 

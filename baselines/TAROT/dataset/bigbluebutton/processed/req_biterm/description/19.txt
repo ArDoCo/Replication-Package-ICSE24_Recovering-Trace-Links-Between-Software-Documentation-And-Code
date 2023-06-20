@@ -1,0 +1,10 @@
+singl process:amod
+nodej process:compound
+process big blue button:obl
+multipl process:amod
+nodej process:compound
+process handl:nsubj
+handl big blue button:dep
+incom messag:amod
+messag handl:obj
+client handl:obl

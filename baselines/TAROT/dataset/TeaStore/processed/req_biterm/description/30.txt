@@ -1,0 +1,4 @@
+item rate:compound
+rate base:nsubj
+user rate:nmod
+purchas base:obl

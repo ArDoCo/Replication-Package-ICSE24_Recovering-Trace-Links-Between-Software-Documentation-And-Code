@@ -1,0 +1,20 @@
+refer view model 
+entri 
+highlight 
+citat list 
+citat list 
+
+citat 
+
+entri 
+highlight 
+citat coll 
+
+citat 
+
+refer view model 
+highlight 
+citat list 
+display text 
+string 
+

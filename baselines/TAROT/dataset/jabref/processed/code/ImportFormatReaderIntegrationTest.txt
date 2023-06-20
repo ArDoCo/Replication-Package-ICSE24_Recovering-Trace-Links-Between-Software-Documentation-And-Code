@@ -1,0 +1,22 @@
+import format reader integr test 
+reader 
+
+import format reader 
+
+resourc 
+format 
+count 
+resourc 
+format 
+count 
+resourc 
+format 
+count 
+
+
+set 
+test import unknown format 
+test import format file 
+test import unknown format string 
+import format 
+

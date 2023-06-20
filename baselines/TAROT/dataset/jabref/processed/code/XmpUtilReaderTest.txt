@@ -1,0 +1,19 @@
+xmp util reader test 
+xmp prefer 
+test import 
+xmp util reader 
+
+xmp prefer 
+bibtex import 
+xmp util reader 
+
+
+
+set 
+test read articl dublin core read raw xmp 
+test read articl dublin core read xmp 
+test read articl dublin core read xmp partial date 
+test read emtpi metadata 
+test read pd metadata 
+test read descript metadata 
+

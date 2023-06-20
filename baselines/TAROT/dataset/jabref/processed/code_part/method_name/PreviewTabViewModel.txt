@@ -1,0 +1,28 @@
+preview tab view model 
+set valu 
+set preview layout 
+refresh preview 
+find layout 
+store set 
+chosen list valid status 
+valid set 
+add chosen 
+remov chosen 
+select chosen 
+select chosen 
+reset default layout 
+comput highlight 
+drag 
+drag detect 
+drag drop 
+drag drop chosen cell 
+show extra tab properti 
+avail list properti 
+filter avail layout 
+set avail filter 
+avail select model properti 
+chosen list properti 
+chosen select model properti 
+select edit properti 
+select layout properti 
+sourc text properti 

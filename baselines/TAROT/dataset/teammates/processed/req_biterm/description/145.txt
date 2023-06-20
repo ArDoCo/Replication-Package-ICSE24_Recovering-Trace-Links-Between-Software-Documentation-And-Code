@@ -1,0 +1,2 @@
+creat api:dep
+inform creat:obj

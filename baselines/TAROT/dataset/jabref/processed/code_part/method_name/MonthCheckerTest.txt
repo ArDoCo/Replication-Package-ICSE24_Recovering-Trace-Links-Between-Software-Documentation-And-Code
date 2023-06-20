@@ -1,0 +1,12 @@
+set 
+bib tex accept letter abbrevi hash mark 
+bib tex doe accept whatev letter abbrevi 
+bib tex doe accept letter abbrevi hash mark 
+bib tex doe accept full input 
+bib tex doe accept random string 
+bib tex doe accept integ 
+bib la tex accept letter abbrevi hash mark 
+bib la tex doe accept letter abbrevi hash mark 
+bib la tex doe accept full input 
+bib la tex doe accept random string 
+bib la tex accept integ 

@@ -1,0 +1,6 @@
+min auth level 
+check specif access control 
+execut 
+join cours student 
+join cours instructor 
+send join email 

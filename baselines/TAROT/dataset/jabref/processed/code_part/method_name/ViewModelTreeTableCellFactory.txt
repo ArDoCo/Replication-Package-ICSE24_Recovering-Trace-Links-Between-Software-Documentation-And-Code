@@ -1,0 +1,8 @@
+text 
+graphic 
+icon 
+tooltip 
+mous click event 
+call 
+updat item 
+instal 

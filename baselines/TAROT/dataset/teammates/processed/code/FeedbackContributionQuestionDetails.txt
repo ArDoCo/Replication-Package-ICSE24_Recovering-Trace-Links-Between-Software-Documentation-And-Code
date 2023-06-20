@@ -1,0 +1,78 @@
+feedback contribut question detail 
+question type 
+contrib error invalid option 
+contrib error invalid feedback path 
+contrib error invalid visibl option 
+summari index claim 
+summari index perceiv 
+log 
+sum 
+
+result 
+result 
+claim 
+perceiv 
+claim 
+claim 
+perceiv 
+
+
+question text 
+detail 
+question 
+student email 
+bundl 
+team member email 
+team result 
+team 
+team submiss array 
+team 
+team member email 
+team respons 
+respons 
+bundl 
+team 
+bundl 
+team 
+respons 
+bundl 
+respons 
+num recipi 
+feedback question attribut 
+sum 
+
+claim 
+perceiv 
+claim 
+perceiv 
+
+feedback respons attribut 
+feedback respons attribut 
+
+feedback contribut question detail 
+feedback contribut question detail 
+chang requir respons delet 
+individu respons shown student 
+question result statist json 
+student result 
+team result 
+team submiss array 
+team respons 
+team member email 
+team respons 
+valid question detail 
+valid respons detail 
+valid giver recipi visibl 
+instructor comment respons 
+feedback particip comment respons 
+sum 
+
+set sum 
+set 
+result 
+contribut statist entri 
+claim 
+perceiv 
+claim 
+perceiv 
+

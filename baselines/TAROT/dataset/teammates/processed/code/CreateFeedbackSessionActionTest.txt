@@ -1,0 +1,15 @@
+creat feedback session action test 
+
+
+time zone 
+copi session 
+
+
+action uri 
+request method 
+test execut 
+test execut masquerad mode creat feedback session 
+typic creat request 
+copi session creat request 
+test access control 
+

@@ -1,0 +1,19 @@
+instructor data 
+googl id 
+set googl id 
+cours id 
+email 
+role 
+set role 
+display student 
+set display student 
+display student 
+set display student 
+
+join state 
+set join state 
+key 
+set key 
+institut 
+set institut 
+add addit inform admin search 

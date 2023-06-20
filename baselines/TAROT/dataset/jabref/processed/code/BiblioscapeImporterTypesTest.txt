@@ -1,0 +1,11 @@
+biblioscap import type test 
+
+
+biblioscap type 
+bibtex type 
+
+entri type 
+
+type 
+import convert correct bib type 
+

@@ -1,0 +1,3 @@
+manag citat dialog view model 
+store set 
+citat properti 

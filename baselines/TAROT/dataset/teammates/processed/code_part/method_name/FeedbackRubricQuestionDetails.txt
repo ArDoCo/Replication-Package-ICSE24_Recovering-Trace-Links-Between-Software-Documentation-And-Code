@@ -1,0 +1,22 @@
+feedback rubric question detail 
+feedback rubric question detail 
+valid descript size 
+valid weight size 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+rubric weight 
+assign weight 
+set assign weight 
+rubric weight cell 
+set rubric weight cell 
+num rubric choic 
+rubric choic 
+set rubric choic 
+num rubric question 
+rubric question 
+set rubric question 
+rubric descript 
+set rubric descript 

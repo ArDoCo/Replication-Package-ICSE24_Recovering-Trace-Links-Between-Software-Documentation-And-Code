@@ -1,0 +1,21 @@
+automat person group 
+field 
+
+field 
+
+
+context 
+field 
+ 
+entri 
+
+field 
+bib entri 
+
+automat person group 
+equal 
+hash code 
+deep copi 
+creat subgroup 
+field 
+

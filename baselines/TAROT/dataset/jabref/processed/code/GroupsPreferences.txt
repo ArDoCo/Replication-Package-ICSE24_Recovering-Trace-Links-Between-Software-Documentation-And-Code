@@ -1,0 +1,33 @@
+group prefer 
+group view mode 
+group view mode 
+auto assign group 
+display group count 
+default hierarch context 
+default hierarch context 
+
+
+group view mode 
+auto assign group 
+display group count 
+default hierarch context 
+group view mode 
+auto assign group 
+display group count 
+default hierarch context 
+
+
+group prefer 
+group view mode 
+group view mode properti 
+set group view mode 
+auto assign group 
+auto assign group properti 
+set auto assign group 
+display group count 
+display group count properti 
+set display group count 
+default hierarch context 
+default hierarch context properti 
+set default hierarch context 
+

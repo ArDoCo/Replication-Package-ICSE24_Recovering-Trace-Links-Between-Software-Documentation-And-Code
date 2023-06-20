@@ -1,0 +1,11 @@
+list 
+equal 
+stream 
+list 
+flat map stream 
+flat map 
+present 
+present true 
+combin 
+els 
+els 

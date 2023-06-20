@@ -1,0 +1,18 @@
+frame 
+dialog servic 
+state manag 
+pref 
+entri 
+databas mode 
+result 
+
+
+resolv type 
+result 
+entri 
+
+
+replac 
+entri 
+replac 
+entri 

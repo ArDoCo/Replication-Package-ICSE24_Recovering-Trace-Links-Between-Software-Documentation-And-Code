@@ -1,0 +1,9 @@
+train finish 
+max number recommend 
+log 
+user buy matrix 
+user buy matrix 
+user item set 
+user item set 
+total product 
+total product 

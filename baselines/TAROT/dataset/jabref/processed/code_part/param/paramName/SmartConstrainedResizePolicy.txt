@@ -1,0 +1,10 @@
+prop 
+tabl 
+column 
+delta 
+prop 
+prop 
+run 
+content width 
+extend 
+tabl 

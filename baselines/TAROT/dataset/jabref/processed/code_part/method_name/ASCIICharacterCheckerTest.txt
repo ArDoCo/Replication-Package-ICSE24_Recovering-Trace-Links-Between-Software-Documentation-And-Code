@@ -1,0 +1,5 @@
+field accept ascii charact 
+field doe accept umlaut 
+field doe accept unicod 
+field accept onli ascii charact 
+field doe accept ascii charact 

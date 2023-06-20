@@ -1,0 +1,15 @@
+entri add 
+entri chang 
+entri delet 
+group chang 
+metadata chang 
+preambl chang 
+bib tex string add 
+bib tex string chang 
+bib tex string delet 
+bib tex string renam 
+databas context 
+extern chang resolv 
+extern chang resolv 
+accept 
+

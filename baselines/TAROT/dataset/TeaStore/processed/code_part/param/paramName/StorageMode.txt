@@ -1,0 +1,2 @@
+str represent 
+str storag mode 

@@ -1,0 +1,5 @@
+studi entri 
+search queri entri 
+librari entri 
+
+

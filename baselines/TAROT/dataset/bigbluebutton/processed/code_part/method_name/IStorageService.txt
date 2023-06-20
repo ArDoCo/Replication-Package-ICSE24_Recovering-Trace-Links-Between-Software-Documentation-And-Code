@@ -1,0 +1,4 @@
+generat poll id 
+generat poll answer id 
+store poll 
+store poll answer 

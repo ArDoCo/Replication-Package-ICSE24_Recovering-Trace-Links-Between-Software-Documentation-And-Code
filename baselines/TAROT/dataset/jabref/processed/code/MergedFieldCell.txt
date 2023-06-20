@@ -1,0 +1,13 @@
+merg field cell 
+default style class 
+text area 
+
+
+text 
+row index 
+
+
+merg field cell 
+initi 
+initi text area 
+

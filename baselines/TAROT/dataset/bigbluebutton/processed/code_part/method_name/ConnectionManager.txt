@@ -1,0 +1,21 @@
+connect manag 
+connect 
+start 
+stop 
+run 
+broadcast 
+user status 
+user 
+check conf run command 
+check freeswitch status 
+forc eject user 
+check confer record 
+mute 
+deaf 
+hold 
+play sound 
+stop sound 
+tranfer 
+eject 
+eject 
+record 

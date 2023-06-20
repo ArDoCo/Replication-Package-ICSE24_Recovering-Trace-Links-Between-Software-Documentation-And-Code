@@ -1,0 +1,12 @@
+short doi servic test 
+doi 
+exist doi 
+sut 
+
+
+
+
+set 
+short doi 
+throw doi 
+

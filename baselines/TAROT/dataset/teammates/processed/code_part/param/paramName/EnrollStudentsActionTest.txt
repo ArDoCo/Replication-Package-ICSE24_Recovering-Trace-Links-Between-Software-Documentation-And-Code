@@ -1,0 +1,14 @@
+request 
+respons 
+cours id 
+req 
+expect team 
+expect section 
+expect section 
+enrol student 
+cours id 
+req 
+expect student 
+actual student cours 
+actual student email 
+cours id 

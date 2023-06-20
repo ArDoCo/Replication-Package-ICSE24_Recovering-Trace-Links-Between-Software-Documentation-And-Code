@@ -1,0 +1,7 @@
+user upload:nsubj
+audio file:amod
+media access compon:compound
+compon store:compound
+store file:appos
+predefin locat:amod
+locat upload:obl

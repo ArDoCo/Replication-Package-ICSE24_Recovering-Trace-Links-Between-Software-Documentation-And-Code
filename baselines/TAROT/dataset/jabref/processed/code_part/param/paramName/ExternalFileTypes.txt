@@ -1,0 +1,17 @@
+
+file prefer 
+extens 
+file prefer 
+extens 
+file prefer 
+filenam 
+file prefer 
+mime type 
+file prefer 
+file 
+file prefer 
+link file 
+deduc unknown type 
+file prefer 
+file type 
+store file type 

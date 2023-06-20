@@ -1,0 +1,40 @@
+base class setup 
+prepar browser 
+prepar test data 
+test 
+test data folder 
+base class tear 
+creat frontend url 
+creat backend url 
+login page 
+login admin page 
+logout 
+delet download file 
+verifi download file 
+page instanc 
+verifi email sent 
+account 
+account 
+cours 
+cours 
+archiv cours 
+feedback question 
+feedback question 
+feedback respons comment 
+feedback respons comment 
+feedback respons 
+feedback respons 
+feedback session 
+feedback session 
+soft delet session 
+instructor 
+instructor 
+key instructor 
+student 
+key student 
+account request 
+notif 
+notif 
+deadlin extens 
+remov restor data bundl 
+put document 

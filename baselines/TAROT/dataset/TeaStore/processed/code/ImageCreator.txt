@@ -1,0 +1,48 @@
+imag creator 
+std seed 
+std nr shape imag 
+max rgb 
+max font size 
+max text length 
+max char size 
+
+
+shape imag 
+categori img 
+size 
+rand 
+graphic 
+max size 
+categori img 
+rand 
+graphic 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 
+graphic 
+max size 
+rand 
+
+imag size 
+imag size 
+imag size 
+imag size 
+imag size 
+imag size 
+
+imag creator 
+creat imag 
+draw categori imag 
+switch color 
+rectangl 
+line 
+oval 
+text 
+

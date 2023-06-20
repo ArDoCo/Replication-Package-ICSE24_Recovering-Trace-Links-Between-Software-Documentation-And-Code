@@ -1,0 +1,10 @@
+test 
+test perform search burd 
+test perform search decker 
+test perform search iannarelli 
+test perform search empti doi 
+test perform search invalid doi 
+test perform search invalid doi client resultsin fetcher client 
+test perform search invalid doi client resultsin fetcher client 
+test perform search trim doi 
+test ap journal copi articl id page field 

@@ -1,0 +1,14 @@
+archiv cours action test 
+
+
+cours archiv data 
+cours id 
+archiv 
+
+
+action uri 
+request method 
+test execut 
+verifi cours archiv 
+test access control 
+

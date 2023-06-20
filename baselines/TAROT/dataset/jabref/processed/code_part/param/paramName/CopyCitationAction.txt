@@ -1,0 +1,10 @@
+output format 
+dialog servic 
+state manag 
+clip board manag 
+task executor 
+preview prefer 
+citat 
+citat 
+citat 
+citat 

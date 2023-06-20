@@ -1,0 +1,12 @@
+advanc cite dialog view model 
+page info 
+cite par 
+cite text 
+
+
+
+
+page info properti 
+cite par properti 
+cite text properti 
+

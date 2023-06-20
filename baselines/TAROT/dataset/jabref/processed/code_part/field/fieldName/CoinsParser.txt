@@ -1,0 +1,9 @@
+doi 
+titl 
+journal 
+year 
+volum 
+page 
+issu 
+type 
+author 

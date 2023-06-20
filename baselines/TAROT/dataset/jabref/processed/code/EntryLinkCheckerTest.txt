@@ -1,0 +1,17 @@
+entri link checker test 
+databas 
+checker 
+entri 
+
+
+
+
+set 
+test entri link checker 
+test check field 
+test check relat field onli 
+test check exist crossref 
+test check exist crossref 
+test check exist relat 
+test check exist relat 
+

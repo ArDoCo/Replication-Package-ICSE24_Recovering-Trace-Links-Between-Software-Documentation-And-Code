@@ -1,0 +1,26 @@
+file util 
+file extens 
+file extens 
+base 
+base 
+valid file 
+add extens 
+uniqu path directori 
+uniqu path fragment 
+uniqu path substr 
+copi file 
+relativ 
+list link file 
+creat file pattern 
+creat dir pattern 
+find singl file recurs 
+find 
+find 
+find 
+find list file 
+portabl string 
+bib file 
+pdf file 
+initi directori 
+detect bad file 
+char legal 

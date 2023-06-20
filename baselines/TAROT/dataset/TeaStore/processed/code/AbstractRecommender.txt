@@ -1,0 +1,48 @@
+abstract recommend 
+train finish 
+max number recommend 
+log 
+user buy matrix 
+user buy matrix 
+user item set 
+user item set 
+total product 
+total product 
+
+
+order item 
+order 
+userid 
+current item 
+prioriti list 
+current item 
+map 
+userid 
+current item 
+order 
+orderid 
+user buy matrix 
+total product 
+user item set 
+useritemset 
+
+order item 
+order 
+order item 
+order 
+
+train 
+execut preprocess 
+recommend product 
+filter recommend 
+creat rank 
+execut 
+find order 
+user buy matrix 
+set user buy matrix 
+total product 
+set total product 
+user item set 
+set user item set 
+creat user buy matrix 
+

@@ -1,0 +1,26 @@
+logger 
+para style 
+char escap height 
+char escap 
+char style 
+char underlin 
+char strikeout 
+char escap valu default 
+superscript valu 
+subscript valu 
+char escap height default 
+superscript height 
+subscript height 
+tag regexp 
+attribut regexp 
+attribut valu regexp 
+html tag 
+attribut pattern 
+control properti 
+control properti 
+good size 
+good index 
+good index 
+good 
+layer 
+layer 

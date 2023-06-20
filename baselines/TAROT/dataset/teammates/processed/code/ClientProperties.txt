@@ -1,0 +1,12 @@
+client properti 
+target url 
+api url 
+backdoor key 
+csrf key 
+
+
+
+
+client properti 
+target url dev server 
+

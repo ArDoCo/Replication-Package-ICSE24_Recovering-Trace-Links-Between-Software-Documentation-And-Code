@@ -1,0 +1,10 @@
+host url 
+applic 
+endpoint 
+entiti class 
+certif 
+ 
+certif 
+ 
+read timeout 
+connect timeout 

@@ -1,0 +1,6 @@
+log 
+ctrlinst 
+time 
+vmname 
+cfregistri 
+sessionregistri 

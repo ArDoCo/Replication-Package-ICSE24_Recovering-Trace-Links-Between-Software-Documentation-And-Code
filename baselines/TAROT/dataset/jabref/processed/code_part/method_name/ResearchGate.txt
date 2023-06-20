@@ -1,0 +1,11 @@
+research gate 
+find full text 
+html 
+url string 
+url doi 
+page 
+trust level 
+perform search 
+input stream 
+
+perform search 

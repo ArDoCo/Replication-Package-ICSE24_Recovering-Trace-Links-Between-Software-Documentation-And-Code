@@ -1,0 +1,8 @@
+logger 
+file path 
+key aux 
+key aux 
+file monitor 
+aux parser 
+meta data 
+user 

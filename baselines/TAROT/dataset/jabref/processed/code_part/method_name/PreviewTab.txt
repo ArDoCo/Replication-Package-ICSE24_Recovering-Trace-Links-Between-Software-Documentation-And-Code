@@ -1,0 +1,18 @@
+preview tab 
+edit action 
+execut 
+tab 
+initi 
+jump search key 
+drag 
+drag detect avail 
+drag detect chosen 
+drag drop 
+drag drop chosen cell 
+button action 
+left button action 
+sort button action 
+sort button action 
+reset default button action 
+mous click avail 
+mous click chosen 

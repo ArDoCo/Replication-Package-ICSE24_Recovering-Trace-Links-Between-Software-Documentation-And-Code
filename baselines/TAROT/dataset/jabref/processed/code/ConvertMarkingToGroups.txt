@@ -1,0 +1,15 @@
+convert mark group 
+mark pattern 
+
+
+parser result 
+entri 
+entri 
+
+bib entri 
+bib entri 
+
+perform migrat 
+mark entri 
+clear mark 
+

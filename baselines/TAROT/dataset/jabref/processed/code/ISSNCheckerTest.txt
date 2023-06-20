@@ -1,0 +1,15 @@
+issn checker test 
+checker 
+
+
+wrong issn 
+
+
+issn accept valid input 
+issn accept number charact 
+issn doe accept random input 
+issn doe accept invalid input 
+empti issn valu 
+issn wrong format 
+provid incorrect format argument 
+

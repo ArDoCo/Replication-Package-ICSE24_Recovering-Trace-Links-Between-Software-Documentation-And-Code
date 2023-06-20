@@ -1,0 +1,14 @@
+dblp fetcher test 
+dblp fetcher 
+entri 
+
+dblp fetcher 
+bib entri 
+
+
+
+set 
+find singl entri 
+find singl entri complex oper 
+find noth 
+

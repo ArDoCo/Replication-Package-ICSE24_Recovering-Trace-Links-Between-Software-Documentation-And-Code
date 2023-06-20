@@ -1,0 +1,8 @@
+work dir 
+img db 
+storag rule 
+storag rule 
+log 
+lock id 
+lock id 
+map lock 

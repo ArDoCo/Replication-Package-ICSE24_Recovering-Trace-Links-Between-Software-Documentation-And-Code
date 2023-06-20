@@ -1,0 +1,41 @@
+style select dialog view 
+edit 
+reload 
+loader 
+col 
+col 
+tv style 
+tv style 
+col journal 
+col journal 
+col file 
+col file 
+col delet icon 
+col delet icon 
+add 
+vbox 
+prefer servic 
+dialog servic 
+state manag 
+theme manag 
+view model 
+preview articl 
+preview book 
+
+style select item view model 
+style select item view model 
+style select item view model 
+style select item view model 
+style select item view model 
+dialog servic 
+theme manag 
+style select dialog view model 
+
+loader 
+
+
+style select dialog view 
+initi 
+creat context menu 
+add style file 
+

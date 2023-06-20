@@ -1,0 +1,6 @@
+id 
+categori id 
+
+descript 
+list price cent 
+categori 

@@ -1,0 +1,10 @@
+set 
+full text doi 
+full text doi 
+document titl 
+document doi 
+trust level 
+perform search string 
+perform search lucen queri 
+perform search bib entri 
+perform search titl cur brace 

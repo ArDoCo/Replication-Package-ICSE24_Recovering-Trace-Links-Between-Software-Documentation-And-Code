@@ -1,0 +1,10 @@
+theme 
+light 
+dark 
+custom 
+type 
+
+addit stylesheet 
+equal 
+hash code 
+string 

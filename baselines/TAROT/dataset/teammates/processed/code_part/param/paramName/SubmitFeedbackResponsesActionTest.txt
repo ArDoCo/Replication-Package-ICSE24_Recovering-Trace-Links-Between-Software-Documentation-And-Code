@@ -1,0 +1,67 @@
+session id 
+instructor id 
+instructor id 
+student id 
+student id 
+student id 
+session 
+question number 
+session 
+day 
+session 
+day 
+session 
+instructor 
+day 
+session 
+student 
+day 
+session 
+question number 
+intent 
+question 
+intent 
+submiss param 
+preview person 
+submiss param 
+moder person 
+session 
+instructor 
+valu 
+student 
+student 
+recipi 
+recipi 
+student 
+recipi 
+valu 
+request bodi 
+submiss param 
+respons 
+giver email 
+recipi 
+respons 
+giver team 
+recipi 
+respons 
+giver email 
+recipi 
+respons 
+giver valu 
+recipi valu 
+session 
+question 
+giver team 
+recipi 
+session 
+question 
+giver team 
+recipi 
+session 
+question 
+giver team 
+recipi 
+session 
+question 
+giver valu 
+recipi valu 

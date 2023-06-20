@@ -1,0 +1,7 @@
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+recommend length 
+rich text 

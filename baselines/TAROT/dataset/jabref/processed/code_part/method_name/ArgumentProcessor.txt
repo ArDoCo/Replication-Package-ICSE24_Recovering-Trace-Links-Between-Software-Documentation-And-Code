@@ -1,0 +1,25 @@
+argument processor 
+import open base 
+import bibtex open base 
+import file 
+import file 
+parser result 
+parser result 
+process argument 
+write metadatato pdf 
+write metadatato pdf entri 
+write metadatato pdf citekey 
+write metadatato pdf file 
+export match 
+aux import 
+import open file 
+generat aux 
+save databas 
+export file 
+import prefer 
+reset prefer 
+automat set file link 
+regener citat key 
+fetch 
+blank 
+shut 

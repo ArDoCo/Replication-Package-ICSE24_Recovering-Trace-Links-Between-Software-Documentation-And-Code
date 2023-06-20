@@ -1,0 +1,9 @@
+trace 
+init 
+inject 
+extract current span 
+extract current span 
+build span header 
+request builder carrier 
+iter 
+put 

@@ -1,0 +1,4 @@
+verif retri count 
+verif retri delay ms 
+oper retri count 
+oper retri delay ms 

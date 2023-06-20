@@ -1,0 +1,15 @@
+feedback result fetch type 
+giver 
+receiv 
+
+
+giver 
+receiv 
+type string 
+
+
+feedback result fetch type 
+pars fetch type 
+fetch giver 
+fetch receiv 
+

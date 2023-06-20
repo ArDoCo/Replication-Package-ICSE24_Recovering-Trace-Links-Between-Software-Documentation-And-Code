@@ -1,0 +1,28 @@
+student col detail 
+student col 
+student col googl id 
+student col institut 
+student col comment 
+student col option 
+instructor col cours id 
+instructor col 
+instructor col googl id 
+instructor col institut 
+instructor col option 
+account request col 
+account request col email 
+account request col institut 
+account request col creat 
+account request col regist 
+expand row header email 
+expand row header cours join link 
+expand row header account registr link 
+link text reset googl id 
+input box 
+search button 
+expand student link button 
+expand instructor link button 
+expand account request link button 
+collaps student link button 
+collaps instructor link button 
+collaps account request link button 

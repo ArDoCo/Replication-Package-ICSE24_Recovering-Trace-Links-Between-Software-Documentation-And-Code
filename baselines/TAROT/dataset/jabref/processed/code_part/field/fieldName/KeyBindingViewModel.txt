@@ -1,0 +1,8 @@
+key bind 
+real bind 
+children 
+children 
+key bind repositori 
+display 
+shown bind 
+categori 

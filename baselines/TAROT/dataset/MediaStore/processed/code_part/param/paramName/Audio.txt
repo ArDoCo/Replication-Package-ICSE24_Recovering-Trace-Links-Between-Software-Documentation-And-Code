@@ -1,0 +1,8 @@
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+user id 

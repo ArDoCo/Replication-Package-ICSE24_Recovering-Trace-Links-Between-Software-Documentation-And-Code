@@ -1,0 +1,4 @@
+date editor 
+view model 
+bind entri 
+node 

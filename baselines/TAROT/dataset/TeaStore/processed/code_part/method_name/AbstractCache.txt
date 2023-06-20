@@ -1,0 +1,26 @@
+abstract cach 
+cach storag 
+entri 
+find entri 
+data 
+max cach size 
+set max cach size 
+current cach size 
+free space 
+storag 
+cach data 
+uncach data 
+data cachabl 
+data cach 
+clear cach 
+data exist 
+load data 
+save data 
+data storabl 
+delet data 
+data remov cach 
+data ad cach 
+creat entri 
+add entri 
+remov entri cach strategi 
+reorder tag 

@@ -1,0 +1,10 @@
+search manag starter 
+
+
+event 
+event 
+
+
+context initi 
+context destroy 
+

@@ -1,0 +1,36 @@
+bezier 
+fit bezier path 
+fit bezier path 
+fit bezier path 
+remov close point 
+remov coincid point 
+split corner 
+find corner 
+reduc nois 
+fit cubic 
+add curv 
+comput left tangent 
+comput tangent 
+comput center tangent 
+chord length parameter 
+reparameter 
+newton raphson root find 
+comput max error 
+generat bezier 
+bezier ii 
+distanc point 
+squar distanc point 
+scale 
+scale iii 
+length 
+squar length 
+add 
+add ii 
+negat 
+dot 
+normal 
+ii 
+ 
+ 
+ 
+ 

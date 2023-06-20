@@ -1,0 +1,10 @@
+execut path 
+databas 
+sync cite 
+extern style 
+current style 
+execut path 
+databas 
+sync cite 
+list 
+current style 

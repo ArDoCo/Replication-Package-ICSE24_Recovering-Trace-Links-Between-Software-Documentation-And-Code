@@ -1,0 +1,40 @@
+logger 
+studi titl 
+add author 
+add research question 
+add queri 
+studi directori 
+select studi directori 
+save survey button type 
+icon 
+author tabl view 
+author tabl view 
+author column 
+author column 
+author action column 
+author action column 
+question tabl view 
+question tabl view 
+question column 
+question column 
+question action column 
+question action column 
+queri tabl view 
+queri tabl view 
+queri column 
+queri column 
+queri action column 
+queri action column 
+databas tabl 
+databas tabl 
+databas enabl column 
+databas enabl column 
+databas column 
+databas column 
+dialog servic 
+pref 
+theme manag 
+view model 
+studi 
+studi 
+path studi data directori 

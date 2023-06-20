@@ -1,0 +1,7 @@
+bib databas context 
+bib databas 
+meta data 
+abstract citat key pattern 
+global citat key pattern 
+citat key pattern prefer 
+checker 

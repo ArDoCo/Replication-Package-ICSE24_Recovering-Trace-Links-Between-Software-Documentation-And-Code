@@ -1,0 +1,10 @@
+entri editor tab list 
+entri editor tab list 
+open entri 
+show recommend tab 
+mrdlib accept 
+show latex citat tab 
+show sourc tab default 
+enabl valid 
+integ edit bibtex 
+divid posit 

@@ -1,0 +1,12 @@
+doi decod cleanup test 
+
+
+expect 
+doi info field 
+
+bib entri 
+bib entri 
+
+test chang doi 
+provid doi 
+

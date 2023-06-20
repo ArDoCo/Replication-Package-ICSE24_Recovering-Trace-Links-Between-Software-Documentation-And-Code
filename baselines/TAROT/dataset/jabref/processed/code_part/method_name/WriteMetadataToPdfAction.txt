@@ -1,0 +1,11 @@
+write metadata pdf action 
+execut 
+init 
+write metadata 
+write metadata file 
+option dialog 
+dispos 
+
+open 
+cancel 
+progress area 

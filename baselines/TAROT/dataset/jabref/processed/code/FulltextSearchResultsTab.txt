@@ -1,0 +1,32 @@
+fulltext search result tab 
+logger 
+state manag 
+prefer servic 
+dialog servic 
+action factori 
+content 
+entri 
+document viewer view 
+
+action factori 
+
+state manag 
+prefer servic 
+dialog servic 
+entri 
+entri 
+path file 
+page number 
+file 
+width multipli 
+
+
+fulltext search result tab 
+show 
+bind entri 
+creat file link 
+creat page link 
+file context menu 
+line separ 
+line separ 
+

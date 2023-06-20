@@ -1,0 +1,96 @@
+browser 
+cours 
+instructor 
+instr num 
+privileg 
+instr num 
+cours level privileg 
+instr num 
+section level privileg 
+instr num 
+session level privileg 
+expect num 
+cours 
+instructor 
+instructor 
+instructor 
+instructor 
+instructor 
+instr num 
+instructor 
+instr num 
+privileg 
+instr num 
+panel num 
+section 
+privileg 
+instr num 
+panel num 
+section 
+session 
+privileg 
+time zone 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+panel num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+radio num 
+instr num 
+role index 
+instr num 
+instr num 
+instr num 
+checkbox num 
+instr num 
+instr num 
+panel num 
+instr num 
+panel num 
+instr num 
+panel num 
+instr num 
+instr num 
+section 
+instr num 
+panel num 
+section num 
+instr num 
+panel num 
+check box index 
+instr num 
+panel num 
+instr num 
+panel num 
+session index 
+instr num 
+panel num 
+session index 
+check box index 
+role 
+privileg 
+privileg 
+privileg 
+email 
+instr num 
+section 
+instr num 
+session 

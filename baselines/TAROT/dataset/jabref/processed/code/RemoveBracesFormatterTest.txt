@@ -1,0 +1,20 @@
+remov brace formatt test 
+formatt 
+
+
+
+
+set 
+format remov singl enclos brace 
+format unmatch brace 
+format unmatch brace 
+format short string 
+format remov brace onli 
+format empti string 
+format remov doubl enclos brace 
+format remov tripl enclos brace 
+format match brace 
+format remov onli match brace 
+format doe remov brace broken string 
+format exampl 
+

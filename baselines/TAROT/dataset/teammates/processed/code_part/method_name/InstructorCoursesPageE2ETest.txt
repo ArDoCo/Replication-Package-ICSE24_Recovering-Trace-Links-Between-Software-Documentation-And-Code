@@ -1,0 +1,6 @@
+prepar test data 
+class setup 
+test 
+verifi activ cours statist 
+verifi cours archiv databas 
+verifi cours archiv databas 

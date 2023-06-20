@@ -1,0 +1,9 @@
+authent check:compound
+author authent:conj
+author check:compound
+log check:acl
+user log:obl
+suffici privileg:amod
+trigger privileg:acl
+api action:nmod
+action trigger:obj

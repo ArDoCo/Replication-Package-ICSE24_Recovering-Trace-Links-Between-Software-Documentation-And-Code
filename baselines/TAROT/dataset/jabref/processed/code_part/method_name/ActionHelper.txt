@@ -1,0 +1,10 @@
+databas 
+share databas 
+studi databas 
+entri select 
+entri select 
+field set select entri 
+ani field set select entri 
+file present select entri 
+link file select entri 
+open multi databas 

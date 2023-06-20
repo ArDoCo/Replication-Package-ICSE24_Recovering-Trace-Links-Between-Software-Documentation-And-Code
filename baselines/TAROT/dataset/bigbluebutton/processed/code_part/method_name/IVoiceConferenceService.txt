@@ -1,0 +1,13 @@
+voic conf record start 
+voic conf run 
+user join voic conf 
+voic user status 
+user left voic conf 
+user lock voic conf 
+user mute voic conf 
+user talk voic conf 
+audio floor chang 
+voic conf run record 
+voic call state event 
+freeswitch status repli event 
+freeswitch heartbeat event 

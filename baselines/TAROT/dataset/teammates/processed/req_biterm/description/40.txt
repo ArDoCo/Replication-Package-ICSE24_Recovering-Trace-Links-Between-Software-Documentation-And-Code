@@ -1,0 +1,5 @@
+web page servlet return:nsubj
+built web:amod
+singl web:amod
+web page:compound
+page return:obj

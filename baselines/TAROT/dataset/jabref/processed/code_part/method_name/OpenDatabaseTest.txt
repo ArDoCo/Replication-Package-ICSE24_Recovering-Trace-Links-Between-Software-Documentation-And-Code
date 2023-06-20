@@ -1,0 +1,10 @@
+open databas test 
+set 
+fallback encod header 
+fallback encod unknown header 
+specifi encod 
+specifi encod signatur 
+entri pars header 
+entri pars header 
+entri pars header signatur 
+correct pars encod newlin 

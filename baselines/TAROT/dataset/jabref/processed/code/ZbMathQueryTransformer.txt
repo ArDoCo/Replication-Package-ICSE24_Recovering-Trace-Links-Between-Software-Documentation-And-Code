@@ -1,0 +1,21 @@
+zb math queri transform 
+
+
+author 
+titl 
+journal titl 
+year 
+year rang 
+term 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+handl year rang 
+handl field term 
+

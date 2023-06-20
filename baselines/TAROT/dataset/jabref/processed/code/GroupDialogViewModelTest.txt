@@ -1,0 +1,21 @@
+group dialog view model test 
+view model 
+temporari folder 
+bib databas context 
+meta data 
+group prefer 
+dialog servic 
+group 
+prefer servic 
+
+
+temporari folder 
+
+
+set 
+valid exist absolut path 
+valid exist absolut path 
+valid exist relat path 
+test hierarch context group 
+test default hierarch context 
+

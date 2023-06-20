@@ -1,0 +1,39 @@
+jab ref cli 
+export match syntax 
+
+show version 
+blank 
+disabl gui 
+prefer export 
+prefer export 
+prefer import 
+prefer import 
+prefer reset 
+prefer reset 
+file export 
+file export 
+bibtex import 
+bibtex import 
+file import 
+file import 
+aux import 
+aux import 
+import open base 
+import open base 
+debug log 
+fetcher engin 
+fetcher engin 
+export match 
+export match 
+generat citat key 
+automat set file link 
+write xm pto pdf 
+embedd bibfil pdf 
+write metadatato pdf 
+write metadatato pdf 
+option 
+display version 
+print usag 
+version info 
+left 
+wrap string list 

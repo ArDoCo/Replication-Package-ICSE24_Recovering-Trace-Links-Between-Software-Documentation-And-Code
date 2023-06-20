@@ -1,0 +1,7 @@
+confrenc member 
+confrenc member 
+temp val 
+temp member 
+temp flag 
+room 
+flag 

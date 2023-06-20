@@ -1,0 +1,7 @@
+reg exp base file finder 
+creat file pattern 
+file regex 
+find associ file 
+find file 
+find file 
+directori 

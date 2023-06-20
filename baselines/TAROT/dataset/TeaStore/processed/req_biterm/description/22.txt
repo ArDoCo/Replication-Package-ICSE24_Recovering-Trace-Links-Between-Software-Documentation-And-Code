@@ -1,0 +1,3 @@
+persist servic:compound
+access persist:nsubj
+data access:nmod

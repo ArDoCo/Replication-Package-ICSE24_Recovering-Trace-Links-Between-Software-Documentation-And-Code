@@ -1,0 +1,7 @@
+hit 
+
+hitrat 
+init 
+present 
+put 
+clear 

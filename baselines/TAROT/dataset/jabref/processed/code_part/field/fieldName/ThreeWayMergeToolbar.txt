@@ -1,0 +1,18 @@
+highlight charact radio button 
+highlight word radio button 
+diff highlight method toggl group 
+diff view combo box 
+diff view combo box 
+plain text diff combo box 
+plain text diff combo box 
+select left entri valu button 
+select entri valu button 
+onli show chang field check 
+prefer servic 
+diff highlight method 
+diff highlight method 
+onli show chang field 
+show diff 
+show diff 
+valu 
+valu 

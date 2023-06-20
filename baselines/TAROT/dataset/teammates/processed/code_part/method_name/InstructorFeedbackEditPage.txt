@@ -1,0 +1,165 @@
+instructor feedback edit page 
+expect page content 
+verifi session detail 
+verifi submiss status 
+verifi publish status 
+verifi visibl set 
+verifi session visibl set 
+verifi respons visibl set 
+verifi email set 
+edit session detail 
+copi session cours 
+delet session 
+preview student 
+preview instructor 
+verifi num question 
+verifi question detail 
+verifi feedback path set 
+verifi number entiti give feedback 
+verifi question visibl set 
+verifi custom question visibl 
+assert visibl box select 
+add templat question 
+copi question 
+edit question number 
+edit question detail 
+input question detail 
+duplic question 
+delet question 
+verifi text question detail 
+add text question 
+edit text question 
+verifi mcq question detail 
+add mcq question 
+edit mcq question 
+verifi msq question detail 
+add msq question 
+edit msq question 
+verifi num scale question detail 
+add num scale question 
+edit num scale question 
+verifi const sum question detail 
+add const sum option question 
+add const sum recipi question 
+add const sum question 
+edit const sum question 
+verifi contribut question detail 
+add contribut question 
+edit contribut question 
+verifi rubric question detail 
+add rubric question 
+edit rubric question 
+verifi rank question detail 
+add rank option question 
+add rank recipi question 
+edit rank question 
+cours id 
+cours 
+time zone 
+feedback session 
+instruct 
+start date 
+start time 
+date 
+time 
+session visibl date 
+session visibl time 
+respons visibl date 
+respons visibl time 
+grace period 
+submiss status 
+publish status 
+date string 
+time string 
+set instruct 
+set session start date time 
+set session date time 
+set visibl date time 
+set respons date time 
+set date time 
+select grace period 
+set visibl set 
+set session visibl set 
+set respons visibl set 
+set email set 
+show visibl set 
+show email set 
+num question 
+question form 
+question type 
+question number 
+question 
+question descript 
+feedback giver 
+feedback receiv 
+feedback path 
+set question 
+set question descript 
+set feedback path 
+select feedback path dropdown option 
+click edit question button 
+click save question button 
+set question visibl 
+select visibl box 
+select visibl dropdown option 
+click wait question 
+add question 
+click save question button 
+recommend text length field 
+generat option checkbox 
+generat option dropdown 
+weight checkbox 
+option checkbox 
+question dropdown checkbox 
+generat option string 
+doubl string 
+option section 
+option input 
+option weight input 
+weight input 
+verifi generat option 
+verifi option 
+verifi option weight 
+verifi option 
+input mcq detail 
+input generat option 
+input option 
+input option weight 
+input choic 
+input dropdown enabl choic 
+max option checkbox 
+max option input 
+min option checkbox 
+min option input 
+verifi max option 
+verifi min option 
+input msq detail 
+input max option 
+input min option 
+min numscal input 
+max numscal input 
+num scale increment input 
+input num scale detail 
+input num scale valu 
+const sum total point radio btn 
+const sum total point input 
+const sum option point radio btn 
+const sum option point input 
+const sum uneven distribut checkbox 
+const sum uneven distribut dropdown 
+input const sum detail 
+sum checkbox 
+contribut checkbox 
+input contribut detail 
+rubric row 
+rubric choic input 
+rubric textarea 
+rubric weight 
+rubric delet qn btn 
+rubric delet choic btn 
+num rubric row 
+num rubric col 
+input rubric detail 
+adjust num rubric field 
+duplic rank checkbox 
+input rank detail 

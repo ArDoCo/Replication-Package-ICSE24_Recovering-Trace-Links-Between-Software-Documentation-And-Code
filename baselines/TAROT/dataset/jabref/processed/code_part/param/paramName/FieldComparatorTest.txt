@@ -1,0 +1,4 @@
+comparison result 
+id 
+id 
+error messag 

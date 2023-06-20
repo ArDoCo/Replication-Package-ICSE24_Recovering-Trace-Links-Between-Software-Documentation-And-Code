@@ -1,0 +1,4 @@
+setup studi 
+pars studi file success 
+write studi file success 
+read jab ref studi success 

@@ -1,0 +1,56 @@
+view model tabl row factori 
+mous click event 
+mous click event 
+context menu factori 
+context menu factori 
+drag detect 
+drag detect 
+drag drop 
+drag drop 
+drag enter 
+drag enter 
+drag exit 
+drag exit 
+drag 
+drag 
+mous drag enter 
+mous drag enter 
+tooltip 
+tooltip 
+
+
+mous click event 
+context menu factori 
+drag detect 
+drag detect 
+drag drop 
+drag drop 
+drag enter 
+drag enter 
+drag enter 
+drag exit 
+drag exit 
+drag 
+drag 
+tooltip 
+tabl view 
+tabl 
+
+
+mous click event 
+context menu 
+set drag detect 
+set drag detect 
+set drag drop 
+set drag drop 
+set drag enter 
+set mous drag enter 
+set mous drag enter 
+set drag exit 
+set drag exit 
+set drag 
+set drag 
+tooltip 
+call 
+instal 
+

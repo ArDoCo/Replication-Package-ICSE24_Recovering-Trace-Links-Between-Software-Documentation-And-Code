@@ -1,0 +1,8 @@
+process start:nsubj
+bottleneck start:obl
+nodej process:compound
+process start:nsubj
+run process:acl
+singl core:amod
+cpu core:compound
+core run:obl

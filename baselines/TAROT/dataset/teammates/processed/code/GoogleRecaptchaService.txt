@@ -1,0 +1,16 @@
+googl recaptcha servic 
+verifi url 
+log 
+secret key 
+
+
+secret key 
+captcha respons 
+captcha respons 
+secret key 
+
+
+googl recaptcha servic 
+verif success 
+api respons 
+

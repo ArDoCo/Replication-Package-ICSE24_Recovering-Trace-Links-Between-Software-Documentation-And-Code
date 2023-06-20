@@ -1,0 +1,14 @@
+width calcul test 
+
+
+ 
+str 
+ 
+ 
+
+
+test width 
+provid test width 
+test char width 
+provid test char width 
+

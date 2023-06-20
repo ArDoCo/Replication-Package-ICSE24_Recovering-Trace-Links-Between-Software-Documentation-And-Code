@@ -1,0 +1,17 @@
+springer queri transform 
+
+
+author 
+titl 
+journal titl 
+year 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+

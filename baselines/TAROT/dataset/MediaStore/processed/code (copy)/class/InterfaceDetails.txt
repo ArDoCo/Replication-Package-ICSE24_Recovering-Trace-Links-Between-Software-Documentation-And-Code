@@ -1,0 +1,19 @@
+interfac detail 
+bi 
+pi 
+ejb 
+local 
+
+
+bi 
+pi 
+ejb 
+local 
+
+
+interfac detail 
+busi interfac 
+provid interfac 
+ejb 
+local 
+

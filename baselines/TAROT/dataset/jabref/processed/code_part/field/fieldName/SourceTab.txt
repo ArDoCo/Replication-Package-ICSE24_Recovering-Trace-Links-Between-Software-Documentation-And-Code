@@ -1,0 +1,17 @@
+logger 
+field prefer 
+mode 
+undo manag 
+sourc valid 
+sourc valid 
+sourc valid 
+import format prefer 
+file monitor 
+dialog servic 
+state manag 
+search highlight pattern 
+search highlight pattern 
+key bind repositori 
+code area 
+previous entri 
+command 

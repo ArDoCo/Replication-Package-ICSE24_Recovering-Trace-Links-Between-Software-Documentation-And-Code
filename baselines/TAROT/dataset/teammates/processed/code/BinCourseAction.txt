@@ -1,0 +1,9 @@
+bin cours action 
+
+
+
+
+min auth level 
+check specif access control 
+execut 
+

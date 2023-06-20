@@ -1,0 +1,8 @@
+fulltext search result tab 
+show 
+bind entri 
+creat file link 
+creat page link 
+file context menu 
+line separ 
+line separ 

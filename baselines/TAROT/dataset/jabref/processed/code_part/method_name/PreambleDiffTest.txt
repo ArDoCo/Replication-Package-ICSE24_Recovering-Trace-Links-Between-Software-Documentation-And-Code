@@ -1,0 +1,3 @@
+set 
+compar preambl test 
+compar differ preambl test 

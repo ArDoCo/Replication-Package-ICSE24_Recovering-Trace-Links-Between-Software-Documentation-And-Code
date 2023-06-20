@@ -1,0 +1,8 @@
+bibtex key pattern 
+type 
+pattern 
+ 
+entri type 
+entri type 
+bibtex key pattern 
+key 

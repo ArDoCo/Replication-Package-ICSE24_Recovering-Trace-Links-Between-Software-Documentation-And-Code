@@ -1,0 +1,6 @@
+feedback particip type 
+valid giver 
+valid recipi 
+valid viewer 
+team 
+singular form string 

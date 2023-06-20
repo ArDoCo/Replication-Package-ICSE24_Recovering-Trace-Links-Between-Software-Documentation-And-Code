@@ -1,0 +1,58 @@
+student data 
+cours id 
+email 
+email 
+cours id 
+googl id 
+registr key 
+googl id 
+cours id 
+cours id 
+cours id 
+batch size 
+section 
+cours id 
+team 
+cours id 
+cours id 
+queri string 
+instructor 
+queri string 
+cours id 
+student email address 
+googl id 
+cours id 
+team 
+student email 
+cours id 
+student email 
+student email 
+updat option 
+origin email 
+cours id 
+cours id 
+email 
+student list 
+cours id 
+student list 
+cours id 
+cours id 
+team 
+merg list 
+merg list 
+cours id 
+batch size 
+cours id 
+student email 
+cours id 
+googl id 
+queri 
+student 
+student 
+student info list 
+origin team 
+team 
+origin section 
+section 
+start time 
+time 

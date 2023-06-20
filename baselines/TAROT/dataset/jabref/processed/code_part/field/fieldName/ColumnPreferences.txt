@@ -1,0 +1,6 @@
+default column width 
+icon column width 
+column 
+column 
+column sort order 
+column sort order 

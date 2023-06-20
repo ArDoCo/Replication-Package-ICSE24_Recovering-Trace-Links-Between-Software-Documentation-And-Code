@@ -1,0 +1,7 @@
+data 
+citat key 
+entri compar 
+databas 
+citat group 
+citat group 
+citat group 

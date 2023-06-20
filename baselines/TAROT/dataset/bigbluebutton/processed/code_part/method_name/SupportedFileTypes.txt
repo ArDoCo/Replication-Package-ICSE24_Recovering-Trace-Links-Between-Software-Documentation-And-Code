@@ -1,0 +1,6 @@
+file support 
+offic file 
+pdf file 
+imag file 
+detect mime type 
+present mime type valid 

@@ -1,0 +1,23 @@
+entri 
+cach storag 
+max cach size 
+cach rule 
+id 
+id 
+mark 
+max cach size 
+size 
+data 
+data 
+data 
+id 
+id 
+id 
+data 
+data 
+data 
+size 
+size 
+data 
+data 
+data 

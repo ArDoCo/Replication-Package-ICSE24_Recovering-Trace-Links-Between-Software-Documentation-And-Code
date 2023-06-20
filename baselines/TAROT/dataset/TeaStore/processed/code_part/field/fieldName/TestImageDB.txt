@@ -1,0 +1,10 @@
+product id 
+
+product imag id 
+product imag id larg 
+imag id 
+size 
+size larg 
+uut 
+mock product key 
+mock key 

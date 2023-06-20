@@ -1,0 +1,8 @@
+sourc textview 
+target textview 
+diff method 
+text area 
+text 
+style class 
+posit 
+chang list 

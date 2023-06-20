@@ -1,0 +1,39 @@
+lib import 
+logger 
+parser result 
+recommend head 
+recommend descript 
+recommend set id 
+entri 
+rank 
+
+parser result 
+bib entri 
+
+input 
+input 
+input 
+entri 
+rank 
+input 
+recommend 
+recommend 
+field 
+
+bib entri 
+
+recogn format 
+import databas 
+
+file type 
+descript 
+convert string 
+rank bib entri 
+pars 
+popul bib entri 
+recommend field present 
+parser result 
+recommend head 
+recommend descript 
+recommend set id 
+

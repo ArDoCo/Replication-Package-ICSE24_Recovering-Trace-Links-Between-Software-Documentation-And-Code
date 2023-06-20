@@ -1,0 +1,39 @@
+submiss valu 
+input 
+input 
+peer contribut ratio 
+claim sanit 
+normal averag perceiv doubl 
+claim sanit row 
+normal averag perceiv doubl 
+array 
+ 
+valu 
+valu 
+factor 
+input 
+factor 
+input 
+filter array 
+valu array 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+input 
+array array 
+column index 
+array 
+input 
+array 
+return valu 
+indent 
+messag 
+condit 

@@ -1,0 +1,4 @@
+dialog servic 
+clip board manag 
+build info 
+url 

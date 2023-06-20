@@ -1,0 +1,15 @@
+high level:amod
+level workflow:compound
+process workflow:acl
+request process:obj
+differ request:acl
+request type:compound
+type differ:obl
+templat method:compound
+method pattern:compound
+abstract flow:amod
+process flow:compound
+flow pattern:nmod
+action class:compound
+autom action action:conj
+autom action class:compound

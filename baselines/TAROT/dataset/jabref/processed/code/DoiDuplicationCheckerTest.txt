@@ -1,0 +1,24 @@
+doi duplic checker test 
+checker 
+doi 
+doi 
+doi 
+doi entri 
+doi entri 
+doi entri 
+doi entri 
+doi entri 
+
+doi duplic checker 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+
+
+
+test pair duplic doi 
+test multi pair duplic doi 
+test duplic doi 
+

@@ -1,0 +1,5 @@
+set 
+noth singl space 
+noth space 
+remov space 
+remov space 

@@ -1,0 +1,75 @@
+citat key pattern prefer 
+avoid overwrit cite key 
+warn befor overwrit cite key 
+generat cite key befor save 
+key suffix 
+key suffix 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+key pattern 
+default pattern 
+keyword delimit 
+keyword delimit 
+
+
+avoid overwrit cite key 
+warn befor overwrit cite key 
+generat cite key befor save 
+key suffix 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+default pattern 
+keyword delimit 
+avoid overwrit cite key 
+warn befor overwrit cite key 
+generat cite key befor save 
+key suffix 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+default pattern 
+keyword delimit 
+avoid overwrit cite key 
+warn befor overwrit cite key 
+generat cite key befor save 
+key suffix 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+
+
+citat key pattern prefer 
+citat key pattern prefer 
+avoid overwrit cite key 
+avoid overwrit cite key properti 
+set avoid overwrit cite key 
+warn befor overwrit cite key 
+warn befor overwrit cite key properti 
+set warn befor overwrit cite key 
+generat cite key befor save 
+generat cite key befor save properti 
+set generat cite key befor save 
+key suffix 
+key suffix properti 
+set key suffix 
+key pattern regex 
+key pattern regex properti 
+set key pattern regex 
+key pattern replac 
+key pattern replac properti 
+set key pattern replac 
+unwant charact 
+unwant charact properti 
+set unwant charact 
+key pattern 
+key pattern properti 
+set key pattern 
+default pattern 
+keyword delimit 
+

@@ -1,0 +1,12 @@
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+assign weight 
+mcq weight 
+mcq weight 
+mcq choic 
+enabl 
+question dropdown enabl 
+generat option 

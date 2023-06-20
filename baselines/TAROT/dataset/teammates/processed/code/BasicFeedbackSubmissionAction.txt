@@ -1,0 +1,41 @@
+basic feedback submiss action 
+
+
+feedback question 
+feedback question 
+cours id 
+student 
+feedback session 
+student 
+feedback session 
+cours id 
+instructor 
+feedback session 
+instructor 
+feedback session 
+googl id 
+feedback session 
+instructor 
+feedback session 
+cours id 
+giver type 
+recipi type 
+recipi identifi 
+
+feedback particip type 
+feedback particip type 
+
+instructor question 
+verifi instructor question moder 
+student cours request 
+check access control student feedback submiss 
+check access control student feedback result 
+instructor cours request 
+check access control instructor feedback submiss 
+check access control instructor feedback result 
+verifi match googl id 
+check access control preview 
+verifi preview 
+verifi session open moder 
+recipi section 
+

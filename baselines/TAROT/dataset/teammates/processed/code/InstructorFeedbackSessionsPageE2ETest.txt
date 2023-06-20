@@ -1,0 +1,24 @@
+instructor feedback session page test 
+instructor 
+cours 
+copi cours 
+student email 
+open session 
+close session 
+session 
+file 
+
+cours attribut 
+cours attribut 
+
+session 
+feedback session 
+state 
+
+
+prepar test data 
+class setup 
+test 
+expect respons rate 
+verifi session publish state 
+

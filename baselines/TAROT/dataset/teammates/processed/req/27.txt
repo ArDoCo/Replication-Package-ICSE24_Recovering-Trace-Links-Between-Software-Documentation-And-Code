@@ -1,0 +1,1 @@
+written angular framework consist html scss type script file 

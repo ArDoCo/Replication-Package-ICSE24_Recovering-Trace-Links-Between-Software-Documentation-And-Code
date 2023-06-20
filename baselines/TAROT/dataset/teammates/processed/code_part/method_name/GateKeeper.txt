@@ -1,0 +1,16 @@
+gate keeper 
+inst 
+verifi log user privileg 
+verifi access 
+verifi access 
+verifi access 
+verifi access 
+verifi access 
+verifi access 
+verifi access 
+verifi access 
+verifi answer student 
+verifi answer instructor 
+verifi session submiss privileg instructor 
+verifi ownership 
+verifi null 

@@ -1,0 +1,21 @@
+undoabl key chang 
+entri 
+valu 
+valu 
+
+bib entri 
+
+chang 
+entri 
+valu 
+valu 
+
+field chang 
+bib entri 
+
+undoabl key chang 
+undoabl key chang 
+present 
+undo 
+redo 
+

@@ -1,0 +1,2 @@
+plural text 
+singular text 

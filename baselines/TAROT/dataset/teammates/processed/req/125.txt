@@ -1,0 +1,1 @@
+class storag entiti packag visibl compon hide inform specif data persist 

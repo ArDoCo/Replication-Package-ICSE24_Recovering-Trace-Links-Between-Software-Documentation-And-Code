@@ -1,0 +1,28 @@
+instructor logic 
+inst 
+init logic depend 
+put document 
+search instructor system 
+creat instructor 
+set archiv status instructor 
+verifi instructor exist cours 
+instructor email 
+instructor id 
+instructor googl id 
+instructor registr key 
+instructor email cours 
+instructor cours 
+instructor googl id 
+instructor googl id 
+verifi instructor display 
+updat instructor googl id cascad 
+updat instructor email 
+delet instructor 
+delet instructor cascad 
+delet instructor googl id cascad 
+owner cours 
+reset instructor googl id 
+updat ensur valid instructor cours 
+regener instructor registr key 
+instructor ani cours 
+num instructor time rang 

@@ -1,0 +1,24 @@
+regist bean 
+serial version uid 
+email 
+
+
+password 
+
+
+email 
+
+
+password 
+
+
+email 
+set email 
+
+set 
+
+set 
+password 
+set password 
+regist 
+

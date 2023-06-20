@@ -1,0 +1,98 @@
+argument processor 
+logger 
+cli 
+parser result 
+parser result 
+startup mode 
+prefer servic 
+gui 
+
+
+arg 
+startup mode 
+prefer servic 
+argument 
+argument 
+import format prefer 
+argument 
+file 
+import format 
+load 
+file citekey 
+xmp prefer 
+file prefer 
+databas mode 
+entri type manag 
+field prefer 
+write xmp 
+embedd bibfil 
+databas context 
+cite key 
+entri 
+file prefer 
+xmp pdf export 
+embed bib file pdf export 
+write xmp 
+embedd bibfil 
+databas context 
+data base 
+cite key 
+file prefer 
+xmp pdf export 
+embed bib file pdf export 
+write xmp 
+embedd bibfil 
+databas context 
+data base 
+pdfs 
+file prefer 
+xmp pdf export 
+embed bib file pdf export 
+write xmp 
+embedd bibfil 
+load 
+load 
+load 
+data 
+base 
+
+load 
+data 
+valu 
+load 
+load 
+fetch command 
+
+import format prefer 
+xmp prefer 
+bib entri 
+embed bib file pdf export 
+embed bib file pdf export 
+embed bib file pdf export 
+
+argument processor 
+import open base 
+import bibtex open base 
+import file 
+import file 
+parser result 
+parser result 
+process argument 
+write metadatato pdf 
+write metadatato pdf entri 
+write metadatato pdf citekey 
+write metadatato pdf file 
+export match 
+aux import 
+import open file 
+generat aux 
+save databas 
+export file 
+import prefer 
+reset prefer 
+automat set file link 
+regener citat key 
+fetch 
+blank 
+shut 
+

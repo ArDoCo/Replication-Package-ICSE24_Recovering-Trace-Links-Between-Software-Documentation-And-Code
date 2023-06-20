@@ -1,0 +1,16 @@
+librari properti view 
+tab pane 
+save button 
+theme manag 
+databas context 
+view model 
+
+theme manag 
+
+databas context 
+
+
+librari properti view 
+initi 
+save prefer close dialog 
+

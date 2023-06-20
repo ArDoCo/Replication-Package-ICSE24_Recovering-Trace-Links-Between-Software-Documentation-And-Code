@@ -1,0 +1,43 @@
+edit merg 
+logger 
+group 
+group 
+group cursor 
+current group 
+current group 
+current group cursor 
+cursor 
+prev 
+prev rang 
+
+citat group 
+citat group 
+citat group 
+
+doc 
+frontend 
+style 
+group 
+group cursor 
+state 
+group 
+current rang 
+state 
+group 
+current rang 
+doc 
+frontend 
+
+citat group 
+citat group 
+citat group 
+
+edit merg 
+merg citat group 
+joinabl group data 
+scan state 
+reset 
+check add group 
+add current group 
+scan 
+

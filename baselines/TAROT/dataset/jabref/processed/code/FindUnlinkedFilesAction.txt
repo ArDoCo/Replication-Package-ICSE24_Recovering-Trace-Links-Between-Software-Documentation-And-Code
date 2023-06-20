@@ -1,0 +1,14 @@
+find unlink file action 
+dialog servic 
+state manag 
+
+dialog servic 
+
+dialog servic 
+state manag 
+
+dialog servic 
+
+find unlink file action 
+execut 
+

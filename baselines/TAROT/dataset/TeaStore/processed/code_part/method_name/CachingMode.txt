@@ -1,0 +1,3 @@
+cach mode 
+str represent 
+cach mode string 

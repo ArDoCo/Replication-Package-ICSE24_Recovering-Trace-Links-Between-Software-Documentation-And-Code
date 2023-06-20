@@ -1,0 +1,75 @@
+instructor attribut 
+builder 
+valu 
+copi 
+instructor privileg text 
+
+set 
+key 
+set key 
+archiv 
+set archiv 
+privileg 
+set privileg 
+display 
+set display 
+email 
+set email 
+display student 
+set display student 
+regist 
+registr url 
+entiti 
+invalid info 
+sort 
+string 
+hash code 
+equal 
+sanit save 
+privileg 
+privileg 
+privileg 
+privileg ani section 
+coowner privileg 
+cours id 
+set cours id 
+googl id 
+set googl id 
+role 
+set role 
+creat 
+updat 
+set creat 
+set updat 
+section privileg 
+updat 
+updat 
+updat basic 
+updat option email builder 
+updat option googl id builder 
+builder 
+googl id 
+build 
+updat option email 
+cours id 
+email 
+string 
+builder 
+googl id 
+build 
+updat option googl id 
+cours id 
+googl id 
+string 
+builder 
+email 
+build 
+string 
+basic builder 
+
+role 
+display 
+privileg 
+display student 
+archiv 
+build 

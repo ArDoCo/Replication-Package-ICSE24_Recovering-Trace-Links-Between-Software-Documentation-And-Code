@@ -1,0 +1,22 @@
+feedback respons data 
+feedback respons id 
+giver identifi 
+recipi identifi 
+respons detail 
+giver comment 
+
+feedback respons detail 
+
+feedback respons attribut 
+giver comment 
+
+feedback respons attribut 
+
+feedback respons data 
+feedback respons id 
+giver identifi 
+recipi identifi 
+respons detail 
+giver comment 
+set giver comment 
+

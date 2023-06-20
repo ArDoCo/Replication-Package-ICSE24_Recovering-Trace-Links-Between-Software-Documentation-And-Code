@@ -1,0 +1,2 @@
+superscript detect pattern 
+superscript replac pattern 

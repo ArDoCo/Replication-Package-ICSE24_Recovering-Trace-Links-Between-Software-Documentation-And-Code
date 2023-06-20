@@ -1,0 +1,20 @@
+text 
+graphic 
+icon 
+icon 
+string tooltip 
+tooltip 
+context menu 
+style class 
+mous click event 
+set drag detect 
+set drag drop 
+set drag enter 
+set drag exit 
+set drag 
+pseudo class 
+valid 
+instal 
+instal 
+call 
+updat item 

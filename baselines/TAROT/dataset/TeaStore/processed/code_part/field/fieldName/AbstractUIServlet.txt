@@ -1,0 +1,12 @@
+serial version uid 
+messagecooki 
+errormessagecooki 
+sucesslogin 
+sucesslogout 
+wrongcredenti 
+productcooki 
+blob 
+orderconfirm 
+cartupd 
+addproduct 
+removeproduct 

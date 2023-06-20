@@ -1,0 +1,23 @@
+smart constrain resiz polici 
+logger 
+
+
+prop 
+tabl 
+column 
+delta 
+prop 
+prop 
+run 
+content width 
+extend 
+tabl 
+
+
+call 
+init column size 
+resiz 
+constrain resiz 
+constrain resiz 
+content width 
+

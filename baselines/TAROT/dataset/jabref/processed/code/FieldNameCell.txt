@@ -1,0 +1,17 @@
+field cell 
+default style class 
+action layout 
+label 
+label box 
+
+
+text 
+row index 
+side button 
+
+
+field cell 
+initi 
+initi label 
+add side button 
+

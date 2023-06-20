@@ -1,0 +1,41 @@
+feedback session 
+state 
+cours id 
+cours id 
+cours id 
+qn num 
+respons 
+type 
+particip 
+student 
+question 
+giver 
+map 
+respons 
+key 
+user respons 
+section 
+respons 
+section 
+qn num 
+giver 
+recipi 
+question 
+giver respons 
+group team 
+question 
+recipi respons 
+group team 
+question 
+giver respons 
+group team 
+question 
+recipi respons 
+group team 
+question 
+respons 
+group team 
+question 
+respons 
+group team 
+cours id 

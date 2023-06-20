@@ -1,0 +1,14 @@
+truncat formatt test 
+titl 
+
+
+
+
+format work index 
+format remov trail whitespac 
+format intern whitespac 
+format work length 
+format ignor negat index 
+format work empti string 
+format throw null string 
+

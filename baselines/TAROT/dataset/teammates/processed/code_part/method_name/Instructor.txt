@@ -1,0 +1,31 @@
+instructor 
+instructor 
+generat id 
+uniqu id 
+set uniqu id 
+googl id 
+set googl id 
+cours id 
+set cours id 
+archiv 
+set archiv 
+
+set 
+email 
+set email 
+registr key 
+set registr key 
+generat registr key 
+role 
+set role 
+display student 
+set display student 
+display 
+set display 
+instructor privileg text 
+set instructor privileg text 
+creat 
+set creat 
+updat 
+set updat 
+updat updat timestamp 

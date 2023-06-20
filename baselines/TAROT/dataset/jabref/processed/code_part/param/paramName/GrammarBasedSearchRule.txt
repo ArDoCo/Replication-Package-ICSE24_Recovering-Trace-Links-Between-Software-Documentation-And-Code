@@ -1,0 +1,32 @@
+recogn 
+offend symbol 
+line 
+char posit line 
+msg 
+ 
+search flag 
+search flag 
+queri 
+queri 
+queri 
+bib entri 
+queri 
+bib entri 
+queri 
+valu 
+field 
+valu 
+oper 
+search flag 
+entri 
+content 
+search flag 
+bib entri 
+field 
+oper 
+valu 
+ctx 
+context 
+ctx 
+ctx 
+ctx 

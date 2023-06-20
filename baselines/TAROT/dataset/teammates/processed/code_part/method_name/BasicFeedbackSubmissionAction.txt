@@ -1,0 +1,13 @@
+instructor question 
+verifi instructor question moder 
+student cours request 
+check access control student feedback submiss 
+check access control student feedback result 
+instructor cours request 
+check access control instructor feedback submiss 
+check access control instructor feedback result 
+verifi match googl id 
+check access control preview 
+verifi preview 
+verifi session open moder 
+recipi section 

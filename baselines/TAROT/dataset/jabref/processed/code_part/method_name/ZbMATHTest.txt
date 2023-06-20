@@ -1,0 +1,6 @@
+set 
+search queri find entri 
+search id find entri 
+search entri find entri 
+search entri find noth 
+search id entri find entri 

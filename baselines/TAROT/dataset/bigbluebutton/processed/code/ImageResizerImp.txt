@@ -1,0 +1,12 @@
+imag resiz imp 
+log 
+wait sec 
+
+
+pres 
+ratio 
+
+upload present 
+
+resiz 
+

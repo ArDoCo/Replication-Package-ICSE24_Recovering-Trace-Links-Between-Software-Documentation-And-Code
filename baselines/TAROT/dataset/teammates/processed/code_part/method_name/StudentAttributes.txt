@@ -1,0 +1,53 @@
+student attribut 
+valu 
+builder 
+copi 
+regist 
+registr url 
+
+set 
+email 
+set email 
+cours 
+set cours 
+googl id 
+set googl id 
+key 
+set key 
+id 
+section 
+set section 
+team 
+set team 
+comment 
+set comment 
+equal 
+invalid info 
+sort section 
+sort team 
+entiti 
+hash code 
+string 
+sanit save 
+creat 
+updat 
+set creat 
+set updat 
+updat 
+updat option builder 
+builder 
+build 
+updat option 
+cours id 
+email 
+string 
+builder 
+email 
+build 
+basic builder 
+
+comment 
+googl id 
+team 
+section 
+build 

@@ -1,0 +1,28 @@
+set 
+test normal author list 
+author seper colon 
+author seper colon 
+author seper 
+author seper dash 
+author seper latex 
+initi 
+initi 
+initi 
+initi dot 
+initi 
+junior 
+test concaten author comma 
+test odd count comma 
+format exampl 
+test affix 
+test avoid special charact 
+test 
+test multipl affix 
+test comma seper 
+test multipl space 
+test avoid preposit 
+test preposit 
+test comma untouch 
+test avoid affix 
+test upper case sensit list 
+test semi correct semicolon 

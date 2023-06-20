@@ -1,0 +1,6 @@
+compon case:compound
+test case:compound
+util class:compound
+class test:obj
+common compon:amod
+compon test:obl

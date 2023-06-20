@@ -1,0 +1,13 @@
+word 
+smaller word 
+upper case 
+case 
+upper 
+upper ignor hyphen 
+upper titl 
+conjunct 
+strip conson 
+smaller word 
+larger word 
+string 
+colon 

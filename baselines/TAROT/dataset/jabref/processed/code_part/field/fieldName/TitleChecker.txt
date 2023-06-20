@@ -1,0 +1,5 @@
+insid cur braket 
+delimit 
+capit letter 
+capit letter 
+databas context 

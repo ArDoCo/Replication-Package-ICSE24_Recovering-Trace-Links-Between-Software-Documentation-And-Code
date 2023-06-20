@@ -1,0 +1,111 @@
+present file processor 
+log 
+svg imag requir 
+generat pngs 
+page extractor 
+big pdf size 
+max big pdf page size 
+max convers time 
+text file creator 
+svg imag creator 
+thumbnail creator 
+png creator 
+notifi 
+counter servic 
+present convers complet servic 
+imag slide generat servic 
+pdf slide generat servic 
+executor 
+process present 
+present 
+present 
+
+page extractor 
+text file creator 
+svg imag creator 
+png creator 
+slide generat progress notifi 
+page counter servic 
+imag slide generat servic 
+pdf slide generat servic 
+upload present 
+
+num convers thread 
+pres 
+pres 
+pres 
+pres 
+pres 
+file page 
+page num 
+pres 
+page 
+pres 
+pres 
+ 
+pres 
+notifi 
+counter servic 
+extractor 
+generat pngs 
+big pdf size 
+max big pdf page size 
+svg imag requir 
+thumbnail creator 
+png creator 
+text file creator 
+svg imag creator 
+minut 
+ 
+ 
+ 
+
+upload present 
+upload present 
+upload present 
+upload present 
+upload present 
+upload present 
+upload present 
+upload present 
+count page 
+upload present 
+slide generat progress notifi 
+page counter servic 
+page extractor 
+png creator 
+text file creator 
+svg imag creator 
+imag slide generat servic 
+pdf slide generat servic 
+
+present file processor 
+process 
+run 
+process present download msg 
+process upload present 
+extract page 
+downscal page 
+extract page 
+determin number page 
+send doc page convers start progress 
+send fail count page messag 
+start 
+run 
+stop 
+set slide generat progress notifi 
+set counter servic 
+set page extractor 
+set generat pngs 
+set big pdf size 
+set max big pdf page size 
+set svg imag requir 
+set thumbnail creator 
+set png creator 
+set text file creator 
+set svg imag creator 
+set max convers time 
+set imag slide generat servic 
+set present convers complet servic 
+set pdf slide generat servic 
+

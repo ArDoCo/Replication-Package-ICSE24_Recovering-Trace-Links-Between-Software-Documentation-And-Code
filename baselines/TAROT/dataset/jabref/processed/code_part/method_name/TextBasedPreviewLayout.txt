@@ -1,0 +1,7 @@
+text base preview layout 
+text base preview layout 
+set text 
+generat preview 
+text 
+
+display 

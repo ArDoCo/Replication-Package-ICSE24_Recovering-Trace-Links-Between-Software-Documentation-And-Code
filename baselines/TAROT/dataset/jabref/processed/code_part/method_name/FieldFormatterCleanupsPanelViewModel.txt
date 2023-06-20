@@ -1,0 +1,12 @@
+field formatt cleanup panel view model 
+reset recommend 
+clear 
+add cleanup 
+remov cleanup 
+cleanup disabl properti 
+cleanup list properti 
+select cleanup properti 
+avail field properti 
+select field properti 
+avail formatt properti 
+select formatt properti 

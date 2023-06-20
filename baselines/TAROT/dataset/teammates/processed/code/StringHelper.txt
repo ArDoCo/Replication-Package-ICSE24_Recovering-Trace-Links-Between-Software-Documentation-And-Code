@@ -1,0 +1,51 @@
+string helper 
+log 
+
+
+ 
+length 
+charact 
+input 
+regex 
+length 
+input string 
+maximum string length 
+data 
+valu 
+signatur 
+valu 
+messag 
+list 
+list 
+delimit 
+doubl val 
+str 
+str 
+regex 
+replac 
+byte 
+ 
+string 
+str 
+
+
+string helper 
+empti 
+generat string length 
+match 
+indent 
+truncat head 
+generat signatur 
+correct signatur 
+encrypt 
+decrypt 
+string 
+string 
+decim format string 
+remov extra space 
+replac illeg char 
+byte array hex string 
+hex string byte array 
+trim null 
+convert empti string null 
+

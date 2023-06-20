@@ -1,0 +1,95 @@
+esl event listen 
+log 
+start talk event 
+stop talk event 
+start record event 
+stop record event 
+confer creat event 
+confer destroy event 
+floor chang event 
+confer event listen 
+global audion pattern 
+callernam pattern 
+callernam sess info pattern 
+callernam listenon pattern 
+echo test dest pattern 
+
+confer event listen 
+
+confer event listen 
+uniqu id 
+conf 
+conf size 
+event 
+event 
+ 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+action 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+uniqu id 
+conf 
+conf size 
+event 
+event 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+confer event listen 
+
+esl event listen 
+confer event play file 
+background job result receiv 
+caught 
+confer event join 
+confer event leav 
+confer event mute 
+confer event mute 
+confer event action 
+confer event transfer 
+confer event thread run 
+confer event record 
+gen timestamp 
+event receiv 
+member id event 
+caller id event 
+member uuid event 
+caller channel creat time event 
+caller channel hangup time event 
+caller id event 
+record filenam event 
+floor holder member id event 
+floor holder member id event 
+

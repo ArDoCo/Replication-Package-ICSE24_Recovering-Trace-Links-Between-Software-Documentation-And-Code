@@ -1,0 +1,8 @@
+entri type default 
+default top compar 
+default top compar 
+pattern list properti 
+pattern list properti 
+default item properti 
+default item properti 
+key pattern prefer 

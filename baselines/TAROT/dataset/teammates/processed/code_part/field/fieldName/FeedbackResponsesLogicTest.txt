@@ -1,0 +1,8 @@
+fs logic 
+fq logic 
+fr logic 
+frc logic 
+instructor logic 
+student logic 
+question type bundl 
+respons visibl bundl 

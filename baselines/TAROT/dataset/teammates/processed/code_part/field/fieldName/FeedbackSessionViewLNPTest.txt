@@ -1,0 +1,10 @@
+number user account 
+ramp period 
+student 
+student email 
+instructor email 
+cours id 
+feedback session 
+number question 
+error rate limit 
+resp time limit 

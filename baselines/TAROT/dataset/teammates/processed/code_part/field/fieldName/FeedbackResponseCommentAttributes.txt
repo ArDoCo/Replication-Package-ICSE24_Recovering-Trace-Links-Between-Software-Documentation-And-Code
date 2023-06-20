@@ -1,0 +1,39 @@
+feedback respons comment id 
+cours id 
+feedback session 
+comment giver 
+comment text 
+feedback respons id 
+feedback question id 
+show comment 
+show comment 
+show giver 
+show giver 
+visibl follow feedback question 
+creat 
+editor email 
+edit 
+giver section 
+receiv section 
+comment giver type 
+comment feedback particip 
+frca 
+feedback respons comment id 
+feedback respons id option 
+feedback respons id option 
+comment text option 
+comment text option 
+show comment option 
+show comment option 
+show giver option 
+show giver option 
+editor email option 
+editor email option 
+edit option 
+edit option 
+giver section option 
+giver section option 
+receiv section option 
+receiv section option 
+updat option 
+builder 

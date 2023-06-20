@@ -1,0 +1,18 @@
+exampl client 
+log 
+host 
+port 
+password 
+client 
+hb thread 
+
+
+arg 
+
+
+connect 
+close client 
+start heart beat thread 
+stop heart beat thread 
+main 
+

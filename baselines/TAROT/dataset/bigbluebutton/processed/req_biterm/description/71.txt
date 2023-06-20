@@ -1,0 +1,10 @@
+join choos:advcl
+client join:obl
+user choos:nsubj
+join choos:xcomp
+microphon join:obj
+listen choos:xcomp
+listen join:conj
+big blue button client:compound
+audio connect:amod
+web rtc server:nmod

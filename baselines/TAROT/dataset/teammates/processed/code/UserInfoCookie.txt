@@ -1,0 +1,23 @@
+er info cooki 
+user id 
+verif code 
+expiri time 
+
+
+user id 
+cooki 
+user id 
+verif code 
+expiri time 
+
+
+er info cooki 
+cooki 
+user id 
+set user id 
+verif code 
+set verif code 
+expiri time 
+set expiri time 
+valid 
+

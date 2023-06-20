@@ -1,0 +1,13 @@
+type bib entri test 
+entri type manag 
+
+
+
+
+set 
+requir field fail 
+requir field 
+requir field unknown type return true 
+type display return type 
+type display unknown type capit letter 
+

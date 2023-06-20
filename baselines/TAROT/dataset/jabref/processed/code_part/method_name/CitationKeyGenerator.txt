@@ -1,0 +1,12 @@
+citat key generat 
+citat key generat 
+appendix 
+remov default unwant charact 
+remov unwant charact 
+clean key 
+generat key 
+append letter key 
+replac regex 
+creat citat key pattern 
+expand bracket content 
+generat set key 

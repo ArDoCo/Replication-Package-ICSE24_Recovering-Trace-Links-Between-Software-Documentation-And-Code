@@ -1,0 +1,31 @@
+instructor sampl data 
+user cours join 
+user cours regist 
+fragment student cours join 
+fragment student cours rejoin googl id reset 
+fragment student cours rejoin regkey reset 
+fragment instructor copi preambl 
+fragment instructor cours join 
+fragment instructor cours rejoin googl id reset 
+fragment instructor cours rejoin regkey reset 
+user feedback session 
+user feedback session open 
+user feedback session publish 
+fragment session link recoveri access link session 
+fragment session link recoveri access link cours 
+session link recoveri access link 
+session link recoveri access link 
+session link recoveri email 
+user feedback session unpublish 
+fragment singl feedback session link 
+user feedback session resend link 
+user regkey regener resend cours link 
+sever error log line 
+login email 
+instructor account welcom 
+fragment session addit contact inform 
+owner feedback session 
+fragment open edit detail 
+fragment open join cours befor edit detail 
+fragment close view respons 
+user deadlin extens 

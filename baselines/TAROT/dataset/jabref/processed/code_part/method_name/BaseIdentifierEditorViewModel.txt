@@ -1,0 +1,16 @@
+base identifi editor view model 
+configur 
+updat identifi 
+handl identifi fetch error 
+fetch bibliographi inform id properti 
+fetch bibliographi inform id 
+lookup identifi properti 
+lookup identifi 
+invalid identifi properti 
+invalid identifi 
+identifi lookup progress 
+identifi lookup progress properti 
+fetch bibliographi inform 
+lookup identifi 
+open extern link 
+bind entri 

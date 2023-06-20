@@ -1,0 +1,22 @@
+group tree view model test 
+state manag 
+group tree 
+databas context 
+task executor 
+prefer servic 
+dialog servic 
+
+group tree view model 
+
+
+
+set 
+root group entri default 
+root group select default 
+explicit group remov entri delet 
+keyword group remov entri delet 
+show dialog group chang 
+show dialog group equal 
+show dialog keyword differ 
+show dialog case sensitivi differ 
+

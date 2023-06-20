@@ -1,0 +1,9 @@
+log reader daemon 
+uri 
+queuenam 
+
+
+
+
+run 
+

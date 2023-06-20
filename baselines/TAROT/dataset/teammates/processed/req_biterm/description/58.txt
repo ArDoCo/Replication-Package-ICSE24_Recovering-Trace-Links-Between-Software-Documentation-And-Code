@@ -1,0 +1,7 @@
+autom request:amod
+sent request:acl
+gae server:compound
+server sent:obl
+specif period:amod
+period sent:obl
+time period:nmod

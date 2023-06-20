@@ -1,0 +1,27 @@
+delet file action 
+logger 
+dialog servic 
+prefer 
+databas context 
+view model 
+list view 
+list view 
+
+link file editor view model 
+
+dialog servic 
+prefer 
+databas context 
+view model 
+list view 
+delet 
+delet disk 
+file view model 
+
+link file editor view model 
+
+delet file action 
+execut 
+delet file 
+delet file disk 
+

@@ -1,0 +1,9 @@
+origin bib entri 
+bib databas context 
+entri type manag 
+bib databas context 
+entri type manag 
+data 
+bib databas context 
+entri type manag 
+id 

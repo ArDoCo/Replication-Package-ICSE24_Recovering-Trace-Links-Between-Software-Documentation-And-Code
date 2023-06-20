@@ -1,0 +1,6 @@
+browser 
+expect cours id 
+expect student email 
+student 
+expect 
+detail field 

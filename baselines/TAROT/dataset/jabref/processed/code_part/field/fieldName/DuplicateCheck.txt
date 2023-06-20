@@ -1,0 +1,12 @@
+duplic threshold 
+logger 
+equal 
+equal 
+empti 
+empti 
+empti 
+doubt rang 
+requir weight 
+field weight 
+field weight 
+entri type manag 

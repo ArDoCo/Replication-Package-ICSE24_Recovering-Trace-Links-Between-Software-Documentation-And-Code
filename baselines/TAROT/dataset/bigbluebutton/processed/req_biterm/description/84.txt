@@ -1,0 +1,2 @@
+intern network:amod
+network connect:compound

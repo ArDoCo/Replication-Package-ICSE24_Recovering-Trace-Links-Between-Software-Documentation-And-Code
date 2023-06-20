@@ -1,0 +1,4 @@
+display lnp result statist 
+res time 
+error pct 
+format result stat 

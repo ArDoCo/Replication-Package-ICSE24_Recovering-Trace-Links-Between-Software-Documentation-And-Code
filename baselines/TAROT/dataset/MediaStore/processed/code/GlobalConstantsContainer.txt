@@ -1,0 +1,15 @@
+global constant 
+separ 
+properti 
+timestamp 
+
+
+prop 
+
+
+temp dir path 
+file dir 
+cach capac 
+properti 
+load properti 
+

@@ -1,0 +1,16 @@
+abstract automat field editor tab view model 
+logger 
+state manag 
+field 
+field 
+
+
+bib databas 
+state manag 
+extend 
+
+
+abstract automat field editor tab view model 
+field 
+add field 
+

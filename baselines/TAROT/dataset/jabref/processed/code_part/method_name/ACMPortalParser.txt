@@ -1,0 +1,6 @@
+pars entri 
+pars doi search page 
+bib entri doi list 
+url doi list 
+type str enum 
+pars bib entri 

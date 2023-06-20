@@ -1,0 +1,9 @@
+extern file type tab view model 
+set valu 
+store set 
+reset default 
+add type 
+file type 
+show edit dialog 
+edit 
+remov 

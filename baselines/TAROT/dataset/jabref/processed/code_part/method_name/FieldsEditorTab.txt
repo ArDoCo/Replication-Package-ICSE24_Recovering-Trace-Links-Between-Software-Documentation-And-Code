@@ -1,0 +1,14 @@
+field editor tab 
+add column 
+add column 
+setup panel 
+set regular row layout 
+set compress row layout 
+request focus 
+show 
+bind entri 
+preview style 
+previous preview style 
+determin field show 
+shown field 
+init panel 

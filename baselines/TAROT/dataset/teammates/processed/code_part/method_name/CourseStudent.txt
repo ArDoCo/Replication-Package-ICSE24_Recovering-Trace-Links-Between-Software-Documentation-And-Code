@@ -1,0 +1,26 @@
+cours student 
+cours student 
+generat id 
+creat 
+set creat 
+updat 
+set updat 
+uniqu id 
+email 
+set email 
+googl id 
+set googl id 
+
+set 
+comment 
+set comment 
+registr key 
+set registr key 
+cours id 
+set cours id 
+team 
+set team 
+section 
+set section 
+updat updat timestamp 
+generat registr key 

@@ -1,0 +1,24 @@
+dbms type 
+type 
+driver path 
+url pattern 
+default port 
+
+
+type 
+driver path 
+url pattern 
+default port 
+type 
+host 
+port 
+databas 
+
+
+dbms type 
+string 
+string 
+driver class path 
+url 
+default port 
+

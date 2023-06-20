@@ -1,0 +1,3 @@
+min option rank 
+max option rank 
+duplic 

@@ -1,0 +1,14 @@
+action uri 
+request method 
+test execut 
+test execut custom number recipi updat success 
+test execut anonym team session updat success 
+test execut feedback updat success 
+test execut edit contribut type question updat success 
+test execut invalid question number throw 
+test execut invalid recommend length throw 
+test execut invalid giver recipi type throw 
+test execut differ scenario updat respons rate correct 
+typic text question updat request 
+typic contribut question updat request 
+test access control 

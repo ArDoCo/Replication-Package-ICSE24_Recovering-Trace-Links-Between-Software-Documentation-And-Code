@@ -1,0 +1,9 @@
+author 
+entri 
+pattern 
+entri 
+pattern 
+databas 
+expect 
+entri 
+pattern 

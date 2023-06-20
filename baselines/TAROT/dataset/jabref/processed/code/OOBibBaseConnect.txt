@@ -1,0 +1,38 @@
+oo bib base connect 
+logger 
+dialog servic 
+desktop 
+text document 
+text document 
+descript 
+
+dialog servic 
+
+lo path 
+dialog servic 
+lo path 
+desktop 
+list 
+dialog servic 
+text document 
+auto select singl 
+
+dialog servic 
+dialog servic 
+
+oo bib base connect 
+simpl bootstrap 
+close offic connect 
+text document 
+select document dialog 
+document titl view model 
+xtext document 
+string 
+select document 
+forget document 
+connect document 
+document connect 
+text document throw 
+text document 
+current document titl 
+

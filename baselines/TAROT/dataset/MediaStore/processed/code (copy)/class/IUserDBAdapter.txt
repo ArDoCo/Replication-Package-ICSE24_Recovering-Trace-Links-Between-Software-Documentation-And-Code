@@ -1,0 +1,13 @@
+iu er db adapt 
+
+
+user 
+usernam 
+password 
+
+er reg data 
+
+add user 
+user data 
+remov data 
+

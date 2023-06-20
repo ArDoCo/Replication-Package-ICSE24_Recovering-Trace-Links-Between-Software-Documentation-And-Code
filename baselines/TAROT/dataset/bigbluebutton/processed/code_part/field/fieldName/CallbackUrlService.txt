@@ -1,0 +1,7 @@
+log 
+receiv messag 
+receiv messag 
+process messag 
+max redirect 
+msg processor exec 
+run exec 

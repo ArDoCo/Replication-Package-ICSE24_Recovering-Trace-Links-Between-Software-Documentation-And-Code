@@ -1,0 +1,7 @@
+cours id 
+instructor id 
+instructor 
+instructor email 
+instructor role 
+display student 
+display 

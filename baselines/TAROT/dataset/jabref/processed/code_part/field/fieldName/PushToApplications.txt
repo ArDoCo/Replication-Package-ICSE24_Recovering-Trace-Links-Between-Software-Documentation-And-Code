@@ -1,0 +1,8 @@
+emac 
+lyx 
+texmak 
+texstudio 
+vim 
+win edt 
+applic 
+applic 

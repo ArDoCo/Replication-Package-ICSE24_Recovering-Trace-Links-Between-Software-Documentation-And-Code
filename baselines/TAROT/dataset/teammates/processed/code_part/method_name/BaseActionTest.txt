@@ -1,0 +1,64 @@
+action uri 
+request method 
+action 
+action 
+action 
+action cooki 
+befor test method setup 
+prepar test data 
+test execut 
+test access control 
+add user id param 
+login admin 
+login unregist 
+login instructor 
+login student 
+login student instructor 
+login maintain 
+logout user 
+grant instructor section privileg 
+verifi ani user access 
+verifi ani log user access 
+verifi onli admin access 
+verifi onli instructor access 
+verifi onli instructor cours access 
+verifi onli instructor cours correct cours privileg access 
+verifi access login 
+verifi inaccess login 
+verifi access unregist user 
+verifi inaccess unregist user 
+verifi access admin 
+verifi inaccess admin 
+verifi inaccess student 
+verifi inaccess instructor 
+verifi access admin masquerad instructor 
+verifi access admin masquerad instructor 
+verifi inaccess modifi session privileg 
+verifi inaccess submit session section privileg 
+verifi inaccess correct cours privileg 
+verifi access instructor cours 
+verifi access instructor cours 
+verifi access student cours 
+verifi inaccess student cours 
+verifi inaccess instructor cours 
+verifi access maintain 
+verifi access 
+verifi access 
+verifi masquerad 
+verifi masquerad 
+json result 
+json result 
+verifi http paramet failur 
+verifi http paramet failur 
+verifi http paramet failur acl 
+verifi http request bodi failur 
+verifi entiti 
+verifi entiti 
+verifi entiti acl 
+verifi invalid oper 
+verifi invalid oper 
+verifi task ad 
+verifi specifi task ad 
+verifi email sent 
+email sent 
+verifi number email sent 

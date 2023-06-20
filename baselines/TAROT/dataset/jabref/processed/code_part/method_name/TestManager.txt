@@ -1,0 +1,2 @@
+dbms type test paramet 
+clear tabl 

@@ -1,0 +1,9 @@
+set 
+link 
+link 
+find singl entri 
+find mani entri 
+fetcher 
+page fetcher 
+test author 
+test journal 

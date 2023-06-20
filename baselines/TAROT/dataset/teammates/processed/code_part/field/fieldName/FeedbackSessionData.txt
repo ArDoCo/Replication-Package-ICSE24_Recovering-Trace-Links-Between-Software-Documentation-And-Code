@@ -1,0 +1,25 @@
+cours id 
+time zone 
+feedback session 
+instruct 
+submiss start timestamp 
+submiss timestamp 
+submiss extens timestamp 
+session visibl timestamp 
+result visibl timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+submiss status 
+publish status 
+close email enabl 
+publish email enabl 
+creat timestamp 
+delet timestamp 
+privileg 
+student deadlin 
+student deadlin 
+instructor deadlin 
+instructor deadlin 

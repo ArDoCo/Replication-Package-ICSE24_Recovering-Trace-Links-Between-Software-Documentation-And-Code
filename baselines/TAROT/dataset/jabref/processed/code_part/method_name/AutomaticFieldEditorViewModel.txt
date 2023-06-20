@@ -1,0 +1,5 @@
+automat field editor view model 
+dialog edit 
+field editor tab 
+save chang 
+cancel chang 

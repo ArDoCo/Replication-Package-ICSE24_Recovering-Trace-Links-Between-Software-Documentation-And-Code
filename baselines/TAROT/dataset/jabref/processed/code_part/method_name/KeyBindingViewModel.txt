@@ -1,0 +1,15 @@
+key bind view model 
+key bind view model 
+children 
+key bind 
+shown bind properti 
+bind 
+set bind 
+set display 
+properti 
+categori 
+set bind 
+reset default 
+clear 
+reset icon 
+clear icon 

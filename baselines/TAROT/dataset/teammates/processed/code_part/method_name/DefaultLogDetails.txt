@@ -1,0 +1,2 @@
+default log detail 
+hide sensit inform 

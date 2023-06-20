@@ -1,0 +1,2 @@
+primari function:amod
+function test:nsubj

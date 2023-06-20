@@ -1,0 +1,10 @@
+add cours button 
+copi cours button 
+cours id text box 
+cours text box 
+cours institut dropdown 
+time zone dropdown 
+copi cours id text box 
+copi cours text box 
+copi time zone dropdown 
+submit button 

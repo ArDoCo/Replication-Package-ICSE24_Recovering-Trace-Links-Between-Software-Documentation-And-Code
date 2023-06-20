@@ -1,0 +1,46 @@
+doc 
+doc 
+backend 
+doc 
+citat group 
+doc 
+map footnot footnot mark 
+doc 
+map footnot footnot mark 
+fcursor 
+doc 
+map footnot footnot mark 
+doc 
+citat key 
+page info 
+citat type 
+posit 
+insert space 
+group 
+doc 
+citat group 
+doc 
+doc 
+group 
+doc 
+group 
+doc 
+group 
+doc 
+doc 
+doc 
+doc 
+citat rang 
+overlap 
+doc 
+user rang 
+requir separ 
+doc 
+user rang 
+requir separ 
+report 
+doc 
+doc 
+citat entri 
+doc 
+fcursor 

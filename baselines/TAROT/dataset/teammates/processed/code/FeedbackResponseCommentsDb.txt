@@ -1,0 +1,86 @@
+feedback respons comment db 
+log 
+instanc 
+
+feedback respons comment db 
+
+feedback respons comment id 
+feedback respons id 
+comment giver 
+creat 
+cours id 
+comment giver 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+question id 
+cours id 
+feedback session 
+section 
+question id 
+section 
+updat option 
+cours id 
+email 
+updat email 
+cours id 
+email 
+updat email 
+comment id 
+queri 
+feedback respons comment id 
+feedback respons id 
+giver email 
+creat 
+cours id 
+giver email 
+cours id 
+editor email 
+feedback respons id 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+question id 
+question id 
+section 
+cours id 
+feedback session 
+section 
+entiti creat 
+entiti 
+
+feedback respons comment attribut 
+
+feedback respons comment db 
+inst 
+feedback respons comment 
+feedback respons comment 
+feedback respons comment giver 
+feedback respons comment respons 
+feedback respons comment respons particip 
+feedback respons comment session 
+feedback respons comment question 
+feedback respons comment session section 
+feedback respons comment question section 
+updat feedback respons comment 
+updat giver email feedback respons comment 
+updat editor email feedback respons comment 
+delet feedback respons comment 
+delet feedback respons comment 
+feedback respons comment entiti 
+feedback respons comment entiti 
+feedback respons comment entiti giver cours 
+feedback respons comment entiti editor cours 
+feedback respons comment respons queri 
+feedback respons comment entiti respons particip 
+feedback respons comment entiti respons 
+feedback respons comment entiti session 
+feedback respons comment entiti question 
+feedback respons comment entiti question section 
+feedback respons comment entiti session section 
+load 
+exist entiti 
+attribut 
+

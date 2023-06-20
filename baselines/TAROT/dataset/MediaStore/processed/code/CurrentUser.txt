@@ -1,0 +1,35 @@
+current user 
+serial version uid 
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+
+
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+
+
+current user 
+current user 
+id 
+set id 
+firstnam 
+set firstnam 
+lastnam 
+set lastnam 
+email 
+set email 
+password hash 
+set password hash 
+string 
+

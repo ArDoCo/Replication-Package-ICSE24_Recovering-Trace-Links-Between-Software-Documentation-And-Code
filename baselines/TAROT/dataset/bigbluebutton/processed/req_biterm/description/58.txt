@@ -1,0 +1,8 @@
+app communic:nmod
+free switch layer:compound
+event layer:compound
+socket layer:compound
+layer communic:nmod
+layer app:conj
+fsel layer:dep
+redi pubsub:compound

@@ -1,0 +1,7 @@
+stop 
+open 
+open 
+start 
+start befor 
+open start 
+close 

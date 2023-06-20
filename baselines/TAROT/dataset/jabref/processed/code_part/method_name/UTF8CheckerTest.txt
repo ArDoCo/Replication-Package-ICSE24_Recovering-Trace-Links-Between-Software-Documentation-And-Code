@@ -1,0 +1,4 @@
+field accept utf 
+field doe accept umlaut 
+utf encod checker test 
+utf encod checker test 

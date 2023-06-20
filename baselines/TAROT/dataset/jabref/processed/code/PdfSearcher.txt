@@ -1,0 +1,15 @@
+pdf searcher 
+logger 
+index directori 
+
+
+index directori 
+databas context 
+search string 
+max hit 
+
+
+pdf searcher 
+
+search 
+

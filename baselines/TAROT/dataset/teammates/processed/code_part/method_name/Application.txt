@@ -1,0 +1,7 @@
+applic 
+main 
+life cycl start 
+life cycl start 
+life cycl failur 
+life cycl stop 
+life cycl stop 

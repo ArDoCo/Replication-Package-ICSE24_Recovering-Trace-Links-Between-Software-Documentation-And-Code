@@ -1,0 +1,2 @@
+column rank width 
+special field enabl 

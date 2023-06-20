@@ -1,0 +1,17 @@
+sudo conf:amod
+bbb conf:compound
+conf restart:nsubj
+setip conf:dep
+sudo conf:dep
+bbb conf:compound
+conf setip:conj
+bbb run:csubj
+bbb restart:csubj
+conf bbb:obj
+bigbluebutton conf:dep
+bbb conf:compound
+appli run:ccomp
+shutdown appli:obl
+restart run:conj
+big blue button process:compound
+process restart:obl

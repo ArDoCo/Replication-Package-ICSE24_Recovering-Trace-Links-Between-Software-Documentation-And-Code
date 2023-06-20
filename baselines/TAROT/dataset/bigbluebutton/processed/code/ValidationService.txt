@@ -1,0 +1,50 @@
+valid servic 
+log 
+
+request type 
+secur salt 
+support checksum algorithm 
+request session 
+valid factori 
+valid 
+
+
+
+request type 
+api call 
+param 
+queri string 
+api call 
+param 
+queri string 
+class valid 
+class valid 
+violat 
+param 
+map 
+param 
+string encod 
+secur salt 
+support checksum algorithm 
+request session 
+
+
+api call 
+
+request type 
+valid servic 
+valid 
+initi request 
+perform valid 
+build violat map 
+sanit param 
+map string 
+build queri string param map 
+encod string 
+set secur salt 
+secur salt 
+set support checksum algorithm 
+support checksum algorithm 
+set request session 
+request session 
+

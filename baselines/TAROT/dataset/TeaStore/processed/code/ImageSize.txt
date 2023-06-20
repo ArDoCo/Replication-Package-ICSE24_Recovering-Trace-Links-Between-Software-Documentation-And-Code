@@ -1,0 +1,29 @@
+imag size 
+imag size divid 
+width 
+height 
+
+
+width 
+height 
+size 
+width 
+height 
+str 
+obj 
+
+imag size 
+
+imag size 
+imag size 
+imag size 
+width 
+set width 
+height 
+set height 
+pixel count 
+pars imag size 
+hash code 
+equal 
+string 
+

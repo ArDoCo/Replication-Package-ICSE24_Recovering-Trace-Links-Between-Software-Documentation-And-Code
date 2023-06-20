@@ -1,0 +1,9 @@
+open databas action 
+perform post open action 
+execut 
+initi directori 
+open file 
+open file 
+open file 
+load databas 
+track open databas 

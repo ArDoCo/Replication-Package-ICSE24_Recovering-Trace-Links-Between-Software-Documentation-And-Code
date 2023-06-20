@@ -1,0 +1,19 @@
+notif attribut test 
+
+
+nfa 
+notif 
+
+notif attribut 
+
+test valu field popul notif attribut generat attribut correct 
+test builder null argument throw 
+test builder typic data build correct attribut 
+test copi constructor deep copi notif detail 
+test updat option typic updat option updat attribut correct 
+test updat option builder null input fail assert error 
+test equal 
+test hash code 
+generat typic notif attribut object 
+verifi notif equal 
+

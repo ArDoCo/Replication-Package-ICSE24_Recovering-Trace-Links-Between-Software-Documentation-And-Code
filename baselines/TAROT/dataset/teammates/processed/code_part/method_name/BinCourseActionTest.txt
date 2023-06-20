@@ -1,0 +1,7 @@
+action uri 
+request method 
+test execut 
+test execut exist cours fail 
+test execut cours alreadi bin fail 
+verifi cours data 
+test access control 

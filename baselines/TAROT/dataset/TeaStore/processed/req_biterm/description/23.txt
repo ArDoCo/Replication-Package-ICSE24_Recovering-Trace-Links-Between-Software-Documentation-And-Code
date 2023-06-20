@@ -1,0 +1,10 @@
+relat entiti:amod
+entiti map:obj
+json object:compound
+entiti object:compound
+object map:obl
+pass object:acl
+servic pass:obl
+eclips link orm:compound
+jpa orm:compound
+orm mapper:compound

@@ -1,0 +1,7 @@
+set 
+move file 
+move file mulitpl link 
+move file file dir pattern 
+doe move file empti file dir pattern 
+move file subdirectori pattern 
+move file directori 

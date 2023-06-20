@@ -1,0 +1,8 @@
+repositori path 
+branch checkout 
+branch 
+commit messag 
+amend 
+target branch 
+sourc branch 
+merg strategi 

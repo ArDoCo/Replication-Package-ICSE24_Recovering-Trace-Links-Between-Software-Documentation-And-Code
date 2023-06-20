@@ -1,0 +1,4 @@
+data structur:compound
+structur methodless:obl
+class methodless:obl
+class structur:conj

@@ -1,0 +1,49 @@
+method 
+request url 
+header 
+method 
+request url 
+cooki 
+ 
+ 
+ 
+key 
+valu 
+ 
+ 
+request session id 
+ 
+interv 
+
+
+
+valu 
+
+valu 
+
+
+http servlet respons 
+ 
+ 
+ 
+key 
+part 
+class 
+ 
+ 
+ 
+ 
+key 
+valu 
+bodi 
+ 
+ 
+ 
+ 
+request 
+respons 
+request 
+respons 
+ 
+servlet request 
+servlet respons 

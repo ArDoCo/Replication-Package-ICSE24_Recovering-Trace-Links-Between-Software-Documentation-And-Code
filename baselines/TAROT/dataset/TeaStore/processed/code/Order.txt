@@ -1,0 +1,53 @@
+order 
+id 
+user id 
+time 
+total price cent 
+address 
+address 
+address 
+credit card compani 
+credit card number 
+credit card expiri date 
+
+
+order 
+id 
+user id 
+time 
+total price cent 
+address 
+address 
+address 
+credit card compani 
+credit card number 
+credit card expiri date 
+obj 
+
+order 
+
+order 
+order 
+id 
+set id 
+user id 
+set user id 
+time 
+set time 
+total price cent 
+set total price cent 
+address 
+set address 
+address 
+set address 
+address 
+set address 
+credit card compani 
+set credit card compani 
+credit card number 
+set credit card number 
+credit card expiri date 
+set credit card expiri date 
+hash code 
+equal 
+

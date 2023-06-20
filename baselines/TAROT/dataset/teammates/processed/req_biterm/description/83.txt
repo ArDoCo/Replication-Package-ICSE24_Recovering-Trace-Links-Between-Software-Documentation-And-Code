@@ -1,0 +1,10 @@
+parti api:amod
+api connect:obl
+ad connect:obl
+task ad:obj
+task queue:compound
+queue ad:obl
+send connect:obl
+email send:obj
+parti provid:compound
+provid send:obl

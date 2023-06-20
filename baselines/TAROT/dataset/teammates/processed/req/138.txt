@@ -1,0 +1,1 @@
+add delet oper wait data persist datastor return 

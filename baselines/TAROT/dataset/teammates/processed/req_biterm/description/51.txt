@@ -1,0 +1,7 @@
+request serv:nsubj
+static asset:dep
+asset file:amod
+file request:nmod
+css file:dep
+file css:appos
+imag css:appos

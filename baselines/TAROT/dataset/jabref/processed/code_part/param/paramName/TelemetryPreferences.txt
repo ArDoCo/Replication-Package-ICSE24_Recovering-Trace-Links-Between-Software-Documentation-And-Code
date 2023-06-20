@@ -1,0 +1,5 @@
+collect telemetri 
+collect telemetri 
+user id 
+collect telemetri 
+collect telemetri 

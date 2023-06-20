@@ -1,0 +1,14 @@
+gvk fetcher 
+url pattern 
+search key 
+search key 
+
+
+lucen queri 
+
+
+
+page 
+url queri 
+parser 
+

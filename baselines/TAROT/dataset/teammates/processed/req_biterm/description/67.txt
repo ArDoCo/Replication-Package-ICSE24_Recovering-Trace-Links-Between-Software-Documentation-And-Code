@@ -1,0 +1,3 @@
+sixth autom servlet:compound
+autom servlet execut:nsubj
+action execut:obj

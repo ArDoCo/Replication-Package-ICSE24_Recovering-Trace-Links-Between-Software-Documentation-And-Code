@@ -1,0 +1,2 @@
+simpl editor view model 
+auto complet strategi 

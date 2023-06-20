@@ -1,0 +1,7 @@
+set 
+test extens 
+test descript 
+doe handl encrypt pdfs 
+import work expect 
+test pars editor pagesor seri inform 
+test pars actual doi number 

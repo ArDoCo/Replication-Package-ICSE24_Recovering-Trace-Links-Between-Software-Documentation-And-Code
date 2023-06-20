@@ -1,0 +1,7 @@
+meta data 
+global cite key pattern 
+stringi meta data 
+meta data 
+global citat key pattern 
+root 
+entri type 

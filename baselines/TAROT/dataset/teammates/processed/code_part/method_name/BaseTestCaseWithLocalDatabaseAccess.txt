@@ -1,0 +1,19 @@
+setup db layer 
+setup objectifi 
+tear objectifi 
+reset db layer 
+tear local datastor helper 
+account 
+cours 
+feedback question 
+feedback respons comment 
+feedback respons 
+feedback session 
+instructor 
+student 
+account request 
+deadlin extens 
+notif 
+remov restor typic data bundl 
+remov restor data bundl 
+put document 

@@ -1,0 +1,5 @@
+set 
+find full text doi 
+find full text lowercas doi 
+find full text unauthor 
+find full text unknown entri 

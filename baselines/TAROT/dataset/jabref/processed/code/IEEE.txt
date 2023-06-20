@@ -1,0 +1,42 @@
+ieee 
+fetcher 
+logger 
+stamp base string document 
+stamp pattern 
+document pattern 
+pdf pattern 
+ieee doi 
+base url 
+api key 
+test url api key 
+import format prefer 
+import prefer 
+transform 
+
+import format prefer 
+import prefer 
+ieee queri transform 
+
+import format prefer 
+import prefer 
+json entri 
+keyword separ 
+entri 
+lucen queri 
+page number 
+
+import format prefer 
+import prefer 
+bib entri 
+
+ieee 
+pars json respons 
+find full text 
+trust level 
+parser 
+
+page 
+api key 
+test url 
+url queri 
+

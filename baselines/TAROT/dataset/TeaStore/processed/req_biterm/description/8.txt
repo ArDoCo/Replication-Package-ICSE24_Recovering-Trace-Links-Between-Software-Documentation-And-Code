@@ -1,0 +1,5 @@
+status page:compound
+indic link:acl
+current state:amod
+state indic:obj
+tea store state:nmod

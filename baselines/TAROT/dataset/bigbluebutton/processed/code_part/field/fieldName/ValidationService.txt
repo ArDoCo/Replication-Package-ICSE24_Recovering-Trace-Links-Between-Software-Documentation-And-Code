@@ -1,0 +1,8 @@
+log 
+
+request type 
+secur salt 
+support checksum algorithm 
+request session 
+valid factori 
+valid 

@@ -1,0 +1,17 @@
+record metadata 
+rec meta 
+
+
+rm 
+state 
+publish 
+meta 
+
+
+set rec meta 
+rec meta 
+set state 
+set publish 
+set meta 
+meta 
+

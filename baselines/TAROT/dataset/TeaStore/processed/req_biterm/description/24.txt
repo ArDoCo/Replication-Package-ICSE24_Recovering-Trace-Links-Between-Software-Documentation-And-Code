@@ -1,0 +1,10 @@
+endpoint featur:obj
+general oper:amod
+crud oper:compound
+oper endpoint:nmod
+creat featur:parataxis
+read creat:dep
+updat delet:nsubj
+delet creat:ccomp
+persist entiti:amod
+entiti featur:obl

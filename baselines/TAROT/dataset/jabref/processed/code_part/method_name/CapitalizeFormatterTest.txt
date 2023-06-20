@@ -1,0 +1,3 @@
+set 
+format exampl 
+test input 

@@ -1,0 +1,6 @@
+primari function:amod
+function test:nsubj
+load test:conj
+load test:compound
+perform test:conj
+perform load:conj

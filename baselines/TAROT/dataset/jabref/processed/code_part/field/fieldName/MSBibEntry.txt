@@ -1,0 +1,50 @@
+field 
+field 
+author 
+author 
+book author 
+book author 
+editor 
+editor 
+translat 
+translat 
+produc 
+produc 
+compos 
+compos 
+conductor 
+conductor 
+perform 
+perform 
+writer 
+writer 
+director 
+director 
+compil 
+compil 
+interview 
+interview 
+interviewe 
+interviewe 
+inventor 
+inventor 
+counsel 
+counsel 
+page 
+standard number 
+address 
+confer 
+thesi type 
+internet site titl 
+date access 
+public titl 
+album titl 
+broadcast titl 
+year 
+month 
+day 
+number 
+patent number 
+journal 
+bibtex entri type 
+address pattern 

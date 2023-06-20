@@ -1,0 +1,6 @@
+number 
+label properti 
+content properti 
+label valid 
+content valid 
+combin valid 

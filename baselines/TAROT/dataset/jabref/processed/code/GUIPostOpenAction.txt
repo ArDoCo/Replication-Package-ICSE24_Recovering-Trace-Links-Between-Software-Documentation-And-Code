@@ -1,0 +1,11 @@
+gui post open action 
+
+
+pr 
+panel 
+pr 
+
+
+action necessari 
+perform action 
+

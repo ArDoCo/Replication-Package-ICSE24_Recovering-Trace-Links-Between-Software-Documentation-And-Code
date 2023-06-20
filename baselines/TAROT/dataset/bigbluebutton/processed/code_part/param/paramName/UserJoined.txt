@@ -1,0 +1,10 @@
+meet id 
+user id 
+extern user id 
+
+role 
+lock 
+avatar url 
+guest 
+guest status 
+client type 

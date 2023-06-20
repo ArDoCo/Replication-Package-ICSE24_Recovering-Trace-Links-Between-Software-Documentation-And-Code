@@ -1,0 +1,11 @@
+multipl core:amod
+cpu core:compound
+process messag:compound
+handl session:amod
+browser session:compound
+session messag:conj
+nodej process:compound
+process run:nsubj
+singl core:amod
+cpu core:compound
+core run:obl

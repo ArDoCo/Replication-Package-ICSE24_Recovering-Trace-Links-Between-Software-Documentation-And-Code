@@ -1,0 +1,2 @@
+person field row view 
+show person info 

@@ -1,0 +1,10 @@
+temp file 
+temp file 
+write file 
+write file 
+write temp file 
+read file mem 
+consum file mem 
+byte path 
+path byte 
+extens 

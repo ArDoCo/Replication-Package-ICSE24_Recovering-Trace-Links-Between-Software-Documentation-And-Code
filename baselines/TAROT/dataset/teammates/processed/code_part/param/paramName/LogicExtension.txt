@@ -1,0 +1,11 @@
+feedback session 
+cours id 
+question number 
+feedback question id 
+giver email 
+recipi 
+respons id 
+giver email 
+creation date 
+respons id 
+feedback question id 

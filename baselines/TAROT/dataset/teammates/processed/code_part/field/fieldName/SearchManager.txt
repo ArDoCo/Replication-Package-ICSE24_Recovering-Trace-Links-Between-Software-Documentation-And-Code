@@ -1,0 +1,10 @@
+log 
+error delet document 
+error search document 
+error search implement 
+error put document 
+error reset collect 
+start index 
+num result 
+client 
+reset 

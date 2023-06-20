@@ -1,0 +1,6 @@
+valid data:amod
+data state:nsubj
+entiti data:nmod
+updat creat:dep
+ensur entiti:acl
+valid state:amod

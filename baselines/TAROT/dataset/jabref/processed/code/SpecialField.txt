@@ -1,0 +1,25 @@
+special field 
+valu 
+valu 
+keyword 
+map 
+map 
+field 
+
+
+field 
+valu 
+
+valu 
+
+
+special field 
+valu 
+key word 
+
+singl valu field 
+pars valu 
+properti 
+
+standard field 
+

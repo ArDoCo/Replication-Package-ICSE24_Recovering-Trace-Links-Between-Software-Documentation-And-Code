@@ -1,0 +1,12 @@
+test valu field popul feedback respons generat attribut correct 
+test valu field popul null default valu 
+test builder build noth default valu 
+test builder null argument throw 
+test builder typic data build correct attribut 
+test copi constructor deep copi respons detail 
+test respons detail deep copi 
+test set respons detail deep copi 
+test updat option typic updat option updat attribut correct 
+test updat option builder null input fail assert error 
+test equal 
+test hash code 

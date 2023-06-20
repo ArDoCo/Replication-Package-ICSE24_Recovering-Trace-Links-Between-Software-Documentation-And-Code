@@ -1,0 +1,17 @@
+logger 
+tex ext 
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+directori 
+directori 
+citat list 
+citat list 
+status 
+status 
+search error 
+search task 
+search task 
+latex parser result 
+current entri 

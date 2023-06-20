@@ -1,0 +1,3 @@
+group side pane compon 
+setup intersect union toggl 
+execut 

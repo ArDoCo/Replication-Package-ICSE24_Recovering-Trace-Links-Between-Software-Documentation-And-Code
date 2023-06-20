@@ -1,0 +1,20 @@
+question map 
+question visibl preview map 
+question comment visibl preview 
+respons 
+respons 
+respons giver visibl tabl 
+respons recipi visibl tabl 
+respons comment map 
+comment giver visibl tabl 
+roster 
+respons 
+respons 
+respons 
+giver 
+respons 
+comment 
+type 
+
+
+

@@ -1,0 +1,5 @@
+keyword group 
+show dynam 
+explicit group 
+search group 
+show dynam 

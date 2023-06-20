@@ -1,0 +1,1 @@
+web page servlet return built singl web page index html 

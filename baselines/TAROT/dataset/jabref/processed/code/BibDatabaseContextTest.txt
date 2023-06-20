@@ -1,0 +1,22 @@
+bib databas context test 
+current work dir 
+file dir pref 
+
+file prefer 
+
+
+
+set 
+file directori empti db parent 
+file directori relat db parent 
+file directori relat dot db parent 
+file directori absolut db parent 
+file directori relat metadata 
+file directori metadata 
+user file directori empti 
+test type base default biblatex 
+test type base default bibtex 
+test type base infer mode biblatex 
+test full text index path path null 
+test full text index path path null 
+

@@ -1,0 +1,7 @@
+abstract entri 
+data 
+
+id 
+byte size 
+hash code 
+equal 

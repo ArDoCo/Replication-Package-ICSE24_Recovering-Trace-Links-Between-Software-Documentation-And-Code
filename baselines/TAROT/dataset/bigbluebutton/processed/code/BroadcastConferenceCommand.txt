@@ -1,0 +1,18 @@
+broadcast confer command 
+record 
+icecast path 
+
+
+room 
+request id 
+record 
+icecast path 
+respons 
+event listen 
+
+confer event listen 
+
+broadcast confer command 
+command arg 
+handl respons 
+

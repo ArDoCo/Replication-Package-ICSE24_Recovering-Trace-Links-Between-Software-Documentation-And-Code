@@ -1,0 +1,5 @@
+system case:compound
+test case:compound
+user invok:obl
+invok action:amod
+action test:obj

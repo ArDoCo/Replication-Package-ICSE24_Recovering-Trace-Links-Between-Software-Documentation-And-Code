@@ -1,0 +1,45 @@
+rest client 
+default connect timeout 
+default read timeout 
+default rest applic 
+read timeout 
+connect timeout 
+applic uri 
+endpoint uri 
+client 
+servic 
+entiti class 
+entiti class 
+parameter generic type 
+generic list type 
+generic list type 
+
+
+host url 
+applic 
+endpoint 
+entiti class 
+certif 
+ 
+certif 
+ 
+read timeout 
+connect timeout 
+
+
+rest client 
+check client trust 
+check server trust 
+accept issuer 
+actual type argument 
+raw type 
+owner type 
+set global read timeout 
+set global connect timeout 
+generic list type 
+entiti class 
+servic 
+endpoint target 
+endpoint uri 
+applic uri 
+

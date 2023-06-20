@@ -1,0 +1,13 @@
+biblatex apa entri type definit 
+jurisdict 
+legisl 
+legadminmateri 
+constitut 
+legal 
+
+
+
+
+
+
+

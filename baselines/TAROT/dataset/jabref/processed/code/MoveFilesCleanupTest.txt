@@ -1,0 +1,22 @@
+move file cleanup test 
+default file folder 
+file befor 
+cleanup 
+entri 
+file prefer 
+databas context 
+
+bib entri 
+file prefer 
+
+bib folder 
+
+
+set 
+move file 
+move file mulitpl link 
+move file file dir pattern 
+doe move file empti file dir pattern 
+move file subdirectori pattern 
+move file directori 
+

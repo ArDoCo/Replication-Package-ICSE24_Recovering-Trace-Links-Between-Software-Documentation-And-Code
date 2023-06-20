@@ -1,0 +1,12 @@
+file 
+inspecfil 
+set 
+test recogn format accept 
+test recogn format reject 
+test complet bibtex entri journal paper import 
+import confer paper give inproceed 
+import misc give misc 
+test format 
+test cli id 
+test extens 
+test descript 

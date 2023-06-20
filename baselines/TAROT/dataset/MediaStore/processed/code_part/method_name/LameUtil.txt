@@ -1,0 +1,4 @@
+init lame 
+encod 
+decod 
+exec lame 

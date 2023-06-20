@@ -1,0 +1,15 @@
+start 
+stop 
+set run everi 
+set gw 
+run 
+
+queue messag 
+process aliv messag 
+run 
+process messag 
+run 
+process ping 
+process pong 
+handl aliv repli 
+handl 

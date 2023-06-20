@@ -1,0 +1,21 @@
+url 
+base url 
+relat url 
+queri 
+
+
+url string 
+param 
+param valu 
+url 
+key 
+valu 
+
+
+url 
+base url 
+param 
+add param url 
+string 
+absolut string 
+

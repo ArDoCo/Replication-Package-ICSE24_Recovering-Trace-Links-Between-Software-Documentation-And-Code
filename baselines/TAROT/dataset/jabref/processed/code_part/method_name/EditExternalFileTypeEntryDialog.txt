@@ -1,0 +1,3 @@
+edit extern file type entri dialog 
+initi 
+open file chooser 

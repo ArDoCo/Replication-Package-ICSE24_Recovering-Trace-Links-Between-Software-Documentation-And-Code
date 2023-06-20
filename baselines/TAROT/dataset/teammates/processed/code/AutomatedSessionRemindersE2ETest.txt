@@ -1,0 +1,14 @@
+autom session remind test 
+
+
+
+
+prepar test data 
+prepar browser 
+test 
+test feedback session open remind 
+test feedback session open remind 
+test feedback session close remind 
+test feedback session close remind 
+test feedback session publish remind 
+

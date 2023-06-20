@@ -1,0 +1,7 @@
+logger 
+databas 
+meta data 
+path 
+dbms synchron 
+dbms listen 
+locat 

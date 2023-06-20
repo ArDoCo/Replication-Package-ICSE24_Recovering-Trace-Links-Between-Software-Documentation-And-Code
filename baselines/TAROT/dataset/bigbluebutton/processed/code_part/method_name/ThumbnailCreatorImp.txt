@@ -1,0 +1,9 @@
+creat thumbnail 
+generat thumbnail 
+determin thumbnail directori 
+renam thumbnail 
+creat blank thumbnail 
+copi blank thumbnail 
+clean directori 
+set imag magick dir 
+set blank thumbnail 

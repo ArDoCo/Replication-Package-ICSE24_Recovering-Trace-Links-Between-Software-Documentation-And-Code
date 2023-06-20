@@ -1,0 +1,6 @@
+determin number page 
+number page valid 
+check number page exceed limit 
+count page 
+set max num page 
+set page counter 

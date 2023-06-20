@@ -1,0 +1,19 @@
+group tab view model 
+group view mode intersect properti 
+group view mode union properti 
+auto assign group properti 
+display group count properti 
+group prefer 
+
+
+group prefer 
+
+
+group tab view model 
+set valu 
+store set 
+group view mode intersect properti 
+group view mode union properti 
+auto assign group properti 
+display group count 
+

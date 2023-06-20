@@ -1,0 +1,98 @@
+meet servic 
+add user session 
+token user id 
+regist user 
+user session user id 
+user session auth token 
+request session 
+remov user session auth token 
+purg user 
+purg enter user 
+guest wait 
+purg wait guest user 
+kick process record 
+authz token valid 
+authz token valid expir 
+present upload token 
+send present upload max files messag 
+remov user session 
+destroy meet 
+meet 
+session 
+creat meet 
+store event 
+handl creat meet 
+format pretti date 
+process creat meet 
+process regist user 
+meet 
+meet id 
+meet id 
+meet tel voic 
+meet web voic 
+valid text track singl token 
+record text track 
+put record text track 
+track inbox dir 
+dir 
+record exist 
+meet disabl present 
+record 
+exist ani record 
+set publish record 
+delet record 
+updat record 
+process record 
+meet 
+process creat breakout room 
+process updat record status 
+process meet 
+process remov meet 
+process guest status chang event msg 
+process present upload token 
+expir present upload token 
+add user custom data 
+user custom data 
+meet start 
+meet destroy 
+meet 
+process meet callback 
+user join 
+user left 
+updat status 
+process learn dashboard 
+handl 
+set param processor util 
+set pres download servic 
+user join voic 
+user left voic 
+user listen onli 
+user share webcam 
+user unshar webcam 
+user role chang 
+user lock meet 
+process messag 
+run 
+process guest polici chang 
+process posit wait queue updat 
+process guest lobbi messag chang 
+process privat guest lobbi messag chang 
+process record chapter break 
+process present download msg 
+download present file 
+start 
+run 
+stop 
+set record servic 
+set learn dashboard servic 
+set redi storag servic 
+set callback url servic 
+set gw 
+set wait guest cleanup timer task 
+set enter user cleanup timer task 
+set user cleanup timer task 
+set stun turn servic 
+set user timeout 
+set wait guest user timeout 
+set enter user timeout 
+set slide generat progress notifi 

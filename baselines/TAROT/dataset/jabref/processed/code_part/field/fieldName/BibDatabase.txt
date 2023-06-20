@@ -1,0 +1,11 @@
+logger 
+resolv content pattern 
+entri 
+entri 
+bibtex string 
+bibtex string 
+event bus 
+preambl 
+epilog 
+share databas id 
+line separ 

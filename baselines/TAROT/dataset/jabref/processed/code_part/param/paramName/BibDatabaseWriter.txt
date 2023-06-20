@@ -1,0 +1,38 @@
+bib writer 
+save configur 
+key pattern prefer 
+entri type manag 
+chang 
+meta data 
+entri 
+meta data 
+meta data 
+prefer 
+bib databas context 
+entri sort 
+prefer 
+meta data 
+prefer 
+bib databas context 
+bib databas context 
+entri 
+bib databas context 
+encod 
+entri 
+mode 
+epilogu 
+meta data 
+global cite key pattern 
+meta item 
+preambl 
+share databas id 
+databas 
+bibtex string 
+remain 
+max key length 
+bibtex string 
+max key length 
+type 
+custom type 
+databas context 
+entri 

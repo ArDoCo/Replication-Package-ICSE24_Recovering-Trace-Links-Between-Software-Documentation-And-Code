@@ -1,0 +1,14 @@
+entiti 
+entiti 
+entiti 
+entiti 
+entiti key 
+entiti 
+cursor 
+log line 
+log line 
+text 
+string 
+string 
+string 
+sanit string 

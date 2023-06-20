@@ -1,0 +1,7 @@
+call session 
+client session 
+user id 
+caller 
+call state 
+orig caller id 
+orig call dest 

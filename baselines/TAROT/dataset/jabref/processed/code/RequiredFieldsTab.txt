@@ -1,0 +1,31 @@
+requir field tab 
+entri type manag 
+
+bib entri type manag 
+
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri type manag 
+task executor 
+journal abbrevi repositori 
+entri 
+
+suggest provid 
+dialog servic 
+prefer servic 
+theme manag 
+index task manag 
+bib entri type manag 
+task executor 
+journal abbrevi repositori 
+bib entri 
+
+requir field tab 
+determin field show 
+

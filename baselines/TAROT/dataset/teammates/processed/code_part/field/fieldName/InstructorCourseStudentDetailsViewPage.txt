@@ -1,0 +1,7 @@
+specifi label 
+student 
+cours id 
+student section 
+student team 
+student offici email 
+student comment 

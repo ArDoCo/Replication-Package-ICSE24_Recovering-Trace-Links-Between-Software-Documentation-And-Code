@@ -1,0 +1,10 @@
+type 
+sender 
+sender email 
+repli 
+recipi 
+bcc 
+subject 
+param 
+content 
+copi 

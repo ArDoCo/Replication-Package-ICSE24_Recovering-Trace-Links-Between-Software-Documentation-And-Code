@@ -1,0 +1,13 @@
+
+file type 
+id 
+descript 
+cff format 
+set valu 
+cff author 
+set valu 
+cff identifi 
+import databas 
+recogn format 
+field map 
+unmap field 

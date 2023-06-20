@@ -1,0 +1,4 @@
+databas manag entiti 
+id 
+finish generat 
+set finish generat 

@@ -1,0 +1,20 @@
+bib tex string renam 
+logger 
+string 
+string 
+
+
+string 
+string 
+databas context 
+databas chang resolv factori 
+undo edit 
+
+databas chang resolv factori 
+compound 
+
+bib tex string renam 
+appli chang 
+string 
+string 
+

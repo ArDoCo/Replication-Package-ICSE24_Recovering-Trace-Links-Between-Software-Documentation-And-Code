@@ -1,0 +1,13 @@
+git ignor file filter 
+logger 
+git ignor pattern 
+git ignor pattern 
+
+
+path 
+path 
+
+
+git ignor file filter 
+accept 
+

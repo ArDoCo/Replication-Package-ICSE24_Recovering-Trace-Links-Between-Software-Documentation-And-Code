@@ -1,0 +1,5 @@
+directori dialog configur 
+initi directori 
+build 
+initi directori 
+initi directori 

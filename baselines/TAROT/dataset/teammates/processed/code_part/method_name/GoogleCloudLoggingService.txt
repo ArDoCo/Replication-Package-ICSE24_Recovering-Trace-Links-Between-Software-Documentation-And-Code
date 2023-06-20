@@ -1,0 +1,11 @@
+queri log 
+convert sever 
+creat feedback session log 
+feedback session log 
+log entri 
+page log entri 
+convert log search param 
+
+add log 
+set resourc type 
+set queri log param 

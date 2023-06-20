@@ -1,0 +1,20 @@
+logger 
+journal file 
+journal file 
+abbrevi 
+abbrevi 
+abbrevi count 
+current file 
+current file 
+current abbrevi 
+current abbrevi 
+file remov 
+load 
+edit remov 
+abbrevi edit remov 
+journal 
+dialog servic 
+task executor 
+abbrevi prefer 
+journal abbrevi repositori 
+write list 

@@ -1,0 +1,4 @@
+upload present:amod
+present document:nsubj
+offic document:compound
+pdf convert:obl

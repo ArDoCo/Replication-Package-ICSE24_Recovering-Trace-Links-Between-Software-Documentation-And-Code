@@ -1,0 +1,7 @@
+citat key pattern panel item model 
+entri type 
+entri type 
+set pattern 
+pattern 
+pattern 
+string 

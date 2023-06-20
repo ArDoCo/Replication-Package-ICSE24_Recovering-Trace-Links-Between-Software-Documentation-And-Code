@@ -1,0 +1,39 @@
+pdf merg metadata import 
+logger 
+metadata import 
+metadata import 
+import format prefer 
+logger 
+file prefer 
+databas context 
+
+import 
+import format prefer 
+file prefer 
+
+import format prefer 
+input 
+reader 
+data 
+file path 
+import format prefer 
+file prefer 
+context 
+entri 
+
+import format prefer 
+import format prefer 
+file prefer 
+bib entri 
+
+pdf merg metadata import 
+recogn format 
+import databas 
+import databas 
+import databas 
+
+file type 
+descript 
+entri base fetcher wrapper 
+perform search 
+

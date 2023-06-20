@@ -1,0 +1,18 @@
+entri compar test 
+
+
+
+
+recogn ident object equal 
+compar author field bigger ascend 
+entri set field compar ascend 
+entri set field compar ascend 
+entri set field compar ascend 
+entri numer ascend 
+compar object key ascend 
+compar object key null 
+compar object key blank 
+compar cr lf field 
+compar lf field 
+compar mix line 
+

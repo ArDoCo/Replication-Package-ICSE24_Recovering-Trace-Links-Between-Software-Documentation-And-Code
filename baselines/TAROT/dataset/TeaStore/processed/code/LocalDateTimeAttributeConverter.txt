@@ -1,0 +1,10 @@
+local date time attribut convert 
+
+
+loc date time 
+sql timestamp 
+
+
+convert databas column 
+convert entiti attribut 
+

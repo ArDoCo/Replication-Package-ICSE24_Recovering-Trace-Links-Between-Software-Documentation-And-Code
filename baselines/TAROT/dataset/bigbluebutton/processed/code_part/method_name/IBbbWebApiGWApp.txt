@@ -1,0 +1,11 @@
+send 
+creat meet 
+regist user 
+guest wait left 
+destroy meet 
+meet 
+send aliv 
+publish record 
+unpublish record 
+delet record 
+send doc convers msg 

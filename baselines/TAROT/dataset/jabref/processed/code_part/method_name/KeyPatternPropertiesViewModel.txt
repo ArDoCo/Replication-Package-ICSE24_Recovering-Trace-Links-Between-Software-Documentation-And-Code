@@ -1,0 +1,5 @@
+key pattern properti view model 
+set valu 
+store set 
+pattern list properti 
+default key pattern properti 

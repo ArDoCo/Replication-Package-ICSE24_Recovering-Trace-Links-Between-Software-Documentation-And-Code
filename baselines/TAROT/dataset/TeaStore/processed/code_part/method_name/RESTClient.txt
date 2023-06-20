@@ -1,0 +1,15 @@
+rest client 
+check client trust 
+check server trust 
+accept issuer 
+actual type argument 
+raw type 
+owner type 
+set global read timeout 
+set global connect timeout 
+generic list type 
+entiti class 
+servic 
+endpoint target 
+endpoint uri 
+applic uri 

@@ -1,0 +1,6 @@
+account logic 
+student logic 
+cours logic 
+fr logic 
+fq logic 
+fs logic 

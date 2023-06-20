@@ -1,0 +1,6 @@
+offset minut 
+offset hour 
+offset day 
+offset day 
+offset day 
+timezon 

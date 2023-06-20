@@ -1,0 +1,9 @@
+group search queri 
+string 
+match 
+search rule 
+case sensit descript 
+regular express descript 
+rule 
+search express 
+search flag 

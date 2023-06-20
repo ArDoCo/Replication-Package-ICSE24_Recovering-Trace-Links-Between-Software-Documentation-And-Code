@@ -1,0 +1,4 @@
+jab ref class:nmod
+logic depend:nsubj
+model class:compound
+class depend:obl

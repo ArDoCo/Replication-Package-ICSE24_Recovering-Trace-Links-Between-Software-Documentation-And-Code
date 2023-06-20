@@ -1,0 +1,41 @@
+bibtex entri type definit 
+articl 
+book 
+booklet 
+confer 
+inbook 
+incollect 
+inproceed 
+manual 
+mastersthesi 
+misc 
+phdthesi 
+proceed 
+techreport 
+unpublish 
+
+
+recommend 
+recommend 
+
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+
+
+
+bibtex entri type definit 
+

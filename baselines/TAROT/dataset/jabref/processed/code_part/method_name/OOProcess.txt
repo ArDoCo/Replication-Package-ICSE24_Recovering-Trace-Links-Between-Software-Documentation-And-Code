@@ -1,0 +1,5 @@
+oo process 
+author year titl compar 
+year author titl compar 
+compar multicit 
+produc citat marker 

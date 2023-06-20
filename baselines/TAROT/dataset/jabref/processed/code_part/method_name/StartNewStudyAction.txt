@@ -1,0 +1,3 @@
+start studi action 
+crawl prepar 
+execut 

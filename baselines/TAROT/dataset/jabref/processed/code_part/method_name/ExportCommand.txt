@@ -1,0 +1,4 @@
+export command 
+execut 
+export 
+handl error 

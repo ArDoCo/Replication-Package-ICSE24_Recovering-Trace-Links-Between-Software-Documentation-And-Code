@@ -1,0 +1,2 @@
+write metadata pdf command 
+execut 

@@ -1,0 +1,13 @@
+avoid expect:xcomp
+test failur:compound
+failur avoid:obj
+caus failur:acl
+eventu consist:amod
+consist caus:obl
+dev server:compound
+server consist:nmod
+reduc expect:xcomp
+reduc avoid:conj
+problem reduc:obj
+live server:amod
+server reduc:obl

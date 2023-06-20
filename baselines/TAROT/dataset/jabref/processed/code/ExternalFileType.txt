@@ -1,0 +1,13 @@
+extern file type 
+
+
+
+
+
+extens 
+mime type 
+open applic 
+icon 
+field 
+string array 
+

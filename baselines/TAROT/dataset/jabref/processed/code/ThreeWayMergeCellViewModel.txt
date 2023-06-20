@@ -1,0 +1,24 @@
+merg cell view model 
+text 
+odd 
+
+
+
+text 
+row index 
+text 
+odd 
+
+
+
+merg cell view model 
+text 
+text properti 
+set text 
+odd 
+odd properti 
+set odd 
+
+properti 
+set 
+

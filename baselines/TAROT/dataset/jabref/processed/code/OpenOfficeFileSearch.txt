@@ -1,0 +1,13 @@
+open offic file search 
+logger 
+
+
+program directori 
+
+
+detect instal 
+find open offic directori 
+find window open offic dir 
+find osx open offic dir 
+find linux open offic dir 
+

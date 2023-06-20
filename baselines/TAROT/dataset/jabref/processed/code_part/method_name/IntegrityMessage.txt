@@ -1,0 +1,8 @@
+integr messag 
+string 
+messag 
+entri 
+field 
+clone 
+equal 
+hash code 

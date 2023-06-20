@@ -1,0 +1,27 @@
+inspir fetcher 
+inspir host 
+inspir doi host 
+inspir arxiv host 
+import format prefer 
+
+import format prefer 
+
+prefer 
+lucen queri 
+url 
+entri 
+entri 
+
+import format prefer 
+bib entri 
+bib entri 
+
+inspir fetcher 
+
+page 
+url queri 
+url download 
+post cleanup 
+parser 
+perform search 
+

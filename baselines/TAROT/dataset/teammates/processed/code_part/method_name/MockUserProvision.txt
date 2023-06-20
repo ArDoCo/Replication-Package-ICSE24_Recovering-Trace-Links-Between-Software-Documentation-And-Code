@@ -1,0 +1,5 @@
+login user 
+login user 
+login admin 
+logout user 
+current log user 

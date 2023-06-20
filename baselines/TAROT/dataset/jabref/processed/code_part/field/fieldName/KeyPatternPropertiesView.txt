@@ -1,0 +1,4 @@
+key pattern 
+bibtex key pattern tabl 
+prefer servic 
+bib entri type manag 

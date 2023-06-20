@@ -1,0 +1,14 @@
+set 
+test protect term list string list string string boolean 
+test protect term list string list string string 
+test descript 
+test term list 
+test locat 
+test term list 
+test compar 
+test set enabl enabl 
+test enabl default 
+test add term intern list 
+test term ad intern list 
+test add term extern list 
+test term ad extern list 

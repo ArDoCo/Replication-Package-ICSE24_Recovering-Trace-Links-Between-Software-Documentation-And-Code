@@ -1,0 +1,20 @@
+meet id 
+parent meet id 
+
+sequenc 
+short 
+default 
+free join 
+dial number 
+voic conf id 
+viewer password 
+moder password 
+durat 
+sourc present id 
+sourc present slide 
+record 
+privat chat enabl 
+captur note 
+captur slide 
+captur note filenam 
+captur slide filenam 

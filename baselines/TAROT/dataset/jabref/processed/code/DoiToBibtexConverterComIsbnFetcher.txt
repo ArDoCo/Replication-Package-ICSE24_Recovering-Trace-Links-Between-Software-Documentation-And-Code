@@ -1,0 +1,24 @@
+doi bibtex convert isbn fetcher 
+base url 
+
+
+import format prefer 
+identifi 
+entri 
+item 
+json array 
+key 
+type 
+
+import format prefer 
+bib entri 
+
+doi bibtex convert isbn fetcher 
+
+url identifi 
+parser 
+post cleanup 
+json item bib entri 
+element json array key 
+evalu bib entri type string 
+

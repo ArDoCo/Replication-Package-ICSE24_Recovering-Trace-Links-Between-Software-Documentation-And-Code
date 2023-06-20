@@ -1,0 +1,6 @@
+cours id 
+feedback session 
+user email 
+instructor 
+sent close email 
+time 

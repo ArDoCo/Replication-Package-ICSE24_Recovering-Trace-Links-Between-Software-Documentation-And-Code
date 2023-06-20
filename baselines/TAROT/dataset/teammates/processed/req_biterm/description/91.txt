@@ -1,0 +1,7 @@
+email sender send:nsubj
+email send:obj
+provid send:obl
+chosen provid:acl
+base configur:case
+build configur:compound
+configur chosen:advcl

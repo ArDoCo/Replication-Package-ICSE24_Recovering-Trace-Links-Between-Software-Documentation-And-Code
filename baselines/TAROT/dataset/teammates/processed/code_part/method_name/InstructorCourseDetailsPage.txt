@@ -1,0 +1,23 @@
+instructor cours detail page 
+expect page content 
+verifi cours detail 
+verifi student detail 
+verifi num student 
+send invit 
+remind join 
+download student list 
+sort 
+sort status 
+delet student 
+delet student 
+expect instructor string 
+student list 
+expect student valu 
+send invit button 
+delet button 
+student row 
+num student 
+student row 
+click view student 
+click edit student 
+click view record 

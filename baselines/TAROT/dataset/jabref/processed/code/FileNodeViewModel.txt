@@ -1,0 +1,27 @@
+file node view model 
+logger 
+path 
+children 
+children 
+file count 
+
+file node view model 
+
+path 
+file count 
+file time 
+obj 
+
+
+file node view model 
+path 
+children 
+file count 
+set file count 
+format date time 
+display text 
+display text edit date 
+string 
+hash code 
+equal 
+

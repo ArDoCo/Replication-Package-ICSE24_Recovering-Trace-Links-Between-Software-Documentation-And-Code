@@ -1,0 +1,27 @@
+special field compar test 
+compar 
+valu 
+valu 
+valu 
+prio 
+prio 
+prio 
+prio 
+read 
+read 
+
+special field valu view model 
+special field valu view model 
+special field valu view model 
+
+
+
+set 
+compar higher prioriti 
+compar prioriti 
+compar prioriti 
+compar unrel field 
+compar empti input 
+compar input empti 
+compar input empti 
+

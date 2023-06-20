@@ -1,0 +1,14 @@
+account logic 
+inst 
+init logic depend 
+creat account 
+account 
+read notif id 
+account email 
+join cours student 
+join cours instructor 
+valid instructor join request 
+valid student join request 
+delet account cascad 
+creat student account 
+updat read notif 

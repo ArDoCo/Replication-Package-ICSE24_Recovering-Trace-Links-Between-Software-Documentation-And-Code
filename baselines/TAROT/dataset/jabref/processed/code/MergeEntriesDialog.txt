@@ -1,0 +1,20 @@
+merg entri dialog 
+merg view 
+
+
+
+
+
+
+bib entri prefer 
+left header text 
+header text 
+diff config 
+
+
+merg entri dialog 
+init 
+set left header text 
+set header text 
+configur diff 
+

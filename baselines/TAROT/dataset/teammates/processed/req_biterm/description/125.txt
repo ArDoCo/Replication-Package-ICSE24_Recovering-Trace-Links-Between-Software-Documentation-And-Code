@@ -1,0 +1,8 @@
+class visibl:nsubj
+packag class:nmod
+compon visibl:obl
+hide compon:acl
+inform persist:compound
+specif persist:amod
+data specif:obl
+persist hide:obj

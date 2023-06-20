@@ -1,0 +1,8 @@
+socket client test 
+log 
+
+
+
+
+run client 
+

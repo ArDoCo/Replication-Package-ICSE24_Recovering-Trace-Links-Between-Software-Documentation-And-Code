@@ -1,0 +1,18 @@
+feedback question db 
+inst 
+feedback question 
+feedback question 
+feedback question session 
+feedback question giver type 
+feedback question giver type 
+updat feedback question 
+delet feedback question 
+delet feedback question 
+feedback question entiti 
+feedback question entiti 
+feedback question entiti session 
+feedback question entiti giver type 
+feedback question entiti giver type 
+load 
+exist entiti 
+attribut 

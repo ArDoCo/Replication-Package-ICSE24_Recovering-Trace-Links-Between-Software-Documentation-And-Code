@@ -1,0 +1,6 @@
+edit field content tab view 
+initi 
+tab 
+append field valu 
+clear field 
+set field valu 

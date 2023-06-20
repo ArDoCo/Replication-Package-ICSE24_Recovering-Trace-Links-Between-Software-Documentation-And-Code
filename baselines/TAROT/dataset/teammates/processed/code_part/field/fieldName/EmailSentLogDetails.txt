@@ -1,0 +1,6 @@
+email recipi 
+email subject 
+email content 
+email type 
+email status 
+email status messag 

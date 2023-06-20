@@ -1,0 +1,11 @@
+action factori 
+set graphic 
+associ node 
+configur menu item 
+creat menu item 
+creat check menu item 
+creat check menu item 
+creat menu 
+creat menu 
+creat icon button 
+configur icon button 

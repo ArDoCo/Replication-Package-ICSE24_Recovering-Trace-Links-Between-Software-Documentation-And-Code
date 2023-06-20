@@ -1,0 +1,12 @@
+cpu intens:obl
+item rank:compound
+rank calcul:obj
+user rank:nmod
+memori intens:obl
+total matrix:amod
+user matrix:compound
+rate matrix:compound
+predict matrix:compound
+matrix calcul:obj
+train phase:compound
+phase calcul:obl

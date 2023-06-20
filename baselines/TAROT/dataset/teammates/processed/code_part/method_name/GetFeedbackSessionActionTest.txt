@@ -1,0 +1,15 @@
+action uri 
+request method 
+test execut 
+test execut full detail 
+test execut instructor submiss 
+test execut instructor result 
+text execut student submiss 
+test execut student result 
+test access control 
+test access control student result 
+test access control full detail 
+test access control instructor result 
+generat paramet 
+assert equal deadlin 
+updat feedback session typic cours 

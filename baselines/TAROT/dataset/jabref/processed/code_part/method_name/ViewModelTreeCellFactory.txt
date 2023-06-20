@@ -1,0 +1,9 @@
+text 
+graphic 
+icon 
+tooltip 
+mous click event 
+instal 
+call 
+string 
+string 

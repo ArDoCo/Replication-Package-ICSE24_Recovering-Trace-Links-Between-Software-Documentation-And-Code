@@ -1,0 +1,20 @@
+question type 
+rubric answer chosen 
+rubric min num choic 
+rubric error choic 
+rubric min num question 
+rubric error question 
+rubric error desc invalid size 
+rubric error empti question 
+rubric error invalid weight 
+rubric empti answer 
+rubric invalid answer 
+assign weight 
+rubric weight cell 
+rubric weight cell 
+rubric choic 
+rubric choic 
+rubric question 
+rubric question 
+rubric descript 
+rubric descript 

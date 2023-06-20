@@ -1,0 +1,6 @@
+set 
+valid exist absolut path 
+valid exist absolut path 
+valid exist relat path 
+test hierarch context group 
+test default hierarch context 

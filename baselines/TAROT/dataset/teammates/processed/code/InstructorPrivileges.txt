@@ -1,0 +1,118 @@
+instructor privileg 
+privileg coowner 
+privileg manag 
+privileg observ 
+privileg tutor 
+privileg custom 
+cours level onli list 
+section level onli list 
+session level onli list 
+cours level onli privileg 
+cours level onli privileg 
+section level onli privileg 
+section level onli privileg 
+session level onli privileg 
+session level onli privileg 
+cours level 
+section level 
+section level 
+session level 
+session level 
+
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+
+instr role 
+legaci format 
+privileg 
+privileg 
+privileg 
+default privileg 
+privileg 
+
+section 
+privileg 
+
+section 
+session 
+privileg 
+
+privileg 
+
+section 
+privileg 
+
+section 
+session 
+privileg 
+
+section 
+section 
+privileg 
+section 
+privileg 
+section 
+session 
+privileg 
+session 
+privileg 
+privileg 
+section 
+privileg 
+section 
+session 
+privileg 
+session 
+privileg 
+privileg 
+anoth 
+
+instructor privileg legaci 
+instructor permiss set 
+
+instructor privileg 
+instructor privileg 
+instructor privileg 
+legaci format 
+privileg valid 
+privileg valid section level 
+privileg valid session level 
+set default privileg coowner 
+set default privileg manag 
+set default privileg observ 
+set default privileg tutor 
+set default privileg custom 
+set default privileg 
+overal privileg section 
+updat privileg 
+updat privileg 
+updat privileg 
+updat privileg cours level 
+updat privileg section level 
+updat privileg session level 
+verifi exist ofsect 
+add section default privileg 
+privileg 
+privileg 
+privileg 
+privileg ani section 
+coowner privileg 
+manag privileg 
+observ privileg 
+tutor privileg 
+cours level 
+section level 
+session level 
+session level ani section 
+valid privileg 
+cours level privileg 
+section level privileg 
+session level privileg 
+section privileg 
+equal 
+hash code 
+

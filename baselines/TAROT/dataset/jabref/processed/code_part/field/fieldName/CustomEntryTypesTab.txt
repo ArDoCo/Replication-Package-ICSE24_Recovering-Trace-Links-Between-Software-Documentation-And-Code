@@ -1,0 +1,24 @@
+entri type tabl 
+entri type tabl 
+entri typ column 
+entri typ column 
+entri type action column 
+entri type action column 
+add entri type 
+field 
+field 
+field column 
+field column 
+field type column 
+field type column 
+field type action column 
+field type action column 
+field type multilin column 
+field type multilin column 
+add field 
+add field 
+add entri type button 
+add field button 
+state manag 
+visual 
+local dragboard 

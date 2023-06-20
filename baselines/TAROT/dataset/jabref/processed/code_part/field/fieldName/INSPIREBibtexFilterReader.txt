@@ -1,0 +1,5 @@
+pattern 
+reader 
+line 
+pos 
+pre 

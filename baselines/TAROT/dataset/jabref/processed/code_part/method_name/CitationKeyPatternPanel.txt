@@ -1,0 +1,8 @@
+citat key pattern panel 
+initi 
+set valu 
+reset 
+pattern list properti 
+default key pattern properti 
+jump search key 
+updat item 

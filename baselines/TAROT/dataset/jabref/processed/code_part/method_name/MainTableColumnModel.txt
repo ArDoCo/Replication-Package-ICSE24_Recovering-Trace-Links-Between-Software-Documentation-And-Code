@@ -1,0 +1,20 @@
+type 
+type 
+
+display 
+string 
+main tabl column model 
+main tabl column model 
+main tabl column model 
+type 
+qualifi 
+
+display 
+properti 
+width 
+width properti 
+sort type 
+sort type properti 
+equal 
+hash code 
+pars 

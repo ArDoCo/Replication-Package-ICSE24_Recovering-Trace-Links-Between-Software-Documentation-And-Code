@@ -1,0 +1,7 @@
+individu backend:amod
+backend redi:nsubj
+process backend:dep
+event redi:obj
+meet event:nmod
+match meet:acl
+instanc match:obj

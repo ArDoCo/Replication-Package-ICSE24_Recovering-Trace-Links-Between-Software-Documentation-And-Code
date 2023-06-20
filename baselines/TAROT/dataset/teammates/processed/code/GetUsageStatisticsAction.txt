@@ -1,0 +1,10 @@
+usag statist action 
+max search window 
+
+
+
+
+min auth level 
+check specif access control 
+execut 
+

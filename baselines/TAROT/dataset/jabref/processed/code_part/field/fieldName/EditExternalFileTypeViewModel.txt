@@ -1,0 +1,7 @@
+file type view model 
+properti 
+mime type properti 
+extens properti 
+select applic properti 
+default applic select properti 
+custom applic select properti 

@@ -1,0 +1,2 @@
+pars studi yaml file 
+write studi yaml file 

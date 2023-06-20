@@ -1,0 +1,12 @@
+main 
+command mode 
+print usag 
+creat default directori 
+execut command 
+interact mode 
+import record 
+export record 
+respons 
+respons 
+pars respons 
+

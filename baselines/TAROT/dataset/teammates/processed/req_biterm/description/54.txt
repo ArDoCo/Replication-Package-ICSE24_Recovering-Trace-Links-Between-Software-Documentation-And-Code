@@ -1,0 +1,4 @@
+origin check:compound
+check mitig:nsubj
+csrf attack:compound
+attack mitig:obj

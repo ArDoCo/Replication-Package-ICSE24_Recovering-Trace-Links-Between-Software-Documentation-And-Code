@@ -1,0 +1,4 @@
+servic instanc:compound
+instanc regist:nsubj
+registri regist:obl
+startup registri:nmod

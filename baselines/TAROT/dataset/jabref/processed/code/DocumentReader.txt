@@ -1,0 +1,41 @@
+document reader 
+logger 
+hyphen linebreak pattern 
+linebreak period pattern 
+entri 
+file prefer 
+
+
+bib entri 
+file prefer 
+databas context 
+pdf 
+databas context 
+pdf 
+resolv pdf path 
+document 
+resolv pdf path 
+page number 
+document 
+field 
+valu 
+valu 
+text 
+pdf document 
+document 
+page number 
+document 
+path 
+
+
+document reader 
+read link pdf 
+read link pdfs 
+read pdf content 
+add meta data 
+add string field 
+valid field 
+merg line 
+add content empti 
+add identifi 
+

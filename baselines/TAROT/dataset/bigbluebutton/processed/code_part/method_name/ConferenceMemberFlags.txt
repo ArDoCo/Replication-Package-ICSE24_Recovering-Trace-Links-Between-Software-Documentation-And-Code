@@ -1,0 +1,4 @@
+speak 
+mute 
+set speak 
+set talk 

@@ -1,0 +1,9 @@
+regist user 
+set guest status 
+guest status 
+left guest lobbi 
+set exclud dashboard 
+exclud dashboard 
+updat guest wait 
+set left guest lobbi 
+guest wait 

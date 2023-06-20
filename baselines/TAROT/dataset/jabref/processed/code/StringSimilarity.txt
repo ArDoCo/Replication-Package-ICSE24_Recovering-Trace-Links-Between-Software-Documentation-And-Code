@@ -1,0 +1,14 @@
+string similar 
+metric distanc 
+metric threshold 
+
+
+ 
+ 
+ 
+ 
+
+
+similar 
+edit distanc ignor case 
+

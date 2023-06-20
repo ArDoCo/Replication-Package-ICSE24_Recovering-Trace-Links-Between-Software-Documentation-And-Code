@@ -1,0 +1,24 @@
+num instructor 
+ramp period 
+number feedback question 
+number feedback respons 
+cours id 
+cours 
+cours time zone 
+instructor id 
+instructor 
+instructor email 
+student id 
+student 
+student email 
+team 
+giver section 
+receiv section 
+feedback session 
+feedback question id 
+feedback question text 
+updat feedback question 
+updat feedback question text 
+feedback respons id 
+error rate limit 
+resp time limit 

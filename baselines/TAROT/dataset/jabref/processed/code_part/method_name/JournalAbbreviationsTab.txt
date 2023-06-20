@@ -1,0 +1,15 @@
+journal abbrevi tab 
+initi 
+set tabl 
+set bind 
+set anim 
+add list 
+open list 
+remov list 
+add abbrevi 
+add abbrevi action 
+creat flash color string properti 
+set color string color 
+edit abbrevi 
+select abbrevi 
+tab 

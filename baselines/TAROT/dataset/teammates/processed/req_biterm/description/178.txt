@@ -1,0 +1,4 @@
+compon case:compound
+test case:compound
+search function:nsubj
+function test:ccomp

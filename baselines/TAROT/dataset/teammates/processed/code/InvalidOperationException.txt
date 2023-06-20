@@ -1,0 +1,20 @@
+invalid oper 
+
+
+messag 
+caus 
+caus 
+caus 
+messag 
+caus 
+
+entiti alreadi exist 
+instructor updat 
+entiti alreadi exist 
+
+invalid oper 
+invalid oper 
+invalid oper 
+invalid oper 
+invalid oper 
+

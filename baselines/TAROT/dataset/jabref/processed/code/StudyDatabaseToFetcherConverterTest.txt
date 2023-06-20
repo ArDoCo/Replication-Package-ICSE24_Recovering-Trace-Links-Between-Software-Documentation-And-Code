@@ -1,0 +1,19 @@
+studi databas fetcher convert test 
+save configur 
+prefer servic 
+entri type manag 
+git handler 
+temp repositori directori 
+
+save configur 
+prefer servic 
+bib entri type manag 
+slr git handler 
+
+destin 
+
+
+set mock 
+activ fetcher instanc 
+copi test studi definit file directori 
+

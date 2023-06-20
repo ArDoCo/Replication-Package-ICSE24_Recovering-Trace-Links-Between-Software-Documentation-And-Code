@@ -1,0 +1,10 @@
+pdf page counter 
+log 
+wait sec 
+
+
+present file 
+
+
+count number page 
+

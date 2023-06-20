@@ -1,0 +1,38 @@
+comment 
+viewer type 
+cours id 
+feedback session 
+comment giver 
+comment text 
+feedback respons id 
+feedback question id 
+show comment 
+show giver 
+visibl follow feedback question 
+creat 
+editor email 
+edit 
+comment giver type 
+comment feedback particip 
+id 
+
+updat option 
+feedback respons comment id 
+cours id 
+feedback session 
+comment giver 
+feedback question id 
+visibl follow feedback question 
+comment giver type 
+comment feedback particip 
+feedback respons comment id 
+feedback respons comment id 
+editor email 
+edit 
+updat option 
+feedback respons id 
+comment text 
+show comment 
+show giver 
+giver section 
+receiv section 

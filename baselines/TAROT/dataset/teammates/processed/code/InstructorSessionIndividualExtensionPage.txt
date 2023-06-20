@@ -1,0 +1,71 @@
+instructor session individu extens page 
+student section index 
+student team index 
+student index 
+student email index 
+student deadlin index 
+instructor index 
+instructor email index 
+instructor role index 
+instructor deadlin index 
+datetim display format 
+extend deadlin button 
+delet deadlin button 
+student list tabl 
+instructor list tabl 
+
+
+browser 
+session 
+student 
+instructor 
+session 
+student 
+session 
+instructor 
+deadlin 
+timezon 
+student 
+instructor 
+student deadlin 
+student 
+instructor deadlin 
+instructor 
+index 
+index 
+index 
+notifi user 
+notifi user 
+notifi user 
+
+notifi user 
+session 
+notifi user 
+notifi user 
+instant 
+timezon 
+
+
+instructor session individu extens page 
+expect page content 
+verifi deadlin detail 
+student deadlin 
+instructor deadlin 
+format deadlin 
+student map 
+instructor map 
+verifi student deadlin 
+verifi instructor deadlin 
+select student 
+select student 
+select instructor 
+select student 
+select instructor 
+delet deadlin 
+extend deadlin twelv hour 
+extend deadlin day 
+extend deadlin 
+extend deadlin day 
+confirm chang deadlin extens 
+time string 
+

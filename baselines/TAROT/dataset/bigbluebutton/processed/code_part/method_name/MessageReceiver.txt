@@ -1,0 +1,11 @@
+start 
+run 
+stop 
+set messag handler 
+messag 
+messag 
+run 
+subscrib 
+psubscrib 
+unsubscrib 
+punsubscrib 

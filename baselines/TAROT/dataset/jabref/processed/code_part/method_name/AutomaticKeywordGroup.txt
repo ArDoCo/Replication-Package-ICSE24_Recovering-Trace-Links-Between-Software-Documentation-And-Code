@@ -1,0 +1,9 @@
+automat keyword group 
+keyword hierarch delimit 
+keyword delimit 
+field 
+deep copi 
+equal 
+hash code 
+creat subgroup 
+creat group 

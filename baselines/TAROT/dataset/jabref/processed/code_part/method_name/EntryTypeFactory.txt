@@ -1,0 +1,6 @@
+entri type factori 
+equal field base 
+exclus biblatex 
+bibtex 
+biblatex 
+pars 

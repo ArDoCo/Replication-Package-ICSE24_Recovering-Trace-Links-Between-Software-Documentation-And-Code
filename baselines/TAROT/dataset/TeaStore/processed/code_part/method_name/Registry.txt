@@ -1,0 +1,7 @@
+registri 
+registri instanc 
+locat 
+updat heartbeat map 
+unregist 
+regist 
+heart beat cleanup 

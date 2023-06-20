@@ -1,0 +1,8 @@
+valid salt:advcl
+session valid:obj
+session blob salt:nsubj
+session blob hash:nsubj
+session blob store:nsubj
+hash salt:conj
+store salt:conj
+cooki store:obl

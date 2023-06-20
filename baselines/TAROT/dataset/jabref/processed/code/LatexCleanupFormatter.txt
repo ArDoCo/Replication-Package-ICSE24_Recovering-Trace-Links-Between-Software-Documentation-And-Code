@@ -1,0 +1,18 @@
+latex cleanup formatt 
+remov redund 
+replac 
+replac everi 
+move number oper 
+move number equat 
+escap percent sign onc 
+
+
+string 
+
+
+
+key 
+format 
+descript 
+exampl input 
+

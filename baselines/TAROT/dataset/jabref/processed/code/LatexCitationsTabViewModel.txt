@@ -1,0 +1,53 @@
+latex citat tab view model 
+logger 
+tex ext 
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+directori 
+directori 
+citat list 
+citat list 
+status 
+status 
+search error 
+search task 
+search task 
+latex parser result 
+current entri 
+
+prefer servic 
+task executor 
+dialog servic 
+citat 
+bib entri 
+
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+entri 
+cite key 
+cite key 
+directori 
+tex file 
+
+prefer servic 
+task executor 
+dialog servic 
+bib entri 
+
+latex citat tab view model 
+init 
+directori properti 
+citat list 
+status properti 
+search error properti 
+start search 
+cancel search 
+search pars 
+search directori 
+set latex directori 
+show 
+

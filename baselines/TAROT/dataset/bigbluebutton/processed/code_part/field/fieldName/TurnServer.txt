@@ -1,0 +1,5 @@
+hmac sha algorithm 
+colon 
+secret key 
+url 
+ttl 

@@ -1,0 +1,3 @@
+match autom action:compound
+autom action object:compound
+object generat:obj

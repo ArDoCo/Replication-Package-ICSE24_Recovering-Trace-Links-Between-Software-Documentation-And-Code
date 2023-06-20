@@ -1,0 +1,12 @@
+cours data 
+cours id 
+cours 
+institut 
+time zone 
+creation timestamp 
+delet timestamp 
+privileg 
+set creation timestamp 
+set delet timestamp 
+set privileg 
+hide inform student 

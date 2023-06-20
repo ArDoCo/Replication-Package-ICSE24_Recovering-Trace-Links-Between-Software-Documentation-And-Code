@@ -1,0 +1,7 @@
+current student identifi 
+cours id 
+cours 
+cours institut 
+session 
+session open time 
+session close time 

@@ -1,0 +1,20 @@
+automat group 
+
+
+
+context 
+entri 
+entri 
+entri 
+
+group hierarchi type 
+bib entri 
+bib entri 
+bib entri 
+
+automat group 
+
+dynam 
+creat subgroup 
+creat subgroup 
+

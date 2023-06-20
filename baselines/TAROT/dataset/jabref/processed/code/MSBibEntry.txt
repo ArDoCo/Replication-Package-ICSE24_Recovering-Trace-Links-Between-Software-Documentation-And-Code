@@ -1,0 +1,90 @@
+ms bib entri 
+field 
+field 
+author 
+author 
+book author 
+book author 
+editor 
+editor 
+translat 
+translat 
+produc 
+produc 
+compos 
+compos 
+conductor 
+conductor 
+perform 
+perform 
+writer 
+writer 
+director 
+director 
+compil 
+compil 
+interview 
+interview 
+interviewe 
+interviewe 
+inventor 
+inventor 
+counsel 
+counsel 
+page 
+standard number 
+address 
+confer 
+thesi type 
+internet site titl 
+date access 
+public titl 
+album titl 
+broadcast titl 
+year 
+month 
+day 
+number 
+patent number 
+journal 
+bibtex entri type 
+address pattern 
+
+
+entri 
+
+entri 
+entri 
+author elem 
+type 
+author 
+document 
+document 
+parent 
+
+valu 
+document 
+author 
+entri 
+author lst 
+document 
+root node 
+document 
+parent 
+address split 
+
+
+ms bib entri 
+ms bib entri 
+type 
+cite key 
+xml element text content 
+popul xml 
+author 
+specif author 
+entri dom 
+add field 
+add author 
+add date acess field 
+add address 
+

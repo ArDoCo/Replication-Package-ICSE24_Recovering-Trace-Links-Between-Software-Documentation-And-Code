@@ -1,0 +1,8 @@
+load balanc store oper 
+place order 
+login 
+logout 
+log 
+add product cart 
+remov product cart 
+updat quantiti 

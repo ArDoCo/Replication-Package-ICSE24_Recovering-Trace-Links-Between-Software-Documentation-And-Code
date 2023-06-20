@@ -1,0 +1,6 @@
+split diff highlight 
+unifi diff highlight 
+sourc textview 
+target textview 
+diff method 
+separ 

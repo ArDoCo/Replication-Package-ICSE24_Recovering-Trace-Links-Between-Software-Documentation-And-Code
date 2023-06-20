@@ -1,0 +1,2 @@
+string helper extens 
+generat string length 

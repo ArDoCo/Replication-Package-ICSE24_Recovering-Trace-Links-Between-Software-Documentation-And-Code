@@ -1,0 +1,4 @@
+posix compliant 
+maximum file length 
+logger 
+illeg char 

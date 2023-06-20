@@ -1,0 +1,8 @@
+display 
+tooltip 
+applic icon 
+push entri 
+oper complet 
+requir citat key 
+action 
+set 

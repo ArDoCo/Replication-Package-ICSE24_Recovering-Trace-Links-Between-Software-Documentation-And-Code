@@ -1,0 +1,91 @@
+type 
+pars month 
+field 
+databas 
+target field 
+target entri 
+sourc entri 
+field 
+databas 
+field 
+databas 
+field 
+databas 
+field alia 
+id 
+key 
+key 
+type 
+type 
+event sourc 
+field 
+field 
+field 
+field valu 
+
+field 
+field 
+field 
+valu 
+event sourc 
+field 
+valu 
+field 
+field 
+event sourc 
+field 
+databas 
+max charact 
+pars serial 
+pars comment 
+chang 
+keyword 
+delimit 
+keyword 
+delimit 
+keyword 
+delimit 
+keyword 
+delimit 
+keyword 
+delimit 
+delimit 
+delimit 
+databas 
+keyword remov 
+keyword delimit 
+keyword replac 
+valu 
+keyword delimit 
+share id 
+version 
+share bib entri data 
+ 
+object 
+object 
+field 
+valu 
+content 
+date 
+pars month 
+comment befor entri 
+field 
+databas 
+field 
+list 
+field 
+field 
+keyword separ 
+field 
+field 
+file 
+date 
+field 
+file 
+index 
+file 
+link download file 
+download file 
+
+
+priorit field 

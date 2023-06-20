@@ -1,0 +1,1 @@
+check freeswitch status command 

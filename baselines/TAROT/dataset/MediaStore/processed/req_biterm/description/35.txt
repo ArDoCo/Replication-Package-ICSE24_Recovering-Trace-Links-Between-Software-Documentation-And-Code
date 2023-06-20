@@ -1,0 +1,8 @@
+base request:case
+user request:compound
+request retriev:advcl
+meta data:compound
+data request:conj
+data retriev:advcl
+file retriev:nsubj
+data storag retriev:obl

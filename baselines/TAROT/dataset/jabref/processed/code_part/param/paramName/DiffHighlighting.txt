@@ -1,0 +1,10 @@
+base string 
+modifi string 
+separ 
+text 
+text 
+text 
+text 
+base string 
+modifi string 
+separ 

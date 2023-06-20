@@ -1,0 +1,14 @@
+theme manag 
+updat theme set 
+updat font set 
+remov stylesheet watch list 
+add stylesheet watchlist 
+base css live updat 
+addit css live updat 
+updat base css 
+updat addit css 
+instal css 
+instal css 
+updat font style 
+activ theme 
+main window scene 

@@ -1,0 +1,9 @@
+setup 
+link pdf titl tag 
+link pdf string lead fulltext 
+citat meta tag lead fulltext 
+return anyth multipl link 
+return anyth springer pay wall 
+doi 
+entiti doi 
+trust level 

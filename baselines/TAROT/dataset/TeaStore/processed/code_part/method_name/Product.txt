@@ -1,0 +1,14 @@
+product 
+product 
+id 
+set id 
+categori id 
+set categori id 
+
+set 
+descript 
+set descript 
+list price cent 
+set list price cent 
+hash code 
+equal 

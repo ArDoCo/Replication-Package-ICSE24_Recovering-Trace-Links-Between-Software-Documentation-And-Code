@@ -1,0 +1,20 @@
+number student 
+number team 
+number feedback question 
+feedback question recipi type 
+cours id 
+cours 
+cours time zone 
+instructor id 
+instructor 
+instructor email 
+student id 
+student 
+student email 
+team 
+giver section 
+receiv section 
+feedback session 
+feedback question id 
+feedback question text 
+feedback respons id 

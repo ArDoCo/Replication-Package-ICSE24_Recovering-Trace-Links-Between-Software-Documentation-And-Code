@@ -1,0 +1,29 @@
+instructor home page 
+expect page content 
+verifi cours tab detail 
+verifi session detail 
+verifi num cours 
+verifi respons rate 
+copi session 
+publish session result 
+unpublish session result 
+send remind email select student 
+send remind email submitt 
+resend result link 
+download result 
+delet session 
+archiv cours 
+delet cours 
+sort cours id 
+sort cours 
+sort cours creation date 
+num cours 
+cours tab 
+cours detail 
+session tabl 
+date string 
+expect session detail 
+respons rate 
+click copi button tabl 
+select cours copi modal 
+select student email 

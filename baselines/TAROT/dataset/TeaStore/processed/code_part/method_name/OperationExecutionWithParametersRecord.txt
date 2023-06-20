@@ -1,0 +1,11 @@
+oper execut paramet record 
+oper execut paramet record 
+serial 
+valu type 
+valu 
+size 
+equal 
+paramet type 
+paramet valu 
+return type 
+return valu 

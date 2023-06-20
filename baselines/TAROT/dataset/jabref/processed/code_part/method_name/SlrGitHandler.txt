@@ -1,0 +1,5 @@
+slr git handler 
+append latest search result current branch 
+calcul patch search result 
+pars patch ad entri 
+appli patch 

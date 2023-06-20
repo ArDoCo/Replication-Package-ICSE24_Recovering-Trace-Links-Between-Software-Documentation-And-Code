@@ -1,0 +1,31 @@
+codec 
+bib citat 
+cite pattern 
+index 
+citat type 
+citat key 
+citat key 
+
+
+index 
+citat type 
+citat key 
+code 
+type 
+
+citat key 
+citat type 
+ref mark 
+
+
+
+
+codec 
+pars mark 
+citat type int 
+citat type int 
+uniqu mark 
+pars mark 
+jab ref refer mark 
+filter jab ref refer mark 
+

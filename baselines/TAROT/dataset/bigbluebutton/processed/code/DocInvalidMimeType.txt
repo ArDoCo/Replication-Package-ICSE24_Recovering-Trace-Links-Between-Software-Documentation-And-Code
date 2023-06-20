@@ -1,0 +1,25 @@
+doc invalid mime type 
+pod id 
+meet id 
+pres id 
+temporari present id 
+filenam 
+authz token 
+messag key 
+file mime 
+file extens 
+
+
+pod id 
+meet id 
+pres id 
+temporari present id 
+filenam 
+authz token 
+messag key 
+file mime 
+file extens 
+
+
+doc invalid mime type 
+

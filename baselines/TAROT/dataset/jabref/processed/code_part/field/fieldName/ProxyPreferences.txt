@@ -1,0 +1,6 @@
+proxi 
+hostnam 
+port 
+authent 
+usernam 
+password 

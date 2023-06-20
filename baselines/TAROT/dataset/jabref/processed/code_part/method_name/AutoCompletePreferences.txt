@@ -1,0 +1,12 @@
+auto complet prefer 
+auto complet 
+auto complet properti 
+set auto complet 
+mode 
+mode properti 
+set mode 
+format 
+format properti 
+set format 
+complet field 
+complet string 

@@ -1,0 +1,7 @@
+save origin properti 
+save tabl order properti 
+save specifi order properti 
+sortabl field properti 
+sortabl field properti 
+select sort criteria properti 
+select sort criteria properti 

@@ -1,0 +1,12 @@
+format mode 
+char 
+
+
+case changer 
+chang case 
+chang case 
+convert special char 
+convert accent 
+convert control 
+convert char brace level 
+find special char 

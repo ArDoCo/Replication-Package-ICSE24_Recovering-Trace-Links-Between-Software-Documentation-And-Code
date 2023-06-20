@@ -1,0 +1,4 @@
+side pane compon 
+initi 
+creat header view 
+add extra button header 

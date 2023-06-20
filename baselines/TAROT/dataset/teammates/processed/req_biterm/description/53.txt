@@ -1,0 +1,4 @@
+origin check:compound
+authent check:compound
+author authent:conj
+author check:compound

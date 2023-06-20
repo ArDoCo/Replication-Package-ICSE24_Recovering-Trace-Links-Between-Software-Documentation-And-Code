@@ -1,0 +1,5 @@
+key bind tab 
+tab 
+initi 
+creat menu item 
+reset bind 

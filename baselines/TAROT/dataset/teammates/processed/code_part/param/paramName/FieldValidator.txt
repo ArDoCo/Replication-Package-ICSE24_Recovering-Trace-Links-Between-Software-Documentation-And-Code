@@ -1,0 +1,86 @@
+email 
+grace period 
+googl id 
+cours id 
+section 
+team 
+student role comment 
+feedback session 
+cours 
+institut 
+person 
+time zone valu 
+role 
+field 
+max length 
+valu 
+notif titl 
+notif messag 
+style 
+target user 
+field 
+max length 
+valu 
+start time 
+time zone 
+time 
+time zone 
+session start 
+session 
+visibl start 
+session start 
+visibl start 
+session start 
+visibl start 
+result publish 
+session 
+deadlin 
+notif start 
+notif expiri 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+valid checker 
+invalid info templat 
+time 
+time zone 
+time 
+giver type 
+recipi type 
+comment giver type 
+comment feedback particip 
+visibl follow feedback question 
+show respons 
+show giver 
+show recipi 
+field 
+valu 
+field 
+valu 
+valu 
+email 
+element 
+messag templat 
+user input 
+field 
+error reason 
+max length 
+messag templat 
+user input 
+field 
+error reason 
+messag templat 
+field 
+max length 

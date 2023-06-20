@@ -1,0 +1,17 @@
+link file editor view model 
+string represent 
+file 
+file 
+fulltext lookup progress 
+pars file view model 
+file 
+file properti 
+add file 
+bind entri 
+find associ link file 
+download file 
+fetch fulltext 
+add url 
+add url download 
+delet file 
+remov file link 

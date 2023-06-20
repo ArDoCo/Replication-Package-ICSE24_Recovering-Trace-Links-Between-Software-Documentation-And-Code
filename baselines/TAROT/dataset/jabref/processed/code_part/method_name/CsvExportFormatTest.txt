@@ -1,0 +1,6 @@
+set 
+tear 
+test perform export singl author 
+test perform export multipl author 
+test perform export singl editor 
+test perform export multipl editor 

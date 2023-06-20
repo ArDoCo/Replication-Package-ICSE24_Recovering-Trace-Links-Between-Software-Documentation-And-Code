@@ -1,0 +1,13 @@
+set 
+init default field 
+add keyword 
+add keyword onli uniqu 
+remov keyword 
+add field 
+remov field 
+display keyword alphabet order 
+save persist data databas 
+add keyword 
+remov keyword 
+add field 
+remov field 

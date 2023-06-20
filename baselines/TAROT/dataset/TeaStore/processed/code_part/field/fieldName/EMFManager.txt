@@ -1,0 +1,16 @@
+emf 
+persist properti 
+persist properti 
+log 
+driver properti 
+memori driver valu 
+jdbc url properti 
+memori jdbc url valu 
+user properti 
+memori user valu 
+password properti 
+memori password valu 
+mysql url prefix 
+mysql url postfix 
+mysql default host 
+mysql default port 

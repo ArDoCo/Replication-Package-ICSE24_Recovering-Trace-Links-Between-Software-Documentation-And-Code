@@ -1,0 +1,25 @@
+dbms synchron 
+listen 
+listen 
+listen 
+listen 
+initi databas 
+synchron local databas 
+remov share entri 
+synchron share entri 
+synchron local meta data 
+synchron share meta data 
+appli meta data 
+pull chang 
+pull entri chang 
+pull entri 
+check current connect 
+event sourc accept 
+open share databas 
+close share databas 
+present local bib entri 
+db 
+db processor 
+connect properti 
+set meta data 
+regist listen 

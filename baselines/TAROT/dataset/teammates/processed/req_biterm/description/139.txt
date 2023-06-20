@@ -1,0 +1,8 @@
+eventu consist:amod
+consist compens:obl
+involv server:case
+multipl server:amod
+server consist:nmod
+gae product:compound
+product environ:compound
+environ server:nmod

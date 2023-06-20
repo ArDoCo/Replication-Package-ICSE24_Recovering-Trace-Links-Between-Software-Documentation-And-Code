@@ -1,0 +1,4 @@
+deal script:acl
+data deal:obl
+administr purpos:amod
+purpos data:nmod

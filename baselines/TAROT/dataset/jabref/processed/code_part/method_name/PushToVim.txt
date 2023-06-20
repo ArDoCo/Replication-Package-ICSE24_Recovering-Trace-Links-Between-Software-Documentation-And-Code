@@ -1,0 +1,6 @@
+push vim 
+display 
+applic icon 
+set 
+push entri 
+oper complet 

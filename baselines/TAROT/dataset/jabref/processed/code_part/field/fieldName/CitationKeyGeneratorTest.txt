@@ -1,0 +1,38 @@
+author empti 
+author string firstnam full lastnam full count 
+author firstnam full lastnam full count 
+author firstnam full lastnam full count 
+author string firstnam full lastnam full count 
+author firstnam full lastnam full count 
+author string firstnam full lastnam full count 
+author firstnam full lastnam full count 
+author firstnam full lastnam full van count 
+author firstnam full lastnam full van count 
+author firstnam initi lastnam full count 
+author firstnam initi lastnam full count 
+author firstnam initi lastnam full count 
+author firstnam initi lastnam full count 
+author firstnam initi lastnam full count 
+titl string small word en dash 
+titl string word bracket small word small word colon 
+titl string case 
+titl string case upper word small word 
+titl string case small word small word 
+titl string case small word small word colon 
+titl string case small word connect word 
+titl string case small word connect word 
+authshort 
+authnofmth 
+authforeini 
+authfirstful 
+author 
+authorsalpha 
+authorlast 
+authorlastforeini 
+authorini 
+authorn 
+authet 
+auth etal 
+authauthea 
+import format prefer 
+file monitor 

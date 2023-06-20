@@ -1,0 +1,28 @@
+special field menu item factori 
+
+
+field 
+factori 
+frame 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+field 
+factori 
+frame 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+field 
+factori 
+prefer servic 
+undo manag 
+command factori 
+
+
+special field singl item 
+creat special field menu 
+creat special field menu 
+

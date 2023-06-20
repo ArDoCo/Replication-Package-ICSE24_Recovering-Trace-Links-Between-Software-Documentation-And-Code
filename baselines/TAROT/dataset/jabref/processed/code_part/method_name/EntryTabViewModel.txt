@@ -1,0 +1,9 @@
+entri tab view model 
+set valu 
+store set 
+keyword separ properti 
+mark owner properti 
+mark owner properti 
+mark owner overwrit properti 
+add creation date properti 
+add modif date properti 

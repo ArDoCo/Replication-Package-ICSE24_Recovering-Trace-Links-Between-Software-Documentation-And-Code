@@ -1,0 +1,6 @@
+bib string diff 
+compar 
+origin string 
+string 
+equal 
+hash code 

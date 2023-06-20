@@ -1,0 +1,9 @@
+prefer dialog view 
+view model 
+initi 
+close dialog 
+save prefer close dialog 
+export prefer 
+import prefer 
+show prefer 
+reset prefer 

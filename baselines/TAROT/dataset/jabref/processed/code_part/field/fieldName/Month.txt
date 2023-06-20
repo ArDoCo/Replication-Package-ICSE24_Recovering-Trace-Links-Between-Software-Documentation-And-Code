@@ -1,0 +1,4 @@
+full 
+short 
+digit number 
+number 

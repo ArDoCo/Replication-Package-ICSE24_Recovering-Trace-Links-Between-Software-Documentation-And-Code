@@ -1,0 +1,65 @@
+browser 
+content 
+student 
+instructor 
+text 
+student 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student 
+student 
+instructor 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor 
+instructor 
+account request 
+account request row 
+account request row 
+account request row 
+account request row 
+account request row 
+account request row 
+account request 
+account request 
+row 
+row 
+column num 
+row 
+column num 
+row 
+row header 
+student 
+cours 
+expect detail 
+expect manag account link 
+expect home page link 
+student 
+expect num expand row 
+instructor 
+cours 
+expect manag account link 
+expect home page link 
+instructor 
+account request 
+account request 
+student 
+instructor 
+account request 
+student 
+origin join link 
+instructor 
+origin join link 

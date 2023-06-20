@@ -1,0 +1,52 @@
+string util class small 
+test boolean binari string 
+test quot simpl 
+test quot null quotat 
+test quot null string 
+test quot quotat charact 
+test quot complic 
+test unifi line break 
+test correct file 
+test quot html 
+test remov brace capit 
+test put brace capit 
+test shave string 
+test join 
+test strip bracket 
+test part 
+test find encod string 
+test wrap 
+test decod string doubl array 
+test cur bracket 
+test squar bracket 
+test citat mark 
+test int valu singl digit 
+test int valu long string 
+test int valu start 
+test int valu string letter 
+test int valu string null 
+test int valu exceptionf string empti 
+test int valu null singl digit 
+test int valu null long string 
+test int valu null start 
+test int valu null string letter 
+test int valu null string null 
+test int valu null exceptionf string empti 
+test limit string length short 
+test limit string length limit 
+test limit string length null input 
+test replac special charact 
+replac special charact normal unicod 
+test repeat space data 
+test repeat space 
+test repeat 
+test bold html 
+test bold html return origin text null 
+test bold html return altern text null 
+test unquot 
+test capit 
+quot string space data 
+test guot string space 
+test strip accent 
+test whitespac 
+test whitespac 

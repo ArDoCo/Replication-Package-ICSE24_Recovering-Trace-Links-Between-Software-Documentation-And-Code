@@ -1,0 +1,24 @@
+set 
+cleanup null preset throw 
+cleanup null entri throw 
+cleanup doe noth default 
+upgrad extern link move pdf file 
+upgrad extern link move ps file 
+cleanup doi remov lead http 
+cleanup doi return chang 
+cleanup doi find doi url field move doi field 
+cleanup doi return chang doi url field 
+cleanup month chang number bibtex 
+cleanup page number convert singl dash doubl 
+cleanup date convert correct format 
+cleanup fix file link move singl descript link 
+cleanup move file move file subfold 
+cleanup relat path convert absolut relat path 
+cleanup renam pdf renam relat file 
+cleanup html latex convert epsilon latex 
+cleanup unit convert amper latex 
+cleanup case add bracket aluminium gallium arsenid 
+cleanup latex merg latex math environ 
+convert biblatex move address locat 
+convert biblatex move journal journal titl 
+cleanup disabl field formatt chang noth 

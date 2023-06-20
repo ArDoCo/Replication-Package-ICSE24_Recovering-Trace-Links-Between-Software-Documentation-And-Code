@@ -1,0 +1,6 @@
+client 
+client 
+entiti class 
+entiti class 
+target servic 
+endpoint uri 

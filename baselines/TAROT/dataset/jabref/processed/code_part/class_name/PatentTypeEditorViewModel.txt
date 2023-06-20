@@ -1,0 +1,1 @@
+patent type editor view model 

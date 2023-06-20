@@ -1,0 +1,5 @@
+input stream 
+data 
+entri 
+pattern 
+field 

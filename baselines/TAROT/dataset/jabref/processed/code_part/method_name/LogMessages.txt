@@ -1,0 +1,5 @@
+log messag 
+instanc 
+messag 
+add 
+clear 

@@ -1,0 +1,24 @@
+logger 
+remot server properti 
+remot port properti 
+proxi properti 
+proxi hostnam properti 
+proxi port properti 
+proxi authent properti 
+proxi usernam properti 
+proxi password properti 
+custom certif list properti 
+custom certif list properti 
+remot port valid 
+proxi hostnam valid 
+proxi port valid 
+proxi usernam valid 
+proxi password valid 
+dialog servic 
+prefer 
+remot prefer 
+proxi prefer 
+backup proxi prefer 
+ssl prefer 
+trust store manag 
+ssl certif chang 

@@ -1,0 +1,9 @@
+direct 
+set word case 
+delet word boundari 
+word boundari 
+capit 
+uppercas 
+lowercas 
+kill word 
+kill word 

@@ -1,0 +1,15 @@
+merg view model 
+left header properti 
+left header 
+set left header 
+header properti 
+header 
+set header 
+left entri 
+set left entri 
+entri 
+set entri 
+merg entri 
+visibl field 
+number visibl field 
+set visibl field 

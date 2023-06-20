@@ -1,0 +1,7 @@
+test set null throw npe 
+titl accept html encod charact 
+month accept html encod charact 
+author accept html encod charact 
+url accept html encod charact 
+author doe accept html encod charact 
+journal doe accept html encod charact 

@@ -1,0 +1,12 @@
+learn manag:compound
+manag system:compound
+lms system:appos
+moodl system:nmod
+teacher room:nsubj
+setup room:compound
+big blue button room:compound
+student access:nsubj
+access room:conj
+room access:obj
+record access:obj
+record room:conj

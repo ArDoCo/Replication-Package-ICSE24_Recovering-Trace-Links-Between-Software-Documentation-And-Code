@@ -1,0 +1,12 @@
+compon interact:nsubj
+intern work:amod
+work knowledg:nmod
+applic work:nmod
+web browser:compound
+browser interact:obl
+applic call:nsubj
+rest api:compound
+api applic:conj
+api call:nsubj
+call interact:advcl
+logic call:obl

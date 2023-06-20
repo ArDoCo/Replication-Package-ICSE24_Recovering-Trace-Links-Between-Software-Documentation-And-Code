@@ -1,0 +1,7 @@
+manag relationship:amod
+relationship creat:nsubj
+entiti relationship:nmod
+cascad logic:compound
+logic relationship:nmod
+updat creat:xcomp
+delet updat:dep

@@ -1,0 +1,35 @@
+updat citat marker 
+logger 
+
+
+doc 
+frontend 
+style 
+doc 
+cursor 
+citat text 
+text 
+style 
+frontend 
+doc 
+citat key 
+page info 
+citat type 
+citat text 
+posit 
+style 
+insert space 
+
+oo frontend 
+oo bib style 
+oo text 
+oo bib style 
+oo frontend 
+oo text 
+oo bib style 
+
+updat citat marker 
+appli citat marker 
+fill citat mark cursor 
+creat fill citat group 
+

@@ -1,0 +1,14 @@
+languag 
+default bib databas mode 
+warn duplic inspect 
+confirm delet 
+memori stick mode 
+open edit 
+show advanc hint 
+languag 
+default bib databas mode 
+warn duplic inspect 
+confirm delet 
+memori stick mode 
+open edit 
+show advanc hint 

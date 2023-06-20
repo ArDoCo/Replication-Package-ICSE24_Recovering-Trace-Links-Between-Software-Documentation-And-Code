@@ -1,0 +1,9 @@
+record processor:compound
+event record:obj
+raw file:compound
+pdf raw:dep
+wav pdf:appos
+flv pdf:appos
+file record:obj
+file event:conj
+process record:obl

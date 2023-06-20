@@ -1,0 +1,2 @@
+field consid equal 
+field consid equal differ capit 

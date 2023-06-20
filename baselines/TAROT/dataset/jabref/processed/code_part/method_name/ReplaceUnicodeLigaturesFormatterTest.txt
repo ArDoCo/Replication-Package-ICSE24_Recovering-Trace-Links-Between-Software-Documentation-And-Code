@@ -1,0 +1,5 @@
+set 
+test plain format 
+test singl ligatur 
+test ligatur sequenc 
+test sampl input 

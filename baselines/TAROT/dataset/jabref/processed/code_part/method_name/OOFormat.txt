@@ -1,0 +1,7 @@
+oo format 
+set local 
+set local 
+set char style 
+paragraph 
+paragraph 
+format refer page number refer mark 

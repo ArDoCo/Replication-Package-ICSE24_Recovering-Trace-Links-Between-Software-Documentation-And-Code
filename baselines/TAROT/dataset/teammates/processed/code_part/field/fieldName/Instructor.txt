@@ -1,0 +1,13 @@
+id 
+googl id 
+cours id 
+archiv 
+
+email 
+registr key 
+role 
+display student 
+display 
+instructor privileg text 
+creat 
+updat 

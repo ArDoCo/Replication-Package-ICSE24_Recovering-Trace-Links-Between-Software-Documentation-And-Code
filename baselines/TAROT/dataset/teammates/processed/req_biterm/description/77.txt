@@ -1,0 +1,5 @@
+logic compon:compound
+compon handl:nsubj
+busi logic:compound
+logic handl:obj
+teammat logic:nmod

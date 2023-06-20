@@ -1,0 +1,1 @@
+voic conf run record event 

@@ -1,0 +1,11 @@
+string similar test 
+similar checker 
+
+
+ 
+ 
+expect result 
+
+
+test string similar 
+

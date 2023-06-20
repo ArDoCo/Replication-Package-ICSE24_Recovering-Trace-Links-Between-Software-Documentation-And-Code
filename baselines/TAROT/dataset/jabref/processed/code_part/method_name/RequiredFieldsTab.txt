@@ -1,0 +1,2 @@
+requir field tab 
+determin field show 

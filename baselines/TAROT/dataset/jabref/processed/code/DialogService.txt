@@ -1,0 +1,107 @@
+dialog servic 
+
+
+titl 
+content 
+button label 
+default choic 
+choic 
+titl 
+content 
+button label 
+choic 
+titl 
+content 
+titl 
+content 
+default valu 
+titl 
+content 
+titl 
+content 
+titl 
+content 
+messag 
+
+
+titl 
+content 
+
+messag 
+titl 
+content 
+titl 
+content 
+button label 
+titl 
+content 
+button label 
+cancel button label 
+titl 
+content 
+opt messag 
+opt action 
+titl 
+content 
+button label 
+cancel button label 
+opt messag 
+opt action 
+titl 
+header 
+content 
+dialog 
+type 
+titl 
+content 
+button type 
+titl 
+content pane 
+button type 
+dialog 
+titl 
+content 
+task 
+titl 
+content 
+state manag 
+messag 
+file dialog configur 
+file dialog configur 
+file dialog configur 
+directori dialog configur 
+job 
+archiv path 
+
+
+show choic dialog wait 
+show choic dialog wait 
+show input dialog wait 
+show input dialog default wait 
+show inform dialog wait 
+show warn dialog wait 
+show error dialog wait 
+show error dialog wait 
+show error dialog wait 
+show error dialog wait 
+show error dialog wait 
+show confirm dialog wait 
+show confirm dialog wait 
+show confirm dialog wait 
+show confirm dialog opt wait 
+show confirm dialog opt wait 
+show password dialog wait 
+show custom dialog 
+show custom button dialog wait 
+show custom dialog wait 
+show custom dialog wait 
+show progress dialog 
+show background progress dialog wait 
+notifi 
+show file save dialog 
+show file open dialog 
+show file open dialog multipl file 
+show directori select dialog 
+show print dialog 
+show file open archiv dialog 
+

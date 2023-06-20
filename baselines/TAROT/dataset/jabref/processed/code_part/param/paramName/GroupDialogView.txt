@@ -1,0 +1,7 @@
+dialog servic 
+current databas 
+prefer servic 
+edit group 
+group dialog header 
+ikon 
+empti 

@@ -1,0 +1,8 @@
+smaller word 
+smaller word 
+dash 
+dash 
+conjunct 
+conjunct 
+char 
+protect char 

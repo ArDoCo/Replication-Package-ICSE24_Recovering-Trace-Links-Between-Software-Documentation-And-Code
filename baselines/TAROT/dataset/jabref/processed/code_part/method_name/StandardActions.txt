@@ -1,0 +1,12 @@
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+icon 
+key bind 
+text 
+descript 

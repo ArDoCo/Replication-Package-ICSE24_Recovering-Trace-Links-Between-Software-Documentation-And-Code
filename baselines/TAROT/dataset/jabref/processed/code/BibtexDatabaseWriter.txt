@@ -1,0 +1,56 @@
+bibtex databas writer 
+databas id prefix 
+comment prefix 
+preambl prefix 
+string prefix 
+field prefer 
+
+field prefer 
+
+bib writer 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+writer 
+newlin 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+epilogu 
+meta item 
+preambl 
+bibtex string 
+max key length 
+custom type 
+bib databas context 
+encod 
+share databas id 
+entri 
+mode 
+
+bib writer 
+save configur 
+field prefer 
+citat key pattern prefer 
+bib entri type manag 
+save configur 
+field prefer 
+citat key pattern prefer 
+bib entri type manag 
+bib entri type 
+bib entri 
+bib databas mode 
+
+bibtex databas writer 
+bibtex databas writer 
+write epilogu 
+write meta data item 
+write preambl 
+write string 
+write entri type definit 
+write prolog 
+write databas id 
+write entri 
+

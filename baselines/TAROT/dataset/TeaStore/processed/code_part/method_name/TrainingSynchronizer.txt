@@ -1,0 +1,12 @@
+readi 
+set readi 
+train synchron 
+instanc 
+max time 
+set max time 
+set max time 
+wait persist 
+retriev data retrain 
+filter list 
+filter maxtim stamp 
+milli 

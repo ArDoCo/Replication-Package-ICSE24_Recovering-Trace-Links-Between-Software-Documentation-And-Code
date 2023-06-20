@@ -1,0 +1,12 @@
+key bind repositori 
+initi key bind repositori 
+prefer 
+select key bind 
+select key bind 
+root key bind 
+root key bind 
+key bind preset 
+key bind preset 
+dialog servic 
+restart warn 
+restart warn 

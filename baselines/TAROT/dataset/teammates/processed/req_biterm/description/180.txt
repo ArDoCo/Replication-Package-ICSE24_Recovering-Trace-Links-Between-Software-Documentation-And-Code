@@ -1,0 +1,8 @@
+system case:compound
+test case:compound
+test case:acl
+system action:compound
+autom system:amod
+action test:obj
+invok test:parataxis
+test invok:obl

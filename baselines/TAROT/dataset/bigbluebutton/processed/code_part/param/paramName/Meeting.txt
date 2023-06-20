@@ -1,0 +1,109 @@
+builder 
+meet id 
+extern user id 
+user id 
+user id 
+bool 
+user id 
+user id 
+guest status 
+auth token 
+auth token 
+instanc id 
+group 
+ 
+ 
+free join 
+captur 
+captur 
+filenam 
+filenam 
+msg 
+ 
+mark 
+forcibl 
+ 
+guest user posit wait line 
+user id 
+polici 
+messag 
+guest id 
+guest id 
+messag 
+auth guest 
+layout 
+guest 
+role 
+guest 
+authn 
+url 
+copyright 
+mute 
+mke 
+valu 
+valu 
+valu 
+user 
+user id 
+user id 
+id 
+user id 
+data 
+valu 
+valu 
+user inact injspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+moder 
+moder delay minut 
+meet callback url 
+user id 
+user 
+userid 
+user id 
+user id 
+user id 
+extern id 
+intern id 
+creat time 
+
+minut 
+ 
+record 
+start 
+
+onli 
+cap 
+cap 
+pin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+list 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+polici 
+auth guest 
+valu 
+layout 
+param 
+param 
+max user concurr access 
+moder 
+moder delay minut 
+instanc id 
+group 

@@ -1,0 +1,13 @@
+custom entri type tab 
+tab 
+initi 
+setup entri type tabl 
+setup field tabl 
+rotat column header 
+handl drag 
+handl drag detect 
+handl drag drop 
+handl drag exit 
+add entri type 
+add field 
+reset entri type 

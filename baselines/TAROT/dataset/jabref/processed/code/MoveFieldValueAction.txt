@@ -1,0 +1,38 @@
+move field valu action 
+field 
+field 
+entri 
+entri 
+edit 
+affect entri count 
+overwrit field content 
+
+field 
+field 
+bib entri 
+compound 
+
+field 
+field 
+entri 
+edit 
+overwrit field content 
+field 
+field 
+entri 
+edit 
+
+field 
+field 
+bib entri 
+compound 
+field 
+field 
+bib entri 
+compound 
+
+move field valu action 
+move field valu action 
+execut 
+execut affect entri count 
+

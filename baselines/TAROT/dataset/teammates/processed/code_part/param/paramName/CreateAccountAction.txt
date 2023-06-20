@@ -1,0 +1,11 @@
+instant 
+instructor email 
+instructor 
+instructor institut 
+timezon 
+instructor email 
+instructor email 
+instructor email propos cours id 
+maximum id length 
+templat 
+timezon string 

@@ -1,0 +1,51 @@
+test valid info html field clean input return empti string 
+test valid info html field sanit input return empti string 
+test valid info html field unsanit input return error string 
+test valid info size cap possibl empti string 
+test valid info 
+test invalid info person invalid return specif error string 
+test invalid info institut invalid return specif error string 
+test invalid info team invalid return specif error string 
+test invalid info section invalid return specif error string 
+test invalid info cours invalid return specif error string 
+test invalid info feedback session invalid return specif error string 
+test invalid info role null throw 
+test invalid info role valid return empti string 
+test invalid info role invalid return error string 
+test invalid info googl id null throw 
+test invalid info googl id valid return empti string 
+test invalid info googl id invalid return error string 
+test invalid info email null throw 
+test invalid info email valid return empti string 
+test invalid info email invalid return error string 
+test invalid info cours id null throw 
+test invalid info cours id valid return empti string 
+test invalid info cours id invalid return error string 
+test invalid info start time valid return empti string 
+test invalid info start time invalid return error string 
+test invalid info time valid return empti string 
+test invalid info time invalid return error string 
+test invalid info time session start valid return empti string 
+test invalid info time session start invalid return error string 
+test invalid info time visibl start session start valid return empti string 
+test invalid info time visibl start session start invalid return error string 
+test invalid info time visibl start valid return empti string 
+test invalid info time visibl start invalid return error string 
+test invalid info time visibl start result publish valid return empti string 
+test invalid info time visibl start result publish invalid return error string 
+test invalid info time session extend deadlin valid return empti string 
+test invalid info time session extend deadlin invalid return error string 
+test invalid info time notif start valid return empti string 
+test invalid info time notif start valid return error string 
+test invalid info notif titl valid return empti string 
+test invalid info notif titl valid return error string 
+test invalid info notif bodi valid return empti string 
+test invalid info notif bodi valid return error string 
+test invalid info notif style valid return empti string 
+test invalid info notif style valid return error string 
+test invalid info notif target user valid return empti string 
+test invalid info notif target user valid return error string 
+test regex 
+test regex email 
+test regex cours id 
+test regex googl id email 

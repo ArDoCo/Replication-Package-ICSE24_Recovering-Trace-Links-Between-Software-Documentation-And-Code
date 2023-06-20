@@ -1,0 +1,14 @@
+size valid 
+min 
+max 
+
+
+constraint annot 
+ 
+constraint valid context 
+
+size 
+
+initi 
+valid 
+

@@ -1,0 +1,4 @@
+manag citat dialog view 
+initi 
+text 
+show dialog 

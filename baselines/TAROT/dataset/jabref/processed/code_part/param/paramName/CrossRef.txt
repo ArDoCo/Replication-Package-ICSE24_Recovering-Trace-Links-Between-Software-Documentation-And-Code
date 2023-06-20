@@ -1,0 +1,9 @@
+entri 
+lucen queri 
+identifi 
+entri 
+item 
+author 
+type 
+input entri 
+fetch entri 

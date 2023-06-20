@@ -1,0 +1,30 @@
+logger 
+frame 
+undo manag 
+dialog servic 
+prefer servic 
+state manag 
+theme manag 
+chang properti 
+undoabl chang properti 
+bib databas context 
+tabl model 
+citat style cach 
+annot cach 
+entri editor 
+main tabl 
+mode 
+split pane 
+databas notif pane 
+save 
+search auto complet 
+show 
+suggest provid 
+divid posit subscript 
+current search queri 
+current search queri 
+chang monitor 
+chang monitor 
+data load task 
+data load task 
+index task manag 

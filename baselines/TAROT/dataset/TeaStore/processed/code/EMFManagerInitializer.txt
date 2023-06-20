@@ -1,0 +1,13 @@
+emf manag initi 
+ddl properti 
+ddl valu 
+ddl output properti 
+ddl output valu 
+
+
+
+
+emf manag initi 
+initi emf 
+creat persist properti test 
+

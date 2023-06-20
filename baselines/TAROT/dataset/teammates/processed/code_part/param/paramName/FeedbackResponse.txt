@@ -1,0 +1,23 @@
+feedback session 
+cours id 
+feedback question id 
+feedback question type 
+giver email 
+giver section 
+recipi 
+recipi section 
+answer 
+feedback question id 
+giver 
+receiv 
+feedback session 
+cours id 
+feedback question id 
+feedback question type 
+giver email 
+giver section 
+receiv email 
+recipi section 
+answer 
+date 
+date 

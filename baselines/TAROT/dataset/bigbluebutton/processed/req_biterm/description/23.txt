@@ -1,0 +1,6 @@
+function breakdown:nmod
+frontend receiv:nsubj
+valid auth token resp event:compound
+event receiv:obj
+complet receiv:advcl
+authent complet:obj

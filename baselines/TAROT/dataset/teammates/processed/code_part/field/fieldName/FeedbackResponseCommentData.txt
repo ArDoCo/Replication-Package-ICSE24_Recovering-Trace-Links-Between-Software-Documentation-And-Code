@@ -1,0 +1,11 @@
+comment giver 
+editor email 
+feedback respons comment id 
+comment text 
+creat 
+edit 
+visibl follow feedback question 
+show giver 
+show giver 
+show comment 
+show comment 

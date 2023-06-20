@@ -1,0 +1,6 @@
+group dialog view 
+initi 
+tex group brows 
+open 
+open icon picker 
+updat item 

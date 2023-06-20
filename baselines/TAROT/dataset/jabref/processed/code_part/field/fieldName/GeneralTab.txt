@@ -1,0 +1,10 @@
+languag 
+languag 
+biblatex mode 
+biblatex mode 
+inspect warn duplic 
+confirm delet 
+memori stick mode 
+open startup 
+collect telemetri 
+show advanc hint 

@@ -1,0 +1,10 @@
+client connect:nsubj
+big blue button server:compound
+server connect:obl
+port server:nmod
+ssl port:appos
+load connect:advcl
+big blue button client:compound
+client load:obj
+web socket:compound
+socket connect:compound

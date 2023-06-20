@@ -1,0 +1,74 @@
+share databas login dialog view model 
+logger 
+select dbms type 
+select dbms type 
+databas 
+host 
+port 
+user 
+password 
+folder 
+autosav 
+rememb password 
+load 
+keystor 
+ssl 
+key store password properti 
+server timezon 
+frame 
+dialog servic 
+prefer servic 
+share databas prefer 
+databas valid 
+host valid 
+port valid 
+user valid 
+folder valid 
+keystor valid 
+form valid 
+
+jab ref frame 
+dialog servic 
+
+frame 
+dialog servic 
+prefer servic 
+connect properti 
+connect properti 
+
+jab ref frame 
+dialog servic 
+dbms connect properti 
+dbms connect properti 
+
+share databas login dialog view model 
+open databas 
+setup key store 
+open share databas 
+set prefer 
+appli prefer 
+share databas alreadi present 
+show save db file dialog 
+show open keystor file dialog 
+databaseproperti 
+host properti 
+port properti 
+user properti 
+password properti 
+autosav properti 
+rememb password properti 
+folder properti 
+key store properti 
+key store password properti 
+ssl properti 
+select dbmstype properti 
+load properti 
+db valid 
+host valid 
+port valid 
+user valid 
+folder valid 
+keystor valid 
+form valid 
+server timezon properti 
+

@@ -1,0 +1,6 @@
+architectur overview:nmod
+client architectur:nmod
+communic overview:nmod
+communic architectur:conj
+compon communic:nmod
+big blue button compon:nmod

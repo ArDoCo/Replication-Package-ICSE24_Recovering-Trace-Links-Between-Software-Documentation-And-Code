@@ -1,0 +1,6 @@
+rang sort entri 
+rang 
+index posit 
+content 
+set rang 
+set index posit 

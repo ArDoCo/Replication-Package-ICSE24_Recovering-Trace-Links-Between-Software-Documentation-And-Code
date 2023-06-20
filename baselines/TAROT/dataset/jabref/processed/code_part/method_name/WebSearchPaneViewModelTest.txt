@@ -1,0 +1,6 @@
+set 
+queri consist singl valid 
+fals queri valid status 
+correct queri valid status 
+fals queri valid status 
+correct queri valid status 

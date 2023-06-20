@@ -1,0 +1,12 @@
+jab ref desktop 
+open extern viewer 
+open doi 
+open custom doi 
+open extern file ani format 
+open extern file platform independ 
+open folder select file 
+open browser 
+open browser 
+open browser show popup 
+open consol 
+nativ desktop 

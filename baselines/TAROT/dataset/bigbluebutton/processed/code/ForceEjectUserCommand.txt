@@ -1,0 +1,20 @@
+forc eject user command 
+log 
+voic conf 
+user id 
+uuid 
+
+
+voic conf 
+user id 
+uuid 
+respons 
+event listen 
+
+confer event listen 
+
+forc eject user command 
+command 
+command arg 
+handl respons 
+

@@ -1,0 +1,12 @@
+append word strategi 
+
+
+input 
+input 
+delimit 
+
+
+delimit 
+analyz 
+determin prefix return remaind 
+

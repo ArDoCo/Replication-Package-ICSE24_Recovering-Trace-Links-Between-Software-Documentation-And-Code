@@ -1,0 +1,9 @@
+search result 
+field content 
+result 
+path 
+modifi 
+lucen score 
+content result string html 
+annot result string html 
+page number 

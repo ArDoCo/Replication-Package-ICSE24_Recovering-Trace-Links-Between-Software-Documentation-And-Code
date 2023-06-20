@@ -1,0 +1,8 @@
+add bib entri 
+add file 
+chang entri 
+file 
+auto set file link util 
+auto set file link util 
+link associ file 
+find associ link file 

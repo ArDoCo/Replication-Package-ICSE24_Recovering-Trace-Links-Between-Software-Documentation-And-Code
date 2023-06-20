@@ -1,0 +1,6 @@
+author 
+titl 
+journal titl 
+year 
+year rang 
+term 

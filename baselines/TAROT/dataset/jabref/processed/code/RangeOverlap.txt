@@ -1,0 +1,12 @@
+rang overlap 
+kind 
+valu overlap rang 
+valu overlap rang 
+
+
+kind 
+valu overlap rang 
+
+
+rang overlap 
+

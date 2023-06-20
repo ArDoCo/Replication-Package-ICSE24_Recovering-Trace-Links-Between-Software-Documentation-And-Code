@@ -1,0 +1,8 @@
+doaj fetcher 
+pars bib jso nto bibtex 
+add path 
+append segment path 
+
+page 
+url queri 
+parser 

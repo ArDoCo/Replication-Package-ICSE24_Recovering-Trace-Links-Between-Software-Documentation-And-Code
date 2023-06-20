@@ -1,0 +1,16 @@
+entri 
+style 
+entri type manag 
+entri 
+style 
+entri type manag 
+entri 
+style 
+output format 
+databas context 
+entri type manag 
+bib entri 
+style 
+output format 
+databas context 
+entri type manag 

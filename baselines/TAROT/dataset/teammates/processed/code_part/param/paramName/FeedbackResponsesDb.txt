@@ -1,0 +1,55 @@
+cours id 
+feedback session 
+feedback respons id 
+feedback question id 
+giver email 
+receiv email 
+feedback question id 
+section 
+fetch type 
+feedback question id 
+feedback question id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+section 
+fetch type 
+feedback question id 
+giver email 
+feedback question id 
+receiv 
+giver identifi 
+feedback session 
+cours id 
+cours id 
+receiv 
+cours id 
+giver email 
+updat option 
+respons id 
+queri 
+cours id 
+feedback respons id 
+feedback question id 
+section 
+fetch type 
+feedback question id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+section 
+fetch type 
+feedback question id 
+giver email 
+feedback question id 
+receiv 
+cours id 
+receiv 
+cours id 
+giver email 
+entiti creat 
+entiti 
+start time 
+time 

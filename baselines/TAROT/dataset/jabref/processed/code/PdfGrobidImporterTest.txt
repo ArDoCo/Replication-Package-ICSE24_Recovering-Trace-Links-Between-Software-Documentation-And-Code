@@ -1,0 +1,14 @@
+pdf grobid import test 
+import 
+
+pdf grobid import 
+
+
+
+set 
+test extens 
+test import entri 
+test recogn format 
+test recogn format reject 
+test command line id 
+

@@ -1,0 +1,6 @@
+log event view model 
+display text 
+style class 
+icon 
+stack trace 
+detail text 

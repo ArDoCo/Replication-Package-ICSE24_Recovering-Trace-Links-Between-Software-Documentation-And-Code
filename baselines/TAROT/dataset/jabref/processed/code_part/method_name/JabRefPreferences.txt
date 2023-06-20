@@ -1,0 +1,127 @@
+jab ref prefer 
+instanc 
+convert list string 
+convert string list 
+unit 
+set languag depend default valu 
+key 
+
+option 
+
+boolean 
+boolean 
+boolean default 
+int 
+doubl 
+int default 
+doubl default 
+put 
+put boolean 
+put int 
+put int 
+put doubl 
+remov 
+put string list 
+string list 
+path 
+clear 
+clear truststor custom certif 
+delet key 
+flush 
+prefer 
+default 
+add pref recurs 
+object 
+seri 
+purg seri 
+export prefer 
+import prefer 
+layout formatt prefer 
+journal abbrevi prefer 
+key bind repositori 
+store key bind repositori 
+preview style 
+set preview style 
+custom entri type repositori 
+bib entri type 
+clear bib entri type 
+clear bib entri type 
+store custom entri type repositori 
+store bib entri type 
+pref node custom entri type 
+open offic prefer 
+general prefer 
+languag 
+telemetri prefer 
+telemetri user id 
+doi prefer 
+owner prefer 
+timestamp prefer 
+group prefer 
+entri editor tab list 
+updat entri editor tab list 
+store entri editor tab list 
+default tab field 
+default tab field 
+entri editor prefer 
+remot prefer 
+proxi prefer 
+ssl prefer 
+global citat key pattern 
+store global citat key pattern 
+clear citat key pattern 
+citat key pattern prefer 
+push applic prefer 
+extern applic prefer 
+main tabl prefer 
+main tabl column prefer 
+search dialog column prefer 
+column 
+column sort order 
+column string list 
+column width string list 
+column sort type string list 
+column sort order string list 
+display prefer 
+bib entri prefer 
+intern prefer 
+user 
+prefer 
+import format prefer 
+field prefer 
+file prefer 
+auto link prefer 
+import export prefer 
+export save order 
+store export save order 
+load tabl save order 
+export configur 
+custom export format 
+store custom export format 
+preview prefer 
+preview layout 
+preview cycl posit 
+side pane prefer 
+visibl side pane 
+store visibl side pane 
+side pane prefer posit 
+store side pane prefer posit 
+cleanup prefer 
+default cleanup preset 
+default cleanup job 
+gui prefer 
+file histori 
+store file histori 
+search prefer 
+xmp prefer 
+formatt prefer 
+auto complet prefer 
+special field prefer 
+dlib prefer 
+protect term prefer 
+import prefer 
+custom import format 
+store custom import format 
+fetcher key 
+store fetcher key 
+grobid prefer 

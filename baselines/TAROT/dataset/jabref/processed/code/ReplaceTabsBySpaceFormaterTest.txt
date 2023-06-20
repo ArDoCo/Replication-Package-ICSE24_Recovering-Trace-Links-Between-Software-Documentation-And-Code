@@ -1,0 +1,11 @@
+replac tab space format test 
+formatt 
+
+
+
+
+set 
+remov singl tab 
+remov multipl tab 
+noth tab 
+

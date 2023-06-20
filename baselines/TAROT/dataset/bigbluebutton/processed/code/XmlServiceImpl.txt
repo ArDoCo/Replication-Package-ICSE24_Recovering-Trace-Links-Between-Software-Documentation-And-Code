@@ -1,0 +1,68 @@
+xml servic impl 
+logger 
+factori 
+builder 
+
+
+record 
+record 
+metadata 
+playback format 
+thumbnail 
+callback data 
+xml 
+page 
+offset 
+respons 
+pageabl 
+ 
+record id 
+xml 
+record document 
+record document 
+record 
+record document 
+document 
+
+valu 
+document 
+document 
+parent 
+object 
+ignor field 
+type 
+local date time 
+document 
+tag 
+document 
+tag 
+
+record 
+record 
+metadata 
+thumbnail 
+callback data 
+record 
+
+record xml 
+record xml 
+metadata xml 
+playback format xml 
+thumbnail xml 
+callback data xml 
+construct respons record xml 
+record 
+construct pagin respons 
+pageabl xml 
+xml record 
+pars record document 
+pars metadata 
+pars playback format 
+setup 
+creat element 
+document string 
+append field 
+local date time epoch 
+tag exist 
+node data 
+

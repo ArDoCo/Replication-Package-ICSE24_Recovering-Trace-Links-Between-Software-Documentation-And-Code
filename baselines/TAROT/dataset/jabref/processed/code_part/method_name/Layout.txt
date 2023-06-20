@@ -1,0 +1,6 @@
+layout 
+set post formatt 
+text 
+layout 
+layout 
+formatt 

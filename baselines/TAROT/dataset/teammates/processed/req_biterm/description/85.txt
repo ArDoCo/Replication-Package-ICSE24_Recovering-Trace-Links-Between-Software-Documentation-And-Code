@@ -1,0 +1,2 @@
+compon api:nmod
+access compon:acl

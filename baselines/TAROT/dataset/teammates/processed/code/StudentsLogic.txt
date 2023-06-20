@@ -1,0 +1,113 @@
+student logic 
+error invalid team 
+error invalid team instruct 
+error enrol exceed section limit 
+error enrol exceed section limit instruct 
+instanc 
+student db 
+fr logic 
+fs logic 
+de logic 
+
+student logic 
+
+student data 
+cours id 
+email 
+email 
+cours id 
+googl id 
+registr key 
+googl id 
+cours id 
+cours id 
+cours id 
+batch size 
+section 
+cours id 
+team 
+cours id 
+cours id 
+queri string 
+instructor 
+queri string 
+cours id 
+student email address 
+googl id 
+cours id 
+team 
+student email 
+cours id 
+student email 
+student email 
+updat option 
+origin email 
+cours id 
+cours id 
+email 
+student list 
+cours id 
+student list 
+cours id 
+cours id 
+team 
+merg list 
+merg list 
+cours id 
+batch size 
+cours id 
+student email 
+cours id 
+googl id 
+queri 
+student 
+student 
+student info list 
+origin team 
+team 
+origin section 
+section 
+start time 
+time 
+
+
+student logic 
+inst 
+init logic depend 
+creat student 
+student email 
+student email 
+student cours id googl id 
+student registr key 
+student googl id 
+number student cours 
+student cours 
+student cours 
+student section 
+student team 
+unregist student cours 
+search student 
+search student system 
+verifi student exist cours 
+student ani cours 
+student team 
+student team 
+updat student cascad 
+reset student googl id 
+regener student registr key 
+valid section team 
+merg list 
+section team 
+section invalid info 
+team invalid info 
+delet student cours cascad 
+delet student cascad 
+updat student respons delet 
+delet student googl id cascad 
+delet student 
+put document 
+enrol list 
+team chang 
+section chang 
+num student time rang 
+

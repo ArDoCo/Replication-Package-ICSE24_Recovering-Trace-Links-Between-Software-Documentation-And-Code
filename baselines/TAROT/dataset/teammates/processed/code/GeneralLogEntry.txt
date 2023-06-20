@@ -1,0 +1,38 @@
+general log entri 
+sever 
+trace 
+insert id 
+resourc identifi 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+
+log sever 
+sourc locat 
+
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+
+log sever 
+sourc locat 
+
+general log entri 
+set messag 
+set detail 
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+

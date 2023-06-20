@@ -1,0 +1,16 @@
+freeswitch command 
+space 
+room 
+request id 
+
+
+room 
+request id 
+
+
+freeswitch command 
+command 
+command arg 
+room 
+request id 
+

@@ -1,0 +1,9 @@
+bib databas diff 
+entri compar 
+compar entri 
+equal citat key 
+compar 
+meta data differ 
+preambl differ 
+bib string differ 
+entri differ 

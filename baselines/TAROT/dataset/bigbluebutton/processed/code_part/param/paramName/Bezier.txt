@@ -1,0 +1,85 @@
+digit point 
+error 
+digit point 
+error 
+digit point 
+error 
+digit point 
+min distanc 
+digit point 
+digit point 
+max angl 
+min distanc 
+digit point 
+min angl 
+min distanc 
+digit point 
+weight 
+ 
+
+
+hat 
+hat 
+error squar 
+bezier path 
+bez curv 
+bezier path 
+error squar 
+connect corner 
+ 
+
+ 
+
+ 
+center 
+ 
+
+
+ 
+
+
+ 
+bez curv 
+ 
+ 
+ 
+ 
+
+
+bez curv 
+ 
+split point 
+ 
+
+
+prime 
+hat 
+hat 
+degre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+newlen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

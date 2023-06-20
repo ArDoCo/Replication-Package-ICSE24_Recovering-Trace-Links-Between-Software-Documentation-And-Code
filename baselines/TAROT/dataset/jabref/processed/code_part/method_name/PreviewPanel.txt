@@ -1,0 +1,8 @@
+preview panel 
+creat key bind 
+creat popup menu 
+set entri 
+print 
+preview style 
+previous preview style 
+cycl preview 

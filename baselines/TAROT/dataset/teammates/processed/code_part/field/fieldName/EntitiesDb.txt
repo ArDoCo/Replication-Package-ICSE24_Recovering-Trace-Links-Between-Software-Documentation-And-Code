@@ -1,0 +1,4 @@
+error creat entiti alreadi exist 
+error updat exist 
+optim save polici appli 
+log 

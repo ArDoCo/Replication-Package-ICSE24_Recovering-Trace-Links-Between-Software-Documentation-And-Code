@@ -1,0 +1,5 @@
+subsequ request:amod
+ajax request:compound
+request sent:nsubj
+server sent:obl
+process server:acl

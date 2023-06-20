@@ -1,0 +1,5 @@
+key pattern properti view 
+tab 
+initi 
+set valu 
+reset key pattern 

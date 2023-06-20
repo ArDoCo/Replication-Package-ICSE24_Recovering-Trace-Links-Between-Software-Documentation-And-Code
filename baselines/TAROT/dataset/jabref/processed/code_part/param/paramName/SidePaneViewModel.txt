@@ -1,0 +1,18 @@
+prefer servic 
+state manag 
+task executor 
+dialog servic 
+undo manag 
+pane 
+pane 
+pane 
+pane 
+observ list 
+ 
+ 
+side pane prefer 
+type 
+type 
+move pane 
+move pane 
+close pane 

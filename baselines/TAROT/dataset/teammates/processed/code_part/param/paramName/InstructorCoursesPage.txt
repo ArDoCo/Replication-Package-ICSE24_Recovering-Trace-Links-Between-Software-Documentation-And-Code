@@ -1,0 +1,56 @@
+browser 
+cours 
+cours 
+num section 
+num team 
+num student 
+num unregist 
+cours 
+cours 
+cours id 
+expect num 
+expect num 
+expect num 
+cours 
+cours id 
+cours id 
+cours id 
+cours 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours 
+instant 
+cours 
+institut 
+time zone 
+time zone 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 
+row id 

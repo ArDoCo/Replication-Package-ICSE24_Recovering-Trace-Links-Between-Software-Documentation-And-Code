@@ -1,0 +1,2 @@
+delet api:dep
+inform delet:obj

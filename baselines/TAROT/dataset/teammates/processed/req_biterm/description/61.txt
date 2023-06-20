@@ -1,0 +1,11 @@
+privileg absent:nsubj
+absent return:csubj
+user absent:dep
+autom action:amod
+action invok:obj
+request absent:conj
+request return:csubj
+drop request:acl
+forbidden status:amod
+status absent:conj
+status return:csubj

@@ -1,0 +1,1 @@
+user log system media store store password plain text manag compon implement function hash salt password 

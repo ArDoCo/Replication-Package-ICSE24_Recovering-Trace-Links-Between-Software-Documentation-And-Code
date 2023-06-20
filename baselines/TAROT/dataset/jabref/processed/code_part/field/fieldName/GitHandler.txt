@@ -1,0 +1,6 @@
+logger 
+repositori path 
+repositori path file 
+git usernam 
+git password 
+credenti provid 

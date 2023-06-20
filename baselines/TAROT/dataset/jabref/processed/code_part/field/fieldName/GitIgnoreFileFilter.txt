@@ -1,0 +1,3 @@
+logger 
+git ignor pattern 
+git ignor pattern 

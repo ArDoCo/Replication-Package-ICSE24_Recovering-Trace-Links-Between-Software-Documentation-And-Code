@@ -1,0 +1,6 @@
+automat person group 
+equal 
+hash code 
+deep copi 
+creat subgroup 
+field 

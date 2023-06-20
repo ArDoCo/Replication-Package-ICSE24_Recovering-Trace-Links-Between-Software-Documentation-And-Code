@@ -1,0 +1,6 @@
+redi pub:compound
+communic channel:compound
+applic channel:nmod
+run applic:acl
+big blue button server:compound
+server run:obl

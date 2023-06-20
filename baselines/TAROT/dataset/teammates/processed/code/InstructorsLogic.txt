@@ -1,0 +1,92 @@
+instructor logic 
+log 
+instanc 
+instructor db 
+fr logic 
+frc logic 
+fq logic 
+fs logic 
+de logic 
+
+logger 
+instructor logic 
+instructor db 
+feedback respons logic 
+feedback respons comment logic 
+feedback question logic 
+feedback session logic 
+
+instructor 
+queri string 
+instructor add 
+googl id 
+cours id 
+archiv status 
+cours id 
+instructor email address 
+cours id 
+email 
+cours id 
+email 
+cours id 
+googl id 
+registr key 
+cours id 
+cours id 
+googl id 
+googl id 
+omit archiv 
+cours id 
+origin instructor display 
+edit instructor display 
+updat option 
+updat option 
+queri 
+cours id 
+email 
+googl id 
+cours id 
+origin email 
+cours id 
+cours id 
+instructor edit 
+cours id 
+email 
+googl id 
+start time 
+time 
+
+instructor attribut 
+instructor attribut 
+attribut delet queri 
+instructor attribut 
+
+instructor logic 
+inst 
+init logic depend 
+put document 
+search instructor system 
+creat instructor 
+set archiv status instructor 
+verifi instructor exist cours 
+instructor email 
+instructor id 
+instructor googl id 
+instructor registr key 
+instructor email cours 
+instructor cours 
+instructor googl id 
+instructor googl id 
+verifi instructor display 
+updat instructor googl id cascad 
+updat instructor email 
+delet instructor 
+delet instructor cascad 
+delet instructor googl id cascad 
+owner cours 
+reset instructor googl id 
+updat ensur valid instructor cours 
+regener instructor registr key 
+instructor ani cours 
+num instructor time rang 
+

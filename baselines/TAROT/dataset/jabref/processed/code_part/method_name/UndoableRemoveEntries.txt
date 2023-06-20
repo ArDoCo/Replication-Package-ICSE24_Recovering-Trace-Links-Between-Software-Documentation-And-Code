@@ -1,0 +1,6 @@
+undoabl remov entri 
+undoabl remov entri 
+undoabl remov entri 
+present 
+undo 
+redo 

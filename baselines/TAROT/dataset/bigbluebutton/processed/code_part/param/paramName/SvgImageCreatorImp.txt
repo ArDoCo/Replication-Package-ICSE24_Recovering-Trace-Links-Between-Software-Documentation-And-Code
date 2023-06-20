@@ -1,0 +1,30 @@
+pres 
+page 
+
+page 
+sourc 
+pres 
+imag present dir 
+pres 
+page 
+format 
+page 
+sourc 
+dest file 
+analyz 
+sourc 
+page 
+present file 
+svgss dir 
+page count 
+svg 
+blank svg 
+max number attempt 
+pdf font timeout 
+threshold 
+threshold 
+notifi 
+conv pdf svg timeout 
+svg resolut ppi 
+forc raster slide 
+png width raster slide 

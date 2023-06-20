@@ -1,0 +1,22 @@
+bib writer 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+writer 
+newlin 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+epilogu 
+meta item 
+preambl 
+bibtex string 
+max key length 
+custom type 
+bib databas context 
+encod 
+share databas id 
+entri 
+mode 

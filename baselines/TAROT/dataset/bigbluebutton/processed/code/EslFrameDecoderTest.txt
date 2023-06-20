@@ -1,0 +1,16 @@
+frame decod test 
+log 
+embedd 
+embedd 
+
+
+input line 
+termin line 
+
+
+setup test 
+simpl messag 
+simpl messag content 
+event content length 
+creat input buffer 
+

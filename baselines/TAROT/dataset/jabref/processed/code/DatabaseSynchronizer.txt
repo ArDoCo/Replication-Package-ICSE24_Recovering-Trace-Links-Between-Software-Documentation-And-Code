@@ -1,0 +1,18 @@
+databas synchron 
+
+
+listen 
+connect 
+bib entri 
+
+bib entri 
+
+db 
+pull chang 
+close share databas 
+regist listen 
+open share databas 
+synchron share entri 
+synchron local databas 
+connect properti 
+

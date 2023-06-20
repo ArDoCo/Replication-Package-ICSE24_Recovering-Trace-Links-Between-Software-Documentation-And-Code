@@ -1,0 +1,26 @@
+path repositori 
+git handler 
+prefer servic 
+file updat monitor 
+bib entri type manag 
+queri 
+fetcher 
+queri 
+crawl result 
+queri 
+folder 
+queri 
+search base fetcher 
+queri 
+file 
+queri 
+queri 
+crawl result 
+exist entri 
+target entri 
+path file 
+entri 
+queri 
+fetcher 
+queri 
+queri 

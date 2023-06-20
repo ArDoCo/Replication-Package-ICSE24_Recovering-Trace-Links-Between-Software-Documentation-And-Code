@@ -1,0 +1,15 @@
+oper signatur 
+session id 
+trace id 
+tin 
+tout 
+hostnam 
+eoi 
+ess 
+paramet type 
+paramet valu 
+return type 
+return valu 
+deseri 
+serial 
+obj 

@@ -1,0 +1,14 @@
+avoid term case 
+avoid term case 
+token group length 
+offset token 
+offset token abbr 
+offset token term 
+tex 
+tex 
+origin 
+token start 
+token 
+token abbr 
+token term 
+token case 

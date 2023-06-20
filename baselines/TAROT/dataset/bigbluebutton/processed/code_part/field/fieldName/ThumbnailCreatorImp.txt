@@ -1,0 +1,5 @@
+log 
+page number pattern 
+temp thumb 
+imagemagick dir 
+blank thumbnail 

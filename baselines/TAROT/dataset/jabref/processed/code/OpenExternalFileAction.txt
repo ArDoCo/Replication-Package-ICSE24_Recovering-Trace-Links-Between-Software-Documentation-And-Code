@@ -1,0 +1,30 @@
+open extern file action 
+file limit 
+dialog servic 
+state manag 
+prefer servic 
+entri 
+link file 
+
+dialog servic 
+bib entri 
+link file 
+
+dialog servic 
+state manag 
+prefer servic 
+dialog servic 
+state manag 
+prefer servic 
+entri 
+link file 
+
+dialog servic 
+dialog servic 
+bib entri 
+link file 
+
+open extern file action 
+open extern file action 
+execut 
+

@@ -1,0 +1,11 @@
+overwrit 
+overwrit warn 
+generat save 
+letter start 
+letter start 
+letter alway add 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+bibtex key pattern tabl 

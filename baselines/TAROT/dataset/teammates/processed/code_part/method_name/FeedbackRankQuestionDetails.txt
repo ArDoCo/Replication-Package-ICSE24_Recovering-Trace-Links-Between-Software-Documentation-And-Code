@@ -1,0 +1,7 @@
+feedback rank question detail 
+min option rank 
+set min option rank 
+max option rank 
+set max option rank 
+duplic 
+set duplic 

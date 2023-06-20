@@ -1,0 +1,11 @@
+log 
+notifi 
+imag tag threshold 
+path threshold 
+conv pdf svg timeout 
+pdf font timeout 
+svg resolut ppi 
+forc raster slide 
+png width raster slide 
+blank svg 
+max number attempt 

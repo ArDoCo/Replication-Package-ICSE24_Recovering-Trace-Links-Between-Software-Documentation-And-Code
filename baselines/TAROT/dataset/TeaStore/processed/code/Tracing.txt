@@ -1,0 +1,23 @@
+trace 
+
+
+servic 
+request builder 
+request 
+http header 
+header 
+builder 
+key 
+valu 
+
+
+trace 
+init 
+inject 
+extract current span 
+extract current span 
+build span header 
+request builder carrier 
+iter 
+put 
+

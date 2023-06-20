@@ -1,0 +1,6 @@
+parent entiti:compound
+entiti delet:nsubj
+entiti delet:nsubj
+referenti integr:amod
+delet entiti:amod
+entiti integr:nmod

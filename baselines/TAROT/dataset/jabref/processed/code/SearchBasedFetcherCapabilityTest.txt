@@ -1,0 +1,14 @@
+search base fetcher capabl test 
+
+
+
+
+support author search 
+support year search 
+support year rang search 
+support journal search 
+fetcher 
+test author 
+test journal 
+test year 
+

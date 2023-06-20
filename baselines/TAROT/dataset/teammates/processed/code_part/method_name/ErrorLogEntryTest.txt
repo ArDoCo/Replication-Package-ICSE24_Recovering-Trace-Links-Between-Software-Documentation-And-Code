@@ -1,0 +1,4 @@
+test log entri log detail text payload 
+test log entri log detail serial payload 
+test log entri log detail pretti print log 
+creat typic log entri 

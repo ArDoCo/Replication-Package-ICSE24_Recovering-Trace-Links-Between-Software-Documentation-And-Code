@@ -1,0 +1,7 @@
+color 
+icon 
+color 
+icon 
+icon 
+icon 
+color 

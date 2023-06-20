@@ -1,0 +1,14 @@
+git ignor file filter test 
+
+
+dir 
+dir 
+dir 
+dir 
+
+
+check simpl git ignor 
+check simpl git ignor 
+check simpl git ignor overwrit def 
+check directori git ignor 
+

@@ -1,0 +1,31 @@
+user info 
+student 
+cours 
+student 
+feedback session 
+instructor 
+cours 
+instructor 
+cours 
+privileg 
+instructor 
+cours 
+section 
+privileg 
+instructor 
+feedback session 
+instructor 
+feedbacksess 
+privileg 
+instructor 
+feedback session 
+section 
+privileg 
+feedback question attribut 
+feedback question attribut 
+session 
+instructor 
+frc 
+feedback particip 
+object 
+type 

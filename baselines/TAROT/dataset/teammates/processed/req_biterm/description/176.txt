@@ -1,0 +1,5 @@
+compon case:compound
+test case:compound
+test case:acl
+logic compon:compound
+compon test:obj

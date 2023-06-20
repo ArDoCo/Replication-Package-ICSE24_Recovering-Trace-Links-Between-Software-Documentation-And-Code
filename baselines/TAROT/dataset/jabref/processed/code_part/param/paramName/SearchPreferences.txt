@@ -1,0 +1,17 @@
+search display mode 
+case sensit 
+regular express 
+fulltext 
+search string 
+window top 
+search window height 
+search window width 
+search display mode 
+search flag 
+window top 
+search display mode 
+flag 
+valu 
+window top 
+height 
+width 

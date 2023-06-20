@@ -1,0 +1,8 @@
+kms respons:nsubj
+stream respons:obl
+webcam stream:nmod
+listen audio:compound
+audio stream:nmod
+audio webcam:conj
+screenshar stream:nmod
+screenshar webcam:conj

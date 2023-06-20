@@ -1,0 +1,15 @@
+os 
+newlin 
+app dir app 
+app dir app author 
+file separ 
+os 
+linux 
+window 
+os 
+
+
+
+
+os 
+

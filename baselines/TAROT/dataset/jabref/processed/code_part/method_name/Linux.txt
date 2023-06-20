@@ -1,0 +1,8 @@
+nativ open file 
+open file 
+open file applic 
+open folder select file 
+open consol 
+detect program path 
+applic directori 
+default file chooser directori 

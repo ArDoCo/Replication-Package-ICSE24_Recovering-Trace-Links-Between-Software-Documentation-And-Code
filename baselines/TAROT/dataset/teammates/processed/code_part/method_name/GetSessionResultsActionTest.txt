@@ -1,0 +1,13 @@
+action uri 
+request method 
+test execut 
+test access control 
+session result data equal 
+question output equal 
+respons output equal 
+test access control correct auth info access student result fail 
+test access control student access cours session result pass 
+test access control student access unpublish session student result fail 
+test access control access student session result masquerad mode pass 
+test access control student access cours session result fail 
+test access control instructor access cours full detail pass 

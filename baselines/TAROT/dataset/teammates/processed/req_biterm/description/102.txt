@@ -1,0 +1,4 @@
+retriev entiti:amod
+entiti api:obl
+inform present:nsubj
+present api:parataxis

@@ -1,0 +1,16 @@
+file type tabl icon column 
+file type tabl icon column 
+file type tabl column 
+file type tabl column 
+file type tabl extens column 
+file type tabl extens column 
+file type tabl mime type column 
+file type tabl mime type column 
+file type tabl applic column 
+file type tabl applic column 
+file type tabl edit column 
+file type tabl edit column 
+file type tabl delet column 
+file type tabl delet column 
+file type tabl 
+file type tabl 

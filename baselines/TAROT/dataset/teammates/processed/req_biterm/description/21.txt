@@ -1,0 +1,7 @@
+diagram show:nsubj
+code organ:nsubj
+compon code:nmod
+organ show:ccomp
+packag organ:obl
+depend organ:obl
+depend packag:conj

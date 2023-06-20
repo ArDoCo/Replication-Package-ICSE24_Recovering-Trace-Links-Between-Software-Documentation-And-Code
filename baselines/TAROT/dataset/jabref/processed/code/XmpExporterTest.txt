@@ -1,0 +1,21 @@
+xmp export test 
+export 
+databas context 
+xmp prefer 
+
+export 
+bib databas context 
+xmp prefer 
+
+test folder 
+test folder 
+test folder 
+test folder 
+
+
+set 
+export singl entri 
+write multipl entri singl file 
+write multipl entri differ file 
+export singl entri privaci filter 
+

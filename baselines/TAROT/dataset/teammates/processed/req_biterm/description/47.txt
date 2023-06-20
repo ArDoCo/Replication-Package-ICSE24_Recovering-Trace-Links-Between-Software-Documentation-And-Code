@@ -1,0 +1,3 @@
+interact perform:xcomp
+logic compon:compound
+compon interact:obl

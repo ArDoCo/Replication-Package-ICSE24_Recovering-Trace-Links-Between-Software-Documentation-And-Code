@@ -1,0 +1,24 @@
+instructor googl id 
+cours id 
+archiv 
+instructor 
+instructor email 
+role 
+display student 
+display 
+instructor privileg text 
+email 
+cours id 
+uniqu id 
+instructor googl id 
+cours id 
+archiv 
+instructor 
+instructor email 
+key 
+role 
+display student 
+display 
+instructor privileg text 
+creat 
+updat 

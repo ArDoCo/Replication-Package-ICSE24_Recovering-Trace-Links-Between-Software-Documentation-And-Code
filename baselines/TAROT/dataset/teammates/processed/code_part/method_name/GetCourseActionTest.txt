@@ -1,0 +1,12 @@
+action uri 
+request method 
+test execut 
+test execut typic usag pass 
+test execut paramet fail 
+test execut exist cours fail 
+test exist cours 
+test access control 
+test access control invalid paramet valu fail 
+test access control test instructor access pass 
+test access control test student access pass 
+test access control log entiti instructor student access 

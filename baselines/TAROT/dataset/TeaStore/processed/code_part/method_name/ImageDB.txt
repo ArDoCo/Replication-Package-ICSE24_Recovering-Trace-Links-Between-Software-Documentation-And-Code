@@ -1,0 +1,16 @@
+imag db 
+imag db 
+imag id 
+imag id 
+imag id 
+imag id 
+imag id 
+imag id 
+find imag id 
+imag size 
+set imag map 
+set imag map 
+set imag map 
+map 
+remov imag map 
+unmap 

@@ -1,0 +1,20 @@
+messag builder 
+version 
+
+header 
+payload 
+timestamp 
+repli 
+
+
+
+version 
+repli 
+header 
+payload 
+
+
+generat timestamp 
+build header 
+build json 
+

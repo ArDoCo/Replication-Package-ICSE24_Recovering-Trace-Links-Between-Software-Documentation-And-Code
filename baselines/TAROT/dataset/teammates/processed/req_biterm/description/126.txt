@@ -1,0 +1,7 @@
+data transfer:compound
+transfer object:compound
+object return:nsubj
+attribut object:nsubj
+data transfer:compound
+transfer object:compound
+entiti object:nmod

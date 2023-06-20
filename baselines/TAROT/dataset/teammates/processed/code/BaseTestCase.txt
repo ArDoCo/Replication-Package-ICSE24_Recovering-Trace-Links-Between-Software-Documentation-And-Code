@@ -1,0 +1,97 @@
+base test case 
+
+
+descript 
+messag 
+json file 
+data bundl 
+defin class 
+method 
+paramet type 
+invok object 
+arg 
+messag templat 
+user input 
+field 
+error reason 
+messag templat 
+user input 
+field 
+error reason 
+max length 
+messag templat 
+field 
+max length 
+condit 
+messag 
+condit 
+condit 
+messag 
+condit 
+expect 
+actual 
+messag 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+delta 
+expect 
+actual 
+messag 
+expect 
+actual 
+expect 
+actual 
+
+
+unexpect 
+actual 
+object 
+messag 
+object 
+object 
+messag 
+object 
+messag 
+expect type 
+execut 
+clazz 
+
+
+ts 
+print test class header 
+print test class footer 
+print 
+test data folder 
+typic data bundl 
+load data bundl 
+popul question respons id 
+invok method 
+popul error messag 
+popul error messag 
+popul empti string error messag 
+assert true 
+assert true 
+assert fals 
+assert fals 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert array equal 
+assert equal 
+assert 
+assert null 
+assert null 
+assert null 
+assert null 
+fail 
+assert throw 
+canon 
+execut 
+

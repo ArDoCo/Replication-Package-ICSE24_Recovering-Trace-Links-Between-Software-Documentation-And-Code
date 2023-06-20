@@ -1,0 +1,8 @@
+citat key pattern panel view model 
+set valu 
+set item default pattern 
+reset 
+pattern list properti 
+default key pattern properti 
+
+display 

@@ -1,0 +1,4 @@
+cours attribut 
+creation timestamp 
+delet timestamp 
+privileg 

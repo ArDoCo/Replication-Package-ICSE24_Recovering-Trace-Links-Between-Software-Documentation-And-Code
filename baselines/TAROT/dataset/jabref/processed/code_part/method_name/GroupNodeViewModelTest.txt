@@ -1,0 +1,12 @@
+set 
+display convert latex unicod 
+alway match empti search string 
+match part search string 
+tree automat keyword group combin 
+drag top group add befor 
+drag bottom group add 
+drag bottom group add sourc group befor 
+drag top group add befor sourc group befor 
+entri ad correct 
+view model group 
+view model group 

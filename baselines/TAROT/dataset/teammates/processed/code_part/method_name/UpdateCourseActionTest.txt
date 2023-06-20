@@ -1,0 +1,6 @@
+action uri 
+request method 
+test execut 
+verifi session cours time zone 
+verifi cours data 
+test access control 

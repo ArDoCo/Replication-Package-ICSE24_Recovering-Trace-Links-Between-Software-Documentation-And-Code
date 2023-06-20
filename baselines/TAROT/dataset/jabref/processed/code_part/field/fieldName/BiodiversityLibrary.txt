@@ -1,0 +1,6 @@
+api key 
+base url 
+respons format 
+test url api key 
+fetcher 
+import prefer 

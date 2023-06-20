@@ -1,0 +1,4 @@
+media manag compon:compound
+compon coordin:nsubj
+communic coordin:obj
+compon communic:nmod

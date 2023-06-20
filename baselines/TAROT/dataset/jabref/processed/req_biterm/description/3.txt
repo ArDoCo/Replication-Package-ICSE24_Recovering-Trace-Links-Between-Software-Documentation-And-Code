@@ -1,0 +1,2 @@
+depend direct:nsubj
+center direct:obl

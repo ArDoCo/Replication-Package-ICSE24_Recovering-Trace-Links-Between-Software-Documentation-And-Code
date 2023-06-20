@@ -1,0 +1,3 @@
+set status 
+show messag 
+show messag 

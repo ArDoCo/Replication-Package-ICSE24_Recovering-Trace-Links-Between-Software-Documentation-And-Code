@@ -1,0 +1,5 @@
+abstract editor view model 
+field valid 
+text properti 
+bind entri 
+complet 

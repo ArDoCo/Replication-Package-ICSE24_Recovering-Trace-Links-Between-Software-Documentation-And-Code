@@ -1,0 +1,61 @@
+bib entri type manag 
+bibtex entrytyp 
+biblatex entrytyp 
+custom modifi type 
+custom modifi type 
+standard type 
+standard type 
+
+
+mode 
+mode 
+type 
+mode 
+custom entri type 
+mode 
+entri type 
+mode 
+entri type 
+mode 
+mode 
+mode 
+type 
+mode 
+type 
+mode 
+type 
+mode 
+standard type 
+type 
+compar 
+type 
+type 
+entri type 
+
+entri type 
+entri type 
+entri type 
+entri type 
+
+bib entri type manag 
+entri type 
+custom type 
+custom modifi type 
+add custom modifi type 
+add custom modifi type 
+remov custom modifi entri type 
+clear custom entri type 
+type 
+custom type 
+enrich 
+differ custom modifi type 
+intern entri type 
+custom type 
+enrich 
+type equal 
+add custom modifi type 
+remov custom modifi entri type 
+clear custom entri type 
+type 
+custom modifi type 
+

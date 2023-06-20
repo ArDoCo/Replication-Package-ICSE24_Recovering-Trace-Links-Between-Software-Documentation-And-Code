@@ -1,0 +1,31 @@
+jab ref prefer 
+telemetri prefer 
+doi prefer 
+owner prefer 
+timestamp prefer 
+open offic prefer 
+prefer 
+import prefer 
+protect term prefer 
+dlib prefer 
+entri editor prefer 
+file prefer 
+gui prefer 
+ssl prefer 
+search prefer 
+auto link prefer 
+import export prefer 
+bib entri prefer 
+special field prefer 
+group prefer 
+xmp prefer 
+auto complet prefer 
+cleanup prefer 
+push applic prefer 
+extern applic prefer 
+citat key pattern prefer 
+main tabl prefer 
+column prefer 
+column prefer 
+journal abbrevi prefer 
+field prefer 

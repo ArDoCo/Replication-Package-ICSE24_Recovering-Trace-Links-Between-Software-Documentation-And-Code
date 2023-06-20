@@ -1,0 +1,20 @@
+infix transform test 
+
+
+
+
+transform 
+author prefix 
+field prefix 
+journal prefix 
+titl prefix 
+convert author field prefix 
+convert field term prefix 
+convert explicit field term prefix 
+convert journal field prefix 
+convert year field 
+convert year rang field 
+convert multipl valu field prefix 
+group oper prefix 
+oper prefix 
+

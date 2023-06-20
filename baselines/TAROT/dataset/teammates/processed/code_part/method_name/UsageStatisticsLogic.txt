@@ -1,0 +1,6 @@
+age statist logic 
+inst 
+init logic depend 
+usag statist time rang 
+calcul entiti statist time rang 
+creat usag statist 

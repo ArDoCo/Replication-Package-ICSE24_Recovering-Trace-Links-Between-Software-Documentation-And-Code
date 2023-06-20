@@ -1,0 +1,62 @@
+entri editor prefer 
+entri editor tab list 
+entri editor tab list 
+open entri 
+show recommend tab 
+mrdlib accept 
+show latex citat tab 
+show sourc tab default 
+enabl valid 
+integ edit bibtex 
+divid posit 
+
+
+entri editor tab list 
+open entri 
+show recommend tab 
+mrdlib accept 
+show latex citat tab 
+show sourc tab default 
+enabl valid 
+integ edit bibtex 
+divid posit 
+entri editor tab list 
+open entri 
+show recommend tab 
+mrdlib accept 
+show latex citat tab 
+show sourc tab default 
+enabl valid 
+integ edit bibtex 
+divid posit 
+
+
+entri editor prefer 
+entri editor tab list 
+entri editor tab list properti 
+set entri editor tab list 
+open entri 
+open entri properti 
+set open entri 
+show recommend tab 
+show recommend tab properti 
+set show recommend tab 
+mrdlib accept 
+mrdlib accept properti 
+set mrdlib accept 
+show latex citat tab 
+show latex citat tab properti 
+set show latex citat tab 
+show sourc tab default 
+show sourc tab default properti 
+set show sourc tab default 
+enabl valid 
+enabl valid properti 
+set enabl valid 
+integ edit bibtex 
+integ edit bibtex properti 
+set integ edit bibtex 
+divid posit 
+divid posit properti 
+set divid posit 
+

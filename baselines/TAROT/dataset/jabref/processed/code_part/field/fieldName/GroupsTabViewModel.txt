@@ -1,0 +1,5 @@
+group view mode intersect properti 
+group view mode union properti 
+auto assign group properti 
+display group count properti 
+group prefer 

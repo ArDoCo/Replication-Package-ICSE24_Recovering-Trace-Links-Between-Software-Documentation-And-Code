@@ -1,0 +1,5 @@
+set 
+export singl entri 
+write multipl entri singl file 
+write multipl entri differ file 
+export singl entri privaci filter 

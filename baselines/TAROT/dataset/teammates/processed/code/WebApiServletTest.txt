@@ -1,0 +1,19 @@
+web api servlet test 
+servlet 
+mock request 
+mock respons 
+
+web api servlet 
+mock http servlet respons 
+
+method 
+request url 
+method 
+request url 
+
+
+setup mock 
+setup mock gae queue 
+test user invok request 
+test gae queue invok request 
+

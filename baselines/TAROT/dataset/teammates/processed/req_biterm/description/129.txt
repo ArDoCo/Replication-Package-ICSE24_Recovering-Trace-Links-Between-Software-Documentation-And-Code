@@ -1,0 +1,4 @@
+cascad logic:compound
+logic handl:nsubj
+logic compon:compound
+compon handl:obl

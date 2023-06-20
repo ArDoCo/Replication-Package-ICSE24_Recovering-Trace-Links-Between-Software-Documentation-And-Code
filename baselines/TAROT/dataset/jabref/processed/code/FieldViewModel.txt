@@ -1,0 +1,34 @@
+field view model 
+field 
+field 
+requir 
+multilin 
+prioriti properti 
+prioriti properti 
+
+
+field 
+field prioriti 
+
+field 
+requir 
+prioriti properti 
+multilin 
+
+
+field 
+field prioriti 
+
+field view model 
+field 
+properti 
+requir properti 
+requir 
+multilin properti 
+multilin 
+prioriti 
+bib field 
+string 
+mandatori 
+display 
+

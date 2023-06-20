@@ -1,0 +1,57 @@
+entri editor 
+logger 
+librari tab 
+databas context 
+entri editor prefer 
+file linker 
+tab 
+tab 
+type subscript 
+entri 
+sourc tab 
+tab 
+type chang button 
+fetcher button 
+type label 
+dialog servic 
+task executor 
+prefer servic 
+state manag 
+theme manag 
+file monitor 
+undo manag 
+bib entri type manag 
+key bind repositori 
+journal abbrevi repositori 
+entri editor tab 
+entri editor tab 
+
+sourc tab 
+theme manag 
+file updat monitor 
+
+librari tab 
+entri 
+fetcher 
+field 
+
+
+entri editor 
+setup key bind 
+close 
+delet entri 
+generat cite key button 
+generat cleanup button 
+navig previous entri 
+navig entri 
+creat tab 
+recalcul visibl tab 
+entri 
+set entri 
+select tab 
+setup tool bar 
+fetch merg 
+set focus field 
+preview style 
+previous preview style 
+

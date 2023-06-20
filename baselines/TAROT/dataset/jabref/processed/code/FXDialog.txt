@@ -1,0 +1,30 @@
+fx dialog 
+
+
+type 
+titl 
+imag 
+modal 
+type 
+titl 
+imag 
+type 
+titl 
+modal 
+type 
+titl 
+type 
+modal 
+type 
+imag 
+
+
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+set dialog icon 
+dialog window 
+

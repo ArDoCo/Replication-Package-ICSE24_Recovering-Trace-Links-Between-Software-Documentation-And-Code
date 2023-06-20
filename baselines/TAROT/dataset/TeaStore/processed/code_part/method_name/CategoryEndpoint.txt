@@ -1,0 +1,5 @@
+creat entiti 
+find entiti id 
+list entiti 
+updat entiti 
+delet entiti 

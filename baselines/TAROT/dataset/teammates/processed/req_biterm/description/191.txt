@@ -1,0 +1,4 @@
+compon case:compound
+test case:compound
+test helper:compound
+helper test:obj

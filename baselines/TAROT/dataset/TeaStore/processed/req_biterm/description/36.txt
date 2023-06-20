@@ -1,0 +1,10 @@
+recommend time:compound
+time depend:nsubj
+number depend:obl
+item number:nmod
+current cart:amod
+cart item:nmod
+total number:amod
+number depend:obl
+store order:amod
+order number:nmod

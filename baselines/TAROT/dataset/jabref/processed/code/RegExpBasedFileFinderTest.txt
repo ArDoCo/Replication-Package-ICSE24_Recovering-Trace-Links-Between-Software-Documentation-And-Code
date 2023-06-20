@@ -1,0 +1,23 @@
+reg exp base file finder test 
+pdf extens 
+pdf extens 
+file 
+file 
+directori 
+entri 
+
+bib entri 
+
+temp dir 
+
+
+set 
+test find file 
+test year auth page find file 
+find associ file find file bracket bracket express 
+find associ file find clean file bracket express 
+find associ file find file parenthes bracket express 
+test author diacrit 
+test find file subdirectori 
+test find file recurs 
+

@@ -1,0 +1,13 @@
+set 
+compar test 
+equal test 
+equal test 
+ident object equal 
+compar null object fals 
+compar differ class fals 
+test getter 
+test compar empti databas 
+test compar chang 
+test compar diff 
+test compar remov string 
+test compar add string 

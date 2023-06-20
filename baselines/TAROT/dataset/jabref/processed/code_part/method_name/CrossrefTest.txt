@@ -1,0 +1,14 @@
+setup 
+forbidden field 
+author inherit 
+author inherit sourc 
+main titl inherit 
+main titl inherit sourc 
+book titl inherit 
+book titl inherit sourc 
+journal titl inherit 
+journal titl inherit sourc 
+titl inherit 
+titl inherit sourc 
+inherit 
+inherit 

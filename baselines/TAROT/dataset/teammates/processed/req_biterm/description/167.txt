@@ -1,0 +1,3 @@
+public variabl:amod
+easi access:amod
+access data:nmod

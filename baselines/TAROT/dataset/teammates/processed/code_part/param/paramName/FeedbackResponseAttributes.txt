@@ -1,0 +1,33 @@
+feedback question id 
+giver 
+recipi 
+copi 
+fr 
+feedback respons id 
+cours id 
+feedback question id 
+giver 
+recipi 
+
+feedback respons detail 
+serial respons detail 
+question type 
+feedback question id 
+giver 
+recipi 
+updat option 
+feedback respons id 
+feedback question id 
+giver 
+recipi 
+cours id 
+feedback session 
+feedback respons id 
+feedback respons id 
+giver 
+recipi 
+respons detail 
+updat option 
+giver section 
+recipi section 
+respons detail 

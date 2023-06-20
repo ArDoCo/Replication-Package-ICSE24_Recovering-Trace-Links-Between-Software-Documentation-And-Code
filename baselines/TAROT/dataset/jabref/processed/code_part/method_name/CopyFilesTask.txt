@@ -1,0 +1,4 @@
+copi file task 
+call 
+write log messag 
+add result list 

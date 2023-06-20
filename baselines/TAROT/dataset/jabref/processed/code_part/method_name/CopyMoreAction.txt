@@ -1,0 +1,9 @@
+copi action 
+execut 
+copi titl 
+copi key 
+copi doi 
+copi doi list 
+copi cite key 
+copi key titl 
+copi key link 

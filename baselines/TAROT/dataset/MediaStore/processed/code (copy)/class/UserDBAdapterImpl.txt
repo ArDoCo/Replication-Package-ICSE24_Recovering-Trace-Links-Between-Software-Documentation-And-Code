@@ -1,0 +1,15 @@
+er db adapt impl 
+serial version uid 
+db manag 
+
+
+user data 
+usernam 
+password 
+
+
+er db adapt impl 
+add user 
+user data 
+remov data 
+

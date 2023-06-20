@@ -1,0 +1,10 @@
+put valu 
+valu 
+type 
+clear 
+clear 
+put bib entri 
+bib entri 
+bib entri 
+put preview layout 
+preview layout 

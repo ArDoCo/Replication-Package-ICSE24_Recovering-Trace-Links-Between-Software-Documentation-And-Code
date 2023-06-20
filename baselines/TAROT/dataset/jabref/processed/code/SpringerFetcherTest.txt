@@ -1,0 +1,22 @@
+springer fetcher test 
+import prefer 
+fetcher 
+
+import prefer 
+springer fetcher 
+
+
+
+set 
+search queri find entri 
+test springer json bibtex 
+search empti queri find noth 
+support year search 
+support year rang search 
+support phrase search 
+support boolean search 
+fetcher 
+test author 
+test journal 
+page fetcher 
+

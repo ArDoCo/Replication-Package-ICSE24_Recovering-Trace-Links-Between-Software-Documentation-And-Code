@@ -1,0 +1,2 @@
+owner editor view model 
+editor text area 

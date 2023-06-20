@@ -1,0 +1,5 @@
+check test data valid 
+valid test email 
+valid test cours id 
+valid test googl id 
+construct id regex 

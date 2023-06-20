@@ -1,0 +1,91 @@
+mod import 
+logger 
+mod pattern 
+keyword separ 
+
+
+import format prefer 
+input 
+input 
+bib item 
+reader 
+field 
+reader 
+entri 
+reader 
+field 
+reader 
+field 
+reader 
+field 
+reader 
+field 
+author 
+reader 
+field 
+reader 
+field 
+keyword 
+reader 
+field 
+reader 
+field 
+reader 
+field 
+reader 
+field 
+genr 
+field 
+identifi 
+entri 
+field 
+element 
+date 
+field 
+list 
+key 
+separ 
+
+author 
+field 
+field 
+valu 
+list 
+valu 
+reader 
+reader 
+reader 
+input stream 
+
+import format prefer 
+
+mod import 
+recogn format 
+import databas 
+pars mod collect 
+pars mod group 
+pars relat item 
+handl extent 
+handl detail 
+pars 
+pars origin info 
+pars subject 
+pars record info 
+pars languag 
+pars titl 
+pars locat url 
+map genr 
+pars identifi 
+put date 
+put list empti 
+handl author part 
+put valu null 
+append valu null blank 
+charact xml event 
+start xml event 
+xml event 
+
+file type 
+descript 
+pars entri 
+

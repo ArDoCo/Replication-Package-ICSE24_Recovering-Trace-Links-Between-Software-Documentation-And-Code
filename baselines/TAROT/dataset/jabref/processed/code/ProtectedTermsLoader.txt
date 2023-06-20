@@ -1,0 +1,39 @@
+protect term loader 
+intern list 
+intern list 
+logger 
+main list 
+main list 
+
+
+prefer 
+prefer 
+list 
+file 
+enabl 
+resourc 
+descript 
+enabl 
+path 
+enabl 
+term list 
+descript 
+locat 
+enabl 
+descript 
+locat 
+
+
+protect term loader 
+intern list 
+updat 
+reload protect term list 
+protect term list 
+protect term 
+add protect term list file 
+read protect term list resourc 
+read protect term list file 
+remov protect term list 
+add protect term list 
+add protect term list 
+

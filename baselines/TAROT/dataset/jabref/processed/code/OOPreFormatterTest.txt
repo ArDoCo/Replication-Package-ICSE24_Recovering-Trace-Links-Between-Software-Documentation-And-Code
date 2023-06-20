@@ -1,0 +1,13 @@
+oo pre formatt test 
+
+
+
+
+test plain format 
+test format accent 
+test special command 
+test unsupport special command 
+test equat 
+test format strip latex command 
+test format 
+

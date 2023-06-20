@@ -1,0 +1,8 @@
+
+ap journal org doi id 
+ap suffix 
+ap suffix pattern 
+logger 
+data cite dcn rate limit 
+crossref dcn rate limit 
+prefer 

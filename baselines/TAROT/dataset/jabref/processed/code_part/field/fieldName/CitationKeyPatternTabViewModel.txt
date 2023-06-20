@@ -1,0 +1,14 @@
+overwrit properti 
+overwrit warn properti 
+generat save properti 
+letter start properti 
+letter start properti 
+letter alway add properti 
+key pattern regex properti 
+key pattern replac properti 
+unwant charact properti 
+pattern list properti 
+pattern list properti 
+default key pattern properti 
+default key pattern properti 
+key pattern prefer 

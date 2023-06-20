@@ -1,0 +1,6 @@
+bib entri 
+main tabl field valu formatt 
+bib entri 
+bib entri 
+field 
+special field 

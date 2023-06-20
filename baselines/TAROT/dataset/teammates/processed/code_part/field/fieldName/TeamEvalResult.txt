@@ -1,0 +1,9 @@
+na 
+nsu 
+nsb 
+log 
+claim 
+normal claim 
+normal averag perceiv 
+denorm averag perceiv 
+normal peer contribut ratio 

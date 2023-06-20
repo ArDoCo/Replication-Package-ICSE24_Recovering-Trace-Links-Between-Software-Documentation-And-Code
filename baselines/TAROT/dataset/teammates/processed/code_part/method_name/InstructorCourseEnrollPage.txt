@@ -1,0 +1,14 @@
+instructor cours enrol page 
+expect page content 
+verifi correct page 
+click toggl exist student header 
+click enrol button 
+click add button 
+add enrol spreadsheet row 
+verifi num ad enrol spreadsheet row 
+enrol 
+verifi exist student tabl 
+verifi result panel 
+fill enrol spreadsheet 
+enrol spreadsheet cell 
+enrol data 

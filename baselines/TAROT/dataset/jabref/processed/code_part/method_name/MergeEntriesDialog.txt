@@ -1,0 +1,5 @@
+merg entri dialog 
+init 
+set left header text 
+set header text 
+configur diff 

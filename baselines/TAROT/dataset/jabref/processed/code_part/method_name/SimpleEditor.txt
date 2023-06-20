@@ -1,0 +1,5 @@
+simpl editor 
+simpl editor 
+bind entri 
+node 
+request focus 

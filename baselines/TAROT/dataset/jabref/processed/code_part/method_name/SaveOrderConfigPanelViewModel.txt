@@ -1,0 +1,10 @@
+save order config panel view model 
+add criterion 
+remov criterion 
+move criterion 
+move criterion 
+save origin properti 
+save tabl order properti 
+save specifi order properti 
+sortabl field properti 
+sort criteria properti 

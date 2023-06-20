@@ -1,0 +1,3 @@
+publish record event 
+version 
+record id 

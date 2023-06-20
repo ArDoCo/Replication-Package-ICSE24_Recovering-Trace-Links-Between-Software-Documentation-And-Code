@@ -1,0 +1,33 @@
+abbrevi view model 
+
+abbrevi 
+shortest uniqu abbrevi 
+pseudo abbrevi 
+
+
+abbrevi object 
+
+abbrevi 
+shortest uniqu abbrevi 
+ 
+search term 
+
+abbrevi 
+
+abbrevi view model 
+abbrevi object 
+
+set 
+abbrevi 
+set abbrevi 
+shortest uniqu abbrevi 
+set shortest uniqu abbrevi 
+pseudo abbrevi 
+properti 
+abbrevi properti 
+shortest uniqu abbrevi properti 
+pseudo abbrevi properti 
+equal 
+hash code 
+case independ 
+

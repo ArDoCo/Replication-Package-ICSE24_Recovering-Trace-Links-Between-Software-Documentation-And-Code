@@ -1,0 +1,14 @@
+test builder build noth default valu 
+test builder null input fail assert error 
+test valu field popul feedback session generat attribut correct 
+test valu field popul null default valu 
+test builder typic data build correct 
+test copi 
+test copi student 
+test copi instructor 
+test valid 
+test updat option typic updat option updat attribut correct 
+test updat option builder null input fail assert error 
+test equal 
+test hash code 
+generat typic feedback session attribut object 

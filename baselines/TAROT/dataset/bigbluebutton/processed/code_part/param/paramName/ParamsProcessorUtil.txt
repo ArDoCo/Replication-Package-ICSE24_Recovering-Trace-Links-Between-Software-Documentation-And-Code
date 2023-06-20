@@ -1,0 +1,108 @@
+ 
+messag 
+dial number 
+tel voic 
+meet 
+param 
+error 
+param 
+param 
+param 
+param 
+param 
+param 
+param 
+param 
+valu 
+messag 
+breakout 
+ext meet id 
+pass 
+checksum 
+queri string 
+tel num 
+dial 
+logout url 
+record 
+instanc id 
+max user 
+durat 
+logout timer 
+tel voic 
+tel voic 
+api call 
+checksum 
+queri string 
+api call 
+param 
+api version 
+ 
+secur salt 
+support checksum algorithm 
+checksum hash 
+default max user 
+default welcom messag 
+default welcom messag footer 
+default dial access number 
+test voic bridg 
+test confer mock 
+default logout url 
+default server url 
+default num digit tel voic 
+default html client url 
+url 
+valu 
+url 
+request session 
+default meet durat 
+disabl 
+start 
+start stop record 
+learn dashboard enabl 
+learn dashboard cleanup delay minut 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+valu 
+url 
+guest polici 
+valu 
+meet layout 
+valu 
+valu 
+valu 
+user inact inspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+max file size 
+mute 
+mke 
+valu 
+valu 
+encodeid 
+ext meet id 
+param 
+encod filter 
+breakout room enabl 
+breakout room record 
+breakout room privat chat enabl 
+lock set disabl cam 
+lock set disabl mic 
+lock set disabl privat chat 
+lock set disabl public chat 
+lock set disabl note 
+lock set hide user list 
+lock set lock join 
+lock set lock join configur 
+lock set hide viewer cursor 
+
+max user concurr access 
+val 
+valu 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+version 
+version 

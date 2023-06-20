@@ -1,0 +1,5 @@
+collat 
+field 
+field type 
+numer 
+multipli 

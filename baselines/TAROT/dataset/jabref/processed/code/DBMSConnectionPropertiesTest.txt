@@ -1,0 +1,8 @@
+dbms connect properti test 
+
+
+
+
+url sql doe includ ssl config 
+url oracl 
+

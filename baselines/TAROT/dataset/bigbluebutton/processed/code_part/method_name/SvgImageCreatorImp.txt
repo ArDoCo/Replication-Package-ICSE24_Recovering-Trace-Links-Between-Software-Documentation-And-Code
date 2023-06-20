@@ -1,0 +1,18 @@
+creat svg imag 
+creat detect font type handler 
+generat svg imag 
+creat convers process 
+creat detect font type process 
+determin svg imag directori 
+copi blank svgs 
+copi blank svg 
+set blank svg 
+set max number attempt 
+set pdf font timeout 
+set imag tag threshold 
+set path threshold 
+set slide generat progress notifi 
+set conv pdf svg timeout 
+set svg resolut ppi 
+set forc raster slide 
+set png width raster slide 

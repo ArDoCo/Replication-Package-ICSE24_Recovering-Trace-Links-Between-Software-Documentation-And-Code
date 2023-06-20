@@ -1,0 +1,5 @@
+cours logic 
+fs logic 
+instructor logic 
+student logic 
+email generat 

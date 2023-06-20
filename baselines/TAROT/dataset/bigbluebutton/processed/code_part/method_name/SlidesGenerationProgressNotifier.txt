@@ -1,0 +1,13 @@
+send doc convers progress 
+send upload file larg messag 
+send invalid mime type messag 
+send upload file timedout 
+send convers updat messag 
+send creat thumbnail updat messag 
+send convers complet messag 
+generat base pres url 
+set messag servic 
+set max number attempt 
+set generat slide info helper 
+send creat text file updat messag 
+send creat svg imag updat messag 

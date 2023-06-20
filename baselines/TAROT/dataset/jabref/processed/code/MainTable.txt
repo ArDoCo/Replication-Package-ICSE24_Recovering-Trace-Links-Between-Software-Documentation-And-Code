@@ -1,0 +1,86 @@
+main tabl 
+logger 
+librari tab 
+dialog servic 
+state manag 
+databas 
+model 
+import handler 
+local dragboard 
+clip board manag 
+key press time 
+column search term 
+
+dialog servic 
+main tabl data model 
+import handler 
+
+model 
+librari tab 
+databas 
+prefer servic 
+dialog servic 
+state manag 
+key bind repositori 
+clip board manag 
+import format reader 
+task executor 
+sort column 
+key event 
+event 
+bib entri 
+key bind 
+entri add 
+row 
+item 
+event 
+event 
+row 
+entri 
+event 
+row 
+entri 
+drag event 
+row 
+entri 
+event 
+row 
+target 
+event 
+event 
+super 
+row 
+entri 
+
+main tabl data model 
+dialog servic 
+import format reader 
+bib entri 
+bib entri 
+bib entri 
+
+main tabl 
+jump search key 
+listen 
+clear select 
+copi 
+cut 
+setup key bind 
+clear select 
+clear select 
+
+handl bib te string data 
+drop entri 
+handl drag 
+handl drag tabl view 
+handl drag enter 
+handl drag exit 
+handl drag detect 
+handl drag drop 
+handl drag drop tabl view 
+add select listen 
+tabl model 
+entri 
+select entri 
+find entri 
+

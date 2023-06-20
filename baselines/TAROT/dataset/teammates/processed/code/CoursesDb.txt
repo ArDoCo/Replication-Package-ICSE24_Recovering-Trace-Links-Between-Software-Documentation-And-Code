@@ -1,0 +1,36 @@
+cours db 
+instanc 
+
+cours db 
+
+cours id 
+cours id 
+updat option 
+cours id 
+cours id 
+cours id 
+entiti creat 
+cours id 
+cours id 
+entiti 
+start time 
+time 
+
+cours attribut 
+cours 
+
+cours db 
+inst 
+cours 
+cours 
+updat cours 
+delet cours 
+soft delet cours 
+restor delet cours 
+load 
+exist entiti 
+cours entiti 
+cours entiti 
+attribut 
+num cours time rang 
+

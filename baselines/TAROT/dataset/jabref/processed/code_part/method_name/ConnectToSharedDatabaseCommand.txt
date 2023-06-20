@@ -1,0 +1,2 @@
+connect share databas command 
+execut 

@@ -1,0 +1,7 @@
+resourc file 
+descript string 
+path 
+path 
+line 
+enabl 
+intern 

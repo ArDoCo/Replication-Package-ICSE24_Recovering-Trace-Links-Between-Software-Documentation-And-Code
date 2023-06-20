@@ -1,0 +1,14 @@
+cours db 
+inst 
+cours 
+cours 
+updat cours 
+delet cours 
+soft delet cours 
+restor delet cours 
+load 
+exist entiti 
+cours entiti 
+cours entiti 
+attribut 
+num cours time rang 

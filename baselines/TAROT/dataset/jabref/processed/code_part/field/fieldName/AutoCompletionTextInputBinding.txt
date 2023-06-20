@@ -1,0 +1,8 @@
+convert 
+convert 
+input analyz 
+text chang listen 
+text chang listen 
+show focus 
+focus chang listen 
+focus chang listen 

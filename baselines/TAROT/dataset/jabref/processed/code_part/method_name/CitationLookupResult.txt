@@ -1,0 +1,3 @@
+citat lookup result 
+equal 
+hash code 

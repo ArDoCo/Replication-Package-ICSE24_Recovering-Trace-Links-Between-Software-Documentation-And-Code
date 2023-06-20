@@ -1,0 +1,18 @@
+bib tex accept standard entri type 
+bib tex doe accept ieee tran entri type 
+bib la tex accept ieee tran entri type 
+bib la tex accept standard entri type 
+author check correct format 
+author check incorrect format 
+provid correct format 
+provid incorrect format 
+test file check 
+file check find file relat bib file 
+test entri unchang check 
+creat context 
+creat context 
+creat context 
+assert wrong 
+assert correct 
+creat citat key pattern prefer 
+mode 

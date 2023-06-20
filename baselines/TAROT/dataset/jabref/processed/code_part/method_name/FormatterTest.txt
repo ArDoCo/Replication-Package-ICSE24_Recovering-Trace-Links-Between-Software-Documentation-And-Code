@@ -1,0 +1,12 @@
+set 
+formatt key uniqu 
+return null 
+return empti 
+key return null 
+key return empti 
+format null throw 
+format empti string return empti 
+format return null 
+descript alway empti 
+exampl input alway empti 
+formatt 

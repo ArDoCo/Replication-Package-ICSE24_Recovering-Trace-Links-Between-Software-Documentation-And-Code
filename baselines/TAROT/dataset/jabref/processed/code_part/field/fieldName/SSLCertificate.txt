@@ -1,0 +1,8 @@
+logger 
+sha thumbprint 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 

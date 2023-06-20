@@ -1,0 +1,41 @@
+png creator imp 
+log 
+page number pattern 
+blank png 
+slide width 
+conv timeout 
+wait sec 
+temp png 
+
+pattern 
+
+pres 
+page 
+page file 
+pngs dir 
+pres 
+page 
+page file 
+present file 
+dir 
+page 
+pngs dir 
+page 
+png 
+directori 
+blank png 
+width 
+
+upload present 
+upload present 
+
+creat png 
+generat png 
+determin png directori 
+renam png 
+creat blank png 
+copi blank png 
+clean directori 
+set blank png 
+set slide width 
+

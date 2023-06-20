@@ -1,0 +1,79 @@
+relat url 
+param 
+relat url 
+param 
+bodi 
+relat url 
+param 
+bodi 
+relat url 
+param 
+method 
+relat url 
+param 
+bodi 
+url 
+param 
+url 
+param 
+bodi 
+url 
+param 
+bodi 
+url 
+param 
+url 
+param 
+request 
+data bundl 
+data bundl 
+user id 
+data bundl 
+googl id 
+cours id 
+cours id 
+instructor id 
+cours id 
+instructor id 
+cours id 
+cours id 
+cours id 
+email 
+cours id 
+instructor email 
+cours id 
+student email 
+cours id 
+student email 
+cours id 
+feedback session 
+cours id 
+feedback session 
+deadlin 
+timezon 
+feedback session 
+instructor id 
+cours id 
+feedback session 
+qn number 
+feedback visibl type list 
+feedback question id 
+giver 
+recipi 
+feedback respons id 
+cours id 
+email 
+institut 
+email 
+institut 
+email 
+institut 
+notif id 
+notif id 
+notif id 
+cours id 
+feedback session 
+user email 
+instructor 
+respons bodi 
+respons code 

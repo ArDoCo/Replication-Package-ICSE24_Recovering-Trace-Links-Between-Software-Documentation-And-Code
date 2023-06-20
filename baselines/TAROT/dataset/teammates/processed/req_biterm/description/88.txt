@@ -1,0 +1,15 @@
+logic class:nsubj
+facad class:compound
+connect class:acl
+logic class:compound
+class connect:obl
+handl connect:ccomp
+logic handl:obj
+relat logic:acl
+type relat:obl
+data type:nmod
+access connect:ccomp
+access handl:conj
+data access:obj
+storag compon:compound
+compon access:obl

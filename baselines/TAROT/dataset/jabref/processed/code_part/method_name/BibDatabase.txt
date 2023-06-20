@@ -1,0 +1,55 @@
+bib databas 
+bib databas 
+bib databas 
+text 
+entri count 
+entri 
+entri sort 
+entri id 
+entri 
+visibl field 
+entri citat key 
+entri citat key 
+insert entri 
+insert entri 
+insert entri 
+insert entri 
+insert entri 
+remov entri 
+remov entri 
+remov entri 
+remov entri 
+preambl 
+set preambl 
+add string 
+set string 
+remov string 
+string key set 
+string valu 
+string 
+string 
+string count 
+string 
+copi preambl 
+string 
+resolv string 
+string 
+resolv string 
+resolv string 
+resolv string 
+resolv content 
+epilog 
+set epilog 
+regist listen 
+unregist listen 
+relay entri chang event 
+referenc entri 
+share databas id 
+set share databas id 
+share 
+clear share databas id 
+generat share databas id 
+number citat key occurr 
+duplic citat key exist 
+set line separ 
+line separ 

@@ -1,0 +1,13 @@
+record id 
+
+token 
+record id 
+dir 
+base url 
+track 
+rec 
+metadata xml 
+dest dir 
+metadata xml 
+record metadata 
+record servic gw 

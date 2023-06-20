@@ -1,0 +1,13 @@
+databas connect 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+databas connect 
+dbms synchron 

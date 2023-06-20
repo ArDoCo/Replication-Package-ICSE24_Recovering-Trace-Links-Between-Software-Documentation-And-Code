@@ -1,0 +1,6 @@
+link file 
+dialog servic 
+databas context 
+file prefer 
+resolv path filenam 
+resolv path filenam 

@@ -1,0 +1,27 @@
+oracl processor 
+oracl connect 
+listen 
+databas chang registr 
+version db struct default 
+current version db struct 
+
+
+connect 
+express 
+express 
+dbms synchron 
+entri 
+bib entri 
+
+
+oracl processor 
+set 
+escap 
+escap tabl 
+current version db struct 
+start notif listen 
+insert entri tabl 
+insert field tabl 
+stop notif listen 
+notifi client 
+

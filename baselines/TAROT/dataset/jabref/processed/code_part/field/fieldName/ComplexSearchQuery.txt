@@ -1,0 +1,26 @@
+default field 
+default field 
+author 
+author 
+titl phrase 
+titl phrase 
+abstract phrase 
+abstract phrase 
+year 
+year 
+singl year 
+journal 
+doi 
+default field phrase 
+default field phrase 
+author 
+author 
+titl phrase 
+titl phrase 
+abstract phrase 
+abstract phrase 
+journal 
+doi 
+year 
+year 
+singl year 

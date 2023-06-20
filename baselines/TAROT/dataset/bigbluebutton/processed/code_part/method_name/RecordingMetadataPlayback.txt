@@ -1,0 +1,13 @@
+set format 
+format 
+set link 
+link 
+set process time 
+process time 
+set durat 
+durat 
+calcul durat 
+set extens 
+extens 
+set size 
+size 

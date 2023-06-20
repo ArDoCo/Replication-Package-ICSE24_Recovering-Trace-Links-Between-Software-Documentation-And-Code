@@ -1,0 +1,26 @@
+edit extern file type entri dialog 
+default applic 
+applic toggl group 
+extens 
+
+mime type 
+custom applic 
+select applic 
+btn brows 
+icon 
+dialog servic 
+nativ desktop 
+file dialog configur 
+item 
+view model 
+
+
+item 
+dialog titl 
+event 
+
+
+edit extern file type entri dialog 
+initi 
+open file chooser 
+

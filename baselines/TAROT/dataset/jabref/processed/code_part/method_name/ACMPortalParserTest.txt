@@ -1,0 +1,7 @@
+set 
+test pars entri 
+test pars doi search page 
+test bib entri doi list 
+test url doi list 
+test pars bib entri 
+test entri 

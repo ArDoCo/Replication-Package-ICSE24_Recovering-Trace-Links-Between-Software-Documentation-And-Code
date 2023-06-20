@@ -1,0 +1,10 @@
+enrol student data 
+unsuccess enrol 
+set unsuccess enrol 
+student data 
+set student data 
+enrol error result 
+error messag 
+set error messag 
+student email 
+set student email 

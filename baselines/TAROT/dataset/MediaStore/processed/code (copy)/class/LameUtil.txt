@@ -1,0 +1,16 @@
+lame util 
+
+
+input 
+output 
+bitrat 
+input 
+output 
+option 
+
+
+init lame 
+encod 
+decod 
+exec lame 
+

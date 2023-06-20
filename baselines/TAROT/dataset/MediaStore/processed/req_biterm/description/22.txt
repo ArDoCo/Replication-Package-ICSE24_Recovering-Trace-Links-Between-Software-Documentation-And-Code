@@ -1,0 +1,8 @@
+persist tier:compound
+concern compon:acl
+storag concern:obl
+audio file:amod
+file storag:nmod
+meta concern:obl
+meta storag:conj
+data meta:dep

@@ -1,0 +1,12 @@
+atom file output stream 
+atom file output stream 
+atom file output stream 
+path temporari file 
+path save backup file 
+backup 
+write 
+abort 
+cleanup 
+close 
+flush 
+write 

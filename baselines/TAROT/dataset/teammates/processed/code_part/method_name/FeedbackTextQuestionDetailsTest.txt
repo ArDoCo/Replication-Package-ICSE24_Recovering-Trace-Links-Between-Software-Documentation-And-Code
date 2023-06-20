@@ -1,0 +1,7 @@
+test chang requir respons delet 
+test valid question detail 
+test valid respons detail return empti list 
+test valid giver recipi visibl return empti string 
+test instructor comment respons return true 
+test feedback particip comment respons return fals 
+test rich text option true default return true 

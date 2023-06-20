@@ -1,0 +1,14 @@
+instructor action test 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut intent return partial data 
+test execut full detail intent return data full detail 
+test access control 
+test access control full detail intent authent instructor 
+test access control intent authent student 
+

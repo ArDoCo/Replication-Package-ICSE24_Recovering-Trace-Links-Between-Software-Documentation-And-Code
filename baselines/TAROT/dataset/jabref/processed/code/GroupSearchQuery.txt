@@ -1,0 +1,24 @@
+group search queri 
+queri 
+search flag 
+search flag 
+rule 
+
+search rule 
+
+queri 
+search flag 
+entri 
+
+bib entri 
+
+group search queri 
+string 
+match 
+search rule 
+case sensit descript 
+regular express descript 
+rule 
+search express 
+search flag 
+

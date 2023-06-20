@@ -1,0 +1,43 @@
+author 
+
+part 
+abbr 
+von part 
+part 
+jr part 
+latex free author 
+
+author 
+author 
+
+
+firstabbr 
+von 
+
+jr 
+
+
+ 
+
+abbr 
+abbr 
+
+
+author 
+add dot abbrevi 
+hash code 
+equal 
+proper bracket 
+remov start brace 
+
+abbr 
+von 
+
+jr 
+onli 
+
+
+string 
+alphabet 
+latex free 
+

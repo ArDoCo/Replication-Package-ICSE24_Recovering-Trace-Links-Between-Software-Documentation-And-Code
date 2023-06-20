@@ -1,0 +1,70 @@
+svg imag creator imp 
+log 
+notifi 
+imag tag threshold 
+path threshold 
+conv pdf svg timeout 
+pdf font timeout 
+svg resolut ppi 
+forc raster slide 
+png width raster slide 
+blank svg 
+max number attempt 
+
+slide generat progress notifi 
+
+pres 
+page 
+
+page 
+sourc 
+pres 
+imag present dir 
+pres 
+page 
+format 
+page 
+sourc 
+dest file 
+analyz 
+sourc 
+page 
+present file 
+svgss dir 
+page count 
+svg 
+blank svg 
+max number attempt 
+pdf font timeout 
+threshold 
+threshold 
+notifi 
+conv pdf svg timeout 
+svg resolut ppi 
+forc raster slide 
+png width raster slide 
+
+upload present 
+upload present 
+upload present 
+slide generat progress notifi 
+
+creat svg imag 
+creat detect font type handler 
+generat svg imag 
+creat convers process 
+creat detect font type process 
+determin svg imag directori 
+copi blank svgs 
+copi blank svg 
+set blank svg 
+set max number attempt 
+set pdf font timeout 
+set imag tag threshold 
+set path threshold 
+set slide generat progress notifi 
+set conv pdf svg timeout 
+set svg resolut ppi 
+set forc raster slide 
+set png width raster slide 
+

@@ -1,0 +1,6 @@
+extern tab 
+tab 
+initi 
+push applic set 
+termin command brows 
+file browser special command brows 

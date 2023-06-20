@@ -1,0 +1,47 @@
+updat 
+databas 
+databas 
+updat bibliographi 
+alway add cite page 
+
+bib databas 
+
+doc 
+frontend 
+databas 
+style 
+fcursor 
+updat bibliographi 
+alway add cite page 
+databas 
+valu 
+valu 
+doc 
+frontend 
+style 
+fcursor 
+sync option 
+doc 
+style 
+fcursor 
+sync option 
+
+oo frontend 
+bib databas 
+oo bib style 
+function text view cursor 
+bib databas 
+oo frontend 
+oo bib style 
+function text view cursor 
+oo bib style 
+function text view cursor 
+
+updat 
+updat document 
+sync option 
+set updat bibliographi 
+set alway add cite page 
+synchron document 
+resync document 
+

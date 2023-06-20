@@ -1,0 +1,11 @@
+timestamp prefer 
+
+add creation date 
+add creation date properti 
+set add creation date 
+add modif date 
+add modif date properti 
+set add modif date 
+updat timestamp 
+timestamp field 
+timestamp format 

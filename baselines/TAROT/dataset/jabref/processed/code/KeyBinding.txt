@@ -1,0 +1,21 @@
+key bind 
+constant 
+local 
+default bind 
+categori 
+
+key bind categori 
+
+constant 
+local 
+default key bind 
+categori 
+
+key bind categori 
+
+key bind 
+constant 
+local 
+default key bind 
+categori 
+

@@ -1,0 +1,5 @@
+studi repositori root 
+git handler 
+prefer servic 
+bib entri type manag 
+file updat monitor 

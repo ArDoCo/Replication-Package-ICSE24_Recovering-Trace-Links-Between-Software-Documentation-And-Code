@@ -1,0 +1,6 @@
+cours logic 
+fs logic 
+fs db 
+fq logic 
+fr logic 
+frc logic 

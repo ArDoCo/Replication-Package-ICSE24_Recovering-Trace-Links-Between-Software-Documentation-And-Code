@@ -1,0 +1,27 @@
+er join 
+meet id 
+user id 
+extern user id 
+
+role 
+lock 
+avatar url 
+guest 
+guest status 
+client type 
+
+
+meet id 
+user id 
+extern user id 
+
+role 
+lock 
+avatar url 
+guest 
+guest status 
+client type 
+
+
+er join 
+

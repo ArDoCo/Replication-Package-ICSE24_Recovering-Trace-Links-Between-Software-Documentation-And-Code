@@ -1,0 +1,62 @@
+network tab 
+remot label 
+remot server 
+remot port 
+remot 
+proxi 
+proxi hostnam label 
+proxi hostnam 
+proxi port label 
+proxi port 
+proxi authent 
+proxi usernam label 
+proxi usernam 
+proxi password label 
+proxi password 
+proxi attent label 
+check connect button 
+custom certif tabl 
+custom certif tabl 
+cert issuer 
+cert issuer 
+cert serial number 
+cert serial number 
+cert signatur algorithm 
+cert signatur algorithm 
+cert valid 
+cert valid 
+cert valid 
+cert valid 
+cert version 
+cert version 
+action column 
+action column 
+proxi password text 
+proxi password caret posit 
+valid visual 
+
+custom certif view model 
+custom certif view model 
+custom certif view model 
+custom certif view model 
+custom certif view model 
+custom certif view model 
+custom certif view model 
+custom certif view model 
+
+local date 
+version 
+event 
+event 
+
+
+network tab 
+tab 
+initi 
+format date 
+format version 
+proxi password reveal 
+proxi password mask 
+check connect 
+add certif file 
+

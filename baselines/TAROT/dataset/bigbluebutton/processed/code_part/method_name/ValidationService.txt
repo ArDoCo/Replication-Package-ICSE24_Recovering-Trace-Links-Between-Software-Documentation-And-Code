@@ -1,0 +1,18 @@
+api call 
+
+request type 
+valid servic 
+valid 
+initi request 
+perform valid 
+build violat map 
+sanit param 
+map string 
+build queri string param map 
+encod string 
+set secur salt 
+secur salt 
+set support checksum algorithm 
+support checksum algorithm 
+set request session 
+request session 

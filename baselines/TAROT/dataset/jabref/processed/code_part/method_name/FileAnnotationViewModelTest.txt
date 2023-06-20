@@ -1,0 +1,8 @@
+setup 
+author 
+retriev correct page number string 
+retriev correct date string 
+retriev correct content 
+retriev correct content link file annot 
+remov onli line break preced period colon 
+retriev correct mark link file annot 

@@ -1,0 +1,12 @@
+spaghetti transit:obl
+structur architectur:amod
+architectur transit:obl
+model architectur:nmod
+center model:nmod
+logic transit:obl
+logic architectur:conj
+intermedi layer:amod
+layer logic:nmod
+gui transit:obl
+outer shell:amod
+shell gui:acl

@@ -1,0 +1,54 @@
+student 
+queri string 
+instructor 
+queri string 
+student uniqu id 
+origin student 
+cours id 
+student email address 
+cours id 
+email 
+email 
+cours id 
+googl id 
+registr key 
+googl id 
+cours id 
+cours id 
+cours id 
+batch size 
+section 
+cours id 
+team 
+cours id 
+team 
+cours id 
+cours id 
+updat option 
+cours id 
+email 
+queri 
+cours id 
+email 
+email 
+registr key 
+cours id 
+cours id 
+batch size 
+cours id 
+cours id 
+batch size 
+googl id 
+googl id 
+googl id 
+team 
+cours id 
+team 
+cours id 
+section 
+cours id 
+entiti creat 
+entiti 
+attribut 
+start time 
+time 

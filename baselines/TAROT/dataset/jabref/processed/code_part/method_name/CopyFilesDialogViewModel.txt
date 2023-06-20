@@ -1,0 +1,2 @@
+copi file dialog view model 
+copi file result list properti 

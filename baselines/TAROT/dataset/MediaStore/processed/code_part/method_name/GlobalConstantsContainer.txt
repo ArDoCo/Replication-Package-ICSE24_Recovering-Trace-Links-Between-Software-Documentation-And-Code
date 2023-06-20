@@ -1,0 +1,5 @@
+temp dir path 
+file dir 
+cach capac 
+properti 
+load properti 

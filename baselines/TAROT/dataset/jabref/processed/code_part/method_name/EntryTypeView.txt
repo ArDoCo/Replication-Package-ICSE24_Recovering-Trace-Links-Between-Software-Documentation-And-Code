@@ -1,0 +1,8 @@
+entri type view 
+add entri pane 
+initi 
+choic 
+run fetcher worker 
+focus text field 
+set entri type return close 
+descript 

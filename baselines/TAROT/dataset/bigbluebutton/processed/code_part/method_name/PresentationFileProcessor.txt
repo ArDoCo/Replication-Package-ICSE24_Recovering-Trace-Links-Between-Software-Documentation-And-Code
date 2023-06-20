@@ -1,0 +1,29 @@
+present file processor 
+process 
+run 
+process present download msg 
+process upload present 
+extract page 
+downscal page 
+extract page 
+determin number page 
+send doc page convers start progress 
+send fail count page messag 
+start 
+run 
+stop 
+set slide generat progress notifi 
+set counter servic 
+set page extractor 
+set generat pngs 
+set big pdf size 
+set max big pdf page size 
+set svg imag requir 
+set thumbnail creator 
+set png creator 
+set text file creator 
+set svg imag creator 
+set max convers time 
+set imag slide generat servic 
+set present convers complet servic 
+set pdf slide generat servic 

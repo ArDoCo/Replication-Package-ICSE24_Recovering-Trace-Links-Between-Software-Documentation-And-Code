@@ -1,0 +1,12 @@
+registr daemon 
+log 
+
+
+event 
+event 
+
+
+registr daemon 
+context destroy 
+context initi 
+

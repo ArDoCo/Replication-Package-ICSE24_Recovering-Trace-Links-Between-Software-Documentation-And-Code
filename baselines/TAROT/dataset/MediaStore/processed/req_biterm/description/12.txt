@@ -1,0 +1,3 @@
+adapt compon:compound
+compon queri:nsubj
+databas queri:obj

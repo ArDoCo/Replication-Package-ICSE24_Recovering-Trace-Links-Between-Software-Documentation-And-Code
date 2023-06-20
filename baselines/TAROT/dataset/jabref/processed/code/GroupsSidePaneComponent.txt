@@ -1,0 +1,25 @@
+group side pane compon 
+group prefer 
+dialog servic 
+intersect union toggl 
+
+group prefer 
+dialog servic 
+
+close command 
+move command 
+move command 
+content factori 
+group prefer 
+dialog servic 
+
+simpl command 
+simpl command 
+simpl command 
+group prefer 
+dialog servic 
+
+group side pane compon 
+setup intersect union toggl 
+execut 
+

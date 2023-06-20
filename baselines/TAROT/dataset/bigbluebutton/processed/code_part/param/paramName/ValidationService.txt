@@ -1,0 +1,18 @@
+
+request type 
+api call 
+param 
+queri string 
+api call 
+param 
+queri string 
+class valid 
+class valid 
+violat 
+param 
+map 
+param 
+string encod 
+secur salt 
+support checksum algorithm 
+request session 

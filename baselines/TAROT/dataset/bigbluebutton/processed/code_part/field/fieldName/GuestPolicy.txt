@@ -1,0 +1,7 @@
+alway accept 
+alway deni 
+moder 
+alway accept auth 
+
+deni 
+wait 

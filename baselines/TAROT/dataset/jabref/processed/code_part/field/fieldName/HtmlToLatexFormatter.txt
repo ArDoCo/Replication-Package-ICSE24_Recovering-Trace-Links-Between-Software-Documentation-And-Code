@@ -1,0 +1,6 @@
+logger 
+max tag length 
+escap pattern 
+escap pattern 
+escap pattern 
+escap pattern 

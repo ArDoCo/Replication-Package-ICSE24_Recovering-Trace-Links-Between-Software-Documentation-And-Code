@@ -1,0 +1,4 @@
+special command char 
+line break 
+brace titl capit pattern 
+unicod char map 

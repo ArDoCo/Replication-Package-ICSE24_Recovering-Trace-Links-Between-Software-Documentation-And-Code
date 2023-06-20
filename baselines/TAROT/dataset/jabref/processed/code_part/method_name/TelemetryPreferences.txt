@@ -1,0 +1,8 @@
+telemetri prefer 
+collect telemetri 
+collect telemetri properti 
+set collect telemetri 
+collect telemetri 
+collect telemetri properti 
+set collect telemetri 
+user id 

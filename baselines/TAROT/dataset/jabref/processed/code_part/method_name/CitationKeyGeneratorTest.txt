@@ -1,0 +1,85 @@
+set 
+creat bib entri author 
+generat key 
+generat key 
+test author 
+test crossref author 
+test author 
+test crossref author 
+test special latex charact author 
+test label check legal key 
+test label check legal key accent grave 
+test check legal key 
+test author 
+test univers 
+testcrossref univers 
+test depart 
+testcrossref depart 
+test school 
+generat key abbrevi corpor author depart academ institut 
+generat key abbrevi corpor author school academ institut 
+testcrossref school 
+test institut technolog 
+testcrossref institut technolog 
+test auth ini 
+test auth ini empti return empti 
+auth auth ea 
+test auth ea empti return empti 
+test auth al 
+test auth short 
+test auth short empti return empti 
+auth nm 
+author forenam initi 
+author von 
+author von von 
+test author 
+test author alpha 
+test author alpha 
+author 
+author forenam initi 
+author ini 
+test author 
+test author empti return empti 
+test author 
+test page 
+test page null 
+test page prefix 
+test page prefix null 
+test page 
+test page null 
+veri short titl 
+short titl 
+camel 
+titl 
+keyword keyword separ space 
+crossrefkeyword keyword separ space 
+keyword keyword separ space 
+crossrefkeyword keyword separ space 
+test check legal key unwant charact 
+test check legal key unwant charact 
+test check legal null null 
+test appli modifi 
+testcrossref shorttitl 
+testcrossref shorttitl initi 
+generat key strip colon titl 
+generat key strip apostroph titl 
+generat key modifi 
+generat key modifi 
+generat key titl capit modifi 
+generat key short titl capit modifi 
+generat key titl titl case modifi 
+generat key short titl titl case modifi 
+generat key titl sentenc case modifi 
+generat key auth upper year short titl capit modifi 
+generat key year auth upper titl sentenc case modifi 
+generat key citat style outsid field 
+generat key charact 
+generat key correct key length truncat modifi unicod 
+generat key correct key length auth nof mth unicod 
+generat key normal unicod 
+generat key modifi regex charact class 
+generat key doe modifi key incorrect regex replac 
+generat key fallback field 
+generat key lowercas author lastnam von part 
+generat key lowercas author von lastnam 
+generat key correct key 

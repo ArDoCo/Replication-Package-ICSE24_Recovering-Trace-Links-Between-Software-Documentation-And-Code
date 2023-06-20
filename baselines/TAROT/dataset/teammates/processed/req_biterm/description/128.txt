@@ -1,0 +1,6 @@
+storag compon:compound
+compon perform:nsubj
+cascad delet:nsubj
+delet perform:ccomp
+creat delet:dep
+oper creat:obj

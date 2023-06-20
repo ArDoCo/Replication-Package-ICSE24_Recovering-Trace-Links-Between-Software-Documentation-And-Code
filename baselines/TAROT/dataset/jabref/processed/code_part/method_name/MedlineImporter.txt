@@ -1,0 +1,44 @@
+join 
+
+file type 
+id 
+descript 
+recogn format 
+import databas 
+pars book articl 
+pars book document 
+pars book inform 
+handl eloc id 
+pars section 
+pars articl 
+pars pubm data 
+pars medlin citat 
+pars investig 
+pars person subject 
+pars mesh head 
+pars gene symbol list 
+pars chemic list 
+pars medlin journal info 
+pars articl inform 
+pars journal 
+pars date 
+add articl id list 
+add note 
+add investig 
+add keyword 
+add id 
+add person 
+add mesh head 
+add pub date 
+add abstract 
+handl text element 
+add pagin 
+extract year 
+handl author list 
+pars author 
+put valu null 
+fix page rang 
+charact xml event 
+start xml event 
+xml event 
+pars entri 

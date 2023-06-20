@@ -1,0 +1,15 @@
+unknown entri type 
+
+
+
+
+ 
+
+
+unknown entri type 
+string 
+
+display 
+equal 
+hash code 
+

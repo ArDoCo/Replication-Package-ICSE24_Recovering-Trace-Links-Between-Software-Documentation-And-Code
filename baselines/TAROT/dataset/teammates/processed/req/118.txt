@@ -1,0 +1,1 @@
+storag compon perform crud creat read updat delet oper data entiti individu 

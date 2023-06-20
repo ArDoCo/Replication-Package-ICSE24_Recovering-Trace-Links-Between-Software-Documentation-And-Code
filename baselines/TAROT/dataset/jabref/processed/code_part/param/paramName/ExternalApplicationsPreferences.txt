@@ -1,0 +1,14 @@
+mail subject 
+auto open email attach folder 
+cite command 
+custom termin 
+custom termin command 
+custom file browser 
+custom file browser command 
+mail subject 
+auto open email attach folder 
+cite command 
+custom termin 
+custom termin command 
+custom file browser 
+custom file browser command 

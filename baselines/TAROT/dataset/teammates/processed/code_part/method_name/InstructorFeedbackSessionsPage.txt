@@ -1,0 +1,59 @@
+instructor feedback session page 
+expect page content 
+verifi session tabl 
+verifi session detail 
+verifi soft delet session tabl 
+verifi num soft delet 
+verifi respons rate 
+add feedback session 
+add copi session 
+copi session 
+move recycl bin 
+restor session 
+delet session 
+restor session 
+delet session 
+show delet tabl 
+send remind email select student 
+send remind email submitt 
+resend result link 
+publish session result 
+unpublish session result 
+download result 
+sort session 
+sort cours id 
+session detail 
+soft delet session detail 
+simpl date string 
+time string 
+respons rate 
+click add session button 
+set instruct 
+set session start date time 
+set session date time 
+set visibl date time 
+set respons date time 
+set date time 
+select grace period 
+set visibl set 
+set session visibl set 
+set respons visibl set 
+set email set 
+show visibl set 
+show email set 
+click creat session button 
+select cours copi 
+select session copi 
+click confirm copi session button 
+click copi button tabl 
+select cours copi modal 
+select student email 
+feedback session row id 
+soft delet feedback session row id 
+num feedback session 
+num soft delet feedback session 
+feedback session cours id 
+soft delet feedback session cours id 
+feedback session 
+soft delet feedback session 
+wait session edit page 

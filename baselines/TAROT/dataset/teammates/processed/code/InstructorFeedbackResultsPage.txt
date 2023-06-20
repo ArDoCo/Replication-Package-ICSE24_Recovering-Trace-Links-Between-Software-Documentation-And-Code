@@ -1,0 +1,409 @@
+instructor feedback result page 
+question view 
+gqr view 
+rqg view 
+grq view 
+rgq view 
+respons label 
+team label 
+section label 
+user label 
+mcq 
+current view 
+cours id 
+session 
+session durat 
+result visibl date 
+publish button 
+download button 
+respons panel 
+remind button 
+group team checkbox 
+statist checkbox 
+respons checkbox 
+
+
+browser 
+feedback session 
+respons student 
+includ 
+includ 
+includ 
+section 
+question 
+respons 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+question panel 
+question 
+question 
+user panel 
+user 
+user team 
+respons 
+grq 
+question 
+respons 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+question 
+respons 
+group team 
+instructor 
+student 
+type 
+user 
+question 
+respons 
+instructor 
+student 
+group team 
+giver 
+question panel 
+question 
+respons 
+instructor 
+student 
+question panel 
+question 
+respons 
+instructor 
+student 
+question 
+question 
+giver 
+instructor 
+student 
+group team 
+question 
+recipi 
+instructor 
+student 
+group team 
+type 
+user 
+question 
+instructor 
+student 
+group team 
+giver 
+panel stat 
+question 
+comment 
+respons 
+instructor 
+student 
+question 
+comment 
+respons 
+instructor 
+student 
+group team 
+question 
+comment 
+respons 
+instructor 
+student 
+group team 
+question 
+comment 
+respons 
+instructor 
+student 
+group team 
+question 
+comment 
+respons 
+instructor 
+student 
+group team 
+respons row 
+comment 
+instructor 
+student 
+group respons 
+qn num 
+comment 
+instructor 
+student 
+comment section 
+comment giver 
+comment editor 
+comment string 
+closabl 
+panel 
+question 
+giver 
+respons student 
+question 
+respons 
+instructor 
+student 
+question 
+respons 
+instructor 
+student 
+question 
+respons 
+instructor 
+student 
+question 
+question 
+respons 
+student 
+instructor 
+question 
+respons 
+question 
+respons detail 
+question 
+respons detail 
+question 
+respons detail 
+respons detail 
+giver 
+
+feedback session 
+date 
+time zone 
+valu 
+includ 
+option 
+view valu 
+section 
+section type valu 
+qn num 
+parent panel 
+qn num 
+section 
+section panel 
+team 
+parent panel 
+header 
+type 
+user 
+instructor 
+student 
+group team 
+giver 
+section 
+team 
+user panel header 
+group team 
+section 
+team 
+group team 
+question panel 
+question panel 
+question panel 
+question panel 
+question panel 
+question panel 
+giver team 
+giver 
+recipi team 
+recipi 
+question panel 
+user team 
+user email 
+user panel 
+user panel 
+user 
+user team 
+grq 
+parent panel 
+qn num 
+comment field 
+comment field 
+comment section 
+comment string 
+comment section 
+respons 
+respons 
+respons 
+respons 
+respons 
+giver 
+respons 
+recipi 
+type 
+particip 
+student 
+type 
+particip 
+student 
+type 
+particip 
+instructor 
+student 
+type 
+particip 
+instructor 
+student 
+
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback particip type 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback particip type 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback rubric question detail 
+feedback rubric respons detail 
+feedback rank option question detail 
+feedback contribut respons detail 
+feedback particip type 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+
+instructor feedback result page 
+expect page content 
+verifi session detail 
+unpublish session result 
+publish session result 
+download result 
+sort respons 
+verifi respons panel detail 
+remind respond 
+includ group team 
+includ respons 
+includ statist 
+expand panel 
+filter section 
+unfilt respons 
+verifi qn view respons 
+verifi grq view respons 
+verifi rgq view respons 
+verifi gqr view respons 
+verifi rqg view respons 
+verifi question text 
+verifi group respons 
+verifi qn view stat 
+verifi gqr view stat 
+verifi rqg view stat 
+verifi user view stat 
+verifi statist 
+verifi mcq statist 
+verifi qn view stat hidden 
+verifi gqr view stat hidden 
+verifi rqg view stat hidden 
+panel stat 
+verifi stat hidden 
+verifi qn view comment 
+verifi gqr view comment 
+verifi rqg view comment 
+verifi grq view comment 
+verifi rgq view comment 
+verifi respons row comment 
+verifi group respons comment 
+verifi comment detail 
+verifi respons messag 
+expect respons detail 
+expect qn view detail 
+expect gqr detail 
+expect rqg detail 
+mcq respons summari 
+mcq recipi statist 
+answer string 
+rubric string 
+rank option string 
+const sum option string 
+contrib string 
+user header 
+session durat string 
+date string 
+doubl string 
+respons tabl 
+includ option 
+select view type 
+select section dropdown 
+select section type dropdown 
+question panel 
+question panel 
+section panel 
+team panel 
+user panel 
+user panel 
+user panel 
+user parent panel 
+expand question panel 
+hide question panel 
+question panel expand 
+question text 
+respons tabl 
+respons row 
+respons row 
+group respons 
+group respons 
+team stat 
+comment giver 
+comment editor 
+comment field 
+comment field 
+respons 
+filter respons 
+giver 
+recipi 
+respons giver 
+respons recipi 
+section 
+team 
+
+email 
+

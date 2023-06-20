@@ -1,0 +1,2 @@
+record 
+icecast path 

@@ -1,0 +1,35 @@
+cours id 
+feedback session 
+user email 
+instructor 
+deadlin extens 
+cours id 
+feedback session 
+user email 
+instructor 
+creat 
+updat 
+
+updat option 
+cours id 
+feedback session 
+user email 
+instructor 
+updat option 
+cours id 
+feedback session 
+user email 
+instructor 
+cours id 
+feedback session 
+user email 
+instructor 
+updat option 
+cours id 
+feedback session 
+user email 
+instructor 
+email 
+updat option 
+time 
+sent close email 

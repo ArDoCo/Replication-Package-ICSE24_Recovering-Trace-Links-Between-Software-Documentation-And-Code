@@ -1,0 +1,4 @@
+style select dialog view 
+initi 
+creat context menu 
+add style file 

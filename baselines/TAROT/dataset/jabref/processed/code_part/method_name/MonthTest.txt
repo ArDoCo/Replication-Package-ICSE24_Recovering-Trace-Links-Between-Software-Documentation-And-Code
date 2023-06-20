@@ -1,0 +1,26 @@
+pars correct 
+pars short 
+pars bibtex 
+pars full 
+pars digit number 
+pars number 
+pars short german 
+pars full german 
+pars short german lowercas 
+pars special case 
+pars german short month test 
+pars german short month test 
+month number test 
+month number test 
+month short lowercas test 
+month short special case 
+short test 
+short test 
+jab ref format test 
+jab ref format test 
+number test 
+number test 
+full test 
+full test 
+digit number test 
+digit number test 

@@ -1,0 +1,18 @@
+type 
+
+bibtex string 
+id 
+set id 
+
+set 
+content 
+set content 
+type 
+set pars serial 
+pars serial 
+chang 
+user comment 
+clone 
+string 
+equal 
+hash code 

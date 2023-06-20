@@ -1,0 +1,7 @@
+question type 
+numscal error min max 
+numscal error step 
+numscal error rang 
+min scale 
+max scale 
+step 

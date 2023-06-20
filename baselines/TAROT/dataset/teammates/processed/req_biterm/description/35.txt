@@ -1,0 +1,6 @@
+user invok:obl
+invok request:amod
+gae request:dep
+server invok:obl
+invok gae:amod
+process request:acl

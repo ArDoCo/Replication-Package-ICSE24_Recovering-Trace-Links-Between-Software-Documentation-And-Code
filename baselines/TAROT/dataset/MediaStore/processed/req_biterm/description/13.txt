@@ -1,0 +1,17 @@
+user log:compound
+log store:nsubj
+system log:nmod
+media store:compound
+store system:appos
+store function:advcl
+password store:obj
+plain text:amod
+text password:nmod
+manag store:obj
+manag password:conj
+compon implement:compound
+implement function:nsubj
+hash function:obl
+salt function:obl
+salt hash:conj
+password hash:dep

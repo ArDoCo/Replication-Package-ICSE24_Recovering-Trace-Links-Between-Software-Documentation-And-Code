@@ -1,0 +1,6 @@
+configur cron:nsubj
+job cron:obj
+task worker:compound
+queue worker:compound
+worker cron:obj
+worker job:conj

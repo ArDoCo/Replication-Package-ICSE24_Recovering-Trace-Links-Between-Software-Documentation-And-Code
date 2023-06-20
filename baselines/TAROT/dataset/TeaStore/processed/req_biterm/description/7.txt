@@ -1,0 +1,4 @@
+imag retriev:nsubj
+imag servic:compound
+provid servic:compound
+servic retriev:obl

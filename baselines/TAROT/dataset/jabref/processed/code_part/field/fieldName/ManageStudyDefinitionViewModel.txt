@@ -1,0 +1,14 @@
+logger 
+default select 
+default select 
+titl 
+author 
+author 
+research question 
+research question 
+queri 
+queri 
+databas 
+databas 
+directori 
+dialog servic 

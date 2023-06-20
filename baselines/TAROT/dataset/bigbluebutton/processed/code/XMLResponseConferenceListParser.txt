@@ -1,0 +1,30 @@
+xml respons confer list parser 
+confrenc member 
+confrenc member 
+temp val 
+temp member 
+temp flag 
+room 
+flag 
+
+
+uri 
+local 
+
+attribut 
+ch 
+start 
+length 
+uri 
+local 
+
+
+
+xml respons confer list parser 
+confer room 
+print confernec memeb 
+confer list 
+start element 
+charact 
+element 
+

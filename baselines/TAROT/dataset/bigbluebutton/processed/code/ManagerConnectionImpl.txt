@@ -1,0 +1,30 @@
+manag connect impl 
+default hostnam 
+default port 
+default timeout 
+esl client 
+hostnam 
+port 
+timeout 
+password 
+
+client 
+
+hostnam 
+port 
+password 
+timeout 
+
+
+manag connect impl 
+set hostnam 
+set port 
+set password 
+set timeout 
+hostnam 
+port 
+password 
+esl client 
+connect 
+disconnect 
+

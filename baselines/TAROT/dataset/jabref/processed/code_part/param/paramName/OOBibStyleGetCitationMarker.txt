@@ -1,0 +1,36 @@
+author list 
+number 
+style 
+
+style 
+author list 
+max author 
+string 
+field 
+content 
+entri 
+databas 
+field 
+style 
+db 
+field 
+style 
+db 
+style 
+entri 
+style 
+purpos 
+entri 
+start group 
+max author overrid 
+
+style 
+norm entri 
+max author overrid 
+style 
+citat marker entri 
+max author overrid 
+style 
+citat marker entri 
+parenthesi 
+uniqu citat marker handl 

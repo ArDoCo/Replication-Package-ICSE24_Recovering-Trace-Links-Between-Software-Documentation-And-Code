@@ -1,0 +1,9 @@
+imag provid:compound
+provid deliv:nsubj
+imag deliv:obj
+web deliv:obl
+encod string:amod
+string web:nmod
+emb web:acl
+final html:amod
+html emb:obl

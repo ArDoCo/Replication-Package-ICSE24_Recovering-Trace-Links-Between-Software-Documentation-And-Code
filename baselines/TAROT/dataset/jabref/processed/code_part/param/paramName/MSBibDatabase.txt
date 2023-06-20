@@ -1,0 +1,4 @@
+databas 
+entri 
+reader 
+entri add 

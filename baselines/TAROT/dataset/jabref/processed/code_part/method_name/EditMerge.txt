@@ -1,0 +1,8 @@
+edit merg 
+merg citat group 
+joinabl group data 
+scan state 
+reset 
+check add group 
+add current group 
+scan 

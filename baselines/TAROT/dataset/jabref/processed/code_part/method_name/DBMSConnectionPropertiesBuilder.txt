@@ -1,0 +1,11 @@
+set type 
+set host 
+set port 
+set databas 
+set user 
+set password 
+set ssl 
+set public key retriev 
+set server timezon 
+set key store 
+creat dbms connect properti 

@@ -1,0 +1,13 @@
+capit formatt test 
+formatt 
+
+capit formatt 
+
+input 
+expect result 
+
+
+set 
+format exampl 
+test input 
+

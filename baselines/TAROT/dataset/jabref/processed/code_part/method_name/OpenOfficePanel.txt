@@ -1,0 +1,17 @@
+open offic panel 
+content 
+updat style 
+init panel 
+export entri 
+base list 
+connect automat 
+call 
+connect manual 
+updat button avail 
+connect 
+call 
+creat bib base 
+citat type option 
+push entri 
+check entri key 
+creat set popup 

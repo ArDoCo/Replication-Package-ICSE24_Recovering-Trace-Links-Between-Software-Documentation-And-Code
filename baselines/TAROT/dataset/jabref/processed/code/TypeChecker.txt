@@ -1,0 +1,9 @@
+type checker 
+
+
+entri 
+
+bib entri 
+
+check 
+

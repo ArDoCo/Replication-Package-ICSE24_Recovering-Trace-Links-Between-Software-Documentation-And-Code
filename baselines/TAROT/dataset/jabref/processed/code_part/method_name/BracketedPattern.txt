@@ -1,0 +1,47 @@
+find type 
+bracket pattern 
+bracket pattern 
+string 
+expand 
+expand 
+expand 
+expand bracket 
+expand bracket content 
+expand bracket 
+content bracket 
+append quot 
+field valu 
+creat author list 
+institut 
+appli modifi 
+titl word 
+format titl 
+camel titl 
+camel titl 
+camel signific word titl 
+remov small word 
+titl word space 
+letter digit onli 
+author 
+author forenam initi 
+author von 
+author 
+author forenam initi 
+author 
+author alpha 
+join author 
+author 
+author initi 
+auth auth ea 
+auth etal 
+auth nof mth 
+auth 
+auth short 
+auth ini 
+page 
+page prefix 
+page 
+pars field modifi 
+generat institut key 
+institut key word 
+valid institut part 

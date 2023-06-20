@@ -1,0 +1,10 @@
+connector test 
+
+
+dbms type 
+dbms type 
+
+
+test dbms connect 
+test connect properti 
+

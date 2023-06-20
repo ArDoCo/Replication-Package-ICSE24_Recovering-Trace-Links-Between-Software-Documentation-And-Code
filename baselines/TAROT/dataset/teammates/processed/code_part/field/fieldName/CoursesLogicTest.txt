@@ -1,0 +1,9 @@
+account logic 
+cours logic 
+cours db 
+fq logic 
+fr logic 
+frc logic 
+fs logic 
+instructor logic 
+student logic 

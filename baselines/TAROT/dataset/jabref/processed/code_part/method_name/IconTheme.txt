@@ -1,0 +1,16 @@
+default group color 
+find icon 
+jab ref imag 
+load ikon 
+imag fx 
+icon url 
+read icon theme file 
+logo set fx 
+jab ref icon 
+jab ref icon 
+ikon 
+graphic node 
+button 
+toggl button 
+color 
+disabl 

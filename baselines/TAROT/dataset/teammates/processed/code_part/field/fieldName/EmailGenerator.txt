@@ -1,0 +1,16 @@
+feedback action submit edit view 
+feedback action view 
+feedback action submit updat 
+html action requir 
+feedback status session open 
+feedback status session open 
+feedback status session close 
+feedback status session close 
+feedback status session open 
+datetim display format 
+session link recoveri durat day 
+instanc 
+cours logic 
+fs logic 
+instructor logic 
+student logic 

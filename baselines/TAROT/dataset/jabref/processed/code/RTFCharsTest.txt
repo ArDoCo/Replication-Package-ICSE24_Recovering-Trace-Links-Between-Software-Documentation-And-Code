@@ -1,0 +1,23 @@
+rtf char test 
+formatt 
+
+
+special char 
+expect result 
+
+
+set 
+tear 
+test basic format 
+test la te highlight 
+test complic 
+test complic 
+test complic 
+test complic 
+test complic 
+test complic 
+test special charact 
+test special charact 
+test rtf charact 
+test rtf charact capit 
+

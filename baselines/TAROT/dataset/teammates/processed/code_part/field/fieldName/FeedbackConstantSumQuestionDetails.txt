@@ -1,0 +1,31 @@
+question type option 
+question type recipi 
+const sum min num option 
+const sum min num point 
+const sum error option 
+const sum error duplic option 
+const sum error point 
+const sum error mismatch 
+const sum error negat 
+const sum error uniqu 
+const sum error uniqu 
+const sum answer option match 
+const sum answer recipi match 
+const sum templat negat 
+const sum templat exceed point 
+const sum error max point bound 
+const sum error min point abov upper bound 
+const sum error min greater max 
+const sum answer min 
+const sum answer abov max 
+max point string 
+min point string 
+const sum option 
+const sum option 
+distribut recipi 
+point option 
+forc uneven distribut 
+distribut point 
+point 
+min point 
+max point 

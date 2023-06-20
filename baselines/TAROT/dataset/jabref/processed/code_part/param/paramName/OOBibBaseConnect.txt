@@ -1,0 +1,8 @@
+lo path 
+dialog servic 
+lo path 
+desktop 
+list 
+dialog servic 
+text document 
+auto select singl 

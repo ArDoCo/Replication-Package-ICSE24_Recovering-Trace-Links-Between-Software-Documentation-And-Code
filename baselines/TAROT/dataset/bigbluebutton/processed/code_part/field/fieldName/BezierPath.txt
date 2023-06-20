@@ -1,0 +1,15 @@
+serial version uid 
+mask 
+mask 
+mask 
+mask 
+general path 
+bound 
+outer 
+close 
+wind rule 
+serial version uid 
+mask 
+ 
+ 
+colinear 

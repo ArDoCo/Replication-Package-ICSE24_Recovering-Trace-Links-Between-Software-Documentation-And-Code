@@ -1,0 +1,29 @@
+record metadata reader helper 
+log 
+record servic gw 
+
+
+record id 
+
+token 
+record id 
+dir 
+base url 
+track 
+rec 
+metadata xml 
+dest dir 
+metadata xml 
+record metadata 
+record servic gw 
+
+
+valid text track singl token 
+record text track 
+put record text track 
+record 
+record metadata 
+metadata xml locat 
+save record metadata 
+set record servic gw 
+

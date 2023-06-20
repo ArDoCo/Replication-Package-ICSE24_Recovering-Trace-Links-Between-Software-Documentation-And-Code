@@ -1,0 +1,11 @@
+dialog view 
+view model 
+initi 
+copi version clipboard 
+open jabref websit 
+open extern librari websit 
+open github 
+open chang log 
+open licens 
+open contributor 
+open donat 

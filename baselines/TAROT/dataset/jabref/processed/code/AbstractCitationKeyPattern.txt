@@ -1,0 +1,35 @@
+abstract citat key pattern 
+default pattern 
+default pattern 
+data 
+data 
+
+entri type 
+
+bibtex key pattern 
+type 
+pattern 
+ 
+entri type 
+entri type 
+bibtex key pattern 
+key 
+
+entri type 
+entri type 
+entri type 
+entri type 
+
+split 
+add citat key pattern 
+string 
+equal 
+hash code 
+valu 
+default valu 
+default valu 
+set default valu 
+key 
+pattern 
+level citat key pattern 
+

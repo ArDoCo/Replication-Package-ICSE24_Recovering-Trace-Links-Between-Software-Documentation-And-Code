@@ -1,0 +1,30 @@
+log processor 
+instanc 
+servic 
+
+log processor 
+
+queri log param 
+cours id 
+email 
+fs 
+fsl type 
+cours id 
+email 
+start time 
+time 
+fs 
+start time 
+time 
+log event 
+extra filter 
+
+log event 
+
+log processor 
+inst 
+queri log 
+creat feedback session log 
+feedback session log 
+number log event 
+

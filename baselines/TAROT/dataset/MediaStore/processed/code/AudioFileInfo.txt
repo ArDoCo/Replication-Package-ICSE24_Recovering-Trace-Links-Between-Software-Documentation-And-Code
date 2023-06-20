@@ -1,0 +1,51 @@
+audio file info 
+serial version uid 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+
+
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+
+
+audio file info 
+audio file info 
+id 
+set id 
+album 
+set album 
+artist 
+set artist 
+bitrat 
+set bitrat 
+filenam 
+genr 
+set genr 
+releaseyear 
+set releaseyear 
+titl 
+set titl 
+upload 
+set upload 
+string 
+

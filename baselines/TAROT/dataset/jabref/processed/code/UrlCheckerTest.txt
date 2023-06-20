@@ -1,0 +1,14 @@
+url checker test 
+checker 
+
+url checker 
+
+
+
+url field accept http address 
+url field accept full local path 
+url field accept full path http address 
+url field doe accept http address http 
+url field doe accept partial http address 
+url field doe accept partial local path 
+

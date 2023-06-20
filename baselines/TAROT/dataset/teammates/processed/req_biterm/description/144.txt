@@ -1,0 +1,10 @@
+implement minim:nsubj
+transact control:compound
+control implement:nmod
+limit minim:obl
+gae environ:compound
+environ limit:nmod
+natur minim:obl
+natur limit:conj
+data schema:compound
+schema natur:nmod

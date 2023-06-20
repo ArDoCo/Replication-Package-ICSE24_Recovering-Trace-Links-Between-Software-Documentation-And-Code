@@ -1,0 +1,11 @@
+user call:nsubj
+call creat:advcl
+page call:obj
+list call:obl
+audio file:amod
+file list:dep
+audio access creat:nsubj
+queri creat:obj
+sent queri:acl
+databas compon:compound
+compon sent:obl

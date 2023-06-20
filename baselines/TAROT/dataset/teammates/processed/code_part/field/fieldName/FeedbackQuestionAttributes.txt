@@ -1,0 +1,39 @@
+feedback session 
+cours id 
+question detail 
+question descript 
+question number 
+giver type 
+recipi type 
+number entiti give feedback 
+show respons 
+show respons 
+show giver 
+show giver 
+show recipi 
+show recipi 
+creat 
+updat 
+feedback question id 
+feedback question attribut 
+feedback question id 
+question detail option 
+question detail option 
+question descript option 
+question descript option 
+question number option 
+question number option 
+giver type option 
+giver type option 
+recipi type option 
+recipi type option 
+number entiti give feedback option 
+number entiti give feedback option 
+show respons option 
+show respons option 
+show giver option 
+show giver option 
+show recipi option 
+show recipi option 
+updat option 
+builder 

@@ -1,0 +1,15 @@
+default manag connect 
+default manag connect 
+default manag connect 
+default manag connect 
+set hostnam 
+set port 
+set timeout 
+set password 
+hostnam 
+port 
+password 
+esl client 
+string 
+connect 
+disconnect 

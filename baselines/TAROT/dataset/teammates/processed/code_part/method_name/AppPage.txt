@@ -1,0 +1,65 @@
+app page 
+browser 
+page instanc 
+chang page type 
+wait 
+wait page load 
+wait page load 
+wait element visibl 
+wait element visibl 
+wait element clickabl 
+wait anim finish 
+wait anim finish 
+wait element stale 
+verifi unclick 
+wait confirm modal click 
+wait modal shown 
+wait modal hidden 
+wait element presenc 
+reload page 
+execut script 
+page sourc 
+titl 
+page titl 
+click 
+click 
+clear send key 
+clear event 
+fill text box 
+fill date picker 
+fill file box 
+editor rich text 
+write rich text editor 
+mark option select 
+mark option unselect 
+select dropdown option text 
+run 
+select dropdown option text 
+select dropdown option valu 
+verifi tabl bodi valu 
+verifi tabl row header valu 
+verifi tabl column header valu 
+verifi tabl row valu 
+verifi tabl header valu 
+verifi banner content 
+banner visibl 
+click confirm 
+expect page content 
+element present 
+element present 
+element visibl 
+expect condit 
+click dismiss modal button wait modal hidden 
+scroll element center click 
+scroll element center 
+verifi status messag 
+verifi status messag link 
+run 
+switch window 
+close current window switch parent window 
+display giver 
+display recipi 
+display date time 
+full date string 
+year string 
+month string 

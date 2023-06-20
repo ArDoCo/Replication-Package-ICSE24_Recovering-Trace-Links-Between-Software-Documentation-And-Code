@@ -1,0 +1,35 @@
+author order 
+author order 
+author abrv 
+author abrv 
+author punc 
+author punc 
+separ 
+separ 
+separ 
+separ 
+number pattern 
+
+
+lf ff 
+comma 
+amp 
+colon 
+semicolon 
+
+oxford 
+fl mode 
+abbrevi 
+initi onli 
+middl initi 
+onli 
+abbr dot 
+abbr space 
+set sep 
+set max author 
+max author 
+author number al 
+separ 
+separ 
+separ 
+al string 

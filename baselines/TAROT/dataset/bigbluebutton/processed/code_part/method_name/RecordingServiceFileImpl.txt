@@ -1,0 +1,52 @@
+copi present file 
+process present download msg 
+download present file 
+kick record chapter break 
+start ingest process 
+mark 
+record metadata 
+valid text track singl token 
+record text track 
+put record text track 
+record 
+record metadata 
+record match metadata 
+filter record metadata 
+record 
+record exist 
+exist ani record 
+record id 
+record id 
+record id 
+record path 
+delet record 
+creat directori 
+delet directori 
+directori 
+playback format 
+set record status dir 
+set unpublish dir 
+set present base dir 
+set default server url 
+set default text track url 
+set publish dir 
+set dir 
+set fetch record 
+set record servic helper 
+set xml servic 
+includ state 
+chang state 
+chang state 
+publish record 
+unpublish record 
+delet record 
+directori 
+directori 
+updat meta param 
+updat record metadata 
+index record 
+destin base directori 
+destin base directori 
+track inbox dir 
+dir 
+file url directori 

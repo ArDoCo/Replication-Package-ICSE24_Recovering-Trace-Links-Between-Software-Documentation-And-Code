@@ -1,0 +1,5 @@
+question type 
+question text 
+min option rank 
+max option rank 
+duplic 
