@@ -114,6 +114,9 @@ class MediaStore(JavaDataset):
     FOLDER = DATASETS_FOLDER / "MediaStore"
     DOCU_DIR = FOLDER / "docs"
     CODE_DIR = FOLDER / "code"
+    SOLUTION_MATRIX = FOLDER / "goldstandard.txt"
+    ALL_CODE_FILENAMES_FILE = FOLDER / "code_filenames.txt"
+    ALL_REQ_FILENAMES_FILE = FOLDER / "req_filenames.txt"
 
     def __init__(self):
         super().__init__()
@@ -137,10 +140,10 @@ class MediaStore(JavaDataset):
         return False
 
     def _all_code_filenames_file(self):
-        pass
+        return self.ALL_CODE_FILENAMES_FILE
 
     def _all_req_filenames_file(self):
-        pass
+        return self.ALL_REQ_FILENAMES_FILE
 
     def method_callgraph(self):
         pass
@@ -152,7 +155,7 @@ class MediaStore(JavaDataset):
         pass
 
     def _read_solution_matrix(self):
-        pass
+        self._solution_matrix = read_txt_format_solution_matrix(self.SOLUTION_MATRIX)
 
     def raw_call_graph_path(self):
         pass
@@ -169,6 +172,9 @@ class JabRef(JavaDataset):
     FOLDER = DATASETS_FOLDER / "jabref"
     DOCU_DIR = FOLDER / "docs"
     CODE_DIR = FOLDER / "code"
+    SOLUTION_MATRIX = FOLDER / "goldstandard.txt"
+    ALL_CODE_FILENAMES_FILE = FOLDER / "code_filenames.txt"
+    ALL_REQ_FILENAMES_FILE = FOLDER / "req_filenames.txt"
 
     def __init__(self):
         super().__init__()
@@ -192,10 +198,10 @@ class JabRef(JavaDataset):
         return False
 
     def _all_code_filenames_file(self):
-        pass
+        return self.ALL_CODE_FILENAMES_FILE
 
     def _all_req_filenames_file(self):
-        pass
+        return self.ALL_REQ_FILENAMES_FILE
 
     def method_callgraph(self):
         pass
@@ -207,7 +213,7 @@ class JabRef(JavaDataset):
         pass
 
     def _read_solution_matrix(self):
-        pass
+        self._solution_matrix = read_txt_format_solution_matrix(self.SOLUTION_MATRIX)
 
     def raw_call_graph_path(self):
         pass
@@ -223,6 +229,9 @@ class Teammates(JavaDataset):
     FOLDER = DATASETS_FOLDER / "teammates"
     DOCU_DIR = FOLDER / "docs"
     CODE_DIR = FOLDER / "code"
+    SOLUTION_MATRIX = FOLDER / "goldstandard.txt"
+    ALL_CODE_FILENAMES_FILE = FOLDER / "code_filenames.txt"
+    ALL_REQ_FILENAMES_FILE = FOLDER / "req_filenames.txt"
 
     def __init__(self):
         super().__init__()
@@ -246,10 +255,10 @@ class Teammates(JavaDataset):
         return False
 
     def _all_code_filenames_file(self):
-        pass
+        return self.ALL_CODE_FILENAMES_FILE
 
     def _all_req_filenames_file(self):
-        pass
+        return self.ALL_REQ_FILENAMES_FILE
 
     def method_callgraph(self):
         pass
@@ -261,7 +270,7 @@ class Teammates(JavaDataset):
         pass
 
     def _read_solution_matrix(self):
-        pass
+        self._solution_matrix = read_txt_format_solution_matrix(self.SOLUTION_MATRIX)
 
     def raw_call_graph_path(self):
         pass
@@ -277,6 +286,9 @@ class TeaStore(JavaDataset):
     FOLDER = DATASETS_FOLDER / "TeaStore"
     DOCU_DIR = FOLDER / "docs"
     CODE_DIR = FOLDER / "code"
+    SOLUTION_MATRIX = FOLDER / "goldstandard.txt"
+    ALL_CODE_FILENAMES_FILE = FOLDER / "code_filenames.txt"
+    ALL_REQ_FILENAMES_FILE = FOLDER / "req_filenames.txt"
 
     def __init__(self):
         super().__init__()
@@ -300,10 +312,10 @@ class TeaStore(JavaDataset):
         return False
 
     def _all_code_filenames_file(self):
-        pass
+        return self.ALL_CODE_FILENAMES_FILE
 
     def _all_req_filenames_file(self):
-        pass
+        return self.ALL_REQ_FILENAMES_FILE
 
     def method_callgraph(self):
         pass
@@ -315,7 +327,7 @@ class TeaStore(JavaDataset):
         pass
 
     def _read_solution_matrix(self):
-        pass
+        self._solution_matrix = read_txt_format_solution_matrix(self.SOLUTION_MATRIX)
 
     def raw_call_graph_path(self):
         pass
@@ -334,9 +346,14 @@ class BigBlueButton(JavaDataset):
     FOLDER = DATASETS_FOLDER / "bigbluebutton"
     DOCU_DIR = FOLDER / "docs"
     CODE_DIR = FOLDER / "code"
+    SOLUTION_MATRIX = FOLDER / "goldstandard.txt"
+    ALL_CODE_FILENAMES_FILE = FOLDER / "code_filenames.txt"
+    ALL_REQ_FILENAMES_FILE = FOLDER / "req_filenames.txt"
+
 
     def __init__(self):
         super().__init__()
+
 
     def name(self):
         return "bigbluebutton"
@@ -357,10 +374,10 @@ class BigBlueButton(JavaDataset):
         return False
 
     def _all_code_filenames_file(self):
-        pass
+        return self.ALL_CODE_FILENAMES_FILE
 
     def _all_req_filenames_file(self):
-        pass
+        return self.ALL_REQ_FILENAMES_FILE
 
     def method_callgraph(self):
         pass
@@ -372,7 +389,7 @@ class BigBlueButton(JavaDataset):
         pass
 
     def _read_solution_matrix(self):
-        pass
+        self._solution_matrix = read_txt_format_solution_matrix(self.SOLUTION_MATRIX)
 
     def raw_call_graph_path(self):
         pass
@@ -385,3 +402,27 @@ class BigBlueButton(JavaDataset):
 
     def code_tokenizer(self):
         return MixedASTTokenizer(self, JavaDocDescriptionOnlyTokenizer(self, not self.is_english()), WordTokenizer(self, not self.is_english()))
+
+
+def read_txt_format_solution_matrix(file_path, delim=":"):
+    """
+    Use this for solution matrices of etour, libest, dronology
+    """
+
+    text_rows = []
+    try:
+        file = open(file_path, 'r', encoding='utf8')
+        text_rows = file.readlines()
+    except IOError:
+        log.error("Unable to read " + str(file_path))
+
+    tm = SolutionMatrix()
+    for row in text_rows:
+        row_split = row.split(delim)
+        if row_split[1]:
+            req_name = row_split[0]
+            code_names = row_split[1].split()
+            for code_name in code_names:
+                tm.add_trace_pair(req_name, code_name)
+
+    return tm
