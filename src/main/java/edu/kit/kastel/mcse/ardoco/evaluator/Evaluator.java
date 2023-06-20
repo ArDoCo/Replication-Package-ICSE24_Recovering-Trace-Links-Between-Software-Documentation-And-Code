@@ -10,7 +10,6 @@ import java.util.Set;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import org.apache.commons.lang3.StringUtils;
 import org.eclipse.collections.api.collection.ImmutableCollection;
 import org.eclipse.collections.api.factory.Lists;
 import org.eclipse.collections.api.list.ImmutableList;
@@ -18,6 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Evaluator {
+    public static final List<String> POSSIBLE_SEPARATORS = List.of(",", ";", "-");
     private static final Logger logger = LoggerFactory.getLogger(Evaluator.class);
 
     private Evaluator() {
@@ -85,14 +85,27 @@ public class Evaluator {
         traceLink = traceLink.strip();
         goldStandardTraceLink = goldStandardTraceLink.strip();
         if (weakComparison) {
-            int indexOfDifference = StringUtils.indexOfDifference(traceLink, goldStandardTraceLink);
-            if (indexOfDifference > 0) {
-                var traceLinkPart = traceLink.substring(indexOfDifference + 1);
-                return goldStandardTraceLink.endsWith(traceLinkPart);
+            var splitTraceLink = splitTraceLinkAtSeparator(traceLink);
+            var splitGoldStandard = splitTraceLinkAtSeparator(goldStandardTraceLink);
+            int splitTraceLinkLength = splitTraceLink.length;
+            int splitGoldStandardLength = splitGoldStandard.length;
+            if (splitTraceLinkLength <= 1 || splitGoldStandardLength <= 1) {
+                return goldStandardTraceLink.equals(traceLink);
             }
-            return false;
+            return splitTraceLink[0].equals(splitGoldStandard[0]) && //
+                    splitGoldStandard[splitGoldStandardLength - 1].endsWith(splitTraceLink[splitTraceLinkLength - 1]);
         }
         return (goldStandardTraceLink.equals(traceLink));
+    }
+
+    private static String[] splitTraceLinkAtSeparator(String traceLink) {
+        for (String separator : POSSIBLE_SEPARATORS) {
+            var splitTraceLink = traceLink.split(separator);
+            if (splitTraceLink.length > 1) {
+                return splitTraceLink;
+            }
+        }
+        return new String[] { traceLink };
     }
 
     private static boolean isTraceLinkContainedInGoldStandard(String traceLink, Set<String> goldStandard, boolean weakComparison) {
