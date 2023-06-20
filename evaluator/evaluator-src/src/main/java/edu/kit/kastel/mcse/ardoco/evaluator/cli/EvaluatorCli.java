@@ -26,13 +26,15 @@ public class EvaluatorCli {
     private static final String CMD_GOLD_STANDARD_CSV = "g";
     private static final String CMD_CONFUSION_MATRIX_SUM = "c";
     private static final String CMD_WEAK_COMPARISON = "w";
+    private static final String CMD_MINIMAL_OUTPUT = "m";
 
     private static Options options;
 
-    private EvaluationResults<String> lastResults = null;
+    private EvaluationResults<String> lastResults;
 
     protected EvaluatorCli() {
         // empty
+        lastResults = null;
     }
 
     public static void main(String[] args) {
@@ -69,7 +71,11 @@ public class EvaluatorCli {
         opt.setType(Number.class);
         options.addOption(opt);
 
-        opt = new Option(CMD_WEAK_COMPARISON, "weakComparison", false, "perform a weak comparison");
+        opt = new Option(CMD_WEAK_COMPARISON, "weakComparison", false, "Perform a weak comparison");
+        opt.setRequired(false);
+        options.addOption(opt);
+
+        opt = new Option(CMD_MINIMAL_OUTPUT, "minizeOutput", false, "Only put out minimized results");
         opt.setRequired(false);
         options.addOption(opt);
 
@@ -135,7 +141,14 @@ public class EvaluatorCli {
             }
         }
         lastResults = results;
-        logger.info("{}", results);
+
+        String output;
+        if (cmd.hasOption(CMD_MINIMAL_OUTPUT)) {
+            output = results.getMinimizedResultsString();
+        } else {
+            output = results.getResultsString();
+        }
+        logger.info(output);
     }
 
     public EvaluationResults<String> getLastResults() {

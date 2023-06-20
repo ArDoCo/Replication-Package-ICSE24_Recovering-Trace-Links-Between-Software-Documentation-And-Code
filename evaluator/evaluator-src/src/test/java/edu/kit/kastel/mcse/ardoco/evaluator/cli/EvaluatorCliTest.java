@@ -28,8 +28,8 @@ class EvaluatorCliTest {
     @DisplayName("With no ConfusionMatrixSum")
     void cliNoConfusionMatrixSumTest() {
         String[] args = new String[] {//
-                "-g", "src/test/resources/testCSVs/gs-sad-code/teammates.csv", //
-                "-t", "src/test/resources/testCSVs/tls-sad-code/teammates.csv"//
+                "-g", "src/test/resources/testCSVs/gs-sad-code/teastore.csv", //
+                "-t", "src/test/resources/testCSVs/tls-sad-code/teastore.csv"//
         };
         cli.startEvaluator(args);
         Assertions.assertNotNull(cli.getLastResults());
@@ -39,9 +39,34 @@ class EvaluatorCliTest {
     @DisplayName("With ConfusionMatrixSum")
     void cliWithConfusionMatrixSumTest() {
         String[] args = new String[] {//
-                "-g", "src/test/resources/testCSVs/gs-sad-code/teammates.csv", //
-                "-t", "src/test/resources/testCSVs/tls-sad-code/teammates.csv",//
+                "-g", "src/test/resources/testCSVs/gs-sad-code/teastore.csv", //
+                "-t", "src/test/resources/testCSVs/tls-sad-code/teastore.csv",//
                 "-c", "165330" //
+        };
+        cli.startEvaluator(args);
+        Assertions.assertNotNull(cli.getLastResults());
+    }
+
+    @Test
+    @DisplayName("Minimized Output With ConfusionMatrixSum")
+    void cliMinimizedWithConfusionMatrixSumTest() {
+        String[] args = new String[] {//
+                "-g", "src/test/resources/testCSVs/gs-sad-code/teastore.csv", //
+                "-t", "src/test/resources/testCSVs/tls-sad-code/teastore.csv",//
+                "-c", "165330", //
+                "-m" //
+        };
+        cli.startEvaluator(args);
+        Assertions.assertNotNull(cli.getLastResults());
+    }
+
+    @Test
+    @DisplayName("Minimized Output")
+    void cliMinimizedTest() {
+        String[] args = new String[] {//
+                "-g", "src/test/resources/testCSVs/gs-sad-code/teastore.csv", //
+                "-t", "src/test/resources/testCSVs/tls-sad-code/teastore.csv",//
+                "-m" //
         };
         cli.startEvaluator(args);
         Assertions.assertNotNull(cli.getLastResults());
