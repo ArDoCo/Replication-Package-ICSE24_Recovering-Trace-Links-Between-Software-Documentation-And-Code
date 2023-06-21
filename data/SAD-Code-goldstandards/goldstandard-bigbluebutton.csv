@@ -197,9 +197,7 @@ SentenceId,CodeElementId
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 25,akka-bbb-apps/run-dev.sh
 25,akka-bbb-apps/run.sh
-25,akka-bbb-apps/src/debian/DEBIAN/postrm
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-25,akka-bbb-apps/src/debian/DEBIAN/preinst
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
@@ -230,14 +228,12 @@ SentenceId,CodeElementId
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
 28,build/packages-template/bbb-web/setenv.sh
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
-28,bigbluebutton-web/gradlew
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
 28,bigbluebutton-web/build.sh
 28,bigbluebutton-web/run.sh
 28,bigbluebutton-web/run-dev.sh
-28,bigbluebutton-web/grailsw
 28,build/packages-template/bbb-web/opts-jammy.sh
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/UserCleanupTimerTask.java
 34,build/packages-template/bbb-web/opts-jammy.sh
@@ -256,12 +252,10 @@ SentenceId,CodeElementId
 34,bigbluebutton-web/pres-checker/build.sh
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
-34,bigbluebutton-web/gradlew
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/RemoteIceCandidate.java
 34,bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
-34,bigbluebutton-web/grailsw
 34,bigbluebutton-web/build.sh
 34,build/packages-template/bbb-web/before-install.sh
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunTurnService.java
@@ -292,8 +286,6 @@ SentenceId,CodeElementId
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
 35,bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnEntry.java
-35,bigbluebutton-web/gradlew
-35,bigbluebutton-web/grailsw
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
 35,build/packages-template/bbb-web/before-install.sh
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
@@ -363,12 +355,10 @@ SentenceId,CodeElementId
 49,build/packages-template/bbb-apps-akka/build.sh
 49,akka-bbb-apps/deploy.sh
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
-49,akka-bbb-apps/src/debian/DEBIAN/postrm
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
 49,akka-bbb-apps/run-dev.sh
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
-49,akka-bbb-apps/src/debian/DEBIAN/preinst
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
 49,akka-bbb-apps/run.sh
@@ -376,9 +366,7 @@ SentenceId,CodeElementId
 50,build/packages-template/bbb-apps-akka/build.sh
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
 50,akka-bbb-apps/run-dev.sh
-50,akka-bbb-apps/src/debian/DEBIAN/preinst
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
-50,akka-bbb-apps/src/debian/DEBIAN/postrm
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
 50,akka-bbb-apps/deploy.sh
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
@@ -393,8 +381,6 @@ SentenceId,CodeElementId
 52,akka-bbb-apps/run.sh
 52,akka-bbb-apps/run-dev.sh
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
-52,akka-bbb-apps/src/debian/DEBIAN/preinst
-52,akka-bbb-apps/src/debian/DEBIAN/postrm
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
@@ -424,12 +410,9 @@ SentenceId,CodeElementId
 55,build/packages-template/bbb-freeswitch-core/after-install.sh
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
-55,build/packages-template/bbb-freeswitch-core/fs_clibbb
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
-55,akka-bbb-fsesl/src/debian/DEBIAN/postrm
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
-55,akka-bbb-fsesl/src/debian/DEBIAN/postinst
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
@@ -461,7 +444,6 @@ SentenceId,CodeElementId
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
-55,akka-bbb-fsesl/src/debian/DEBIAN/preinst
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
 55,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
@@ -592,7 +574,6 @@ SentenceId,CodeElementId
 56,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
 56,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
 56,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
-56,build/packages-template/bbb-freeswitch-core/fs_clibbb
 56,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
 56,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
 56,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
@@ -607,7 +588,6 @@ SentenceId,CodeElementId
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
-58,akka-bbb-apps/src/debian/DEBIAN/postrm
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
@@ -640,7 +620,6 @@ SentenceId,CodeElementId
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
 58,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
-58,akka-bbb-fsesl/src/debian/DEBIAN/postrm
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
@@ -686,11 +665,9 @@ SentenceId,CodeElementId
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
-58,akka-bbb-fsesl/src/debian/DEBIAN/postinst
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
-58,akka-bbb-apps/src/debian/DEBIAN/preinst
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
@@ -707,7 +684,6 @@ SentenceId,CodeElementId
 58,build/packages-template/bbb-apps-akka/build.sh
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
-58,akka-bbb-fsesl/src/debian/DEBIAN/preinst
 58,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
 58,akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
@@ -746,7 +722,6 @@ SentenceId,CodeElementId
 59,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
 59,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
 59,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
-59,build/packages-template/bbb-freeswitch-core/fs_clibbb
 59,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
 59,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
 59,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
@@ -842,7 +817,6 @@ SentenceId,CodeElementId
 61,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 61,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
 61,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
-61,build/packages-template/bbb-freeswitch-core/fs_clibbb
 61,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
 61,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
 61,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
@@ -990,7 +964,6 @@ SentenceId,CodeElementId
 64,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
 64,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
 64,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
-64,build/packages-template/bbb-freeswitch-core/fs_clibbb
 64,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
 64,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
 64,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
@@ -1022,7 +995,6 @@ SentenceId,CodeElementId
 70,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
 70,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
 70,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
-70,build/packages-template/bbb-freeswitch-core/fs_clibbb
 70,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
 70,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
 70,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
@@ -1164,9 +1136,7 @@ SentenceId,CodeElementId
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveService.java
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
-76,bigbluebutton-web/gradlew
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
-76,bigbluebutton-web/grailsw
 76,build/packages-template/bbb-web/after-install.sh
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/DelayCallback.java
