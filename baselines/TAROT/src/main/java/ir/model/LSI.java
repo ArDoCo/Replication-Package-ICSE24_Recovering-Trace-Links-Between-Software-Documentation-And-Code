@@ -193,6 +193,12 @@ public class LSI implements IRModel {
         projectKvalueMap.put("derby", 300);
         projectKvalueMap.put("seam", 130);
         projectKvalueMap.put("groovy", 175);
+        // take 50% of number of artifacts as k
+        projectKvalueMap.put("bigbluebutton", 220);
+        projectKvalueMap.put("jabref", 992);
+        projectKvalueMap.put("MediaStore", 65);
+        projectKvalueMap.put("teammates", 491);
+        projectKvalueMap.put("TeaStore", 119);
     }
 
     @Override
