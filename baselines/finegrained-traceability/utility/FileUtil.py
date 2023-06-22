@@ -3,6 +3,8 @@ import shutil, os, ntpath, xlsxwriter
 
 from pathlib import Path
 
+from datasets import Dataset
+
 log = logging.getLogger(__name__)
 RECALL_PREC_CSV_HEADER = ["recall", "precision"]
 CSV_DELIM = ";"
@@ -154,6 +156,9 @@ def get_files_in_directory(directory: Path, return_as_pathstrings=True):
 def get_filename_from_path(file_path):
     """ a/b/c/x.txt -> x.txt"""
     return ntpath.basename(file_path)
+
+def get_rel_filename_from_path(file_path, dataset:Dataset):
+    return os.path.relpath(file_path, dataset.code_folder())
 
 
 def get_filename_without_extension_from_path(file_path):

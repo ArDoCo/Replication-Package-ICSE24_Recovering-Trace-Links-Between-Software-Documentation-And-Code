@@ -26,6 +26,7 @@ class JavaCodeASTTokenizer(Tokenizer.Tokenizer):
 
     def tokenize(self, file_path):
         text_as_string = FileUtil.read_textfile_into_string(file_path, self._dataset.encoding())
+        rel_pathname = FileUtil.get_rel_filename_from_path(file_path, self._dataset)
         try:
             tree = javalang.parse.parse(text_as_string)
         except Exception:
@@ -35,7 +36,7 @@ class JavaCodeASTTokenizer(Tokenizer.Tokenizer):
         file_name = FileUtil.get_filename_from_path(file_path)
         class_objects = [JavaLangUtil.extract_type(node, file_name) for node in tree.types]
         if not all(x is None for x in class_objects):
-            return CodeFileRepresentation(class_objects, file_path)
+            return CodeFileRepresentation(class_objects, rel_pathname)
         else:
             raise NoClassifierFoundError()
 
@@ -71,6 +72,7 @@ class MixedASTTokenizer(Tokenizer.Tokenizer):
     def tokenize(self, file_path):
         text_as_string = FileUtil.read_textfile_into_string(file_path, self._dataset.encoding())
         file_name = FileUtil.get_filename_from_path(file_path)
+        rel_pathname = FileUtil.get_rel_filename_from_path(file_path, self._dataset)
         if file_name.endswith(".java"):
             try:
                 tree = javalang.parse.parse(text_as_string)
@@ -79,15 +81,16 @@ class MixedASTTokenizer(Tokenizer.Tokenizer):
             JavaLangUtil.COMMENT_TOKENIZER = self._tokenizer_for_java_comments
             class_objects = [JavaLangUtil.extract_type(node, file_name) for node in tree.types]
             if not all(x is None for x in class_objects):
-                return CodeFileRepresentation(class_objects, file_path)
+                return CodeFileRepresentation(class_objects, rel_pathname)
             else:
                 raise NoClassifierFoundError()
         elif file_name.endswith(".jsp"):
             class_name = IdentifierString(file_name, file_name.replace(".jsp", ""))
-            return CodeFileRepresentation([Classifier(class_name, IdentifierString(file_name, ""))], file_path)
+            return CodeFileRepresentation([Classifier(class_name, IdentifierString(file_name, ""))], rel_pathname)
         elif file_name.endswith(".sh"):
-            class_name = IdentifierString(file_name, file_name.replace(".sh", ""))
-            return CodeFileRepresentation([Classifier(class_name, IdentifierString(file_name, ""))], file_path)
+            folder_name = os.path.basename(os.path.dirname(file_path))
+            class_name = IdentifierString(file_name, folder_name + " " + file_name.replace(".sh", ""))
+            return CodeFileRepresentation([Classifier(class_name, IdentifierString(file_name, ""))], rel_pathname)
         else:
             log.info("Ignore file with ending: " + str(os.path.splitext(file_path)[1]))
             raise FileExtensionNotSupportedError()

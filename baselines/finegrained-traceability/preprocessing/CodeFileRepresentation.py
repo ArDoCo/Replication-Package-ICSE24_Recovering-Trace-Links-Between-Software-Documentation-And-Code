@@ -11,6 +11,7 @@ class CodeFileRepresentation(FileRepresentation):
     def __init__(self, classifiers, file_path):
         self.classifiers = classifiers
         super(CodeFileRepresentation, self).__init__(file_path)
+        self.file_name = file_path
         self.token_list = self._create_token_list()  # List of all tokens / word in the code file representation
                 
     def _create_token_list(self):

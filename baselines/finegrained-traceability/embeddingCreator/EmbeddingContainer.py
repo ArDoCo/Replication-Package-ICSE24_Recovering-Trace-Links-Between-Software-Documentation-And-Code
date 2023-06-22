@@ -50,6 +50,7 @@ class ClassEmbeddingContainer(EmbeddingContainer):
                                         
         """
         super().__init__(file_path, file_vector)
+        self.file_name = file_path
         self.class_name = class_name
         self.methods_dict = {}  # self.methods_dict[method_key] = vector of method
         self.non_cg_dict = {}  # like methods_dict, but for class elements without call graph property that participate in majority decision
