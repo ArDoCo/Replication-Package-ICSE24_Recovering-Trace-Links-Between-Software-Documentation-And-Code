@@ -221,7 +221,6 @@
 28.txt: StunTurnService.java
 28.txt: RemoteIceCandidate.java
 28.txt: ParamsProcessorUtilTest.java
-28.txt: build.sh
 28.txt: KeepAlivePong.java
 28.txt: ICallbackEvent.java
 28.txt: KeepAliveMessage.java
@@ -230,8 +229,6 @@
 28.txt: MeetingEndedEvent.java
 28.txt: CallbackUrlService.java
 28.txt: KeepAlivePing.java
-28.txt: build.sh
-28.txt: run.sh
 28.txt: run-dev.sh
 28.txt: opts-jammy.sh
 34.txt: UserCleanupTimerTask.java
@@ -248,14 +245,12 @@
 34.txt: setenv.sh
 34.txt: run-dev.sh
 34.txt: KeepAliveService.java
-34.txt: build.sh
 34.txt: StunServer.java
 34.txt: EnteredUserCleanupTimerTask.java
 34.txt: RemoteIceCandidate.java
 34.txt: Main.java
 34.txt: CallbackUrlService.java
 34.txt: TurnServer.java
-34.txt: build.sh
 34.txt: before-install.sh
 34.txt: StunTurnService.java
 34.txt: KeepAlivePing.java
@@ -263,7 +258,6 @@
 34.txt: ICallbackEvent.java
 34.txt: IStorageService.java
 34.txt: NullMessagingService.java
-34.txt: run.sh
 34.txt: MeetingEndedEvent.java
 35.txt: deploy_to_usr_share.sh
 35.txt: WaitingGuestCleanupTimerTask.java
@@ -276,8 +270,6 @@
 35.txt: RemoteIceCandidate.java
 35.txt: KeepAliveService.java
 35.txt: Main.java
-35.txt: build.sh
-35.txt: run.sh
 35.txt: UserCleanupTimerTask.java
 35.txt: after-install.sh
 35.txt: StunServer.java
@@ -288,7 +280,6 @@
 35.txt: KeepAlivePing.java
 35.txt: before-install.sh
 35.txt: MeetingEndedEvent.java
-35.txt: build.sh
 35.txt: IStorageService.java
 35.txt: StunTurnService.java
 35.txt: ICallbackEvent.java
@@ -421,7 +412,6 @@
 55.txt: FreeswitchCommand.java
 55.txt: FreeswitchConferenceEventListener.java
 55.txt: InboundPipelineFactory.java
-55.txt: build.sh
 55.txt: CheckIfConfIsRunningCommand.java
 55.txt: VoiceUserJoinedEvent.java
 55.txt: CommandResponse.java
@@ -460,18 +450,15 @@
 55.txt: ConferenceEventListener.java
 55.txt: VoiceUsersStatusEvent.java
 55.txt: VoiceConfRunningEvent.java
-55.txt: build.sh
 55.txt: opts-jammy.sh
 55.txt: ConfRecording.java
 55.txt: ConnectionManager.java
 55.txt: VoiceStartRecordingEvent.java
 55.txt: SendMsg.java
 55.txt: before-install.sh
-55.txt: MuteUserCommand.java
 55.txt: run-dev.sh
 55.txt: HeartbeatThread.java
 55.txt: ManagerConnection.java
-55.txt: EjectUserCommand.java
 55.txt: IDelayedCommandListener.java
 55.txt: AbstractOutboundPipelineFactory.java
 55.txt: EslFrameDecoder.java
@@ -484,7 +471,6 @@
 55.txt: DeafUserCommand.java
 55.txt: VoiceUserLockedEvent.java
 55.txt: after-remove.sh
-55.txt: opts-jammy.sh
 56.txt: EslEventListener.java
 56.txt: freeswitch.placeholder.sh
 56.txt: SimpleHangupPipelineFactory.java
@@ -545,7 +531,6 @@
 56.txt: IEslProtocolListener.java
 56.txt: ForceEjectUserCommand.java
 56.txt: FreeswitchConferenceEventListener.java
-56.txt: EjectUserCommand.java
 56.txt: ChannelEventRunnable.java
 56.txt: FreeswitchCommand.java
 56.txt: FreeswitchHeartbeatEvent.java
@@ -557,15 +542,12 @@
 56.txt: ConfMember.java
 56.txt: ConferenceServerListener.java
 56.txt: ManagerConnectionImpl.java
-56.txt: build.sh
 56.txt: AbstractOutboundClientHandler.java
 56.txt: RecordCommand.java
-56.txt: opts-jammy.sh
 56.txt: UnknownConferenceEvent.java
 56.txt: VoiceUsersStatusEvent.java
 56.txt: ConferenceCommand.java
 56.txt: FreeswitchApplication.java
-56.txt: MuteUserCommand.java
 56.txt: DeafUserCommand.java
 56.txt: SimpleHangupOutboundHandler.java
 56.txt: before-install.sh
@@ -600,10 +582,8 @@
 58.txt: run.sh
 58.txt: VoiceConferenceEvent.java
 58.txt: VoiceUserLockedEvent.java
-58.txt: MuteUserCommand.java
 58.txt: build.sh
 58.txt: ConferenceCheckRecordCommand.java
-58.txt: run.sh
 58.txt: InboundPipelineFactory.java
 58.txt: wait-for-it.sh
 58.txt: ConfRecording.java
@@ -629,7 +609,6 @@
 58.txt: VoiceUserLeftEvent.java
 58.txt: AbstractOutboundClientHandler.java
 58.txt: StopSoundCommand.java
-58.txt: deploy.sh
 58.txt: FreeswitchConferenceEventListener.java
 58.txt: ConferenceEventListener.java
 58.txt: PlaySoundCommand.java
@@ -638,7 +617,6 @@
 58.txt: IVoiceConferenceService.java
 58.txt: VoiceUserTalkingEvent.java
 58.txt: HoldUserCommand.java
-58.txt: EjectUserCommand.java
 58.txt: AbstractEslClientHandler.java
 58.txt: run-dev.sh
 58.txt: ConferenceMemberFlags.java
@@ -673,14 +651,12 @@
 58.txt: EslHeaders.java
 58.txt: VoiceStartRecordingEvent.java
 58.txt: AbstractOutboundPipelineFactory.java
-58.txt: run-dev.sh
 58.txt: ChannelEventRunnable.java
 58.txt: IEslProtocolListener.java
 58.txt: ReceivedMessageHandler.java
 58.txt: CheckIfConfIsRunningCommand.java
 58.txt: AudioFloorChangedEvent.java
 58.txt: MessageToSend.java
-58.txt: build.sh
 58.txt: VoiceCallStateEvent.java
 58.txt: IEslEventListener.java
 58.txt: InboundConnectionFailure.java
@@ -733,7 +709,6 @@
 59.txt: opts-jammy.sh
 59.txt: ExampleClient.java
 59.txt: VoiceConfRunningAndRecordingEvent.java
-59.txt: EjectUserCommand.java
 59.txt: VoiceUserMutedEvent.java
 59.txt: ConferenceCommandResult.java
 59.txt: ConfRecording.java
@@ -759,7 +734,6 @@
 59.txt: EslFrameDecoder.java
 59.txt: FreeswitchHeartbeatEvent.java
 59.txt: InboundPipelineFactory.java
-59.txt: opts-jammy.sh
 59.txt: IEslEventListener.java
 59.txt: ManagerConnection.java
 59.txt: FreeswitchStatusReplyEvent.java
@@ -769,7 +743,6 @@
 59.txt: AbstractOutboundClientHandler.java
 59.txt: before-install.sh
 59.txt: XMLResponseConferenceListParser.java
-59.txt: MuteUserCommand.java
 59.txt: CheckFreeswitchStatusCommand.java
 59.txt: SimpleHangupPipelineFactory.java
 59.txt: ForceEjectUserCommand.java
@@ -778,7 +751,6 @@
 59.txt: EslEventListener.java
 59.txt: ConferenceEventListener.java
 59.txt: EslEvent.java
-59.txt: build.sh
 59.txt: VoiceConfRunningEvent.java
 61.txt: InboundConnectionFailure.java
 61.txt: ConfRecording.java
@@ -823,7 +795,6 @@
 61.txt: EslFrameDecoder.java
 61.txt: EslEventListener.java
 61.txt: CheckIfConfIsRunningCommand.java
-61.txt: EjectUserCommand.java
 61.txt: GetAllUsersCommand.java
 61.txt: VoiceUserMutedEvent.java
 61.txt: AudioFloorChangedEvent.java
@@ -848,7 +819,6 @@
 61.txt: SimpleHangupPipelineFactory.java
 61.txt: ClientTest.java
 61.txt: VoiceUserJoinedEvent.java
-61.txt: MuteUserCommand.java
 61.txt: ConferenceCommand.java
 61.txt: Client.java
 61.txt: ConfMember.java
@@ -867,11 +837,9 @@
 61.txt: ConferenceEventListener.java
 61.txt: FreeswitchConferenceEventListener.java
 61.txt: HoldUserCommand.java
-61.txt: build.sh
 61.txt: DelayedCommand.java
 61.txt: after-remove.sh
 61.txt: IDelayedCommandListener.java
-61.txt: opts-jammy.sh
 61.txt: GetUsersStatusCommand.java
 63.txt: opts-jammy.sh
 63.txt: after-install.sh
@@ -937,7 +905,6 @@
 64.txt: EjectUserCommand.java
 64.txt: IVoiceConferenceService.java
 64.txt: TransferUserToMeetingCommand.java
-64.txt: EjectUserCommand.java
 64.txt: VoiceConferenceEvent.java
 64.txt: AudioFloorChangedEvent.java
 64.txt: VoiceUserLockedEvent.java
@@ -952,11 +919,9 @@
 64.txt: ConferenceMember.java
 64.txt: after-install.sh
 64.txt: ForceEjectUserCommand.java
-64.txt: opts-jammy.sh
 64.txt: IEslEventListener.java
 64.txt: SimpleHangupOutboundHandler.java
 64.txt: after-remove.sh
-64.txt: build.sh
 64.txt: VoiceConfRunningEvent.java
 64.txt: EslFrameDecoder.java
 64.txt: EslMessage.java
@@ -965,7 +930,6 @@
 64.txt: FreeswitchConferenceEventListener.java
 64.txt: VoiceConfRunningAndRecordingEvent.java
 64.txt: EslHeaders.java
-64.txt: MuteUserCommand.java
 64.txt: GetUsersStatusCommand.java
 64.txt: EslEventListener.java
 64.txt: VoiceUserJoinedEvent.java
@@ -1031,11 +995,8 @@
 70.txt: VoiceConfRunningAndRecordingEvent.java
 70.txt: DelayedCommand.java
 70.txt: TransferUserToMeetingCommand.java
-70.txt: before-install.sh
-70.txt: after-install.sh
 70.txt: run-dev.sh
 70.txt: ConferenceCommandResult.java
-70.txt: build.sh
 70.txt: EjectUserCommand.java
 70.txt: UnknownConferenceEvent.java
 70.txt: AbstractOutboundPipelineFactory.java
@@ -1046,7 +1007,6 @@
 70.txt: BroadcastConferenceCommand.java
 70.txt: ClientTest.java
 70.txt: SendMsg.java
-70.txt: MuteUserCommand.java
 70.txt: transifex.sh
 70.txt: EjectAllUsersCommand.java
 70.txt: kill_mongo.sh
@@ -1065,8 +1025,6 @@
 70.txt: EslEvent.java
 70.txt: ConferenceCommand.java
 70.txt: ConfMember.java
-70.txt: before-remove.sh
-70.txt: build.sh
 70.txt: GetUsersCommand.java
 70.txt: VoiceCallStateEvent.java
 70.txt: FreeswitchStatusReplyEvent.java
@@ -1077,7 +1035,6 @@
 70.txt: opts-jammy.sh
 70.txt: EslHeaders.java
 70.txt: EslEventListener.java
-70.txt: EjectUserCommand.java
 70.txt: after-remove.sh
 70.txt: VoiceConferenceEvent.java
 70.txt: VoiceConfRunningEvent.java
@@ -1085,11 +1042,8 @@
 70.txt: VoiceUserLeftEvent.java
 70.txt: SimpleHangupOutboundHandler.java
 70.txt: IVoiceConferenceService.java
-70.txt: after-remove.sh
 70.txt: ConferenceServerListener.java
-70.txt: opts-jammy.sh
 70.txt: ConnectionManager.java
-70.txt: opts-jammy.sh
 70.txt: PlaySoundCommand.java
 70.txt: RecordCommand.java
 70.txt: AbstractEslClientHandler.java
@@ -1097,14 +1051,11 @@
 71.txt: opts-jammy.sh
 71.txt: mongod_start_pre.sh
 71.txt: before-install.sh
-71.txt: before-install.sh
 71.txt: after-install.sh
 71.txt: workers-start.sh
-71.txt: opts-jammy.sh
 71.txt: test-html5.sh
 71.txt: run-dev.sh
 71.txt: kill_mongo.sh
-71.txt: after-install.sh
 71.txt: systemd_start.sh
 71.txt: transifex.sh
 71.txt: bbb-webrtc-sfu.placeholder.sh
@@ -1113,8 +1064,6 @@
 71.txt: systemd_start_frontend.sh
 71.txt: before-remove.sh
 71.txt: after-remove.sh
-71.txt: build.sh
-71.txt: before-remove.sh
 76.txt: run.sh
 76.txt: build.sh
 76.txt: KeepAliveMessage.java
@@ -1122,14 +1071,11 @@
 76.txt: TurnEntry.java
 76.txt: ParamsProcessorUtilTest.java
 76.txt: Main.java
-76.txt: build.sh
 76.txt: WaitingGuestCleanupTimerTask.java
 76.txt: setenv.sh
 76.txt: StunTurnService.java
-76.txt: build.sh
 76.txt: opts-jammy.sh
 76.txt: KeepAlivePing.java
-76.txt: run.sh
 76.txt: deploy_to_usr_share.sh
 76.txt: StunServer.java
 76.txt: TurnServer.java

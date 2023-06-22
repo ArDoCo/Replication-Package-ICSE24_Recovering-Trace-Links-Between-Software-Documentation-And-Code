@@ -118,7 +118,6 @@
 4.txt: LocalDateTimeAttributeConverter.java
 4.txt: EMFManager.java
 4.txt: PersistenceProduct.java
-4.txt: IndexServlet.java
 4.txt: RetrainDaemon.java
 4.txt: RecommenderSelector.java
 4.txt: PersistenceCategory.java

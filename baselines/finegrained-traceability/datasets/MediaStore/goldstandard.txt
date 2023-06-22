@@ -17,16 +17,13 @@
 20.txt: ReEncoderImpl.java
 23.txt: DbException.java
 23.txt: DbManager.java
-23.txt: DbManager.java
 23.txt: UserAlreadyExistsException.java
 24.txt: DbException.java
-24.txt: DbManager.java
 24.txt: DbManager.java
 24.txt: UserAlreadyExistsException.java
 25.txt: UserAlreadyExistsException.java
 25.txt: DbManager.java
 25.txt: DbException.java
-25.txt: DbManager.java
 26.txt: MediaAccessImpl.java
 26.txt: Audio.java
 27.txt: MediaAccessImpl.java
@@ -39,9 +36,7 @@
 30.txt: UserDBAdapterImpl.java
 31.txt: UserAlreadyExistsException.java
 31.txt: DbManager.java
-31.txt: DbManager.java
 31.txt: DbException.java
-32.txt: DbManager.java
 32.txt: DbManager.java
 32.txt: UserAlreadyExistsException.java
 32.txt: DbException.java

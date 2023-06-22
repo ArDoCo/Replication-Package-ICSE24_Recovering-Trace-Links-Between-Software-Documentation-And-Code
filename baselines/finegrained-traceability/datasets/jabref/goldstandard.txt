@@ -788,7 +788,6 @@
 1.txt: RangeOverlap.java
 1.txt: ACMPortalParser.java
 1.txt: Citation.java
-1.txt: Citation.java
 1.txt: SavingPropertiesView.java
 1.txt: MathSciNet.java
 1.txt: ApplicationInsightsLogEvent.java
@@ -806,7 +805,6 @@
 1.txt: BibDatabaseContext.java
 1.txt: JournalAbbreviationRepository.java
 1.txt: DBMSConnectionPropertiesTest.java
-1.txt: EntryTypeViewModel.java
 1.txt: AtomicFileOutputStreamTest.java
 1.txt: StyleSheetResource.java
 1.txt: DBMSType.java
@@ -908,7 +906,6 @@
 1.txt: TimeStampToModificationDateTest.java
 1.txt: RelatedArticlesTab.java
 1.txt: ShortenDOIFormatter.java
-1.txt: JournalAbbreviationLoader.java
 1.txt: GrammarBasedSearchRule.java
 1.txt: MSBibEntryType.java
 1.txt: BstNameFormatter.java
@@ -1097,7 +1094,6 @@
 1.txt: FileDialogConfigurationTest.java
 1.txt: IdentityFormatter.java
 1.txt: SemanticScholar.java
-1.txt: Identifier.java
 1.txt: UnoNameAccess.java
 1.txt: Windows.java
 1.txt: BackupFileUtil.java
@@ -1299,7 +1295,6 @@
 1.txt: BackupManagerDiscardedTest.java
 1.txt: GenerateCitationKeyAction.java
 1.txt: OnlyIntegerFormatter.java
-1.txt: JournalAbbreviationRepository.java
 1.txt: Update.java
 1.txt: ColorUtilTest.java
 1.txt: ScienceDirect.java
@@ -1480,7 +1475,6 @@
 1.txt: CustomImporter.java
 1.txt: DefaultMenu.java
 1.txt: UiThreadInvalidationListener.java
-1.txt: AbbreviationParser.java
 1.txt: GoogleScholar.java
 1.txt: StudyDatabaseItem.java
 1.txt: BibStringDiffTest.java
@@ -1524,7 +1518,6 @@
 1.txt: SimpleCommand.java
 1.txt: CopyMoreAction.java
 1.txt: IacrEprintFetcherTest.java
-1.txt: AbbreviationFormat.java
 1.txt: KeyBindingViewModel.java
 1.txt: LocalizationConsistencyTest.java
 1.txt: CiteSeer.java
@@ -1545,7 +1538,6 @@
 1.txt: HtmlExportFormatTest.java
 1.txt: LayoutFormatter.java
 1.txt: PagedSearchBasedParserFetcher.java
-1.txt: EntryEditorTab.java
 1.txt: AuthorFirstFirst.java
 1.txt: XMLChars.java
 1.txt: EntryWithPreviewAndSourceDetailsView.java
@@ -1561,7 +1553,6 @@
 1.txt: NoteCheckerTest.java
 1.txt: Version.java
 1.txt: RecordInfo.java
-1.txt: PreviewTab.java
 1.txt: FetcherException.java
 1.txt: NotFoundFormatter.java
 1.txt: SpecialFieldsPreferences.java
@@ -1723,7 +1714,6 @@
 1.txt: DBLPQueryTransformerTest.java
 1.txt: IntegrityCheckDialogViewModel.java
 1.txt: AtomicFileOutputStream.java
-1.txt: AbbreviationWriter.java
 1.txt: TrustLevel.java
 1.txt: WaitForSaveFinishedDialog.java
 1.txt: BstFunctions.java
@@ -1797,7 +1787,6 @@
 1.txt: ProtectedTermsLoader.java
 1.txt: AppendPersonNamesStrategyTest.java
 1.txt: JstorQueryTransformerTest.java
-1.txt: Abbreviation.java
 1.txt: RemoteMessageHandler.java
 1.txt: StandardExternalFileType.java
 1.txt: FormatPagesForXML.java
@@ -1913,7 +1902,6 @@
 1.txt: GroupSerializer.java
 1.txt: XmpExporterTest.java
 1.txt: JabRefResourceLocator.java
-1.txt: JournalAbbreviationPreferences.java
 1.txt: FileMerger.java
 1.txt: FileFieldWriter.java
 1.txt: MathSciNetIdTest.java
@@ -2437,7 +2425,6 @@
 4.txt: RankingFieldComparatorTest.java
 4.txt: StringSimilarityTest.java
 4.txt: AndMatcher.java
-4.txt: JournalAbbreviationLoader.java
 4.txt: DiffMethod.java
 4.txt: ParserResult.java
 4.txt: CompositeSearchBasedFetcher.java
@@ -2614,7 +2601,6 @@
 4.txt: OpenHyperlinksInExternalBrowser.java
 4.txt: ShortMonthFormatterTest.java
 4.txt: FileAnnotation.java
-4.txt: AbbreviationParser.java
 4.txt: FileAnnotationTabView.java
 4.txt: FileExtensionViewModel.java
 4.txt: CustomImporterTest.java
@@ -2640,7 +2626,6 @@
 4.txt: KeyPatternPropertiesView.java
 4.txt: UnoCast.java
 4.txt: KeywordTest.java
-4.txt: Identifier.java
 4.txt: CrossRefEntryComparator.java
 4.txt: JournalAbbreviationRepositoryTest.java
 4.txt: GroupSearchQuery.java
@@ -2866,7 +2851,6 @@
 4.txt: NoBibTexFieldCheckerTest.java
 4.txt: PageNumbers.java
 4.txt: FetcherException.java
-4.txt: PreviewTab.java
 4.txt: DoiValidityChecker.java
 4.txt: ContentSelectors.java
 4.txt: BstWidthCalculatorTest.java
@@ -2924,7 +2908,6 @@
 4.txt: SearchFieldConstants.java
 4.txt: LatexCleanupFormatterTest.java
 4.txt: FileNameUniquenessTest.java
-4.txt: AbbreviationWriter.java
 4.txt: UndoableChangeEntriesOfGroup.java
 4.txt: ASCIICharacterChecker.java
 4.txt: ZipFileChooser.java
@@ -2939,7 +2922,6 @@
 4.txt: GroupTreeNodeTest.java
 4.txt: GenerateCitationKeySingleAction.java
 4.txt: LinkedFilesEditorViewModel.java
-4.txt: Abbreviation.java
 4.txt: JournalAbbreviationsViewModelTabTest.java
 4.txt: StudyDatabaseToFetcherConverterTest.java
 4.txt: FileMerger.java
@@ -3000,7 +2982,6 @@
 4.txt: ModsExporter.java
 4.txt: UndoChangeEvent.java
 4.txt: JabRefItemDataProvider.java
-4.txt: EntryTypeViewModel.java
 4.txt: EntryEditorPreferences.java
 4.txt: OptionalFieldsTab.java
 4.txt: CleanupWorkerTest.java
@@ -3110,7 +3091,6 @@
 4.txt: FieldsUtil.java
 4.txt: MrDLibFetcherTest.java
 4.txt: NonUniqueCitationMarker.java
-4.txt: JournalAbbreviationRepository.java
 4.txt: StateManager.java
 4.txt: MrDLibImporter.java
 4.txt: OpenDocumentSpreadsheetCreator.java
@@ -3414,7 +3394,6 @@
 4.txt: ImportFilesResultItemViewModel.java
 4.txt: MSBibMapping.java
 4.txt: SemanticScholarTest.java
-4.txt: AbbreviationFormat.java
 4.txt: FieldChangeTest.java
 4.txt: PreviewSwitchAction.java
 4.txt: DocBookAuthorFormatter.java
@@ -3529,7 +3508,6 @@
 4.txt: HeaderCell.java
 4.txt: UndoableKeyChange.java
 4.txt: UpperCaseFormatter.java
-4.txt: Citation.java
 4.txt: BibDatabaseContextChangedEvent.java
 4.txt: StandardActions.java
 4.txt: CommentMerger.java
@@ -3560,7 +3538,6 @@
 4.txt: MonthTest.java
 4.txt: AuthorLF_FFTest.java
 4.txt: DatabaseChangeList.java
-4.txt: EntryEditorTab.java
 4.txt: ModsImporterFilesTest.java
 4.txt: RecursiveTreeItemTest.java
 4.txt: UnitsToLatexFormatterTest.java
@@ -3802,7 +3779,6 @@
 4.txt: CitedKey.java
 4.txt: MainTablePreferences.java
 4.txt: BiblioscapeImporterTest.java
-4.txt: JournalAbbreviationPreferences.java
 4.txt: AuthorAbbreviatorTest.java
 4.txt: PushToApplicationCommand.java
 4.txt: WrapFileLinksTest.java
@@ -4119,7 +4095,6 @@
 5.txt: NamedRange.java
 5.txt: BibEntry.java
 5.txt: SpecialFieldTest.java
-5.txt: Citation.java
 5.txt: DublinCoreSchemaCustom.java
 5.txt: AutomaticPersonsGroup.java
 5.txt: AuthorTest.java
@@ -4680,7 +4655,6 @@
 6.txt: ComparableCitation.java
 6.txt: FileAnnotationTabViewModel.java
 6.txt: ProtectedTermsListTest.java
-6.txt: Abbreviation.java
 6.txt: MainTableColumnFactory.java
 6.txt: ThreeWayMergeView.java
 6.txt: AuthorLastFirstCommasTest.java
@@ -4996,7 +4970,6 @@
 6.txt: StandardField.java
 6.txt: RisImporter.java
 6.txt: AdvancedCiteDialogViewModel.java
-6.txt: JournalAbbreviationRepository.java
 6.txt: ResearchGateTest.java
 6.txt: NewProtectedTermsFileDialog.java
 6.txt: AbbreviationsTest.java
@@ -5008,7 +4981,6 @@
 6.txt: SaveAction.java
 6.txt: EntryBasedParserFetcher.java
 6.txt: BibtexBiblatexRoundtripTest.java
-6.txt: AbbreviationWriter.java
 6.txt: PdfEmbeddedBibFileImporterTest.java
 6.txt: GroupsParserTest.java
 6.txt: MatcherSetsTest.java
@@ -5031,7 +5003,6 @@
 6.txt: ClipBoardManager.java
 6.txt: Exporter.java
 6.txt: JsonReaderTest.java
-6.txt: EntryTypeViewModel.java
 6.txt: SaveOrder.java
 6.txt: RecursiveTreeItem.java
 6.txt: GroupDialogHeader.java
@@ -5187,7 +5158,6 @@
 6.txt: GrammarBasedSearchRuleDescriberTest.java
 6.txt: UrlEditorViewModel.java
 6.txt: ProtectedTermsListItemModel.java
-6.txt: Identifier.java
 6.txt: DatabaseLocation.java
 6.txt: FileHistoryTest.java
 6.txt: EntryLinkChecker.java
@@ -5198,7 +5168,6 @@
 6.txt: BstWidthCalculatorTest.java
 6.txt: BibDatabaseMode.java
 6.txt: FieldFormatterCleanups.java
-6.txt: PreviewTab.java
 6.txt: MsBibImporterFilesTest.java
 6.txt: OpenDocumentSpreadsheetCreator.java
 6.txt: DefaultQueryTransformer.java
@@ -5212,7 +5181,6 @@
 6.txt: DragAndDropDataFormats.java
 6.txt: CleanupJob.java
 6.txt: MetaDataParser.java
-6.txt: JournalAbbreviationLoader.java
 6.txt: YesNoEditorViewModel.java
 6.txt: ClearFormatterTest.java
 6.txt: EditExternalFileTypeEntryDialog.java
@@ -5417,7 +5385,6 @@
 6.txt: ProtectedTermsLoaderTest.java
 6.txt: KeyBindingPreset.java
 6.txt: Replace.java
-6.txt: AbbreviationFormat.java
 6.txt: UnknownEntryType.java
 6.txt: OOError.java
 6.txt: EditorTextField.java
@@ -5531,7 +5498,6 @@
 6.txt: PushToEmacs.java
 6.txt: YearCheckerTest.java
 6.txt: DoiFetcher.java
-6.txt: AbbreviationParser.java
 6.txt: Ordinal.java
 6.txt: AppendPersonNamesStrategyTest.java
 6.txt: ModsExporter.java
@@ -5703,7 +5669,6 @@
 6.txt: ManageStudyDefinitionViewModelTest.java
 6.txt: BibDatabaseContextChangedEvent.java
 6.txt: BstEntry.java
-6.txt: JournalAbbreviationPreferences.java
 6.txt: UnoTextDocument.java
 6.txt: UndoableRemoveEntries.java
 6.txt: DoiCleanupTest.java
@@ -5826,7 +5791,6 @@
 6.txt: LayoutTest.java
 6.txt: ControlHelper.java
 6.txt: StyleSelectItemViewModel.java
-6.txt: Citation.java
 6.txt: AuthorAndToSemicolonReplacer.java
 6.txt: CitationKeyBasedFileFinder.java
 6.txt: JabRefFrame.java
@@ -5893,7 +5857,6 @@
 6.txt: AuthorLastFirst.java
 6.txt: EprintIdentifierEditorViewModel.java
 6.txt: ChangePropagation.java
-6.txt: EntryEditorTab.java
 6.txt: Language.java
 6.txt: PagedSearchFetcherTest.java
 6.txt: SaveDatabaseAction.java
@@ -6226,7 +6189,6 @@
 7.txt: IntegrityCheckAction.java
 7.txt: ChangeScanner.java
 7.txt: RenameFieldTabView.java
-7.txt: EntryEditorTab.java
 7.txt: EntryAdd.java
 7.txt: FileTab.java
 7.txt: ManageKeywordsAction.java
@@ -6568,7 +6530,6 @@
 7.txt: ParseLatexDialogView.java
 7.txt: UnlinkedFilesCrawlerTest.java
 7.txt: FieldNameCell.java
-7.txt: EntryTypeViewModel.java
 7.txt: UndoableChangeEntriesOfGroup.java
 7.txt: PreviewSwitchAction.java
 7.txt: UndoablePreambleChange.java
@@ -6732,7 +6693,6 @@
 7.txt: CleanupAction.java
 7.txt: AbbreviationsFileViewModel.java
 7.txt: EntriesMergeResult.java
-7.txt: PreviewTab.java
 7.txt: ImporterViewModel.java
 7.txt: JabRefIkonHandler.java
 7.txt: ExternalFileTypesTest.java
@@ -7180,7 +7140,6 @@
 9.txt: LocalizationConsistencyTest.java
 9.txt: FileType.java
 9.txt: AuxParser.java
-9.txt: JournalAbbreviationLoader.java
 9.txt: MsBibExportFormatTest.java
 9.txt: OODataModel.java
 9.txt: TrimWhitespaceFormatter.java
@@ -7413,7 +7372,6 @@
 9.txt: ComparableCitedKey.java
 9.txt: EntryAnnotationImporterTest.java
 9.txt: ChainNode.java
-9.txt: JournalAbbreviationRepository.java
 9.txt: Authors.java
 9.txt: HTMLParagraphs.java
 9.txt: DoiResolutionTest.java
@@ -7431,7 +7389,6 @@
 9.txt: TypedBibEntryTest.java
 9.txt: KeyChangeListener.java
 9.txt: Ordinal.java
-9.txt: Citation.java
 9.txt: MsBibMappingTest.java
 9.txt: OOBibStyle.java
 9.txt: ChangePropagation.java
@@ -7501,7 +7458,6 @@
 9.txt: NoBibTexFieldCheckerTest.java
 9.txt: OpenOfficeDocumentCreator.java
 9.txt: GroupEntryChanger.java
-9.txt: Identifier.java
 9.txt: RegExpBasedFileFinder.java
 9.txt: NameFormatterPreferences.java
 9.txt: GrammarBasedSearchRuleTest.java
@@ -7616,7 +7572,6 @@
 9.txt: BstPreviewLayout.java
 9.txt: MathSciNetIdTest.java
 9.txt: MathSciNetTest.java
-9.txt: AbbreviationWriter.java
 9.txt: TrustLevel.java
 9.txt: GroupTreeNode.java
 9.txt: CiteSeer.java
@@ -7641,7 +7596,6 @@
 9.txt: EntryType.java
 9.txt: InfixTransformerTest.java
 9.txt: EntryAnnotationImporter.java
-9.txt: Abbreviation.java
 9.txt: EbookDeIsbnFetcher.java
 9.txt: IEEETranEntryType.java
 9.txt: JstorQueryTransformer.java
@@ -7879,7 +7833,6 @@
 9.txt: DBMSProcessorTest.java
 9.txt: CollectionOfComputerScienceBibliographiesQueryTransformer.java
 9.txt: XmpUtilReader.java
-9.txt: AbbreviationFormat.java
 9.txt: FieldPriority.java
 9.txt: EbookDeIsbnFetcherTest.java
 9.txt: PdfSearcher.java
@@ -7901,7 +7854,6 @@
 9.txt: HtmlToLatexFormatter.java
 9.txt: AuthorNatBib.java
 9.txt: RemoteListenerServerManager.java
-9.txt: JournalAbbreviationPreferences.java
 9.txt: HTMLCharacterChecker.java
 9.txt: OpenDocumentSpreadsheetCreator.java
 9.txt: AuthorLF_FFTest.java
@@ -7917,7 +7869,6 @@
 9.txt: AutosaveManager.java
 9.txt: ExporterFactory.java
 9.txt: ACMPortalFetcherTest.java
-9.txt: AbbreviationParser.java
 9.txt: EscapeDollarSignFormatter.java
 9.txt: NoSpaceBetweenAbbreviations.java
 9.txt: CreationException.java
@@ -8080,7 +8031,6 @@
 12.txt: UnicodeToReadableCharMap.java
 12.txt: EntriesEventSource.java
 12.txt: BibDatabaseContextChangedEvent.java
-12.txt: Citation.java
 12.txt: StringUtilTest.java
 12.txt: GroupTreeNode.java
 12.txt: DuplicationCheckerTest.java

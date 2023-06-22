@@ -38,12 +38,10 @@
 1.txt: CreateFeedbackSessionLogAction.java
 1.txt: SystemErrorEmailReportE2ETest.java
 1.txt: FeedbackQuestionBasicRequest.java
-1.txt: package-info.java
 1.txt: DeleteNotificationAction.java
 1.txt: DataMigrationForSanitizedDataInCourseAttributes.java
 1.txt: CreateAccountAction.java
 1.txt: InstructorStudentActivityLogsPage.java
-1.txt: package-info.java
 1.txt: FeedbackSessionResendPublishedEmailWorkerAction.java
 1.txt: GoogleCloudLoggingService.java
 1.txt: UserInfo.java
@@ -73,13 +71,11 @@
 1.txt: InstructorCourseJoinEmailWorkerActionTest.java
 1.txt: NotificationStyle.java
 1.txt: InstructorAttributes.java
-1.txt: package-info.java
 1.txt: GetFeedbackQuestionsAction.java
 1.txt: GetCourseActionTest.java
 1.txt: DeleteFeedbackResponseCommentAction.java
 1.txt: DeleteFeedbackSessionActionTest.java
 1.txt: InstructorSearchPageE2ETest.java
-1.txt: package-info.java
 1.txt: GetNotificationsAction.java
 1.txt: DataMigrationForUnencryptedKeyForStudents.java
 1.txt: FeedbackResponseDetails.java
@@ -102,7 +98,6 @@
 1.txt: BaseAttributesTest.java
 1.txt: EntityNotFoundException.java
 1.txt: BackDoor.java
-1.txt: package-info.java
 1.txt: GetFeedbackSessionSubmittedGiverSetActionTest.java
 1.txt: FeedbackSessionOpeningRemindersAction.java
 1.txt: InstructorFeedbackSessionsPage.java
@@ -113,7 +108,6 @@
 1.txt: JoinLinkData.java
 1.txt: FeedbackSessionsData.java
 1.txt: FeedbackResultsPage.java
-1.txt: package-info.java
 1.txt: RestoreFeedbackSessionActionTest.java
 1.txt: DataMigrationForTextQuestionDetailsFormat.java
 1.txt: FeedbackMsqQuestionDetails.java
@@ -128,27 +122,21 @@
 1.txt: MockLogsProcessor.java
 1.txt: AccountRequest.java
 1.txt: GetAuthInfoActionTest.java
-1.txt: package-info.java
 1.txt: NotificationsDb.java
 1.txt: InstructorSearchIndexingWorkerActionTest.java
 1.txt: FeedbackTextQuestionE2ETest.java
 1.txt: InstructorPrivilegesTest.java
 1.txt: DefaultInstructorPermissions.java
-1.txt: package-info.java
 1.txt: AuthType.java
 1.txt: EmailChecker.java
 1.txt: SanitizationHelperTest.java
-1.txt: BackDoor.java
 1.txt: StudentCourseDetailsPageE2ETest.java
 1.txt: CoursesData.java
 1.txt: InstructorCourseJoinConfirmationPageE2ETest.java
 1.txt: StudentUpdateRequest.java
 1.txt: FeedbackRankRecipientQuestionE2ETest.java
-1.txt: package-info.java
 1.txt: GetSessionResponseStatsActionTest.java
-1.txt: package-info.java
 1.txt: LegacyUrlMapperTest.java
-1.txt: package-info.java
 1.txt: NotificationsDbTest.java
 1.txt: DeleteFeedbackQuestionActionTest.java
 1.txt: DeleteFeedbackSessionAction.java
@@ -196,7 +184,6 @@
 1.txt: FeedbackResultsPageAxeTest.java
 1.txt: InvalidOperationException.java
 1.txt: AdminHomePageAxeTest.java
-1.txt: package-info.java
 1.txt: AdminSearchPageE2ETest.java
 1.txt: AccountsLogicTest.java
 1.txt: TaskQueuer.java
@@ -222,7 +209,6 @@
 1.txt: FeedbackSessionsDb.java
 1.txt: AdminTimezonePage.java
 1.txt: Notification.java
-1.txt: package-info.java
 1.txt: OngoingSession.java
 1.txt: InstructorStudentRecordsPage.java
 1.txt: LoginServlet.java
@@ -230,7 +216,6 @@
 1.txt: OriginCheckFilterTest.java
 1.txt: UsageStatisticsData.java
 1.txt: InstructorCourseStudentDetailsPageE2ETest.java
-1.txt: package-info.java
 1.txt: FeedbackSession.java
 1.txt: FeedbackConstantSumResponseDetails.java
 1.txt: TestPropertiesTest.java
@@ -265,23 +250,19 @@
 1.txt: FeedbackSubmitPageAxeTest.java
 1.txt: BaseSearchTest.java
 1.txt: FeedbackSessionCreateRequest.java
-1.txt: package-info.java
 1.txt: LogicExtension.java
 1.txt: GeneralLogEntry.java
 1.txt: DeleteInstructorAction.java
 1.txt: FeedbackSubmitPage.java
-1.txt: package-info.java
 1.txt: InstructorHomePage.java
 1.txt: FeedbackSessionPublishedEmailWorkerActionTest.java
 1.txt: SearchAccountRequestsAction.java
 1.txt: TimezoneSyncerTest.java
-1.txt: package-info.java
 1.txt: FeedbackConstantSumDistributePointsType.java
 1.txt: FeedbackResponseCommentUpdateRequest.java
 1.txt: MessageOutput.java
 1.txt: EmailSentLogDetails.java
 1.txt: GetCourseSectionNamesActionTest.java
-1.txt: package-info.java
 1.txt: GetFeedbackSessionLogsActionTest.java
 1.txt: NotificationBannerE2ETest.java
 1.txt: GetFeedbackSessionSubmittedGiverSetAction.java
@@ -321,14 +302,12 @@
 1.txt: GetRegkeyValidityActionTest.java
 1.txt: InstructorCreateRequest.java
 1.txt: InstructorStudentRecordsPageE2ETest.java
-1.txt: package-info.java
 1.txt: CreateFeedbackSessionAction.java
 1.txt: TaskQueueService.java
 1.txt: FeedbackResponsesLogic.java
 1.txt: CreateNotificationActionTest.java
 1.txt: AccountAttributesTest.java
 1.txt: InstructorCourseJoinConfirmationPageAxeTest.java
-1.txt: package-info.java
 1.txt: BaseLogicTest.java
 1.txt: DataMigrationForNullCommentGiverType.java
 1.txt: EntityAlreadyExistsException.java
@@ -372,9 +351,7 @@
 1.txt: NotificationsData.java
 1.txt: FeedbackSessionPublishStatus.java
 1.txt: ErrorReportingModal.java
-1.txt: package-info.java
 1.txt: UpdateFeedbackQuestionActionTest.java
-1.txt: package-info.java
 1.txt: DeleteAccountActionTest.java
 1.txt: ResponseVisibleSetting.java
 1.txt: SendLoginEmailActionTest.java
@@ -382,7 +359,6 @@
 1.txt: DeadlineExtensionsDb.java
 1.txt: AssertHelperTest.java
 1.txt: FeedbackConstSumOptionQuestionE2ETest.java
-1.txt: package-info.java
 1.txt: TeamEvalResult.java
 1.txt: AttributesDeletionQueryTest.java
 1.txt: FeedbackResponseCommentsLogic.java
@@ -390,7 +366,6 @@
 1.txt: QueryLogsParams.java
 1.txt: AccountRequestAttributes.java
 1.txt: CourseArchiveData.java
-1.txt: package-info.java
 1.txt: AccountRequestSearchIndexingWorkerAction.java
 1.txt: GeneralLogsData.java
 1.txt: GetAccountRequestAction.java
@@ -424,7 +399,6 @@
 1.txt: FeedbackSessionOpeningSoonRemindersActionTest.java
 1.txt: FeedbackResponseDetailsTest.java
 1.txt: DataMigrationForGoogleIdToGmail.java
-1.txt: package-info.java
 1.txt: CourseRosterTest.java
 1.txt: GetDeadlineExtensionAction.java
 1.txt: InstructorSearchPage.java
@@ -433,11 +407,9 @@
 1.txt: SubmitFeedbackResponsesActionTest.java
 1.txt: FeedbackSessionRemindRequest.java
 1.txt: DataMigrationForConstSumForceUnevenDistribution.java
-1.txt: package-info.java
 1.txt: StudentHomePageE2ETest.java
 1.txt: AccountRequestsLogic.java
 1.txt: StudentHomePageAxeTest.java
-1.txt: package-info.java
 1.txt: FeedbackQuestionsLogic.java
 1.txt: FeedbackSessionPublishedRemindersAction.java
 1.txt: FeedbackRubricResponseDetails.java
@@ -475,7 +447,6 @@
 1.txt: FeedbackTextQuestionDetailsTest.java
 1.txt: BinCourseActionTest.java
 1.txt: AttributesDeletionQuery.java
-1.txt: TestPropertiesTest.java
 1.txt: FeedbackSessionResendPublishedEmailWorkerActionTest.java
 1.txt: BaseTestCaseWithLocalDatabaseAccess.java
 1.txt: RequestLogUser.java
@@ -489,7 +460,6 @@
 1.txt: StudentSearchManager.java
 1.txt: MarkNotificationAsReadAction.java
 1.txt: AdminAccountsPageE2ETest.java
-1.txt: BaseLogicTest.java
 1.txt: RequestLogDetails.java
 1.txt: AdminSearchPage.java
 1.txt: UpdateFeedbackResponseCommentAction.java
@@ -534,7 +504,6 @@
 1.txt: DataBundleLogic.java
 1.txt: EmailWrapper.java
 1.txt: GetCourseJoinStatusAction.java
-1.txt: package-info.java
 1.txt: DeadlineExtensionData.java
 1.txt: EmailSenderService.java
 1.txt: StudentsDbTest.java
@@ -545,7 +514,6 @@
 1.txt: Logger.java
 1.txt: GetSessionResponseStatsAction.java
 1.txt: CourseAttributes.java
-1.txt: TestNgXmlTest.java
 1.txt: SessionResultsBundle.java
 1.txt: TzdbResourceZoneRulesProvider.java
 1.txt: FeedbackResponse.java
@@ -570,7 +538,6 @@
 1.txt: GetAccountAction.java
 1.txt: DataMigrationForTeamNameInResponseGiver.java
 1.txt: StudentNotificationsPageE2ETest.java
-1.txt: FileHelper.java
 1.txt: FeedbackTextResponseDetails.java
 1.txt: FeedbackMsqResponseDetails.java
 1.txt: SessionResultsData.java
@@ -583,12 +550,10 @@
 1.txt: InstructorFeedbackSessionsPageE2ETest.java
 1.txt: NotificationUpdateRequest.java
 1.txt: GetCourseJoinStatusActionTest.java
-1.txt: package-info.java
 1.txt: InstructorsLogicTest.java
 1.txt: InstructorData.java
 1.txt: RegenerateInstructorKeyAction.java
 1.txt: UsageStatisticsAttributes.java
-1.txt: package-info.java
 1.txt: ErrorReportRequest.java
 1.txt: InstructorAttributesTest.java
 1.txt: PutDataBundleAction.java
@@ -596,8 +561,6 @@
 1.txt: EntityAttributes.java
 1.txt: InstructorCourseStudentDetailsViewPage.java
 1.txt: Config.java
-1.txt: package-info.java
-1.txt: package-info.java
 1.txt: CreateFeedbackSessionActionTest.java
 1.txt: GetFeedbackSessionsAction.java
 1.txt: CourseArchiveRequest.java
@@ -608,7 +571,6 @@
 1.txt: GoogleRecaptchaService.java
 1.txt: FeedbackSessionAttributes.java
 1.txt: CreateCourseAction.java
-1.txt: package-info.java
 1.txt: CreateFeedbackSessionLogActionTest.java
 1.txt: GoogleIdMigrationBaseScript.java
 1.txt: GetFeedbackQuestionsActionTest.java
@@ -616,7 +578,6 @@
 1.txt: LogicStarter.java
 1.txt: GetStudentAction.java
 1.txt: RegenerateStudentKeyAction.java
-1.txt: package-info.java
 1.txt: GetFeedbackQuestionRecipientsAction.java
 1.txt: SendJoinReminderEmailAction.java
 1.txt: CreateAccountRequestActionTest.java
@@ -637,7 +598,6 @@
 1.txt: AuthException.java
 1.txt: DataMigrationForTextQuestionRecommendedLength.java
 1.txt: InstructorStudentActivityLogsPageAxeTest.java
-1.txt: package-info.java
 1.txt: FeedbackResponseCommentCreateRequest.java
 1.txt: FeedbackNumericalScaleQuestionDetails.java
 1.txt: JoinCourseActionTest.java
@@ -681,7 +641,6 @@
 1.txt: AuthService.java
 1.txt: GetInstructorActionTest.java
 1.txt: BaseTestCase.java
-1.txt: package-info.java
 1.txt: RemindFeedbackSessionResultAction.java
 1.txt: RegenerateStudentKeyActionTest.java
 1.txt: AuthServlet.java
@@ -721,8 +680,6 @@
 1.txt: EmailGenerator.java
 1.txt: SearchManagerStarter.java
 1.txt: CoursesDbTest.java
-1.txt: package-info.java
-1.txt: TestProperties.java
 1.txt: FeedbackSessionRemindEmailWorkerActionTest.java
 1.txt: HttpRequestFailedException.java
 1.txt: StudentSearchIndexingWorkerAction.java
@@ -845,7 +802,6 @@
 4.txt: StudentSearchIndexingWorkerActionTest.java
 4.txt: SendEmailWorkerAction.java
 4.txt: NotificationUpdateRequest.java
-4.txt: package-info.java
 4.txt: DeleteStudentActionTest.java
 4.txt: JsonResultTest.java
 4.txt: CourseUpdateRequest.java
@@ -863,7 +819,6 @@
 4.txt: CreateNotificationAction.java
 4.txt: BinCourseActionTest.java
 4.txt: BasicFeedbackSubmissionAction.java
-4.txt: package-info.java
 4.txt: GetFeedbackSessionsActionTest.java
 4.txt: GetFeedbackSessionLogsActionTest.java
 4.txt: UpdateFeedbackSessionAction.java
@@ -911,7 +866,6 @@
 4.txt: GetCourseAction.java
 4.txt: FeedbackQuestionRecipientData.java
 4.txt: CreateCourseActionTest.java
-4.txt: package-info.java
 4.txt: UpdateStudentAction.java
 4.txt: AuthType.java
 4.txt: UpdateFeedbackQuestionActionTest.java
@@ -961,7 +915,6 @@
 4.txt: FeedbackSessionPublishStatus.java
 4.txt: GetStudentActionTest.java
 4.txt: LoginServlet.java
-4.txt: package-info.java
 4.txt: FeedbackVisibilityType.java
 4.txt: GetFeedbackSessionSubmittedGiverSetActionTest.java
 4.txt: DeadlineExtensionData.java
@@ -975,7 +928,6 @@
 4.txt: GetSessionResultsActionTest.java
 4.txt: GetHasResponsesActionTest.java
 4.txt: CreateAccountRequestActionTest.java
-4.txt: package-info.java
 4.txt: UpdateInstructorAction.java
 4.txt: SessionLinksRecoveryActionTest.java
 4.txt: SearchStudentsActionTest.java
@@ -1086,10 +1038,8 @@
 4.txt: PublishFeedbackSessionAction.java
 4.txt: SearchInstructorsActionTest.java
 4.txt: FeedbackQuestionsData.java
-4.txt: package-info.java
 4.txt: DeleteInstructorActionTest.java
 4.txt: StudentCourseJoinEmailWorkerActionTest.java
-4.txt: package-info.java
 4.txt: UpdateNotificationActionTest.java
 4.txt: CreateFeedbackResponseCommentActionTest.java
 4.txt: DeleteDataBundleAction.java
@@ -1181,7 +1131,6 @@
 5.txt: RestoreFeedbackSessionAction.java
 5.txt: MessageOutput.java
 5.txt: FeedbackVisibilityType.java
-5.txt: package-info.java
 5.txt: RegenerateInstructorKeyAction.java
 5.txt: BinFeedbackSessionAction.java
 5.txt: DeleteFeedbackSessionActionTest.java
@@ -1206,7 +1155,6 @@
 5.txt: RestoreFeedbackSessionActionTest.java
 5.txt: CreateFeedbackQuestionActionTest.java
 5.txt: FeedbackQuestionsData.java
-5.txt: package-info.java
 5.txt: AccountCreateRequest.java
 5.txt: GetTimeZonesActionTest.java
 5.txt: JoinLinkData.java
@@ -1306,9 +1254,7 @@
 5.txt: ResetAccountActionTest.java
 5.txt: InstructorCourseJoinEmailWorkerActionTest.java
 5.txt: FeedbackQuestionData.java
-5.txt: package-info.java
 5.txt: RegenerateKeyData.java
-5.txt: package-info.java
 5.txt: CreateFeedbackQuestionAction.java
 5.txt: RemindFeedbackSessionSubmissionActionTest.java
 5.txt: SearchInstructorsActionTest.java
@@ -1372,7 +1318,6 @@
 5.txt: SearchInstructorsAction.java
 5.txt: FeedbackSessionPublishedRemindersActionTest.java
 5.txt: SendErrorReportActionTest.java
-5.txt: package-info.java
 5.txt: FeedbackSessionUnpublishedEmailWorkerActionTest.java
 5.txt: FeedbackSessionSubmittedGiverSet.java
 5.txt: UpdateInstructorPrivilegeAction.java
@@ -1456,8 +1401,6 @@
 5.txt: FeedbackSessionRemindParticularUsersEmailWorkerAction.java
 5.txt: GetFeedbackSessionsActionTest.java
 5.txt: ArchiveCourseActionTest.java
-5.txt: package-info.java
-5.txt: package-info.java
 5.txt: GetFeedbackResponseCommentAction.java
 5.txt: JsonResult.java
 5.txt: GetInstructorPrivilegeActionTest.java
@@ -1557,7 +1500,6 @@
 7.txt: PublishFeedbackSessionActionTest.java
 7.txt: RestoreFeedbackSessionAction.java
 7.txt: FeedbackSessionLogData.java
-7.txt: package-info.java
 7.txt: UsageStatisticsLogicTest.java
 7.txt: RestoreFeedbackSessionActionTest.java
 7.txt: UpdateFeedbackResponseCommentActionTest.java
@@ -1604,8 +1546,6 @@
 7.txt: CreateAccountRequestActionTest.java
 7.txt: RegenerateStudentKeyAction.java
 7.txt: FeedbackSessionSubmissionStatus.java
-7.txt: package-info.java
-7.txt: package-info.java
 7.txt: EmptyAuthService.java
 7.txt: DeadlineExtensionData.java
 7.txt: StudentsLogicTest.java
@@ -1671,13 +1611,11 @@
 7.txt: FeedbackSessionsLogicTest.java
 7.txt: DeleteAccountRequestAction.java
 7.txt: GetFeedbackQuestionRecipientsAction.java
-7.txt: package-info.java
 7.txt: EnrollStudentsActionTest.java
 7.txt: ApiOutput.java
 7.txt: JoinCourseActionTest.java
 7.txt: SessionResultsData.java
 7.txt: FeedbackSessionPublishedRemindersAction.java
-7.txt: package-info.java
 7.txt: BasicFeedbackSubmissionAction.java
 7.txt: GetDeadlineExtensionActionTest.java
 7.txt: LogService.java
@@ -1696,8 +1634,6 @@
 7.txt: GetCourseSectionNamesAction.java
 7.txt: UpdateCourseActionTest.java
 7.txt: FeedbackResponseCommentBasicRequest.java
-7.txt: package-info.java
-7.txt: package-info.java
 7.txt: InstructorCourseJoinEmailWorkerActionTest.java
 7.txt: DeadlineExtensionsLogicTest.java
 7.txt: UpdateInstructorActionTest.java
@@ -1716,7 +1652,6 @@
 7.txt: RemindFeedbackSessionResultAction.java
 7.txt: Logic.java
 7.txt: GetAccountsAction.java
-7.txt: package-info.java
 7.txt: RequestTraceFilter.java
 7.txt: FeedbackSessionPublishStatus.java
 7.txt: CreateAccountAction.java
@@ -1727,7 +1662,6 @@
 7.txt: NotificationBasicRequest.java
 7.txt: FeedbackSessionClosingRemindersAction.java
 7.txt: FeedbackSessionRemindEmailWorkerActionTest.java
-7.txt: package-info.java
 7.txt: GoogleCloudTasksService.java
 7.txt: InstructorsLogic.java
 7.txt: FeedbackQuestionData.java
@@ -1752,7 +1686,6 @@
 7.txt: CoursesLogicTest.java
 7.txt: CourseData.java
 7.txt: UpdateNotificationActionTest.java
-7.txt: package-info.java
 7.txt: GetCourseSectionNamesActionTest.java
 7.txt: AdminExceptionTestAction.java
 7.txt: CreateCourseAction.java
@@ -1825,7 +1758,6 @@
 7.txt: GetInstructorsAction.java
 7.txt: JoinCourseAction.java
 7.txt: GetFeedbackSessionLogsActionTest.java
-7.txt: package-info.java
 7.txt: AuthServlet.java
 7.txt: GetInstructorsActionTest.java
 7.txt: QueryLogsAction.java
@@ -1879,8 +1811,6 @@
 7.txt: ResourceEndpoints.java
 7.txt: GetFeedbackSessionsActionTest.java
 7.txt: UnpublishFeedbackSessionAction.java
-7.txt: package-info.java
-7.txt: package-info.java
 7.txt: PutDataBundleDocumentsAction.java
 7.txt: GetReadNotificationsActionTest.java
 7.txt: WebApiServlet.java
@@ -1911,7 +1841,6 @@
 7.txt: EmailData.java
 7.txt: DeleteFeedbackResponseCommentActionTest.java
 7.txt: CreateFeedbackSessionLogActionTest.java
-7.txt: BaseLogicTest.java
 7.txt: FeedbackSessionBasicRequest.java
 7.txt: FeedbackResponsesRequest.java
 7.txt: LogoutServlet.java
@@ -1938,14 +1867,11 @@
 9.txt: Instructor.java
 9.txt: NotificationsDbTest.java
 9.txt: AccountsDbTest.java
-9.txt: package-info.java
 9.txt: DeadlineExtensionsDb.java
 9.txt: InstructorSearchDocument.java
-9.txt: package-info.java
 9.txt: StudentSearchDocument.java
 9.txt: AccountRequestSearchDocument.java
 9.txt: StudentSearchManager.java
-9.txt: package-info.java
 9.txt: FeedbackQuestion.java
 9.txt: Course.java
 9.txt: AccountRequestSearchManager.java
@@ -1972,7 +1898,6 @@
 9.txt: FeedbackResponse.java
 9.txt: FeedbackQuestionsDb.java
 9.txt: BaseEntity.java
-9.txt: package-info.java
 9.txt: FeedbackResponseCommentsDb.java
 9.txt: AccountRequestsDbTest.java
 9.txt: CourseStudent.java
@@ -2063,7 +1988,6 @@
 15.txt: package-info.java
 15.txt: InstructorNotificationsPageAxeTest.java
 15.txt: InstructorHomePageE2ETest.java
-15.txt: package-info.java
 15.txt: TestPropertiesTest.java
 15.txt: InstructorCourseStudentDetailsEditPageE2ETest.java
 15.txt: CourseJoinConfirmationPage.java
@@ -2081,7 +2005,6 @@
 15.txt: InstructorCourseDetailsPage.java
 15.txt: AppPage.java
 15.txt: DevServerLoginPage.java
-15.txt: package-info.java
 15.txt: NotificationBannerE2ETest.java
 15.txt: AdminSessionsPageE2ETest.java
 15.txt: FeedbackMsqQuestionE2ETest.java
@@ -2109,7 +2032,6 @@
 15.txt: InstructorFeedbackEditPageE2ETest.java
 15.txt: UserNotificationsPage.java
 15.txt: FeedbackRankOptionQuestionE2ETest.java
-15.txt: package-info.java
 15.txt: StudentCourseDetailsPageAxeTest.java
 15.txt: AdminSessionsPage.java
 15.txt: AdminSearchPage.java
@@ -2133,7 +2055,6 @@
 18.txt: DataMigrationForSanitizedDataInCourseAttributes.java
 18.txt: IndexFeedbackSessionFields.java
 18.txt: DataMigrationForTextQuestionRecommendedLength.java
-18.txt: package-info.java
 18.txt: FileStore.java
 18.txt: DataMigrationForTextQuestionDetailsFormat.java
 18.txt: MockCourseWithLargeResponseScript.java
@@ -2156,10 +2077,8 @@
 18.txt: ClientProperties.java
 18.txt: BackDoor.java
 18.txt: DataMigrationForFeedbackSessionMismatchedTimezone.java
-18.txt: package-info.java
 18.txt: ListActiveInstructors.java
 18.txt: DataMigrationForSampleGoogleIdInStudentAttributes.java
-18.txt: package-info.java
 20.txt: FeedbackMcqQuestionDetailsTest.java
 20.txt: NotificationStyle.java
 20.txt: AttributesDeletionQuery.java
@@ -2170,10 +2089,8 @@
 20.txt: package-info.java
 20.txt: FeedbackContributionResponseDetails.java
 20.txt: DataBundle.java
-20.txt: package-info.java
 20.txt: HttpRequest.java
 20.txt: CourseRosterTest.java
-20.txt: package-info.java
 20.txt: SourceLocation.java
 20.txt: FeedbackRubricResponseDetails.java
 20.txt: GeneralLogEntry.java
@@ -2198,7 +2115,6 @@
 20.txt: NotificationAttributesTest.java
 20.txt: SearchServiceException.java
 20.txt: FeedbackMcqResponseDetails.java
-20.txt: package-info.java
 20.txt: TimeHelperTest.java
 20.txt: InstructorUpdateException.java
 20.txt: EntityDoesNotExistException.java
@@ -2216,10 +2132,8 @@
 20.txt: FeedbackConstantSumResponseDetails.java
 20.txt: StringHelperExtension.java
 20.txt: InstructorPermissionSet.java
-20.txt: package-info.java
 20.txt: InstanceLogDetails.java
 20.txt: AccountAttributesTest.java
-20.txt: package-info.java
 20.txt: FeedbackQuestionAttributes.java
 20.txt: StringHelperTest.java
 20.txt: CourseAttributesTest.java
@@ -2261,7 +2175,6 @@
 20.txt: EmailSendingStatus.java
 20.txt: AccountRequestAttributesTest.java
 20.txt: TimeHelperExtension.java
-20.txt: package-info.java
 20.txt: TeamEvalResult.java
 20.txt: FeedbackNumericalScaleResponseDetails.java
 20.txt: ErrorLogEntryTest.java
@@ -2272,7 +2185,6 @@
 20.txt: FeedbackResultFetchType.java
 20.txt: DefaultLogDetails.java
 20.txt: FeedbackSessionAuditLogDetails.java
-20.txt: package-info.java
 20.txt: InstructorPrivileges.java
 20.txt: FeedbackRankOptionsResponseDetails.java
 20.txt: FeedbackContributionQuestionDetails.java
@@ -2302,10 +2214,8 @@
 20.txt: FeedbackConstantSumDistributePointsType.java
 20.txt: DeadlineExtensionAttributes.java
 20.txt: FeedbackMsqQuestionDetailsTest.java
-20.txt: package-info.java
 20.txt: FeedbackMsqResponseDetails.java
 20.txt: SessionResultsBundle.java
-20.txt: package-info.java
 20.txt: EmailSendingException.java
 20.txt: FeedbackContributionQuestionDetailsTest.java
 20.txt: LogDetails.java
@@ -2456,7 +2366,6 @@
 22.txt: EmptyAuthService.java
 22.txt: InstructorCourseJoinEmailWorkerAction.java
 22.txt: GetFeedbackSessionAction.java
-22.txt: package-info.java
 22.txt: TaskQueueService.java
 22.txt: UpdateCourseAction.java
 22.txt: LogsProcessor.java
@@ -2469,8 +2378,6 @@
 22.txt: FeedbackResponseCommentsLogic.java
 22.txt: GoogleRecaptchaService.java
 22.txt: InstructorSearchIndexingWorkerAction.java
-22.txt: package-info.java
-22.txt: package-info.java
 22.txt: QueryLogsAction.java
 22.txt: GetAccountRequestAction.java
 22.txt: DeleteAccountRequestAction.java
@@ -2655,7 +2562,6 @@
 25.txt: DeleteAccountRequestActionTest.java
 25.txt: GetSessionResultsAction.java
 25.txt: FeedbackResponseCommentCreateRequest.java
-25.txt: package-info.java
 25.txt: SubmitFeedbackResponsesActionTest.java
 25.txt: NotificationCreateRequest.java
 25.txt: CreateFeedbackSessionLogAction.java
@@ -2684,7 +2590,6 @@
 25.txt: MarkNotificationAsReadActionTest.java
 25.txt: NotificationUpdateRequest.java
 25.txt: SessionLinksRecoveryAction.java
-25.txt: package-info.java
 25.txt: FeedbackResponseCommentUpdateRequest.java
 25.txt: SearchInstructorsAction.java
 25.txt: FeedbackSessionPublishedEmailWorkerAction.java
@@ -2703,21 +2608,18 @@
 25.txt: StudentCourseJoinEmailWorkerAction.java
 25.txt: EnrollStudentsActionTest.java
 25.txt: MarkNotificationAsReadAction.java
-25.txt: package-info.java
 25.txt: SessionResultsData.java
 25.txt: GetInstructorAction.java
 25.txt: BasicFeedbackSubmissionAction.java
 25.txt: ResetAccountRequestAction.java
 25.txt: GetSessionResultsActionTest.java
 25.txt: AccountRequestSearchIndexingWorkerAction.java
-25.txt: package-info.java
 25.txt: AccountsData.java
 25.txt: FeedbackSessionOpeningRemindersAction.java
 25.txt: SearchInstructorsActionTest.java
 25.txt: FeedbackSessionLogData.java
 25.txt: ResetAccountActionTest.java
 25.txt: QuestionTypeStructures.java
-25.txt: package-info.java
 25.txt: UpdateFeedbackSessionAction.java
 25.txt: SendEmailRequest.java
 25.txt: GetFeedbackSessionLogsActionTest.java
@@ -2762,7 +2664,6 @@
 25.txt: ApiConst.java
 25.txt: UpdateCourseActionTest.java
 25.txt: SendLoginEmailActionTest.java
-25.txt: package-info.java
 25.txt: DeleteAccountActionTest.java
 25.txt: CourseBasicRequest.java
 25.txt: DatastoreBackupAction.java
@@ -2817,7 +2718,6 @@
 25.txt: StudentSearchIndexingWorkerAction.java
 25.txt: OriginCheckFilter.java
 25.txt: UnpublishFeedbackSessionActionTest.java
-25.txt: package-info.java
 25.txt: FeedbackSessionRemindEmailWorkerActionTest.java
 25.txt: RestoreFeedbackSessionActionTest.java
 25.txt: RemindFeedbackSessionSubmissionAction.java
@@ -2940,7 +2840,6 @@
 29.txt: StudentSearchIndexingWorkerActionTest.java
 29.txt: GetRegkeyValidityActionTest.java
 29.txt: DeleteStudentsActionTest.java
-29.txt: package-info.java
 29.txt: GetFeedbackSessionLogsActionTest.java
 29.txt: UpdateCourseActionTest.java
 29.txt: FeedbackSessionResendPublishedEmailWorkerActionTest.java
@@ -3002,7 +2901,6 @@
 29.txt: FeedbackResponsesRequest.java
 29.txt: FeedbackSessionOpeningRemindersActionTest.java
 29.txt: DeleteCourseAction.java
-29.txt: package-info.java
 29.txt: EnrollStudentsData.java
 29.txt: StudentsData.java
 29.txt: RemindFeedbackSessionResultAction.java
@@ -3032,7 +2930,6 @@
 29.txt: SessionLinksRecoveryAction.java
 29.txt: EnrollStudentsAction.java
 29.txt: FeedbackQuestionBasicRequest.java
-29.txt: package-info.java
 29.txt: OngoingSessionsData.java
 29.txt: GetStudentActionTest.java
 29.txt: GetUserCookieAction.java
@@ -3055,7 +2952,6 @@
 29.txt: SearchStudentsAction.java
 29.txt: GetDeadlineExtensionActionTest.java
 29.txt: FeedbackQuestionRecipientsData.java
-29.txt: package-info.java
 29.txt: ActionFactoryTest.java
 29.txt: UpdateCourseAction.java
 29.txt: StudentsEnrollRequestTest.java
@@ -3070,7 +2966,6 @@
 29.txt: InstructorCourseJoinEmailWorkerAction.java
 29.txt: CreateFeedbackSessionLogAction.java
 29.txt: OAuth2CallbackServlet.java
-29.txt: package-info.java
 29.txt: CreateCourseAction.java
 29.txt: QueryLogsAction.java
 29.txt: UpdateStudentAction.java
@@ -3098,7 +2993,6 @@
 29.txt: FeedbackSessionSubmissionStatus.java
 29.txt: GetNotificationsActionTest.java
 29.txt: RemindFeedbackSessionResultActionTest.java
-29.txt: package-info.java
 29.txt: InstructorPermissionRole.java
 29.txt: WebApiServlet.java
 29.txt: DeleteFeedbackSessionAction.java
@@ -3153,7 +3047,6 @@
 29.txt: FeedbackResponseCommentBasicRequest.java
 29.txt: ActionMappingException.java
 29.txt: DeleteStudentAction.java
-29.txt: package-info.java
 29.txt: SendEmailRequest.java
 29.txt: BinFeedbackSessionAction.java
 29.txt: ActionFactory.java
@@ -3215,12 +3108,10 @@
 47.txt: StudentsLogic.java
 47.txt: UsageStatisticsLogic.java
 47.txt: LogService.java
-47.txt: package-info.java
 47.txt: GoogleRecaptchaServiceTest.java
 47.txt: LocalTaskQueueService.java
 47.txt: FeedbackSessionsLogicTest.java
 47.txt: TaskQueuer.java
-47.txt: package-info.java
 47.txt: AccountRequestsLogic.java
 47.txt: CoursesLogic.java
 47.txt: InstructorsLogicTest.java
@@ -3228,7 +3119,6 @@
 47.txt: MockEmailSender.java
 47.txt: DataBundleLogic.java
 47.txt: Logic.java
-47.txt: BaseLogicTest.java
 47.txt: FeedbackResponsesLogic.java
 47.txt: RecaptchaService.java
 47.txt: EmailGenerator.java
@@ -3241,13 +3131,10 @@
 47.txt: FirebaseAuthService.java
 47.txt: AccountsLogicTest.java
 47.txt: UserProvisionTest.java
-47.txt: package-info.java
 47.txt: EmailSenderTest.java
 47.txt: AuthProxy.java
 47.txt: FeedbackQuestionsLogic.java
-47.txt: package-info.java
 47.txt: LogicExtension.java
-47.txt: package-info.java
 47.txt: AccountsLogic.java
 47.txt: LogicStarter.java
 47.txt: MockRecaptchaVerifier.java
@@ -3397,7 +3284,6 @@
 67.txt: CompileLogsActionTest.java
 68.txt: AccountsLogic.java
 68.txt: package-info.java
-68.txt: package-info.java
 68.txt: TaskQueueService.java
 68.txt: GoogleRecaptchaServiceTest.java
 68.txt: EmptyRecaptchaService.java
@@ -3411,17 +3297,14 @@
 68.txt: MockRecaptchaVerifier.java
 68.txt: MockEmailSender.java
 68.txt: EmailGeneratorTest.java
-68.txt: package-info.java
 68.txt: EmailGenerator.java
 68.txt: LocalTaskQueueService.java
-68.txt: package-info.java
 68.txt: UserProvisionTest.java
 68.txt: DeadlineExtensionsLogic.java
 68.txt: AuthService.java
 68.txt: GoogleRecaptchaService.java
 68.txt: CoursesLogicTest.java
 68.txt: FirebaseAuthService.java
-68.txt: package-info.java
 68.txt: UsageStatisticsLogic.java
 68.txt: SendgridService.java
 68.txt: AuthProxy.java
@@ -3434,7 +3317,6 @@
 68.txt: MockUserProvision.java
 68.txt: FeedbackResponseCommentsLogic.java
 68.txt: LocalLoggingService.java
-68.txt: package-info.java
 68.txt: BaseLogicTest.java
 68.txt: AccountRequestsLogic.java
 68.txt: NotificationsLogic.java
@@ -3462,7 +3344,6 @@
 68.txt: FeedbackSessionsLogic.java
 68.txt: InstructorsLogic.java
 68.txt: LogService.java
-68.txt: BaseLogicTest.java
 68.txt: CoursesLogic.java
 68.txt: EmailSenderService.java
 68.txt: StudentsLogic.java
@@ -3475,13 +3356,10 @@
 77.txt: CoursesLogicTest.java
 77.txt: FeedbackSessionsLogicTest.java
 77.txt: package-info.java
-77.txt: package-info.java
 77.txt: GoogleCloudLoggingService.java
-77.txt: package-info.java
 77.txt: InstructorsLogic.java
 77.txt: BaseLogicTest.java
 77.txt: TaskQueueService.java
-77.txt: package-info.java
 77.txt: LocalTaskQueueService.java
 77.txt: FeedbackQuestionsLogic.java
 77.txt: MailjetService.java
@@ -3492,11 +3370,9 @@
 77.txt: EmailGeneratorTest.java
 77.txt: NotificationsLogic.java
 77.txt: StudentsLogicTest.java
-77.txt: package-info.java
 77.txt: UserProvisionTest.java
 77.txt: CoursesLogic.java
 77.txt: DeadlineExtensionsLogicTest.java
-77.txt: package-info.java
 77.txt: DeadlineExtensionsLogic.java
 77.txt: AccountsLogicTest.java
 77.txt: DataBundleLogic.java
@@ -3509,7 +3385,6 @@
 77.txt: EmptyEmailService.java
 77.txt: LogsProcessor.java
 77.txt: EmailGenerator.java
-77.txt: BaseLogicTest.java
 77.txt: AuthProxy.java
 77.txt: AccountRequestsLogicTest.java
 77.txt: EmailSender.java
@@ -3579,19 +3454,15 @@
 78.txt: FeedbackSessionsLogicTest.java
 78.txt: InstructorsLogicTest.java
 78.txt: FeedbackQuestionsLogic.java
-78.txt: package-info.java
 78.txt: EmptyRecaptchaService.java
 78.txt: StudentsLogic.java
 78.txt: FirebaseAuthService.java
-78.txt: package-info.java
 78.txt: FeedbackResponsesLogic.java
 78.txt: BaseLogicTest.java
 78.txt: EmailSender.java
 78.txt: LocalTaskQueueService.java
 78.txt: LogService.java
-78.txt: package-info.java
 78.txt: StudentsLogicTest.java
-78.txt: package-info.java
 78.txt: AccountsLogic.java
 78.txt: TaskQueueService.java
 78.txt: RecaptchaVerifier.java
@@ -3600,9 +3471,7 @@
 78.txt: MockLogsProcessor.java
 78.txt: MockUserProvision.java
 78.txt: RecaptchaService.java
-78.txt: BaseLogicTest.java
 78.txt: EmailGenerator.java
-78.txt: package-info.java
 78.txt: EmptyEmailService.java
 78.txt: EmailGeneratorTest.java
 78.txt: UserProvisionTest.java
@@ -3697,7 +3566,6 @@
 81.txt: SearchInstructorsActionTest.java
 81.txt: GetFeedbackQuestionRecipientsAction.java
 81.txt: DeleteFeedbackResponseCommentActionTest.java
-81.txt: package-info.java
 81.txt: UpdateNotificationAction.java
 81.txt: FeedbackSessionRemindParticularUsersEmailWorkerActionTest.java
 81.txt: GetAuthInfoActionTest.java
@@ -3776,7 +3644,6 @@
 81.txt: UpdateFeedbackResponseCommentActionTest.java
 81.txt: OriginCheckFilterTest.java
 81.txt: FeedbackSessionRespondentRemindRequest.java
-81.txt: package-info.java
 81.txt: GetStudentsAction.java
 81.txt: CalculateUsageStatisticsActionTest.java
 81.txt: SendJoinReminderEmailAction.java
@@ -3848,7 +3715,6 @@
 81.txt: ApiConst.java
 81.txt: InstructorPrivilegeUpdateRequest.java
 81.txt: FeedbackSessionResendPublishedEmailWorkerActionTest.java
-81.txt: package-info.java
 81.txt: PutDataBundleDocumentsAction.java
 81.txt: MarkNotificationAsReadRequest.java
 81.txt: CreateCourseAction.java
@@ -3861,7 +3727,6 @@
 81.txt: CreateFeedbackResponseCommentAction.java
 81.txt: SessionLinksRecoveryAction.java
 81.txt: JsonResultTest.java
-81.txt: package-info.java
 81.txt: OngoingSession.java
 81.txt: GetOngoingSessionsAction.java
 81.txt: CourseArchiveData.java
@@ -3889,7 +3754,6 @@
 81.txt: ResourceEndpoints.java
 81.txt: InstructorPermissionRole.java
 81.txt: GetSessionResponseStatsActionTest.java
-81.txt: package-info.java
 81.txt: InstructorData.java
 81.txt: LoginServlet.java
 81.txt: UpdateStudentAction.java
@@ -3922,7 +3786,6 @@
 81.txt: GetCourseSectionNamesActionTest.java
 81.txt: DeleteFeedbackSessionActionTest.java
 81.txt: FeedbackQuestionBasicRequest.java
-81.txt: package-info.java
 81.txt: ResetAccountActionTest.java
 81.txt: CreateInstructorAction.java
 81.txt: CompileLogsActionTest.java
@@ -3933,7 +3796,6 @@
 81.txt: FeedbackResponseCommentData.java
 81.txt: AuthInfo.java
 81.txt: DeleteAccountRequestAction.java
-81.txt: package-info.java
 81.txt: GetFeedbackSessionSubmittedGiverSetActionTest.java
 81.txt: DeleteNotificationActionTest.java
 81.txt: BinFeedbackSessionAction.java
@@ -3969,21 +3831,17 @@
 84.txt: StudentsLogic.java
 84.txt: FeedbackResponsesLogic.java
 84.txt: package-info.java
-84.txt: package-info.java
 84.txt: InstructorsLogicTest.java
 84.txt: EmailSender.java
 84.txt: FeedbackResponseCommentsLogicTest.java
-84.txt: package-info.java
 84.txt: FeedbackQuestionsLogicTest.java
 84.txt: FeedbackQuestionsLogic.java
 84.txt: DataBundleLogicTest.java
-84.txt: package-info.java
 84.txt: FeedbackSessionsLogic.java
 84.txt: MockEmailSender.java
 84.txt: EmailGenerator.java
 84.txt: EmailGeneratorTest.java
 84.txt: TaskQueuer.java
-84.txt: BaseLogicTest.java
 84.txt: MockTaskQueuer.java
 84.txt: InstructorsLogic.java
 84.txt: AccountRequestsLogicTest.java
@@ -4034,7 +3892,6 @@
 85.txt: DeleteFeedbackQuestionActionTest.java
 85.txt: ErrorReportRequest.java
 85.txt: CompileLogsAction.java
-85.txt: package-info.java
 85.txt: JoinState.java
 85.txt: LegacyUrlMapper.java
 85.txt: FeedbackSessionRemindParticularUsersEmailWorkerActionTest.java
@@ -4043,7 +3900,6 @@
 85.txt: ResetAccountActionTest.java
 85.txt: InstructorPrivilegeData.java
 85.txt: GetAccountRequestActionTest.java
-85.txt: package-info.java
 85.txt: GetAccountRequestAction.java
 85.txt: SessionLinksRecoveryResponseData.java
 85.txt: GetInstructorAction.java
@@ -4121,7 +3977,6 @@
 85.txt: HealthCheckServlet.java
 85.txt: DeleteFeedbackResponseCommentActionTest.java
 85.txt: FeedbackSessionClosingRemindersActionTest.java
-85.txt: package-info.java
 85.txt: RequestTraceFilter.java
 85.txt: GetAccountAction.java
 85.txt: MockLogsProcessor.java
@@ -4134,7 +3989,6 @@
 85.txt: QueryLogsAction.java
 85.txt: BinCourseActionTest.java
 85.txt: InstructorPrivilegeUpdateRequest.java
-85.txt: package-info.java
 85.txt: FeedbackSessionsData.java
 85.txt: BasicCommentSubmissionAction.java
 85.txt: CalculateUsageStatisticsActionTest.java
@@ -4190,7 +4044,6 @@
 85.txt: NotificationBasicRequest.java
 85.txt: FeedbackSessionOpeningRemindersActionTest.java
 85.txt: SendLoginEmailActionTest.java
-85.txt: package-info.java
 85.txt: FeedbackSessionClosingRemindersAction.java
 85.txt: GetInstructorActionTest.java
 85.txt: GetStudentsAction.java
@@ -4250,7 +4103,6 @@
 85.txt: FeedbackSessionUnpublishedEmailWorkerAction.java
 85.txt: ActionMappingException.java
 85.txt: MockUserProvision.java
-85.txt: package-info.java
 85.txt: InstructorsData.java
 85.txt: FeedbackSessionPublishStatus.java
 85.txt: UpdateStudentActionTest.java
@@ -4306,7 +4158,6 @@
 85.txt: CreateNotificationAction.java
 85.txt: EmailGeneratorTest.java
 85.txt: FeedbackSessionOpeningSoonRemindersActionTest.java
-85.txt: package-info.java
 85.txt: FeedbackSessionPublishedRemindersAction.java
 85.txt: CreateFeedbackResponseCommentActionTest.java
 85.txt: DeleteFeedbackQuestionAction.java
@@ -4344,13 +4195,11 @@
 85.txt: FeedbackQuestionData.java
 85.txt: DeleteCourseActionTest.java
 85.txt: GetFeedbackSessionAction.java
-85.txt: package-info.java
 85.txt: SendErrorReportAction.java
 85.txt: CreateAccountRequestAction.java
 85.txt: FeedbackQuestionCreateRequest.java
 85.txt: NumberOfEntitiesToGiveFeedbackToSetting.java
 85.txt: GetAccountsAction.java
-85.txt: package-info.java
 85.txt: LoginServlet.java
 85.txt: UnauthorizedAccessException.java
 85.txt: FeedbackSessionLogData.java
@@ -4405,7 +4254,6 @@
 86.txt: DeadlineExtensionsLogic.java
 86.txt: DeadlineExtensionsLogicTest.java
 86.txt: AccountsLogic.java
-86.txt: package-info.java
 86.txt: UsageStatisticsLogic.java
 86.txt: AccountRequestsLogic.java
 86.txt: DataBundleLogic.java
@@ -4413,7 +4261,6 @@
 87.txt: package-info.java
 87.txt: BaseLogicTest.java
 87.txt: MockUserProvision.java
-87.txt: package-info.java
 87.txt: MockEmailSender.java
 87.txt: EmailSenderTest.java
 87.txt: FeedbackQuestionsLogic.java
@@ -4431,9 +4278,6 @@
 87.txt: MailjetService.java
 87.txt: EmailGenerator.java
 87.txt: MockRecaptchaVerifier.java
-87.txt: package-info.java
-87.txt: BaseLogicTest.java
-87.txt: package-info.java
 87.txt: NotificationsLogicTest.java
 87.txt: EmptyAuthService.java
 87.txt: EmailSender.java
@@ -4445,7 +4289,6 @@
 87.txt: UserProvisionTest.java
 87.txt: AuthService.java
 87.txt: InstructorsLogicTest.java
-87.txt: package-info.java
 87.txt: DataBundleLogicTest.java
 87.txt: UserProvision.java
 87.txt: FeedbackResponseCommentsLogicTest.java
@@ -4456,7 +4299,6 @@
 87.txt: FeedbackSessionsLogic.java
 87.txt: EmptyEmailService.java
 87.txt: GoogleCloudTasksService.java
-87.txt: package-info.java
 87.txt: MockLogsProcessor.java
 87.txt: AccountsLogicTest.java
 87.txt: DataBundleLogic.java
@@ -4512,13 +4354,11 @@
 88.txt: DeadlineExtensionsDb.java
 88.txt: InstructorSearchDocument.java
 88.txt: InstructorSearchTest.java
-88.txt: package-info.java
 88.txt: BaseEntity.java
 88.txt: DeadlineExtension.java
 88.txt: SearchManagerFactory.java
 88.txt: AccountsDbTest.java
 88.txt: CourseStudent.java
-88.txt: package-info.java
 88.txt: FeedbackResponseCommentsDbTest.java
 88.txt: FeedbackSessionsDbTest.java
 88.txt: Course.java
@@ -4528,7 +4368,6 @@
 88.txt: AccountRequest.java
 88.txt: AccountRequestSearchManager.java
 88.txt: BaseSearchTest.java
-88.txt: package-info.java
 88.txt: StudentsDb.java
 88.txt: SearchManager.java
 88.txt: SearchManagerStarter.java
@@ -4536,7 +4375,6 @@
 88.txt: NotificationsDbTest.java
 88.txt: InstructorsDbTest.java
 88.txt: CoursesDbTest.java
-88.txt: package-info.java
 88.txt: FeedbackSessionsDb.java
 88.txt: AccountRequestSearchDocument.java
 90.txt: EmailGeneratorTest.java
@@ -4564,7 +4402,6 @@
 97.txt: StudentCourseJoinEmailWorkerActionTest.java
 97.txt: SearchAccountRequestsActionTest.java
 97.txt: InstructorCreateRequest.java
-97.txt: package-info.java
 97.txt: ResetAccountRequestAction.java
 97.txt: FeedbackQuestionRecipientData.java
 97.txt: FeedbackSessionUnpublishedEmailWorkerActionTest.java
@@ -4575,7 +4412,6 @@
 97.txt: DeleteStudentActionTest.java
 97.txt: CreateAccountActionTest.java
 97.txt: Logic.java
-97.txt: package-info.java
 97.txt: GetFeedbackSessionLogsActionTest.java
 97.txt: GateKeeper.java
 97.txt: StudentSearchIndexingWorkerAction.java
@@ -4615,7 +4451,6 @@
 97.txt: EmptyRecaptchaService.java
 97.txt: FeedbackQuestionBasicRequest.java
 97.txt: CreateNotificationActionTest.java
-97.txt: package-info.java
 97.txt: GetCoursesAction.java
 97.txt: SearchStudentsActionTest.java
 97.txt: DeleteFeedbackSessionActionTest.java
@@ -4665,12 +4500,10 @@
 97.txt: RemindFeedbackSessionSubmissionActionTest.java
 97.txt: QueryLogsAction.java
 97.txt: GetActionClassesActionTest.java
-97.txt: package-info.java
 97.txt: CourseUpdateRequest.java
 97.txt: EmailSender.java
 97.txt: EntityNotFoundException.java
 97.txt: AuthProxy.java
-97.txt: package-info.java
 97.txt: CoursesLogic.java
 97.txt: DeleteCourseAction.java
 97.txt: DeleteInstructorActionTest.java
@@ -4691,7 +4524,6 @@
 97.txt: GetAuthInfoAction.java
 97.txt: CreateAccountRequestActionTest.java
 97.txt: GetCourseJoinStatusActionTest.java
-97.txt: package-info.java
 97.txt: ResetAccountAction.java
 97.txt: WebApiServlet.java
 97.txt: FeedbackSessionsLogicTest.java
@@ -4715,7 +4547,6 @@
 97.txt: BasicFeedbackSubmissionAction.java
 97.txt: AccountRequestData.java
 97.txt: FeedbackSessionPublishedEmailWorkerAction.java
-97.txt: package-info.java
 97.txt: GetActionClassesAction.java
 97.txt: GetCourseSectionNamesAction.java
 97.txt: FeedbackSessionUpdateRequest.java
@@ -4763,7 +4594,6 @@
 97.txt: GetNotificationActionTest.java
 97.txt: GetRegkeyValidityActionTest.java
 97.txt: RestoreCourseAction.java
-97.txt: package-info.java
 97.txt: InvalidOperationException.java
 97.txt: GetUserCookieAction.java
 97.txt: ResetAccountActionTest.java
@@ -4783,7 +4613,6 @@
 97.txt: GetFeedbackSessionAction.java
 97.txt: DeadlineExtensionsLogic.java
 97.txt: GetAuthInfoActionTest.java
-97.txt: package-info.java
 97.txt: ActionFactoryTest.java
 97.txt: FeedbackResponseData.java
 97.txt: GetFeedbackSessionLogsAction.java
@@ -4850,7 +4679,6 @@
 97.txt: CreateCourseActionTest.java
 97.txt: FeedbackSessionRemindEmailWorkerActionTest.java
 97.txt: WebApiServletTest.java
-97.txt: package-info.java
 97.txt: ArchiveCourseAction.java
 97.txt: DeleteInstructorAction.java
 97.txt: InstructorsData.java
@@ -4873,12 +4701,10 @@
 97.txt: UnauthorizedAccessException.java
 97.txt: BasicCommentSubmissionAction.java
 97.txt: FeedbackResponseCommentCreateRequest.java
-97.txt: package-info.java
 97.txt: EnrollStudentsData.java
 97.txt: FeedbackSessionsLogic.java
 97.txt: FeedbackSessionPublishedRemindersActionTest.java
 97.txt: JsonResultTest.java
-97.txt: package-info.java
 97.txt: PublishFeedbackSessionActionTest.java
 97.txt: GetFeedbackQuestionRecipientsAction.java
 97.txt: FeedbackSessionLogData.java
@@ -4914,7 +4740,6 @@
 97.txt: EmailGeneratorTest.java
 97.txt: FeedbackSessionOpeningSoonRemindersActionTest.java
 97.txt: GetSessionResponseStatsAction.java
-97.txt: BaseLogicTest.java
 97.txt: FeedbackVisibilityType.java
 97.txt: GetStudentsActionTest.java
 97.txt: GoogleRecaptchaService.java
@@ -4923,7 +4748,6 @@
 97.txt: GeneralLogsData.java
 97.txt: GetReadNotificationsAction.java
 97.txt: SendEmailWorkerAction.java
-97.txt: package-info.java
 97.txt: DefaultInstructorPermissions.java
 97.txt: UsageStatisticsLogic.java
 97.txt: StudentUpdateRequest.java
@@ -4983,18 +4807,14 @@
 101.txt: AccountRequestsDbTest.java
 101.txt: OfyHelper.java
 101.txt: InstructorsDb.java
-101.txt: package-info.java
 101.txt: StudentSearchDocument.java
-101.txt: package-info.java
 101.txt: DeadlineExtensionsDb.java
 101.txt: SearchManagerStarter.java
 101.txt: AccountRequestsDb.java
 101.txt: FeedbackResponseComment.java
 101.txt: BaseSearchTest.java
 101.txt: EntityAlreadyExistsException.java
-101.txt: package-info.java
 101.txt: Course.java
-101.txt: package-info.java
 101.txt: CoursesDbTest.java
 101.txt: DeadlineExtension.java
 101.txt: StudentsDb.java
@@ -5063,7 +4883,6 @@
 118.txt: StudentsDbTest.java
 118.txt: NotificationsDbTest.java
 118.txt: StudentSearchManager.java
-118.txt: package-info.java
 118.txt: InstructorsDb.java
 118.txt: DatastoreEmulatorRunner.java
 118.txt: UsageStatisticsDb.java
@@ -5083,7 +4902,6 @@
 118.txt: Course.java
 118.txt: DeadlineExtension.java
 118.txt: Account.java
-118.txt: package-info.java
 118.txt: FeedbackResponseCommentsDb.java
 118.txt: SearchManager.java
 118.txt: FeedbackSessionsDb.java
@@ -5102,10 +4920,8 @@
 118.txt: FeedbackSession.java
 118.txt: FeedbackResponsesDb.java
 118.txt: FeedbackQuestionsDbTest.java
-118.txt: package-info.java
 118.txt: AccountRequestSearchTest.java
 118.txt: FeedbackQuestion.java
-118.txt: package-info.java
 118.txt: FeedbackResponsesDbTest.java
 118.txt: AccountRequestSearchDocument.java
 120.txt: AccountRequestSearchManager.java
@@ -5133,7 +4949,6 @@
 120.txt: AccountsDbTest.java
 120.txt: InstructorSearchDocument.java
 120.txt: AccountRequestsDbTest.java
-120.txt: package-info.java
 120.txt: InstructorsDb.java
 120.txt: FeedbackResponsesDb.java
 120.txt: EntitiesDbTest.java
@@ -5142,7 +4957,6 @@
 120.txt: AccountRequest.java
 120.txt: FeedbackResponseComment.java
 120.txt: EntitiesDb.java
-120.txt: package-info.java
 120.txt: FeedbackSession.java
 120.txt: AccountRequestSearchTest.java
 120.txt: DeadlineExtension.java
@@ -5160,11 +4974,9 @@
 120.txt: AccountsDb.java
 120.txt: FeedbackQuestionsDbTest.java
 120.txt: NotificationsDbTest.java
-120.txt: package-info.java
 120.txt: FeedbackResponsesDbTest.java
 120.txt: FeedbackSessionsDb.java
 120.txt: BaseEntity.java
-120.txt: package-info.java
 120.txt: AccountRequestsDb.java
 120.txt: InstructorSearchTest.java
 122.txt: RecaptchaService.java
@@ -5186,15 +4998,12 @@
 122.txt: EmailGenerator.java
 122.txt: TaskQueuer.java
 122.txt: RecaptchaVerifier.java
-122.txt: package-info.java
 122.txt: GoogleRecaptchaService.java
 122.txt: AuthService.java
 122.txt: MockRecaptchaVerifier.java
 122.txt: MockAuthProxy.java
 122.txt: LocalTaskQueueService.java
 122.txt: EmptyAuthService.java
-122.txt: package-info.java
-122.txt: BaseLogicTest.java
 122.txt: FeedbackResponsesLogic.java
 122.txt: LogsProcessor.java
 122.txt: LogicStarter.java
@@ -5210,8 +5019,6 @@
 122.txt: FeedbackResponsesLogicTest.java
 122.txt: AccountsLogicTest.java
 122.txt: FeedbackQuestionsLogic.java
-122.txt: package-info.java
-122.txt: package-info.java
 122.txt: GoogleCloudTasksService.java
 122.txt: MockTaskQueuer.java
 122.txt: DeadlineExtensionsLogicTest.java
@@ -5236,7 +5043,6 @@
 122.txt: LogicExtension.java
 122.txt: AccountsLogic.java
 122.txt: FeedbackSessionsLogic.java
-122.txt: package-info.java
 122.txt: EmailSender.java
 123.txt: package-info.java
 123.txt: StudentSearchManager.java
@@ -5253,13 +5059,11 @@
 123.txt: AccountRequestsDbTest.java
 123.txt: EntitiesDb.java
 123.txt: FeedbackQuestion.java
-123.txt: package-info.java
 123.txt: InstructorSearchDocument.java
 123.txt: CoursesDbTest.java
 123.txt: AccountRequestSearchTest.java
 123.txt: Instructor.java
 123.txt: DeadlineExtensionsDb.java
-123.txt: package-info.java
 123.txt: CourseStudent.java
 123.txt: FeedbackSessionsDbTest.java
 123.txt: InstructorsDb.java
@@ -5270,9 +5074,7 @@
 123.txt: Course.java
 123.txt: UsageStatistics.java
 123.txt: SearchManagerFactory.java
-123.txt: package-info.java
 123.txt: CoursesDb.java
-123.txt: package-info.java
 123.txt: NotificationsDb.java
 123.txt: Notification.java
 123.txt: Account.java
@@ -5368,12 +5170,10 @@
 127.txt: TeamEvalResultTest.java
 127.txt: FeedbackQuestionType.java
 127.txt: FeedbackQuestionDetailsTest.java
-127.txt: package-info.java
 127.txt: InstructorPrivilegesLegacy.java
 127.txt: DeadlineExtensionAttributes.java
 127.txt: LogDetails.java
 127.txt: DataBundle.java
-127.txt: package-info.java
 127.txt: TeamEvalResult.java
 127.txt: FeedbackSessionLogType.java
 127.txt: AttributesDeletionQuery.java
@@ -5389,17 +5189,14 @@
 127.txt: FeedbackConstantSumResponseDetails.java
 127.txt: FeedbackResponseCommentAttributesTest.java
 127.txt: FeedbackTextQuestionDetailsTest.java
-127.txt: package-info.java
 127.txt: RequestLogUser.java
 127.txt: LogEvent.java
 127.txt: AttributesDeletionQueryTest.java
 127.txt: RequestLogDetails.java
 127.txt: FeedbackRankQuestionDetailsTest.java
-127.txt: package-info.java
 127.txt: FeedbackNumericalScaleQuestionDetails.java
 127.txt: ErrorLogEntryTest.java
 127.txt: AccountRequestAttributes.java
-127.txt: package-info.java
 127.txt: FeedbackMsqQuestionDetails.java
 127.txt: FeedbackRubricQuestionDetailsTest.java
 127.txt: FeedbackMcqQuestionDetailsTest.java
@@ -5419,7 +5216,6 @@
 127.txt: EmailSentLogDetails.java
 127.txt: NotificationAttributes.java
 127.txt: FeedbackQuestionDetails.java
-127.txt: package-info.java
 127.txt: FeedbackContributionResponseDetails.java
 127.txt: FeedbackContributionQuestionDetails.java
 128.txt: AccountRequestSearchManager.java
@@ -5441,11 +5237,8 @@
 128.txt: AccountRequest.java
 128.txt: EntitiesDb.java
 128.txt: FeedbackResponseComment.java
-128.txt: package-info.java
 128.txt: NotificationsDbTest.java
-128.txt: package-info.java
 128.txt: InstructorsDbTest.java
-128.txt: package-info.java
 128.txt: EntitiesDbTest.java
 128.txt: FeedbackQuestionsDb.java
 128.txt: AccountRequestSearchDocument.java
@@ -5480,7 +5273,6 @@
 128.txt: DatastoreEmulatorRunner.java
 128.txt: StudentSearchManager.java
 128.txt: Notification.java
-128.txt: package-info.java
 129.txt: FeedbackSessionsLogic.java
 129.txt: EmptyEmailService.java
 129.txt: EmailSenderService.java
@@ -5499,7 +5291,6 @@
 129.txt: AccountsLogicTest.java
 129.txt: DeadlineExtensionsLogicTest.java
 129.txt: MockEmailSender.java
-129.txt: package-info.java
 129.txt: NotificationsLogicTest.java
 129.txt: GoogleRecaptchaService.java
 129.txt: StudentsLogic.java
@@ -5509,7 +5300,6 @@
 129.txt: MailgunService.java
 129.txt: DataBundleLogic.java
 129.txt: UserProvisionTest.java
-129.txt: package-info.java
 129.txt: GoogleCloudTasksService.java
 129.txt: AuthService.java
 129.txt: MockLogsProcessor.java
@@ -5523,10 +5313,8 @@
 129.txt: FirebaseAuthService.java
 129.txt: EmailGenerator.java
 129.txt: FeedbackResponseCommentsLogicTest.java
-129.txt: package-info.java
 129.txt: UsageStatisticsLogic.java
 129.txt: FeedbackResponseCommentsLogic.java
-129.txt: package-info.java
 129.txt: TaskQueuer.java
 129.txt: LogicExtension.java
 129.txt: CoursesLogicTest.java
@@ -5540,7 +5328,6 @@
 129.txt: FeedbackResponsesLogic.java
 129.txt: InstructorsLogic.java
 129.txt: NotificationsLogic.java
-129.txt: BaseLogicTest.java
 129.txt: LogsProcessor.java
 129.txt: AccountsLogic.java
 129.txt: GoogleRecaptchaServiceTest.java
@@ -5548,7 +5335,6 @@
 129.txt: FeedbackQuestionsLogicTest.java
 129.txt: Logic.java
 129.txt: LocalTaskQueueService.java
-129.txt: package-info.java
 129.txt: AuthProxy.java
 129.txt: GoogleCloudLoggingService.java
 129.txt: MockRecaptchaVerifier.java
@@ -5564,7 +5350,6 @@
 130.txt: FeedbackResponseComment.java
 130.txt: package-info.java
 130.txt: AccountsDb.java
-130.txt: package-info.java
 130.txt: SearchManager.java
 130.txt: OfyHelper.java
 130.txt: UsageStatistics.java
@@ -5581,7 +5366,6 @@
 130.txt: FeedbackQuestionsDb.java
 130.txt: AccountRequestSearchManager.java
 130.txt: InstructorsDbTest.java
-130.txt: package-info.java
 130.txt: BaseSearchTest.java
 130.txt: AccountRequestsDb.java
 130.txt: SearchDocument.java
@@ -5598,7 +5382,6 @@
 130.txt: EntitiesDbTest.java
 130.txt: FeedbackQuestion.java
 130.txt: StudentsDb.java
-130.txt: package-info.java
 130.txt: FeedbackSessionsDb.java
 130.txt: Account.java
 130.txt: FeedbackSession.java
@@ -5610,7 +5393,6 @@
 130.txt: NotificationsDbTest.java
 130.txt: AccountsDbTest.java
 130.txt: StudentSearchManager.java
-130.txt: package-info.java
 131.txt: AuthProxy.java
 131.txt: TaskQueuer.java
 131.txt: FeedbackSessionsLogicTest.java
@@ -5663,9 +5445,7 @@
 131.txt: MockLogsProcessor.java
 131.txt: MockEmailSender.java
 131.txt: UserProvisionTest.java
-131.txt: package-info.java
 131.txt: OfyHelper.java
-131.txt: package-info.java
 131.txt: FeedbackSessionsDb.java
 131.txt: FeedbackResponseCommentsDb.java
 131.txt: LocalLoggingService.java
@@ -5674,10 +5454,8 @@
 131.txt: AccountsLogic.java
 131.txt: MockRecaptchaVerifier.java
 131.txt: RecaptchaVerifier.java
-131.txt: package-info.java
 131.txt: StudentsLogicTest.java
 131.txt: StudentsLogic.java
-131.txt: package-info.java
 131.txt: AccountRequestsDb.java
 131.txt: GoogleRecaptchaServiceTest.java
 131.txt: LogService.java
@@ -5686,9 +5464,7 @@
 131.txt: DataBundleLogicTest.java
 131.txt: AuthService.java
 131.txt: InstructorsLogic.java
-131.txt: BaseLogicTest.java
 131.txt: NotificationsLogicTest.java
-131.txt: package-info.java
 131.txt: GoogleCloudTasksService.java
 131.txt: LogsProcessor.java
 131.txt: UsageStatisticsLogic.java
@@ -5702,7 +5478,6 @@
 131.txt: FeedbackResponseCommentsDbTest.java
 131.txt: EntitiesDbTest.java
 131.txt: UserProvision.java
-131.txt: package-info.java
 131.txt: SendgridService.java
 131.txt: InstructorsDbTest.java
 131.txt: FeedbackQuestionsLogicTest.java
@@ -5710,7 +5485,6 @@
 131.txt: MailjetService.java
 131.txt: NotificationsDbTest.java
 131.txt: DeadlineExtensionsLogicTest.java
-131.txt: package-info.java
 132.txt: FeedbackSession.java
 132.txt: BaseEntity.java
 132.txt: DeadlineExtension.java
@@ -5737,7 +5511,6 @@
 133.txt: StudentSearchManager.java
 133.txt: InstructorSearchManager.java
 133.txt: SearchManagerStarter.java
-133.txt: package-info.java
 133.txt: SearchDocument.java
 133.txt: SearchManager.java
 133.txt: InstructorSearchDocument.java
@@ -5753,7 +5526,6 @@
 155.txt: package-info.java
 155.txt: LogDetails.java
 155.txt: FeedbackQuestionDetailsTest.java
-155.txt: package-info.java
 155.txt: SanitizationHelperTest.java
 155.txt: FeedbackContributionResponseDetails.java
 155.txt: FeedbackRubricQuestionDetails.java
@@ -5768,7 +5540,6 @@
 155.txt: AccountRequestAttributesTest.java
 155.txt: FeedbackNumericalScaleResponseDetails.java
 155.txt: UserInfoCookieTest.java
-155.txt: package-info.java
 155.txt: AppUrl.java
 155.txt: AttributesDeletionQuery.java
 155.txt: RequestLogDetails.java
@@ -5777,7 +5548,6 @@
 155.txt: DeadlineExtensionAttributesTest.java
 155.txt: TimeHelperTest.java
 155.txt: EntityDoesNotExistException.java
-155.txt: package-info.java
 155.txt: FeedbackConstantSumDistributePointsType.java
 155.txt: FeedbackNumericalScaleQuestionDetails.java
 155.txt: FeedbackRankOptionsResponseDetails.java
@@ -5804,7 +5574,6 @@
 155.txt: InstructorUpdateException.java
 155.txt: Const.java
 155.txt: SessionResultsBundle.java
-155.txt: package-info.java
 155.txt: FeedbackMcqQuestionDetails.java
 155.txt: FeedbackRankOptionsQuestionDetailsTest.java
 155.txt: RequestTracer.java
@@ -5826,7 +5595,6 @@
 155.txt: AccountAttributes.java
 155.txt: CourseAttributesTest.java
 155.txt: FeedbackResponseDetails.java
-155.txt: package-info.java
 155.txt: FeedbackRankRecipientsQuestionDetails.java
 155.txt: LogSeverity.java
 155.txt: AccountAttributesTest.java
@@ -5849,16 +5617,13 @@
 155.txt: HttpRequestHelper.java
 155.txt: FeedbackSessionAttributes.java
 155.txt: InstructorAttributes.java
-155.txt: package-info.java
 155.txt: ErrorLogEntryTest.java
 155.txt: FeedbackResponseCommentAttributes.java
 155.txt: StudentAttributesTest.java
 155.txt: FeedbackConstantSumQuestionDetailsTest.java
 155.txt: StringHelper.java
-155.txt: package-info.java
 155.txt: TimeHelperExtension.java
 155.txt: FeedbackSessionAttributesTest.java
-155.txt: package-info.java
 155.txt: TzdbResourceZoneRulesProvider.java
 155.txt: StdOutConsoleHandler.java
 155.txt: ErrorLogEntry.java
@@ -5892,7 +5657,6 @@
 155.txt: SearchServiceException.java
 155.txt: FeedbackConstantSumQuestionDetails.java
 155.txt: FeedbackConstantSumResponseDetails.java
-155.txt: package-info.java
 155.txt: GeneralLogEntry.java
 155.txt: FeedbackRankQuestionDetails.java
 156.txt: FieldValidator.java
@@ -5901,20 +5665,16 @@
 156.txt: package-info.java
 156.txt: FeedbackConstantSumResponseDetails.java
 156.txt: HttpRequestFailedException.java
-156.txt: package-info.java
 156.txt: StringHelperExtension.java
-156.txt: package-info.java
 156.txt: FeedbackMcqQuestionDetailsTest.java
 156.txt: FeedbackMcqResponseDetails.java
 156.txt: DeadlineExtensionAttributesTest.java
 156.txt: CourseRoster.java
 156.txt: FeedbackNumericalScaleResponseDetails.java
 156.txt: SearchServiceException.java
-156.txt: package-info.java
 156.txt: FeedbackResponseCommentAttributes.java
 156.txt: UsageStatisticsAttributes.java
 156.txt: FeedbackQuestionAttributesTest.java
-156.txt: package-info.java
 156.txt: FeedbackMsqResponseDetails.java
 156.txt: InstructorUpdateException.java
 156.txt: SourceLocation.java
@@ -5983,8 +5743,6 @@
 156.txt: FeedbackTextResponseDetailsTest.java
 156.txt: CourseRosterTest.java
 156.txt: AccountRequestAttributesTest.java
-156.txt: package-info.java
-156.txt: package-info.java
 156.txt: FeedbackQuestionDetails.java
 156.txt: FeedbackRankOptionsResponseDetails.java
 156.txt: UserInfoCookieTest.java
@@ -6004,12 +5762,10 @@
 156.txt: DataBundle.java
 156.txt: RequestTracer.java
 156.txt: LogEvent.java
-156.txt: package-info.java
 156.txt: FeedbackTextQuestionDetails.java
 156.txt: FeedbackMsqQuestionDetails.java
 156.txt: FeedbackRankRecipientsResponseDetails.java
 156.txt: FeedbackNumericalScaleQuestionDetailsTest.java
-156.txt: package-info.java
 156.txt: UserInfoCookie.java
 156.txt: FeedbackRankOptionsQuestionDetailsTest.java
 156.txt: BuildPropertiesTest.java
@@ -6032,7 +5788,6 @@
 156.txt: Templates.java
 156.txt: FeedbackSessionLogType.java
 156.txt: FeedbackContributionQuestionDetails.java
-156.txt: package-info.java
 156.txt: FeedbackContributionResponseDetails.java
 156.txt: AttributesDeletionQueryTest.java
 156.txt: RequestLogDetails.java
@@ -6075,7 +5830,6 @@
 157.txt: StdOutConsoleHandler.java
 157.txt: UrlTest.java
 157.txt: TaskWrapper.java
-157.txt: package-info.java
 157.txt: TimeHelperExtension.java
 158.txt: HttpRequestFailedException.java
 158.txt: EnrollException.java
@@ -6091,7 +5845,6 @@
 159.txt: package-info.java
 159.txt: UserInfo.java
 159.txt: SourceLocation.java
-159.txt: package-info.java
 159.txt: FeedbackRankRecipientsResponseDetails.java
 159.txt: TeamEvalResultTest.java
 159.txt: EntityAttributes.java
@@ -6113,7 +5866,6 @@
 159.txt: AccountRequestAttributesTest.java
 159.txt: EmailSentLogDetails.java
 159.txt: FeedbackResponseCommentAttributes.java
-159.txt: package-info.java
 159.txt: NotificationAttributesTest.java
 159.txt: FeedbackQuestionDetailsTest.java
 159.txt: BaseAttributesTest.java
@@ -6121,7 +5873,6 @@
 159.txt: FeedbackResponseCommentAttributesTest.java
 159.txt: FeedbackRankQuestionDetails.java
 159.txt: UserInfoCookieTest.java
-159.txt: package-info.java
 159.txt: FeedbackRubricQuestionDetails.java
 159.txt: UsageStatisticsAttributes.java
 159.txt: FeedbackQuestionAttributes.java
@@ -6132,7 +5883,6 @@
 159.txt: FeedbackRankRecipientsQuestionDetailsTest.java
 159.txt: FeedbackConstantSumResponseDetails.java
 159.txt: InstructorPrivilegesLegacy.java
-159.txt: package-info.java
 159.txt: FeedbackConstantSumQuestionDetails.java
 159.txt: FeedbackResponseDetailsTest.java
 159.txt: FeedbackMcqQuestionDetails.java
@@ -6153,7 +5903,6 @@
 159.txt: FeedbackSessionLogType.java
 159.txt: FeedbackMsqResponseDetails.java
 159.txt: RequestLogUser.java
-159.txt: package-info.java
 159.txt: FeedbackContributionQuestionDetailsTest.java
 159.txt: StudentAttributesTest.java
 159.txt: FeedbackResultFetchType.java
@@ -6171,7 +5920,6 @@
 159.txt: AccountAttributes.java
 159.txt: FeedbackConstantSumDistributePointsType.java
 159.txt: AccountAttributesTest.java
-159.txt: package-info.java
 159.txt: SessionResultsBundleTest.java
 159.txt: FeedbackResponseAttributesTest.java
 159.txt: FeedbackConstantSumQuestionDetailsTest.java
@@ -6211,19 +5959,16 @@
 160.txt: DeadlineExtensionAttributes.java
 160.txt: FeedbackSessionLogEntry.java
 160.txt: FeedbackRankRecipientsQuestionDetailsTest.java
-160.txt: package-info.java
 160.txt: FeedbackContributionQuestionDetailsTest.java
 160.txt: FeedbackRubricQuestionDetailsTest.java
 160.txt: ExceptionLogDetails.java
 160.txt: FeedbackResponseDetailsTest.java
 160.txt: AttributesDeletionQueryTest.java
-160.txt: package-info.java
 160.txt: FeedbackRankQuestionDetailsTest.java
 160.txt: StudentAttributesTest.java
 160.txt: RequestLogUser.java
 160.txt: FeedbackTextQuestionDetails.java
 160.txt: EmailSentLogDetails.java
-160.txt: package-info.java
 160.txt: FeedbackQuestionRecipient.java
 160.txt: FeedbackParticipantType.java
 160.txt: FeedbackMsqQuestionDetailsTest.java
@@ -6233,13 +5978,11 @@
 160.txt: FeedbackConstantSumResponseDetails.java
 160.txt: LogDetails.java
 160.txt: FeedbackMcqQuestionDetails.java
-160.txt: package-info.java
 160.txt: FeedbackMcqResponseDetails.java
 160.txt: FeedbackRubricResponseDetails.java
 160.txt: EntityAttributes.java
 160.txt: BaseAttributesTest.java
 160.txt: DeadlineExtensionAttributesTest.java
-160.txt: package-info.java
 160.txt: DataBundle.java
 160.txt: FeedbackMsqResponseDetails.java
 160.txt: NotificationAttributes.java
@@ -6278,7 +6021,6 @@
 160.txt: FeedbackNumericalScaleQuestionDetails.java
 160.txt: UserInfoCookie.java
 160.txt: FeedbackRubricQuestionDetails.java
-160.txt: package-info.java
 160.txt: FeedbackContributionQuestionDetails.java
 160.txt: NotificationStyle.java
 160.txt: NotificationTargetUser.java
@@ -6363,7 +6105,6 @@
 172.txt: AccountsLogicTest.java
 172.txt: SanitizationHelperTest.java
 172.txt: GetFeedbackSessionSubmittedGiverSetActionTest.java
-172.txt: package-info.java
 172.txt: CreateFeedbackQuestionActionTest.java
 172.txt: SendJoinReminderEmailActionTest.java
 172.txt: FeedbackSessionAttributesTest.java
@@ -6400,7 +6141,6 @@
 172.txt: DeleteAccountRequestActionTest.java
 172.txt: FeedbackSessionPublishedEmailWorkerActionTest.java
 172.txt: InstructorSearchTest.java
-172.txt: package-info.java
 172.txt: RestoreCourseActionTest.java
 172.txt: SearchInstructorsActionTest.java
 172.txt: UserInfoCookieTest.java
@@ -6421,7 +6161,6 @@
 172.txt: LogicExtension.java
 172.txt: UpdateInstructorActionTest.java
 172.txt: SendErrorReportActionTest.java
-172.txt: package-info.java
 172.txt: DataBundleLogicTest.java
 172.txt: DeleteFeedbackResponseCommentActionTest.java
 172.txt: FeedbackQuestionAttributesTest.java
@@ -6459,9 +6198,6 @@
 172.txt: SendLoginEmailActionTest.java
 172.txt: CreateInstructorActionTest.java
 172.txt: FeedbackTextQuestionDetailsTest.java
-172.txt: package-info.java
-172.txt: package-info.java
-172.txt: package-info.java
 172.txt: FeedbackRankOptionsQuestionDetailsTest.java
 172.txt: DeleteCourseActionTest.java
 172.txt: StudentCourseJoinEmailWorkerActionTest.java
@@ -6479,7 +6215,6 @@
 172.txt: UrlTest.java
 172.txt: CreateCourseActionTest.java
 172.txt: FeedbackResponseDetailsTest.java
-172.txt: package-info.java
 172.txt: UpdateFeedbackSessionActionTest.java
 172.txt: FeedbackRankQuestionDetailsTest.java
 172.txt: GetAccountRequestActionTest.java
@@ -6504,7 +6239,6 @@
 172.txt: CompileLogsActionTest.java
 172.txt: DeleteFeedbackQuestionActionTest.java
 172.txt: FeedbackResponseCommentAttributesTest.java
-172.txt: package-info.java
 172.txt: MockUserProvision.java
 172.txt: GetInstructorsActionTest.java
 172.txt: BaseActionTest.java
@@ -6527,13 +6261,11 @@
 172.txt: InstructorsDbTest.java
 172.txt: DeleteAccountActionTest.java
 172.txt: CoursesDbTest.java
-172.txt: BaseLogicTest.java
 172.txt: GetCourseSectionNamesActionTest.java
 172.txt: BinFeedbackSessionActionTest.java
 172.txt: InstructorAttributesTest.java
 172.txt: JsonUtilsTest.java
 172.txt: BaseAttributesTest.java
-172.txt: package-info.java
 172.txt: FeedbackResponseCommentsLogicTest.java
 174.txt: ErrorLogEntry.java
 174.txt: SanitizationHelper.java
@@ -6554,19 +6286,16 @@
 174.txt: Config.java
 174.txt: FeedbackRankRecipientsQuestionDetails.java
 174.txt: FeedbackTextQuestionDetailsTest.java
-174.txt: package-info.java
 174.txt: FeedbackRankOptionsQuestionDetails.java
 174.txt: Templates.java
 174.txt: FeedbackRankOptionsResponseDetails.java
 174.txt: InstructorUpdateException.java
 174.txt: EmailSentLogDetails.java
 174.txt: UserInfoCookie.java
-174.txt: package-info.java
 174.txt: EmailSendingException.java
 174.txt: InstructorPrivileges.java
 174.txt: FeedbackResultFetchType.java
 174.txt: StudentAttributes.java
-174.txt: package-info.java
 174.txt: FeedbackSessionAttributesTest.java
 174.txt: NotificationStyle.java
 174.txt: FeedbackParticipantType.java
@@ -6604,9 +6333,7 @@
 174.txt: FeedbackSessionAuditLogDetails.java
 174.txt: TeamEvalResultTest.java
 174.txt: DataBundle.java
-174.txt: package-info.java
 174.txt: TimeHelperExtension.java
-174.txt: package-info.java
 174.txt: EntityAlreadyExistsException.java
 174.txt: UserInfo.java
 174.txt: FeedbackMcqResponseDetails.java
@@ -6626,9 +6353,7 @@
 174.txt: FeedbackConstantSumResponseDetails.java
 174.txt: FeedbackQuestionDetails.java
 174.txt: FeedbackQuestionRecipient.java
-174.txt: package-info.java
 174.txt: FeedbackRubricQuestionDetails.java
-174.txt: package-info.java
 174.txt: AccountAttributes.java
 174.txt: SourceLocation.java
 174.txt: UsageStatisticsAttributes.java
@@ -6673,12 +6398,10 @@
 174.txt: TimeHelper.java
 174.txt: TeamEvalResult.java
 174.txt: LogEvent.java
-174.txt: package-info.java
 174.txt: NotificationTargetUser.java
 174.txt: Logger.java
 174.txt: EmailSendingStatus.java
 174.txt: SessionResultsBundleTest.java
-174.txt: package-info.java
 174.txt: InstructorAttributes.java
 174.txt: LogDetails.java
 174.txt: FeedbackQuestionAttributesTest.java
@@ -6690,7 +6413,6 @@
 175.txt: package-info.java
 175.txt: AccountRequestAttributesTest.java
 175.txt: FeedbackConstantSumQuestionDetailsTest.java
-175.txt: package-info.java
 175.txt: FeedbackTextResponseDetailsTest.java
 175.txt: FeedbackRankQuestionDetailsTest.java
 175.txt: QueryLogsParams.java
@@ -6716,7 +6438,6 @@
 175.txt: Const.java
 175.txt: CourseRoster.java
 175.txt: FeedbackQuestionRecipient.java
-175.txt: package-info.java
 175.txt: FeedbackQuestionAttributes.java
 175.txt: UsageStatisticsAttributes.java
 175.txt: FieldValidatorTest.java
@@ -6727,13 +6448,11 @@
 175.txt: ExceptionLogDetails.java
 175.txt: NotificationTargetUser.java
 175.txt: Templates.java
-175.txt: package-info.java
 175.txt: FeedbackRubricQuestionDetailsTest.java
 175.txt: FeedbackQuestionDetails.java
 175.txt: FeedbackQuestionDetailsTest.java
 175.txt: FeedbackConstantSumResponseDetails.java
 175.txt: CourseRosterTest.java
-175.txt: package-info.java
 175.txt: LogDetails.java
 175.txt: TzdbResourceZoneRulesProvider.java
 175.txt: HttpRequestHelper.java
@@ -6747,7 +6466,6 @@
 175.txt: AccountAttributesTest.java
 175.txt: DeadlineExtensionAttributes.java
 175.txt: EmailSendingStatus.java
-175.txt: package-info.java
 175.txt: Url.java
 175.txt: AccountAttributes.java
 175.txt: AttributesDeletionQueryTest.java
@@ -6755,7 +6473,6 @@
 175.txt: FeedbackMcqQuestionDetails.java
 175.txt: FeedbackMsqQuestionDetails.java
 175.txt: FeedbackSessionLogEntry.java
-175.txt: package-info.java
 175.txt: EmailType.java
 175.txt: HttpRequestFailedException.java
 175.txt: AttributesDeletionQuery.java
@@ -6796,7 +6513,6 @@
 175.txt: SanitizationHelper.java
 175.txt: RequestTracer.java
 175.txt: InstructorAttributesTest.java
-175.txt: package-info.java
 175.txt: GeneralLogEntry.java
 175.txt: DefaultLogDetails.java
 175.txt: EmailSendingException.java
@@ -6825,12 +6541,10 @@
 175.txt: RequestLogDetails.java
 175.txt: StringHelperTest.java
 175.txt: JsonUtilsTest.java
-175.txt: package-info.java
 175.txt: StudentAttributes.java
 175.txt: DataBundle.java
 175.txt: FeedbackResponseCommentAttributesTest.java
 175.txt: FeedbackResultFetchType.java
-175.txt: package-info.java
 175.txt: CourseAttributes.java
 175.txt: InstructorUpdateException.java
 175.txt: FeedbackResponseCommentAttributes.java
@@ -6857,7 +6571,6 @@
 176.txt: CoursesLogic.java
 176.txt: TaskQueuer.java
 176.txt: EmailSender.java
-176.txt: package-info.java
 176.txt: LogicExtension.java
 176.txt: AccountsLogic.java
 176.txt: MockAuthProxy.java
@@ -6868,7 +6581,6 @@
 176.txt: EmptyRecaptchaService.java
 176.txt: TaskQueueService.java
 176.txt: GoogleCloudTasksService.java
-176.txt: package-info.java
 176.txt: BaseLogicTest.java
 176.txt: UsageStatisticsLogic.java
 176.txt: GoogleRecaptchaService.java
@@ -6882,13 +6594,10 @@
 176.txt: Logic.java
 176.txt: FeedbackResponseCommentsLogicTest.java
 176.txt: AuthService.java
-176.txt: BaseLogicTest.java
 176.txt: NotificationsLogicTest.java
-176.txt: package-info.java
 176.txt: UserProvision.java
 176.txt: FeedbackResponsesLogic.java
 176.txt: DataBundleLogicTest.java
-176.txt: package-info.java
 176.txt: FeedbackResponsesLogicTest.java
 176.txt: GoogleRecaptchaServiceTest.java
 176.txt: LocalLoggingService.java
@@ -6902,7 +6611,6 @@
 176.txt: FirebaseAuthService.java
 176.txt: StudentsLogic.java
 176.txt: MockEmailSender.java
-176.txt: package-info.java
 176.txt: FeedbackQuestionsLogicTest.java
 176.txt: DeadlineExtensionsLogic.java
 176.txt: DataBundleLogic.java
@@ -6932,7 +6640,6 @@
 177.txt: EntitiesDbTest.java
 177.txt: AccountsDbTest.java
 177.txt: FeedbackResponsesDbTest.java
-177.txt: package-info.java
 177.txt: AccountRequestSearchDocument.java
 177.txt: EntitiesDb.java
 177.txt: BaseEntity.java
@@ -6943,14 +6650,12 @@
 177.txt: FeedbackResponseCommentsDbTest.java
 177.txt: Account.java
 177.txt: FeedbackResponse.java
-177.txt: package-info.java
 177.txt: BaseSearchTest.java
 177.txt: DeadlineExtension.java
 177.txt: SearchManagerStarter.java
 177.txt: FeedbackSessionsDb.java
 177.txt: StudentsDbTest.java
 177.txt: AccountRequestsDbTest.java
-177.txt: package-info.java
 177.txt: Instructor.java
 177.txt: SearchManager.java
 177.txt: FeedbackQuestion.java
@@ -6959,7 +6664,6 @@
 177.txt: Course.java
 177.txt: UsageStatisticsDb.java
 177.txt: CoursesDb.java
-177.txt: package-info.java
 177.txt: AccountRequestSearchManager.java
 177.txt: DeadlineExtensionsDb.java
 177.txt: InstructorSearchDocument.java
@@ -7099,7 +6803,6 @@
 185.txt: FeedbackRankOptionQuestionE2ETest.java
 185.txt: package-info.java
 185.txt: AdminSessionsPage.java
-185.txt: package-info.java
 185.txt: StudentHomePageAxeTest.java
 185.txt: FeedbackResponsesLogic.java
 185.txt: FeedbackRankRecipientQuestionE2ETest.java
@@ -7120,7 +6823,6 @@
 185.txt: InstructorStudentActivityLogsPageE2ETest.java
 185.txt: StudentCourseJoinConfirmationPageE2ETest.java
 185.txt: InstructorStudentActivityLogsPageAxeTest.java
-185.txt: package-info.java
 185.txt: UsageStatisticsLogic.java
 185.txt: AdminAccountsPageE2ETest.java
 185.txt: InstructorHomePageE2ETest.java
@@ -7142,14 +6844,12 @@
 185.txt: InstructorFeedbackEditPageE2ETest.java
 185.txt: EmailAccountTest.java
 185.txt: CourseJoinConfirmationPage.java
-185.txt: package-info.java
 185.txt: HomePage.java
 185.txt: InstructorStudentListPage.java
 185.txt: InstructorHomePageAxeTest.java
 185.txt: InstructorFeedbackReportPageAxeTest.java
 185.txt: RecaptchaService.java
 185.txt: FeedbackResponseCommentsLogic.java
-185.txt: package-info.java
 185.txt: AdminNotificationsPageE2ETest.java
 185.txt: Retryable.java
 185.txt: TestNgXmlTest.java
@@ -7189,11 +6889,9 @@
 185.txt: FeedbackResultsPageE2ETest.java
 185.txt: InstructorCoursesPageAxeTest.java
 185.txt: CoursesLogic.java
-185.txt: package-info.java
 185.txt: EmailGeneratorTest.java
 185.txt: AdminHomePage.java
 185.txt: TestPropertiesTest.java
-185.txt: package-info.java
 185.txt: NotificationsLogic.java
 185.txt: EmailGenerator.java
 185.txt: AccountRequestsLogicTest.java
@@ -7202,7 +6900,6 @@
 185.txt: InstructorStudentRecordsPageE2ETest.java
 185.txt: InstructorSearchPageAxeTest.java
 185.txt: InstructorCourseStudentDetailsPageE2ETest.java
-185.txt: package-info.java
 185.txt: AccountsLogic.java
 185.txt: FirebaseAuthService.java
 185.txt: NotificationsLogicTest.java
@@ -7226,7 +6923,6 @@
 185.txt: InstructorCourseEnrollPageE2ETest.java
 185.txt: GmailServiceMaker.java
 185.txt: LogService.java
-185.txt: BaseLogicTest.java
 185.txt: EmailSender.java
 185.txt: GoogleCloudLoggingService.java
 185.txt: NotificationBannerE2ETest.java
@@ -7236,7 +6932,6 @@
 185.txt: InstructorFeedbackReportPageE2ETest.java
 185.txt: InstructorFeedbackSessionsPageAxeTest.java
 185.txt: AdminAccountsPage.java
-185.txt: package-info.java
 185.txt: GoogleCloudTasksService.java
 185.txt: FeedbackSubmitPageAxeTest.java
 185.txt: SendgridService.java
@@ -7254,7 +6949,6 @@
 185.txt: StudentCourseDetailsPage.java
 185.txt: UserProvisionTest.java
 185.txt: FeedbackQuestionsLogic.java
-185.txt: package-info.java
 185.txt: InstructorNotificationsPageE2ETest.java
 185.txt: TaskQueuer.java
 185.txt: RecaptchaVerifier.java
@@ -7319,7 +7013,6 @@
 187.txt: InstructorStudentListPageAxeTest.java
 187.txt: InstructorHomePage.java
 187.txt: FeedbackTextQuestionE2ETest.java
-187.txt: package-info.java
 187.txt: FeedbackMsqQuestionE2ETest.java
 187.txt: AdminSearchPageE2ETest.java
 187.txt: InstructorSearchPageAxeTest.java
@@ -7345,7 +7038,6 @@
 187.txt: InstructorCourseStudentDetailsEditPage.java
 187.txt: InstructorCourseJoinConfirmationPageAxeTest.java
 187.txt: InstructorCourseStudentDetailsEditPageAxeTest.java
-187.txt: package-info.java
 187.txt: StudentCourseJoinConfirmationPageE2ETest.java
 187.txt: StudentCourseDetailsPageAxeTest.java
 187.txt: InstructorFeedbackReportPageE2ETest.java
@@ -7358,15 +7050,12 @@
 187.txt: StudentNotificationsPageE2ETest.java
 187.txt: InstructorCourseEnrollPageE2ETest.java
 187.txt: BaseE2ETestCase.java
-187.txt: BackDoor.java
 187.txt: AdminTimezonePage.java
-187.txt: TestProperties.java
 187.txt: StudentHomePage.java
 187.txt: InstructorCourseEditPageAxeTest.java
 187.txt: InstructorHomePageE2ETest.java
 187.txt: InstructorStudentRecordsPageAxeTest.java
 187.txt: InstructorStudentRecordsPage.java
-187.txt: package-info.java
 187.txt: InstructorCourseStudentDetailsPageAxeTest.java
 187.txt: InstructorCourseDetailsPageE2ETest.java
 187.txt: InstructorSessionIndividualExtensionPageAxeTest.java
@@ -7382,7 +7071,6 @@
 187.txt: BaseFeedbackQuestionE2ETest.java
 187.txt: InstructorStudentListPageE2ETest.java
 187.txt: AdminAccountsPageAxeTest.java
-187.txt: package-info.java
 187.txt: InstructorCourseStudentDetailsEditPageE2ETest.java
 187.txt: InstructorFeedbackReportPageAxeTest.java
 187.txt: InstructorSearchPage.java
@@ -7403,7 +7091,6 @@
 187.txt: InstructorSessionResultLNPTest.java
 187.txt: InstructorCourseEnrollPage.java
 187.txt: DevServerLoginPage.java
-187.txt: package-info.java
 187.txt: FeedbackSessionViewLNPTest.java
 187.txt: FeedbackRubricQuestionE2ETest.java
 187.txt: StudentCourseDetailsPage.java
@@ -7462,7 +7149,6 @@
 188.txt: FeedbackRankOptionQuestionE2ETest.java
 188.txt: MaximumRetriesExceededException.java
 188.txt: StudentHomePage.java
-188.txt: package-info.java
 188.txt: TimezoneSyncerTest.java
 188.txt: InstructorStudentRecordsPageAxeTest.java
 188.txt: StudentNotificationsPage.java
@@ -7492,7 +7178,6 @@
 188.txt: FeedbackResultsPage.java
 188.txt: FeedbackNumScaleQuestionE2ETest.java
 188.txt: TestProperties.java
-188.txt: package-info.java
 188.txt: TestDataValidityTest.java
 188.txt: FeedbackSubmitPageE2ETest.java
 188.txt: StudentCourseDetailsPageE2ETest.java
@@ -7524,7 +7209,6 @@
 188.txt: BaseE2ETestCase.java
 188.txt: FeedbackResultsPageE2ETest.java
 188.txt: InstructorNotificationsPageE2ETest.java
-188.txt: package-info.java
 188.txt: AdminHomePageAxeTest.java
 188.txt: FeedbackSubmitPageAxeTest.java
 188.txt: InstructorHomePageE2ETest.java
@@ -7542,7 +7226,6 @@
 193.txt: StudentEmailUpdateLNPTest.java
 193.txt: FeedbackSessionSubmitLNPTest.java
 193.txt: LNPResultsStatistics.java
-193.txt: package-info.java
 193.txt: InstructorStudentEnrollmentLNPTest.java
 193.txt: BaseLNPTestCase.java
 193.txt: InstructorCourseUpdateLNPTest.java
@@ -7558,7 +7241,6 @@
 193.txt: TestProperties.java
 194.txt: ClientProperties.java
 194.txt: package-info.java
-194.txt: package-info.java
 194.txt: DataMigrationEntitiesBaseScript.java
 194.txt: DataMigrationForContributionQuestionDetailsIsZeroSum.java
 194.txt: DataMigrationForFeedbackSessionMismatchedTimezone.java
@@ -7567,7 +7249,6 @@
 194.txt: DataMigrationForStudentsAndTeamsRecipientType.java
 194.txt: DataMigrationForSampleGoogleIdInStudentAttributes.java
 194.txt: DatastoreClient.java
-194.txt: package-info.java
 194.txt: DataMigrationForInstructorFeedbackResponseComments.java
 194.txt: StatisticsBundle.java
 194.txt: IndexFeedbackSessionFields.java
@@ -7584,7 +7265,6 @@
 194.txt: DataMigrationForSanitizedDataInInstructorAttributes.java
 194.txt: DataMigrationForUnencryptedKeyForStudents.java
 194.txt: PopulateCourseSearchDocuments.java
-194.txt: package-info.java
 194.txt: ListActiveInstructors.java
 194.txt: BackDoor.java
 194.txt: DataBundleRegenerator.java
@@ -7601,7 +7281,6 @@
 195.txt: package-info.java
 195.txt: BackDoor.java
 195.txt: ClientProperties.java
-195.txt: package-info.java
 196.txt: package-info.java
 196.txt: BackDoor.java
 196.txt: ClientProperties.java
