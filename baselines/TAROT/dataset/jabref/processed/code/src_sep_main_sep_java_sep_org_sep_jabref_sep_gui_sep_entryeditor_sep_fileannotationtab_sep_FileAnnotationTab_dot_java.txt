@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep fileannotationtab sep file annot tab dot java 
+file annot cach 
+
+
+cach 
+entri 
+entri 
+
+
+file annot tab 
+show 
+bind entri 
+

@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep option editor view model dot java 
+
+
+field 
+suggest provid 
+field checker 
+object 
+
+
+option editor view model 
+string convert 
+item 
+convert display text 
+

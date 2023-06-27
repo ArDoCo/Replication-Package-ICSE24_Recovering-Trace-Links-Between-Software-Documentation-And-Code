@@ -1,0 +1,20 @@
+servic sep tool dot descart dot teastor dot recommend sep src sep main sep java sep tool sep descart sep teastor sep recommend sep algorithm sep order item set dot java 
+user id 
+order id 
+orderset 
+orderset 
+
+
+orderset 
+order id 
+user id 
+
+
+order item set 
+orderset 
+set orderset 
+order id 
+set order id 
+user id 
+set user id 
+

@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep citat key checker test dot java 
+checker 
+
+
+
+
+bib tex accept key author year 
+accept key author titl 
+accept key titl year 
+empti citat key 
+

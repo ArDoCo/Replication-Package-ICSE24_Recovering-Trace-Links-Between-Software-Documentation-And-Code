@@ -1,0 +1,27 @@
+bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep transport sep messag sep frame decod dot java 
+lf 
+log 
+max header size 
+current messag 
+treat unknown header bodi 
+
+
+max header size 
+max header size 
+treat unknown header bodi 
+ctx 
+channel 
+buffer 
+state 
+buffer 
+max line legth 
+buffer 
+max line length 
+
+
+frame decod 
+frame decod 
+decod 
+read line feed fail 
+read line 
+

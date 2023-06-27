@@ -1,0 +1,99 @@
+src sep test sep java sep org sep jabref sep model sep entri sep bib entri test dot java 
+entri 
+
+
+
+
+test default constructor 
+set type null throw 
+set null field throw npe 
+field case insensit 
+field work bib field 
+bib entri unchang 
+set field lead chang entri 
+set field work bib field 
+clone bib entri uniqu id 
+clone bib entri misc type origin chang flag 
+clone bib entri book type field origin chang flag 
+set consist month 
+set consist capit month 
+set consist month string 
+month correct return month 
+month correct return capit month 
+month correct return month string 
+month correct return month 
+month field correct return month 
+field alia date year numer month string 
+field alia date year abbrevi month 
+field alia date year abbrevi month string 
+field alia date onli year 
+field alia year date yyyi 
+field alia year date yyyymm 
+field alia year date yyyymmdd 
+field alia month date yyyi return null 
+field alia month date yyyymm 
+field alia month date yyyymmdd 
+field alia latex free alreadi free valu unchang 
+field alia latex free alreadi free alia valu unchang 
+field alia latex free brace remov 
+field alia latex free brace remov alia 
+field alia latex free complex convers alia 
+test add link file list 
+replac link work 
+test empti keyword 
+test singl keyword 
+set cite key lead correct cite key 
+set cite key lead cite ky 
+clear field work author 
+set field work author 
+field present default 
+field present 
+null cite key throw npe 
+empti cite key 
+ident objectsar equal 
+compar null object fals 
+compar differ class fals 
+compar true id field equal 
+add null keyword throw npe 
+put null keyword list throw npe 
+put null keyword separ throw npe 
+test separ keyword correct 
+test add keyword correct 
+test add keyword chang 
+test add keyword yi onli 
+add keyword case sensit 
+test add keyword differ capit chang 
+test add keyword empti keyword ad 
+test add keyword empti keyword chang 
+tex bib entri keyword 
+tex bib entri keyword ad empti keyword 
+tex bib entri ad empti keyword chang 
+test add keyword work expect 
+test put keyword overwrit keyword 
+test put keyword chang 
+test put keyword put empi list eras previous keyword 
+test put keyword put empi list chang 
+test put keyword put empi list empti bibentri 
+test put keyword put empi list empti bibentri chang 
+put keyword empti return chang 
+clear keyword return chang 
+chang keyword return chang 
+put keyword return chang 
+keyword return pars keyword list keyword field 
+remov keyword entri keyword doe noth 
+remov keyword empti list doe noth 
+remov keyword exist keyword doe noth 
+remov keyword exist keyword remov 
+keyword list correct construct keyword 
+test empti resolv keyword 
+test singl resolv keyword 
+test resolv keyword 
+set titl field lead chang flag 
+builder return bib entri chang flag 
+merg entri overlap 
+merg entri overlap 
+merg entri overlap exist prioriti field 
+merg entri overlap exist prioriti field 
+merg entri overlap prioriti overlap field 
+merg entri overlap prioriti overlap field 
+

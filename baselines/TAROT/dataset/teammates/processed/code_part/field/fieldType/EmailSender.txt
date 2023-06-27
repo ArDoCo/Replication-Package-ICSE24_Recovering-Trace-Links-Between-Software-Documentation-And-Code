@@ -1,2 +1,0 @@
-logger 
-email sender 

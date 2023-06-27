@@ -1,0 +1,19 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep breakout room param dot java 
+record 
+privat chat enabl 
+captur note 
+captur slide 
+captur note filenam 
+captur slide filenam 
+
+
+record 
+privat chat enabl 
+captur note 
+captur slide 
+captur note filenam 
+captur slide filenam 
+
+
+breakout room param 
+

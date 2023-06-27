@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor action dot java 
+state manag 
+dialog servic 
+
+
+state manag 
+dialog servic 
+
+
+automat field editor action 
+execut 
+

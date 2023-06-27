@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib databas dot java 
+namespac 
+prefix 
+logger 
+entri 
+entri 
+
+
+databas 
+entri 
+reader 
+entri add 
+
+
+ms bib databas 
+ms bib databas 
+import entri xml 
+add entri export 
+dom export 
+

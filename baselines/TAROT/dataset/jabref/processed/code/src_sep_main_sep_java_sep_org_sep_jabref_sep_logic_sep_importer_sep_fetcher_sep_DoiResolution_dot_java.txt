@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep doi resolut dot java 
+logger 
+doi prefer 
+
+
+doi prefer 
+entri 
+html 
+html 
+base 
+url 
+
+
+doi resolut 
+find full text 
+citat meta tag 
+find embed link 
+find distinct link 
+trust level 
+

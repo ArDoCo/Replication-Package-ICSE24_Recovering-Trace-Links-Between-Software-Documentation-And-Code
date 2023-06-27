@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep model sep entri sep month dot java 
+full 
+short 
+digit number 
+number 
+
+
+full 
+short 
+number 
+number 
+short 
+valu 
+valu 
+
+
+month 
+month number 
+month short 
+pars 
+pars german short month 
+short 
+jab ref format 
+number 
+full 
+digit number 
+

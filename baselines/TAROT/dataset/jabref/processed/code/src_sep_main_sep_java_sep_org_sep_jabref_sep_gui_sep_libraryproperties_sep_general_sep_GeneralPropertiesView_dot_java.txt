@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep general sep general properti view dot java 
+encod 
+encod 
+databas mode 
+databas mode 
+general file directori 
+user specif file directori 
+la tex file directori 
+preambl 
+prefer servic 
+undo manag 
+
+
+databas context 
+
+
+general properti view 
+tab 
+initi 
+brows general file directori 
+brows user specif file directori 
+brows latex file directori 
+

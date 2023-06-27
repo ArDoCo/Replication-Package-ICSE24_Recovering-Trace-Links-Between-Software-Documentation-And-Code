@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep util sep coars chang filter dot java 
+context 
+event bus 
+field chang 
+field chang 
+entri chang 
+entri chang 
+total delta 
+
+
+bib databas context 
+event 
+listen 
+listen 
+
+
+coars chang filter 
+listen 
+regist listen 
+unregist listen 
+shutdown 
+

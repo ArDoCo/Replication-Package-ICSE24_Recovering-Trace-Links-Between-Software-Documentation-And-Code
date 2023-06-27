@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep journal editor dot java 
+view model 
+text field 
+
+
+field 
+journal abbrevi repositori 
+prefer 
+suggest provid 
+field checker 
+entri 
+
+
+journal editor 
+view model 
+bind entri 
+node 
+toggl abbrevi 
+

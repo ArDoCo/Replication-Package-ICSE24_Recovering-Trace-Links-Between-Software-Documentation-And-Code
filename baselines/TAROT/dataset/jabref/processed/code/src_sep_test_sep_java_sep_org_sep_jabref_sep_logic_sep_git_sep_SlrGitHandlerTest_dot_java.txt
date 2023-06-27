@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep git sep slr git handler test dot java 
+logger 
+repositori path 
+git handler 
+
+
+
+
+set git handler 
+calcul diff branch 
+calcul patch 
+appli patch 
+

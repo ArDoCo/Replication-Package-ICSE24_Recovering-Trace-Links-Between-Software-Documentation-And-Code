@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep layout sep format sep formatt prefer dot java 
+formatt key 
+formatt key 
+formatt valu 
+formatt valu 
+
+
+formatt key 
+formatt valu 
+list 
+list 
+
+
+formatt prefer 
+formatt key 
+formatt valu 
+set formatt key 
+set formatt valu 
+

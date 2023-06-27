@@ -1,0 +1,34 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep persist product dot java 
+id 
+
+descript 
+list price cent 
+categori 
+order item 
+order item 
+
+
+id 
+categori id 
+
+descript 
+list price cent 
+categori 
+
+
+clear cach 
+persist product 
+set id 
+id 
+categori id 
+set categori id 
+
+set 
+descript 
+set descript 
+list price cent 
+set list price cent 
+categori 
+set categori 
+order item 
+

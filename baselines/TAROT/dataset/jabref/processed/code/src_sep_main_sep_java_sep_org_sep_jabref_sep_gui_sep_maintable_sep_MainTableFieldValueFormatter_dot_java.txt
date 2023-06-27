@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl field valu formatt dot java 
+display style 
+abbrevi style 
+bib databas 
+
+
+display prefer 
+bib databas context 
+field 
+entri 
+format 
+
+
+main tabl field valu formatt 
+format field valu 
+format field author valu 
+

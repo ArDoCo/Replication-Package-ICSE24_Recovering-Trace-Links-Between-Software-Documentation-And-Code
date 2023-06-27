@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep logic sep sep local entri dot java 
+path 
+key 
+bundl 
+
+
+path 
+key 
+bundl 
+ 
+ 
+
+
+local entri 
+path 
+key 
+id 
+equal 
+hash code 
+bundl 
+string 
+compar 
+

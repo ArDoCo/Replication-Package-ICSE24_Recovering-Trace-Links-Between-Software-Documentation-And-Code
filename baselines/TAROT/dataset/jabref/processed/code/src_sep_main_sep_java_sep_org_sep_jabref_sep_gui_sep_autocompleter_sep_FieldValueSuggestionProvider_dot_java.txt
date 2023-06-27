@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep autocomplet sep field valu suggest provid dot java 
+field 
+databas 
+
+
+field 
+databas 
+
+
+field valu suggest provid 
+sourc 
+

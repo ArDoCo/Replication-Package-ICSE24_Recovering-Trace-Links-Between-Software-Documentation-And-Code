@@ -1,0 +1,27 @@
+src sep test sep java sep org sep jabref sep logic sep share sep dbms type test dot java 
+
+
+
+
+string correct mysql 
+string correct oracl 
+string correct postgr 
+string work sql 
+string work postgr sql 
+string work null string 
+string work empti string 
+string work unkown string 
+driver class mysql correct 
+driver class oracl correct 
+driver class postgr correct 
+string mysql return correct valu 
+string oracl rturn correct valu 
+string postgr return correct valu 
+string invalid string return option empti 
+url mysql correct format 
+url oracl correct format 
+url postgr correct format 
+default port mysql correct valu 
+default port oracl correct valu 
+default port postgr correct valu 
+

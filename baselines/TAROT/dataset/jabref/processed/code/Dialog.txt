@@ -1,7 +1,0 @@
-dialog 
-
-
-
-
-show wait 
-

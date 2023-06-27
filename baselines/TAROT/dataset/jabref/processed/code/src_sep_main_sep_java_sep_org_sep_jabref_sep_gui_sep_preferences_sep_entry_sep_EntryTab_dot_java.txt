@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entri sep entri tab dot java 
+keyword separ 
+mark owner 
+mark owner 
+mark owner overwrit 
+mark owner 
+add creation date 
+add modif date 
+key bind repositori 
+
+
+
+
+entri tab 
+initi 
+tab 
+

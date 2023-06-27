@@ -1,0 +1,35 @@
+implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep data sep current user dot java 
+serial version uid 
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+
+
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+id 
+firstnam 
+lastnam 
+email 
+password hash 
+
+
+current user 
+current user 
+id 
+set id 
+firstnam 
+set firstnam 
+lastnam 
+set lastnam 
+email 
+set email 
+password hash 
+set password hash 
+string 
+

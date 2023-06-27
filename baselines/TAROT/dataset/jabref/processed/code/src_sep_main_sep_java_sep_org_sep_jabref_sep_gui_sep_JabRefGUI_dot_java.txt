@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep jab ref gui dot java 
+logger 
+main frame 
+prefer servic 
+bib databas 
+bib databas 
+blank 
+correct window pos 
+fail 
+fail 
+open tab 
+open tab 
+
+
+main stage 
+databas 
+blank 
+prefer servic 
+main stage 
+main stage 
+main stage 
+
+
+jab ref gui 
+open window 
+open databas 
+save window state 
+debug log window state 
+window posit bound 
+open edit databas 
+main frame 
+

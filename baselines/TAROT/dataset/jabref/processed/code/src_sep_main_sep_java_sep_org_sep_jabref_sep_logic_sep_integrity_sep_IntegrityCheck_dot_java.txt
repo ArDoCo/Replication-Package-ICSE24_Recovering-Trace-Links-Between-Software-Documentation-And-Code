@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep integr sep integr check dot java 
+bib databas context 
+field checker 
+entri checker 
+entri checker 
+
+
+bib databas context 
+file prefer 
+citat key pattern prefer 
+journal abbrevi repositori 
+integ edit 
+entri 
+databas 
+
+
+integr check 
+check 
+check entri 
+check databas 
+

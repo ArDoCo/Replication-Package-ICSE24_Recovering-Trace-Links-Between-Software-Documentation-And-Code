@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep manag citat dialog view dot java 
+html bold tag 
+html bold start tag 
+oo base 
+citat tabl view 
+citat tabl view 
+citat 
+citat 
+extra info 
+extra info 
+dialog servic 
+view model 
+
+
+oo base 
+citat context 
+
+
+manag citat dialog view 
+initi 
+text 
+show dialog 
+

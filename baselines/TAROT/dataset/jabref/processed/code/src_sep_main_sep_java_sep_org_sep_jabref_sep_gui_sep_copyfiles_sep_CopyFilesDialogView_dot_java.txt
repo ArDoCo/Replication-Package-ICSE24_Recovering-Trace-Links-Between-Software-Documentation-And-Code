@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file dialog view dot java 
+tv result 
+tv result 
+col status 
+col status 
+col messag 
+col messag 
+col file 
+col file 
+view model 
+
+
+result 
+
+
+copi file dialog view 
+initi 
+setup tabl 
+

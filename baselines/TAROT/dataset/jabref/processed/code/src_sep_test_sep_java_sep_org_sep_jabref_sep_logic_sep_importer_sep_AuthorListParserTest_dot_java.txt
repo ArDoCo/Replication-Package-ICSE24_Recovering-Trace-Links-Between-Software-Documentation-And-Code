@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep import sep author list parser test dot java 
+parser 
+
+
+author string 
+author pars 
+expect 
+author string 
+
+
+pars singl author correct 
+pars singl author correct 
+pars multipl correct 
+pars multipl correct 
+

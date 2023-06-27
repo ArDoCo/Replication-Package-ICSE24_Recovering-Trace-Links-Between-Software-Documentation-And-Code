@@ -1,6 +1,0 @@
-bib entri 
-file prefer 
-file prefer 
-bib entri 
-compound 
-bib entri 

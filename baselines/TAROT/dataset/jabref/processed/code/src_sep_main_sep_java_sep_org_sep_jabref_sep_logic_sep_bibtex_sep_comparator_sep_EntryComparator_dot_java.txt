@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep entri compar dot java 
+sort field 
+descend 
+binari 
+
+
+
+
+binari 
+descend 
+field 
+
+binari 
+descend 
+field 
+ 
+ 
+ 
+ 
+
+
+entri compar 
+entri compar 
+compar 
+id compar 
+

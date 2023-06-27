@@ -1,7 +1,0 @@
-proxi authent 
-
-
-
-
-password authent 
-

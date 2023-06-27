@@ -1,0 +1,139 @@
+src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep bracket pattern dot java 
+logger 
+char 
+max alpha author 
+decim digit 
+capit charact 
+inlin abbrevi 
+depart 
+whitespac 
+univers 
+technolog institut 
+depart lab 
+pattern 
+
+
+part 
+pattern 
+bibentri 
+bibentri 
+databas 
+bibentri 
+keyword delimit 
+databas 
+pattern 
+keyword delimit 
+entri 
+databas 
+keyword delimit 
+entri 
+databas 
+pattern 
+bracket content handler 
+token 
+pattern 
+string builder 
+token 
+entri 
+pattern 
+keyword delimit 
+databas 
+unpars author 
+author 
+label 
+part 
+offset 
+expand bracket content 
+number 
+titl 
+titl 
+titl 
+titl 
+titl 
+titl 
+number 
+titl 
+
+author list 
+author list 
+author list 
+author list 
+author list 
+author list 
+author list 
+author list 
+max author 
+delimit 
+suffix 
+author list 
+ 
+author list 
+author list 
+author list 
+delim 
+append 
+author list 
+ 
+ 
+author list 
+num 
+author list 
+author list 
+ 
+page 
+page 
+page 
+arg 
+content 
+word 
+
+
+
+find type 
+bracket pattern 
+bracket pattern 
+string 
+expand 
+expand 
+expand 
+expand bracket 
+expand bracket content 
+expand bracket 
+content bracket 
+append quot 
+field valu 
+creat author list 
+institut 
+appli modifi 
+titl word 
+format titl 
+camel titl 
+camel titl 
+camel signific word titl 
+remov small word 
+titl word space 
+letter digit onli 
+author 
+author forenam initi 
+author von 
+author 
+author forenam initi 
+author 
+author alpha 
+join author 
+author 
+author initi 
+auth auth ea 
+auth etal 
+auth nof mth 
+auth 
+auth short 
+auth ini 
+page 
+page prefix 
+page 
+pars field modifi 
+generat institut key 
+institut key word 
+valid institut part 
+

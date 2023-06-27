@@ -1,0 +1,41 @@
+src sep main sep java sep org sep jabref sep model sep studi sep studi dot java 
+author 
+author 
+titl 
+research question 
+research question 
+queri 
+queri 
+databas 
+databas 
+
+
+author 
+titl 
+research question 
+queri entri 
+databas 
+author 
+queri 
+databas 
+titl 
+research question 
+
+
+
+studi 
+studi 
+author 
+set author 
+queri 
+set queri 
+databas 
+set databas 
+titl 
+set titl 
+research question 
+set research question 
+string 
+equal 
+hash code 
+

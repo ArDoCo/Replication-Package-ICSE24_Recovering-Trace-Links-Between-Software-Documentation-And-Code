@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep er defin field tab dot java 
+field 
+field 
+
+
+
+field 
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+task executor 
+journal abbrevi repositori 
+entri 
+
+
+er defin field tab 
+determin field show 
+

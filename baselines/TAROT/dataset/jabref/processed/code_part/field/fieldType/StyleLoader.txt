@@ -1,3 +1,0 @@
-open offic prefer 
-oo bib style 
-oo bib style 

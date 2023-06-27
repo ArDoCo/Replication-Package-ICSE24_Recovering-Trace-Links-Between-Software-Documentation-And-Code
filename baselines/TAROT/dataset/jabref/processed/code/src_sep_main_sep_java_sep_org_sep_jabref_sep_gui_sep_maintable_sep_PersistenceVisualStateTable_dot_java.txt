@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep persist visual state tabl dot java 
+tabl 
+tabl 
+prefer 
+
+
+tabl 
+prefer 
+
+
+persist visual state tabl 
+updat column 
+updat sort order 
+

@@ -1,0 +1,39 @@
+src sep main sep java sep org sep jabref sep gui sep documentview sep document viewer view model dot java 
+logger 
+state manag 
+prefer servic 
+current document 
+current document 
+file 
+file 
+live mode 
+current page 
+current page 
+max page 
+
+
+state manag 
+prefer servic 
+entri 
+entri 
+path 
+file 
+page number 
+
+
+document viewer view model 
+current page 
+current page properti 
+max page properti 
+live mode 
+current document properti 
+file properti 
+set current entri 
+set current entri 
+set current document 
+switch file 
+live mode properti 
+show page 
+show page 
+show previous page 
+

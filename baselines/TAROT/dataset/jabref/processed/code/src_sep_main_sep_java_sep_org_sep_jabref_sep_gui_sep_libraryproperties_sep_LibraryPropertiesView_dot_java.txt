@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep librari properti view dot java 
+tab pane 
+save button 
+theme manag 
+databas context 
+view model 
+
+
+databas context 
+
+
+librari properti view 
+initi 
+save prefer close dialog 
+

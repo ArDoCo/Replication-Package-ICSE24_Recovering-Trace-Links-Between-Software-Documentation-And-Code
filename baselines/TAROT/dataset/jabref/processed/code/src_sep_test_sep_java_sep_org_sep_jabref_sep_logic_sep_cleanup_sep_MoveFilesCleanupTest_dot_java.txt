@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep move file cleanup test dot java 
+default file folder 
+file befor 
+cleanup 
+entri 
+file prefer 
+databas context 
+
+
+bib folder 
+
+
+set 
+move file 
+move file mulitpl link 
+move file file dir pattern 
+doe move file empti file dir pattern 
+move file subdirectori pattern 
+move file directori 
+

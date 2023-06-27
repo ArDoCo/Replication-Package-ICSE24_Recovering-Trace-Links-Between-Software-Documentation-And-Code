@@ -1,0 +1,89 @@
+src sep main sep java sep teammat sep ui sep output sep feedback session data dot java 
+cours id 
+time zone 
+feedback session 
+instruct 
+submiss start timestamp 
+submiss timestamp 
+submiss extens timestamp 
+session visibl timestamp 
+result visibl timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+submiss status 
+publish status 
+close email enabl 
+publish email enabl 
+creat timestamp 
+delet timestamp 
+privileg 
+student deadlin 
+student deadlin 
+instructor deadlin 
+instructor deadlin 
+
+
+feedback session attribut 
+session visibl timestamp 
+result visibl timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+publish status 
+close email enabl 
+publish email enabl 
+timestamp 
+privileg 
+student deadlin 
+instructor deadlin 
+
+
+feedback session data 
+cours id 
+time zone 
+feedback session 
+instruct 
+submiss start timestamp 
+submiss timestamp 
+submiss extens timestamp 
+session visibl timestamp 
+result visibl timestamp 
+grace period 
+session visibl set 
+custom session visibl timestamp 
+respons visibl set 
+custom respons visibl timestamp 
+submiss status 
+publish status 
+close email enabl 
+publish email enabl 
+student deadlin 
+instructor deadlin 
+set session visibl timestamp 
+set result visibl timestamp 
+set grace period 
+set session visibl set 
+set custom session visibl timestamp 
+set respons visibl set 
+set custom respons visibl timestamp 
+set publish status 
+set close email enabl 
+set publish email enabl 
+creat timestamp 
+set creat timestamp 
+delet timestamp 
+privileg 
+set privileg 
+set student deadlin 
+set instructor deadlin 
+hide inform student 
+hide inform instructor 
+hide inform instructor submiss 
+hide session visibl timestamp 
+hide inform student instructor 
+

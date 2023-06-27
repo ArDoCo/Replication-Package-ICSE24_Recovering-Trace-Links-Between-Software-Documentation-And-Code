@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep logic sep git sep slr git handler dot java 
+
+
+repositori path 
+patch messag 
+search branch 
+sourc branch 
+patch 
+patch 
+
+
+slr git handler 
+append latest search result current branch 
+calcul patch search result 
+pars patch ad entri 
+appli patch 
+

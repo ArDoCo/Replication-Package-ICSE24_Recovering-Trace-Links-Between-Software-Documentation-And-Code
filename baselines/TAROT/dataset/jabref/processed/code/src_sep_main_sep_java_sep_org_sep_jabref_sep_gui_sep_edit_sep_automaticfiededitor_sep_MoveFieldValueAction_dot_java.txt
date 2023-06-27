@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep move field valu action dot java 
+field 
+field 
+entri 
+entri 
+edit 
+affect entri count 
+overwrit field content 
+
+
+field 
+field 
+entri 
+edit 
+overwrit field content 
+field 
+field 
+entri 
+edit 
+
+
+move field valu action 
+move field valu action 
+execut 
+execut affect entri count 
+

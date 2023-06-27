@@ -1,0 +1,64 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep multi merg entri view dot java 
+logger 
+left scroll pane 
+field header 
+top scroll pane 
+supplier header 
+center scroll pane 
+option grid 
+scroll pane 
+field editor 
+fail supplier 
+diff mode 
+diff mode 
+header toggl group 
+field row 
+field row 
+view model 
+task executor 
+prefer 
+content 
+toggl group 
+field editor cell 
+row index 
+field bind 
+field bind 
+
+
+prefer 
+task executor 
+entri sourc column 
+column 
+column index 
+entri sourc column 
+column index 
+sourc button 
+column 
+field 
+content 
+field 
+column index 
+titl 
+entri 
+titl 
+supplier 
+field 
+row index 
+field 
+
+
+multi merg entri view 
+initi 
+fill diff mode 
+add column 
+generat entri header 
+write bib entri column 
+setup sourc button action 
+multilin field 
+cell 
+content 
+add sourc 
+add sourc 
+field row 
+add row 
+

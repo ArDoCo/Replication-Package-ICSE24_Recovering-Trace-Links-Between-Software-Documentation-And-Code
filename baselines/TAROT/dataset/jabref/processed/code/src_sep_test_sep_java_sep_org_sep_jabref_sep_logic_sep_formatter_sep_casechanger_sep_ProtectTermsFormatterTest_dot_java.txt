@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep casechang sep protect term formatt test dot java 
+formatt 
+
+
+
+
+set 
+test singl word 
+test protect alreadi protect 
+test case sensit 
+format exampl 
+test correct order term 
+test 
+

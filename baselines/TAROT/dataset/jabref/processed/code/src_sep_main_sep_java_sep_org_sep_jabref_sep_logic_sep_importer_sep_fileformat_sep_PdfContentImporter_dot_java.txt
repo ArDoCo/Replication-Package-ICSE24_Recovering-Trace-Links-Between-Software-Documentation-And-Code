@@ -1,0 +1,40 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf content import dot java 
+year extract pattern 
+import format prefer 
+line 
+line index 
+cur string 
+year 
+
+
+import format prefer 
+input 
+
+titl 
+input 
+reader 
+data 
+file path 
+firstpag content 
+line separ 
+document 
+
+
+pdf content import 
+remov letter 
+streamlin 
+streamlin titl 
+recogn format 
+import databas 
+import databas 
+import databas 
+entri pdf content 
+page content 
+extract year 
+proceed empti line 
+fill cur string empti line 
+read block 
+
+file type 
+descript 
+

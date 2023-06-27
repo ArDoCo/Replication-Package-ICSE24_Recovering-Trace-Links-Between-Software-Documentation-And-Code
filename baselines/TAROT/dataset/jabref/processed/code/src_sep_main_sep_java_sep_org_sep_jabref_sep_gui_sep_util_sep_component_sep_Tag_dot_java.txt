@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep util sep compon sep tag dot java 
+valu 
+valu 
+tag remov consum 
+tag remov consum 
+text 
+
+
+string 
+string 
+valu 
+valu 
+event 
+tag remov consum 
+
+
+tag 
+tag 
+valu 
+set valu 
+valu properti 
+remov button click 
+set tag remov 
+

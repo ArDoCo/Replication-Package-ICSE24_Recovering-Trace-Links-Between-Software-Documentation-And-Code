@@ -1,0 +1,154 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep servic sep impl sep record servic file impl dot java 
+log 
+present id pattern 
+process dir 
+publish dir 
+unpublish dir 
+delet dir 
+record servic helper 
+xml servic 
+record status dir 
+dir 
+fetch record 
+present base dir 
+default server url 
+default text track url 
+
+
+pres file 
+dlownload file 
+msg 
+meet id 
+pres id 
+pres filenam 
+meet id 
+timestamp 
+meet id 
+meet id 
+record id 
+state 
+record id 
+
+token 
+record id 
+track 
+id list 
+state 
+metadata filter 
+offset 
+pageabl 
+dir 
+record 
+metadata filter 
+record 
+metadata filter 
+record id 
+record id 
+id list 
+path 
+path 
+format 
+rec 
+id 
+record 
+id 
+path 
+directori 
+directori 
+path 
+path 
+dir 
+dir 
+dir 
+url 
+url 
+dir 
+dir 
+fetch record 
+ 
+xml servic 
+state 
+type 
+record id 
+state 
+path 
+record id 
+state 
+dest dir 
+record id 
+record dir 
+format 
+dest dir 
+record id 
+record dir 
+format 
+dest dir 
+record id 
+record dir 
+format 
+state 
+state 
+record id 
+meta param 
+srx metadata xml 
+meta param 
+dest metadata xml 
+rec 
+state 
+state 
+forc default 
+
+
+copi present file 
+process present download msg 
+download present file 
+kick record chapter break 
+start ingest process 
+mark 
+record metadata 
+valid text track singl token 
+record text track 
+put record text track 
+record 
+record metadata 
+record match metadata 
+filter record metadata 
+record 
+record exist 
+exist ani record 
+record id 
+record id 
+record id 
+record path 
+delet record 
+creat directori 
+delet directori 
+directori 
+playback format 
+set record status dir 
+set unpublish dir 
+set present base dir 
+set default server url 
+set default text track url 
+set publish dir 
+set dir 
+set fetch record 
+set record servic helper 
+set xml servic 
+includ state 
+chang state 
+chang state 
+publish record 
+unpublish record 
+delet record 
+directori 
+directori 
+updat meta param 
+updat record metadata 
+index record 
+destin base directori 
+destin base directori 
+track inbox dir 
+dir 
+file url directori 
+

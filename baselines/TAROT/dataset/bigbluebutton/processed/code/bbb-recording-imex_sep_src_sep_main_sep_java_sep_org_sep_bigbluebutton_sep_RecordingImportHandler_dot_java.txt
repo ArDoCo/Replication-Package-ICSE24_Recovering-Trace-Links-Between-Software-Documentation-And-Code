@@ -1,0 +1,19 @@
+bbb record imex sep src sep main sep java sep org sep bigbluebutton sep record import handler dot java 
+logger 
+instanc 
+data store 
+xml servic 
+
+
+directori 
+persist 
+path 
+record id 
+persist 
+
+
+record import handler 
+instanc 
+import record 
+import record 
+

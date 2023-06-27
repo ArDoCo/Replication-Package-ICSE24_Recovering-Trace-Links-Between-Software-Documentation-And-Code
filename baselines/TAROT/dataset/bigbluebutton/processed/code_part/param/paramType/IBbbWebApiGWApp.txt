@@ -1,9 +1,0 @@
-breakout room param 
-lock set param 
-group 
-destroy meet messag 
-meet messag 
-publish record messag 
-unpublish record messag 
-delet record messag 
-doc convers msg 

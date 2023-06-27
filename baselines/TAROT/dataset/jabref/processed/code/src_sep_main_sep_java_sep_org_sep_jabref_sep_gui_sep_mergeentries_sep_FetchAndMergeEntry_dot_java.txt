@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep fetch merg entri dot java 
+support field 
+support field 
+logger 
+dialog servic 
+task executor 
+bib databas context 
+prefer servic 
+librari tab 
+
+
+librari tab 
+task executor 
+prefer servic 
+dialog servic 
+entri 
+entri 
+field 
+entri 
+field 
+origin entri 
+fetch entri 
+fetcher 
+bib entri prefer 
+entri 
+fetcher 
+
+
+fetch merg entri 
+fetch merg 
+fetch merg 
+fetch merg 
+show merg dialog 
+fetch merg 
+

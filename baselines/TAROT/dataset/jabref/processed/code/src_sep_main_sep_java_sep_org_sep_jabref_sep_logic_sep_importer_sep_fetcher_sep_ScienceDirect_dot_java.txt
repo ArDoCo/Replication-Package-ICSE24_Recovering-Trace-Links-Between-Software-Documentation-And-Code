@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep scienc direct dot java 
+logger 
+api url 
+api key 
+fetcher 
+import prefer 
+
+
+import prefer 
+entri 
+doi 
+
+
+scienc direct 
+find full text 
+trust level 
+url doi 
+
+api key 
+

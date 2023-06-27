@@ -1,8 +1,0 @@
-citat key pattern prefer 
-abstract citat key pattern 
-bib databas 
-citat key pattern prefer 
-bib entri 
-bib entri 
-bib entri 
-bib entri 

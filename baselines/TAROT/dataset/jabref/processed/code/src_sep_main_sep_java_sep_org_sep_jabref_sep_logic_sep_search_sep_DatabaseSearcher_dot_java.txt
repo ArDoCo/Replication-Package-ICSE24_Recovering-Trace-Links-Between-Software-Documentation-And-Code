@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep search sep databas searcher dot java 
+logger 
+queri 
+databas 
+
+
+queri 
+databas 
+
+
+databas searcher 
+match 
+

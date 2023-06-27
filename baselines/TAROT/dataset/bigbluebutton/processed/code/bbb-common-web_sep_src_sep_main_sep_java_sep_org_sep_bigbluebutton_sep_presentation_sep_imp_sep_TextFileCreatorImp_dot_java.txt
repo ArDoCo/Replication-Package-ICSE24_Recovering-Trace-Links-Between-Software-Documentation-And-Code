@@ -1,0 +1,18 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep text file creator imp dot java 
+log 
+
+
+pres 
+page 
+textfil dir 
+pres 
+page 
+present file 
+directori 
+
+
+creat text file 
+generat text file 
+determin textfil directori 
+clean directori 
+

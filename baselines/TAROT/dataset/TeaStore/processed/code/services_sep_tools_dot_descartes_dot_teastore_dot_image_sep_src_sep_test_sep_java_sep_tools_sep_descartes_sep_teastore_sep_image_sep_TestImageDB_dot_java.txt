@@ -1,0 +1,29 @@
+servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep test imag db dot java 
+product id 
+
+product imag id 
+product imag id larg 
+imag id 
+size 
+size larg 
+uut 
+mock product key 
+mock key 
+
+
+
+
+initi 
+test constructor 
+test constructor null 
+test imag id 
+test imag id null 
+test set imag map imag id 
+test imag id null 
+test imag size 
+test set imag map key null 
+test set imag map null 
+test set imag map product size null 
+test set imag map size null 
+test set imag map key size null 
+

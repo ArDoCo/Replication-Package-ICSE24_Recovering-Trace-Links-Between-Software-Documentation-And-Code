@@ -1,0 +1,49 @@
+src sep main sep java sep org sep jabref sep logic sep util sep version dot java 
+jabref download url 
+unknown version 
+version pattern 
+ci suffix pattern 
+jabref github releas 
+full version 
+major 
+minor 
+patch 
+develop stage 
+develop num 
+develop version 
+stabil 
+stage 
+
+
+version 
+version 
+avail version 
+version 
+
+stage 
+stabil 
+stage 
+stage 
+
+
+version 
+logger 
+pars 
+avail version 
+newer 
+updat 
+updat 
+full version 
+major 
+minor 
+patch 
+develop num 
+develop version 
+changelog url 
+equal 
+hash code 
+string 
+develop stage 
+pars 
+stabl 
+

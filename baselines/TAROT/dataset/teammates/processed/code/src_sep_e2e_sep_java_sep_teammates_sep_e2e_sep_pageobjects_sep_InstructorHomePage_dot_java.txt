@@ -1,0 +1,81 @@
+src sep sep java sep teammat sep sep pageobject sep instructor home page dot java 
+
+
+browser 
+cours tab index 
+cours 
+session 
+cours tab index 
+session index 
+session 
+expect num 
+cours tab index 
+session index 
+expect respons rate 
+cours tab index 
+session index 
+copi cours 
+session 
+cours tab index 
+session index 
+cours tab index 
+session index 
+cours tab index 
+session index 
+student 
+cours tab index 
+session index 
+cours tab index 
+session index 
+student 
+cours tab index 
+session index 
+cours tab index 
+session index 
+cours tab index 
+cours tab index 
+cours tab index 
+cours tab index 
+cours tab index 
+instant 
+time zone 
+session 
+cours tab index 
+session index 
+cours tab index 
+session index 
+copi fs modal 
+cours copi id 
+student email 
+
+
+instructor home page 
+expect page content 
+verifi cours tab detail 
+verifi session detail 
+verifi num cours 
+verifi respons rate 
+copi session 
+publish session result 
+unpublish session result 
+send remind email select student 
+send remind email submitt 
+resend result link 
+download result 
+delet session 
+archiv cours 
+delet cours 
+sort cours id 
+sort cours 
+sort cours creation date 
+num cours 
+cours tab 
+cours detail 
+session tabl 
+date string 
+expect session detail 
+respons rate 
+click copi button tabl 
+select cours copi modal 
+select student email 
+

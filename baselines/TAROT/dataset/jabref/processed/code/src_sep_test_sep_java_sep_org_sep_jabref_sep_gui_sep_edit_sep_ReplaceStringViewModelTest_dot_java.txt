@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep gui sep edit sep replac string view model test dot java 
+librari tab 
+view model 
+
+
+find string 
+replac string 
+field string 
+select onli 
+field replac 
+expect result 
+
+
+set 
+test replac 
+

@@ -1,0 +1,40 @@
+implement sep mediastor dot ejb dot mediaaccess sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep mediaaccess sep audio dot java 
+serial version uid 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+user id 
+
+
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+user id 
+
+
+audio 
+id 
+set id 
+album 
+set album 
+artist 
+set artist 
+bitrat 
+set bitrat 
+genr 
+set genr 
+releaseyear 
+set releaseyear 
+titl 
+set titl 
+user id 
+set user id 
+

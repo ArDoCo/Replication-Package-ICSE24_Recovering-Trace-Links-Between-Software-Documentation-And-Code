@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep search sep search result tabl data model dot java 
+entri filter 
+entri filter 
+entri sort 
+entri sort 
+field valu formatt 
+field valu formatt 
+display prefer 
+bib databas context 
+
+
+bib databas context 
+prefer servic 
+state manag 
+queri 
+entri 
+
+
+search result tabl data model 
+match search 
+entri filter sort 
+refresh 
+

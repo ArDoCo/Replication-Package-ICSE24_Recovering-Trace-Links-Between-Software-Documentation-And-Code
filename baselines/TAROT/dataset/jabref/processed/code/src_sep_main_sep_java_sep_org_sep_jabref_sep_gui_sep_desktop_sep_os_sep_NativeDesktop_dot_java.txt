@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep desktop sep os sep nativ desktop dot java 
+
+
+file path 
+file type 
+file path 
+applic 
+file 
+absolut path 
+dialog servic 
+program 
+directori 
+
+
+open file 
+open file applic 
+open folder select file 
+open consol 
+detect program path 
+applic directori 
+default file chooser directori 
+user directori 
+

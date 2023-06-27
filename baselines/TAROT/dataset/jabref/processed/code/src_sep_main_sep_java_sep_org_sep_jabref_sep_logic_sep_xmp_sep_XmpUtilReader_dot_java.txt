@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep xmp sep xmp util reader dot java 
+logger 
+start tag 
+tag 
+
+
+path 
+path 
+xmp prefer 
+document 
+path 
+
+
+xmp util reader 
+read raw xmp 
+read xmp 
+xmp metadata 
+load automat decrypt 
+

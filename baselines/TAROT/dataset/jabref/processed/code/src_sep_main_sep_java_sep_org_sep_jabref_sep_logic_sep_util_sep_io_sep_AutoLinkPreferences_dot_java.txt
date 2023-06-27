@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep logic sep util sep io sep auto link prefer dot java 
+citat key depend 
+citat key depend 
+regular express 
+auto pdfs 
+keyword separ 
+keyword separ 
+
+
+citat key depend 
+regular express 
+auto pdfs 
+keyword separ properti 
+citat key depend 
+regular express 
+auto pdfs 
+keyword separ 
+citat key depend 
+regular express 
+auto pdfs 
+
+
+auto link prefer 
+auto link prefer 
+citat key depend 
+citat key depend properti 
+set citat key depend 
+regular express 
+regular express properti 
+set regular express 
+auto pdfs 
+auto pdfs properti 
+set auto pdfs 
+keyword separ 
+

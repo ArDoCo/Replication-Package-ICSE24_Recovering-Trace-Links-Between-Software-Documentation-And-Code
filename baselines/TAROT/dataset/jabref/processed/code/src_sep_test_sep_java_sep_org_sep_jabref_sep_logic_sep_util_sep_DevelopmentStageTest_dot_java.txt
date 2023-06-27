@@ -1,0 +1,10 @@
+src sep test sep java sep org sep jabref sep logic sep util sep develop stage test dot java 
+
+
+
+
+check stabil order 
+pars stage 
+pars null 
+pars unknown string 
+

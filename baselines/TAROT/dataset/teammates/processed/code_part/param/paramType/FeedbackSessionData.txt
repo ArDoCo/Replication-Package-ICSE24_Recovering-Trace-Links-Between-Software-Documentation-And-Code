@@ -1,4 +1,0 @@
-session visibl set 
-respons visibl set 
-feedback session publish status 
-instructor permiss set 

@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep externalfiletyp sep extern file type dot java 
+
+
+
+
+
+extens 
+mime type 
+open applic 
+icon 
+field 
+string array 
+

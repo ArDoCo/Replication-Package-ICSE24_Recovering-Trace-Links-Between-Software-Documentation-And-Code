@@ -1,0 +1,11 @@
+src sep main sep java sep org sep jabref sep gui sep auximport sep aux parser result view model dot java 
+aux parser result 
+
+
+aux parser result 
+includ entri 
+
+
+aux parser result view model 
+inform 
+

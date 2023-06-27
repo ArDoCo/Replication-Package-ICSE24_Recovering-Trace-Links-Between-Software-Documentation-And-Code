@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep model sep entri sep identifi sep issn dot java 
+issn pattern 
+issn pattern nodash 
+issn string 
+
+
+issn string 
+
+
+issn 
+valid format 
+clean 
+clean issn 
+valid checksum 
+

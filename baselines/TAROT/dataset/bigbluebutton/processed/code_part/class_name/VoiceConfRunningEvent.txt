@@ -1,1 +1,0 @@
-voic conf run event 

@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep constant sep constant item model dot java 
+number 
+label properti 
+content properti 
+label valid 
+content valid 
+combin valid 
+
+
+label 
+content 
+label 
+content 
+input 
+input 
+
+
+constant item model 
+label valid 
+content valid 
+combin valid valid properti 
+label properti 
+content properti 
+set label 
+set content 
+valid label 
+valid content 
+

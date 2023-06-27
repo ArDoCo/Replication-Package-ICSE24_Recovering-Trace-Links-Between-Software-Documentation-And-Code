@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep export sep export clipboard action dot java 
+logger 
+support filetyp 
+support filetyp 
+dialog servic 
+entri 
+entri 
+clip board manag 
+task executor 
+prefer 
+state manag 
+
+
+dialog servic 
+state manag 
+clip board manag 
+task executor 
+prefer servic 
+export 
+result 
+content 
+file type 
+
+
+export clipboard action 
+execut 
+export clipboard 
+set content clipboard 
+export result 
+

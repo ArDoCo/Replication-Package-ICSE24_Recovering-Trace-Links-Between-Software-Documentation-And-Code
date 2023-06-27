@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep layout sep format sep xml char dot java 
+xml char 
+ascii xml char 
+ascii xml char 
+forc replac 
+
+
+field text 
+field text 
+ 
+format 
+
+
+format 
+remov latex command 
+format 
+rest format 
+

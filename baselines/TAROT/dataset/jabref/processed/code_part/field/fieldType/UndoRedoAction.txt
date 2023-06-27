@@ -1,3 +1,0 @@
-standard action 
-jab ref frame 
-dialog servic 

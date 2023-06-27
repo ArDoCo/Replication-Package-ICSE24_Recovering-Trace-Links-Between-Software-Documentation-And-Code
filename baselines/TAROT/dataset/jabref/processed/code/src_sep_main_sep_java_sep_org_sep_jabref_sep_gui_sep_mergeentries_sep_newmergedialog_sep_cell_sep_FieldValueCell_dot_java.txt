@@ -1,0 +1,38 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep field valu cell dot java 
+logger 
+default style class 
+select box style class 
+select pseudo class 
+label 
+factori 
+scroll pane 
+scroll pane 
+label box 
+select box 
+action 
+view model 
+
+
+text 
+row index 
+toggl group 
+select 
+
+
+field valu cell 
+initi 
+initi label 
+initi action 
+initi select box 
+creat copi button 
+creat open link button 
+initi scroll pane 
+prevent text select mous event 
+toggl group 
+set toggl group 
+toggl group properti 
+select 
+set select 
+select properti 
+style class label 
+

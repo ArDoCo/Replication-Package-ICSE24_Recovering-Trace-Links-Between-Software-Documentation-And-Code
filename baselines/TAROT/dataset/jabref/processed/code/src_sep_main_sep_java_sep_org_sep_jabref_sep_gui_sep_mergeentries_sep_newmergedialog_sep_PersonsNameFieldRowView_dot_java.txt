@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep person field row view dot java 
+left entri 
+entri 
+
+
+field 
+left entri 
+entri 
+merg entri 
+field merger factori 
+row index 
+
+
+person field row view 
+show person info 
+

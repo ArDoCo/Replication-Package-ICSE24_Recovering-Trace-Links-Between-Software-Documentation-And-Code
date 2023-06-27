@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep model sep databas sep bib databas context test dot java 
+current work dir 
+file dir pref 
+
+
+
+
+set 
+file directori empti db parent 
+file directori relat db parent 
+file directori relat dot db parent 
+file directori absolut db parent 
+file directori relat metadata 
+file directori metadata 
+user file directori empti 
+test type base default biblatex 
+test type base default bibtex 
+test type base infer mode biblatex 
+test full text index path path null 
+test full text index path path null 
+

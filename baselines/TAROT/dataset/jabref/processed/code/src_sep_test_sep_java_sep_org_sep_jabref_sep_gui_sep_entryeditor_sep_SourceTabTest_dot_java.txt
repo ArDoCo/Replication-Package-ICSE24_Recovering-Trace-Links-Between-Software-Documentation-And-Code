@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep gui sep entryeditor sep sourc tab test dot java 
+stage 
+scene 
+area 
+pane 
+sourc tab 
+
+
+stage 
+robot 
+
+
+start 
+switch sourc tab doe throw 
+

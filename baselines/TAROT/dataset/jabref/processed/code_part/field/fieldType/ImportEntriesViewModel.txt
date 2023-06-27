@@ -1,5 +1,0 @@
-task executor 
-dialog servic 
-file updat monitor 
-bib entri 
-bib entri type manag 

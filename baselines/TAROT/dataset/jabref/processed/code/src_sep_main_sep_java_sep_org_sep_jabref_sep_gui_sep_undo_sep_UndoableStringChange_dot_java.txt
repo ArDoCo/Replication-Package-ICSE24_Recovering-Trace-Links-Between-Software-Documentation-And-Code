@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep undo sep undoabl string chang dot java 
+string 
+valu 
+valu 
+chang 
+
+
+string 
+chang 
+valu 
+valu 
+
+
+undoabl string chang 
+present 
+undo 
+redo 
+

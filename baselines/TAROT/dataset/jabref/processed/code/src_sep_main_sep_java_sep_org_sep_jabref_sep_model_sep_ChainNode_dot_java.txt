@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep model sep chain node dot java 
+parent 
+child 
+
+
+deriv class 
+parent 
+child 
+target 
+anoth node 
+node 
+
+
+chain node 
+parent 
+set parent 
+child 
+set child 
+move 
+remov child 
+ancestor 
+add 
+

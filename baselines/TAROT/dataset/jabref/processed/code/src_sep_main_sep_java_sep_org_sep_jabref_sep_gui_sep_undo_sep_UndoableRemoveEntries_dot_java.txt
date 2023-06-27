@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep undo sep undoabl remov entri dot java 
+logger 
+base 
+entri 
+entri 
+cut 
+
+
+base 
+entri 
+base 
+entri 
+base 
+entri 
+cut 
+
+
+undoabl remov entri 
+undoabl remov entri 
+undoabl remov entri 
+present 
+undo 
+redo 
+

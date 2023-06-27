@@ -1,0 +1,32 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep persist user dot java 
+id 
+user 
+password 
+real 
+email 
+order 
+order 
+
+
+id 
+user 
+password 
+real 
+email 
+
+
+delet order 
+clear cach 
+persist user 
+id 
+set id 
+user 
+set user 
+password 
+set password 
+real 
+set real 
+email 
+set email 
+order 
+

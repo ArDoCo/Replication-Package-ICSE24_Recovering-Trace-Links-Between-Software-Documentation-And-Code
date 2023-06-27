@@ -1,0 +1,452 @@
+src sep main sep java sep org sep jabref sep prefer sep jab ref prefer dot java 
+push emac path 
+push emac addit paramet 
+push lyxpip 
+push texstudio path 
+push winedt path 
+push texmak path 
+push vim server 
+push vim 
+extern file type 
+fx theme 
+languag 
+onli 
+abbr author 
+natbib 
+
+biblatex default mode 
+
+entri editor height 
+auto resiz mode 
+window maximis 
+reformat file save export 
+export origin order 
+export specifi order 
+export primari sort field 
+export primari sort descend 
+export secondari sort field 
+export secondari sort descend 
+export tertiari sort field 
+export tertiari sort descend 
+newlin 
+column 
+column width 
+column sort type 
+column sort order 
+search dialog column width 
+search dialog column sort type 
+search dialog column sort order 
+side pane compon prefer posit 
+side pane compon 
+xmp privaci filter 
+xmp privaci filter 
+default show sourc 
+size 
+size 
+pos 
+pos 
+edit 
+open edit 
+focus 
+auto open form 
+import work directori 
+export 
+export work directori 
+work directori 
+keyword separ 
+auto assign group 
+display group count 
+extra file column 
+overrid default font size 
+main font size 
+databas 
+memori stick mode 
+show advanc hint 
+default encod 
+base doi uri 
+custom doi uri 
+fetcher custom key 
+fetcher custom key 
+fetcher custom key 
+owner 
+default owner 
+overwrit owner 
+updat timestamp 
+time stamp field 
+time stamp format 
+add creation date 
+add modif date 
+warn duplic inspect 
+wrappabl field 
+resolv string field 
+resolv string 
+merg entri diff mode 
+merg entri show diff 
+merg entri show unifi diff 
+merg entri highlight word 
+merg show onli chang field 
+custom export format 
+custom import format 
+key pattern regex 
+key pattern replac 
+consol command 
+default consol applic 
+default file browser applic 
+file browser command 
+main file directori 
+search display mode 
+search case sensit 
+search reg exp 
+search fulltext 
+search search string 
+search global window top 
+search window height 
+search window width 
+generat key import 
+grobid enabl 
+grobid opt 
+grobid url 
+default citat key pattern 
+unwant citat key charact 
+confirm delet 
+warn befor overwrit key 
+avoid overwrit key 
+autolink exact key onli 
+side pane width 
+cite command 
+generat key befor save 
+email subject 
+open folder attach file 
+key gen alway add letter 
+key gen letter 
+integ edit bibtex 
+local auto save 
+autolink reg exp search express key 
+autolink reg exp search key 
+store relat bib 
+select fetcher index 
+web search visibl 
+group sidepan visibl 
+custom tab 
+custom tab field 
+auto pdfs 
+cleanup job 
+cleanup field formatt enabl 
+cleanup field formatt 
+import filenamepattern 
+import filedirpattern 
+formatt valu 
+format key 
+push applic 
+show recommend 
+accept recommend 
+show latex citat 
+send languag data 
+send os data 
+send timezon data 
+valid entri editor 
+oo execut path 
+oo show panel 
+oo sync cite 
+oo open base 
+oo bibliographi style file 
+oo extern style file 
+specialfieldsen 
+citat key pattern node 
+custom bibtex type 
+custom biblatex type 
+version ignor updat 
+bind 
+autocomplet complet field 
+id entri generat 
+stringlist delimit 
+font famili 
+preview style 
+cycl preview pos 
+cycl preview 
+preview tab 
+proxi port 
+proxi hostnam 
+proxi 
+proxi usernam 
+proxi password 
+proxi authent 
+truststor path 
+auto complet 
+autocomplet firstnam mode 
+autocomplet 
+autocomplet 
+bind 
+user id 
+extern journal list 
+fjournal 
+collect telemetri 
+alreadi collect telemetri 
+protect term enabl extern 
+protect term disabl extern 
+protect term enabl intern 
+protect term disabl intern 
+group intersect union view mode 
+default hierarch context 
+pref export path 
+download link file 
+fulltext index link file 
+user home 
+export index 
+export filenam index 
+export extens index 
+remot server 
+remot server port 
+logger 
+pref node 
+singleton 
+default 
+default 
+pref 
+entri editor tab list 
+entri editor tab list 
+user 
+general prefer 
+telemetri prefer 
+doi prefer 
+owner prefer 
+timestamp prefer 
+preview prefer 
+open offic prefer 
+side pane prefer 
+prefer 
+import prefer 
+grobid prefer 
+protect term prefer 
+dlib prefer 
+entri editor prefer 
+file prefer 
+gui prefer 
+remot prefer 
+proxi prefer 
+ssl prefer 
+search prefer 
+auto link prefer 
+import export prefer 
+formatt prefer 
+bib entri prefer 
+intern prefer 
+special field prefer 
+group prefer 
+xmp prefer 
+auto complet prefer 
+cleanup prefer 
+push applic prefer 
+extern applic prefer 
+citat key pattern prefer 
+display prefer 
+main tabl prefer 
+main tabl column prefer 
+search dialog column prefer 
+journal abbrevi prefer 
+field prefer 
+
+
+valu 
+convert 
+data 
+key 
+key 
+key 
+key 
+def 
+key 
+key 
+def 
+key 
+key 
+key 
+key 
+key 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+valu 
+key 
+key 
+valu 
+key 
+key 
+default valu 
+key 
+pref 
+result 
+pref 
+key 
+key 
+prefix 
+number 
+path 
+file 
+repositori 
+key bind repositori 
+preview style 
+bib databas mode 
+mode 
+entri type manag 
+bib entri type 
+bib databas mode 
+mode 
+custom tab 
+pattern 
+column list 
+column width list 
+sort type list 
+default width 
+sort order list 
+tabl column 
+column prefer 
+column prefer 
+column prefer 
+column prefer 
+save order 
+abbrevi repositori 
+export 
+style 
+layout 
+visibl pane 
+prefer posit 
+histori 
+import 
+fetcher api key 
+
+
+jab ref prefer 
+instanc 
+convert list string 
+convert string list 
+unit 
+set languag depend default valu 
+key 
+
+option 
+
+boolean 
+boolean 
+boolean default 
+int 
+doubl 
+int default 
+doubl default 
+put 
+put boolean 
+put int 
+put int 
+put doubl 
+remov 
+put string list 
+string list 
+path 
+clear 
+clear truststor custom certif 
+delet key 
+flush 
+prefer 
+default 
+add pref recurs 
+object 
+seri 
+purg seri 
+export prefer 
+import prefer 
+layout formatt prefer 
+journal abbrevi prefer 
+key bind repositori 
+store key bind repositori 
+preview style 
+set preview style 
+custom entri type repositori 
+bib entri type 
+clear bib entri type 
+clear bib entri type 
+store custom entri type repositori 
+store bib entri type 
+pref node custom entri type 
+open offic prefer 
+general prefer 
+languag 
+telemetri prefer 
+telemetri user id 
+doi prefer 
+owner prefer 
+timestamp prefer 
+group prefer 
+entri editor tab list 
+updat entri editor tab list 
+store entri editor tab list 
+default tab field 
+default tab field 
+entri editor prefer 
+remot prefer 
+proxi prefer 
+ssl prefer 
+global citat key pattern 
+store global citat key pattern 
+clear citat key pattern 
+citat key pattern prefer 
+push applic prefer 
+extern applic prefer 
+main tabl prefer 
+main tabl column prefer 
+search dialog column prefer 
+column 
+column sort order 
+column string list 
+column width string list 
+column sort type string list 
+column sort order string list 
+display prefer 
+bib entri prefer 
+intern prefer 
+user 
+prefer 
+import format prefer 
+field prefer 
+file prefer 
+auto link prefer 
+import export prefer 
+export save order 
+store export save order 
+load tabl save order 
+export configur 
+custom export format 
+store custom export format 
+preview prefer 
+preview layout 
+preview cycl posit 
+side pane prefer 
+visibl side pane 
+store visibl side pane 
+side pane prefer posit 
+store side pane prefer posit 
+cleanup prefer 
+default cleanup preset 
+default cleanup job 
+gui prefer 
+file histori 
+store file histori 
+search prefer 
+xmp prefer 
+formatt prefer 
+auto complet prefer 
+special field prefer 
+dlib prefer 
+protect term prefer 
+import prefer 
+custom import format 
+store custom import format 
+fetcher key 
+store fetcher key 
+grobid prefer 
+

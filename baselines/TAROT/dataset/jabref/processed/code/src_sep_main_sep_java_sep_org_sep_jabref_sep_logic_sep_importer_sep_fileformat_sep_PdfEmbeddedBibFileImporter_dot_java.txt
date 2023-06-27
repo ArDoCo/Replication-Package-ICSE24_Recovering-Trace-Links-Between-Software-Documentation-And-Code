@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf embed bib file import dot java 
+import format prefer 
+bibtex parser 
+
+
+import format prefer 
+input 
+reader 
+data 
+file path 
+document 
+
+embed file 
+file spec 
+
+
+pdf embed bib file import 
+recogn format 
+import databas 
+import databas 
+import databas 
+embed bib file entri 
+extract pars file 
+extract pars file 
+embed file 
+
+file type 
+descript 
+

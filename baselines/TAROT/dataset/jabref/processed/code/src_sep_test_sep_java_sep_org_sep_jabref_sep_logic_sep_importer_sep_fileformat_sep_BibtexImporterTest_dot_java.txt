@@ -1,0 +1,27 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep bibtex import test dot java 
+import 
+
+
+charset 
+file 
+filenam 
+filenam 
+filenam 
+
+
+set 
+test recogn format 
+test import entri 
+test format 
+test extens 
+test descript 
+test recogn databas id 
+test pars encod file header 
+test pars encod file header 
+test pars window encod file read degre charact correct 
+test pars utf encod file read umlaut charact correct 
+test pars utf encod file read umlaut charact correct 
+encod suppli 
+wrong encod suppli 
+encod suppli 
+

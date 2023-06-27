@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep gui sep preview sep copi citat action dot java 
+logger 
+select entri 
+select entri 
+preview layout 
+custom preview layout 
+output format 
+state manag 
+dialog servic 
+clip board manag 
+task executor 
+
+
+output format 
+dialog servic 
+state manag 
+clip board manag 
+task executor 
+preview prefer 
+citat 
+citat 
+citat 
+citat 
+
+
+copi citat action 
+execut 
+generat citat 
+generat text base preview layout citat 
+process preview 
+process text 
+process html 
+set clip board content 
+

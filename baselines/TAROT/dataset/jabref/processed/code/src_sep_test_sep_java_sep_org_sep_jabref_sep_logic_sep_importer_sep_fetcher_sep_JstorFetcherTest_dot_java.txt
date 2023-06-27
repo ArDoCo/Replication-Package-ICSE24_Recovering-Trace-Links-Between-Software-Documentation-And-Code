@@ -1,0 +1,19 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep tor fetcher test dot java 
+fetcher 
+bib entri 
+doi entri 
+
+
+
+
+search titl 
+search id 
+search url id 
+fetch pdf 
+fetcher 
+test author 
+test journal 
+support year rang search 
+support journal search 
+support year search 
+

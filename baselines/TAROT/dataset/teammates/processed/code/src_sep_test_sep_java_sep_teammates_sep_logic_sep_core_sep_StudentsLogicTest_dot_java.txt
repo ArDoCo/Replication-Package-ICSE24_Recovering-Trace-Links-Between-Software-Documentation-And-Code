@@ -1,0 +1,39 @@
+src sep test sep java sep teammat sep logic sep core sep student logic test dot java 
+account logic 
+student logic 
+cours logic 
+fr logic 
+fq logic 
+fs logic 
+
+
+
+
+prepar test data 
+refresh test data 
+test 
+test valid section 
+test updat student cascad 
+test updat student cascad email chang updat student deadlin map 
+test updat student cascad team chang delet respons team 
+test regener student registr key 
+test student email 
+test student registr key 
+test student googl id 
+test student cours id googl id 
+test number student cours 
+test student cours 
+test verifi student exist cours 
+test student ani cours 
+test student team 
+test student team 
+test delet student cascad person team delet team respons 
+test delet student cascad select deadlin delet deadlin 
+test delet student cascad 
+test delet student googl id cascad typic case cascad delet 
+test delet student googl id cascad exist googl id pass 
+test delet student cours cascad typic case cascad delet 
+test delet student cours id delet student 
+test delet student cours cascad exist cours pass 
+class tear 
+

@@ -1,3 +1,0 @@
-bib entri 
-main tabl field valu formatt 
-special field 

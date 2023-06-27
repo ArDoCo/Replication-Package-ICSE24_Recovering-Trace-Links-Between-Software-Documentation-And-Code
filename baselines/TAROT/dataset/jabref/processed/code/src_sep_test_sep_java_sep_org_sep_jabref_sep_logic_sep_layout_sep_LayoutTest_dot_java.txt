@@ -1,0 +1,26 @@
+src sep test sep java sep org sep jabref sep logic sep layout sep layout test dot java 
+layout formatt prefer 
+
+
+layout 
+file dir databas 
+entri 
+layout 
+entri 
+
+
+set 
+layout 
+layout 
+entri type unknown 
+entri type articl 
+entri type misc 
+html char 
+html char doubl line break 
+formatt 
+html char dotless tile 
+condit 
+wrap file link expand file 
+expand command termin 
+custom formatt 
+

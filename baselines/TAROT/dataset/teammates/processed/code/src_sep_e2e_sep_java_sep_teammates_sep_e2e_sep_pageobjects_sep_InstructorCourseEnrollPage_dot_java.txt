@@ -1,0 +1,43 @@
+src sep sep java sep teammat sep sep pageobject sep instructor cours enrol page dot java 
+spreadsheet num start row 
+num enrol attribut 
+enrol header 
+toggl exist student header 
+exist student tabl 
+enrol spreadsheet 
+enrol button 
+result panel 
+add row button 
+add row input 
+
+
+browser 
+cours id 
+num row 
+ad num row 
+student data 
+expect student 
+expect student 
+expect modifi student 
+expect modifi chang student 
+expect error student 
+expect unmodifi student 
+expect student data 
+student data 
+
+
+instructor cours enrol page 
+expect page content 
+verifi correct page 
+click toggl exist student header 
+click enrol button 
+click add button 
+add enrol spreadsheet row 
+verifi num ad enrol spreadsheet row 
+enrol 
+verifi exist student tabl 
+verifi result panel 
+fill enrol spreadsheet 
+enrol spreadsheet cell 
+enrol data 
+

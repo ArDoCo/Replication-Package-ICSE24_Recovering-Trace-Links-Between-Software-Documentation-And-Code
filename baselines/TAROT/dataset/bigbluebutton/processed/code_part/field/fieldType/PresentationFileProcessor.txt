@@ -1,9 +1,0 @@
-page extractor 
-text file creator 
-svg imag creator 
-png creator 
-slide generat progress notifi 
-page counter servic 
-imag slide generat servic 
-pdf slide generat servic 
-upload present 

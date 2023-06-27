@@ -1,0 +1,19 @@
+src sep test sep java sep org sep jabref sep gui sep mergeentri sep merg view model test dot java 
+view model 
+left entri 
+entri 
+visibl field 
+visibl field 
+
+
+field 
+
+
+setup 
+visibl field return sort list field entri type head list 
+visibl field duplic 
+visibl field entri type field head list 
+visibl field intern field left entri 
+visibl field includ custom field 
+intern field 
+

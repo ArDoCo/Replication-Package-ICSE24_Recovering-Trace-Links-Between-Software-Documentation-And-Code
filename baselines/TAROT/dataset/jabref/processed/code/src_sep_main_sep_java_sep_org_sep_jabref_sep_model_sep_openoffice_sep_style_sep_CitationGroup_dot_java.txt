@@ -1,0 +1,39 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep style sep citat group dot java 
+data model 
+group id 
+citat type 
+citat storag order 
+citat storag order 
+refer mark link 
+refer mark link 
+local order 
+local order 
+index global order 
+index global order 
+citat marker 
+citat marker 
+
+
+data model 
+group id 
+citat type 
+citat storag order 
+refer mark link 
+entri compar 
+index global order 
+refer mark link 
+citat marker 
+
+
+citat group 
+number citat 
+impos local order 
+local order 
+citat local order 
+set index global order 
+index global order 
+refer mark link 
+set refer mark link 
+set citat marker 
+citat marker 
+

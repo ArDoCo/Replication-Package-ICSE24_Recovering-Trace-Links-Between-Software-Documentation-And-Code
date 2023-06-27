@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep casechang sep titl parser dot java 
+buffer 
+word start 
+
+
+titl 
+protect 
+titl 
+
+
+pars 
+creat word 
+reset 
+determin protect char 
+

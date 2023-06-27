@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep import sep web fetcher test dot java 
+logger 
+ignor inaccess fetcher 
+ignor inaccess fetcher 
+import format prefer 
+import prefer 
+class graph 
+
+
+object 
+
+
+set 
+ignor inaccess class 
+id base fetcher return fetcher deriv id base fetcher 
+entri base fetcher return fetcher deriv entri base fetcher 
+search base fetcher return fetcher deriv search base fetcher 
+full text fetcher return fetcher deriv full text fetcher 
+id fetcher return fetcher deriv id fetcher 
+class 
+

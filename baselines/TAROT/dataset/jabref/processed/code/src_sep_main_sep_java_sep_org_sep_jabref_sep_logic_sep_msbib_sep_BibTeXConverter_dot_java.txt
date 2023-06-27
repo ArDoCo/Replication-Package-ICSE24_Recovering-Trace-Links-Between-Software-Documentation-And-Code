@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep msbib sep bib te convert dot java 
+msbib prefix 
+
+
+entri 
+map 
+field 
+author 
+type 
+field 
+standard num 
+map 
+standard num 
+map 
+
+
+bib te convert 
+convert 
+add author 
+pars singl standard number 
+pars standard number 
+

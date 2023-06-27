@@ -1,2 +1,0 @@
-session visibl set 
-respons visibl set 

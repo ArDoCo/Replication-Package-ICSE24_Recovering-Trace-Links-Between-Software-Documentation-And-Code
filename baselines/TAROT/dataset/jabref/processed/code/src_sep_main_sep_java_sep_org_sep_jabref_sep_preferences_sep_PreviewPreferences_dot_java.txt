@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep prefer sep preview prefer dot java 
+layout cycl 
+layout cycl 
+layout cycl posit 
+custom preview layout 
+custom preview layout 
+default custom preview layout 
+show preview extra tab 
+
+
+layout cycl 
+layout cycl posit 
+custom preview layout 
+default custom preview layout 
+show preview extra tab 
+posit 
+layout 
+show preview extra tab 
+
+
+preview prefer 
+layout cycl 
+layout cycl posit 
+layout cycl posit properti 
+set layout cycl posit 
+select preview layout 
+custom preview layout 
+custom preview layout properti 
+set custom preview layout 
+default custom preview layout 
+show preview extra tab 
+show preview extra tab properti 
+set show preview extra tab 
+

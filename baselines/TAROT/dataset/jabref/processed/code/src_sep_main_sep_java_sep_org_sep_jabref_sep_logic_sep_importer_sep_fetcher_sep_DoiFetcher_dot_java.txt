@@ -1,0 +1,38 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep doi fetcher dot java 
+
+ap journal org doi id 
+ap suffix 
+ap suffix pattern 
+logger 
+data cite dcn rate limit 
+crossref dcn rate limit 
+prefer 
+
+
+prefer 
+identifi 
+identifi 
+identifi 
+entri 
+exist connect 
+entri 
+doi 
+entri 
+doi string 
+entri 
+doi string 
+
+
+doi fetcher 
+
+page 
+api limit 
+async perform search id 
+perform search id 
+post cleanup 
+updat crossref api rate 
+perform search 
+agenc 
+set page count articl id 
+ap journal 
+

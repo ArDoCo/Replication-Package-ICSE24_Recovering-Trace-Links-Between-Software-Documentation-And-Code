@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep journal abbrevi list checker test dot java 
+checker 
+checkerb 
+abbrevi repositori 
+entri 
+
+
+
+
+set 
+journal accept list 
+journal doe accept list 
+journal titl doe accept random input titl 
+journal doe accept random input titl 
+

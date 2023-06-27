@@ -1,0 +1,42 @@
+src sep main sep java sep org sep jabref sep logic sep xmp sep xmp util writer dot java 
+xmp tag 
+logger 
+unprotect term formatt 
+xmp prefer 
+
+
+xmp prefer 
+file 
+entri 
+databas 
+dc schema 
+entri 
+databas 
+dc schema 
+entri 
+document 
+entri 
+databas 
+entri 
+entri 
+document 
+entri 
+databas 
+path 
+bibtex entri 
+databas 
+default entri 
+databas 
+
+
+xmp util writer 
+write xmp 
+write dc schema 
+write dc schema 
+write dublin core 
+generat xmp string xmp declar 
+generat xmp string xmp declar 
+write document inform 
+write xmp 
+default databas entri 
+

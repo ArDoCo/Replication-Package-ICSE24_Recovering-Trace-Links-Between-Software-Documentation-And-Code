@@ -1,0 +1,73 @@
+servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep setup sep setup control dot java 
+std work dir 
+persist creation max wait time 
+persist creation wait time 
+persist creation wait time 
+creation thread pool size 
+creation thread pool wait 
+creation thread pool wait img nr 
+storag rule 
+cach rule 
+work dir 
+cach size 
+storag mode 
+cach mode 
+nr imag generat 
+nr imag exist 
+nr imag categori 
+nr imag generat 
+categori imag 
+categori imag 
+img db 
+storag 
+storag 
+cach 
+cach 
+img creation pool 
+log 
+finish 
+
+
+categori 
+product 
+product 
+categori 
+product 
+categori imag 
+resourc 
+db 
+cach size 
+imag 
+termin 
+wait time 
+
+
+setup control 
+wait persist 
+fetch product categori 
+fetch categori 
+convert id 
+match categori imag 
+generat imag 
+generat imag 
+detect categori imag 
+creat work dir 
+path resourc 
+detect exist imag 
+detect exist imag 
+set cach size 
+delet imag 
+delet unus imag 
+delet work dir 
+setup storag 
+configur imag provid 
+work dir 
+finish 
+state 
+wait stop imag creation 
+imag provid 
+teardown 
+startup 
+reconfigur 
+run 
+

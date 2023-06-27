@@ -1,0 +1,87 @@
+src sep main sep java sep org sep jabref sep logic sep databas sep duplic check dot java 
+duplic threshold 
+logger 
+equal 
+equal 
+empti 
+empti 
+empti 
+doubt rang 
+requir weight 
+field weight 
+field weight 
+entri type manag 
+
+
+entri type manag 
+
+
+
+
+
+
+
+
+type 
+
+
+valu 
+type 
+
+
+req 
+field 
+
+
+field 
+
+
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+string 
+
+
+
+
+field 
+ 
+ 
+
+
+
+
+bib databas mode 
+databas 
+entri 
+bib databas mode 
+
+
+duplic check 
+identifi 
+differ entri type 
+differ edit 
+differ chapter page book 
+compar requir field 
+threshold 
+compar option field 
+compar field set 
+compar singl field 
+compar author field 
+compar page field 
+compar journal field 
+compar chapter field 
+compar field 
+compar entri strict 
+singl field equal 
+correl word 
+similar 
+duplic 
+duplic 
+

@@ -1,0 +1,16 @@
+src sep main sep java sep teammat sep common sep util sep http request helper dot java 
+
+
+req 
+req 
+req 
+cooki 
+req 
+
+
+http request helper 
+request paramet 
+request header 
+cooki valu request 
+request bodi 
+

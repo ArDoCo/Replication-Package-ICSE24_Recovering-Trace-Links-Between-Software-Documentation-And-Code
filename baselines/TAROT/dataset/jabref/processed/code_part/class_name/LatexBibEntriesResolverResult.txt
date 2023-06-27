@@ -1,1 +1,0 @@
-latex bib entri resolv result 

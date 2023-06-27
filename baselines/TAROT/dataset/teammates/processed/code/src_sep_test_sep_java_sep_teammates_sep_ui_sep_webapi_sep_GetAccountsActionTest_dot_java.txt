@@ -1,0 +1,16 @@
+src sep test sep java sep teammat sep ui sep webapi sep account action test dot java 
+email 
+test data 
+
+
+account 
+account data list 
+
+
+action uri 
+request method 
+prepar test data 
+test execut 
+test access control 
+assert equal account 
+

@@ -1,0 +1,14 @@
+src sep test sep java sep teammat sep ui sep webapi sep cours section action test dot java 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut typic usag pass 
+test execut exist cours fail 
+test access control 
+test access control test invalid access pass 
+test access control test instructor access pass 
+

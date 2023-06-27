@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep slr sep studi databas item dot java 
+
+enabl 
+
+
+
+enabl 
+
+enabl 
+ 
+
+
+studi databas item 
+
+set 
+properti 
+enabl 
+set enabl 
+enabl properti 
+string 
+equal 
+hash code 
+

@@ -1,6 +1,0 @@
-logic 
-student logic 
-feedback respons logic 
-feedback respons comment logic 
-age statist logic 
-data bundl logic 

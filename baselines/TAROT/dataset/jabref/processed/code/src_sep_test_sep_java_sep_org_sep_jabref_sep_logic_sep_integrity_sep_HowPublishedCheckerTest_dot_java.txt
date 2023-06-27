@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep publish checker test dot java 
+checker 
+checker biblatex 
+
+
+
+
+set 
+bib tex accept string capit letter 
+bib tex doe care special charact 
+bib tex doe accept string lowercas letter 
+bib tex accept url 
+bib la tex accept string capit letter 
+bib la tex accept string lowercas letter 
+

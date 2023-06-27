@@ -1,0 +1,32 @@
+interfac sep tool dot descart dot teastor dot entiti sep src sep main sep java sep tool sep descart sep teastor sep entiti sep er dot java 
+id 
+user 
+password 
+real 
+email 
+
+
+user 
+id 
+user 
+password 
+real 
+email 
+obj 
+
+
+er 
+er 
+id 
+set id 
+user 
+set user 
+password 
+set password 
+real 
+set real 
+email 
+set email 
+hash code 
+equal 
+

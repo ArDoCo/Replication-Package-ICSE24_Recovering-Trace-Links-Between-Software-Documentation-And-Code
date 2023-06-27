@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep model sep group sep automat keyword group dot java 
+keyword delimit 
+keyword hierarch delimit 
+field 
+
+
+
+context 
+field 
+keyword delimit 
+keyword hierarch delimit 
+ 
+entri 
+keyword chain 
+
+
+automat keyword group 
+keyword hierarch delimit 
+keyword delimit 
+field 
+deep copi 
+equal 
+hash code 
+creat subgroup 
+creat group 
+

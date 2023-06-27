@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep convert bibtex cleanup test dot java 
+worker 
+
+
+
+
+set 
+cleanup move date year month 
+cleanup year alreadi present doe noth 
+cleanup move journaltitl journal 
+clean doesnt move file field 
+

@@ -1,0 +1,313 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep param processor util dot java 
+log 
+urldecod separ 
+filterdecod separ element 
+filterdecod separ oper 
+server url 
+dial num 
+conf num 
+conf 
+api version 
+servic enabl 
+secur salt 
+support checksum algorithm 
+checksum hash 
+default max user 
+default welcom messag 
+default welcom messag footer 
+default dial access number 
+test voic bridg 
+test confer mock 
+default logout url 
+default server url 
+default num digit tel voic 
+default html client url 
+default guest wait url 
+request session 
+default http session timeout 
+default avatar 
+default avatar url 
+default guest polici 
+authent guest 
+default meet layout 
+default meet durat 
+disabl record default 
+auto start record 
+start stop record 
+learn dashboard enabl 
+learn dashboard cleanup delay minut 
+webcam onli moder 
+default meet camera cap 
+default user camera cap 
+default max pin camera 
+default mute start 
+default mod unmut user 
+default mod eject camera 
+default disabl featur 
+default notifi record 
+default event 
+default logo 
+default logo url 
+default present upload extern descript 
+default present upload extern url 
+default breakout room enabl 
+default breakout room record 
+default breakout room captur slide 
+default breakout room captur note 
+default breakout room captur slide filenam 
+default breakout room captur note filenam 
+defaultbreakout room privat chat enabl 
+default lock set disabl cam 
+default lock set disabl mic 
+default lock set disabl privat chat 
+default lock set disabl public chat 
+default lock set disabl note 
+default lock set hide user list 
+default lock set lock join 
+default lock set lock join configur 
+default lock set hide viewer cursor 
+max present file upload 
+client logout timer minut 
+default meet expir user join minut 
+default meet expir user left minut 
+user inact inspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+default duplic ext userid 
+max user concurr access 
+default moder 
+default moder delay minut 
+default html instanc id 
+bbb version 
+reveal bbb version 
+meta var pattern 
+
+
+ 
+messag 
+dial number 
+tel voic 
+meet 
+param 
+error 
+param 
+param 
+param 
+param 
+param 
+param 
+param 
+param 
+valu 
+messag 
+breakout 
+ext meet id 
+pass 
+checksum 
+queri string 
+tel num 
+dial 
+logout url 
+record 
+instanc id 
+max user 
+durat 
+logout timer 
+tel voic 
+tel voic 
+api call 
+checksum 
+queri string 
+api call 
+param 
+api version 
+ 
+secur salt 
+support checksum algorithm 
+checksum hash 
+default max user 
+default welcom messag 
+default welcom messag footer 
+default dial access number 
+test voic bridg 
+test confer mock 
+default logout url 
+default server url 
+default num digit tel voic 
+default html client url 
+url 
+valu 
+url 
+request session 
+default meet durat 
+disabl 
+start 
+start stop record 
+learn dashboard enabl 
+learn dashboard cleanup delay minut 
+webcam onli moder 
+meet camera cap 
+user camera cap 
+max pin camera 
+valu 
+url 
+guest polici 
+valu 
+meet layout 
+valu 
+valu 
+valu 
+user inact inspect timer minut 
+user inact threshold minut 
+user activ sign respons delay minut 
+max file size 
+mute 
+mke 
+valu 
+valu 
+encodeid 
+ext meet id 
+param 
+encod filter 
+breakout room enabl 
+breakout room record 
+breakout room privat chat enabl 
+lock set disabl cam 
+lock set disabl mic 
+lock set disabl privat chat 
+lock set disabl public chat 
+lock set disabl note 
+lock set hide user list 
+lock set lock join 
+lock set lock join configur 
+lock set hide viewer cursor 
+
+max user concurr access 
+val 
+valu 
+disabl featur 
+notifi record 
+present upload extern descript 
+present upload extern url 
+version 
+version 
+
+
+format conf num 
+substitut keyword 
+process requir creat param 
+process updat creat param 
+meta valid 
+remov meta string 
+process meta param 
+process breakout room param 
+process lock set param 
+process group param 
+process creat param 
+api version 
+servic enabl 
+default html client url 
+default guest wait url 
+default logo 
+default logo url 
+request session 
+default http session timeout 
+set default http session timeout 
+default logout url 
+bbb version 
+reveal bbb version 
+process welcom messag 
+convert intern meet id 
+process password 
+checksum queri string 
+process tel voic 
+process dial number 
+process logout url 
+process record meet 
+process html instanc id 
+process max user 
+process meet durat 
+process logout timer 
+test meet 
+int meet id test meet 
+checksum 
+post checksum 
+set api version 
+set servic enabl 
+set secur salt 
+set support checksum algorithm 
+set checksum hash 
+set default max user 
+set default welcom messag 
+set default welcom messag footer 
+set default dial access number 
+set test voic bridg 
+set test confer mock 
+set default logout url 
+set default server url 
+set default num digit tel voic 
+set default html client url 
+set default guest wait url 
+set default logo 
+set default logo url 
+set request session 
+set default meet durat 
+set disabl record default 
+set auto start record 
+set start stop record 
+set learn dashboard enabl 
+set learn dashboard cleanup delay minut 
+set webcam onli moder 
+set default meet camera cap 
+set default user camera cap 
+set default max pin camera 
+set default avatar 
+setdefault avatar url 
+set default guest polici 
+set authent guest 
+set default meet layout 
+set client logout timer minut 
+set meet expir user left minut 
+set meet expir user join minut 
+user inact inspect timer minut 
+set user inact inspect timer minut 
+user inact threshold minut 
+set user inact threshold minut 
+user activ sign respons delay minut 
+set user activ sign respons delay minut 
+set max present file upload 
+max present file upload 
+set mute start 
+mute start 
+set default event 
+set mod unmut user 
+mod unmut user 
+set mod eject camera 
+mod eject camera 
+decod id 
+convert intern meet id 
+user custom data 
+decod filter 
+set breakout room enabl 
+set breakout room record 
+set breakout room privat chat enabl 
+set lock set disabl cam 
+set lock set disabl mic 
+set lock set disabl privat chat 
+set lock set disabl public chat 
+set lock set disabl note 
+set lock set hide user list 
+set lock set lock join 
+set lock set lock join configur 
+set lock set hide viewer cursor 
+set duplic ext userid 
+set max user concurr access 
+set moder 
+set moder delay minut 
+set disabl featur 
+set notifi record 
+set present upload extern descript 
+set present upload extern url 
+set bbb version 
+set reveal bbb version 
+

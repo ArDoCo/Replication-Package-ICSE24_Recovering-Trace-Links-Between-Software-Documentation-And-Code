@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep dblp fetcher test dot java 
+dblp fetcher 
+entri 
+
+
+
+
+set 
+find singl entri 
+find singl entri complex oper 
+find noth 
+

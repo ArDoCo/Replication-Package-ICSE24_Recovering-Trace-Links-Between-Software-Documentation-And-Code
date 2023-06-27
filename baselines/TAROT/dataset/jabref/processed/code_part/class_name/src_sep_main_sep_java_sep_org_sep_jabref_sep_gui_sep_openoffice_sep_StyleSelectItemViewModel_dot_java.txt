@@ -1,0 +1,1 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep style select item view model dot java 

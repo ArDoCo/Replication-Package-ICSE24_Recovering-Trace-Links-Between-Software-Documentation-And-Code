@@ -1,0 +1,44 @@
+implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep config sep ejb dot java 
+
+host 
+port 
+app 
+modul 
+bean 
+provid interfac 
+provid interfac 
+requir interfac 
+requir interfac 
+
+
+
+host 
+port 
+app 
+modul 
+bean 
+pi 
+ri 
+interfac 
+interfac 
+ri 
+pi 
+obj 
+
+
+ejb 
+set provid interfac 
+set requir interfac 
+requir interfac 
+provid interfac 
+add requir interfac 
+add provid interfac 
+port 
+host 
+
+app 
+modul 
+bean 
+equal 
+string 
+

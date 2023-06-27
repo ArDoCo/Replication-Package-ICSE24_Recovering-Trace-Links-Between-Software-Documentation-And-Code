@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep util sep io sep citat key base file finder dot java 
+exact key onli 
+
+
+exact key onli 
+entri 
+directori 
+extens 
+filenam 
+cite key 
+directori 
+extens 
+
+
+citat key base file finder 
+find associ file 
+match 
+find file extens 
+

@@ -1,0 +1,39 @@
+src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style dot java 
+default 
+logger 
+style root 
+style 
+style 
+factori 
+file path 
+titl 
+sourc 
+
+
+filenam 
+titl 
+sourc 
+sourc 
+filenam 
+sourc 
+style file 
+path 
+style file 
+ 
+
+
+citat style 
+creat citat style sourc 
+strip invalid prolog 
+creat citat style file 
+default 
+discov citat style 
+discov citat style path 
+citat style file 
+titl 
+sourc 
+file path 
+string 
+equal 
+hash code 
+

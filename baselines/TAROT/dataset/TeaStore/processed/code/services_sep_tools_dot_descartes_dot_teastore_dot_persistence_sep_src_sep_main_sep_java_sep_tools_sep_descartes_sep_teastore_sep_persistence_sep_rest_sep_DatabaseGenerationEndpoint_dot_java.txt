@@ -1,0 +1,19 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep rest sep databas generat endpoint dot java 
+log 
+
+
+categori 
+product 
+user 
+order 
+param 
+default valu 
+mainten mode 
+
+
+generat data base 
+pars queri 
+finsh 
+set mainten mode 
+mainten 
+

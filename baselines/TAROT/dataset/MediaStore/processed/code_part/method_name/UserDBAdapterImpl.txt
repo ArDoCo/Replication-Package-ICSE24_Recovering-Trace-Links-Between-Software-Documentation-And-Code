@@ -1,4 +1,0 @@
-er db adapt impl 
-add user 
-user data 
-remov data 

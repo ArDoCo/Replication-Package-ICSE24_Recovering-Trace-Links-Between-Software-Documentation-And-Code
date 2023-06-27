@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep model sep search sep group search queri dot java 
+queri 
+search flag 
+search flag 
+rule 
+
+
+queri 
+search flag 
+entri 
+
+
+group search queri 
+string 
+match 
+search rule 
+case sensit descript 
+regular express descript 
+rule 
+search express 
+search flag 
+

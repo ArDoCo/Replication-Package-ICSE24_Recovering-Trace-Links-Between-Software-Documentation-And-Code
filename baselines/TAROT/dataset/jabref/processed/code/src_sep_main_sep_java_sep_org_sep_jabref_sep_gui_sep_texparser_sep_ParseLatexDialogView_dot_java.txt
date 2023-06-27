@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex dialog view dot java 
+databas context 
+valid visual 
+latex directori field 
+brows button 
+search button 
+progress indic 
+file tree view 
+file tree view 
+select button 
+unselect button 
+pars button type 
+dialog servic 
+task executor 
+prefer servic 
+file monitor 
+theme manag 
+view model 
+
+
+databas context 
+
+
+pars latex dialog view 
+initi 
+brows button click 
+search button click 
+select 
+unselect 
+

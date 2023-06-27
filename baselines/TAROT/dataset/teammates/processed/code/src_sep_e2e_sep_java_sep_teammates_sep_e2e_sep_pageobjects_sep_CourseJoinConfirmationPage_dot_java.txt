@@ -1,0 +1,16 @@
+src sep sep java sep teammat sep sep pageobject sep cours join confirm page dot java 
+confirm button 
+
+
+browser 
+googl id 
+type page 
+messag 
+
+
+cours join confirm page 
+expect page content 
+verifi join user 
+confirm join cours 
+verifi display messag 
+

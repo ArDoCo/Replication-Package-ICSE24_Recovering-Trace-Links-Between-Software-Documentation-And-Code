@@ -1,0 +1,14 @@
+bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep outbound sep exampl sep simpl hangup outbound handler dot java 
+
+
+ctx 
+event 
+ctx 
+event 
+channel 
+
+
+handl connect respons 
+handl esl event 
+hangup call 
+

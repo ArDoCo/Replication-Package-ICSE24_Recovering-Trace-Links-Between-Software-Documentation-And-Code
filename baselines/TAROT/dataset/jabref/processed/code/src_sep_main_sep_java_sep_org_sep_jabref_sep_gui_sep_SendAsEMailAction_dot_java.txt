@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep send mail action dot java 
+logger 
+dialog servic 
+prefer servic 
+state manag 
+
+
+dialog servic 
+prefer servic 
+state manag 
+
+
+send mail action 
+execut 
+send email 
+

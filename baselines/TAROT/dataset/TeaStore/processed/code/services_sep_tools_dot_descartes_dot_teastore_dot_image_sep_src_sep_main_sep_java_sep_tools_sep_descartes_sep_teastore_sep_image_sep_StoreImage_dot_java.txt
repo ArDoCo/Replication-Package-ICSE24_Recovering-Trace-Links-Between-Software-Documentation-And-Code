@@ -1,0 +1,36 @@
+servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep store imag dot java 
+store imag format 
+store imag data string 
+id 
+data 
+size 
+log 
+
+
+id 
+imag 
+size 
+id 
+base 
+size 
+size 
+imag 
+imag 
+obj 
+
+
+store imag 
+store imag 
+set imag size 
+store imag 
+id 
+set imag 
+imag 
+size 
+byte size 
+base 
+byte array 
+string 
+hash code 
+equal 
+

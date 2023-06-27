@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep model sep group sep search group dot java 
+logger 
+queri 
+
+
+
+context 
+search express 
+search flag 
+ 
+entri 
+
+
+search group 
+search express 
+equal 
+
+search flag 
+deep copi 
+string 
+dynam 
+hash code 
+

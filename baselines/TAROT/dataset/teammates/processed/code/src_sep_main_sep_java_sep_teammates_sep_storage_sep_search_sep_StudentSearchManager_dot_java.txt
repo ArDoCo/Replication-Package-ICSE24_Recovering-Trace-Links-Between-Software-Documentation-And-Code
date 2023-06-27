@@ -1,0 +1,21 @@
+src sep main sep java sep teammat sep storag sep search sep student search manag dot java 
+cours db 
+student db 
+
+
+search servic host 
+reset 
+student 
+document 
+result 
+queri string 
+instructor 
+
+
+student search manag 
+collect 
+creat document 
+attribut document 
+sort result 
+search student 
+

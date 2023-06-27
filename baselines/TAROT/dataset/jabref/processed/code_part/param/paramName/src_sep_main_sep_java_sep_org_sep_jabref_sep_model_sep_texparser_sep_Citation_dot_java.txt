@@ -1,0 +1,6 @@
+path 
+line 
+col start 
+col 
+line text 
+obj 

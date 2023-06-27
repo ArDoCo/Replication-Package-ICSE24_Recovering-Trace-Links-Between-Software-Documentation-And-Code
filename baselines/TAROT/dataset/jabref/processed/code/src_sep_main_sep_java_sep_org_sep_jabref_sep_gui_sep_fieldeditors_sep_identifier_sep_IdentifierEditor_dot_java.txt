@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep identifi editor dot java 
+view model 
+view model 
+text area 
+fetch inform identifi button 
+lookup identifi button 
+entri 
+entri 
+
+
+field 
+task executor 
+dialog servic 
+suggest provid 
+field checker 
+prefer 
+entri 
+
+
+identifi editor 
+view model 
+bind entri 
+node 
+fetch inform identifi 
+lookup identifi 
+open extern link 
+

@@ -1,0 +1,45 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep trophys data system dot java 
+api search url 
+api export url 
+api key 
+prefer 
+import prefer 
+
+
+prefer 
+import prefer 
+bibcod 
+lucen queri 
+page number 
+entri 
+identifi 
+entri 
+entri 
+url 
+identifi 
+identifi 
+lucen queri 
+lucen queri 
+page number 
+url 
+
+
+trophys data system 
+build post data 
+ur lfor export 
+
+api key 
+url queri 
+url entri 
+url identifi 
+page 
+parser 
+post cleanup 
+perform search 
+fetch bibcod 
+perform search id 
+perform search id 
+perform search 
+perform search page 
+url download 
+

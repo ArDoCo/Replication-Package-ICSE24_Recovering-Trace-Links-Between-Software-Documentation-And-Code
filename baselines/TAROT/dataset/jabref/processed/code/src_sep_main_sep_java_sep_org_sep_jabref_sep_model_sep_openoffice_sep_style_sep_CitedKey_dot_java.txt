@@ -1,0 +1,45 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep style sep cite key dot java 
+citat key 
+
+
+db 
+db 
+number 
+number 
+uniqu letter 
+uniqu letter 
+norm cit marker 
+norm cit marker 
+
+
+citat key 
+path 
+citat 
+number 
+uniqu letter 
+norm cit marker 
+path 
+cit 
+databas 
+citat group 
+citat group 
+citat group 
+
+
+cite key 
+citat key 
+bib entri 
+lookup result 
+number 
+set number 
+citat path 
+uniqu letter 
+set uniqu letter 
+normal citat marker 
+set normal citat marker 
+add path 
+lookup databas 
+distribut lookup result 
+distribut number 
+distribut uniqu letter 
+

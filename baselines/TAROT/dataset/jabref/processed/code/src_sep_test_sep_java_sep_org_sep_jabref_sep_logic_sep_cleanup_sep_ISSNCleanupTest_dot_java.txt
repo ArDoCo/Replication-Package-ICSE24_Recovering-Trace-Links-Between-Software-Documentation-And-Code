@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep issn cleanup test dot java 
+worker 
+
+
+
+
+set 
+cleanup issn return correct issn 
+cleanup issn add dash 
+cleanup issn junk stay junk 
+

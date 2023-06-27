@@ -1,7 +1,0 @@
-rank field compar 
-special field valu 
-special field valu 
-special field valu 
-special field valu view model 
-special field valu view model 
-special field valu view model 

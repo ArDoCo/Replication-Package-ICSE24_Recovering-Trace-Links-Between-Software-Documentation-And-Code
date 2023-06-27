@@ -1,0 +1,13 @@
+src sep test sep java sep teammat sep ui sep webapi sep creat notif action test dot java 
+test notif 
+test notif attribut 
+
+
+
+
+action uri 
+request method 
+test execut 
+test access control 
+typic creat request 
+

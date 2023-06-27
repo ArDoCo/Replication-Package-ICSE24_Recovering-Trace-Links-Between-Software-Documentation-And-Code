@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep keyboard sep key bind dot java 
+constant 
+local 
+default bind 
+categori 
+
+
+constant 
+local 
+default key bind 
+categori 
+
+
+key bind 
+constant 
+local 
+default key bind 
+categori 
+

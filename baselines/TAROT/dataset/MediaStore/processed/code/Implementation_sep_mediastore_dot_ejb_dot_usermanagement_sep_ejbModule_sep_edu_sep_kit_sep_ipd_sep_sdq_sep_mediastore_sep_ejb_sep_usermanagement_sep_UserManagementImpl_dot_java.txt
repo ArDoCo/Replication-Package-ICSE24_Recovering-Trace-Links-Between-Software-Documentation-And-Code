@@ -1,0 +1,15 @@
+implement sep mediastor dot ejb dot usermanag sep ejb modul sep sep kit sep ipd sep sdq sep mediastor sep ejb sep usermanag sep er manag impl dot java 
+serial version uid 
+user adapt 
+
+
+user 
+usernam 
+password 
+
+
+er manag impl 
+init user adapt 
+regist 
+login 
+

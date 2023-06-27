@@ -1,0 +1,20 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep common sep messag sep messag builder dot java 
+version 
+
+header 
+payload 
+timestamp 
+repli 
+
+
+
+version 
+repli 
+header 
+payload 
+
+
+generat timestamp 
+build header 
+build json 
+

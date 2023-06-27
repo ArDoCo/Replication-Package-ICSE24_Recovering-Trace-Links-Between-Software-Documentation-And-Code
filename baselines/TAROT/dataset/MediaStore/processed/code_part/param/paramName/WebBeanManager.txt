@@ -1,6 +1,0 @@
-requir interfac 
-type 
-interfac 
-requir interfac 
-type 
-interfac 

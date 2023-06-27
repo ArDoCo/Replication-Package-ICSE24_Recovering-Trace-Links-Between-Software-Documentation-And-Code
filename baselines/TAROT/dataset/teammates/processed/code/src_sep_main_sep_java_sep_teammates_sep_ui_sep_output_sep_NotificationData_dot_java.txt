@@ -1,0 +1,26 @@
+src sep main sep java sep teammat sep ui sep output sep notif data dot java 
+notif id 
+start timestamp 
+timestamp 
+creat 
+style 
+target user 
+titl 
+messag 
+shown 
+
+
+notif attribut 
+
+
+notif data 
+notif id 
+start timestamp 
+timestamp 
+creat 
+style 
+target user 
+titl 
+messag 
+shown 
+

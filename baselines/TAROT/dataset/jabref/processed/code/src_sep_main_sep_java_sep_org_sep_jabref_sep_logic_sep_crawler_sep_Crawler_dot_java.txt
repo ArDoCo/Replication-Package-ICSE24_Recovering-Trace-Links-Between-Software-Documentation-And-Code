@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep crawler sep crawler dot java 
+filenam studi result bib 
+studi repositori 
+studi fetcher 
+
+
+studi repositori root 
+git handler 
+prefer servic 
+bib entri type manag 
+file updat monitor 
+
+
+crawler 
+perform crawl 
+

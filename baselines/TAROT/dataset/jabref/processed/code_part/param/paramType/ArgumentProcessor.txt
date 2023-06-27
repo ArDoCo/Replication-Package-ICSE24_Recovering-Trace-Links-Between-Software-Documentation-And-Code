@@ -1,6 +1,0 @@
-import format prefer 
-xmp prefer 
-bib entri 
-embed bib file pdf export 
-embed bib file pdf export 
-embed bib file pdf export 

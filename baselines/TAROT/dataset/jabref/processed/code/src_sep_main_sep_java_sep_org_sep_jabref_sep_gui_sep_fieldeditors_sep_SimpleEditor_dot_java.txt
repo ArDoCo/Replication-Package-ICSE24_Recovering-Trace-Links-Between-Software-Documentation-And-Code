@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep simpl editor dot java 
+view model 
+text input 
+
+
+field 
+suggest provid 
+field checker 
+prefer 
+multi line 
+field 
+suggest provid 
+field checker 
+prefer 
+entri 
+
+
+simpl editor 
+simpl editor 
+bind entri 
+node 
+request focus 
+

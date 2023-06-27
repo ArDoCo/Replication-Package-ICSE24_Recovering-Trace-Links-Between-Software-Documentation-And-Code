@@ -1,0 +1,26 @@
+src sep main sep java sep teammat sep ui sep output sep age statist data dot java 
+start time 
+time period 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+
+
+attribut 
+
+
+age statist data 
+start time 
+time period 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+

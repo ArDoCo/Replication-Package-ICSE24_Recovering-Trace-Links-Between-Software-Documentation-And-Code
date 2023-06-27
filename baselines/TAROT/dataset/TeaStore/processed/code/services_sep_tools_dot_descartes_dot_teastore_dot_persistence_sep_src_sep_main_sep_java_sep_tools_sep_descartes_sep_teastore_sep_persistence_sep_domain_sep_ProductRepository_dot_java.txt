@@ -1,0 +1,22 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep product repositori dot java 
+repositori 
+
+
+entiti 
+id 
+entiti 
+categori id 
+start 
+limit 
+categori id 
+ 
+
+
+product repositori 
+creat entiti 
+updat entiti 
+entiti 
+product count 
+id 
+entiti class 
+

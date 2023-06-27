@@ -1,1 +1,0 @@
-send join remind email action 

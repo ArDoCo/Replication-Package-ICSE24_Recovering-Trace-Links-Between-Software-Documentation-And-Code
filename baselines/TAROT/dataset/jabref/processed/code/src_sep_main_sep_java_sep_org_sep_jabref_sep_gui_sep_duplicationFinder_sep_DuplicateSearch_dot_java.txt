@@ -1,0 +1,54 @@
+src sep main sep java sep org sep jabref sep gui sep duplic finder sep duplic search dot java 
+frame 
+duplic 
+duplic 
+librari analyz 
+auto remov exact duplic 
+duplic count 
+duplic count observ 
+duplic total 
+duplic progress 
+dialog servic 
+state manag 
+pref 
+remov 
+remov 
+add 
+add 
+duplic 
+
+
+frame 
+dialog servic 
+state manag 
+pref 
+entri 
+databas mode 
+result 
+
+
+resolv type 
+result 
+entri 
+
+
+replac 
+entri 
+replac 
+entri 
+
+
+duplic search 
+execut 
+search possibl duplic 
+verifi duplic 
+resolv strategi 
+handl duplic 
+remov 
+add 
+remov 
+replac 
+replac 
+remov 
+duplic count 
+

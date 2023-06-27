@@ -1,0 +1,59 @@
+src sep main sep java sep teammat sep common sep datatransf sep attribut sep age statist attribut dot java 
+start time 
+time period 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+usa 
+
+
+start time 
+time period 
+
+
+start time 
+time period 
+start time 
+time period 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+
+
+age statist attribut 
+valu 
+copi 
+start time 
+time period 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+invalid info 
+entiti 
+string 
+hash code 
+equal 
+sanit save 
+builder 
+builder 
+num respons 
+num cours 
+num student 
+num instructor 
+num account request 
+num email 
+num submiss 
+build 
+

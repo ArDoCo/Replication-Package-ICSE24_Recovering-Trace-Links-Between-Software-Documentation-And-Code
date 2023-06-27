@@ -1,9 +1,0 @@
-feedback session submit giver set action 
-
-
-
-
-min auth level 
-check specif access control 
-execut 
-

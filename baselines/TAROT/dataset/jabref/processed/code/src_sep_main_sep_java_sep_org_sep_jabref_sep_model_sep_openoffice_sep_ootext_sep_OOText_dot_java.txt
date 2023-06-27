@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep ootext sep oo text dot java 
+data 
+
+
+data 
+string 
+ootext 
+object 
+
+
+oo text 
+string 
+string 
+string 
+equal 
+hash code 
+

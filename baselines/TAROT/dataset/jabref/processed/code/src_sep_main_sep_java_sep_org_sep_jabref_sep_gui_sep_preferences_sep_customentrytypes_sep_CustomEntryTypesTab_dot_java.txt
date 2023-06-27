@@ -1,0 +1,57 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep custom entri type tab dot java 
+entri type tabl 
+entri type tabl 
+entri typ column 
+entri typ column 
+entri type action column 
+entri type action column 
+add entri type 
+field 
+field 
+field column 
+field column 
+field type column 
+field type column 
+field type action column 
+field type action column 
+field type multilin column 
+field type multilin column 
+add field 
+add field 
+add entri type button 
+add field button 
+state manag 
+visual 
+local dragboard 
+
+
+column 
+text 
+row 
+origin item 
+event 
+row 
+field view model 
+event 
+row 
+origin item 
+event 
+row 
+field view model 
+drag event 
+
+
+custom entri type tab 
+tab 
+initi 
+setup entri type tabl 
+setup field tabl 
+rotat column header 
+handl drag 
+handl drag detect 
+handl drag drop 
+handl drag exit 
+add entri type 
+add field 
+reset entri type 
+

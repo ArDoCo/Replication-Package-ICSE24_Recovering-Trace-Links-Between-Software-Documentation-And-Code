@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep model sep group sep tex group test dot java 
+meta data 
+
+
+
+
+set 
+return true entri aux 
+return true entri aux 
+file path return relat path 
+

@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane content factori dot java 
+prefer 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+
+
+prefer 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+side pane type 
+
+
+side pane content factori 
+creat 
+

@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep collect comput scienc bibliographi parser dot java 
+regex link 
+regex bibtex 
+bibtex parser 
+html unicod formatt 
+
+
+import format prefer 
+input stream 
+input stream 
+pattern 
+link 
+
+
+collect comput scienc bibliographi parser 
+pars entri 
+match regex input stream html 
+pars bibtex string link 
+

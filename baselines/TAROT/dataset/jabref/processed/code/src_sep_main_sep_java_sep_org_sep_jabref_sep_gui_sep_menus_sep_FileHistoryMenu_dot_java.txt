@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep menus sep file histori menu dot java 
+histori 
+dialog servic 
+open databas action 
+
+
+file histori 
+dialog servic 
+open databas action 
+key event 
+file 
+file 
+num 
+file 
+
+
+file histori menu 
+open file key 
+file 
+set item 
+add item 
+open file 
+

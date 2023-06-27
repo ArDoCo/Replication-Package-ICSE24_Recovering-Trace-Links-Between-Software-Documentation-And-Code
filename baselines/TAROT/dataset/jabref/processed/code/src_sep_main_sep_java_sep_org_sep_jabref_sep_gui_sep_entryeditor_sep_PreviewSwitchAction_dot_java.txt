@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep preview switch action dot java 
+frame 
+direct 
+
+
+direct 
+frame 
+state manag 
+
+
+preview switch action 
+execut 
+

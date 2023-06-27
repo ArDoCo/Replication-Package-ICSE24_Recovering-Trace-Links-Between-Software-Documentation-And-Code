@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep style sep citat lookup result dot java 
+entri 
+databas 
+
+
+entri 
+databas 
+object 
+
+
+citat lookup result 
+equal 
+hash code 
+

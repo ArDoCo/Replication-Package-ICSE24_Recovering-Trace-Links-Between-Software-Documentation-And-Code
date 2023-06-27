@@ -1,0 +1,45 @@
+src sep main sep java sep teammat sep common sep util sep email wrapper dot java 
+email copi subject prefix 
+type 
+sender 
+sender email 
+repli 
+recipi 
+bcc 
+subject 
+content 
+copi 
+
+
+type 
+sender 
+sender email 
+repli 
+recipi 
+bcc 
+subject 
+param 
+content 
+copi 
+
+
+type 
+set type 
+sender 
+set sender 
+sender email 
+set sender email 
+repli 
+set repli 
+recipi 
+set recipi 
+bcc 
+set bcc 
+subject 
+set subject 
+set subject type 
+content 
+set content 
+copi 
+set copi 
+

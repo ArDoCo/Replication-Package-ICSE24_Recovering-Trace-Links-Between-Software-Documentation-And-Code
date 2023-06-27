@@ -1,0 +1,28 @@
+src sep main sep java sep teammat sep logic sep api sep log processor dot java 
+instanc 
+servic 
+
+
+queri log param 
+cours id 
+email 
+fs 
+fsl type 
+cours id 
+email 
+start time 
+time 
+fs 
+start time 
+time 
+log event 
+extra filter 
+
+
+log processor 
+inst 
+queri log 
+creat feedback session log 
+feedback session log 
+number log event 
+

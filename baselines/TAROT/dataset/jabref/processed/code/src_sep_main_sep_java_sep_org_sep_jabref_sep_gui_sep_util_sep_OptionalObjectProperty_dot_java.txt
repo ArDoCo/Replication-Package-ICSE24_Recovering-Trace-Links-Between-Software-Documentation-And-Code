@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep util sep option object properti dot java 
+
+
+initi valu 
+
+
+
+option object properti 
+empti 
+els opt 
+comput valu 
+present 
+comput valu 
+

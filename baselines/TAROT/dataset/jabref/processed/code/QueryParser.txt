@@ -1,8 +1,0 @@
-queri parser 
-
-
-queri 
-
-
-pars queri string complex queri 
-

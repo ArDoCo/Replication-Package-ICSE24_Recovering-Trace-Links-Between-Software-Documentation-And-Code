@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep logic sep pdf sep search sep retriev sep pdf searcher dot java 
+logger 
+index directori 
+
+
+index directori 
+databas context 
+search string 
+max hit 
+
+
+pdf searcher 
+
+search 
+

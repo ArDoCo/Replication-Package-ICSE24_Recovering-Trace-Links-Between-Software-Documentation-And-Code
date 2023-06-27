@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep constant sep constant properti view dot java 
+string list 
+string list 
+label column 
+label column 
+content column 
+content column 
+action column 
+action column 
+add string button 
+save button 
+prefer servic 
+dialog servic 
+
+
+databas context 
+
+
+constant properti view 
+tab 
+initi 
+add string 
+open 
+

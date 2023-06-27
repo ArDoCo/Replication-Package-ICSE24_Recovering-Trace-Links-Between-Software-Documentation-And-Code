@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep click menu dot java 
+
+
+entri 
+key bind repositori 
+librari tab 
+dialog servic 
+state manag 
+prefer servic 
+undo manag 
+clip board manag 
+task executor 
+entri type manag 
+factori 
+dialog servic 
+state manag 
+prefer servic 
+clip board manag 
+task executor 
+
+
+creat 
+creat copi menu 
+

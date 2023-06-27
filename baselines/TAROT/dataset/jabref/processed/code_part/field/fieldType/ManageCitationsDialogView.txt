@@ -1,3 +1,0 @@
-oo bib base 
-dialog servic 
-manag citat dialog view model 

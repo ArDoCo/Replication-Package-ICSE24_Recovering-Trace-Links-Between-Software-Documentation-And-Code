@@ -1,0 +1,50 @@
+src sep sep java sep teammat sep sep pageobject sep instructor student activ log page dot java 
+log present session 
+log present session 
+activ type dropdown 
+student drop 
+log datepick 
+log datepick 
+log timepick 
+log timepick 
+session dropdown 
+search button 
+log output 
+
+
+browser 
+session 
+activ type 
+student 
+instant 
+time zone 
+instant 
+time zone 
+session 
+instant 
+time zone 
+date box 
+time box 
+start instant 
+time zone 
+
+
+instructor student activ log page 
+expect page content 
+start search 
+log present session 
+activ type 
+student 
+log date 
+log date 
+log time 
+log time 
+session 
+set activ type 
+set student 
+set log date time 
+set log date time 
+set session dropdown 
+time string 
+set date time 
+

@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep dialog sep backup ui manag dot java 
+logger 
+
+
+dialog servic 
+origin path 
+prefer servic 
+dialog servic 
+origin path 
+dialog servic 
+origin path 
+prefer servic 
+
+
+backup ui manag 
+show restor backup dialog 
+show backup resolv dialog 
+show review backup dialog 
+

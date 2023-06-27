@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep collab sep databas chang list dot java 
+
+
+origin databas 
+databas 
+databas chang resolv factori 
+origin databas 
+databas chang resolv factori 
+diff 
+origin databas 
+databas chang resolv factori 
+diff 
+
+
+databas chang list 
+compar chang 
+creat bib string diff 
+creat bib entri diff 
+

@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep gui sep util sep control helper dot java 
+drag bottom 
+drag center 
+drag top 
+
+
+button type 
+dialog pane 
+consum 
+node 
+cell 
+pseudo class 
+cell 
+event 
+cell 
+event 
+cell 
+cell 
+text 
+max charact 
+ellipsi string 
+ellipsi posit 
+
+
+set action 
+child focus 
+integ text formatt 
+remov pseudo class 
+drop mous locat 
+set drop pseudo class 
+set drop pseudo class 
+remov drop pseudo class 
+truncat string 
+

@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep export sep open document represent dot java 
+logger 
+entri 
+entri 
+databas 
+
+
+databas 
+entri 
+ 
+field 
+doc 
+parent 
+content 
+
+
+open document represent 
+mrepresent 
+field 
+add tabl cell 
+

@@ -1,0 +1,24 @@
+src sep client sep java sep teammat sep client sep script sep statist sep statist institut dot java 
+bundl 
+cours institut cach 
+cours institut cach 
+
+
+arg 
+cours id 
+queri entiti 
+queri entiti 
+queri entiti 
+queri entiti 
+
+
+statist institut 
+main 
+cours institut 
+oper 
+print stat institut 
+print uniqu student email stat system 
+print uniqu instructor email stat system 
+print queri rang messag 
+save checkpoint data 
+

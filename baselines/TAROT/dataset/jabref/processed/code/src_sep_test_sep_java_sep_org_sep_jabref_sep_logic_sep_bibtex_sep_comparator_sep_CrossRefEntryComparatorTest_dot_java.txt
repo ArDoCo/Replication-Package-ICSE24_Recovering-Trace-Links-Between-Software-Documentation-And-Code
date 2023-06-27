@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep compar sep cross ref entri compar test dot java 
+compar 
+
+
+
+
+set 
+tear 
+equal entri cross ref 
+equal entri cross ref 
+greater entri cross ref 
+smaller entri cross ref 
+

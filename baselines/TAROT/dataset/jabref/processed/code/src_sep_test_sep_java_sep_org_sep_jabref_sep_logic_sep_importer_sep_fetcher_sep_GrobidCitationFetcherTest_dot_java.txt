@@ -1,0 +1,28 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep grobid citat fetcher test dot java 
+import format prefer 
+grobid prefer 
+grobid citat fetcher 
+exampl 
+exampl bib entri 
+exampl 
+exampl bib entri 
+exampl 
+exampl bib entri 
+exampl 
+exampl bib entri 
+
+
+test 
+expect bib entri 
+search queri 
+invalid input 
+
+
+provid exampl correct result test 
+provid invalid input 
+grobid perform search correct result test 
+grobid perform search correct split string test 
+grobid perform search empti string test 
+grobid perform search invalid data test 
+perform search throw case connect issu 
+

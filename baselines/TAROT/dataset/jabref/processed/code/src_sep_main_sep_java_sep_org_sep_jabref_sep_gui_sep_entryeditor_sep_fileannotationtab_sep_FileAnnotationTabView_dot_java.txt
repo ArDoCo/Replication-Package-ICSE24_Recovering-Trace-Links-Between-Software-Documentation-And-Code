@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep fileannotationtab sep file annot tab view dot java 
+file 
+file 
+annot list 
+annot list 
+author 
+page 
+date 
+content 
+mark 
+detail 
+entri 
+file annot cach 
+view model 
+file monitor 
+
+
+entri 
+file annot cach 
+annot 
+
+
+file annot tab view 
+initi 
+creat file annot node 
+copi 
+

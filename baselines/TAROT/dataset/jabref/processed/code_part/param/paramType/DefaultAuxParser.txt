@@ -1,8 +1,0 @@
-bib databas 
-aux parser result 
-aux parser result 
-aux parser result 
-bib entri 
-aux parser result 
-bib entri 
-aux parser result 

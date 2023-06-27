@@ -1,6 +1,0 @@
-index url 
-regist url 
-logout url 
-login url 
-session bean 
-logger 

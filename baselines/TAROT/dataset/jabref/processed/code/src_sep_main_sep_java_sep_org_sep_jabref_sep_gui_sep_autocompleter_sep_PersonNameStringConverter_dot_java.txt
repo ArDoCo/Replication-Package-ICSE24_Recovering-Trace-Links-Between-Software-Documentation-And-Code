@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep autocomplet sep person string convert dot java 
+auto comp ff 
+auto comp lf 
+auto complet mode 
+
+
+auto comp ff 
+auto comp lf 
+auto complet mode 
+prefer 
+author 
+string 
+
+
+person string convert 
+person string convert 
+string 
+string 
+

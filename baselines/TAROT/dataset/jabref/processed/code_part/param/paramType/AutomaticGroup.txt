@@ -1,4 +1,0 @@
-group hierarchi type 
-bib entri 
-bib entri 
-bib entri 

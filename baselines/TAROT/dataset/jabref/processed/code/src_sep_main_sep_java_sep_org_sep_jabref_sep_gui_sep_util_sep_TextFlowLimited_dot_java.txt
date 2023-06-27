@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep util sep text flow limit dot java 
+collaps 
+link 
+clip 
+
+
+text 
+fraction 
+width 
+
+
+text flow limit 
+expand 
+interpol 
+comput pref height 
+layout children 
+

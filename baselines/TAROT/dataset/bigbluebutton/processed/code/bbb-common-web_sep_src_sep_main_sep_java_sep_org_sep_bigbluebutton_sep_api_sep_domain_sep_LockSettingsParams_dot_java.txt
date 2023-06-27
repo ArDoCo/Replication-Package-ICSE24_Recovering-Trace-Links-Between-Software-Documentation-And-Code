@@ -1,0 +1,25 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep lock set param dot java 
+disabl cam 
+disabl mic 
+disabl privat chat 
+disabl public chat 
+disabl note 
+hide user list 
+lock join 
+lock join configur 
+hide viewer cursor 
+
+
+disabl cam 
+disabl mic 
+disabl privat chat 
+disabl public chat 
+disabl note 
+hide user list 
+lock join 
+lock join configur 
+hide viewer cursor 
+
+
+lock set param 
+

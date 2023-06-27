@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep write metadata pdf command dot java 
+link file 
+databas context 
+prefer 
+dialog servic 
+entri 
+logger 
+task executor 
+
+
+link file 
+databas context 
+prefer 
+dialog servic 
+entri 
+logger 
+task executor 
+
+
+write metadata pdf command 
+execut 
+

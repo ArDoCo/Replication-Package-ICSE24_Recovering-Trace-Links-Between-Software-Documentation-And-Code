@@ -1,3 +1,0 @@
-session bean 
-usernam 
-password 

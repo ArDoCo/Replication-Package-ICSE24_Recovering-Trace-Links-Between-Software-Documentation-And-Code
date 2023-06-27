@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep group sep group tab view model dot java 
+group view mode intersect properti 
+group view mode union properti 
+auto assign group properti 
+display group count properti 
+group prefer 
+
+
+group prefer 
+
+
+group tab view model 
+set valu 
+store set 
+group view mode intersect properti 
+group view mode union properti 
+auto assign group properti 
+display group count 
+

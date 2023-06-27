@@ -1,0 +1,58 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback rubric question detail dot java 
+question type 
+rubric answer chosen 
+rubric min num choic 
+rubric error choic 
+rubric min num question 
+rubric error question 
+rubric error desc invalid size 
+rubric error empti question 
+rubric error invalid weight 
+rubric empti answer 
+rubric invalid answer 
+assign weight 
+rubric weight cell 
+rubric weight cell 
+rubric choic 
+rubric choic 
+rubric question 
+rubric question 
+rubric descript 
+rubric descript 
+
+
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+assign weight 
+rubric weight cell 
+rubric choic 
+rubric question 
+rubric descript 
+
+
+feedback rubric question detail 
+feedback rubric question detail 
+valid descript size 
+valid weight size 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+rubric weight 
+assign weight 
+set assign weight 
+rubric weight cell 
+set rubric weight cell 
+num rubric choic 
+rubric choic 
+set rubric choic 
+num rubric question 
+rubric question 
+set rubric question 
+rubric descript 
+set rubric descript 
+

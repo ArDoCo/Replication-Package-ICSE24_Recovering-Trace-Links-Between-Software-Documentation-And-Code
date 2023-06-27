@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep gui sep linkedfil sep delet file action dot java 
+logger 
+dialog servic 
+prefer 
+databas context 
+view model 
+list view 
+list view 
+
+
+dialog servic 
+prefer 
+databas context 
+view model 
+list view 
+delet 
+delet disk 
+file view model 
+
+
+delet file action 
+execut 
+delet file 
+delet file disk 
+

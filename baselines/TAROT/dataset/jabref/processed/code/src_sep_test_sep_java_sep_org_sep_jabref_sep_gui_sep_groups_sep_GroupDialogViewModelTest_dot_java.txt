@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep gui sep group sep group dialog view model test dot java 
+view model 
+temporari folder 
+bib databas context 
+meta data 
+group prefer 
+dialog servic 
+group 
+prefer servic 
+
+
+temporari folder 
+
+
+set 
+valid exist absolut path 
+valid exist absolut path 
+valid exist relat path 
+test hierarch context group 
+test default hierarch context 
+

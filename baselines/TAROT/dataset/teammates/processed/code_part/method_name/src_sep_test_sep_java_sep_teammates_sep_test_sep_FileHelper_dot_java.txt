@@ -1,0 +1,5 @@
+file helper 
+read file 
+read file byte 
+save file 
+delet file 

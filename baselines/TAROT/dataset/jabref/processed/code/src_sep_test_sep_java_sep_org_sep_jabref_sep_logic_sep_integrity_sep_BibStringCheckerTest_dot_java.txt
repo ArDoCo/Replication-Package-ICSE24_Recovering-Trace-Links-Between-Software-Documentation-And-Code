@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep bib string checker test dot java 
+checker 
+entri 
+
+
+expect 
+field 
+valu 
+
+
+accept input 
+provid accept input 
+month doe accept odd number hash mark 
+author doe accept odd number hash mark 
+

@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep minifi sep truncat formatt test dot java 
+titl 
+
+
+
+
+format work index 
+format remov trail whitespac 
+format intern whitespac 
+format work length 
+format ignor negat index 
+format work empti string 
+format throw null string 
+

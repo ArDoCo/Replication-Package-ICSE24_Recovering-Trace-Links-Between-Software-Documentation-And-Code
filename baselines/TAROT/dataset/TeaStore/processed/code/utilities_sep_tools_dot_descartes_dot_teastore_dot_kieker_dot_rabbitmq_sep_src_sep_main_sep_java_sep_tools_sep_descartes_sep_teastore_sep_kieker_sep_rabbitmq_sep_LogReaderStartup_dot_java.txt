@@ -1,0 +1,15 @@
+util sep tool dot descart dot teastor dot kieker dot rabbitmq sep src sep main sep java sep tool sep descart sep teastor sep kieker sep rabbitmq sep log reader startup dot java 
+log reader starter 
+file writer starter 
+
+
+event 
+event 
+
+
+log reader startup 
+context destroy 
+stop file writer 
+context initi 
+start file writer 
+

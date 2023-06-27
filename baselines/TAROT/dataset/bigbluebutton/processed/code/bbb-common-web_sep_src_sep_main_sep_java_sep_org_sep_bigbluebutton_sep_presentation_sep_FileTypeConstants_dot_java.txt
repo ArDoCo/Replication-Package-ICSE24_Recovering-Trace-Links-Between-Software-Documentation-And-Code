@@ -1,0 +1,26 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep file type constant dot java 
+xls 
+xlsx 
+doc 
+docx 
+ppt 
+pptx 
+odt 
+rtf 
+txt 
+od 
+odp 
+avi 
+mpg 
+mp 
+pdf 
+jpg 
+jpeg 
+png 
+svg 
+
+
+
+
+file type constant 
+

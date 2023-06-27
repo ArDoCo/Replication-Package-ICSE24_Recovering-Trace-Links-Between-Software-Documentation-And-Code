@@ -1,2 +1,0 @@
-post open migrat 
-explicit group 

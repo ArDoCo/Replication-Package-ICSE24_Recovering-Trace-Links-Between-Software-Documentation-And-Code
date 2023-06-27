@@ -1,0 +1,16 @@
+util sep tool dot descart dot teastor dot dockermemoryconfigur sep src sep main sep java sep tool sep descart sep teastor sep dockermemoryconfigur sep configur dot java 
+default percentag 
+
+
+arg 
+arg 
+heapkb 
+
+
+configur 
+main 
+read percentag 
+read total memori kb 
+read group memori kb 
+write set env file 
+

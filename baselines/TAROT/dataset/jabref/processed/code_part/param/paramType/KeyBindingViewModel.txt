@@ -1,4 +1,0 @@
-key bind repositori 
-key bind 
-key bind repositori 
-key bind categori 

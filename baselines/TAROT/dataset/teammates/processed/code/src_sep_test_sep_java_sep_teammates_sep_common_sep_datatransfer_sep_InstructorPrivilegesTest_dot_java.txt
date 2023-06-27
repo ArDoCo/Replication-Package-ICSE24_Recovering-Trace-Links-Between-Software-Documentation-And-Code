@@ -1,0 +1,16 @@
+src sep test sep java sep teammat sep common sep datatransf sep instructor privileg test dot java 
+
+
+
+
+test set default 
+test constructor 
+test privileg valid 
+test updat privileg cours level 
+test updat privileg section level 
+test updat privileg session level 
+test add section default privileg section level 
+test privileg 
+test valid privileg 
+test default privileg 
+

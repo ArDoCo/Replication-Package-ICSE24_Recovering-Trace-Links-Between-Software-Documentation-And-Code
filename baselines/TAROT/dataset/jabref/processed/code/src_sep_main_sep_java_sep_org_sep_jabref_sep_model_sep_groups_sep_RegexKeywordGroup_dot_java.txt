@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep model sep group sep regex keyword group dot java 
+pattern 
+
+
+
+context 
+search field 
+search express 
+case sensit 
+search express 
+case sensit 
+entri 
+ 
+
+
+regex keyword group 
+compil pattern 
+
+equal 
+deep copi 
+hash code 
+

@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep gui sep util sep compar sep numer field compar test dot java 
+compar 
+
+
+
+
+compar numer input 
+compar null input 
+compar input null 
+compar input null 
+compar numer input 
+compar string integ 
+compar integ string 
+compar negat integ 
+compar string 
+compar string 
+compar word 
+compar numer signal number lenght bigger 
+compar numer signal number 
+

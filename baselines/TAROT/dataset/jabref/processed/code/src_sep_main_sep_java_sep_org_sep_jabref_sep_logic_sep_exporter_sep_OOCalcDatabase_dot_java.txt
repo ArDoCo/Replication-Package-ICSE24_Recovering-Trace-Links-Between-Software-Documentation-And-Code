@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep logic sep export sep oo calc databas dot java 
+logger 
+report type field 
+entri 
+entri 
+export field 
+export field 
+
+
+bibtex 
+entri 
+ 
+field 
+entri 
+tabl 
+document 
+document 
+document 
+doc 
+parent 
+content 
+tabl 
+document 
+
+
+oo calc databas 
+field 
+mrepresent 
+add entri row 
+creat tabl element 
+creat root element 
+add tabl cell 
+add tabl header 
+

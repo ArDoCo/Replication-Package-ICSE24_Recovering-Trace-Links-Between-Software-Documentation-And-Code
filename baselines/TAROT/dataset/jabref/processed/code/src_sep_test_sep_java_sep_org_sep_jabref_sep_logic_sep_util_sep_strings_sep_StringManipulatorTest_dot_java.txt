@@ -1,0 +1,25 @@
+src sep test sep java sep org sep jabref sep logic sep util sep string sep string manipul test dot java 
+
+
+text 
+caret posit 
+expect posit 
+direct 
+
+
+test capit preserv newlin 
+test uppercas preserv space 
+test uppercas preserv newlin 
+test uppercas preserv tab 
+test uppercas preserv doubl space 
+test uppercas ignor trail whitespac 
+test kill word trim trail whitespac 
+test kill word trim preceed whitespac 
+test uppercas preserv mix space line tab 
+test lowercas edit word 
+test kill word remov posit word 
+test kill word remov word posit space 
+test kill previous word 
+test word boundari 
+word boundari test data 
+

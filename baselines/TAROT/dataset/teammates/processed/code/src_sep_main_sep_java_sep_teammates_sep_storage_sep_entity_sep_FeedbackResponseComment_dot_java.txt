@@ -1,0 +1,92 @@
+src sep main sep java sep teammat sep storag sep entiti sep feedback respons comment dot java 
+feedback respons comment id 
+cours id 
+feedback session 
+feedback question id 
+giver email 
+comment giver type 
+feedback respons id 
+giver section 
+receiv section 
+show comment 
+show comment 
+show giver 
+show giver 
+visibl follow feedback question 
+comment feedback particip 
+creat 
+comment text 
+editor email 
+edit 
+
+
+cours id 
+feedback session 
+feedback question id 
+giver email 
+comment giver type 
+feedback respons id 
+creat 
+comment text 
+giver section 
+receiv section 
+show comment 
+show giver 
+editor email 
+edit 
+comment feedback particip 
+visibl follow feedback question 
+cours id 
+feedback session 
+feedback question id 
+visibl follow feedback question 
+giver email 
+comment giver type 
+show comment 
+show giver 
+feedback respons id 
+creat 
+comment text 
+giver section 
+receiv section 
+editor email 
+edit 
+comment feedback particip 
+
+
+feedback respons comment 
+feedback respons comment 
+feedback respons comment id 
+cours id 
+set cours id 
+feedback session 
+set feedback session 
+feedback question id 
+set feedback question id 
+visibl follow feedback question 
+set visibl follow feedback question 
+giver email 
+set giver email 
+comment giver type 
+set comment giver type 
+set show comment 
+show comment 
+set show giver 
+show giver 
+feedback respons id 
+set feedback respons id 
+creat 
+set creat 
+comment text 
+set comment text 
+giver section 
+set giver section 
+receiv section 
+set receiv section 
+set editor email 
+editor email 
+edit 
+set edit 
+comment feedback particip 
+set comment feedback particip 
+

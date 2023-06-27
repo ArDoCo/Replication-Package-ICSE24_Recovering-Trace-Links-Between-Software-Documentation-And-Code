@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep share sep sql processor dot java 
+version db struct default 
+current version db struct 
+
+
+connect 
+express 
+express 
+
+
+sql processor 
+set 
+escap 
+escap tabl 
+current version db struct 
+

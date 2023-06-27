@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep xmp sep document inform extractor dot java 
+document inform 
+bib entri 
+
+
+document inform 
+
+
+document inform extractor 
+extract author 
+extract titl 
+extract keyword 
+extract subject 
+extract field 
+extract bibtex entri 
+

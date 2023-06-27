@@ -1,8 +1,0 @@
-citat marker numer entri 
-citat marker numer entri 
-oo bib style 
-citat marker numer bib entri 
-citat marker numer entri 
-oo bib style 
-oo bib style 
-citat marker numer entri 

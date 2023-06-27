@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep isbn identifi editor view model dot java 
+
+
+suggest provid 
+field checker 
+dialog servic 
+task executor 
+prefer 
+bib entri 
+
+
+isbn identifi editor view model 
+fetch bibliographi inform 
+

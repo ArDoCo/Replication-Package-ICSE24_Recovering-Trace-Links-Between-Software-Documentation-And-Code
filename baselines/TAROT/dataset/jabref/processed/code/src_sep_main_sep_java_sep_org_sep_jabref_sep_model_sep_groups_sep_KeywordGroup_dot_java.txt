@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep model sep group sep keyword group dot java 
+search field 
+search express 
+case sensit 
+
+
+
+context 
+search field 
+search express 
+case sensit 
+ 
+
+
+keyword group 
+case sensit 
+search express 
+search field 
+dynam 
+equal 
+hash code 
+

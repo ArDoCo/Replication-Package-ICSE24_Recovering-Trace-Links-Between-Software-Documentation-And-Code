@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep model sep field chang dot java 
+entri 
+field 
+valu 
+valu 
+
+
+entri 
+field 
+valu 
+valu 
+obj 
+
+
+field chang 
+entri 
+field 
+valu 
+valu 
+hash code 
+equal 
+string 
+

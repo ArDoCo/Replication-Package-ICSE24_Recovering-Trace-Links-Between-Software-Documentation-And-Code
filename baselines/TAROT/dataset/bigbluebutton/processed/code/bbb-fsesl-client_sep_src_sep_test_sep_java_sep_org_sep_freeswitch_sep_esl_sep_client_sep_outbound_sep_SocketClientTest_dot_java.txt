@@ -1,0 +1,8 @@
+bbb fsesl client sep src sep test sep java sep org sep freeswitch sep esl sep client sep outbound sep socket client test dot java 
+log 
+
+
+
+
+run client 
+

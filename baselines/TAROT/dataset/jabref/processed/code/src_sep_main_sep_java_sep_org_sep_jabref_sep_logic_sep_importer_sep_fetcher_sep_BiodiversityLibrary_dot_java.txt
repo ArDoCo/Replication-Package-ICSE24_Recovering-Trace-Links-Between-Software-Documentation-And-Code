@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep biodivers librari dot java 
+api key 
+base url 
+respons format 
+test url api key 
+fetcher 
+import prefer 
+
+
+import prefer 
+identifi 
+identifi 
+url 
+item 
+entri 
+item 
+author 
+lucen queri 
+
+
+biodivers librari 
+
+test url 
+base url 
+item metadata url 
+part metadata url 
+detail 
+pars bib jso nto bibtex 
+json result bib entri 
+author 
+parser 
+url queri 
+api key 
+

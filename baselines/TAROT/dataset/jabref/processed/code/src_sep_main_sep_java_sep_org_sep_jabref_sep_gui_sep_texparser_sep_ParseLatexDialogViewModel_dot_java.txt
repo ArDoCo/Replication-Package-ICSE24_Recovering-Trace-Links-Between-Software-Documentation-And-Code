@@ -1,0 +1,42 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex dialog view model dot java 
+logger 
+tex ext 
+databas context 
+dialog servic 
+task executor 
+prefer servic 
+file monitor 
+latex file directori 
+latex directori valid 
+root 
+root 
+check file list 
+check file list 
+file 
+search progress 
+success search 
+
+
+databas context 
+dialog servic 
+task executor 
+prefer servic 
+file monitor 
+
+directori 
+
+
+pars latex dialog view model 
+latex file directori properti 
+latex directori valid 
+root properti 
+check file list 
+file properti 
+search progress properti 
+success search properti 
+brows button click 
+search button click 
+handl failur 
+search directori 
+pars button click 
+

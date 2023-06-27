@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep autocomplet sep suggest provid dot java 
+empti 
+databas 
+abbrevi repositori 
+auto complet prefer 
+
+
+databas 
+abbrevi repositori 
+auto complet prefer 
+field 
+
+
+suggest provid 
+suggest provid 
+field 
+

@@ -1,8 +1,0 @@
-english stem analyz 
-
-
-field 
-
-
-creat compon 
-

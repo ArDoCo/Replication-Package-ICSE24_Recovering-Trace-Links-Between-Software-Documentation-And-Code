@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep preview sep preview panel dot java 
+logger 
+file linker 
+key bind repositori 
+preview view 
+preview prefer 
+dialog servic 
+state manag 
+index task manag 
+entri 
+
+
+databas 
+dialog servic 
+key bind repositori 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri 
+posit 
+
+
+preview panel 
+creat key bind 
+creat popup menu 
+set entri 
+print 
+preview style 
+previous preview style 
+cycl preview 
+

@@ -1,0 +1,27 @@
+src sep test sep java sep org sep jabref sep logic sep sep local consist test dot java 
+serial version uid 
+duplic 
+duplic 
+
+
+languag 
+languag 
+key 
+valu 
+
+
+file languag 
+ensur duplic 
+key valu equal english properti messag 
+languag key underscor space 
+languag key html br html 
+find local key 
+find obsolet local key 
+local paramet includ string 
+instal languag 
+resourc bundl exist 
+languag load 
+duplic detect properti 
+put 
+duplic 
+

@@ -1,2 +1,0 @@
-abstract isbn fetcher 
-bib entri 

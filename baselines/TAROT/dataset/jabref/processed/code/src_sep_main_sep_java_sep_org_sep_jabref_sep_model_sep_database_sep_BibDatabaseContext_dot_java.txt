@@ -1,0 +1,58 @@
+src sep main sep java sep org sep jabref sep model sep databas sep bib databas context dot java 
+logger 
+databas 
+meta data 
+path 
+dbms synchron 
+dbms listen 
+locat 
+
+
+databas 
+databas 
+meta data 
+databas 
+meta data 
+path 
+databas 
+meta data 
+path 
+locat 
+bib databas mode 
+file 
+meta data 
+prefer 
+prefer 
+directori 
+dmbs synchron 
+
+
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas context 
+mode 
+set mode 
+set databas path 
+databas path 
+clear databas path 
+databas 
+meta data 
+set meta data 
+biblatex mode 
+studi 
+file directori 
+exist file dir 
+file directori path 
+dbms synchron 
+clear dbms synchron 
+locat 
+convert share databas 
+convert local databas 
+entri 
+empti entri 
+fulltext index base path 
+fulltext index path 
+string 
+

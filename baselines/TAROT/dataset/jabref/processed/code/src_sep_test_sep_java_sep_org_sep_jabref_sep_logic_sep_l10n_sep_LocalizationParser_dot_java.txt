@@ -1,0 +1,42 @@
+src sep test sep java sep org sep jabref sep logic sep sep local parser dot java 
+
+
+type 
+type 
+type 
+type 
+type 
+type 
+path 
+path 
+path 
+path 
+path 
+type 
+path 
+type 
+path 
+type 
+key 
+key 
+loader 
+
+
+find key 
+find obsolet 
+find local entri file 
+find local paramet string java file 
+find local entri java file 
+find local entri fxml file 
+key properti file 
+properti 
+java file 
+fxml file 
+languag key java file 
+local paramet java file 
+languag key fxml file 
+handl object 
+key 
+key 
+set static load 
+

@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep integr sep integr messag dot java 
+entri 
+field 
+messag 
+
+
+messag 
+entri 
+field 
+ 
+
+
+integr messag 
+string 
+messag 
+entri 
+field 
+clone 
+equal 
+hash code 
+

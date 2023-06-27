@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep util sep uithreadawar sep ui thread bind dot java 
+deleg 
+deleg 
+
+
+deleg 
+listen 
+listen 
+super 
+super 
+
+
+ui thread bind 
+add listen 
+remov listen 
+add listen 
+remov listen 
+valu 
+valid 
+invalid 
+depend 
+dispos 
+

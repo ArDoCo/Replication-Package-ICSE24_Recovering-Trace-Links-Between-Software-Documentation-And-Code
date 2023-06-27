@@ -1,0 +1,51 @@
+implement sep mediastor dot web sep src sep sep kit sep ipd sep sdq sep mediastor sep web sep bean sep upload bean dot java 
+serial version uid 
+session bean 
+download bean 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+facad 
+file 
+
+
+file 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+session bean 
+download bean 
+
+
+init facad 
+file 
+set file 
+upload 
+album 
+set album 
+artist 
+set artist 
+bitrat 
+set bitrat 
+genr 
+set genr 
+releaseyear 
+set releaseyear 
+titl 
+set titl 
+upload 
+set upload 
+session bean 
+set session bean 
+download bean 
+set download bean 
+string 
+

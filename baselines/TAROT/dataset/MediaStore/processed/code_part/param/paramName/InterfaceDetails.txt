@@ -1,4 +1,0 @@
-bi 
-pi 
-ejb 
-local 

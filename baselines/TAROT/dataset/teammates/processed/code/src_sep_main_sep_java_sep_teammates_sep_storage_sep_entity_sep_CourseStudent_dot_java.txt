@@ -1,0 +1,62 @@
+src sep main sep java sep teammat sep storag sep entiti sep cours student dot java 
+id 
+creat 
+updat 
+registr key 
+googl id 
+email 
+cours id 
+
+comment 
+team 
+section 
+
+
+email 
+
+googl id 
+comment 
+cours id 
+team 
+section 
+email 
+cours id 
+creat 
+updat 
+email 
+googl id 
+
+comment 
+registr key 
+cours id 
+team 
+section 
+
+
+cours student 
+cours student 
+generat id 
+creat 
+set creat 
+updat 
+set updat 
+uniqu id 
+email 
+set email 
+googl id 
+set googl id 
+
+set 
+comment 
+set comment 
+registr key 
+set registr key 
+cours id 
+set cours id 
+team 
+set team 
+section 
+set section 
+updat updat timestamp 
+generat registr key 
+

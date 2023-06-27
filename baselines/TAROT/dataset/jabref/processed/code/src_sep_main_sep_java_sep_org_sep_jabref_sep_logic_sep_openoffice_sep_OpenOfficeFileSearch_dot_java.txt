@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep open offic file search dot java 
+logger 
+
+
+program directori 
+
+
+detect instal 
+find open offic directori 
+find window open offic dir 
+find osx open offic dir 
+find linux open offic dir 
+

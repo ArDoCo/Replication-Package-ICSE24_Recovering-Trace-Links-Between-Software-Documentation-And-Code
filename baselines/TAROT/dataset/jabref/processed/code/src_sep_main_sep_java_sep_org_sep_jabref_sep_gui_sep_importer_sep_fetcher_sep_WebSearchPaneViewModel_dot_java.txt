@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep import sep fetcher sep web search pane view model dot java 
+select fetcher 
+select fetcher 
+fetcher 
+fetcher 
+queri 
+dialog servic 
+state manag 
+search queri valid 
+parser 
+
+
+prefer servic 
+dialog servic 
+state manag 
+
+
+web search pane view model 
+fetcher 
+fetcher properti 
+select fetcher 
+select fetcher properti 
+queri 
+queri properti 
+search 
+queri valid status 
+

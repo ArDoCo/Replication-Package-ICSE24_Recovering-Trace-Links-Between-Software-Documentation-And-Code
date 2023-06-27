@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep cleanup sep cleanup worker dot java 
+databas context 
+file prefer 
+timestamp prefer 
+
+
+databas context 
+file prefer 
+timestamp prefer 
+preset 
+entri 
+preset 
+action 
+
+
+cleanup worker 
+cleanup 
+determin cleanup action 
+job 
+

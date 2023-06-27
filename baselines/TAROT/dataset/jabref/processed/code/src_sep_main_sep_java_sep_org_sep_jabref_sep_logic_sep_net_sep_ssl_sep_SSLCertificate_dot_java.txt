@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep logic sep net sep ssl sep ssl certif dot java 
+logger 
+sha thumbprint 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+
+
+encod 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+certif 
+cert path 
+
+
+ssl certif 
+serial number 
+issuer 
+valid 
+valid 
+signatur algorithm 
+version 
+sha thumbprint 
+
+path 
+

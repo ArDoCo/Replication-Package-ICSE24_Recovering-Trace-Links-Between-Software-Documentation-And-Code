@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditortab sep custom editor field tab view model dot java 
+field properti 
+dialog servic 
+prefer 
+entri editor prefer 
+
+
+dialog servic 
+prefer 
+tab field 
+
+
+custom editor field tab view model 
+set valu 
+reset default 
+set field 
+store set 
+field properti 
+

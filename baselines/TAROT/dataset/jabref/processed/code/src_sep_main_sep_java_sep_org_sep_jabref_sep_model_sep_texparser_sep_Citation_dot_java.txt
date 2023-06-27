@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep model sep texpars sep citat dot java 
+context width 
+path 
+line 
+col start 
+col 
+line text 
+
+
+path 
+line 
+col start 
+col 
+line text 
+obj 
+
+
+citat 
+path 
+line 
+col start 
+col 
+line text 
+context 
+string 
+equal 
+hash code 
+

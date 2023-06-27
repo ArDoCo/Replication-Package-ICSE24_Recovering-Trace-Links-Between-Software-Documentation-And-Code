@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep meta data diff dot java 
+group diff 
+group diff 
+origin meta data 
+meta data 
+
+
+origin meta data 
+meta data 
+origin meta data 
+meta data 
+prefer 
+
+
+meta data diff 
+compar 
+differ 
+meta data 
+group differ 
+

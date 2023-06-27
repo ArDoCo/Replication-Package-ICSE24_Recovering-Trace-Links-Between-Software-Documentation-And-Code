@@ -1,0 +1,29 @@
+src sep main sep java sep teammat sep ui sep output sep cours data dot java 
+cours id 
+cours 
+time zone 
+institut 
+creation timestamp 
+delet timestamp 
+privileg 
+
+
+cours attribut 
+creation timestamp 
+delet timestamp 
+privileg 
+
+
+cours data 
+cours id 
+cours 
+institut 
+time zone 
+creation timestamp 
+delet timestamp 
+privileg 
+set creation timestamp 
+set delet timestamp 
+set privileg 
+hide inform student 
+

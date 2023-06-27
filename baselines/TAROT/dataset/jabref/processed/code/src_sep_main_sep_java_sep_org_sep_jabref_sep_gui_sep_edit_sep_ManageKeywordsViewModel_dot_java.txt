@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep manag keyword view model dot java 
+entri 
+entri 
+sort keyword entri befor updat user 
+bib entri prefer 
+display type 
+display type 
+keyword 
+keyword 
+
+
+bib entri prefer 
+entri 
+type 
+keyword 
+entri 
+keyword add 
+keyword remov 
+
+
+manag keyword view model 
+display type 
+display type properti 
+fill keyword list 
+keyword 
+remov keyword 
+save chang 
+updat keyword 
+

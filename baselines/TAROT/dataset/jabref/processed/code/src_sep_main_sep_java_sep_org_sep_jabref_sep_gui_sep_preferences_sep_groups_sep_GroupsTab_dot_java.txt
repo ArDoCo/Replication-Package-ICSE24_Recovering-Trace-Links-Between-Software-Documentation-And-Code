@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep group sep group tab dot java 
+group view mode intersect 
+group view mode union 
+auto assign group 
+display group count 
+
+
+
+
+group tab 
+tab 
+initi 
+

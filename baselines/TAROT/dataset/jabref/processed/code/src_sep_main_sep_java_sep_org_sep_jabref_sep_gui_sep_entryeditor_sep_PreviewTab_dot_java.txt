@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep preview tab dot java 
+dialog servic 
+databas context 
+prefer 
+state manag 
+theme manag 
+index task manag 
+preview panel 
+
+
+databas context 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri 
+entri 
+
+
+preview tab 
+preview style 
+previous preview style 
+show 
+bind entri 
+

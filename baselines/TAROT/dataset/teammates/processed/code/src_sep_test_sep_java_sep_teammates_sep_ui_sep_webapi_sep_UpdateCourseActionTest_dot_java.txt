@@ -1,0 +1,18 @@
+src sep test sep java sep teammat sep ui sep webapi sep updat cours action test dot java 
+
+
+cours id 
+cours time zone 
+data 
+cours id 
+cours 
+time zone 
+
+
+action uri 
+request method 
+test execut 
+verifi session cours time zone 
+verifi cours data 
+test access control 
+

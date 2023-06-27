@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep logic sep git sep git handler dot java 
+logger 
+repositori path 
+repositori path file 
+git usernam 
+git password 
+credenti provid 
+
+
+repositori path 
+branch checkout 
+branch 
+commit messag 
+amend 
+target branch 
+sourc branch 
+merg strategi 
+
+
+git handler 
+setup git ignor 
+git repositori 
+checkout branch 
+ref branch 
+creat commit current branch 
+merg branch 
+push commit remot repositori 
+pull current branch 
+current check branch 
+

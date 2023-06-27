@@ -1,0 +1,47 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl column factori dot java 
+style icon column 
+logger 
+prefer servic 
+column prefer 
+databas 
+cell factori 
+undo manag 
+dialog servic 
+state manag 
+
+
+databas 
+prefer servic 
+abstract column pref 
+undo manag 
+dialog servic 
+state manag 
+column 
+column 
+width 
+column model 
+column model 
+entri 
+match group 
+column model 
+column model 
+column model 
+column model 
+column model 
+column model 
+
+
+main tabl column factori 
+creat column 
+creat column 
+set exact width 
+creat index column 
+creat group column 
+creat group color region 
+creat field column 
+creat identifi column 
+creat special field column 
+creat file column 
+creat extra file column 
+creat librari column 
+

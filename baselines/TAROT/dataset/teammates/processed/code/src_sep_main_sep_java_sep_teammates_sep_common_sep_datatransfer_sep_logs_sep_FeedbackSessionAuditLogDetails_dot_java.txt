@@ -1,0 +1,24 @@
+src sep main sep java sep teammat sep common sep datatransf sep log sep feedback session audit log detail dot java 
+cours id 
+feedback session 
+student email 
+access type 
+
+
+cours id 
+feedback session 
+student email 
+access type 
+
+
+feedback session audit log detail 
+cours id 
+set cours id 
+feedback session 
+set feedback session 
+student email 
+set student email 
+access type 
+set access type 
+hide sensit inform 
+

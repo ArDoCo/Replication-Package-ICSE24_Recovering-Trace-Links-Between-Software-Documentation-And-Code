@@ -1,0 +1,24 @@
+src sep main sep java sep teammat sep logic sep core sep age statist logic dot java 
+instanc 
+usag statist db 
+account request logic 
+cours logic 
+feedback respons logic 
+instructor logic 
+student logic 
+
+
+start time 
+time 
+start time 
+time 
+attribut 
+
+
+age statist logic 
+inst 
+init logic depend 
+usag statist time rang 
+calcul entiti statist time rang 
+creat usag statist 
+

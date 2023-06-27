@@ -1,0 +1,35 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep callback sep callback url servic dot java 
+log 
+receiv messag 
+receiv messag 
+process messag 
+max redirect 
+msg processor exec 
+run exec 
+
+
+msg 
+msg 
+delay milli 
+num attempt 
+msg 
+msg 
+messag 
+redirect url 
+redirect count 
+orig url 
+callback url 
+
+
+stop 
+start 
+run 
+process messag 
+run 
+sched callback 
+giveup callback 
+sched retri callback 
+handl messag 
+follow redirect 
+fetch callback url 
+

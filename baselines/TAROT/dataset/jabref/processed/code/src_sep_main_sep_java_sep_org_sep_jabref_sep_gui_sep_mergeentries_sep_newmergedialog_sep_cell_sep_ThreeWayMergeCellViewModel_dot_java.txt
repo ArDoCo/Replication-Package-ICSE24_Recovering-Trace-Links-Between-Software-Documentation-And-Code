@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep merg cell view model dot java 
+text 
+odd 
+
+
+
+text 
+row index 
+text 
+odd 
+
+
+
+merg cell view model 
+text 
+text properti 
+set text 
+odd 
+odd properti 
+set odd 
+
+properti 
+set 
+

@@ -1,0 +1,10 @@
+src sep main sep java sep org sep jabref sep gui sep sep action dot java 
+dialog view 
+
+
+
+
+action 
+execut 
+dialog view 
+

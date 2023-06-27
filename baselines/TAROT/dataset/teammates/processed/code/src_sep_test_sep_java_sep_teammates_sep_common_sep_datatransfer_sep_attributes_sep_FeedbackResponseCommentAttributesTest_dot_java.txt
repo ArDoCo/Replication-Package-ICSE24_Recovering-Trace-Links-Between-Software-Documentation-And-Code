@@ -1,0 +1,18 @@
+src sep test sep java sep teammat sep common sep datatransf sep attribut sep feedback respons comment attribut test dot java 
+
+
+
+
+test builder build noth default valu 
+test builder null argument throw 
+test builder typic data build correct attribut 
+test valu field popul feedback respons comment generat attribut correct 
+test valu field popul null default valu 
+test valu modif attribut leak state entiti 
+test updat option typic updat option updat attribut correct 
+test updat option builder null input fail assert error 
+test equal 
+test hash code 
+generat valid feedback respons comment attribut object 
+generat typic feedback respons comment attribut object 
+

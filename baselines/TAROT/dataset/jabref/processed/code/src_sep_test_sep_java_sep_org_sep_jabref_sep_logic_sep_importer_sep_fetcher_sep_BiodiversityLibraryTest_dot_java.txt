@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep biodivers librari test dot java 
+base url 
+respons format 
+build info 
+fetcher 
+
+
+id 
+id 
+
+
+set 
+test 
+biodivers heritag api key empti 
+base url construct 
+part metada url 
+item metada url 
+test perform search 
+json result bib entri 
+

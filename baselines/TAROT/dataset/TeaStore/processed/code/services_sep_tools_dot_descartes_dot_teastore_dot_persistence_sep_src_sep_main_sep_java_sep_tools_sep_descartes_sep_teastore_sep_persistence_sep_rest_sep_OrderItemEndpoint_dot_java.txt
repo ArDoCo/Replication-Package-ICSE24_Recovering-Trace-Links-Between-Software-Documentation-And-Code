@@ -1,0 +1,26 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep rest sep order item endpoint dot java 
+
+
+order item 
+id 
+start index 
+max result count 
+id 
+order item 
+id 
+product id 
+start posit 
+max result 
+order id 
+start posit 
+max result 
+
+
+creat entiti 
+find entiti id 
+list entiti 
+updat entiti 
+delet entiti 
+list product 
+list order 
+

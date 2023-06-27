@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep auto link file action dot java 
+dialog servic 
+prefer 
+state manag 
+undo manag 
+task executor 
+
+
+dialog servic 
+prefer 
+state manag 
+undo manag 
+task executor 
+
+
+auto link file action 
+execut 
+call 
+succeed 
+

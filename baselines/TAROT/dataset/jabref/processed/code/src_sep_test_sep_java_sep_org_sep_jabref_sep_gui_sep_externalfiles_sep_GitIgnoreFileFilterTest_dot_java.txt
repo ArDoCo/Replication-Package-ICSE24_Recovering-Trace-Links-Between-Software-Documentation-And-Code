@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep gui sep externalfil sep git ignor file filter test dot java 
+
+
+dir 
+dir 
+dir 
+dir 
+
+
+check simpl git ignor 
+check simpl git ignor 
+check simpl git ignor overwrit def 
+check directori git ignor 
+

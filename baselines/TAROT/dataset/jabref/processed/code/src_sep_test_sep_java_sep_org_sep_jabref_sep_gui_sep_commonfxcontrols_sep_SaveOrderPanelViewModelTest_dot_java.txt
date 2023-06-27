@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep gui sep commonfxcontrol sep save order panel view model test dot java 
+sort criterion key 
+sort criterion author 
+sort criterion titl 
+view model 
+
+
+
+
+set 
+add criterion 
+remov criterion 
+move criterion 
+move criterion 
+

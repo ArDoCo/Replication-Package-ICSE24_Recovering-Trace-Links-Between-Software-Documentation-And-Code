@@ -1,0 +1,35 @@
+util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep rest sep balanc crud oper dot java 
+log 
+
+
+client 
+entiti 
+client 
+id 
+entiti 
+client 
+id 
+client 
+id 
+client 
+start index 
+limit 
+client 
+filter uri 
+filter id 
+start index 
+limit 
+client 
+properti uri 
+properti valu 
+
+
+balanc crud oper 
+send entiti creation 
+send entiti updat 
+delet entiti 
+entiti 
+entiti 
+entiti 
+entiti properti 
+

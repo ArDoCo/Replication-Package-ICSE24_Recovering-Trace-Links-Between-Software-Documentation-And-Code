@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep collect comput scienc bibliographi fetcher dot java 
+basic search url 
+parser 
+
+
+import format prefer 
+lucen queri 
+entri 
+
+
+collect comput scienc bibliographi fetcher 
+url queri 
+parser 
+
+post cleanup 
+

@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep abbrevi checker test dot java 
+abbrevi repositori 
+checker 
+entri 
+
+
+
+
+set 
+check entri complain abbrevi journal 
+check entri doe complain journal abbrevi 
+check entri doe complain journal abbrevi 
+check entri doe complain journal input 
+check entri work la te field 
+check entri work la te field stil illeg char 
+

@@ -1,0 +1,42 @@
+src sep main sep java sep org sep jabref sep logic sep protectedterm sep protect term list dot java 
+logger 
+descript 
+term list 
+term list 
+locat 
+intern list 
+enabl 
+
+
+descript 
+term list 
+locat 
+intern list 
+descript 
+term list 
+locat 
+list 
+enabl 
+descript 
+term 
+term 
+creat 
+ 
+
+
+protect term list 
+protect term list 
+descript 
+term list 
+locat 
+term list 
+compar 
+intern list 
+set enabl 
+enabl 
+creat write head 
+add protect term 
+add protect term 
+equal 
+hash code 
+

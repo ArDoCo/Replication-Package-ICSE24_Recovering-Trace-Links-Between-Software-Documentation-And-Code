@@ -1,0 +1,90 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback constant sum question detail dot java 
+question type option 
+question type recipi 
+const sum min num option 
+const sum min num point 
+const sum error option 
+const sum error duplic option 
+const sum error point 
+const sum error mismatch 
+const sum error negat 
+const sum error uniqu 
+const sum error uniqu 
+const sum answer option match 
+const sum answer recipi match 
+const sum templat negat 
+const sum templat exceed point 
+const sum error max point bound 
+const sum error min point abov upper bound 
+const sum error min greater max 
+const sum answer min 
+const sum answer abov max 
+max point string 
+min point string 
+const sum option 
+const sum option 
+distribut recipi 
+point option 
+forc uneven distribut 
+distribut point 
+point 
+min point 
+max point 
+
+
+question text 
+detail 
+error 
+point 
+total point 
+boundari type 
+respons 
+num recipi 
+respons 
+total point 
+respons 
+total point 
+answer 
+point 
+total point 
+feedback question attribut 
+const sum option 
+distribut recipi 
+point option 
+forc uneven distribut 
+distribut point 
+point 
+min point 
+max point 
+
+
+feedback constant sum question detail 
+feedback constant sum question detail 
+chang requir respons delet 
+valid question detail 
+common boundari valid 
+valid respons detail 
+error const sum option 
+error const sum recipi 
+min max point error 
+error 
+feedback particip comment respons 
+valid giver recipi visibl 
+num const sum option 
+const sum option 
+set const sum option 
+distribut recipi 
+set distribut recipi 
+point option 
+set point option 
+forc uneven distribut 
+set forc uneven distribut 
+distribut point 
+set distribut point 
+point 
+set point 
+min point 
+set min point 
+max point 
+set max point 
+

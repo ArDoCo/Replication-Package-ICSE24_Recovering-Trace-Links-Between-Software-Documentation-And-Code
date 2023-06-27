@@ -1,0 +1,12 @@
+bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep manag sep manag connect dot java 
+
+
+
+
+hostnam 
+port 
+password 
+esl client 
+connect 
+disconnect 
+

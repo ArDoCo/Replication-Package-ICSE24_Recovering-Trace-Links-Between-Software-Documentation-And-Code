@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep import sep import custom entri type dialog view model dot java 
+mode 
+prefer servic 
+type 
+type 
+differ custom type 
+differ custom type 
+
+
+mode 
+entri type 
+prefer servic 
+check unknown entri type 
+check differ entri type 
+
+
+import custom entri type dialog view model 
+type 
+differ custom 
+import bib entri type 
+

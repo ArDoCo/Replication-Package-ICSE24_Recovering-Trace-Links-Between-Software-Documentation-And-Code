@@ -1,0 +1,52 @@
+src sep main sep java sep org sep jabref sep gui sep slr sep manag studi definit view model dot java 
+logger 
+default select 
+default select 
+titl 
+author 
+author 
+research question 
+research question 
+queri 
+queri 
+databas 
+databas 
+directori 
+dialog servic 
+
+
+import format prefer 
+import prefer 
+dialog servic 
+studi 
+studi directori 
+import format prefer 
+import prefer 
+dialog servic 
+author 
+research question 
+queri 
+studi repositori root 
+item 
+item 
+item 
+
+
+manag studi definit view model 
+manag studi definit view model 
+titl 
+directori 
+author 
+research question 
+queri 
+databas 
+add author 
+add research question 
+add queri 
+save studi 
+titl properti 
+set studi directori 
+delet author 
+delet question 
+delet queri 
+

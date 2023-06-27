@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep merg fetch entri action dot java 
+librari tab 
+dialog servic 
+state manag 
+prefer servic 
+task executor 
+
+
+librari tab 
+dialog servic 
+state manag 
+task executor 
+prefer servic 
+
+
+merg fetch entri action 
+execut 
+

@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep field view model dot java 
+field 
+field 
+requir 
+multilin 
+prioriti properti 
+prioriti properti 
+
+
+
+field 
+requir 
+prioriti properti 
+multilin 
+
+
+
+field view model 
+field 
+properti 
+requir properti 
+requir 
+multilin properti 
+multilin 
+prioriti 
+bib field 
+string 
+mandatori 
+display 
+

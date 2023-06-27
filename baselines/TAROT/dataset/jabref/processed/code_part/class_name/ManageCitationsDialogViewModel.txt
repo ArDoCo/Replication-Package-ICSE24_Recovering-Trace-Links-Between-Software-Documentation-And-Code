@@ -1,1 +1,0 @@
-manag citat dialog view model 

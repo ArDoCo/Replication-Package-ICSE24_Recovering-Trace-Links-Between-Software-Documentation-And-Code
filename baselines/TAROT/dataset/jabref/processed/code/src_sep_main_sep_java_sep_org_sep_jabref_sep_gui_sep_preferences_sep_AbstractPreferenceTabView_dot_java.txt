@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep abstract prefer tab view dot java 
+task executor 
+dialog servic 
+prefer servic 
+view model 
+
+
+
+
+builder 
+set valu 
+store set 
+valid set 
+restart warn 
+

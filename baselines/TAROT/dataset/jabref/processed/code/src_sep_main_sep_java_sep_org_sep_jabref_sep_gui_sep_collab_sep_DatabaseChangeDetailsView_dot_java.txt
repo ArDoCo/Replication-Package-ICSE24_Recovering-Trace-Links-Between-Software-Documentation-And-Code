@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep collab sep databas chang detail view dot java 
+entri preview sourc detail view 
+group chang detail view 
+metadata chang detail view 
+preambl chang detail view 
+bib tex string add detail view 
+bib tex string chang detail view 
+bib tex string delet detail view 
+bib tex string renam detail view 
+entri chang detail view 
+
+
+
+
+

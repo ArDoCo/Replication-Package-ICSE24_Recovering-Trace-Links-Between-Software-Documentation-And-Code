@@ -1,0 +1,79 @@
+src sep main sep java sep org sep jabref sep logic sep export sep mod export dot java 
+mod namespac uri 
+
+doubl 
+mod schema locat 
+context 
+
+
+databas context 
+file 
+entri 
+file 
+jaxb element 
+relat item 
+part definit 
+mod 
+mod 
+entri type 
+mod 
+valu 
+mod 
+valu 
+mod 
+valu 
+mod 
+valu 
+mod 
+valu 
+mod 
+valu 
+valu 
+relat item 
+mod 
+valu 
+part definit 
+valu 
+mod 
+valu 
+mod 
+valu 
+field 
+valu 
+mod 
+valu 
+part definit 
+
+field 
+valu 
+part definit 
+field 
+valu 
+origin info 
+date 
+valu 
+origin info 
+
+
+mod export 
+export 
+creat marshal write file 
+add relat origin info mod group 
+add genr 
+add abstract 
+add titl 
+add affili 
+add locat 
+add note 
+add url 
+add journal 
+add languag 
+add page 
+add key word 
+handl author 
+add identifi 
+add start page 
+add detail 
+add origin inform 
+add date 
+

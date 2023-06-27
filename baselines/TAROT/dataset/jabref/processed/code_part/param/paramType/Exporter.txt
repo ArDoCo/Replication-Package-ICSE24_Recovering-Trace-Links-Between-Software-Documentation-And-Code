@@ -1,7 +1,0 @@
-bib entri 
-bib entri 
-file prefer 
-bib entri 
-bib entri 
-bib databas 
-file prefer 

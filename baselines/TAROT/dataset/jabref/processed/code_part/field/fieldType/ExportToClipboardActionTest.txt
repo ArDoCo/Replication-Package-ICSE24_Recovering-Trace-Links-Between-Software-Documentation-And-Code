@@ -1,3 +1,0 @@
-import export prefer 
-export factori 
-bib entri 

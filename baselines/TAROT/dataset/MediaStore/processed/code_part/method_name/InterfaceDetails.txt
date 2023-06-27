@@ -1,5 +1,0 @@
-interfac detail 
-busi interfac 
-provid interfac 
-ejb 
-local 

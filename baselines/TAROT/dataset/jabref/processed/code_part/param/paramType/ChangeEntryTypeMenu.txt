@@ -1,8 +1,0 @@
-bib entri 
-key bind repositori 
-bib entri type manag 
-bib entri 
-bib entri type 
-bib entri 
-bib entri type 
-bib entri 

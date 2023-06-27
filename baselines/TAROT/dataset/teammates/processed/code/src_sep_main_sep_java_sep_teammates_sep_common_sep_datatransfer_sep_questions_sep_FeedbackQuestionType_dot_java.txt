@@ -1,0 +1,15 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback question type dot java 
+question detail class 
+question detail class 
+respons detail class 
+respons detail class 
+
+
+extend 
+extend 
+
+
+feedback question type 
+question detail class 
+respons detail class 
+

@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep share sep dbms connect dot java 
+logger 
+connect 
+properti 
+
+
+connect properti 
+
+
+dbms connect 
+connect 
+properti 
+avail dbms type 
+

@@ -1,0 +1,42 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep util dot java 
+meet id pattern 
+pres id pattern 
+pres file id pattern 
+
+
+id 
+id 
+id 
+pres filenam 
+pres id 
+file ext 
+meet id 
+present dir 
+present id 
+present base dir 
+meet id 
+present base dir 
+meet id 
+present id 
+present base dir 
+path 
+pres base dir 
+pres id 
+pres file dir 
+pres id 
+download 
+
+
+util 
+meet id valid format 
+pres id valid format 
+pres file id valid format 
+generat present id 
+creat filenam 
+creat present dir 
+meet dir path 
+present dir 
+strip pres base dir path 
+pres file download marker 
+present download 
+

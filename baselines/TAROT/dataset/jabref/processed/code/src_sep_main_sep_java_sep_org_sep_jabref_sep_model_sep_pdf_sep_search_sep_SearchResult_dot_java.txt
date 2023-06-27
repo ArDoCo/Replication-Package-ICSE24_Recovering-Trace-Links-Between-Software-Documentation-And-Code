@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep model sep pdf sep search sep search result dot java 
+path 
+page number 
+modifi 
+lucen score 
+content result string html 
+content result string html 
+annot result string html 
+annot result string html 
+
+
+searcher 
+queri 
+score doc 
+searcher 
+score doc 
+field 
+entri 
+
+
+search result 
+field content 
+result 
+path 
+modifi 
+lucen score 
+content result string html 
+annot result string html 
+page number 
+

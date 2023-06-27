@@ -1,0 +1,73 @@
+src sep main sep java sep org sep jabref sep logic sep crawler sep studi repositori dot java 
+studi definit file 
+logger 
+match colon 
+match illeg charact 
+remot 
+work branch 
+search branch 
+repositori path 
+studi definit file 
+git handler 
+studi 
+prefer servic 
+file updat monitor 
+bib entri type manag 
+
+
+path repositori 
+git handler 
+prefer servic 
+file updat monitor 
+bib entri type manag 
+queri 
+fetcher 
+queri 
+crawl result 
+queri 
+folder 
+queri 
+search base fetcher 
+queri 
+file 
+queri 
+queri 
+crawl result 
+exist entri 
+target entri 
+path file 
+entri 
+queri 
+fetcher 
+queri 
+queri 
+
+
+studi repositori 
+fetcher result entri 
+queri result entri 
+studi result entri 
+pars studi file 
+search queri string 
+activ librari entri 
+studi 
+persist 
+updat remot search work branch 
+updat work search branch 
+set repositori structur queri fetcher 
+creat queri result folder 
+creat folder 
+creat fetcher result file 
+creat queri result file 
+creat studi result file 
+creat bib file 
+trim add id 
+comput id queri 
+persist result 
+generat cite key 
+write result file 
+path fetcher result file 
+path queri result file 
+path studi result file 
+path queri directori 
+

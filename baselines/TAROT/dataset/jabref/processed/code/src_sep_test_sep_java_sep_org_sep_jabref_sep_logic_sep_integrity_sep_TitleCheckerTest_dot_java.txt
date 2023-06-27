@@ -1,0 +1,48 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep titl checker test dot java 
+checker 
+checker biblatex 
+
+
+
+
+set 
+letter onli capit letter titl 
+capit letter titl 
+capit letter titl 
+middl letter onli capit letter titl 
+capit letter titl cur bracket 
+middl letter onli capit letter titl cur bracket 
+letter onli capit letter titl continu delimit 
+middl letter onli capit letter titl continu delimit 
+letter onli capit letter everi titl continu delimit 
+letter onli capit letter everi titl random delimit 
+capit letter titl cur bracket 
+bib tex accept titl onli capit letter 
+bib tex doe accept capit letter insid titl 
+bib tex remov capit letter insid titl 
+bib tex remov everyth bracket accept titl input 
+bib tex remov everyth bracket 
+bib tex accept titl lowercas letter 
+bib tex accept titl onli capit letter 
+bib tex accept titl lowercas letter 
+bib tex doe accept capit letter insid titl 
+bib tex remov capit letter insid titl 
+bib tex split titl base dot 
+bib tex split titl base special charact 
+bib tex accept capit letter special charact 
+bib tex accept capit letter onli special charact 
+bib la tex accept titl onli capit letter 
+bib la tex accept capit letter insid titl 
+bib la tex remov capit letter insid titl 
+bib la tex remov everyth bracket accept titl input 
+bib la tex remov everyth bracket 
+bib la tex accept titl lowercas letter 
+bib la tex accept titl onli capit letter 
+bib la tex accept titl lowercas letter 
+bib la tex accept capit letter insid titl 
+bib la tex remov capit letter insid titl 
+bib la tex split titl base dot 
+bib la tex split titl base special charact 
+bib la tex accept capit letter special charact 
+bib la tex accept capit letter onli special charact 
+

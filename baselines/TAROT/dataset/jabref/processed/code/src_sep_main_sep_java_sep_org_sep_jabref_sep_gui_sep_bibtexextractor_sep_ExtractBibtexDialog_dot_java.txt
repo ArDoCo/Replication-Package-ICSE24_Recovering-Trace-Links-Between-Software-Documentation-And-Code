@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep bibtexextractor sep extract bibtex dialog dot java 
+button pars 
+input 
+pars button type 
+view model 
+state manag 
+dialog servic 
+file updat monitor 
+task executor 
+undo manag 
+prefer servic 
+import format reader 
+
+
+
+
+extract bibtex dialog 
+initi 
+

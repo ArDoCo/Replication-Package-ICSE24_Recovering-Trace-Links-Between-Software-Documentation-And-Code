@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep diffhighlight sep unifi diff highlight dot java 
+
+
+sourc textview 
+target textview 
+diff method 
+text area 
+text 
+style class 
+posit 
+chang list 
+
+
+unifi diff highlight 
+highlight 
+append text area 
+find chang 
+

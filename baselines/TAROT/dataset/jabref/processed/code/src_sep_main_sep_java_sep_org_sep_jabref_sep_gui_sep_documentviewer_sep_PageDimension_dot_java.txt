@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep documentview sep page dimens dot java 
+width 
+height 
+
+
+width 
+height 
+width 
+height 
+aspect ratio 
+aspect ratio 
+width 
+aspect ratio 
+aspect ratio 
+height 
+aspect ratio 
+aspect ratio 
+
+
+fix width 
+fix height 
+fix width 
+fix height 
+width 
+height 
+fix width page dimens 
+width 
+height 
+fix height page dimens 
+width 
+height 
+

@@ -1,0 +1,61 @@
+src sep main sep java sep teammat sep storag sep api sep feedback session db dot java 
+instanc 
+
+
+rang start 
+rang 
+cours id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+cours id 
+
+cours id 
+updat option 
+feedback session 
+cours id 
+feedback session 
+cours id 
+feedback session 
+cours id 
+queri 
+cours id 
+cours id 
+
+feedback session 
+cours id 
+entiti creat 
+entiti 
+
+
+feedback session db 
+inst 
+ongo session 
+feedback session 
+soft delet feedback session 
+feedback session cours 
+feedback session cours start 
+soft delet feedback session cours 
+feedback session possibl open email 
+feedback session possibl close email 
+feedback session possibl close email 
+feedback session possibl open email 
+feedback session possibl publish email 
+updat feedback session 
+soft delet feedback session 
+restor delet feedback session 
+delet feedback session 
+delet feedback session 
+feedback session entiti cours 
+feedback session entiti cours start 
+feedback session entiti possibl open email 
+feedback session entiti possibl open email 
+feedback session entiti possibl close email 
+feedback session entiti possibl close email 
+feedback session entiti possibl publish email 
+feedback session entiti 
+load 
+exist entiti 
+attribut 
+

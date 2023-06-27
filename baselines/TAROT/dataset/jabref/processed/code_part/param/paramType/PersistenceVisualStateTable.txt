@@ -1,2 +1,0 @@
-bib entri tabl view model 
-column prefer 

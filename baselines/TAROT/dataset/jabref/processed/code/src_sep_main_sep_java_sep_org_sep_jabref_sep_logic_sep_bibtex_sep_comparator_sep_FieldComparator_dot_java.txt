@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep field compar dot java 
+collat 
+field 
+field type 
+numer 
+multipli 
+
+
+field 
+sort criterion 
+field 
+descend 
+entri 
+ 
+ 
+
+
+field compar 
+field compar 
+field compar 
+collat 
+determin field type 
+field valu 
+compar 
+

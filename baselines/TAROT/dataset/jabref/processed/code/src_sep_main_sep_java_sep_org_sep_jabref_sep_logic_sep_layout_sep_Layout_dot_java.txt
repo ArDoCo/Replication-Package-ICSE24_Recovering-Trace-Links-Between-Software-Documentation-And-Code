@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep logic sep layout sep layout dot java 
+logger 
+layout entri 
+layout entri 
+formatt 
+formatt 
+
+
+pars entri 
+file dir databas 
+pref 
+formatt 
+bibtex 
+databas 
+databas context 
+encod 
+
+
+layout 
+set post formatt 
+text 
+layout 
+layout 
+formatt 
+

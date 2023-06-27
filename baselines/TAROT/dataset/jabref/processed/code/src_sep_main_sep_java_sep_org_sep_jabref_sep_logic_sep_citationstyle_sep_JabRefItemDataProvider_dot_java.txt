@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep logic sep citationstyl sep jab ref item data provid dot java 
+bibtex convert 
+string json builder factori 
+data 
+data 
+bib databas context 
+entri type manag 
+page checker 
+
+
+origin bib entri 
+bib databas context 
+entri type manag 
+bib databas context 
+entri type manag 
+data 
+bib databas context 
+entri type manag 
+id 
+
+
+jab ref item data provid 
+bib entri csl item data 
+set data 
+set data 
+json 
+retriev item 
+id 
+

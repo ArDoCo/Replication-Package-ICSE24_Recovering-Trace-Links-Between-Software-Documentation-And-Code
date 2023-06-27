@@ -1,0 +1,16 @@
+src sep test sep java sep teammat sep ui sep webapi sep creat account action test dot java 
+
+
+maximum id length 
+instructor email propos cours id 
+maximum id length 
+
+
+action uri 
+request method 
+test execut 
+test access control 
+test generat demo cours id 
+test generat demo cours id length limit 
+generat demo cours id 
+

@@ -1,0 +1,15 @@
+servic sep tool dot descart dot teastor dot registri sep src sep main sep java sep tool sep descart sep teastor sep registri sep rest sep registri startup dot java 
+log 
+heartbeat interv ms 
+heartbeat schedul 
+
+
+arg 
+arg 
+
+
+registri startup 
+context destroy 
+context initi 
+run 
+

@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep undo sep count undo manag dot java 
+unchang point 
+current 
+event bus 
+
+
+edit 
+object 
+object 
+
+
+add edit 
+undo 
+redo 
+mark unchang 
+chang 
+regist listen 
+unregist listen 
+post undo redo event 
+post add undo event 
+

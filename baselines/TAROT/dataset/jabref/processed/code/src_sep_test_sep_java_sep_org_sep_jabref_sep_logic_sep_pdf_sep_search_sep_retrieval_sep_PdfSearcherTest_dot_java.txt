@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep pdf sep search sep retriev sep pdf searcher test dot java 
+search 
+
+
+index dir 
+
+
+set 
+search test 
+search univers 
+search stop word 
+search 
+search annot 
+search empti string 
+search null string 
+search result 
+

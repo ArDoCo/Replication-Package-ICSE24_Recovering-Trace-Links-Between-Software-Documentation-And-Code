@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep citat key pattern panel item model dot java 
+entri type 
+entri type 
+pattern 
+
+
+entri type 
+pattern 
+pattern 
+
+
+citat key pattern panel item model 
+entri type 
+entri type 
+set pattern 
+pattern 
+pattern 
+string 
+

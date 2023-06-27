@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep gui sep bibtexextractor sep bibtex extractor view model dot java 
+logger 
+input text properti 
+dialog servic 
+prefer servic 
+task executor 
+import handler 
+
+
+bibdatabas context 
+dialog servic 
+prefer servic 
+file updat monitor 
+task executor 
+undo manag 
+state manag 
+import format reader 
+bib entri 
+event messag 
+
+
+bibtex extractor view model 
+input text properti 
+start pars 
+pars bibtex extractor 
+pars grobid 
+track entri 
+

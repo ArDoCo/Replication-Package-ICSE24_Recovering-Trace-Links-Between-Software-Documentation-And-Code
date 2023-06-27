@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep cleanup url formatt test dot java 
+formatt 
+
+
+
+
+set 
+remov special symbol url link 
+extract url form link 
+valid url unmodifi 
+latex command remov 
+urlencod slash convert 
+format exampl 
+replac oper sign url 
+

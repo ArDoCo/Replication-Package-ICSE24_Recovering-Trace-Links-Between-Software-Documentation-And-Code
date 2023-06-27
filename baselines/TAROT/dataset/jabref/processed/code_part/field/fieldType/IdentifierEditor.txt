@@ -1,3 +1,0 @@
-base identifi editor view model 
-editor text area 
-bib entri 

@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep citationkeypattern sep generat citat key singl action dot java 
+dialog servic 
+databas context 
+prefer servic 
+entri 
+undo manag 
+
+
+entri 
+databas context 
+dialog servic 
+prefer servic 
+undo manag 
+
+
+generat citat key singl action 
+execut 
+

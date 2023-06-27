@@ -1,0 +1,12 @@
+src sep test sep java sep teammat sep ui sep request sep student enrol request test dot java 
+
+
+index 
+
+
+test valid valid request pass 
+test valid null valu request fail 
+test valid empti enrol list fail 
+test valid duplic email fail 
+typic student enrol request 
+

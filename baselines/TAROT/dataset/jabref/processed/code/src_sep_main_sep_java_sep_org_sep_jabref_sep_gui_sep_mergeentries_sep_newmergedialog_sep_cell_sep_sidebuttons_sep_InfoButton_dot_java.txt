@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep sidebutton sep info button dot java 
+info messag 
+action factori 
+merg action 
+
+
+info messag 
+
+
+icon 
+text 
+info button 
+configur button 
+execut 
+

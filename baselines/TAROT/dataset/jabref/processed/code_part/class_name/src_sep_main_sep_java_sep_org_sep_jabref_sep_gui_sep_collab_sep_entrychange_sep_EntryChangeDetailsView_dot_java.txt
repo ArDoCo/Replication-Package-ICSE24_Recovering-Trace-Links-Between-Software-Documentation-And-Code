@@ -1,0 +1,1 @@
+src sep main sep java sep org sep jabref sep gui sep collab sep entrychang sep entri chang detail view dot java 

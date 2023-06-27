@@ -1,5 +1,0 @@
-bib databas 
-bib entri 
-bib entri 
-field 
-bib entri 

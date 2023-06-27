@@ -1,0 +1,31 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep extern file entri linker dot java 
+logger 
+file prefer 
+bib databas context 
+move file cleanup 
+renam file cleanup 
+
+
+file prefer 
+bib databas context 
+file 
+entri 
+entri 
+entri 
+file 
+entri 
+file 
+index task manag 
+entri 
+file 
+index task manag 
+
+
+extern file entri linker 
+copi file file dir 
+renam link file pattern 
+move link file file dir 
+add file entri 
+move file file dir add entri 
+copi file file dir add entri 
+

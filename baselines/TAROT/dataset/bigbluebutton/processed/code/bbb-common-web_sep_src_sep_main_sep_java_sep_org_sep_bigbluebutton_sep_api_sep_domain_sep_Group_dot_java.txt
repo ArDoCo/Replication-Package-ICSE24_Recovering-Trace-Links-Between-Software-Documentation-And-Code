@@ -1,0 +1,23 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep group dot java 
+group id 
+
+user ext id 
+user ext id 
+
+
+group id 
+
+user ext id 
+group id 
+
+user ext id 
+
+
+group 
+group id 
+set group id 
+
+set 
+user ext id 
+set user ext id 
+

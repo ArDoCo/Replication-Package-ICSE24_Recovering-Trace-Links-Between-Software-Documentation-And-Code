@@ -1,0 +1,31 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep googl scholar dot java 
+logger 
+link bib pattern 
+basic search url 
+num result 
+import format prefer 
+
+
+import format prefer 
+entri 
+url 
+bodi 
+entri list 
+queri url 
+link 
+lucen queri 
+page number 
+
+
+googl scholar 
+find full text 
+trust level 
+search 
+captcha 
+
+page 
+add hit queri 
+download entri 
+obtain modifi cooki 
+perform search page 
+

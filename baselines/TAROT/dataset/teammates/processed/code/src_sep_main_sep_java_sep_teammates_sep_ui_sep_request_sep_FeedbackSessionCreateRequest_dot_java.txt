@@ -1,0 +1,19 @@
+src sep main sep java sep teammat sep ui sep request sep feedback session creat request dot java 
+feedback session 
+copi cours id 
+copi session 
+
+
+feedback session 
+copi cours id 
+copi session 
+
+
+feedback session 
+copi cours id 
+copi session 
+set feedback session 
+set copi cours id 
+set copi session 
+valid 
+

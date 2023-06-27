@@ -1,0 +1,24 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep cross ref test dot java 
+fetcher 
+barro entri 
+
+
+
+
+set 
+find exact data 
+find author 
+find titl onli 
+find incomplet titl 
+accept titl threshold 
+accept titl threshold 
+find wrong author 
+find subtitl 
+find doi 
+find author 
+find entri 
+perform search id find paper titl 
+perform search empti id 
+perform search empti queri 
+test perform search valid return noth doi 
+

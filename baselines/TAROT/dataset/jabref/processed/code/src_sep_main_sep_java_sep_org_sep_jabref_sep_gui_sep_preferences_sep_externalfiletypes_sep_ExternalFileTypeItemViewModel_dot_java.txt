@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep externalfiletyp sep extern file type item view model dot java 
+icon 
+icon 
+
+extens 
+mimetyp 
+applic 
+
+
+file type 
+
+
+extern file type item view model 
+extern file type item view model 
+icon properti 
+
+properti 
+extens properti 
+mimetyp properti 
+applic properti 
+extern file type 
+

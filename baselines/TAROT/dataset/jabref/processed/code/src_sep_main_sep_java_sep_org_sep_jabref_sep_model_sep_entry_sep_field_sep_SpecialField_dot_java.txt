@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep model sep entri sep field sep special field dot java 
+valu 
+valu 
+keyword 
+map 
+map 
+field 
+
+
+field 
+valu 
+
+valu 
+
+
+special field 
+valu 
+key word 
+
+singl valu field 
+pars valu 
+properti 
+
+standard field 
+

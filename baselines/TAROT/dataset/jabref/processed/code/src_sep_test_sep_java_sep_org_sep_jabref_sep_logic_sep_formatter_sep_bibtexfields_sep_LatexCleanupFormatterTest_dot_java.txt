@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep latex cleanup formatt test dot java 
+formatt 
+
+
+
+
+set 
+test 
+preserv percent sign 
+escap percent sign onli onc 
+escap percent sign onlni onc number 
+format exampl 
+

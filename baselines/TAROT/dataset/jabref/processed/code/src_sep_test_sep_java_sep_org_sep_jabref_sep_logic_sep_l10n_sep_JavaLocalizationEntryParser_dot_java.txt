@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep sep java local entri parser dot java 
+infinit whitespac 
+dot 
+local start pattern 
+local menu start pattern 
+escap quotat symbol 
+quotat placehold 
+quotat symbol pattern 
+
+
+content 
+type 
+param 
+content 
+type 
+
+
+languag key string 
+content quot 
+local paramet 
+

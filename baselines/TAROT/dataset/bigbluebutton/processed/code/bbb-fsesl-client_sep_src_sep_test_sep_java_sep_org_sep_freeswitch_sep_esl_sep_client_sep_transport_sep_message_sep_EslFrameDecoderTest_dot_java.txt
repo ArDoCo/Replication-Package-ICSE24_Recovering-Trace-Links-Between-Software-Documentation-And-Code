@@ -1,0 +1,16 @@
+bbb fsesl client sep src sep test sep java sep org sep freeswitch sep esl sep client sep transport sep messag sep frame decod test dot java 
+log 
+embedd 
+embedd 
+
+
+input line 
+termin line 
+
+
+setup test 
+simpl messag 
+simpl messag content 
+event content length 
+creat input buffer 
+

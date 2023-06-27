@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep field editor fx dot java 
+
+
+entri 
+
+
+bind entri 
+node 
+focus 
+child focus 
+weight 
+

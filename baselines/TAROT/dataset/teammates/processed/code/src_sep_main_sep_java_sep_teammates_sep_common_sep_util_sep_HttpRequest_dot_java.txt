@@ -1,0 +1,10 @@
+src sep main sep java sep teammat sep common sep util sep http request dot java 
+timeout ms 
+
+
+uri 
+
+
+http request 
+execut request 
+

@@ -1,0 +1,22 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep meet info dot java 
+id 
+extern id 
+
+breakout 
+
+
+id 
+extern id 
+
+breakout 
+
+
+set id 
+id 
+set extern id 
+extern id 
+set 
+
+set breakout 
+breakout 
+

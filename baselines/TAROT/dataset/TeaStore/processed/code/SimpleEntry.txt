@@ -1,9 +1,0 @@
-simpl entri 
-
-
-data 
-
-
-simpl entri 
-
-

@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep remov hyphen newlin formatt test dot java 
+formatt 
+
+
+
+
+set 
+remov hyphen befor newlin 
+hyphen unmodifi 
+remov hyphen befor platform specif newlin 
+

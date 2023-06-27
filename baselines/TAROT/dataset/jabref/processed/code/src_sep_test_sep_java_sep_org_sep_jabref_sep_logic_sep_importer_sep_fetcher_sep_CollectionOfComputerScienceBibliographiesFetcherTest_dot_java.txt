@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep collect comput scienc bibliographi fetcher test dot java 
+fetcher 
+
+
+
+
+set 
+return correct 
+url queri return correct url 
+perform search return match multipl entri 
+perform search return empti list empti search 
+

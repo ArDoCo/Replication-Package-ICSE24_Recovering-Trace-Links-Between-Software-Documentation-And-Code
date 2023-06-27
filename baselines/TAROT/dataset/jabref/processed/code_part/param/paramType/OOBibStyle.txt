@@ -1,9 +1,0 @@
-entri type 
-oo bib style 
-layout 
-citat marker numer entri 
-citat marker numer entri 
-citat marker numer bib entri 
-citat marker norm entri 
-uniqu citat marker 
-oo text 

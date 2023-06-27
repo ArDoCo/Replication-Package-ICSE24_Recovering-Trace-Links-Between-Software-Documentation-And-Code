@@ -1,9 +1,0 @@
-explicit group 
-keyword group 
-search group 
-abstract group 
-group tree node 
-abstract group 
-tex group 
-automat person group 
-automat keyword group 

@@ -1,0 +1,25 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep messag sep doc invalid mime type dot java 
+pod id 
+meet id 
+pres id 
+temporari present id 
+filenam 
+authz token 
+messag key 
+file mime 
+file extens 
+
+
+pod id 
+meet id 
+pres id 
+temporari present id 
+filenam 
+authz token 
+messag key 
+file mime 
+file extens 
+
+
+doc invalid mime type 
+

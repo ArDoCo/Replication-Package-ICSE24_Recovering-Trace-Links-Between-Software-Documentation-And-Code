@@ -1,0 +1,26 @@
+akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch confer event listen dot java 
+log 
+senderthread 
+msg sender exec 
+run exec 
+messag 
+messag 
+send messag 
+vcs 
+
+
+vcs 
+event 
+event 
+event 
+
+
+freeswitch confer event listen 
+queue messag 
+send messag big blue button 
+run 
+start 
+run 
+stop 
+handl confer event 
+

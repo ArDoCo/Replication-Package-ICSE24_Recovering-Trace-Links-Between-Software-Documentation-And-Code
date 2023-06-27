@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep util sep uithreadawar sep ui thread chang listen dot java 
+deleg 
+deleg 
+
+
+deleg 
+extend 
+valu 
+valu 
+ 
+
+
+ui thread chang listen 
+chang 
+equal 
+hash code 
+

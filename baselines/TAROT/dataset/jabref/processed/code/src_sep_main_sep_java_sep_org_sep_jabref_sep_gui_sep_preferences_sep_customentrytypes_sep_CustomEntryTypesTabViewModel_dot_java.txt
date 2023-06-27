@@ -1,0 +1,48 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep custom entri type tab view model dot java 
+field ad 
+field ad 
+select entri type 
+select entri type 
+entri type add 
+field add 
+field add 
+entri type field 
+entri type field 
+entri type delet 
+entri type delet 
+prefer servic 
+entri type manag 
+dialog servic 
+bib databas mode 
+entri type valid 
+field valid 
+multi line field 
+multi line field 
+multilin 
+multilin 
+
+
+mode 
+entri type manag 
+dialog servic 
+prefer servic 
+focus item 
+focus item 
+
+
+custom entri type tab view model 
+set valu 
+store set 
+add custom entri type 
+remov entri type 
+add field 
+remov field 
+reset custom entri type 
+select entri type properti 
+entri type add properti 
+field add properti 
+entri type 
+field ad 
+entri type valid status 
+field valid status 
+

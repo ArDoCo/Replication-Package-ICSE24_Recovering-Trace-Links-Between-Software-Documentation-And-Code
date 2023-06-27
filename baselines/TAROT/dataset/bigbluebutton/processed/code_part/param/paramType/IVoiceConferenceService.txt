@@ -1,3 +1,0 @@
-conf member 
-conf record 
-conf record 

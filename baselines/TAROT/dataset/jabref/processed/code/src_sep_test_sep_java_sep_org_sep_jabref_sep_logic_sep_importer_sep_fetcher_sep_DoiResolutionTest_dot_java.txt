@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep doi resolut test dot java 
+finder 
+entri 
+
+
+
+
+setup 
+link pdf titl tag 
+link pdf string lead fulltext 
+citat meta tag lead fulltext 
+return anyth multipl link 
+return anyth springer pay wall 
+doi 
+entiti doi 
+trust level 
+

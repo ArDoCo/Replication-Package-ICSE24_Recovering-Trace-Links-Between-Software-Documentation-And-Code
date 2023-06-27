@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep model sep entri sep bib entri type builder dot java 
+type 
+field 
+field 
+requir field 
+requir field 
+
+
+type 
+field 
+field 
+field 
+field 
+field 
+requir field 
+requir field 
+
+requir field 
+
+requir field 
+
+
+type 
+import field 
+import field 
+import field 
+detail field 
+detail field 
+requir field 
+requir field 
+requir field 
+requir field 
+build 
+

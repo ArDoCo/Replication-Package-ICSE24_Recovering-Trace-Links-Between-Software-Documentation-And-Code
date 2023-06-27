@@ -1,4 +1,0 @@
-save configur 
-prefer servic 
-bib entri type manag 
-slr git handler 

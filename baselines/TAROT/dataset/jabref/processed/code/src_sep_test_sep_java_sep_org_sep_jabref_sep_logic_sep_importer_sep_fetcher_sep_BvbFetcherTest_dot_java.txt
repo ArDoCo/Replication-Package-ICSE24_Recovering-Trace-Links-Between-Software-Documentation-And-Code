@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep bvb fetcher test dot java 
+fetcher 
+bib entri isbn 
+bib entri isbn 
+
+
+
+
+test perform test 
+set 
+test 
+simpl search queri url correct 
+complex search queri url correct 
+test perform search match multipl entri 
+test perform search empti 
+

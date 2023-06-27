@@ -1,5 +1,0 @@
-meet prop 
-durat prop 
-voic prop 
-password prop 
-er prop 

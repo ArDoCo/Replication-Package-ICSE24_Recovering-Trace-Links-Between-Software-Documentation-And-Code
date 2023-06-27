@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep keybind sep key bind tab dot java 
+key bind tabl 
+key bind tabl 
+action column 
+action column 
+shortcut column 
+shortcut column 
+reset column 
+reset column 
+clear column 
+clear column 
+preset button 
+key bind repositori 
+
+
+preset 
+
+
+key bind tab 
+tab 
+initi 
+creat menu item 
+reset bind 
+

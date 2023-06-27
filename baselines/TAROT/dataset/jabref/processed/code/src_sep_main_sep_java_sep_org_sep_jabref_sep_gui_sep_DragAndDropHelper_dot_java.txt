@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep drag drop helper dot java 
+
+
+dragboard 
+dragboard 
+dragboard 
+dragboard 
+
+
+bib file 
+bib file 
+group 
+group 
+

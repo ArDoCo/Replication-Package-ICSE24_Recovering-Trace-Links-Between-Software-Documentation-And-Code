@@ -1,0 +1,11 @@
+src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep databas citat key pattern dot java 
+global citat key pattern 
+
+
+global citat key pattern 
+entri type 
+
+
+databas citat key pattern 
+level citat key pattern 
+

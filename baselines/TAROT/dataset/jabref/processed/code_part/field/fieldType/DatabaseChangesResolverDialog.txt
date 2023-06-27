@@ -1,2 +1,0 @@
-extern chang resolv view model 
-theme manag 

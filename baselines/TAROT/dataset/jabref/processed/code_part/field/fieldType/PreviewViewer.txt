@@ -1,5 +1,0 @@
-clip board manag 
-dialog servic 
-task executor 
-preview layout 
-bib entri 

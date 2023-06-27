@@ -1,0 +1,17 @@
+src sep test sep java sep teammat sep ui sep servlet sep web api servlet test dot java 
+servlet 
+mock request 
+mock respons 
+
+
+method 
+request url 
+method 
+request url 
+
+
+setup mock 
+setup mock gae queue 
+test user invok request 
+test gae queue invok request 
+

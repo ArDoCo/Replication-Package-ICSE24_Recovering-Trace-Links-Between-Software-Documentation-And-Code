@@ -1,0 +1,25 @@
+src sep test sep java sep teammat sep logic sep core sep account logic test dot java 
+account logic 
+account db 
+cours logic 
+instructor logic 
+student logic 
+
+
+cours id 
+email 
+
+
+prepar test data 
+refresh test data 
+key instructor 
+test creat account 
+test account email 
+test join cours student 
+test join cours instructor 
+test delet account cascad instructor cours delet orphan cours 
+test delet account cascad instructor cours delet cours 
+test delet account cascad instructor archiv instructor delet cours 
+test delet account cascad exist account pass 
+test updat read notif 
+

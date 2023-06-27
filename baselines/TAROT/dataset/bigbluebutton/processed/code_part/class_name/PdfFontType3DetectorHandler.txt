@@ -1,1 +1,0 @@
-pdf font type detector handler 

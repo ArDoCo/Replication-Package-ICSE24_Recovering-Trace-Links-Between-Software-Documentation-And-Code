@@ -1,0 +1,17 @@
+akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep record confer command dot java 
+record 
+record path 
+
+
+room 
+request id 
+record 
+record path 
+respons 
+event listen 
+
+
+record confer command 
+command arg 
+handl respons 
+

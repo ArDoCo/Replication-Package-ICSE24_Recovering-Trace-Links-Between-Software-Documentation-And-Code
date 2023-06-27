@@ -1,0 +1,32 @@
+interfac sep tool dot descart dot teastor dot entiti sep src sep main sep java sep tool sep descart sep teastor sep entiti sep messag sep session blob dot java 
+uid 
+sid 
+token 
+order 
+order item 
+order item 
+messag 
+
+
+id 
+id 
+token 
+messag 
+order 
+order item 
+
+
+session blob 
+uid 
+set uid 
+sid 
+set sid 
+token 
+set token 
+set messag 
+messag 
+order 
+set order 
+order item 
+set order item 
+

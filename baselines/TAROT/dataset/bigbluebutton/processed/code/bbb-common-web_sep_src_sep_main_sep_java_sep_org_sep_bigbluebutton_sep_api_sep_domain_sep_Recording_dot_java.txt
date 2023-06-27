@@ -1,0 +1,103 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep record dot java 
+id 
+meet id 
+
+publish 
+start time 
+time 
+num particip 
+raw size 
+metadata 
+metadata 
+playback 
+playback 
+state 
+playback link 
+playback format 
+playback durat 
+playback size 
+process time 
+playback extens 
+playback extens 
+download link 
+download format 
+download md 
+download key 
+download size 
+state process 
+state process 
+state publis 
+state publish 
+state unpublis 
+state unpublish 
+state delet 
+state delet 
+
+
+id 
+state 
+publish 
+start time 
+num particip 
+time 
+raw size 
+playback link 
+playback format 
+playback durat 
+playback size 
+process time 
+playback extens 
+key 
+metadata 
+key 
+valu 
+key 
+key 
+meet id 
+
+playback 
+olddat 
+
+
+id 
+set id 
+state 
+set state 
+publish 
+set publish 
+start time 
+set start time 
+time 
+set num particip 
+num particip 
+set time 
+size 
+raw size 
+set raw size 
+playback link 
+set playback link 
+playback format 
+set playback format 
+playback durat 
+set playback durat 
+playback size 
+set playback size 
+process time 
+set process time 
+playback extens 
+set playback extens 
+metadata 
+metadata 
+set metadata 
+updat metadata 
+delet metadata 
+metadata 
+meet id 
+set meet id 
+
+set 
+playback 
+set playback 
+convert date format 
+extern meet id 
+

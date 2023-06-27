@@ -1,0 +1,59 @@
+src sep main sep java sep org sep jabref sep model sep group sep tex group dot java 
+logger 
+file path 
+key aux 
+key aux 
+file monitor 
+aux parser 
+meta data 
+user 
+
+
+
+context 
+file path 
+aux parser 
+file monitor 
+meta data 
+user 
+
+context 
+file path 
+aux parser 
+file monitor 
+meta data 
+
+context 
+file path 
+aux parser 
+file monitor 
+meta data 
+
+context 
+file path 
+aux parser 
+file monitor 
+meta data 
+entri 
+ 
+path 
+path 
+
+
+tex group 
+tex group 
+creat 
+creat file monitor 
+file path resolv 
+
+dynam 
+deep copi 
+equal 
+string 
+hash code 
+file path 
+file updat 
+relativ 
+expand path 
+file directori path 
+

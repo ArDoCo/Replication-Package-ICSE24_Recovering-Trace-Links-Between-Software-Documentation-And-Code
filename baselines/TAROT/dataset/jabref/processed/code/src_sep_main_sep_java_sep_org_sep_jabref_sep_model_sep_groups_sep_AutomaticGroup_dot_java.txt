@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep model sep group sep automat group dot java 
+
+
+
+context 
+entri 
+entri 
+entri 
+
+
+automat group 
+
+dynam 
+creat subgroup 
+creat subgroup 
+

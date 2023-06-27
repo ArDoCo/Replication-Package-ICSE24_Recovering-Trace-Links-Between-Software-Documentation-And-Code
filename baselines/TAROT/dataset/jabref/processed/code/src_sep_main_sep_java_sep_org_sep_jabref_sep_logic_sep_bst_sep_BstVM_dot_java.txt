@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep logic sep bst sep vm dot java 
+fals 
+true 
+tree 
+latest context 
+path 
+instanc 
+
+
+path 
+ 
+bst 
+tree 
+queri 
+bib entri 
+bib databas 
+bib entri 
+recogn 
+offend symbol 
+line 
+char posit line 
+msg 
+ 
+
+
+vm 
+vm 
+vm 
+vm 
+char stream common tree 
+render 
+render 
+stack 
+syntax error 
+

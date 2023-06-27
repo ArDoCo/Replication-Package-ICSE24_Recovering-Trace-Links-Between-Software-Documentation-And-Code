@@ -1,0 +1,6 @@
+show 
+bind entri 
+handl focus 
+notifi focus 
+preview style 
+previous preview style 

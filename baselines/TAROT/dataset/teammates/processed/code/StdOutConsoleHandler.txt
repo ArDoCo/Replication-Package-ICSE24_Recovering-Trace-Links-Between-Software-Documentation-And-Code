@@ -1,8 +1,0 @@
-std consol handler 
-
-
-
-
-
-set output stream 
-

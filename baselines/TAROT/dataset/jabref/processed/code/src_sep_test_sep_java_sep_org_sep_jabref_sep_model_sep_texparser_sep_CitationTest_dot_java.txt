@@ -1,0 +1,28 @@
+src sep test sep java sep org sep jabref sep model sep texpars sep citat test dot java 
+path 
+citat 
+
+
+line 
+line 
+col start 
+col 
+col start 
+col 
+
+
+init 
+col start col bound 
+col start col bound 
+constructor line smaller equal test 
+constructor line larger test 
+constructor col start col bound test 
+constructor col start col bound test 
+path test 
+line test 
+col start test 
+col test 
+line text test 
+context test 
+equal test 
+

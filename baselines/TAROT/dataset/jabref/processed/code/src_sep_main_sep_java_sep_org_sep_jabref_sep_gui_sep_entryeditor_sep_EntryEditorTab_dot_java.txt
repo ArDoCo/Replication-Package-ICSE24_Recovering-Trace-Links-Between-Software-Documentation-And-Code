@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep entri editor tab dot java 
+current entri 
+current entri type 
+
+
+entri 
+entri 
+entri 
+
+
+show 
+bind entri 
+handl focus 
+notifi focus 
+preview style 
+previous preview style 
+

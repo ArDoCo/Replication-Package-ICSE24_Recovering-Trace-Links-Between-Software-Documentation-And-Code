@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep doi bibtex convert isbn fetcher dot java 
+base url 
+
+
+import format prefer 
+identifi 
+entri 
+item 
+json array 
+key 
+type 
+
+
+doi bibtex convert isbn fetcher 
+
+url identifi 
+parser 
+post cleanup 
+json item bib entri 
+element json array key 
+evalu bib entri type string 
+

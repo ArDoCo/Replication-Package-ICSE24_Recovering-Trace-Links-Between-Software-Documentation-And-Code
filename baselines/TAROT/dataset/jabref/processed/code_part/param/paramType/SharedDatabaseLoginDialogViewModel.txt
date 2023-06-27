@@ -1,4 +1,0 @@
-jab ref frame 
-dialog servic 
-dbms connect properti 
-dbms connect properti 

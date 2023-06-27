@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep editor context action dot java 
+show handl 
+command 
+text input control 
+
+
+command 
+text input control 
+text input control 
+key bind repositori 
+
+
+editor context action 
+execut 
+default context menu item 
+

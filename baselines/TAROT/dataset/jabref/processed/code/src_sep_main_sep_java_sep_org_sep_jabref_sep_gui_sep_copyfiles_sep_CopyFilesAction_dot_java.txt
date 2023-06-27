@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file action dot java 
+dialog servic 
+prefer servic 
+state manag 
+
+
+dialog servic 
+prefer servic 
+state manag 
+data 
+
+
+copi file action 
+show dialog 
+execut 
+

@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style num citat marker dot java 
+unresolv entri number 
+
+
+ 
+ 
+style 
+entri 
+block 
+style 
+min group count 
+string builder 
+style 
+entri 
+min group count 
+
+
+oo bib style num citat marker 
+compar citat marker numer entri 
+num citat marker bibliographi 
+emit block 
+num citat marker 
+

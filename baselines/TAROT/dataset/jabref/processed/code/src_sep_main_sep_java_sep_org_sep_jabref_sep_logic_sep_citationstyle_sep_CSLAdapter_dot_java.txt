@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep citationstyl sep csl adapt dot java 
+data provid 
+style 
+format 
+csl instanc 
+
+
+bib entri 
+style 
+output format 
+databas context 
+entri type manag 
+style 
+format 
+
+
+bibliographi 
+initi 
+

@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep import sep util sep file field parser dot java 
+logger 
+valu 
+charact current element 
+window path 
+
+
+valu 
+valu 
+entri 
+
+
+file field parser 
+pars 
+pars 
+reset data structur element 
+convert 
+

@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep renamefield sep renam field tab view dot java 
+renam button 
+field combo box 
+field combo box 
+field text field 
+select entri 
+select entri 
+databas 
+state manag 
+view model 
+visual 
+
+
+databas 
+state manag 
+
+
+renam field tab view 
+initi 
+tab 
+renam field 
+

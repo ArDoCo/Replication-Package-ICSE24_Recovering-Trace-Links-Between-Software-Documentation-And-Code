@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep file field writer dot java 
+
+
+field 
+field 
+valu 
+entri 
+ 
+
+
+file field writer 
+string represent 
+string represent 
+encod string array 
+encod string array 
+quot 
+

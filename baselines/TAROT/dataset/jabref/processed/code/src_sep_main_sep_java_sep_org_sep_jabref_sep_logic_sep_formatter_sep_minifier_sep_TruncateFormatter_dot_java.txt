@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep minifi sep truncat formatt dot java 
+truncat 
+key 
+
+
+truncat index 
+input 
+
+
+truncat formatt 
+
+key 
+format 
+descript 
+exampl input 
+

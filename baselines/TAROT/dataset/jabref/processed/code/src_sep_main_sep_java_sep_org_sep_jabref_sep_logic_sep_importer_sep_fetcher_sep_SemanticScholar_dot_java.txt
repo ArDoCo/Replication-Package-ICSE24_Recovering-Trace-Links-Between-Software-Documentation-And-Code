@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep semant scholar dot java 
+logger 
+sourc id search 
+sourc web search 
+
+
+entri 
+sourc 
+lucen queri 
+page number 
+item 
+entri 
+
+
+find full text 
+trust level 
+url sourc 
+url queri 
+parser 
+json item bib entri 
+
+perform search 
+

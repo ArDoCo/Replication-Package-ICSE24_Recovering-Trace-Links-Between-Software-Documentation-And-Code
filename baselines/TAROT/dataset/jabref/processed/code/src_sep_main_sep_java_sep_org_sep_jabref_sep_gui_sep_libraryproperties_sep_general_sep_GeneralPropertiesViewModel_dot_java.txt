@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep general sep general properti view model dot java 
+encod disabl properti 
+encod properti 
+encod properti 
+select encod properti 
+select encod properti 
+databas mode properti 
+databas mode properti 
+select databas mode properti 
+select databas mode properti 
+general file directori properti 
+user specif file directori properti 
+la tex file directori properti 
+preambl properti 
+dialog servic 
+prefer servic 
+databas context 
+meta data 
+directori dialog configur 
+undo manag 
+
+
+databas context 
+dialog servic 
+prefer servic 
+undo manag 
+
+
+general properti view model 
+set valu 
+store set 
+brows general dir 
+brows user dir 
+brows latex dir 
+encod disabl properti 
+encod properti 
+select encod properti 
+databas mode properti 
+select databas mode properti 
+general file directori properti properti 
+user specif file directori properti 
+la tex file directori properti 
+preambl properti 
+

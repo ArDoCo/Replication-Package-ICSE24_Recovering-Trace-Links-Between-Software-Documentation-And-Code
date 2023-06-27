@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep gui sep push sep abstract push applic dot java 
+logger 
+call 
+connect 
+defin 
+command path 
+dialog servic 
+prefer servic 
+
+
+dialog servic 
+prefer servic 
+databas 
+entri 
+key string 
+key string 
+applic 
+prefer 
+
+
+abstract push applic 
+applic icon 
+tooltip 
+action 
+push entri 
+oper complet 
+requir citat key 
+command line 
+command 
+cite command 
+set 
+text 
+icon 
+key bind 
+

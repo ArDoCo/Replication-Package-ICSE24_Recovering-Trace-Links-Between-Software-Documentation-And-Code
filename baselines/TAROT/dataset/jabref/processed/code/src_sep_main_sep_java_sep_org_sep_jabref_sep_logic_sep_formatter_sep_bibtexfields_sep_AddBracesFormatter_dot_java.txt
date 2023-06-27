@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep add brace formatt dot java 
+
+
+valu 
+
+
+
+key 
+format 
+descript 
+exampl input 
+

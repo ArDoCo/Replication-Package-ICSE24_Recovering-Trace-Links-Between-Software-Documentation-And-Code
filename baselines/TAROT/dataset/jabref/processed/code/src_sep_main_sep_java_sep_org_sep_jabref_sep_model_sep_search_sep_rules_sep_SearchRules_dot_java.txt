@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep model sep search sep rule sep search rule dot java 
+simpl express 
+
+
+queri 
+search flag 
+queri 
+search flag 
+
+
+search rule 
+search rule queri 
+simpl queri 
+search rule 
+

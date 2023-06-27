@@ -1,2 +1,0 @@
-journal editor view model 
-editor text field 

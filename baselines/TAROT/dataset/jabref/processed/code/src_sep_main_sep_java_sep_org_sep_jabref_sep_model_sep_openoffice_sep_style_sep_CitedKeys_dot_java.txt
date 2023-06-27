@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep style sep cite key dot java 
+data 
+data 
+
+
+data 
+citat key 
+entri compar 
+databas 
+citat group 
+citat group 
+citat group 
+
+
+cite key 
+valu 
+
+sort compar 
+number cite key current order 
+lookup databas 
+distribut lookup result 
+distribut number 
+distribut uniqu letter 
+

@@ -1,0 +1,21 @@
+src sep client sep java sep teammat sep client sep script sep data bundl regener dot java 
+data bundl json 
+data bundl json 
+
+
+folder 
+file 
+file path 
+content 
+arg 
+
+
+data bundl regener 
+regener data bundl json 
+regener data bundl json 
+regener session templat json 
+regener generic json 
+save file 
+regener websit data json 
+main 
+

@@ -1,4 +1,0 @@
-file prefer 
-bib entri 
-bib entri 
-bib entri 

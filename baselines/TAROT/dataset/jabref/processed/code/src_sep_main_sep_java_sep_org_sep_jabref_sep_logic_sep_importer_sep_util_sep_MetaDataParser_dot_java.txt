@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep logic sep import sep util sep meta data parser dot java 
+logger 
+file monitor 
+
+
+file monitor 
+comment 
+data 
+keyword separ 
+meta data 
+data 
+keyword separ 
+valu 
+valu 
+reader 
+
+
+meta data parser 
+pars custom entri type 
+pars 
+pars 
+group 
+singl item 
+list 
+unit 
+

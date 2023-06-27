@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep logic sep export sep xmp export dot java 
+xmp split directori indic 
+xmp prefer 
+
+
+xmp prefer 
+databas context 
+file 
+entri 
+file 
+entri 
+
+
+xmp export 
+export 
+write bib xmp 
+

@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep util sep dialog window state dot java 
+ 
+ 
+height 
+width 
+
+
+ 
+ 
+height 
+width 
+
+
+dialog window state 
+
+
+height 
+width 
+

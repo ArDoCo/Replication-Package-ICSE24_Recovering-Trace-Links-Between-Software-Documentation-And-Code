@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep merg header view dot java 
+default style class 
+left header cell 
+header cell 
+merg header cell 
+
+
+left header 
+header 
+left header 
+header 
+
+
+merg header view 
+set left header 
+set header 
+

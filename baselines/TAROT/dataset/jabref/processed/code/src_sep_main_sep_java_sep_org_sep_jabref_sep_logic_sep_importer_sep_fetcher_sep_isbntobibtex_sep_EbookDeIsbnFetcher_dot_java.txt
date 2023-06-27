@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep ebook de isbn fetcher dot java 
+base url 
+
+
+import format prefer 
+identifi 
+entri 
+
+
+ebook de isbn fetcher 
+
+url identifi 
+post cleanup 
+

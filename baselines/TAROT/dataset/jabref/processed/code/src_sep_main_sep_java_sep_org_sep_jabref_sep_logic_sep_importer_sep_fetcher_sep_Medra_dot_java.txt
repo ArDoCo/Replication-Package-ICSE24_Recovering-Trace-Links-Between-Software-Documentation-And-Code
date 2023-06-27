@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep medra dot java 
+api url 
+
+
+item 
+type 
+author 
+url 
+identifi 
+entri 
+
+
+
+parser 
+json item bib entri 
+convert type 
+author 
+url download 
+url identifi 
+post cleanup 
+

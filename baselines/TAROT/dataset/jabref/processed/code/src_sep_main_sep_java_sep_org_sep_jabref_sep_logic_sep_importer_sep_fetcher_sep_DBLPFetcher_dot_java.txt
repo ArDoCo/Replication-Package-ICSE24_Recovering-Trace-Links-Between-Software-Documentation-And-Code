@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep dblp fetcher dot java 
+fetcher 
+basic search url 
+import format prefer 
+
+
+import format prefer 
+lucen queri 
+entri 
+
+
+dblp fetcher 
+url queri 
+parser 
+post cleanup 
+
+page 
+

@@ -1,0 +1,7 @@
+src sep test sep java sep org sep jabref sep model sep entri sep field sep standard field test dot java 
+
+
+
+
+field consid equal 
+

@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep updat dot java 
+databas 
+databas 
+updat bibliographi 
+alway add cite page 
+
+
+doc 
+frontend 
+databas 
+style 
+fcursor 
+updat bibliographi 
+alway add cite page 
+databas 
+valu 
+valu 
+doc 
+frontend 
+style 
+fcursor 
+sync option 
+doc 
+style 
+fcursor 
+sync option 
+
+
+updat 
+updat document 
+sync option 
+set updat bibliographi 
+set alway add cite page 
+synchron document 
+resync document 
+

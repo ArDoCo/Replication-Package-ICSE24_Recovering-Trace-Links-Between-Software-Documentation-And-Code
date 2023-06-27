@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep journal sep abbrevi parser dot java 
+logger 
+abbrevi 
+abbrevi 
+
+
+resourc file 
+file 
+file 
+encod 
+reader 
+
+
+read journal list resourc 
+read journal list file 
+read journal list file 
+read journal list 
+abbrevi 
+

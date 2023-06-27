@@ -1,0 +1,16 @@
+src sep main sep java sep teammat sep ui sep webapi sep creat instructor action dot java 
+
+
+cours id 
+instructor 
+instructor email 
+instructor role 
+display student 
+display 
+
+
+min auth level 
+check specif access control 
+execut 
+creat instructor basic attribut 
+

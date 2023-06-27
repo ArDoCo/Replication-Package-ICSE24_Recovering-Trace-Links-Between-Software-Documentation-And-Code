@@ -1,0 +1,32 @@
+src sep test sep java sep org sep jabref sep logic sep xmp sep xmp util writer test dot java 
+temp dir 
+olli 
+toral 
+vapnik 
+xmp prefer 
+
+
+entri 
+temp dir 
+temp dir 
+temp dir 
+temp dir 
+temp dir 
+temp dir 
+file 
+temp dir 
+
+
+set 
+singl entri work 
+olli work 
+toral work 
+vapnik work 
+test write bib entri 
+test write bib entri 
+proct brace remov titl 
+proct brace page 
+doubl dash page number 
+singl entri 
+creat default file 
+

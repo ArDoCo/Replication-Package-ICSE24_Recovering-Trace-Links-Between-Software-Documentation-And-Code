@@ -1,0 +1,52 @@
+src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane view model dot java 
+logger 
+side pane compon lookup 
+side pane compon lookup 
+prefer servic 
+state manag 
+side pane content factori 
+dialog servic 
+prefer posit 
+prefer posit 
+move pane 
+move pane 
+close pane 
+
+
+prefer servic 
+state manag 
+task executor 
+dialog servic 
+undo manag 
+pane 
+pane 
+pane 
+pane 
+observ list 
+ 
+ 
+side pane prefer 
+type 
+type 
+move pane 
+move pane 
+close pane 
+
+
+side pane view model 
+side pane compon 
+updat prefer posit 
+move 
+move 
+show 
+pane 
+swap 
+prefer index sort 
+compar 
+move action 
+execut 
+move action 
+execut 
+close pane action 
+execut 
+

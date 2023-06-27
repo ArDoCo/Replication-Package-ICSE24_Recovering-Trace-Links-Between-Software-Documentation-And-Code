@@ -1,0 +1,43 @@
+src sep main sep java sep org sep jabref sep gui sep group sep group tree node view model dot java 
+logger 
+node 
+
+
+node 
+entri 
+entri 
+recurs 
+ 
+entri 
+undo manag 
+entri 
+group 
+undo manag 
+entri 
+subscrib 
+
+
+group tree node view model 
+string 
+node 
+children 
+print ital 
+descript 
+add entri 
+remov entri 
+sort children 
+equal 
+hash code 
+
+edit 
+move 
+move 
+move left 
+move 
+chang entri 
+remov entri group 
+entri group 
+add group 
+add entri group 
+subscrib descend chang 
+

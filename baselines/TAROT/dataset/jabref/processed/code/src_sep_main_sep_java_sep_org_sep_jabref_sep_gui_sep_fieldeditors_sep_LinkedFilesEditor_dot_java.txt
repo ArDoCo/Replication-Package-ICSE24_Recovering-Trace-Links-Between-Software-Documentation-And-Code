@@ -1,0 +1,56 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep link file editor dot java 
+view model 
+list view 
+list view 
+dialog servic 
+databas context 
+decor model list 
+decor model list 
+prefer servic 
+bib entri 
+bib entri 
+command 
+link file 
+
+
+field 
+dialog servic 
+databas context 
+task executor 
+suggest provid 
+field checker 
+prefer 
+origin item 
+event 
+link file 
+event 
+origin item 
+event 
+link file 
+entri 
+link file 
+event 
+link file 
+command 
+link file 
+prefer servic 
+
+
+link file editor 
+handl drag 
+handl drag detect 
+handl drag drop 
+creat file display 
+set key bind 
+view model 
+bind entri 
+node 
+add file 
+fetch fulltext 
+add url 
+handl item mous click 
+weight 
+creat context menu file 
+context action 
+execut 
+

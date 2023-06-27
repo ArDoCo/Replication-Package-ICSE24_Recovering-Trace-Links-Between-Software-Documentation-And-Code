@@ -1,0 +1,10 @@
+citat 
+path 
+line 
+col start 
+col 
+line text 
+context 
+string 
+equal 
+hash code 

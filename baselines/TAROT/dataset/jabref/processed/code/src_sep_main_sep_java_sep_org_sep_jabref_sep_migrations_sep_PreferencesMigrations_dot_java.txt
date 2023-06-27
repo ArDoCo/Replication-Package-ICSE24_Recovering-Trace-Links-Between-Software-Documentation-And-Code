@@ -1,0 +1,52 @@
+src sep main sep java sep org sep jabref sep migrat sep prefer migrat dot java 
+logger 
+
+
+prefer 
+main pref node 
+
+
+pref 
+pref 
+pref 
+main pref node 
+pref 
+main pref node 
+style pattern 
+style pattern 
+pref 
+main pref node 
+pref 
+main pref node 
+pref 
+pref 
+pref 
+pattern pref 
+pref 
+pref 
+prefer 
+prefer 
+prefer 
+pref 
+
+
+prefer migrat 
+run migrat 
+upgrad pref org jab ref 
+copi pref recurs 
+upgrad faulti encod string 
+upgrad sort order 
+upgrad store bib entri type 
+upgrad label pattern citat key pattern 
+migrat file import pattern 
+upgrad import file dire pattern 
+upgrad key bind java fx 
+add cross ref relat field auto complet 
+migrat type key pref 
+upgrad preview style review comment 
+upgrad preview style markdown 
+upgrad column prefer 
+chang column variabl 
+restor variabl compat 
+upgrad cleanup 
+

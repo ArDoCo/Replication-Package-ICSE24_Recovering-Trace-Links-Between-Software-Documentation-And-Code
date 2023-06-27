@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep endnot xml import dot java 
+logger 
+prefer 
+unmarshal 
+
+
+prefer 
+reader 
+reader 
+reader 
+ref 
+note record 
+note record 
+note record 
+note record 
+style 
+url 
+note record 
+note record 
+input 
+input stream 
+
+
+endnot xml import 
+
+file type 
+id 
+descript 
+recogn format 
+import databas 
+unmarshal root 
+init unmarshal 
+convert ref type 
+pars record 
+type 
+link file 
+url 
+merg style content 
+url valu 
+keyword 
+author 
+clean 
+pars entri 
+

@@ -1,4 +1,0 @@
-sort criterion view model 
-sort criterion view model 
-sort criterion view model 
-save order config panel view model 

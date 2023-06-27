@@ -1,0 +1,22 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep cff import test dot java 
+import 
+
+
+
+
+set 
+test format 
+test cli id 
+test extens 
+test descript 
+test recogn format 
+test recogn format reject 
+test import entri basic 
+test import entri multipl author 
+test import entri swh id select 
+test import entri swh id select 
+test import entri dataset 
+test import entri doi select 
+test import entri unknown field 
+popul entri 
+

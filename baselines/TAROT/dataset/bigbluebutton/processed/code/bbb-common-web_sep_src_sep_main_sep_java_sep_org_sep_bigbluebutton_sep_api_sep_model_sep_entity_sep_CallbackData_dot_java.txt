@@ -1,0 +1,36 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep entiti sep callback data dot java 
+id 
+meet id 
+callback attribut 
+creat 
+updat 
+record 
+
+
+id 
+meet id 
+callback attribut 
+creat 
+updat 
+record 
+ 
+ 
+
+
+id 
+set id 
+meet id 
+set meet id 
+callback attribut 
+set callback attribut 
+creat 
+set creat 
+updat 
+set updat 
+record 
+set record 
+equal 
+hash code 
+string 
+indent string 
+

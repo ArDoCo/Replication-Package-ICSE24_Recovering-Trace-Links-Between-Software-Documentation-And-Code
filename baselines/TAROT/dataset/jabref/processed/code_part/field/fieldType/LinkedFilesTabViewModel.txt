@@ -1,3 +1,0 @@
-dialog servic 
-file prefer 
-auto link prefer 

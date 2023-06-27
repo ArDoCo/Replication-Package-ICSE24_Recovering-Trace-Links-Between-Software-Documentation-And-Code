@@ -1,2 +1,0 @@
-dblp fetcher 
-bib entri 

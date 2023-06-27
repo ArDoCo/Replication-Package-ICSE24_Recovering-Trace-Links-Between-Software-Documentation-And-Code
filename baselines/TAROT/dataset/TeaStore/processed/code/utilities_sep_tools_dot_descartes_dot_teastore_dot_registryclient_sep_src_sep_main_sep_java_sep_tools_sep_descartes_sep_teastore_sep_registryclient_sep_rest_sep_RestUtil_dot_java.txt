@@ -1,0 +1,19 @@
+util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep rest sep rest util dot java 
+
+
+respons status 
+ 
+entiti class 
+respons status 
+entiti class 
+ 
+ 
+
+
+rest util 
+throw common 
+read entiti null 
+read throw close 
+read list throw close order 
+read list throw close product 
+

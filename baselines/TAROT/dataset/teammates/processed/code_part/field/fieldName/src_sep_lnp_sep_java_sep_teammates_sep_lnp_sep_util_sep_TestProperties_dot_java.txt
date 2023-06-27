@@ -1,0 +1,10 @@
+lnp test data folder 
+lnp test config folder 
+lnp test result folder 
+jmeter home 
+jmeter properti path 
+teammat url 
+teammat domain 
+teammat port 
+csrf key 
+backdoor key 

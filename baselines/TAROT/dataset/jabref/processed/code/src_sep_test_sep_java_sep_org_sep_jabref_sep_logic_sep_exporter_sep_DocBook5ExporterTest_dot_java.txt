@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep export sep doc book export test dot java 
+databas context 
+charset 
+entri 
+entri 
+xml file 
+export 
+
+
+test folder 
+
+
+set 
+test perform export singl entri 
+

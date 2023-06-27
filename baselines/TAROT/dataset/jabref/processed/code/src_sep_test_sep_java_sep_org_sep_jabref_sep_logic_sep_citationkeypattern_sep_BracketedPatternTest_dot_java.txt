@@ -1,0 +1,95 @@
+src sep test sep java sep org sep jabref sep logic sep citationkeypattern sep bracket pattern test dot java 
+bibentri 
+databas 
+dbentri 
+
+
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect 
+list 
+expect citat key 
+pattern 
+author 
+expand result 
+pattern 
+
+
+set 
+author 
+author 
+author alpha 
+author alpha 
+author initi 
+author initi 
+auth short 
+auth ini 
+auth ini 
+auth ini 
+auth ini 
+auth ini 
+auth ini 
+auth al dot dot eal 
+auth al dot dot eal 
+auth auth ea 
+auth auth ea 
+auth short 
+test author field marker 
+expand bracket fallback 
+expand bracket fallback 
+bibentri expans test 
+null databas expans test 
+pureauth return author editor absent 
+pureauth return author editor present 
+pureauth return empti string author absent 
+pureauth return empti string author absent editor present 
+empti databas expans test 
+databas string expans test 
+unbalanc bracket expand someth 
+unbalanc bracket expand someth 
+entri type expans test 
+entri type expans lowercas test 
+suppli bibentri bracket expans test 
+null bibentri bracket expans test 
+bracket express default constructor test 
+unknown key expand empti string 
+empti pattern empti modifi expand empti string 
+empti pattern valid modifi expand empti string 
+bibtexkey pattern expand citat key 
+citat key pattern expand citat key 
+citat key pattern empti modifi expand bib te key 
+author pattern treat von prefix correct 
+formatt work von prefix 
+test resolv field format 
+test resolv parent databas 
+regular express replac 
+regular express bracket 
+test empti bracket 
+expand bracket chain truncat modifi 
+expand bracket doe truncat argument truncat modifi 
+expand bracket author start bracket 
+expand bracket modifi regex charact class 
+expand bracket empti string empti bracket 
+expand bracket institut abbrevi provid abbrevi 
+expand bracket institut abbrevi author union 
+expand bracket author start onli start case 
+expand bracket chines charact 
+expand bracket unmodifi string long page number 
+expand bracket unmodifi string long page number 
+expand bracket test case reg exp base file finder 
+expand bracket protect brace unprotect term modifi 
+

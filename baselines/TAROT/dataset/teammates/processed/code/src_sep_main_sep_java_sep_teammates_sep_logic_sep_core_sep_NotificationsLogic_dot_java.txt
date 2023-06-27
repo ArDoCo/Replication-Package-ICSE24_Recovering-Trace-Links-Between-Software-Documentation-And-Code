@@ -1,0 +1,24 @@
+src sep main sep java sep teammat sep logic sep core sep notif logic dot java 
+instanc 
+notif db 
+
+
+notif id 
+target user 
+notif 
+updat option 
+notif id 
+notif id 
+
+
+notif logic 
+inst 
+init logic depend 
+notif 
+notif 
+activ notif target user 
+creat notif 
+updat notif 
+delet notif 
+doe notif exist 
+

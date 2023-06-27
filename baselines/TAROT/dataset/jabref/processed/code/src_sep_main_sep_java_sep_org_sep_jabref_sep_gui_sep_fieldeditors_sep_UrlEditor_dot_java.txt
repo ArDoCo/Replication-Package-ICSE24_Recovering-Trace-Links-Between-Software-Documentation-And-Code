@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep url editor dot java 
+view model 
+text area 
+
+
+field 
+dialog servic 
+suggest provid 
+field checker 
+prefer 
+entri 
+event 
+
+
+url editor 
+view model 
+bind entri 
+node 
+open extern link 
+

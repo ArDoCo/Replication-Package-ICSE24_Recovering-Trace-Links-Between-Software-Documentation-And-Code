@@ -1,0 +1,64 @@
+src sep main sep java sep org sep jabref sep logic sep export sep templat export dot java 
+blank line pattern 
+layout prefix 
+layout extens 
+formatt extens 
+infix 
+infix 
+logger 
+lf file 
+directori 
+layout prefer 
+save configur 
+custom export 
+blank line behaviour 
+
+
+display 
+consol 
+lf file 
+directori 
+extens 
+
+lf file 
+extens 
+layout prefer 
+save configur 
+display 
+consol 
+lf file 
+directori 
+extens 
+layout prefer 
+save configur 
+display 
+consol 
+lf file 
+directori 
+extens 
+layout prefer 
+save configur 
+blank line behaviour 
+custom 
+filenam 
+databas context 
+file 
+entri 
+databas context 
+file 
+entri 
+file dir databas 
+
+
+templat export 
+templat export 
+templat export 
+templat export 
+set custom export 
+reader 
+export 
+export 
+read formatt file 
+layout file 
+layout file extens 
+

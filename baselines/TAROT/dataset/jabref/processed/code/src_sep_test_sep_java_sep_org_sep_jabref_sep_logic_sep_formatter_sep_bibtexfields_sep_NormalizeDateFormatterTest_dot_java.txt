@@ -1,0 +1,32 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep normal date formatt test dot java 
+formatt 
+
+
+
+
+set 
+format date yyyymm 
+format date yyyym 
+format date yyyymd 
+format date yyyymm 
+format date yyyym 
+format date mmyy 
+format date myy 
+format date myy 
+format date mmyyyy 
+format date myyyy 
+format date myyyy 
+format date mmmdd comma yyyi 
+format date mmmd comma yyyi 
+format date mmm comma yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format date ddot mdot yyyi 
+format exampl 
+

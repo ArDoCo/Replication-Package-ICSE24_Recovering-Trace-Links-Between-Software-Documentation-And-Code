@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep share sep share databas ui manag dot java 
+jab ref frame 
+dbms synchron 
+dialog servic 
+prefer servic 
+
+
+jab ref frame 
+prefer servic 
+connect lost event 
+updat refus event 
+event 
+dbms connect properti 
+parser result 
+
+
+share databas ui manag 
+listen 
+listen 
+listen 
+open share databas tab 
+open share databas parser result 
+

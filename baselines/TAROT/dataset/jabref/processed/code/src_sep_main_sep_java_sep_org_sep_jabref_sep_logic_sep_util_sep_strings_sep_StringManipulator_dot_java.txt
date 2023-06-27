@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep logic sep util sep string sep string manipul dot java 
+offset 
+
+
+offset 
+text 
+caret posit 
+target case 
+caret posit 
+text 
+direct 
+caret posit 
+text 
+direct 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 
+caret posit 
+text 
+
+
+direct 
+set word case 
+delet word boundari 
+word boundari 
+capit 
+uppercas 
+lowercas 
+kill word 
+kill word 
+

@@ -1,8 +1,0 @@
-remov latex command formatt 
-
-
-field 
-
-
-format 
-

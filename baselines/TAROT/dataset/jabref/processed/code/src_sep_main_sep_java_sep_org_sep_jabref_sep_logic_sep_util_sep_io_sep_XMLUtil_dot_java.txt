@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep logic sep util sep io sep xml util dot java 
+logger 
+list 
+
+
+doc 
+ 
+item 
+node 
+item 
+attribut 
+item 
+node 
+item 
+node 
+list 
+index 
+
+
+xml util 
+print document 
+list 
+node content 
+attribut content 
+node 
+node 
+node list wrapper 
+
+size 
+

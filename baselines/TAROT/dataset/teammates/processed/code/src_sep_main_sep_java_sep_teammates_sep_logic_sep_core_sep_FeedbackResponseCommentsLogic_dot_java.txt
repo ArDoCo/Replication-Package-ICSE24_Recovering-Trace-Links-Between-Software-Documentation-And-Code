@@ -1,0 +1,97 @@
+src sep main sep java sep teammat sep logic sep core sep feedback respons comment logic dot java 
+instanc 
+frc db 
+cours logic 
+fr logic 
+fs logic 
+instructor logic 
+student logic 
+
+
+fr comment 
+feedback respons comment id 
+respons id 
+giver email 
+creation date 
+feedback respons id 
+feedback respons id 
+cours id 
+feedback session 
+section 
+question id 
+section 
+cours id 
+email 
+updat email 
+feedback respons id 
+updat option 
+cours id 
+giver email 
+comment id 
+queri 
+comment 
+respons 
+user email 
+roster 
+respons 
+user email 
+roster 
+show 
+user email 
+instructor 
+student 
+student email team 
+respons 
+relat question 
+relat comment 
+student 
+student email team 
+respons 
+relat question 
+relat comment 
+user student 
+user email 
+respons 
+relat question 
+relat comment 
+visibl giver 
+user instructor 
+user student 
+relat question 
+relat comment 
+viewer type 
+cours id 
+cours id 
+comment giver 
+comment giver type 
+comment feedback particip 
+cours id 
+feedback session 
+
+
+feedback respons comment logic 
+inst 
+init logic depend 
+creat feedback respons comment 
+feedback respons comment 
+feedback respons comment 
+feedback respons comment respons 
+feedback respons comment respons particip 
+feedback respons comment session section 
+feedback respons comment question section 
+updat feedback respons comment email 
+updat feedback respons comment respons 
+updat feedback respons comment 
+feedback respons comment giver 
+delet feedback respons comment 
+delet feedback respons comment 
+visibl user 
+feedback particip visibl user 
+respons comment visibl user 
+visibl user team 
+visibl user 
+respons comment visibl 
+verifi cours present 
+verifi user cours 
+verifi feedback session cours 
+

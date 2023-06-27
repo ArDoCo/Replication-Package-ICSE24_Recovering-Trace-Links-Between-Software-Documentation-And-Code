@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep open browser action dot java 
+url open 
+dialog servic 
+
+
+url open 
+dialog servic 
+
+
+open browser action 
+execut 
+

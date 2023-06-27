@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep ordin superscript formatt test dot java 
+formatt 
+
+
+input 
+expect 
+
+
+set 
+replac superscript 
+replac superscript ignor case 
+replac superscript multilin string 
+replac superscript 
+ignor superscript insid word 
+format exampl 
+expect correct 
+

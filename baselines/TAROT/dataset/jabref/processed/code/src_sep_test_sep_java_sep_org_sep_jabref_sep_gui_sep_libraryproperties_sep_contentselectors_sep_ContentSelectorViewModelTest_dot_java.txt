@@ -1,0 +1,30 @@
+src sep test sep java sep org sep jabref sep gui sep libraryproperti sep contentselector sep content selector view model test dot java 
+dialog servic 
+default field 
+default field 
+view model 
+databas context 
+
+
+field 
+keyword 
+field 
+keyword 
+field 
+field 
+
+
+set 
+init default field 
+add keyword 
+add keyword onli uniqu 
+remov keyword 
+add field 
+remov field 
+display keyword alphabet order 
+save persist data databas 
+add keyword 
+remov keyword 
+add field 
+remov field 
+

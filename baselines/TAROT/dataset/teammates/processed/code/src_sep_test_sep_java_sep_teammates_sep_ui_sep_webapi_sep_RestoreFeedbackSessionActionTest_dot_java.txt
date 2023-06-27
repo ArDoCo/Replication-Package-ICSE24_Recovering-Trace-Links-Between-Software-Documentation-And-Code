@@ -1,0 +1,19 @@
+src sep test sep java sep teammat sep ui sep webapi sep restor feedback session action test dot java 
+instructor cours 
+feedback session 
+instructor id 
+cours id 
+feedback session 
+submiss param 
+
+
+
+
+action uri 
+request method 
+test execut 
+test execut session bin restor session 
+test execut session bin fail 
+test execut empti paramet fail 
+test access control 
+

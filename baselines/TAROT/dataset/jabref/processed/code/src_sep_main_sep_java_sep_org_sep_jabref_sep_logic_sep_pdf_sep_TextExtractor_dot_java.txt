@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep logic sep pdf sep text extractor dot java 
+bound box 
+page 
+
+
+page 
+bound box 
+quad array 
+segment pointer 
+cos number 
+
+
+text extractor 
+extract mark text 
+calcul segment bound box 
+float 
+

@@ -1,0 +1,62 @@
+src sep main sep java sep teammat sep common sep datatransf sep log sep request log detail dot java 
+respons status 
+respons time 
+request method 
+request url 
+user agent 
+instanc id 
+web version 
+referr 
+request param 
+request param 
+request header 
+request header 
+request bodi 
+action class 
+user info 
+
+
+respons status 
+respons time 
+request method 
+request url 
+instanc id 
+web version 
+referr 
+user agent 
+request param 
+request header 
+request bodi 
+action class 
+user info 
+
+
+request log detail 
+respons status 
+set respons status 
+respons time 
+set respons time 
+request method 
+set request method 
+request url 
+set request url 
+instanc id 
+set instanc id 
+web version 
+set web version 
+referr 
+set referr 
+user agent 
+set user agent 
+request param 
+set request param 
+request header 
+set request header 
+request bodi 
+set request bodi 
+action class 
+set action class 
+user info 
+set user info 
+hide sensit inform 
+

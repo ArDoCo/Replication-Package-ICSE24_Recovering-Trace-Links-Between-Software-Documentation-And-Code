@@ -1,0 +1,12 @@
+src sep main sep java sep teammat sep ui sep webapi sep delet instructor action dot java 
+
+
+cours id 
+instructor delet email 
+
+
+min auth level 
+check specif access control 
+execut 
+altern instructor 
+

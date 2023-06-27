@@ -1,1 +1,0 @@
-studi yaml parser test 

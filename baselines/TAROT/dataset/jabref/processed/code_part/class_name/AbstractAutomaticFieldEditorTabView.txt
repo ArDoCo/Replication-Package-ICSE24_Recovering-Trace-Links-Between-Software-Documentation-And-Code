@@ -1,1 +1,0 @@
-abstract automat field editor tab view 

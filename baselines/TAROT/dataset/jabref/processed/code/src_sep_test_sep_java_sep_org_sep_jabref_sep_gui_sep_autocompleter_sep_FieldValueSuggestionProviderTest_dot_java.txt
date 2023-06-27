@@ -1,0 +1,24 @@
+src sep test sep java sep org sep jabref sep gui sep autocomplet sep field valu suggest provid test dot java 
+auto complet 
+databas 
+
+
+
+
+set 
+init auto complet null field throw 
+complet ad anyth return noth 
+complet ad empti entri return noth 
+complet ad entri field return noth 
+complet ignor field return noth 
+complet valu return valu 
+complet beginnig valu return valu 
+complet lowercas valu return valu 
+complet null throw 
+complet empti string return noth 
+complet return multipl result 
+complet short string return field valu 
+complet beginnig word return field valu 
+complet part word return field valu 
+complet return field valu 
+

@@ -1,0 +1,51 @@
+src sep sep java sep teammat sep sep pageobject sep instructor student list page dot java 
+
+
+browser 
+cours 
+cours 
+cours 
+cours 
+student 
+cours 
+student 
+cours 
+cours 
+cours tab 
+student 
+student 
+cours 
+student email 
+cours 
+student email 
+cours 
+student email 
+cours 
+cours 
+student email 
+cours 
+student email 
+cours 
+student email 
+
+
+instructor student list page 
+expect page content 
+cours tab 
+creat header text 
+click cours tab header 
+verifi cours tab 
+verifi student detail 
+verifi student detail 
+verifi student detail viewabl 
+cours tab 
+verifi display number 
+expect student valu 
+delet student 
+delet button 
+student row 
+click enrol student 
+click view student 
+click edit student 
+click view record 
+

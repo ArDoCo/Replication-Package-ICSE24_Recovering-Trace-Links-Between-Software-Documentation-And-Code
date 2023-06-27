@@ -1,0 +1,58 @@
+src sep main sep java sep org sep jabref sep logic sep import sep parser result dot java 
+entri type 
+entri type 
+warn 
+warn 
+databas 
+meta data 
+file 
+invalid 
+open tab 
+chang migrat 
+
+
+entri 
+databas 
+databas 
+meta data 
+entri type 
+messag 
+
+
+md 
+path 
+ 
+
+invalid 
+bib databas context 
+chang migrat 
+
+
+parser result 
+parser result 
+parser result 
+parser result 
+error messag 
+error messag 
+error 
+open tab 
+set open tab 
+databas 
+meta data 
+set meta data 
+entri type 
+path 
+set path 
+add warn 
+add 
+warn 
+warn 
+invalid 
+set invalid 
+error messag 
+databas context 
+set databas context 
+empti 
+chang migrat 
+set chang migrat 
+

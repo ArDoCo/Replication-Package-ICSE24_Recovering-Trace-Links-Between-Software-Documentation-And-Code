@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep model sep tree node test data dot java 
+
+
+
+root 
+root 
+root 
+
+
+
+
+node simpl tree 
+node simpl tree 
+node complex tree 
+node complex tree 
+node child 
+tree node mock 
+tree node mock 
+
+set 
+string 
+copi node 
+

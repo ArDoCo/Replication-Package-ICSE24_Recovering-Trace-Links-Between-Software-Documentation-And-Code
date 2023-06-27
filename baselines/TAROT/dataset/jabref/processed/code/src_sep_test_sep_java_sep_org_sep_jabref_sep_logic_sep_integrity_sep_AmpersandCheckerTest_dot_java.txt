@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep ampersand checker test dot java 
+checker 
+entri 
+
+
+expect 
+field 
+valu 
+expect messag 
+field 
+valu 
+
+
+accept input 
+provid accept input 
+reject disallow input 
+provid unaccept input 
+entri escap unescap ampersand 
+entri multipl escap unescap ampersand 
+

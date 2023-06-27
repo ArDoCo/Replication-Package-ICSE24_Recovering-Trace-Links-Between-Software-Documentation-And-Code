@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entri sep entri tab view model dot java 
+keyword separ properti 
+mark owner properti 
+mark owner properti 
+mark owner overwrit properti 
+add creation date properti 
+add modif date properti 
+bib entri prefer 
+owner prefer 
+timestamp prefer 
+
+
+bib entri prefer 
+owner prefer 
+timestamp prefer 
+
+
+entri tab view model 
+set valu 
+store set 
+keyword separ properti 
+mark owner properti 
+mark owner properti 
+mark owner overwrit properti 
+add creation date properti 
+add modif date properti 
+

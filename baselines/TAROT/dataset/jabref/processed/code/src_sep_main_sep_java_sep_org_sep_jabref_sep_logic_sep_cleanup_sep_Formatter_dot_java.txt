@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep logic sep cleanup sep formatt dot java 
+
+
+valu 
+obj 
+
+
+
+key 
+format 
+descript 
+exampl input 
+hash code 
+equal 
+

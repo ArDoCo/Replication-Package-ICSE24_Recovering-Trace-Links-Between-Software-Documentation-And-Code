@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep crawler sep studi yaml parser test dot java 
+test directori 
+expect studi 
+
+
+
+
+setup studi 
+pars studi file success 
+write studi file success 
+read jab ref studi success 
+

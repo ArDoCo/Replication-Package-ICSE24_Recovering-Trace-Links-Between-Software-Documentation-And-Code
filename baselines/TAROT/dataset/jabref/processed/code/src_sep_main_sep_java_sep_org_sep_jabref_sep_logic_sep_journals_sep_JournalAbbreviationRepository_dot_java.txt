@@ -1,0 +1,46 @@
+src sep main sep java sep org sep jabref sep logic sep journal sep journal abbrevi repositori dot java 
+question mark 
+full abbrevi object 
+full abbrevi object 
+abbrevi abbrevi object 
+abbrevi abbrevi object 
+dotless abbrevi object 
+dotless abbrevi object 
+shortest uniqu abbrevi object 
+shortest uniqu abbrevi object 
+custom abbrevi 
+custom abbrevi 
+
+
+journal list 
+
+abbrevi 
+
+abbrevi 
+journal 
+journal 
+input 
+abbrevi 
+abbrevi add 
+text 
+text 
+text 
+text 
+
+
+journal abbrevi repositori 
+match 
+match abbrevi 
+
+abbrevi 
+
+add custom abbrevi 
+custom abbrevi 
+add custom abbrevi 
+abbrevi 
+default abbrevi 
+dotless 
+shortest uniqu abbrevi 
+full 
+load 
+

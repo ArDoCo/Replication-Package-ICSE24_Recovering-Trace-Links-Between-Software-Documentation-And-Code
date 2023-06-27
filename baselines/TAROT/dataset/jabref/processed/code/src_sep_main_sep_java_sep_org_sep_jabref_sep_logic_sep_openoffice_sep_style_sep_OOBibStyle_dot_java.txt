@@ -1,0 +1,200 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style dot java 
+ital al 
+multi cite chronolog 
+minimum group count 
+al string 
+max author 
+refer header paragraph format 
+refer paragraph format 
+titl 
+undefin citat marker 
+num pattern 
+layout mrk 
+properti mark 
+citat mark 
+mark 
+journal mark 
+default mark 
+bracket list 
+bracket befor list 
+uniquefi separ 
+citat key citat 
+subscript citat 
+superscript citat 
+bold citat 
+ital citat 
+citat charact format 
+format citat 
+group number separ 
+citat group markup befor 
+citat group markup 
+author part markup befor 
+author part markup 
+author list markup befor 
+author list markup 
+author markup befor 
+author markup 
+page info separ 
+citat separ 
+text year separ 
+max author 
+year field 
+author field 
+bracket 
+bracket befor 
+number entri 
+sort posit 
+sort algorithm 
+oxford comma 
+year separ 
+author separ text 
+author separ 
+author separ 
+quot 
+logger 
+journal 
+journal 
+field formatt 
+bib layout 
+bib layout 
+properti 
+properti 
+cit properti 
+cit properti 
+resourc 
+path 
+pref 
+
+default bib layout 
+valid 
+style file 
+style file modif time 
+local copi 
+default layout present 
+
+
+style file 
+pref 
+resourc path 
+pref 
+stream 
+input 
+line 
+line 
+map 
+line 
+type 
+key 
+key 
+key 
+prop 
+
+object 
+journal 
+content jstyle file 
+style 
+present 
+valid 
+layout 
+entri 
+entri 
+min group count 
+entri 
+entri 
+citat marker entri 
+parenthesi 
+uniqu citat marker handl 
+citat text 
+prop 
+
+
+oo bib style 
+oo bib style 
+default bib layout 
+set default properti 
+
+path 
+file 
+journal 
+initi 
+ensur date 
+reload 
+date 
+read format file 
+valid 
+handl structur line 
+handl properti line 
+handl journal line 
+refer format 
+number entri 
+sort posit 
+ital citat 
+bold citat 
+format citat 
+citat key cite marker 
+boolean cit properti 
+int cit properti 
+string cit properti 
+citat charact format 
+properti 
+intern style 
+local copi 
+compar 
+equal 
+hash code 
+al string 
+author separ 
+oxford comma 
+refer header text 
+refer header paragraph format 
+refer paragraph format 
+field formatt 
+bib layout 
+properti 
+cit properti 
+add journal 
+set local copi 
+set 
+default layout present 
+set default layout present 
+set valid 
+pref 
+set default bib layout 
+num citat marker 
+num citat marker 
+num citat marker bibliographi 
+normal citat marker 
+creat citat marker 
+decor citat marker 
+minimum group count 
+group number separ 
+string properti 
+citat group markup befor 
+citat group markup 
+author part markup befor 
+author part markup 
+author list markup befor 
+author list markup 
+author markup befor 
+author markup 
+multi cite chronolog 
+ital al 
+author field 
+year field 
+author separ 
+author separ text fall 
+page info separ 
+uniquefi separ 
+citat separ 
+year separ 
+year separ text 
+max author 
+max author 
+bracket befor 
+bracket 
+bracket befor list 
+bracket befor list fall 
+bracket list 
+bracket list fall 
+format bibliographi titl 
+

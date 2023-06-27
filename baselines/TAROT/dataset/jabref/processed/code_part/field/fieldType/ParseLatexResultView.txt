@@ -1,2 +1,0 @@
-theme manag 
-pars latex result view model 

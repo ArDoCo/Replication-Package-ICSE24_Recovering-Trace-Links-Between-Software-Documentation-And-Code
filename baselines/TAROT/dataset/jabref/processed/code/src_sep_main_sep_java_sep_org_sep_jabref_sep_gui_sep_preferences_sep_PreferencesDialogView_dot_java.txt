@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep prefer dialog view dot java 
+search box 
+prefer tab list 
+prefer tab list 
+prefer 
+save button 
+dialog servic 
+prefer servic 
+theme manag 
+frame 
+view model 
+
+
+frame 
+
+
+prefer dialog view 
+view model 
+initi 
+close dialog 
+save prefer close dialog 
+export prefer 
+import prefer 
+show prefer 
+reset prefer 
+

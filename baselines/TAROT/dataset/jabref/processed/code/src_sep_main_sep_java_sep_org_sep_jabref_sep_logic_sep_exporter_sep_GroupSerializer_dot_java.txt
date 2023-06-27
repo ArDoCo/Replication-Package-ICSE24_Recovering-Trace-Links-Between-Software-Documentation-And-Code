@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep logic sep export sep group serial dot java 
+
+
+group 
+group 
+group 
+builder 
+group 
+node 
+group 
+group 
+group 
+builder 
+group 
+group 
+
+
+serial entri group 
+serial explicit group 
+serial keyword group 
+serial search group 
+append group detail 
+serial tree 
+serial group 
+serial tex group 
+serial automat person group 
+append automat group detail 
+serial automat keyword group 
+

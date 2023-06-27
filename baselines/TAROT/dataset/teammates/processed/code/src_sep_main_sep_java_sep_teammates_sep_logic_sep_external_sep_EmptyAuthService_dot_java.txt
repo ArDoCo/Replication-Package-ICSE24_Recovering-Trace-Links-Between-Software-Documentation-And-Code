@@ -1,0 +1,9 @@
+src sep main sep java sep teammat sep logic sep extern sep empti auth servic dot java 
+
+
+user email 
+continu url 
+
+
+generat login link 
+

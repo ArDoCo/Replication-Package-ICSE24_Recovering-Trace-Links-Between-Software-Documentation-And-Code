@@ -1,0 +1,29 @@
+src sep test sep java sep org sep jabref sep logic sep bst sep util sep formatt test dot java 
+
+
+string 
+string 
+
+format 
+string 
+string 
+string 
+string 
+string 
+string 
+
+
+test umlaut full 
+test umlaut abbrevi 
+test umlaut abbrevi question mark 
+test format 
+assert format 
+assert format 
+assert format 
+assert format 
+match brace consum complet word 
+match brace consum brace word 
+test consum match brace 
+test char string 
+test number char 
+

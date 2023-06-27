@@ -1,0 +1,9 @@
+src sep main sep java sep org sep jabref sep model sep databas sep bib databas mode detect dot java 
+
+
+databas 
+
+
+bib databas mode detect 
+infer mode 
+

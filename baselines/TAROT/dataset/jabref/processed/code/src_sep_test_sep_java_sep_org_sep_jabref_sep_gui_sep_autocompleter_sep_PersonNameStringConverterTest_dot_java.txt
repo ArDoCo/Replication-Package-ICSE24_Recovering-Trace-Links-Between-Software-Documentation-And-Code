@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep gui sep autocomplet sep person string convert test dot java 
+author 
+
+
+auto comp ff 
+auto comp lf 
+auto complet mode 
+expect result 
+auto complet 
+mode 
+format 
+expect result 
+
+
+set 
+test string auto complet prefer 
+test string auto complet prefer 
+

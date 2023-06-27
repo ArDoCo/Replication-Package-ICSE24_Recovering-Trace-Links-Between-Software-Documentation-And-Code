@@ -1,3 +1,0 @@
-link file 
-bib entri 
-dialog servic 

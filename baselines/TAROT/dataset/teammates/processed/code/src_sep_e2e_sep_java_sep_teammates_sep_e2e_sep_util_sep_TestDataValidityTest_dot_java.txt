@@ -1,0 +1,17 @@
+src sep sep java sep teammat sep sep util sep test data valid test dot java 
+
+
+email 
+cours id 
+test page 
+googl id 
+test page 
+test page 
+
+
+check test data valid 
+valid test email 
+valid test cours id 
+valid test googl id 
+construct id regex 
+

@@ -1,0 +1,226 @@
+src sep main sep java sep teammat sep common sep util sep field valid dot java 
+person field 
+person max length 
+cours field 
+cours max length 
+feedback session field 
+feedback session max length 
+team field 
+team max length 
+section field 
+section max length 
+institut field 
+institut max length 
+email field 
+email max length 
+notif titl field 
+notif messag field 
+notif 
+notif visibl time field 
+notif expiri time field 
+notif style field 
+notif target user field 
+notif titl max length 
+notif style accept valu 
+notif style accept valu 
+notif target user accept valu 
+notif target user accept valu 
+student role comment field 
+student role comment max length 
+cours id field 
+cours id max length 
+session 
+session start time field 
+session time field 
+time zone field 
+googl id field 
+googl id max length 
+role field 
+role accept valu 
+role accept valu 
+giver type 
+recipi type 
+viewer type 
+extend deadlin field 
+reason long 
+reason incorrect format 
+reason invalid char 
+reason start alphanumer char 
+reason unavail choic 
+empti string error info 
+error info 
+hint correct format size cap possibl empti 
+hint correct format size cap empti 
+hint correct format size cap empti space 
+hint correct format invalid 
+size cap empti string error messag 
+size cap empti string error messag empti string 
+size cap possibl empti string error messag 
+size cap empti string error messag empti string session 
+invalid error messag 
+team valid email error messag 
+whitespac onli extra whitespac error messag 
+html field error messag 
+null field error messag 
+hint correct email 
+email error messag 
+email error messag empti string 
+hint correct cours id 
+cours id error messag 
+cours id error messag empti string 
+hint correct format googl id 
+googl id error messag 
+googl id error messag empti string 
+hint correct time zone 
+time zone error messag 
+hint correct grace period 
+grace period negat error messag 
+role error messag 
+notif style error messag 
+notif target user error messag 
+session visibl time field 
+result visibl time field 
+time befor error messag 
+time befor equal error messag 
+particip type error messag 
+particip type team error messag 
+exact hour error messag 
+regex 
+regex cours id 
+regex email 
+regex googl id email 
+
+
+email 
+grace period 
+googl id 
+cours id 
+section 
+team 
+student role comment 
+feedback session 
+cours 
+institut 
+person 
+time zone valu 
+role 
+field 
+max length 
+valu 
+notif titl 
+notif messag 
+style 
+target user 
+field 
+max length 
+valu 
+start time 
+time zone 
+time 
+time zone 
+session start 
+session 
+visibl start 
+session start 
+visibl start 
+session start 
+visibl start 
+result publish 
+session 
+deadlin 
+notif start 
+notif expiri 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+earlier time 
+time 
+entiti 
+earlier time field 
+time field 
+valid checker 
+invalid info templat 
+time 
+time zone 
+time 
+giver type 
+recipi type 
+comment giver type 
+comment feedback particip 
+visibl follow feedback question 
+show respons 
+show giver 
+show recipi 
+field 
+valu 
+field 
+valu 
+valu 
+email 
+element 
+messag templat 
+user input 
+field 
+error reason 
+max length 
+messag templat 
+user input 
+field 
+error reason 
+messag templat 
+field 
+max length 
+
+
+field valid 
+invalid info email 
+invalid info grace period 
+invalid info googl id 
+invalid info cours id 
+invalid info section 
+invalid info team 
+invalid info student role comment 
+invalid info feedback session 
+invalid info cours 
+invalid info institut 
+invalid info person 
+invalid info time zone 
+invalid info role 
+valid info 
+invalid info notif titl 
+invalid info notif bodi 
+invalid info notif style 
+invalid info notif target user 
+valid info size cap possibl empti string 
+invalid info start time 
+invalid info time 
+invalid info time session start 
+invalid info time visibl start session start 
+invalid info time visibl start 
+invalid info time visibl start result publish 
+invalid info time session extend deadlin 
+invalid info time notif start 
+invalid info time befor time 
+invalid info time strict befor time 
+invalid info time compar time 
+invalid info exact hour time 
+valid info feedback particip type 
+invalid info comment giver type 
+invalid info visibl feedback particip comment 
+valid info feedback respons visibl 
+valid info html field 
+valid info null field 
+untrim 
+valid email address 
+element uniqu 
+popul error messag 
+popul error messag 
+popul empti string error messag 
+

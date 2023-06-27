@@ -1,0 +1,14 @@
+src sep test sep java sep teammat sep logic sep core sep account request logic test dot java 
+account request logic 
+
+
+
+
+prepar test data 
+refresh test data 
+test creat account request 
+test updat account request 
+test delet account request 
+test account request registr key 
+test account request 
+

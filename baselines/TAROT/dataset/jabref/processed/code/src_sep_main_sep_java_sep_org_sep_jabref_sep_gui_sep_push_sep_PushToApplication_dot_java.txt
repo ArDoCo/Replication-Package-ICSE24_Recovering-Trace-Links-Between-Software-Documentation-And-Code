@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep push sep push applic dot java 
+
+
+databas 
+entri 
+key string 
+applic 
+push applic prefer 
+
+
+display 
+tooltip 
+applic icon 
+push entri 
+oper complet 
+requir citat key 
+action 
+set 
+

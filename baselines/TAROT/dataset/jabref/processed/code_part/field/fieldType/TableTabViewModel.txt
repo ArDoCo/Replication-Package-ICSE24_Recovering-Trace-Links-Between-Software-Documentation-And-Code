@@ -1,4 +1,0 @@
-dialog servic 
-column prefer 
-special field prefer 
-main tabl prefer 

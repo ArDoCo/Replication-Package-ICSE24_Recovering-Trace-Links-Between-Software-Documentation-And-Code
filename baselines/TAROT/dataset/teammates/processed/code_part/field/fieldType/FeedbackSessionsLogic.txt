@@ -1,7 +1,0 @@
-logger 
-feedback session logic 
-feedback session db 
-feedback question logic 
-feedback respons logic 
-feedback respons comment logic 
-student logic 

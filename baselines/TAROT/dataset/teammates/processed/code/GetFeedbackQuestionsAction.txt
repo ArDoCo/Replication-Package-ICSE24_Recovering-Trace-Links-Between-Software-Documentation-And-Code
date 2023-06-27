@@ -1,9 +1,0 @@
-feedback question action 
-
-
-
-
-min auth level 
-check specif access control 
-execut 
-

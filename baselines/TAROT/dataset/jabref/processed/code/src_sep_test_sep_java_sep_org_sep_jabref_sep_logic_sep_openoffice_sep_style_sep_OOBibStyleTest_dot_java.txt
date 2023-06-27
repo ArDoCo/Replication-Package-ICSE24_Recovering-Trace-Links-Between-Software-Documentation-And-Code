@@ -1,0 +1,72 @@
+src sep test sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style test dot java 
+layout formatt prefer 
+
+
+style 
+num 
+min group count 
+list 
+key 
+num 
+page info null 
+key 
+num 
+style 
+min group count 
+ 
+entri 
+databas 
+uniqu letter 
+page info 
+sourc 
+style 
+entri 
+entri db map 
+parenthesi 
+uniquefi 
+sourc 
+page info 
+style 
+entri 
+entri db map 
+parenthesi 
+uniquefi 
+sourc 
+page info 
+
+
+set 
+test author year 
+test author year file 
+test numer 
+run num citat marker 
+num entri 
+num bib entri 
+run num citat marker 
+citat marker entri 
+citat marker 
+citat marker 
+test num citat marker 
+test num citat marker undefin 
+test cit properti 
+test citat marker 
+test layout 
+test institut author 
+test von author 
+test institut author marker 
+test von author marker 
+test null author marker 
+test null year marker 
+test empti entri marker 
+test citat marker parenthesi uniquefi 
+test citat marker text uniquefi 
+test citat marker parenthesi uniquefi author 
+test citat marker text uniquefi author 
+test equal 
+test equal 
+test compar equal 
+test compar equal 
+test empti string properti oxford comma 
+test valid default section start 
+test citat marker join 
+

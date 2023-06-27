@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep linkedfil sep attach file action dot java 
+librari tab 
+state manag 
+dialog servic 
+file prefer 
+
+
+librari tab 
+dialog servic 
+state manag 
+file prefer 
+
+
+attach file action 
+execut 
+

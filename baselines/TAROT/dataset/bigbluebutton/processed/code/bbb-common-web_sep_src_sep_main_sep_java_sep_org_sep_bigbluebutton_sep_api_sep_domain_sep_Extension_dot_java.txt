@@ -1,0 +1,18 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep extens dot java 
+type 
+properti 
+properti 
+
+
+type 
+properti 
+type 
+properti 
+
+
+extens 
+type 
+set type 
+properti 
+set properti 
+

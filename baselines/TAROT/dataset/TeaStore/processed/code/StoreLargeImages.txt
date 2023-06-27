@@ -1,9 +1,0 @@
-store larg imag 
-
-
- 
-
-store imag 
-
-test 
-

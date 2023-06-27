@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep logic sep citationstyl sep citat style generat test dot java 
+bib entri type manag 
+
+
+expect 
+mode 
+entri 
+csl file 
+
+
+test acm citat 
+test apa citat 
+test ignor line 
+test ignor carriag return line 
+test citat style 
+test html format 
+test text format 
+test handl diacrit 
+test handl ampersand 
+test handl cross ref field 
+test csl map 
+test csl map 
+

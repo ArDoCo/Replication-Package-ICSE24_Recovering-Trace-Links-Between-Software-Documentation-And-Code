@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep bracket checker test dot java 
+checker 
+
+
+
+
+field accept bracket 
+field accept number bracket 
+field accept expect bracket 
+field doe accept odd number bracket 
+field doe accept unexpect close bracket 
+field doe accept unexpect open bracket 
+field accept charact bracket 
+field accept charact bracket 
+field accept charact bracket 
+field accept empti input 
+

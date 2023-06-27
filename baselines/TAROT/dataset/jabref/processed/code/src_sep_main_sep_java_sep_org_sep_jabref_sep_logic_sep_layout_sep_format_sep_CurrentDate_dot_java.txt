@@ -1,0 +1,9 @@
+src sep main sep java sep org sep jabref sep logic sep layout sep format sep current date dot java 
+default format 
+
+
+field text 
+
+
+format 
+

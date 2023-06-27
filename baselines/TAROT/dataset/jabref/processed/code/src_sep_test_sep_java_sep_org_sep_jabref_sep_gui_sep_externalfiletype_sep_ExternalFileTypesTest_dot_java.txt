@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep gui sep externalfiletyp sep extern file type test dot java 
+test list 
+test list 
+test stringlist 
+file prefer 
+
+
+
+
+set 
+extern file type 
+extern file type ext 
+extern file type ext 
+extern file type 
+extern file type mime type 
+extern file type file 
+extern file type link file 
+string list 
+string 
+extern file typeto string array 
+

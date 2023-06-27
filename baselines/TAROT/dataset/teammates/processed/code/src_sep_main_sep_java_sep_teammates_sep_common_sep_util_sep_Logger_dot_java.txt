@@ -1,0 +1,62 @@
+src sep main sep java sep teammat sep common sep util sep logger dot java 
+standard log 
+error log 
+
+
+messag 
+messag 
+instanc event 
+request 
+status code 
+messag 
+request 
+status code 
+messag 
+user info 
+request bodi 
+action class 
+messag 
+detail 
+messag 
+messag 
+ 
+messag 
+messag 
+ 
+messag 
+ 
+sever 
+ 
+ 
+messag 
+sever 
+messag 
+messag 
+sever 
+messag 
+sever 
+
+
+logger 
+logger 
+fine 
+info 
+startup 
+shutdown 
+instanc 
+request 
+request 
+event 
+warn 
+warn 
+sever 
+sever 
+log messag stack trace 
+intern stack trace 
+stack trace display 
+format log messag 
+format log messag human display 
+format log messag cloud log 
+base cloud log payload 
+logger sourc 
+

@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep style select dialog view model dot java 
+dialog servic 
+style loader 
+open offic prefer 
+prefer servic 
+style 
+style 
+select item 
+select item 
+
+
+dialog servic 
+style loader 
+prefer servic 
+style 
+item 
+item 
+style path 
+
+
+style select dialog view model 
+oo bib style 
+oo bib style 
+add style file 
+load style 
+style properti 
+delet style 
+edit style 
+view style 
+select item properti 
+store pref 
+style default 
+

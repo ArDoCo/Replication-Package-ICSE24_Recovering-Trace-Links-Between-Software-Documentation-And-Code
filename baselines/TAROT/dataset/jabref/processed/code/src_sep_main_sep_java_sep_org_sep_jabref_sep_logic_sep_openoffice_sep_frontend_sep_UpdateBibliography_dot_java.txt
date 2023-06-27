@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep frontend sep updat bibliographi dot java 
+bib section 
+bib section 
+
+
+doc 
+doc 
+frontend 
+bibliographi 
+style 
+alway add cite page 
+doc 
+doc 
+doc 
+frontend 
+bibliographi 
+style 
+alway add cite page 
+
+
+updat bibliographi 
+bibliographi rang 
+rebuild bib text section 
+creat bib text section 
+clear bib text section content 
+popul bib text section 
+

@@ -1,0 +1,36 @@
+src sep test sep java sep teammat sep logic sep core sep feedback question logic test dot java 
+fq logic 
+fr logic 
+frc logic 
+fs logic 
+student logic 
+instructor logic 
+
+
+question key 
+
+
+prepar test data 
+befor method 
+test delet feedback question cours id session delet question 
+test 
+test recipi question 
+test updat question cascad shift question number correct 
+test add question 
+test updat question cascad 
+test delet feedback question cascad exist question cascad delet 
+test delet feedback question cascad exist question fail silent 
+test delet feedback question cascad cascad delet respons student updat respond 
+test delet feedback question cours id delet question 
+test popul field generat question mcq question differ generat option popul correct 
+test popul field generat question msq question differ generat option popul correct 
+test build complet giver recipi map student question build map correct 
+test build complet giver recipi map instructor question build map correct 
+test build complet giver recipi map question build map correct 
+test build complet giver recipi map team question build map correct 
+test feedback question instructor 
+test feedback question instructor 
+test feedback question student 
+test feedback question student 
+question databas 
+

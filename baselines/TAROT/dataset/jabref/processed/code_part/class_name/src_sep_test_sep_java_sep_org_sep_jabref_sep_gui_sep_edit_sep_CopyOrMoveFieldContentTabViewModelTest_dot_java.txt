@@ -1,0 +1,1 @@
+src sep test sep java sep org sep jabref sep gui sep edit sep copi move field content tab view model test dot java 

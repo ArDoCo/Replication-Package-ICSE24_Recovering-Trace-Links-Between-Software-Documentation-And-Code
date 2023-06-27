@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep lib fetcher dot java 
+logger 
+
+mdl jabref partner id 
+mdl url 
+default mrdlib error messag 
+languag 
+version 
+head 
+descript 
+recommend set id 
+prefer 
+
+
+languag 
+version 
+prefer 
+entri 
+queri titl 
+queri titl 
+
+
+lib fetcher 
+
+perform search 
+head 
+descript 
+server request 
+construct queri 
+

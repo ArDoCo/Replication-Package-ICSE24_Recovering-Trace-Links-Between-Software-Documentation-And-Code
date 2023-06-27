@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep import sep open databas dot java 
+
+
+file open 
+import format prefer 
+file monitor 
+parser result 
+keyword delimit 
+
+
+open databas 
+load databas 
+perform load databas migrat 
+

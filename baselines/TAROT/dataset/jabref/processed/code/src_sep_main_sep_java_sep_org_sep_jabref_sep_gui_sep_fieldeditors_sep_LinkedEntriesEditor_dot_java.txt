@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep link entri editor dot java 
+view model 
+chip view 
+chip view 
+
+
+field 
+databas context 
+suggest provid 
+field checker 
+entri 
+
+
+link entri editor 
+view model 
+bind entri 
+node 
+

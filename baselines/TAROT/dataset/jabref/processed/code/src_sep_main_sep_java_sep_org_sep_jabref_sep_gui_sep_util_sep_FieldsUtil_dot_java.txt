@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep util sep field util dot java 
+field string convert 
+field string convert 
+
+
+object 
+string 
+field 
+
+
+string 
+string 
+type 
+

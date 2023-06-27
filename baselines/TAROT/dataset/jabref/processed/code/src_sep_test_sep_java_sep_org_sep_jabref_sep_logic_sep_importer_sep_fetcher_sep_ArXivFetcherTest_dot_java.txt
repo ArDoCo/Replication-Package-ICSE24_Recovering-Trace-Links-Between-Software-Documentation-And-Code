@@ -1,0 +1,62 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep ar xiv fetcher test dot java 
+import format prefer 
+fetcher 
+entri 
+slice theorem paper 
+main origin paper 
+main result paper 
+complet paper 
+
+
+
+
+set 
+set 
+fetcher 
+input test author 
+test author 
+test journal 
+page fetcher 
+support author search 
+support author search 
+find full text empti entri result empti option 
+find full text reject null paramet 
+find full text doi 
+find full text eprint 
+find full text eprint prefix 
+find full text eprint unknown doi 
+find full text titl 
+find full text titl cur bracket 
+find full text titl colon journal eprint 
+find full text titl colon url eprint 
+find full text titl part author 
+find full text titl cur bracket part author 
+find full text unknown doi 
+find full text unknown id 
+find full text doi avail catalog 
+find full text entiti doi 
+find full text trust level 
+search entri part titl 
+search entri part titl acut accent 
+search entri id 
+search entri id digit version 
+search entri id digit 
+search entri id digit prefix 
+search entri id digit prefix trim 
+search entri id digit 
+search malform id return empti 
+search identifi slice paper 
+search empti id 
+search http url 
+search https url 
+search https url trim 
+support year search 
+support year rang search 
+support phrase search 
+support phrase search match exact 
+support boolean search 
+retriev pure arxiv entri doi fetch fail 
+replic ar xiv onli search pass null paramet 
+retriev partial result inform user assign doi 
+retriev partial result inform ar xiv assign doi 
+

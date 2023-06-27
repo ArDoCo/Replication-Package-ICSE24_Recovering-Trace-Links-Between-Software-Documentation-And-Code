@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep gui sep edit sep edit field content tab view model test dot java 
+edit field content view model 
+entri 
+entri 
+bib databas 
+state manag 
+
+
+
+
+setup 
+clear select field clear field content overwrit field content enabl 
+clear select field noth field doesnt exist empti 
+set field valu anyth overwrit field content enabl 
+set field valu set field valu overwrit field content enabl 
+set field valu set field valu field content empti 
+append field valu noth overwrit field content enabl 
+append field valu append field valu overwrit field content enabl 
+field empti 
+select field default valu 
+

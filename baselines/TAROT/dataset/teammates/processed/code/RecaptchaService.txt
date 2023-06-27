@@ -1,8 +1,0 @@
-recaptcha servic 
-
-
-captcha respons 
-
-
-verif success 
-

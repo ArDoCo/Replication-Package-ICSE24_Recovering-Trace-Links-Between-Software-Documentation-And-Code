@@ -1,7 +1,0 @@
-dologin 
-session bean 
-set session bean 
-usernam 
-set usernam 
-password 
-set password 

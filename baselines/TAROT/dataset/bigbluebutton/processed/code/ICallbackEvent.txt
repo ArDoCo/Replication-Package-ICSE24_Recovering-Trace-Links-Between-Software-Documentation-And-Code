@@ -1,7 +1,0 @@
-callback event 
-
-
-
-
-callback url 
-

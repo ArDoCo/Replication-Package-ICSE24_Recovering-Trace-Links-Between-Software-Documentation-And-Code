@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep logic sep bst sep util sep width calcul dot java 
+logger 
+width 
+
+
+ 
+pos 
+ 
+measur 
+
+
+width calcul 
+special char width 
+char width 
+width 
+

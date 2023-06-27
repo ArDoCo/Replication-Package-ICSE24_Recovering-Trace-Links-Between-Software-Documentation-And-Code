@@ -1,0 +1,23 @@
+src sep main sep java sep teammat sep ui sep request sep feedback session remind request dot java 
+cours id 
+feedback session 
+request instructor id 
+user remind 
+send copi instructor 
+
+
+cours id 
+feedback session 
+request instructor id 
+user remind 
+send copi instructor 
+
+
+feedback session remind request 
+cours id 
+feedback session 
+request instructor id 
+user remind 
+send copi instructor 
+valid 
+

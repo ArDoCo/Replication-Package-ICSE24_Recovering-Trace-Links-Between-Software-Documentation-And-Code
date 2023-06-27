@@ -1,0 +1,29 @@
+bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep manag sep intern sep manag connect impl dot java 
+default hostnam 
+default port 
+default timeout 
+esl client 
+hostnam 
+port 
+timeout 
+password 
+
+
+hostnam 
+port 
+password 
+timeout 
+
+
+manag connect impl 
+set hostnam 
+set port 
+set password 
+set timeout 
+hostnam 
+port 
+password 
+esl client 
+connect 
+disconnect 
+

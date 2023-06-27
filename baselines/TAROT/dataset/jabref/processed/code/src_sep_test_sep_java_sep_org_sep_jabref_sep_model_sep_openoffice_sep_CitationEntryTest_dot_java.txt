@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep model sep openoffic sep citat entri test dot java 
+
+
+
+
+test citat entri initi page info 
+test citat entri option initi page info 
+test citat entri init page info chang 
+test citat entri initi page info 
+test citat entri equal 
+test citat entri compar 
+

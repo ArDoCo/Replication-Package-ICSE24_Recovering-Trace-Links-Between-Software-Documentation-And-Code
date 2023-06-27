@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep refer view model dot java 
+entri 
+highlight 
+citat list 
+citat list 
+
+
+entri 
+highlight 
+citat coll 
+
+
+refer view model 
+highlight 
+citat list 
+display text 
+string 
+

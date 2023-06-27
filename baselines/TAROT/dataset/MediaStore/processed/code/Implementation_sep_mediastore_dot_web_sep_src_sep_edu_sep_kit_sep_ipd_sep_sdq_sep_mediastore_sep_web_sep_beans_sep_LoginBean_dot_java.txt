@@ -1,0 +1,20 @@
+implement sep mediastor dot web sep src sep sep kit sep ipd sep sdq sep mediastor sep web sep bean sep login bean dot java 
+serial version uid 
+session bean 
+usernam 
+password 
+
+
+session bean 
+usernam 
+password 
+
+
+dologin 
+session bean 
+set session bean 
+usernam 
+set usernam 
+password 
+set password 
+

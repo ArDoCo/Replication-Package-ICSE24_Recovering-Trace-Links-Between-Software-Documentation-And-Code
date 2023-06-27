@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor dialog dot java 
+logger 
+tab pane 
+undo manag 
+databas 
+select entri 
+select entri 
+state manag 
+view model 
+notif pane 
+notif pane 
+
+
+state manag 
+
+
+automat field editor dialog 
+initi 
+save chang 
+cancel chang 
+

@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep model sep databas sep key chang listen dot java 
+databas 
+
+
+databas 
+event 
+event 
+key 
+key 
+key 
+key 
+entri 
+field 
+field content 
+key 
+key 
+entri 
+field 
+field content 
+
+
+key chang listen 
+listen 
+listen 
+updat entri link 
+replac key multipl key field 
+replac singl key field 
+

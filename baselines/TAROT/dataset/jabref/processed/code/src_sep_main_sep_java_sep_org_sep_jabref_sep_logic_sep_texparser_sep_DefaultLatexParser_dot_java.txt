@@ -1,0 +1,37 @@
+src sep main sep java sep org sep jabref sep logic sep texpars sep default latex parser dot java 
+logger 
+tex ext 
+bib ext 
+cite command 
+cite group 
+cite pattern 
+bibliographi group 
+bibliographi pattern 
+includ group 
+includ pattern 
+latex parser result 
+
+
+cite string 
+latex file 
+latex file 
+file 
+line number 
+line 
+file 
+line 
+file 
+tex file 
+referenc file 
+line 
+
+
+default latex parser 
+latex parser result 
+pars 
+pars 
+pars 
+match citat 
+match bib file 
+match nest file 
+

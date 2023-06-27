@@ -1,9 +1,0 @@
-bib te entri type checker 
-
-
-entri 
-
-bib entri 
-
-check 
-

@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep download full text action dot java 
+logger 
+warn limit 
+dialog servic 
+state manag 
+prefer 
+
+
+dialog servic 
+state manag 
+prefer 
+download 
+databas context 
+databas context 
+url 
+entri 
+target directori 
+
+
+download full text action 
+execut 
+call 
+download full text 
+add link file url 
+

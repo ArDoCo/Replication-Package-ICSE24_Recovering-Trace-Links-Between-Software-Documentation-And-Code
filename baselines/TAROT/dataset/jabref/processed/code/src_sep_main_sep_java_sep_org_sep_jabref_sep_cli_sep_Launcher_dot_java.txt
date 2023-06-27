@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep cli sep launcher dot java 
+logger 
+argument 
+
+
+arg 
+arg 
+prefer 
+prefer 
+proxi prefer 
+ssl prefer 
+
+
+main 
+add log disk 
+initi logger 
+handl multipl app instanc 
+init global 
+configur proxi 
+configur ssl 
+clear search indic 
+

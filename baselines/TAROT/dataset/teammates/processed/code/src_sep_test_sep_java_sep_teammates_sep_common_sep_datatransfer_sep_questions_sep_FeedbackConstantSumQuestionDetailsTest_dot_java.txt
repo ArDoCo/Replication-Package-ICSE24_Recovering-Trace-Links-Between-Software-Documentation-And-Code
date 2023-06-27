@@ -1,0 +1,35 @@
+src sep test sep java sep teammat sep common sep datatransf sep question sep feedback constant sum question detail test dot java 
+
+
+
+
+test valid respons detail recipi valid answer return empti error list 
+test valid respons detail recipi invalid answer return empti error list 
+test valid respons detail option valid answer return empti error list 
+test valid respons detail option invalid answer return empti error list 
+test chang requir respons delet differ const sum option return true 
+test chang requir respons delet constant sum option differ order return fals 
+test chang requir respons delet differ distribut recipi return true 
+test chang requir respons delet distribut recipi return fals 
+test chang requir respons delet differ point return true 
+test chang requir respons delet point return fals 
+test chang requir respons delet differ point option return true 
+test chang requir respons delet point option return fals 
+test chang requir respons delet differ forc uneven distribut return true 
+test chang requir respons delet forc uneven distribut return fals 
+test chang requir respons delet differ max point return true 
+test chang requir respons delet max point return fals 
+test chang requir respons delet differ min point return true 
+test chang requir respons delet min point return fals 
+test chang requir respons delet differ distribut point return true 
+test chang requir respons delet distribut point return fals 
+test instructor comment respons return true 
+test feedback particip comment respons return fals 
+test valid question detail invalid max min option error return 
+test valid question detail duplic option error return 
+test valid question detail invalid const sum option size error return 
+test valid question detail invalid point error return 
+test valid question detail destribut recipi min max option error return 
+test valid question detail min max option min max option error return 
+test valid question detail valid min max option error return 
+

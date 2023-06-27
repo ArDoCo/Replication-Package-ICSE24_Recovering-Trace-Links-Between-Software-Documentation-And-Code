@@ -1,0 +1,76 @@
+src sep main sep java sep org sep jabref sep gui sep group sep group tree view model dot java 
+root group 
+root group 
+select group 
+select group 
+state manag 
+dialog servic 
+prefer 
+task executor 
+local dragboard 
+filter predic 
+filter predic 
+filter text 
+comp alphabet ignor case 
+comp alphabet ignor case 
+current databas 
+current databas 
+
+
+state manag 
+dialog servic 
+prefer servic 
+task executor 
+local dragboard 
+valu 
+databas 
+parent 
+group dialog header 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+group 
+groupnod 
+groupnod 
+groupnod 
+groupnod 
+groupnod 
+
+
+group tree view model 
+refresh 
+root group properti 
+select group properti 
+filter predic properti 
+filter text properti 
+select group chang 
+add group root 
+activ databas chang 
+add subgroup 
+write group chang meta data 
+group type equal 
+onli minor chang 
+edit group 
+remov subgroup 
+remov group subgroup 
+remov group subgroup 
+remov group subgroup 
+remov group group entri 
+add select entri 
+remov select entri 
+sort alphabet recurs 
+drag 
+add group 
+subgroup 
+add entri 
+edit 
+

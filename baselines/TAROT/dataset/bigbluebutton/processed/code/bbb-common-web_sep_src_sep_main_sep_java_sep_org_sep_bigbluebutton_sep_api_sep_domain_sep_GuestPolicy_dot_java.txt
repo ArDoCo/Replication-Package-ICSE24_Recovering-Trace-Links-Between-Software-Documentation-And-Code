@@ -1,0 +1,13 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep guest polici dot java 
+alway accept 
+alway deni 
+moder 
+alway accept auth 
+
+deni 
+wait 
+
+
+
+
+

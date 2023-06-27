@@ -1,3 +1,0 @@
-field 
-auto complet prefer 
-field checker 

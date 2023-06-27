@@ -1,0 +1,26 @@
+src sep main sep java sep teammat sep ui sep servlet sep auth callback servlet dot java 
+log 
+email 
+url 
+
+
+req 
+resp 
+req 
+resp 
+req 
+resp 
+req 
+resp 
+status 
+messag 
+email 
+url 
+
+
+
+googl oauth auth result 
+firebas auth result 
+log print error 
+auth result 
+

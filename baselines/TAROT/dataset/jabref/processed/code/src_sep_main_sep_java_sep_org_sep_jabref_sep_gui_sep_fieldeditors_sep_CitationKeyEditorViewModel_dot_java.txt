@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep citat key editor view model dot java 
+prefer servic 
+databas context 
+undo manag 
+dialog servic 
+
+
+field 
+suggest provid 
+field checker 
+prefer servic 
+databas context 
+undo manag 
+dialog servic 
+
+
+citat key editor view model 
+generat cite key command 
+

@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep integr sep abbrevi checker dot java 
+abbrevi repositori 
+field 
+field 
+
+
+abbrevi repositori 
+entri 
+
+
+abbrevi checker 
+check 
+

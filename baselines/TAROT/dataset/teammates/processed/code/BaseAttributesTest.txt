@@ -1,7 +1,0 @@
-base attribut test 
-
-
-
-
-test entiti 
-

@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditortab sep custom editor field tab dot java 
+general field 
+field text area 
+
+
+
+
+custom editor field tab 
+tab 
+initi 
+reset default 
+

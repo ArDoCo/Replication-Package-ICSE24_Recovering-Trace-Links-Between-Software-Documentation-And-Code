@@ -1,0 +1,19 @@
+src sep test sep java sep org sep jabref sep gui sep edit sep copi move field content tab view model test dot java 
+copi move field content tab view model 
+entri 
+entri 
+bib databas 
+state manag 
+
+
+select entri 
+
+
+setup 
+copi valu doe copi blank valu 
+swap valu swap field valu valu blank 
+swap valu swap field valu valu blank 
+move valu move valu field blank overwrit enabl 
+move valu move valu overwrit enabl 
+field view model 
+

@@ -1,4 +1,0 @@
-bib databas context 
-prefer servic 
-bib entri 
-copi file result item view model 

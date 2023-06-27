@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep model sep entri sep author test dot java 
+
+
+input 
+input 
+input 
+input 
+
+
+add dot abbrevi add dot 
+add dot abbrevi doe add multipl space 
+add dot abbrevi add dot 
+add dot abbrevi null empti 
+add dot abbrevi case letter 
+add dot abbrevi start upper case hyphen 
+add dot abbrevi upper case letter 
+add dot abbrevi upper case letter space 
+add dot abbrevi white space 
+add dot abbrevi doubl abbrevi 
+add dot abbrevi start number 
+

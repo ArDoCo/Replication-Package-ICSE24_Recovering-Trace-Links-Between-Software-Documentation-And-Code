@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep documentview sep pdf document page view model dot java 
+page 
+page number 
+document 
+
+
+page 
+page number 
+document 
+img 
+width 
+height 
+width 
+height 
+
+
+pdf document page view model 
+resiz 
+render 
+page number 
+aspect ratio 
+

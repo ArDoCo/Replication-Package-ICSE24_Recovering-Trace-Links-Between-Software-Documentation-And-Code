@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep gui sep util sep compar sep rank field compar test dot java 
+compar 
+valu 
+valu 
+valu 
+rank 
+rank 
+rank 
+rank 
+rank 
+rank 
+
+
+
+
+set 
+compar higher rank 
+compar rank 
+compar rank 
+compar empti input 
+compar input empti 
+compar input empti 
+

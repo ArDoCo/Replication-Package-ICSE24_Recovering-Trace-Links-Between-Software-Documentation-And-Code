@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep remot sep cli messag handler dot java 
+logger 
+prefer servic 
+
+
+prefer servic 
+messag 
+
+
+cli messag handler 
+handl command line argument 
+

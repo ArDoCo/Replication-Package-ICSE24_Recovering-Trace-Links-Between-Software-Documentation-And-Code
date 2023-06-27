@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep undo sep undoabl field chang dot java 
+logger 
+entri 
+field 
+valu 
+valu 
+
+
+entri 
+field 
+valu 
+valu 
+chang 
+
+
+undoabl field chang 
+undoabl field chang 
+present 
+undo 
+redo 
+

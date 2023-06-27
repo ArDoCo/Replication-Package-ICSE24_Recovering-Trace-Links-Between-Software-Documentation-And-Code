@@ -1,0 +1,45 @@
+src sep main sep java sep org sep jabref sep gui sep entri type view model dot java 
+logger 
+prefer servic 
+search properti 
+search succes properti 
+select item properti 
+select item properti 
+fetcher 
+fetcher 
+id text 
+focus select properti 
+fetcher worker 
+fetcher worker 
+librari tab 
+dialog servic 
+id field valid 
+state manag 
+import format reader 
+task executor 
+fetcher 
+search id 
+
+
+prefer 
+librari tab 
+dialog servic 
+state manag 
+import format reader 
+task executor 
+
+
+entri type view model 
+search succes properti 
+search properti 
+select item properti 
+id field valid status 
+id text properti 
+focus select properti 
+store select fetcher 
+select fetcher 
+fetcher item properti 
+stop fetch 
+call 
+run fetcher worker 
+

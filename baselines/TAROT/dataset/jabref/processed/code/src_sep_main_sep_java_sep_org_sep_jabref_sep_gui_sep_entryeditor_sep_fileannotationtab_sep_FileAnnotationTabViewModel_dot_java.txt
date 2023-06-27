@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep fileannotationtab sep file annot tab view model dot java 
+logger 
+annot 
+annot 
+file 
+file 
+current annot 
+current annot 
+annot empti 
+cach 
+entri 
+file annot 
+file annot 
+current file 
+file monitor 
+file listen 
+
+
+cach 
+entri 
+file monitor 
+annot 
+file 
+
+
+file annot tab view model 
+current annot properti 
+annot empti 
+annot properti 
+file properti 
+notifi select annot 
+notifi select file 
+reload annot 
+copi current annot 
+current annot 
+

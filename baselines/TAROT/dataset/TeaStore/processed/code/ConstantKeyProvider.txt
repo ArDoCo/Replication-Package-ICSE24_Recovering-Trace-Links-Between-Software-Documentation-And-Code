@@ -1,9 +1,0 @@
-constant key provid 
-
-
-blob 
-
-session blob 
-
-key 
-

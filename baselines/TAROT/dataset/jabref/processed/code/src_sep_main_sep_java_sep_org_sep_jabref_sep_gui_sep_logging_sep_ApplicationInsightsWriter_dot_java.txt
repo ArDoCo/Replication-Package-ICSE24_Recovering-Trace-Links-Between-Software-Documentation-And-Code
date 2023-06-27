@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep log sep applic insight writer dot java 
+
+
+properti 
+log entri 
+
+
+applic insight writer 
+applic insight writer 
+requir log entri valu 
+write 
+flush 
+close 
+

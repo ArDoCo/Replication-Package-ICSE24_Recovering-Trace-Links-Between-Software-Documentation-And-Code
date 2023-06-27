@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep cape ampersand formatt test dot java 
+formatt 
+
+
+
+
+set 
+format return text ampersand present 
+format escap ampersand present 
+format exampl 
+format return text user defin latex command ampersand present 
+format return text latex command ampersand present 
+

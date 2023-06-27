@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep menus sep chang entri type action dot java 
+type 
+entri 
+entri 
+undo manag 
+status messag properti 
+
+
+type 
+entri 
+undo manag 
+
+
+chang entri type action 
+execut 
+status messag 
+status messag properti 
+

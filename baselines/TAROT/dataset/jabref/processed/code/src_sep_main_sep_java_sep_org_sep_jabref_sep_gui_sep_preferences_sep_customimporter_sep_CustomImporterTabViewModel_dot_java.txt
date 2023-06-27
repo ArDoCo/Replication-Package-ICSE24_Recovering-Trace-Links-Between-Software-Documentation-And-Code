@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep customimport sep custom import tab view model dot java 
+logger 
+import 
+import 
+select import 
+select import 
+prefer 
+dialog servic 
+
+
+prefer 
+dialog servic 
+base path 
+path 
+
+
+custom import tab view model 
+set valu 
+store set 
+path class 
+add import 
+remov select import 
+select import properti 
+import properti 
+

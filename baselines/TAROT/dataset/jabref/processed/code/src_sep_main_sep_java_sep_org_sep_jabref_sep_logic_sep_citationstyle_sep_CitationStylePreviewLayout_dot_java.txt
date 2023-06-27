@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style preview layout dot java 
+citat style 
+bib entri type manag 
+
+
+citat style 
+bib entri type manag 
+entri 
+databas context 
+
+
+citat style preview layout 
+generat preview 
+display 
+sourc 
+file path 
+
+

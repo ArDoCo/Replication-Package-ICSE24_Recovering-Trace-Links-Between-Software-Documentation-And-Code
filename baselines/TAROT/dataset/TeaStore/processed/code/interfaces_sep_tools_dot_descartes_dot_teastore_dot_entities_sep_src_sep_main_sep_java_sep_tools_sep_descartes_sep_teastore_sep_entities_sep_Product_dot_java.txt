@@ -1,0 +1,32 @@
+interfac sep tool dot descart dot teastor dot entiti sep src sep main sep java sep tool sep descart sep teastor sep entiti sep product dot java 
+id 
+categori id 
+
+descript 
+list price cent 
+
+
+product 
+id 
+categori id 
+
+descript 
+list price cent 
+obj 
+
+
+product 
+product 
+id 
+set id 
+categori id 
+set categori id 
+
+set 
+descript 
+set descript 
+list price cent 
+set list price cent 
+hash code 
+equal 
+

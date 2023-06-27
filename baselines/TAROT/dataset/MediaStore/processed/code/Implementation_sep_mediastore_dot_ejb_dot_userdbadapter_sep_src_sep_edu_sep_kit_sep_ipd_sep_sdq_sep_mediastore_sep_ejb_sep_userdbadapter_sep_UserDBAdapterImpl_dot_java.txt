@@ -1,0 +1,15 @@
+implement sep mediastor dot ejb dot userdbadapt sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep userdbadapt sep er db adapt impl dot java 
+serial version uid 
+db manag 
+
+
+user data 
+usernam 
+password 
+
+
+er db adapt impl 
+add user 
+user data 
+remov data 
+

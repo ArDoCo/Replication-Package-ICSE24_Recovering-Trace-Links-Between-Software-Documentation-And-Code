@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep casechang sep word dot java 
+smaller word 
+smaller word 
+dash 
+dash 
+conjunct 
+conjunct 
+char 
+protect char 
+
+
+char 
+protect char 
+word 
+char 
+ 
+
+
+word 
+smaller word 
+upper case 
+case 
+upper 
+upper ignor hyphen 
+upper titl 
+conjunct 
+strip conson 
+smaller word 
+larger word 
+string 
+colon 
+

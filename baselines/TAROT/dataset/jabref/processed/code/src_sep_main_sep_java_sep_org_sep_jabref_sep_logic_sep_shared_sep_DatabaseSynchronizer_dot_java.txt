@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep logic sep share sep databas synchron dot java 
+
+
+listen 
+connect 
+bib entri 
+
+
+db 
+pull chang 
+close share databas 
+regist listen 
+open share databas 
+synchron share entri 
+synchron local databas 
+connect properti 
+

@@ -1,9 +1,0 @@
-citat style test 
-
-
-
-
-default 
-test default citat 
-test discov citat style null 
-

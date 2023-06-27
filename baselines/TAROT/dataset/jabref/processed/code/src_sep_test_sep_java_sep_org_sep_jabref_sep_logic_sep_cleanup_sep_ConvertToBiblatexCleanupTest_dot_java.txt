@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep convert biblatex cleanup test dot java 
+worker 
+
+
+
+
+set 
+cleanup move year month date 
+cleanup date alreadi present differ year doe noth 
+cleanup date alreadi present differ month doe noth 
+cleanup empti date doe noth 
+cleanup date alreadi present equal year month 
+cleanup move journal journaltitl 
+

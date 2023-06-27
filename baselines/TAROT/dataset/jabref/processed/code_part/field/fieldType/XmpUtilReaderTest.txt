@@ -1,3 +1,0 @@
-xmp prefer 
-bibtex import 
-xmp util reader 

@@ -1,0 +1,23 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep record servic gw dot java 
+
+
+rec 
+xml 
+xml 
+metadata 
+record id 
+
+token 
+record id 
+dir 
+bas url 
+track 
+
+
+record 
+record metadata 
+save record metadata 
+valid text track singl token 
+record text track 
+put record text track 
+

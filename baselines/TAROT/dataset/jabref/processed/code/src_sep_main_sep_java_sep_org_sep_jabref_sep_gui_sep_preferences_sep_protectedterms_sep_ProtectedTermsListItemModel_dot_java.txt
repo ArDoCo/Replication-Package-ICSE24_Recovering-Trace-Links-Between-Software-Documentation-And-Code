@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep protectedterm sep protect term list item model dot java 
+term list 
+enabl properti 
+
+
+term list 
+
+
+protect term list item model 
+term list 
+descript properti 
+locat properti 
+intern properti 
+enabl properti 
+

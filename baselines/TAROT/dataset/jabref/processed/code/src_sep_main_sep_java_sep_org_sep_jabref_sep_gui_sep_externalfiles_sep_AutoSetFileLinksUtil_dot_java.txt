@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep auto set file link util dot java 
+chang entri 
+chang entri 
+file 
+file 
+logger 
+directori 
+directori 
+auto link prefer 
+file prefer 
+
+
+bib entri 
+
+databas context 
+file prefer 
+auto link prefer 
+directori 
+file prefer 
+auto link prefer 
+entri 
+ce 
+entri 
+
+
+add bib entri 
+add file 
+chang entri 
+file 
+auto set file link util 
+auto set file link util 
+link associ file 
+find associ link file 
+

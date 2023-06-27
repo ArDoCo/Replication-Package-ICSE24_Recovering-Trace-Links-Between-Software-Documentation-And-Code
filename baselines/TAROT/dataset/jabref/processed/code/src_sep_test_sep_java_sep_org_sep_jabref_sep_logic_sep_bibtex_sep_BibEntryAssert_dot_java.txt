@@ -1,0 +1,41 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep bib entri assert dot java 
+
+
+clazz 
+resourc 
+entri 
+clazz 
+resourc 
+entri 
+
+expect input stream 
+actual entri 
+expect entri 
+actual input stream 
+expect 
+actual 
+expect 
+file import 
+import 
+expect 
+file import 
+import 
+expect 
+file import 
+import 
+expect 
+file import 
+import 
+
+
+assert equal 
+assert equal 
+list input stream 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+assert equal 
+

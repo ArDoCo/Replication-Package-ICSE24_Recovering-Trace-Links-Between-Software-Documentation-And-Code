@@ -1,3 +1,0 @@
-load config 
-reconfigur 
-ejb 

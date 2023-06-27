@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep sep dialog view dot java 
+copi version button 
+text area version 
+dialog servic 
+clip board manag 
+build info 
+view model 
+
+
+
+
+dialog view 
+view model 
+initi 
+copi version clipboard 
+open jabref websit 
+open extern librari websit 
+open github 
+open chang log 
+open licens 
+open contributor 
+open donat 
+

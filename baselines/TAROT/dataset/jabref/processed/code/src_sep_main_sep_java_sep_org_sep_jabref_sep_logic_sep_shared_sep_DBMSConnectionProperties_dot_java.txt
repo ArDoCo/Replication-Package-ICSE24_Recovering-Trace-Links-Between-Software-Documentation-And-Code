@@ -1,0 +1,46 @@
+src sep main sep java sep org sep jabref sep logic sep share sep dbms connect properti dot java 
+logger 
+type 
+host 
+port 
+databas 
+user 
+password 
+public key retriev 
+ssl 
+server timezon 
+key store 
+
+
+pref 
+type 
+host 
+port 
+databas 
+user 
+password 
+ssl 
+public key retriev 
+server timezon 
+key store 
+obj 
+
+
+dbms connect properti 
+dbms connect properti 
+type 
+host 
+port 
+databas 
+user 
+password 
+ssl 
+public key retriev 
+server timezon 
+url 
+properti 
+key store 
+equal 
+hash code 
+valid 
+

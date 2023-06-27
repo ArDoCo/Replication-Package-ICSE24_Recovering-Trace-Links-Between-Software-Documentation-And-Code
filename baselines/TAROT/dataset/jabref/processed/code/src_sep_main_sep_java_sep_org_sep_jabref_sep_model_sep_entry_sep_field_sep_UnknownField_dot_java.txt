@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep model sep entri sep field sep unknown field dot java 
+
+properti 
+properti 
+
+
+
+
+
+rest 
+ 
+
+
+unknown field 
+unknown field 
+properti 
+
+standard field 
+equal 
+hash code 
+string 
+

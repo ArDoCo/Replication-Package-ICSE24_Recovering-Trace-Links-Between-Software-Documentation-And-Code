@@ -1,0 +1,24 @@
+src sep sep java sep teammat sep sep pageobject sep instructor cours student detail view page dot java 
+specifi label 
+student 
+cours id 
+student section 
+student team 
+student offici email 
+student comment 
+
+
+browser 
+expect cours id 
+expect student email 
+student 
+expect 
+detail field 
+
+
+instructor cours student detail view page 
+expect page content 
+verifi correct page 
+verifi student detail 
+verifi detail 
+

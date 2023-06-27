@@ -1,0 +1,31 @@
+src sep main sep java sep teammat sep ui sep output sep ongo session data dot java 
+total ongo session 
+total open session 
+total close session 
+total await session 
+total institut 
+session 
+session 
+
+
+total ongo session 
+total open session 
+total close session 
+total await session 
+total institut 
+session 
+
+
+total ongo session 
+total open session 
+total close session 
+total await session 
+total institut 
+session 
+set total ongo session 
+set total open session 
+set total close session 
+set total await session 
+set total institut 
+set session 
+

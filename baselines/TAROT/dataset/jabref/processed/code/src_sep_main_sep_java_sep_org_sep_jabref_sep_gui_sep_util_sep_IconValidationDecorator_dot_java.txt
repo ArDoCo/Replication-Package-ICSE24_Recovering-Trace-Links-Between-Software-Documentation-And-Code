@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep util sep icon valid decor dot java 
+posit 
+
+
+posit 
+messag 
+messag 
+messag 
+
+
+icon valid decor 
+icon valid decor 
+creat error node 
+creat warn node 
+creat decor node 
+creat tooltip 
+creat valid decor 
+

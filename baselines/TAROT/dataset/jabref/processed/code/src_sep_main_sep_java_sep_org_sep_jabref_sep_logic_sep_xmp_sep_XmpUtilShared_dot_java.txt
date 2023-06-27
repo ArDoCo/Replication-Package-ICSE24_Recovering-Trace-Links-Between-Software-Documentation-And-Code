@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep xmp sep xmp util share dot java 
+logger 
+
+
+
+path 
+xmp prefer 
+
+
+xmp util share 
+pars xmp metadata 
+metadata 
+

@@ -1,0 +1,27 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep trophys data system test dot java 
+fetcher 
+diez slice theorem entri 
+famaey mc gaugh entri 
+sun welch entri 
+xiong sun entri 
+ingersol pollard entri 
+lucey paul entri 
+
+
+
+
+set 
+test 
+search queri find entri 
+search entri find entri 
+test perform search famaey mc gaugh entri 
+test perform search id empti doi 
+test perform search id invalid doi 
+test perform search sun welch entri 
+test perform search xiong sun entri 
+test perform search ingersol pollard entri 
+test perform search lucey paul entri 
+perform search queri page search limit size 
+perform search queri page invalid author return empti page 
+page fetcher 
+

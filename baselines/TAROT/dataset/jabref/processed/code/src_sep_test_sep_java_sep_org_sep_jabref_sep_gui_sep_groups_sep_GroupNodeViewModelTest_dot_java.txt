@@ -1,0 +1,25 @@
+src sep test sep java sep org sep jabref sep gui sep group sep group node view model test dot java 
+state manag 
+databas context 
+view model 
+task executor 
+prefer servic 
+
+
+group 
+group 
+
+
+set 
+display convert latex unicod 
+alway match empti search string 
+match part search string 
+tree automat keyword group combin 
+drag top group add befor 
+drag bottom group add 
+drag bottom group add sourc group befor 
+drag top group add befor sourc group befor 
+entri ad correct 
+view model group 
+view model group 
+

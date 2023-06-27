@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep pdf sep search sep index sep pdf index test dot java 
+index 
+databas 
+context 
+
+
+index dir 
+
+
+set 
+exampl thesi index 
+dont index pdf 
+dont index onlin link 
+exampl thesi index key 
+meta data index 
+test flush index 
+exampl thesi index append meta data 
+

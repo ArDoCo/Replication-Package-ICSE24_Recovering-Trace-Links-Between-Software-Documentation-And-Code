@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file result item view model dot java 
+file 
+icon 
+icon 
+messag 
+
+
+file 
+success 
+messag 
+
+
+copi file result item view model 
+file 
+messag 
+icon 
+string 
+

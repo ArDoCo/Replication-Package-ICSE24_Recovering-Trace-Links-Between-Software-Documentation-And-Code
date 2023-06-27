@@ -1,0 +1,31 @@
+src sep test sep java sep org sep jabref sep logic sep export sep embed bib file pdf export test dot java 
+temp dir 
+olli 
+toral 
+vapnik 
+export 
+databas context 
+data base 
+file prefer 
+
+
+bib entri valid pdf file link 
+bib entri valid pdf file link 
+path 
+path 
+file 
+temp dir 
+
+
+init bib entri 
+set 
+success export file entri 
+unsuccess export file entri 
+provid bib entri valid pdf file link 
+provid bib entri invalid pdf file link 
+success export file path 
+unsuccess export file path 
+provid path valid pdf 
+provid path invalid pdf 
+creat default link file 
+

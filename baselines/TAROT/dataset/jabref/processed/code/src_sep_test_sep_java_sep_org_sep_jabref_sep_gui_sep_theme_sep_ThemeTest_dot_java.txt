@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep gui sep theme sep theme test dot java 
+
+
+
+
+light theme path blank 
+light theme path base css 
+dark theme path dark css 
+custom theme ignor directori 
+custom theme ignor invalid path 
+custom theme file 
+

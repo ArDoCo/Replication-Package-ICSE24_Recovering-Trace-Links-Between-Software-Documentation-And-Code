@@ -1,0 +1,34 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep persist order item dot java 
+id 
+quantiti 
+unit price cent 
+product 
+order 
+
+
+id 
+product id 
+quantiti 
+unit price cent 
+product 
+order id 
+order 
+
+
+persist order item 
+clear cach 
+id 
+set id 
+product id 
+set product id 
+quantiti 
+set quantiti 
+unit price cent 
+set unit price cent 
+product 
+set product 
+order id 
+set order id 
+order 
+set order 
+

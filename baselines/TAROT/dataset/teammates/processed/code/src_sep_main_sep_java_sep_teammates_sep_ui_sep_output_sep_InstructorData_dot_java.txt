@@ -1,0 +1,46 @@
+src sep main sep java sep teammat sep ui sep output sep instructor data dot java 
+googl id 
+cours id 
+email 
+display student 
+display student 
+
+role 
+join state 
+key 
+institut 
+
+
+instructor attribut 
+googl id 
+role 
+display student 
+display student 
+join state 
+key 
+institut 
+key 
+institut 
+googl id 
+
+
+instructor data 
+googl id 
+set googl id 
+cours id 
+email 
+role 
+set role 
+display student 
+set display student 
+display student 
+set display student 
+
+join state 
+set join state 
+key 
+set key 
+institut 
+set institut 
+add addit inform admin search 
+

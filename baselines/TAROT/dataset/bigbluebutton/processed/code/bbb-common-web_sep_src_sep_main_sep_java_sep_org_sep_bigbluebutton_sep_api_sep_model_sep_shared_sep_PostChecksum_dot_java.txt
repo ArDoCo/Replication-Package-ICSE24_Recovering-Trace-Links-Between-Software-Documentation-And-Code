@@ -1,0 +1,15 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep share sep post checksum dot java 
+param 
+param 
+
+
+api call 
+checksum 
+param 
+param 
+
+
+post checksum 
+param 
+set param 
+

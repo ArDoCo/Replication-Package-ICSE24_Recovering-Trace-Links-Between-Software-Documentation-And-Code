@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep remov newlin formatt test dot java 
+formatt 
+
+
+
+
+set 
+remov carriag return line feed 
+remov carriag return 
+remov line feed 
+line unmodifi 
+remov platform specif line 
+

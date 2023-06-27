@@ -1,0 +1,47 @@
+src sep main sep java sep org sep jabref sep gui sep desktop sep jab ref desktop dot java 
+logger 
+nativ desktop 
+remot link pattern 
+
+
+databas context 
+prefer servic 
+initi link 
+initi field 
+dialog servic 
+entri 
+doi 
+link 
+prefer 
+dialog servic 
+databas context 
+prefer servic 
+link 
+type 
+file type 
+file path 
+file link 
+prefer servic 
+dialog servic 
+url 
+url 
+url 
+dialog servic 
+file 
+prefer servic 
+dialog servic 
+
+
+jab ref desktop 
+open extern viewer 
+open doi 
+open custom doi 
+open extern file ani format 
+open extern file platform independ 
+open folder select file 
+open browser 
+open browser 
+open browser show popup 
+open consol 
+nativ desktop 
+

@@ -1,9 +1,0 @@
-html paragraph 
-befor line pattern 
-
-
-field text 
-
-
-format 
-

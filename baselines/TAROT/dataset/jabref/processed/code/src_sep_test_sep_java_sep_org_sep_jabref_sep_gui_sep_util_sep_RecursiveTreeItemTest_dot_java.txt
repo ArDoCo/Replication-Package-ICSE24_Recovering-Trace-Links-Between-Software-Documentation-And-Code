@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep gui sep util sep recurs tree item test dot java 
+root tree item 
+root tree item 
+root 
+filter predic 
+filter predic 
+node 
+
+
+
+
+set 
+add children node 
+add children child node 
+respect filter 
+

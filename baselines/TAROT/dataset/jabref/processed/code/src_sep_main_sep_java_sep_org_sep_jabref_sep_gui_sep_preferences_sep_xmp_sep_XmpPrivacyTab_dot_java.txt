@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep xmp sep xmp privaci tab dot java 
+enabl xmp filter 
+filter list 
+filter list 
+field column 
+field column 
+action column 
+action column 
+add field 
+add field 
+add field 
+valid visual 
+
+
+
+
+xmp privaci tab 
+tab 
+initi 
+add field 
+

@@ -1,2 +1,0 @@
-option object properti 
-databas chang resolv 

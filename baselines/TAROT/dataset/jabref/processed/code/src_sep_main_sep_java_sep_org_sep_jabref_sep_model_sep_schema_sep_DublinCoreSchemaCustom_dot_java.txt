@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep model sep schema sep dublin core schema custom dot java 
+logger 
+
+
+metadata 
+dc schema 
+seq 
+
+
+dublin core schema custom 
+copi dublin core schema 
+unqualifi sequenc valu list 
+

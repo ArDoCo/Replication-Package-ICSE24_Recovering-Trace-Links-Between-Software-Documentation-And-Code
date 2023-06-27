@@ -1,0 +1,19 @@
+src sep test sep java sep org sep jabref sep model sep field chang test dot java 
+entri 
+entri 
+fc 
+
+
+
+
+field chang null entri 
+field chang null field 
+blank field chang 
+equal field chang 
+equal fieldchang paramet 
+equal fieldchang differ valu 
+equal fieldchang differ entri 
+field chang doe equal string 
+field chang equal 
+differ field chang equal 
+

@@ -1,0 +1,33 @@
+src sep main sep java sep teammat sep storag sep api sep cours db dot java 
+instanc 
+
+
+cours id 
+cours id 
+updat option 
+cours id 
+cours id 
+cours id 
+entiti creat 
+cours id 
+cours id 
+entiti 
+start time 
+time 
+
+
+cours db 
+inst 
+cours 
+cours 
+updat cours 
+delet cours 
+soft delet cours 
+restor delet cours 
+load 
+exist entiti 
+cours entiti 
+cours entiti 
+attribut 
+num cours time rang 
+

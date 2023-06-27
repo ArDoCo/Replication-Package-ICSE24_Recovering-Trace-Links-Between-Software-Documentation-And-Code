@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep linkedfil sep link file tab dot java 
+main file directori 
+main file directori 
+bib locat primari 
+brows directori 
+autolink regex 
+autolink file start bibtex 
+autolink file exact bibtex 
+autolink regex 
+autolink regex key 
+fulltext index 
+file pattern 
+file pattern 
+file directori pattern 
+valid visual 
+
+
+
+
+link file tab 
+tab 
+initi 
+main file dir brows 
+

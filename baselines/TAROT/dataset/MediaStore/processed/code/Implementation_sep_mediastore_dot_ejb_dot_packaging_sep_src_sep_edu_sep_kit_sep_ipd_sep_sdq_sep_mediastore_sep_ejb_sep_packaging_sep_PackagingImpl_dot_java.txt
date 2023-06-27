@@ -1,0 +1,16 @@
+implement sep mediastor dot ejb dot packag sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep packag sep packag impl dot java 
+serial version uid 
+buffer 
+
+
+zos 
+sz 
+content 
+file list 
+local call 
+
+
+packag impl 
+add file zip 
+zip 
+

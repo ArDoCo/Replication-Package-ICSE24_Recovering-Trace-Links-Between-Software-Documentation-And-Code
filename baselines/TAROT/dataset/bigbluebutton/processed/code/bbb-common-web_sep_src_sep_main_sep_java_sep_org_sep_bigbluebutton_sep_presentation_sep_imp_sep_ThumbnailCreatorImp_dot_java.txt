@@ -1,0 +1,36 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep thumbnail creator imp dot java 
+log 
+page number pattern 
+temp thumb 
+imagemagick dir 
+blank thumbnail 
+
+
+pres 
+page 
+page file 
+thumb dir 
+pres 
+page 
+page file 
+present file 
+dir 
+page 
+thumb dir 
+page 
+thumb 
+directori 
+imag magick dir 
+blank thumbnail 
+
+
+creat thumbnail 
+generat thumbnail 
+determin thumbnail directori 
+renam thumbnail 
+creat blank thumbnail 
+copi blank thumbnail 
+clean directori 
+set imag magick dir 
+set blank thumbnail 
+

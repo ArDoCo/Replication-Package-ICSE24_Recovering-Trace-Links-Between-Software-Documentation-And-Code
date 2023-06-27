@@ -1,3 +1,0 @@
-dialog servic 
-file updat monitor 
-theme manag 

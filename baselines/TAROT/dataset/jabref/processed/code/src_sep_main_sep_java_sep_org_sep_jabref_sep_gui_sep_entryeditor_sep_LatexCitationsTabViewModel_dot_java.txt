@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep latex citat tab view model dot java 
+logger 
+tex ext 
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+directori 
+directori 
+citat list 
+citat list 
+status 
+status 
+search error 
+search task 
+search task 
+latex parser result 
+current entri 
+
+
+databas context 
+prefer servic 
+task executor 
+dialog servic 
+entri 
+cite key 
+cite key 
+directori 
+tex file 
+
+
+latex citat tab view model 
+init 
+directori properti 
+citat list 
+status properti 
+search error properti 
+start search 
+cancel search 
+search pars 
+search directori 
+set latex directori 
+show 
+

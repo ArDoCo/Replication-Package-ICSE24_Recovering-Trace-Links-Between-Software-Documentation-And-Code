@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep suffix transform test dot java 
+
+
+
+
+transform 
+author suffix 
+field suffix 
+journal suffix 
+titl suffix 
+convert author field suffix 
+convert field term suffix 
+convert explicit field term suffix 
+convert journal field suffix 
+convert year field 
+convert year rang field 
+convert multipl valu suffix 
+group oper suffix 
+oper sufix 
+

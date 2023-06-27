@@ -1,0 +1,50 @@
+src sep main sep java sep teammat sep common sep datatransf sep cours roster dot java 
+student list email 
+student list email 
+instructor list email 
+instructor list email 
+team member tabl 
+team member tabl 
+
+team 
+section 
+
+
+student 
+instructor 
+student email 
+team 
+student email 
+target team 
+student email 
+student email 
+email 
+email 
+student 
+instructor 
+student 
+identifi 
+
+team 
+section 
+
+
+cours roster 
+student 
+instructor 
+team member tabl 
+student cours 
+team cours 
+student team 
+student team 
+student email 
+instructor email 
+popul student list email 
+popul instructor list email 
+build team member tabl 
+info identifi 
+particip info 
+
+team 
+section 
+

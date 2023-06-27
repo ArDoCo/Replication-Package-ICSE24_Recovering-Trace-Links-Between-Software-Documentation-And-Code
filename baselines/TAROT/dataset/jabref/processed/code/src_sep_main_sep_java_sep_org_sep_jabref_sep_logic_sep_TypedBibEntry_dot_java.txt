@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep type bib entri dot java 
+entri 
+databas 
+databas 
+mode 
+
+
+entri 
+mode 
+entri 
+databas context 
+entri type manag 
+
+
+type bib entri 
+type bib entri 
+requir field 
+type display 
+

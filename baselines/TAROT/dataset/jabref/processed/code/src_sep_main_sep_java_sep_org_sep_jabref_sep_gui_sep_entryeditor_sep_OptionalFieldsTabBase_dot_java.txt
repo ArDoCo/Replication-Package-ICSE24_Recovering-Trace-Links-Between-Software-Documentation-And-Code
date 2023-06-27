@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep option field tab base dot java 
+entri type manag 
+primari option field 
+
+
+titl 
+primari option field 
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+index task manag 
+entri type manag 
+task executor 
+journal abbrevi repositori 
+entri 
+
+
+option field tab base 
+determin field show 
+

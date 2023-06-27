@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf verbatim bib text import dot java 
+import format prefer 
+
+
+import format prefer 
+input 
+reader 
+data 
+file path 
+document 
+
+
+pdf verbatim bib text import 
+recogn format 
+import databas 
+import databas 
+import databas 
+page content 
+
+file type 
+descript 
+

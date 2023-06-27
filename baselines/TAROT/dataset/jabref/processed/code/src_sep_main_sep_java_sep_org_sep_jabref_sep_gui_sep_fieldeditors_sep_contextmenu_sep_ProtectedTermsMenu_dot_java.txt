@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep protect term menu dot java 
+formatt 
+text input control 
+factori 
+protect select action inform 
+list 
+
+
+list 
+text input control 
+
+
+text 
+icon 
+descript 
+protect select action 
+execut 
+format field action 
+execut 
+add protect term action 
+execut 
+protect term menu 
+extern file menu 
+

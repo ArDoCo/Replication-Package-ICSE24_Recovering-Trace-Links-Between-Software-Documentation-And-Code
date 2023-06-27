@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep logic sep crawler sep studi fetcher dot java 
+logger 
+max amount result fetcher 
+activ fetcher 
+activ fetcher 
+search queri 
+search queri 
+
+
+activ fetcher 
+search queri 
+search queri 
+search queri 
+search queri 
+fetcher 
+
+
+studi fetcher 
+crawl 
+queri result 
+perform search queri 
+perform search queri fetcher 
+

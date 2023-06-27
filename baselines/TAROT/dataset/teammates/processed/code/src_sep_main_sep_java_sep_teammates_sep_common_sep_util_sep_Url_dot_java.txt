@@ -1,0 +1,21 @@
+src sep main sep java sep teammat sep common sep util sep url dot java 
+base url 
+relat url 
+queri 
+
+
+url string 
+param 
+param valu 
+url 
+key 
+valu 
+
+
+url 
+base url 
+param 
+add param url 
+string 
+absolut string 
+

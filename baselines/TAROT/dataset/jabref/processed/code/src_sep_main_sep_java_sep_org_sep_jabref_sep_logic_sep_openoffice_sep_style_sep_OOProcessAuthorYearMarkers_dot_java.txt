@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo process author year marker dot java 
+
+
+sort cite key 
+style 
+sort cite key 
+citat group 
+citat group 
+citat group 
+style 
+
+
+oo process author year marker 
+creat normal citat marker 
+creat uniqu letter 
+set sourc citat 
+produc citat marker 
+

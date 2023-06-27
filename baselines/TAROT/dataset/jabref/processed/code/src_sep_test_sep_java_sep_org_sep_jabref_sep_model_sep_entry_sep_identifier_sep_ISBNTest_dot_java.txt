@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep model sep entri sep identifi sep isbn test dot java 
+
+
+
+
+test valid format correct 
+test valid format incorrect 
+test valid checksum correct 
+test valid checksum incorrect 
+test valid format correct 
+test valid format incorrect 
+test valid checksum correct 
+test valid checksum incorrect 
+test isbn correct 
+test isbn incorrect 
+test isbn correct 
+test isbn incorrect 
+

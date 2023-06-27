@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep tabl sep tabl tab dot java 
+column list 
+column list 
+column 
+column 
+action column 
+action column 
+add column 
+add column 
+special field enabl 
+special field 
+extra file column enabl 
+auto resiz column 
+natbib 
+
+
+
+abbrevi disabl 
+abbrevi enabl 
+abbrevi onli 
+valid visual 
+
+
+
+
+tabl tab 
+tab 
+initi 
+setup tabl 
+setup bind 
+updat current column order 
+sort column 
+sort column 
+add column 
+

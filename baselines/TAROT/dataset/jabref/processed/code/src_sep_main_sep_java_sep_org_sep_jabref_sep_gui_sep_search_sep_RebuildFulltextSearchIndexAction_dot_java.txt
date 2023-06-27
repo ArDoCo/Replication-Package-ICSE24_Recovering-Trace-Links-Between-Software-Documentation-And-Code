@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep search sep rebuild fulltext search index action dot java 
+logger 
+state manag 
+current librari tab 
+dialog servic 
+file prefer 
+databas context 
+continu 
+
+
+state manag 
+current librari tab 
+dialog servic 
+file prefer 
+
+
+rebuild fulltext search index action 
+execut 
+init 
+rebuild index 
+
+

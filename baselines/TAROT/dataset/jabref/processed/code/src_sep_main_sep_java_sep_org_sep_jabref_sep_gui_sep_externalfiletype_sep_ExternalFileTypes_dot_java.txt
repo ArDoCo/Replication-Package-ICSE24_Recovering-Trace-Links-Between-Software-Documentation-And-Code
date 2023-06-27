@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep gui sep externalfiletyp sep extern file type dot java 
+file type remov flag 
+html fallback type 
+
+
+
+file prefer 
+extens 
+file prefer 
+extens 
+file prefer 
+filenam 
+file prefer 
+mime type 
+file prefer 
+file 
+file prefer 
+link file 
+deduc unknown type 
+file prefer 
+file type 
+store file type 
+
+
+extern file type 
+default extern file type 
+extern file type 
+extern file type ext 
+extern file type ext 
+extern file type 
+extern file type mime type 
+extern file type file 
+extern file type link file 
+string list 
+string 
+

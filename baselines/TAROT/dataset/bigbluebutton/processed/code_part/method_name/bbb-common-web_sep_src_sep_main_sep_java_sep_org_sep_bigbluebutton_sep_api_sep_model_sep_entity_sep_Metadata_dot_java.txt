@@ -1,0 +1,12 @@
+id 
+set id 
+key 
+set key 
+valu 
+set valu 
+record 
+set record 
+equal 
+hash code 
+string 
+indent string 

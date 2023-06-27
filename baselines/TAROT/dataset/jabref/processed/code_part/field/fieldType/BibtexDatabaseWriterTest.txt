@@ -1,7 +1,0 @@
-bib databas 
-import format prefer 
-file updat monitor 
-save configur 
-field prefer 
-citat key pattern prefer 
-bib entri type manag 

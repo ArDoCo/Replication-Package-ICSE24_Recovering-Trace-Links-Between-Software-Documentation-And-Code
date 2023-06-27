@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep gvk fetcher dot java 
+url pattern 
+search key 
+search key 
+
+
+lucen queri 
+
+
+
+page 
+url queri 
+parser 
+

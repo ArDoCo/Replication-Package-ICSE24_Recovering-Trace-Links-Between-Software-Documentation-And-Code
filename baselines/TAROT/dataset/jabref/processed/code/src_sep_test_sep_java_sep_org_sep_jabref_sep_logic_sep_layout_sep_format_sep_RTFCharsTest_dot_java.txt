@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep logic sep layout sep format sep rtf char test dot java 
+formatt 
+
+
+special char 
+expect result 
+
+
+set 
+tear 
+test basic format 
+test la te highlight 
+test complic 
+test complic 
+test complic 
+test complic 
+test complic 
+test complic 
+test special charact 
+test special charact 
+test rtf charact 
+test rtf charact capit 
+

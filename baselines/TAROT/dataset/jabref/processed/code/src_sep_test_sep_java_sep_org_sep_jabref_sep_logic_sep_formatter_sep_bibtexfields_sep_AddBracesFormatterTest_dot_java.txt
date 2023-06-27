@@ -1,0 +1,20 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep add brace formatt test dot java 
+formatt 
+
+
+
+
+set 
+format add singl enclos brace 
+format unmatch brace 
+format unmatch brace 
+format short string 
+format empti string 
+format doubl enclos brace 
+format tripl enclos brace 
+format match brace 
+format onli match brace 
+format doe remov brace broken string 
+format exampl 
+format string minim requir length 
+

@@ -1,0 +1,21 @@
+servic sep tool dot descart dot teastor dot webui sep src sep main sep java sep tool sep descart sep teastor sep webui sep servlet sep cart action servlet dot java 
+serial version uid 
+dtf 
+
+
+request 
+respons 
+request 
+respons 
+request 
+request 
+order item 
+respons 
+
+
+cart action servlet 
+handl request 
+confirm order 
+extract order inform 
+updat order 
+

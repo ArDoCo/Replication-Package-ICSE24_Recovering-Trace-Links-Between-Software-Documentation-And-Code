@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane type dot java 
+titl 
+icon 
+toggl action 
+
+
+titl 
+icon 
+toggl action 
+
+
+side pane type 
+titl 
+icon 
+toggl action 
+

@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep keybind sep key bind view model dot java 
+key bind 
+real bind 
+children 
+children 
+key bind repositori 
+display 
+shown bind 
+categori 
+
+
+key bind repositori 
+key bind 
+bind 
+key bind repositori 
+categori 
+bind 
+evt 
+
+
+key bind view model 
+key bind view model 
+children 
+key bind 
+shown bind properti 
+bind 
+set bind 
+set display 
+properti 
+categori 
+set bind 
+reset default 
+clear 
+reset icon 
+clear icon 
+

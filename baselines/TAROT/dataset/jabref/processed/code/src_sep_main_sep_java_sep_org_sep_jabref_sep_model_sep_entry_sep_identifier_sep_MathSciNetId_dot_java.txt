@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep model sep entri sep identifi sep math sci net id dot java 
+identifi 
+
+
+identifi 
+number raw 
+ 
+
+
+math sci net id 
+pars 
+equal 
+hash code 
+string 
+extern uri 
+default field 
+normal 
+

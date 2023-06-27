@@ -1,3 +1,0 @@
-bib entri 
-push applic 
-push applic prefer 

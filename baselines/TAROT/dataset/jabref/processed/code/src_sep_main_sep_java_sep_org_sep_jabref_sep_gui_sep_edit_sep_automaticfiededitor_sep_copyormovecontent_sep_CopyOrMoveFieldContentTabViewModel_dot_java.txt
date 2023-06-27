@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep copyormovecont sep copi move field content tab view model dot java 
+tab index 
+field 
+field 
+field 
+field 
+overwrit field content 
+select entri 
+select entri 
+field valid 
+move 
+swap 
+
+
+select entri 
+bib databas 
+state manag 
+
+
+copi move field content tab view model 
+field valid status 
+move properti 
+swap properti 
+field 
+field properti 
+field 
+field properti 
+overwrit field content 
+overwrit field content properti 
+copi valu 
+move valu 
+swap valu 
+select entri 
+

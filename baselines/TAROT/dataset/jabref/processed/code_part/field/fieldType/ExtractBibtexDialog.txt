@@ -1,6 +1,0 @@
-bibtex extractor view model 
-dialog servic 
-file updat monitor 
-task executor 
-prefer servic 
-import format reader 

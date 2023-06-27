@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep git sep git handler test dot java 
+repositori path 
+git handler 
+
+
+
+
+set git handler 
+checkout branch 
+creat commit current branch 
+current check branch 
+

@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep util sep view model tree cell factori dot java 
+text 
+text 
+graphic 
+graphic 
+mous click event 
+mous click event 
+tooltip 
+tooltip 
+
+
+text 
+graphic 
+icon 
+tooltip 
+mous click event 
+tree view 
+tree 
+tree item 
+string 
+
+
+text 
+graphic 
+icon 
+tooltip 
+mous click event 
+instal 
+call 
+string 
+string 
+

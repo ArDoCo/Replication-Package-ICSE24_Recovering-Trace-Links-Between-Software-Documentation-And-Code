@@ -1,0 +1,16 @@
+implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep base ejb dot java 
+ejb 
+load interfac 
+load interfac 
+ejb 
+
+
+requir interfac 
+type 
+interfac 
+
+
+base ejb 
+init requir interfac 
+local 
+

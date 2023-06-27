@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep layout sep format sep remov latex command formatt test dot java 
+formatt 
+
+
+
+
+set 
+latex command unmodifi 
+singl command wipe 
+singl space command remov 
+multipl space command remov 
+escap backslash becom backslash 
+escap backslash follow text becom backslash follow text 
+escap backslash 
+escap underscor replac 
+exampl url correct clean 
+

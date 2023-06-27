@@ -1,0 +1,11 @@
+src sep main sep java sep org sep jabref sep logic sep util sep io sep file cleaner dot java 
+
+
+bad file 
+bad file 
+
+
+file cleaner 
+clean file 
+clean directori 
+

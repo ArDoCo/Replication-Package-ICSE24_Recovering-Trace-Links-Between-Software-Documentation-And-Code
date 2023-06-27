@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep replac string view model dot java 
+field replac 
+find string 
+replac string 
+field 
+field 
+panel 
+find string properti 
+replac string properti 
+field string properti 
+field replac properti 
+select onli properti 
+
+
+librari tab 
+entri 
+compound 
+entri 
+field 
+compound 
+
+
+replac string view model 
+replac 
+replac item 
+replac field 
+field replac properti 
+select onli properti 
+field string properti 
+find string properti 
+replac string properti 
+

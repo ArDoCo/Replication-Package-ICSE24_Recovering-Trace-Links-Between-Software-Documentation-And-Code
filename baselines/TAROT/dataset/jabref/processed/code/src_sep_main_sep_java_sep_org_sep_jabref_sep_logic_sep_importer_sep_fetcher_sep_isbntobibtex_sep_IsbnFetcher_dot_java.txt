@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep bn fetcher dot java 
+logger 
+newlin space pattern 
+import format prefer 
+open librari isbn fetcher 
+retri isbn fetcher 
+retri isbn fetcher 
+
+
+import format prefer 
+identifi 
+entri 
+retri fetcher 
+identifi 
+
+
+bn fetcher 
+
+page 
+perform search id 
+perform search 
+add retri fetcher 
+remov newlin space identifi 
+

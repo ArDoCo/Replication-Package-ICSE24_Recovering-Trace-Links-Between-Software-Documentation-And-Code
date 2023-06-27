@@ -1,0 +1,59 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep import handler dot java 
+logger 
+bib databas context 
+prefer servic 
+file updat monitor 
+linker 
+content import 
+undo manag 
+state manag 
+dialog servic 
+import format reader 
+task executor 
+counter 
+result 
+result 
+
+
+databas 
+prefer servic 
+fileupd monitor 
+undo manag 
+state manag 
+dialog servic 
+import format reader 
+task executor 
+file 
+file 
+success 
+log messag 
+file 
+entri 
+bib databas context 
+entri 
+entri 
+group 
+entri 
+entri 
+data 
+data 
+doi 
+ar xiv identifi 
+
+
+import handler 
+linker 
+import file background 
+call 
+add result list 
+creat empti entri link 
+import entri 
+import entri duplic check 
+add group 
+generat key 
+handl bib te data 
+handl string data 
+tri import format 
+fetch doi 
+fetch ar xiv 
+

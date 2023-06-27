@@ -1,0 +1,31 @@
+src sep main sep java sep org sep jabref sep model sep entri sep field sep biblatex apa field dot java 
+
+display 
+properti 
+properti 
+
+
+
+
+display 
+
+display 
+
+rest 
+
+
+rest 
+type 
+
+
+
+biblatex apa field 
+biblatex apa field 
+biblatex apa field 
+biblatex apa field 
+
+properti 
+
+standard field 
+display 
+

@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep prefer dialog view model dot java 
+logger 
+dialog servic 
+prefer 
+prefer tab 
+prefer tab 
+frame 
+
+
+dialog servic 
+prefer 
+frame 
+
+
+prefer dialog view model 
+prefer tab 
+import prefer 
+export prefer 
+show prefer 
+reset prefer 
+updat prefer chang 
+valid set 
+store set 
+set valu 
+

@@ -1,0 +1,12 @@
+servic sep tool dot descart dot teastor dot persist sep src sep test sep java sep tool sep descart sep teastor sep persist sep registr daemon dot java 
+log 
+
+
+event 
+event 
+
+
+registr daemon 
+context destroy 
+context initi 
+

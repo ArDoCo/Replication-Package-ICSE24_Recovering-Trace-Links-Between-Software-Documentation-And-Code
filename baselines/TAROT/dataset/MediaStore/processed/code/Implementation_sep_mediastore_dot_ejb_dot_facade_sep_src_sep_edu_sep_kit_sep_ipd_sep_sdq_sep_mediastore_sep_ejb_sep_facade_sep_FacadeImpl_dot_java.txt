@@ -1,0 +1,29 @@
+implement sep mediastor dot ejb dot facad sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep facad sep facad impl dot java 
+serial version uid 
+user manag 
+media manag 
+
+
+user 
+usernam 
+password 
+file 
+id 
+bitrat 
+download login 
+id 
+bitrat 
+download login 
+local call 
+
+
+facad impl 
+init media manag 
+init user manag 
+regist 
+login 
+upload 
+file list 
+download test 
+download 
+

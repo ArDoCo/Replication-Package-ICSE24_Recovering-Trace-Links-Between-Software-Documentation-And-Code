@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep default injector dot java 
+logger 
+
+
+clazz 
+clazz 
+inject context 
+instanc 
+inject context 
+
+
+creat depend 
+instanti present 
+inject member 
+

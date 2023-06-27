@@ -1,3 +1,0 @@
-log sever 
-log sever 
-sourc locat 

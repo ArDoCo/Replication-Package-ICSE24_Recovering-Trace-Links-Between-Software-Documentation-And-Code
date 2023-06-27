@@ -1,0 +1,23 @@
+src sep test sep java sep org sep jabref sep logic sep bst sep util sep case changer test dot java 
+
+
+expect 
+format 
+expect 
+format 
+expect 
+format 
+expect 
+format 
+
+
+test chang case titl 
+provid string titl 
+test chang case 
+provid string 
+test chang case upper 
+provid string upper 
+test titl case 
+provid titl case 
+test titl case upper 
+

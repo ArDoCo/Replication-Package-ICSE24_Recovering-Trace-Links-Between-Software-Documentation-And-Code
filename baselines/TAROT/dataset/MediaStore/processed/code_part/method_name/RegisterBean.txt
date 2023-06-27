@@ -1,9 +1,0 @@
-email 
-set email 
-
-set 
-
-set 
-password 
-set password 
-regist 

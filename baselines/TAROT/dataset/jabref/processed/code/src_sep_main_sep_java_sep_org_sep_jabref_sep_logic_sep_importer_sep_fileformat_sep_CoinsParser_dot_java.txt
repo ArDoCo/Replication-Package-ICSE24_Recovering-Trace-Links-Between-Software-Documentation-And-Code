@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep coin parser dot java 
+doi 
+titl 
+journal 
+year 
+volum 
+page 
+issu 
+type 
+author 
+
+
+input stream 
+data 
+entri 
+pattern 
+field 
+
+
+pars entri 
+append data 
+

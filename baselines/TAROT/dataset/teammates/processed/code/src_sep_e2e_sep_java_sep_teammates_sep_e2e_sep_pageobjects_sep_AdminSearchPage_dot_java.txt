@@ -1,0 +1,158 @@
+src sep sep java sep teammat sep sep pageobject sep admin search page dot java 
+student col detail 
+student col 
+student col googl id 
+student col institut 
+student col comment 
+student col option 
+instructor col cours id 
+instructor col 
+instructor col googl id 
+instructor col institut 
+instructor col option 
+account request col 
+account request col email 
+account request col institut 
+account request col creat 
+account request col regist 
+expand row header email 
+expand row header cours join link 
+expand row header account registr link 
+link text reset googl id 
+input box 
+search button 
+expand student link button 
+expand instructor link button 
+expand account request link button 
+collaps student link button 
+collaps instructor link button 
+collaps account request link button 
+
+
+browser 
+content 
+student 
+instructor 
+text 
+student 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student row 
+student 
+student 
+instructor 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor row 
+instructor 
+instructor 
+account request 
+account request row 
+account request row 
+account request row 
+account request row 
+account request row 
+account request row 
+account request 
+account request 
+row 
+row 
+column num 
+row 
+column num 
+row 
+row header 
+student 
+cours 
+expect detail 
+expect manag account link 
+expect home page link 
+student 
+expect num expand row 
+instructor 
+cours 
+expect manag account link 
+expect home page link 
+instructor 
+account request 
+account request 
+student 
+instructor 
+account request 
+student 
+origin join link 
+instructor 
+origin join link 
+
+
+admin search page 
+expect page content 
+input search content 
+clear search box 
+click search button 
+regener student key 
+regener instructor key 
+click expand student link 
+click expand instructor link 
+click expand account request link 
+click collaps student link 
+click collaps instructor link 
+click collaps account request link 
+remov span text 
+student row 
+student detail 
+student 
+student googl id 
+student home link 
+student institut 
+student comment 
+student manag account link 
+student email 
+student join link 
+student join link 
+reset student googl id 
+instructor row 
+instructor cours id 
+instructor 
+instructor googl id 
+instructor home page link 
+instructor institut 
+instructor manag account link 
+instructor email 
+instructor join link 
+instructor join link 
+reset instructor googl id 
+account request row 
+account request 
+account request email 
+account request institut 
+account request creat 
+account request regist 
+account request registr link 
+click delet account request button 
+click reset account request button 
+num expand row 
+column text 
+column link 
+expand row input valu 
+verifi student row content 
+verifi student expand link 
+verifi instructor row content 
+verifi instructor expand link 
+verifi account request row content 
+verifi account request expand link 
+verifi link expans button 
+verifi regener student key 
+verifi regener instructor key 
+

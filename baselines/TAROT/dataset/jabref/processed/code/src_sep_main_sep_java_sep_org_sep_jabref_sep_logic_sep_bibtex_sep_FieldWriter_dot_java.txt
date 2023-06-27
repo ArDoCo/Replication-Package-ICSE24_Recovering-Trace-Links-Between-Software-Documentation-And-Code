@@ -1,0 +1,45 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep field writer dot java 
+bibtex string start symbol 
+logger 
+field start 
+field 
+fail hash 
+prefer 
+formatt 
+
+
+prefer 
+fail hash 
+prefer 
+pref 
+text 
+field 
+content 
+content 
+field 
+field 
+content 
+field 
+string builder 
+text 
+start pos 
+pos 
+string builder 
+text 
+start pos 
+pos 
+
+
+
+
+field writer 
+field writer 
+build ignor hash 
+check brace 
+write 
+format resolv string 
+resolv string 
+format resolv string 
+write text 
+write string label 
+

@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep migrat sep special field separ field test dot java 
+
+
+field 
+field keyword 
+expect 
+
+
+migrat correct field 
+keword migrat 
+keyword migrat duplic keyword 
+migrat multipl special field 
+migrat special field mix keyword 
+provid keyword field pair 
+

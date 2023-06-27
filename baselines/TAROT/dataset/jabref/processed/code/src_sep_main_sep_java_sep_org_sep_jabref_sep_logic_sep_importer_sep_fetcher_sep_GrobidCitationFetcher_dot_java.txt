@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep grobid citat fetcher dot java 
+logger 
+import format prefer 
+grobid servic 
+
+
+grobid prefer 
+import format prefer 
+import format prefer 
+grobid servic 
+plain text 
+search queri 
+lucen queri 
+
+
+grobid citat fetcher 
+grobid citat fetcher 
+pars grobid 
+
+perform search 
+perform search 
+

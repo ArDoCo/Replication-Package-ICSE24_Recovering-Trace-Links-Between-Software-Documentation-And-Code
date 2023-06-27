@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep model sep group sep automat person group dot java 
+field 
+
+
+
+context 
+field 
+ 
+entri 
+
+
+automat person group 
+equal 
+hash code 
+deep copi 
+creat subgroup 
+field 
+

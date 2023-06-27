@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep model sep entri sep share bib entri data dot java 
+share id 
+version 
+
+
+share id 
+version 
+ 
+
+
+share bib entri data 
+share id 
+set share id 
+version 
+set version 
+string 
+compar 
+

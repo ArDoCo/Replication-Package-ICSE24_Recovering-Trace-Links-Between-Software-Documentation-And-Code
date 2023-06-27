@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep remot sep protocol dot java 
+identifi 
+logger 
+socket 
+
+
+
+
+socket 
+type 
+type 
+argument 
+
+
+protocol 
+send messag 
+send messag 
+receiv messag 
+close 
+

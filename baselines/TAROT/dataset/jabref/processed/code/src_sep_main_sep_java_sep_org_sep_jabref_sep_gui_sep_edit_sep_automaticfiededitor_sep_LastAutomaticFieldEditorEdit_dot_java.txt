@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor edit dot java 
+affect entri 
+edit 
+tab index 
+
+
+affect entri 
+tab index 
+edit 
+
+
+automat field editor edit 
+affect entri 
+edit 
+tab index 
+undo 
+redo 
+

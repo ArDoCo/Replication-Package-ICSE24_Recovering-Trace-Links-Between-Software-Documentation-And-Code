@@ -1,1 +1,0 @@
-pdf verbatim bib text import test 

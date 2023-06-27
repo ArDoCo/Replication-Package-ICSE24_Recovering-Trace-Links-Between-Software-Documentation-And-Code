@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep cross ref dot java 
+api url 
+remov brace formatt 
+
+
+entri 
+lucen queri 
+identifi 
+entri 
+item 
+author 
+type 
+input entri 
+fetch entri 
+
+
+
+url entri 
+url queri 
+url identifi 
+parser 
+post cleanup 
+json item bib entri 
+author 
+convert type 
+extract identifi 
+identifi 
+

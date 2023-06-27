@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep cape dollar sign formatt test dot java 
+formatt 
+
+
+expect 
+input 
+
+
+correct format 
+correct format 
+format exampl 
+

@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep model sep search sep matcher sep matcher set dot java 
+matcher 
+matcher 
+
+
+ 
+rule 
+
+
+equal 
+hash code 
+add rule 
+string 
+

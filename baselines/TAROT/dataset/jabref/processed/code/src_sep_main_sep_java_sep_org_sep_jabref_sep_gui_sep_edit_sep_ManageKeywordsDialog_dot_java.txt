@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep manag keyword dialog dot java 
+entri 
+entri 
+keyword tabl main column 
+keyword tabl main column 
+keyword tabl edit column 
+keyword tabl edit column 
+keyword tabl delet column 
+keyword tabl delet column 
+keyword tabl 
+keyword tabl 
+display type 
+prefer 
+view model 
+
+
+entri 
+
+
+manag keyword dialog 
+initi 
+

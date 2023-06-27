@@ -1,0 +1,29 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep poll dot java 
+meet id 
+poll id 
+titl 
+question 
+datetim 
+answer 
+answer 
+
+
+meet id 
+titl 
+question 
+answer 
+answer id 
+meet id 
+meet id 
+
+
+poll 
+add answer 
+remov answer 
+generat poll id 
+generat answer id 
+store 
+meet id 
+poll id 
+map 
+

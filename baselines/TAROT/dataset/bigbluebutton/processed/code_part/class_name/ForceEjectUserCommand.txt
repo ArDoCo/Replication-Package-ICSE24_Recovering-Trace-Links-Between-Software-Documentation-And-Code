@@ -1,1 +1,0 @@
-forc eject user command 

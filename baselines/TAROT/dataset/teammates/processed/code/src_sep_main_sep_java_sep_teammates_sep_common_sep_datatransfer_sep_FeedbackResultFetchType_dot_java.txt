@@ -1,0 +1,15 @@
+src sep main sep java sep teammat sep common sep datatransf sep feedback result fetch type dot java 
+giver 
+receiv 
+
+
+giver 
+receiv 
+type string 
+
+
+feedback result fetch type 
+pars fetch type 
+fetch giver 
+fetch receiv 
+

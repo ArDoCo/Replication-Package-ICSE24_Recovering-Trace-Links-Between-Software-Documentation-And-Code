@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep grobid prefer dot java 
+grobid enabl 
+grobid opt 
+grobid url 
+
+
+grobid enabl 
+grobid opt 
+grobid url 
+grobid enabl 
+grobid opt 
+grobid url 
+
+
+grobid prefer 
+grobid enabl 
+grobid enabl properti 
+set grobid enabl 
+grobid opt 
+grobid opt properti 
+set grobid opt 
+grobid url 
+grobid url properti 
+set grobid url 
+

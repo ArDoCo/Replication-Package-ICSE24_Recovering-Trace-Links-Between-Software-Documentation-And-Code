@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep citat entri view model dot java 
+citat 
+extra inform 
+ref mark 
+
+
+ref mark 
+citat 
+extra info 
+citat entri 
+extra info 
+
+
+citat entri view model 
+citat entri view model 
+citat entri 
+citat properti 
+extra inform properti 
+set extra info 
+

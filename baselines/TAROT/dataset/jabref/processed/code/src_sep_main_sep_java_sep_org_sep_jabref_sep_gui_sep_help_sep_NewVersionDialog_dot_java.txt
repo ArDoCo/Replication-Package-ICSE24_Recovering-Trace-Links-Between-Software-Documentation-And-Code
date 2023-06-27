@@ -1,0 +1,10 @@
+src sep main sep java sep org sep jabref sep gui sep sep version dialog dot java 
+
+
+current version 
+latest version 
+dialog servic 
+
+
+version dialog 
+

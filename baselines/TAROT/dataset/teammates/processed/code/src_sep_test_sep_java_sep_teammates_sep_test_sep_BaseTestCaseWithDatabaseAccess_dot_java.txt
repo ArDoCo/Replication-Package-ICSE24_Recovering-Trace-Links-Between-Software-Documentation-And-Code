@@ -1,0 +1,78 @@
+src sep test sep java sep teammat sep test sep base test case databas access dot java 
+verif retri count 
+verif retri delay ms 
+oper retri count 
+oper retri delay ms 
+
+
+data 
+expect 
+expect 
+entiti 
+expect 
+actual 
+account 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+expect 
+actual 
+cours 
+fq 
+frc 
+fr 
+fs 
+instructor 
+student 
+account request 
+account request 
+notif 
+test data 
+test data 
+test data 
+test data 
+
+
+verifi present databas 
+verifi present databas 
+entiti 
+verifi absent databas 
+verifi equal 
+account 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+equal irrelev data 
+cours 
+feedback question 
+feedback respons comment 
+feedback respons 
+feedback session 
+instructor 
+student 
+account request 
+deadlin extens 
+notif 
+remov restor data bundl 
+remov restor data bundl 
+put document 
+put document 
+

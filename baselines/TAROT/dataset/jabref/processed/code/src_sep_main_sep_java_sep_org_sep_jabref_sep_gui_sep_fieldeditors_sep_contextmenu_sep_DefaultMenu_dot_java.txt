@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep default menu dot java 
+text input control 
+
+
+text input control 
+text input control 
+text input control 
+text input control 
+
+
+default menu 
+
+case chang menu 
+convers menu 
+clear field menu item 
+

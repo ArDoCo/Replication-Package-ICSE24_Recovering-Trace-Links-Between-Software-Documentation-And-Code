@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep oo error dot java 
+local titl 
+
+
+titl 
+local messag 
+titl 
+local messag 
+caus 
+titl 
+dialog servic 
+err 
+err 
+err 
+err 
+err 
+
+
+oo error 
+oo error 
+titl 
+set titl 
+show error dialog 
+
+
+
+
+misc 
+data base open cite 
+data base open sync citat 
+data base open export 
+data base open 
+valid style select 
+entri select citat 
+

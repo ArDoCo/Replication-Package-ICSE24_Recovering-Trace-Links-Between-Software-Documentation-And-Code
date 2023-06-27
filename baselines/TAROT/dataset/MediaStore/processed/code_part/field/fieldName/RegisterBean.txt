@@ -1,5 +1,0 @@
-serial version uid 
-email 
-
-
-password 

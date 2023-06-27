@@ -1,1 +1,0 @@
-replac string view model 

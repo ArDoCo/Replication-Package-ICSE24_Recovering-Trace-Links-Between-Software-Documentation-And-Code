@@ -1,0 +1,33 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag sep regist user dot java 
+meet id 
+intern user id 
+fullnam 
+role 
+extern user id 
+auth token 
+session token 
+avatar url 
+guest 
+auth 
+guest status 
+exclud dashboard 
+left guest lobbi 
+
+
+meet id 
+intern user id 
+fullnam 
+role 
+extern user id 
+auth token 
+session token 
+avatar url 
+guest 
+auth 
+guest status 
+exclud dashboard 
+left guest lobbi 
+
+
+regist user 
+

@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep model sep entri sep identifi sep issn test dot java 
+
+
+
+
+test clean 
+test clean incorrect rubbish 
+test clean dash alreadi 
+test clean issn 
+test clean issn dash alreadi 
+test clean issn dash rubbish 
+test valid checksum correct 
+test valid checksum incorrect 
+test valid format correct 
+test valid format incorrect 
+

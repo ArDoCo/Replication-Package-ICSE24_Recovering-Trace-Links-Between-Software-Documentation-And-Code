@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep citationkeypattern sep citat key pattern tab dot java 
+overwrit 
+overwrit warn 
+generat save 
+letter start 
+letter start 
+letter alway add 
+key pattern regex 
+key pattern replac 
+unwant charact 
+key pattern 
+bibtex key pattern tabl 
+
+
+
+
+citat key pattern tab 
+tab 
+initi 
+set valu 
+store set 
+reset key pattern 
+

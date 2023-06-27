@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep push sep push lyx dot java 
+
+logger 
+
+
+dialog servic 
+prefer servic 
+applic 
+prefer 
+databas 
+entri 
+key string 
+
+
+push lyx 
+display 
+applic icon 
+oper complet 
+set 
+push entri 
+

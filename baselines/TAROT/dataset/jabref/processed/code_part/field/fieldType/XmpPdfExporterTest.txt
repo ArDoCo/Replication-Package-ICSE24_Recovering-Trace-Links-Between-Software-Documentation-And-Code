@@ -1,5 +1,0 @@
-bib entri 
-bib entri 
-bib entri 
-pdf xmp import 
-xmp prefer 

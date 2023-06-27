@@ -1,0 +1,69 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep toolbar sep merg toolbar dot java 
+highlight charact radio button 
+highlight word radio button 
+diff highlight method toggl group 
+diff view combo box 
+diff view combo box 
+plain text diff combo box 
+plain text diff combo box 
+select left entri valu button 
+select entri valu button 
+onli show chang field check 
+prefer servic 
+diff highlight method 
+diff highlight method 
+onli show chang field 
+show diff 
+show diff 
+valu 
+valu 
+
+
+plain text diff 
+string 
+diff view 
+string 
+diff view 
+show diff 
+diff highlight method 
+click 
+click 
+valu 
+
+str 
+valu 
+
+str 
+
+
+merg toolbar 
+initi 
+string 
+string 
+string 
+string 
+load save configur 
+save toolbar configur 
+diff view properti 
+diff view 
+set diff view 
+show diff properti 
+set show diff 
+hide equal field properti 
+hide equal field 
+show diff properti 
+show diff 
+diff highlight method properti 
+diff highlight method 
+set diff highlight method 
+set select left entri valu button click 
+set select entri valu button click 
+plain text diff 
+pars 
+valu 
+string 
+diff view 
+pars 
+valu 
+string 
+

@@ -1,0 +1,85 @@
+src sep main sep java sep teammat sep storag sep api sep instructor db dot java 
+max key regener tri 
+instanc 
+
+
+instructor 
+instructor uniqu id 
+origin instructor 
+queri string 
+cours id 
+instructor email address 
+cours id 
+email 
+cours id 
+email 
+cours id 
+googl id 
+registr key 
+googl id 
+omit archiv 
+cours id 
+cours id 
+cours id 
+updat option 
+updat option 
+cours id 
+email 
+queri 
+cours id 
+googl id 
+cours id 
+email 
+cours id 
+email 
+cours id 
+key 
+googl id 
+googl id 
+googl id 
+googl id 
+omit archiv 
+cours id 
+entiti creat 
+entiti 
+attribut 
+start time 
+time 
+
+
+instructor db 
+inst 
+search manag 
+put document 
+delet document instructor id 
+regener entiti key 
+search instructor system 
+exist instructor cours 
+instructor email 
+instructor id 
+instructor googl id 
+instructor registr key 
+instructor googl id 
+instructor email cours 
+instructor cours 
+instructor display student 
+updat instructor googl id 
+updat instructor email 
+delet instructor 
+delet instructor 
+instructor entiti googl id 
+instructor entiti email 
+instructor entiti id 
+instructor entiti display cours 
+instructor entiti registr key 
+instructor googl id 
+instructor googl id queri 
+instructor entiti googl id 
+instructor entiti googl id 
+instructor entiti cours 
+load 
+exist entiti 
+attribut 
+convert entiti save 
+num instructor time rang 
+

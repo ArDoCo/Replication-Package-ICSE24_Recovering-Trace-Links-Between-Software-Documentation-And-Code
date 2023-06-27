@@ -1,0 +1,37 @@
+src sep test sep java sep org sep jabref sep model sep entri sep crossref test dot java 
+parent 
+child 
+db 
+
+
+field 
+parent type 
+child type 
+parent type 
+child type 
+parent type 
+child type 
+parent type 
+child type 
+parent type 
+child type 
+parent type 
+child type 
+field 
+
+
+setup 
+forbidden field 
+author inherit 
+author inherit sourc 
+main titl inherit 
+main titl inherit sourc 
+book titl inherit 
+book titl inherit sourc 
+journal titl inherit 
+journal titl inherit sourc 
+titl inherit 
+titl inherit sourc 
+inherit 
+inherit 
+

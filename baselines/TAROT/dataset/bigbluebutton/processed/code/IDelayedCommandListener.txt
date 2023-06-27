@@ -1,8 +1,0 @@
-delay command listen 
-
-
-command 
-
-
-run delay command 
-

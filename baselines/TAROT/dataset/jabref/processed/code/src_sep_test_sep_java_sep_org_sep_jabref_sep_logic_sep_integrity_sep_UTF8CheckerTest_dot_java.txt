@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep utf checker test dot java 
+entri 
+
+
+
+
+field accept utf 
+field doe accept umlaut 
+utf encod checker test 
+utf encod checker test 
+

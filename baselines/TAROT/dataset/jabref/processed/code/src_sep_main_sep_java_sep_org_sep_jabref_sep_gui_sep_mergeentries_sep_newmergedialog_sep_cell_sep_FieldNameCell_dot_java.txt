@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep field cell dot java 
+default style class 
+action layout 
+label 
+label box 
+
+
+text 
+row index 
+side button 
+
+
+field cell 
+initi 
+initi label 
+add side button 
+

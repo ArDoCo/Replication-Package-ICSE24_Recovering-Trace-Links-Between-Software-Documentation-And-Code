@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep search base fetcher capabl test dot java 
+
+
+
+
+support author search 
+support year search 
+support year rang search 
+support journal search 
+fetcher 
+test author 
+test journal 
+test year 
+

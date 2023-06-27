@@ -1,0 +1,31 @@
+src sep main sep java sep org sep jabref sep logic sep auxpars sep aux parser result dot java 
+master databas 
+uniqu key 
+uniqu key 
+unresolv key 
+unresolv key 
+aux databas 
+nest aux count 
+cross ref entri count 
+insert string 
+
+
+master databas 
+string 
+
+
+aux parser result 
+generat bib databas 
+unresolv key 
+key aux 
+resolv key count 
+unresolv key count 
+cross ref entri count 
+increas cross ref entri counter 
+increas nest aux file counter 
+insert string 
+master databas 
+nest aux count 
+insert string 
+uniqu key 
+

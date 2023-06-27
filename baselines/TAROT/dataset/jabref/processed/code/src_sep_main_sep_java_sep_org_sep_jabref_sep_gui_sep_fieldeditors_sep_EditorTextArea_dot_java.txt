@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep editor text area dot java 
+context menu 
+action handler 
+
+
+text 
+item 
+locat 
+resourc 
+handler 
+
+
+editor text area 
+editor text area 
+init context menu 
+initi 
+set action handler 
+
+handl 
+

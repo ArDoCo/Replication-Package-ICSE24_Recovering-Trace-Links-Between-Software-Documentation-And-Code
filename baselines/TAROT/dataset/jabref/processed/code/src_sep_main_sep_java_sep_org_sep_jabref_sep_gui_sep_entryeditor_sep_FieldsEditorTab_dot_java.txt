@@ -1,0 +1,63 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep field editor tab dot java 
+databas context 
+editor 
+editor 
+compress 
+suggest provid 
+dialog servic 
+prefer 
+theme manag 
+task executor 
+journal abbrevi repositori 
+state manag 
+index task manag 
+preview panel 
+undo manag 
+field 
+field 
+grid pane 
+
+
+compress 
+databas context 
+suggest provid 
+undo manag 
+dialog servic 
+prefer 
+state manag 
+theme manag 
+task executor 
+journal abbrevi repositori 
+index task manag 
+grid pane 
+column index 
+node 
+grid pane 
+column index 
+node 
+entri 
+compress 
+grid pane 
+grid pane 
+row 
+field 
+entri 
+entri 
+entri 
+
+
+field editor tab 
+add column 
+add column 
+setup panel 
+set regular row layout 
+set compress row layout 
+request focus 
+show 
+bind entri 
+preview style 
+previous preview style 
+determin field show 
+shown field 
+init panel 
+

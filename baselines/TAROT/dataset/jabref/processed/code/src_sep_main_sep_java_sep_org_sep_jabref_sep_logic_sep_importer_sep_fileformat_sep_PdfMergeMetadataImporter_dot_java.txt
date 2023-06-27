@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf merg metadata import dot java 
+logger 
+metadata import 
+metadata import 
+import format prefer 
+logger 
+file prefer 
+databas context 
+
+
+import format prefer 
+input 
+reader 
+data 
+file path 
+import format prefer 
+file prefer 
+context 
+entri 
+
+
+pdf merg metadata import 
+recogn format 
+import databas 
+import databas 
+import databas 
+
+file type 
+descript 
+entri base fetcher wrapper 
+perform search 
+

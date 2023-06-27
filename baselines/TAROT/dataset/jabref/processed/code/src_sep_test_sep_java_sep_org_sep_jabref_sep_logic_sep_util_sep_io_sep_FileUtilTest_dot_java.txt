@@ -1,0 +1,72 @@
+src sep test sep java sep org sep jabref sep logic sep util sep io sep file util test dot java 
+exist test path 
+exist test file 
+exist test file 
+root dir 
+
+
+temporari folder 
+file 
+temp 
+temp 
+temp 
+file 
+file 
+
+
+set view model 
+extens bak ad correct 
+extens bak ad correct file tmp directori 
+test link file default full titl 
+test link file default lowercas titl 
+test link file bib te key 
+test link file pattern 
+test default file pattern bib te key 
+test link file key empti field 
+test link file default empti field key 
+test link file year author firstpag 
+test file extens simpl file 
+test file extens multipl dot file 
+test file extens extens file 
+test file extens extens file 
+file extens simpl string 
+file extens trim return lowercas 
+file extens multipl dot string 
+file extens dot return empti extens 
+file extens dot start return empti extens 
+file simpl string 
+file multipl dot string 
+uniqu path substr 
+test uniqu path fragment suffix 
+test uniqu path fragment suffix longer 
+test copi file empti sourc path empti destin path overrid exist file 
+test copi file empti sourc path empti destin path overrid exist file 
+test copi file empti sourc path exist destin path overrid exist file 
+test copi file empti sourc path exist destin path overrid exist file 
+test copi file exist sourc path exist destin path overrid exist file 
+test copi file exist sourc path exist destin path overrid exist file 
+test copi file exist sourc path exist destin path overrid exist file 
+test copi file exist sourc path exist destin path overrid exist file 
+test copi file success overrid exist file 
+test copi file success overrid exist file 
+valid filenam alter valid filenam 
+valid filenam extens 
+valid filenam maximum char 
+invalid filenam extens 
+test link dir default full titl 
+test link dir pattern empti 
+test bib file 
+test bib file 
+test findin path 
+test find list path 
+extract file extens 
+file extens url 
+test file empti 
+test file illeg 
+test find file directori 
+test find file start directori 
+test doe find file start directori subdirectori 
+test temp 
+legal path 
+illeg path 
+

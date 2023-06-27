@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep specialfield sep special field action dot java 
+logger 
+frame 
+special field 
+valu 
+null field valu 
+undo text 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+
+
+frame 
+special field 
+valu 
+null field valu 
+undo text 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+field 
+param 
+
+
+special field action 
+execut 
+text 
+

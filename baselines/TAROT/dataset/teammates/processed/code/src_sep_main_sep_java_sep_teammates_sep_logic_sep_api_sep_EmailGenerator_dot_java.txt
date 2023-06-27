@@ -1,0 +1,200 @@
+src sep main sep java sep teammat sep logic sep api sep email generat dot java 
+feedback action submit edit view 
+feedback action view 
+feedback action submit updat 
+html action requir 
+feedback status session open 
+feedback status session open 
+feedback status session close 
+feedback status session close 
+feedback status session open 
+datetim display format 
+session link recoveri durat day 
+instanc 
+cours logic 
+fs logic 
+instructor logic 
+student logic 
+
+
+session 
+session 
+email type 
+session 
+session 
+email type 
+cours 
+session 
+owner 
+email type 
+edit url 
+report url 
+edit url 
+join url 
+session 
+student 
+instructor remind 
+instructor notifi 
+cours id 
+user email 
+email type 
+recoveri email address 
+recoveri email address 
+recoveri email address 
+student email 
+session 
+session 
+session 
+deadlin extens 
+session 
+session 
+student 
+instructor 
+instructor notifi 
+session 
+session 
+email type 
+session 
+student 
+instructor 
+instructor notifi 
+email type 
+cours 
+session 
+creat deadlin 
+instructor 
+cours 
+session 
+updat deadlin 
+deadlin 
+instructor 
+cours 
+session 
+revok deadlin 
+instructor 
+cours 
+session 
+time 
+time 
+email type 
+user email 
+instructor 
+cours 
+session 
+student 
+instructor 
+instructor notifi 
+templat 
+type 
+feedback action 
+cours 
+session 
+student 
+templat 
+type 
+feedback action 
+addit contact inform 
+cours 
+session 
+instructor 
+templat 
+type 
+feedback action 
+addit contact inform 
+cours 
+session 
+instructor 
+templat 
+type 
+feedback action 
+addit contact inform 
+student 
+instructor 
+user email 
+login link 
+instructor email 
+instructor 
+join url 
+cours 
+student 
+cours 
+student 
+invit 
+instructor 
+cours 
+instructor 
+cours 
+
+email address 
+googl id 
+instructor 
+cours 
+student 
+student 
+instructor 
+instructor 
+instructor 
+cours 
+log 
+index 
+log messag 
+log level 
+trace id 
+recipi 
+cours id 
+cours 
+instructor 
+
+
+email generat 
+inst 
+generat feedback session open email 
+generat feedback session open close email 
+generat feedback session open email 
+generat feedback session open close email 
+generat feedback session email base coowner 
+fill edit feedback session detail fragment 
+fill view respons detail fragment 
+fill join cours befor edit feedback session detail fragment 
+generat feedback session remind email 
+generat feedback session summari cours 
+generat session link recoveri email student 
+generat session link recoveri email exist student 
+generat session link recoveri email exist student 
+generat feedback session close email 
+generat feedback session close email 
+generat feedback session close extens email 
+generat feedback session publish email 
+generat feedback session publish email 
+generat feedback session unpublish email 
+generat feedback session publish unpublish email 
+generat feedback session publish unpublish email 
+generat deadlin grant email 
+generat deadlin updat email 
+generat deadlin revok email 
+generat deadlin extens email 
+generat feedback session email base 
+generat feedback session email base student 
+generat feedback session email base instructor 
+generat feedback session email base notifi instructor 
+join cours 
+join cours 
+generat login email 
+generat instructor account join email 
+generat student cours join email 
+generat student cours rejoin email googl id reset 
+generat instructor cours join email 
+generat instructor cours rejoin email googl id reset 
+generat user cours regist email 
+fill student join fragment 
+fill student rejoin googl id reset fragment 
+instructor cours join url 
+fill instructor join fragment 
+fill instructor rejoin googl id reset fragment 
+fill instructor preambl 
+generat compil log email 
+generat sever error log line 
+empti email address email 
+generat owner email line 
+addit contact inform fragment 
+

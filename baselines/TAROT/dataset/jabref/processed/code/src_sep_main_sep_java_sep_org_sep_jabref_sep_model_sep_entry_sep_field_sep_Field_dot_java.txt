@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep model sep entri sep field sep field dot java 
+
+
+
+
+properti 
+display 
+
+standard field 
+deprec 
+alia 
+numer 
+multi line defin 
+

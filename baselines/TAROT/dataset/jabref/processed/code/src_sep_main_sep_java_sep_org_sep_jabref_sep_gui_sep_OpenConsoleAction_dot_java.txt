@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep open consol action dot java 
+logger 
+databas context 
+databas context 
+state manag 
+prefer servic 
+dialog servic 
+
+
+databas context 
+state manag 
+prefer servic 
+dialog servic 
+state manag 
+prefer servic 
+dialog servic 
+
+
+open consol action 
+open consol action 
+execut 
+

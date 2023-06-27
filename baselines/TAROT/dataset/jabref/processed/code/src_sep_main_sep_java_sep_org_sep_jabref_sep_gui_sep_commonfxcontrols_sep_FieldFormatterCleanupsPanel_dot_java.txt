@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep field formatt cleanup panel dot java 
+cleanup enabl 
+cleanup list 
+cleanup list 
+field column 
+field column 
+formatt column 
+formatt column 
+action column 
+action column 
+addabl field 
+addabl field 
+addabl formatt 
+addabl formatt 
+view model 
+
+
+
+
+field formatt cleanup panel 
+initi 
+setup tabl 
+setup combo 
+setup bind 
+reset recommend 
+clear 
+add cleanup 
+cleanup disabl properti 
+cleanup properti 
+

@@ -1,1 +1,0 @@
-link entri editor view model 

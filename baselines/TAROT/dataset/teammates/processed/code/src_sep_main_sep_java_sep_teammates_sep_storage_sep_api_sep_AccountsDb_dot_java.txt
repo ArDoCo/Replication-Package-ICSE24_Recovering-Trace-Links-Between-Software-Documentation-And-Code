@@ -1,0 +1,24 @@
+src sep main sep java sep teammat sep storag sep api sep account db dot java 
+instanc 
+
+
+googl id 
+email 
+updat option 
+googl id 
+googl id 
+entiti creat 
+entiti 
+
+
+account db 
+inst 
+account 
+account email 
+updat account 
+delet account 
+account entiti 
+load 
+exist entiti 
+attribut 
+

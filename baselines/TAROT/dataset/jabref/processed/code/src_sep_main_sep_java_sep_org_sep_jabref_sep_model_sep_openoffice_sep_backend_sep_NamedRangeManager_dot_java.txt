@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep backend sep rang manag dot java 
+
+
+doc 
+mark 
+posit 
+insert space 
+bracket 
+doc 
+doc 
+mark 
+
+
+creat rang 
+
+rang document 
+

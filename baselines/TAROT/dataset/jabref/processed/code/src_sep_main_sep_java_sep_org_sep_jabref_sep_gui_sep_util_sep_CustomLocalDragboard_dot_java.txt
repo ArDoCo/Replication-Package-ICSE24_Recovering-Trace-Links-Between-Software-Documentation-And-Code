@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep util sep custom local dragboard dot java 
+bib entri 
+bib entri 
+content 
+content 
+
+
+type 
+valu 
+type 
+type 
+type 
+entri 
+preview layout 
+
+
+put valu 
+valu 
+type 
+clear 
+clear 
+put bib entri 
+bib entri 
+bib entri 
+put preview layout 
+preview layout 
+

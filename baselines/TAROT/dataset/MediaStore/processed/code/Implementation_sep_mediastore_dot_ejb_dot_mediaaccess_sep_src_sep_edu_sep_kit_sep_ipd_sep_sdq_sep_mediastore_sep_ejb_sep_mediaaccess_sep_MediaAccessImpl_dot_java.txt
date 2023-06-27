@@ -1,0 +1,24 @@
+implement sep mediastor dot ejb dot mediaaccess sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep mediaaccess sep media access impl dot java 
+serial version uid 
+db manag 
+
+
+file 
+request audio id 
+bitrat 
+download login 
+local call 
+file path 
+local call 
+payload user id 
+payload size 
+
+
+media access impl 
+upload 
+file list 
+download 
+file content 
+remov data 
+trim payload 
+

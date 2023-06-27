@@ -1,9 +1,0 @@
-firstnam 
-lastnam 
-email 
-password 
-firstnam 
-lastnam 
-email 
-password 
-id 

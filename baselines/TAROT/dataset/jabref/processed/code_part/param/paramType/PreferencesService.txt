@@ -1,3 +1,0 @@
-key bind repositori 
-bib entri type manag 
-templat export 

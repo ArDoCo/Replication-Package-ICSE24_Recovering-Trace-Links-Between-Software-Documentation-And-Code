@@ -1,9 +1,0 @@
-meet layout 
-focus present 
-focus webcam 
-smart layout 
-
-
-
-
-

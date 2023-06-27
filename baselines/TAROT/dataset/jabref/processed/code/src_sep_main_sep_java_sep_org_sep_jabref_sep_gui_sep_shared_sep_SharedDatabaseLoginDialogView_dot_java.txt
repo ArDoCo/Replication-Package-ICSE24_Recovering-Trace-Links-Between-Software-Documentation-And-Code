@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep gui sep share sep share databas login dialog view dot java 
+frame 
+databas type 
+databas type 
+host 
+databas 
+port 
+user 
+password 
+rememb password 
+folder 
+brows button 
+autosav 
+connect button 
+ssl 
+file keystor 
+password keystor 
+brows keystor 
+server timezon 
+dialog servic 
+prefer servic 
+view model 
+visual 
+
+
+frame 
+event 
+event 
+
+
+share databas login dialog view 
+open databas 
+initi 
+show save db file dialog 
+show open keystor file dialog 
+

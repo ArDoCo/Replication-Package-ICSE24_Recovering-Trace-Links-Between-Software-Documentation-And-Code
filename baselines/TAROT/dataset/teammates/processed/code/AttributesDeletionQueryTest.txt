@@ -1,9 +1,0 @@
-attribut delet queri test 
-
-
-
-
-test builder invalid combin throw 
-test builder valid combin build correct queri 
-test builder null input throw 
-

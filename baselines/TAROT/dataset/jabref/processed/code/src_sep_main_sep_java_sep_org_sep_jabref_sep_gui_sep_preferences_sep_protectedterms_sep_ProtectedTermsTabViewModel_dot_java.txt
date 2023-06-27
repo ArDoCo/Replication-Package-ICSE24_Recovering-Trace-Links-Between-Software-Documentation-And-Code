@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep protectedterm sep protect term tab view model dot java 
+logger 
+term loader 
+term file properti 
+term file properti 
+prefer 
+dialog servic 
+protect term prefer 
+
+
+term loader 
+dialog servic 
+prefer 
+item model 
+file 
+item model 
+item model 
+
+
+protect term tab view model 
+set valu 
+store set 
+add file 
+remov list 
+creat file 
+edit 
+display content 
+reload list 
+term file properti 
+

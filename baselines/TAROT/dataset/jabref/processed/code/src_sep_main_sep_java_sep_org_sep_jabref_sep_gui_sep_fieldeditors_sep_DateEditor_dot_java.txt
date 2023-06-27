@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep date editor dot java 
+view model 
+date picker 
+
+
+field 
+date formatt 
+suggest provid 
+field checker 
+prefer 
+entri 
+
+
+date editor 
+view model 
+bind entri 
+node 
+

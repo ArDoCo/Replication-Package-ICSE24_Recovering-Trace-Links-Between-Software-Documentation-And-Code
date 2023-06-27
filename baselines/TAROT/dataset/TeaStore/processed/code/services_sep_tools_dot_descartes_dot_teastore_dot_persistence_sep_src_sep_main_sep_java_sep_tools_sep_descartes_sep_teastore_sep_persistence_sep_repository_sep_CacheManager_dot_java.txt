@@ -1,0 +1,25 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep repositori sep cach manag dot java 
+endpointuri 
+manag 
+
+
+entiti class 
+entiti class 
+entiti class 
+client 
+entiti class 
+client 
+
+
+cach manag 
+clear cach 
+clear cach 
+clear remot cach 
+clear local cach onli 
+clear local cach onli 
+clear remot cach rest 
+reset emf 
+reset remot emf 
+reset local emf 
+reset remot emf 
+

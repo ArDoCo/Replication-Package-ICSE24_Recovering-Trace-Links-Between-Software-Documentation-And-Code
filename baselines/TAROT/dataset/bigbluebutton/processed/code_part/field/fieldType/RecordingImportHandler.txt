@@ -1,3 +1,0 @@
-record import handler 
-data store 
-xml servic 

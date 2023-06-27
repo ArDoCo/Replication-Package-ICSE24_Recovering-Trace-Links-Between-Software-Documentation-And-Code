@@ -1,0 +1,17 @@
+src sep test sep java sep teammat sep ui sep webapi sep bin cours action test dot java 
+
+
+data 
+cours id 
+cours 
+time zone 
+
+
+action uri 
+request method 
+test execut 
+test execut exist cours fail 
+test execut cours alreadi bin fail 
+verifi cours data 
+test access control 
+

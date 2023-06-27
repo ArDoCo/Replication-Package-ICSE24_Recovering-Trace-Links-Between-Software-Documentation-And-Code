@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep logic sep pdf sep search sep index sep pdf index dot java 
+logger 
+directori index 
+databas context 
+file prefer 
+
+
+index directori 
+file prefer 
+databas context 
+file prefer 
+databas context 
+entri 
+databas context 
+entri 
+link file 
+databas context 
+entri 
+link file 
+databas context 
+link file path 
+entri 
+entri 
+link file 
+entri 
+entri 
+link file 
+
+
+pdf index 
+
+creat index 
+add index 
+add index 
+add index 
+add index 
+remov index 
+remov index 
+remov index 
+flush index 
+write index 
+write index 
+list file path 
+

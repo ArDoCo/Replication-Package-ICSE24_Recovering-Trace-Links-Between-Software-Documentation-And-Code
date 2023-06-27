@@ -1,0 +1,23 @@
+util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep loadbalanc sep endpoint client collect dot java 
+client 
+client 
+entiti class 
+entiti class 
+target servic 
+endpoint uri 
+
+
+target servic 
+endpoint uri 
+entiti class 
+server 
+server 
+server 
+
+
+endpoint client collect 
+updat server 
+endpoint uri 
+updat client 
+rest client 
+

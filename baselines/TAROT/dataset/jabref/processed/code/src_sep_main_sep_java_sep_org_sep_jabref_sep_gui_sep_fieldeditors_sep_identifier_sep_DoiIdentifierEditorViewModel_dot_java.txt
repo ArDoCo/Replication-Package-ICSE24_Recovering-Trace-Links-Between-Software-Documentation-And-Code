@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep doi identifi editor view model dot java 
+logger 
+
+
+suggest provid 
+field checker 
+dialog servic 
+task executor 
+prefer 
+bib entri 
+bib entri 
+
+
+doi identifi editor view model 
+lookup identifi 
+fetch bibliographi inform 
+open extern link 
+

@@ -1,4 +1,0 @@
-dialog servic 
-theme manag 
-preview layout 
-bib entri 

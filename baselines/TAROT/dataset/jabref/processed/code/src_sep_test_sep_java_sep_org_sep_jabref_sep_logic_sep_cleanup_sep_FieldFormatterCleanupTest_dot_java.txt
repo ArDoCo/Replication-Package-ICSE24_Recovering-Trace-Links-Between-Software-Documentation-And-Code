@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep field formatt cleanup test dot java 
+entri 
+field map 
+field map 
+
+
+
+
+set 
+test intern field 
+test intern text field field 
+test cleanup field ignor key field 
+test cleanup text field ignor key field 
+test cleanup key field clean key field 
+

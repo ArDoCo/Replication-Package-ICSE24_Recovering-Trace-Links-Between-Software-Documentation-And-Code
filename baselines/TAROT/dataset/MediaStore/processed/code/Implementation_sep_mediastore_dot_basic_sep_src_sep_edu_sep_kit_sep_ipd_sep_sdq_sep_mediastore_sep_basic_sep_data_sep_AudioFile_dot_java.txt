@@ -1,0 +1,44 @@
+implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep data sep audio file dot java 
+serial version uid 
+info 
+content 
+
+
+info 
+content 
+info 
+id 
+album 
+artist 
+bitrat 
+genr 
+releaseyear 
+titl 
+upload 
+content 
+
+
+audio file 
+audio file 
+set info 
+info 
+id 
+set id 
+album 
+set album 
+artist 
+set artist 
+bitrat 
+set bitrat 
+filenam 
+genr 
+set genr 
+releaseyear 
+set releaseyear 
+titl 
+set titl 
+upload 
+set upload 
+set content 
+content 
+

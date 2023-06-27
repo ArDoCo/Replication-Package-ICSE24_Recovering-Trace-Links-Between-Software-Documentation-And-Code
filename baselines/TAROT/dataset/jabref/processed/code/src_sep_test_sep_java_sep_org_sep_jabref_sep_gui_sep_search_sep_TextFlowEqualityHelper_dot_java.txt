@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep gui sep search sep text flow equal helper dot java 
+
+
+expect text 
+descript 
+text 
+expect text 
+
+
+assert equal 
+check text equal expect text 
+

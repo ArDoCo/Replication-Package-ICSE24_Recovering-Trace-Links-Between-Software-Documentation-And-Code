@@ -1,0 +1,8 @@
+src sep test sep java sep org sep jabref sep logic sep share sep dbms connect test dot java 
+
+
+dbms type 
+
+
+connect fail whenconnect invalid host 
+

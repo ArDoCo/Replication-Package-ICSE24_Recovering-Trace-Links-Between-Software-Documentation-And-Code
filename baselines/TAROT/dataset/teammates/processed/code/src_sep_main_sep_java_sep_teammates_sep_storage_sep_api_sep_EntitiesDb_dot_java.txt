@@ -1,0 +1,43 @@
+src sep main sep java sep teammat sep storag sep api sep entiti db dot java 
+error creat entiti alreadi exist 
+error updat exist 
+optim save polici appli 
+log 
+
+
+entiti creat 
+entiti add 
+check exist 
+entiti attribut 
+entiti creat 
+entiti add 
+entiti add 
+valu 
+valu 
+entiti save 
+entiti save 
+key 
+key 
+entiti 
+entiti 
+entiti 
+web safe string 
+
+
+creat entiti 
+creat entiti 
+convert entiti save 
+exist entiti 
+put entiti 
+put entiti 
+valu 
+save entiti 
+save entiti 
+delet entiti 
+delet entiti 
+load 
+attribut 
+attribut 
+attribut null 
+key web safe string 
+

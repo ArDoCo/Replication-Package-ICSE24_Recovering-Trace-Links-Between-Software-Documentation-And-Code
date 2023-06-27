@@ -1,9 +1,0 @@
-put data bundl action 
-
-
-
-
-min auth level 
-check specif access control 
-execut 
-

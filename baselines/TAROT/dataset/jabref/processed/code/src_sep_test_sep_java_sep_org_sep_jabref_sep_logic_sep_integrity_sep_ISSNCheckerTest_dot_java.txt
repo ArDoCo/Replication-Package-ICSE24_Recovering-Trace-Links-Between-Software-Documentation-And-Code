@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep issn checker test dot java 
+checker 
+
+
+wrong issn 
+
+
+issn accept valid input 
+issn accept number charact 
+issn doe accept random input 
+issn doe accept invalid input 
+empti issn valu 
+issn wrong format 
+provid incorrect format argument 
+

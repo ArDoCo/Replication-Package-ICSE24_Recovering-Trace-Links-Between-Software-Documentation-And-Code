@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep html latex formatt dot java 
+logger 
+max tag length 
+escap pattern 
+escap pattern 
+escap pattern 
+escap pattern 
+
+
+text 
+text 
+posit 
+
+
+format 
+descript 
+exampl input 
+read tag 
+
+key 
+

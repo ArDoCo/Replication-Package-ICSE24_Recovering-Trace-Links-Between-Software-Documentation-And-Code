@@ -1,0 +1,31 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep bib databas diff dot java 
+match threshold 
+meta data diff 
+preambl diff 
+bib string diff 
+bib string diff 
+entri diff 
+entri diff 
+
+
+origin databas 
+databas 
+origin entri 
+entri 
+mode 
+entri 
+entri 
+base 
+chang 
+
+
+bib databas diff 
+entri compar 
+compar entri 
+equal citat key 
+compar 
+meta data differ 
+preambl differ 
+bib string differ 
+entri differ 
+

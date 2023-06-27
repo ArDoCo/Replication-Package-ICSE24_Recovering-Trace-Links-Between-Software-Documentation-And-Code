@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep search sep global search result dialog dot java 
+
+top 
+undo manag 
+prefer servic 
+state manag 
+dialog servic 
+theme manag 
+view model 
+
+
+undo manag 
+
+
+global search result dialog 
+initi 
+

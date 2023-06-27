@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep patent type editor view model dot java 
+item map 
+item map 
+
+
+field 
+suggest provid 
+field checker 
+object 
+
+
+patent type editor view model 
+item map 
+convert display text 
+

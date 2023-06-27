@@ -1,0 +1,21 @@
+implement sep mediastor dot ejb dot cach sep ejb modul sep sep kit sep ipd sep sdq sep mediastor sep ejb sep cach sep id bitrat dot java 
+serial version uid 
+id 
+bitrat 
+
+
+id 
+bitrat 
+id 
+bitrat 
+obj 
+
+
+id bitrat 
+id 
+set id 
+bitrat 
+set bitrat 
+hash code 
+equal 
+

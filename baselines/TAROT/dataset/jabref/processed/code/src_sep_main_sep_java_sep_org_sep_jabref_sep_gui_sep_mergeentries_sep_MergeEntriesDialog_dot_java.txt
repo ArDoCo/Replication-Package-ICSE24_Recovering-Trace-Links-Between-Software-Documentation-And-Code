@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep merg entri dialog dot java 
+merg view 
+
+
+
+
+
+
+bib entri prefer 
+left header text 
+header text 
+diff config 
+
+
+merg entri dialog 
+init 
+set left header text 
+set header text 
+configur diff 
+

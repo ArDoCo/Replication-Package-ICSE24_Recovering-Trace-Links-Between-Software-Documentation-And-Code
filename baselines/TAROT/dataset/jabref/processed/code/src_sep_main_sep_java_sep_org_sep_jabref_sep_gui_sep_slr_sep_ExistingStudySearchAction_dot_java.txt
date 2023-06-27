@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep gui sep slr sep exist studi search action dot java 
+logger 
+dialog servic 
+studi directori 
+prefer servic 
+state manag 
+file updat monitor 
+task executor 
+frame 
+open databas action 
+
+
+frame 
+open databas action 
+dialog servic 
+file updat monitor 
+task executor 
+prefer servic 
+state manag 
+frame 
+open databas action 
+dialog servic 
+file updat monitor 
+task executor 
+prefer servic 
+state manag 
+
+studi repositori root 
+
+
+exist studi search action 
+exist studi search action 
+execut 
+crawl 
+crawl prepar 
+

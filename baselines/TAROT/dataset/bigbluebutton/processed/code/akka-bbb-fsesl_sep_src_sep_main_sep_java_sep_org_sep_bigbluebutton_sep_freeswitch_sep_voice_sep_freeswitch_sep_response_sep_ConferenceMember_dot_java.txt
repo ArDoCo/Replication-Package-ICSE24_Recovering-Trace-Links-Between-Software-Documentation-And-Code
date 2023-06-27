@@ -1,0 +1,46 @@
+akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep respons sep confer member dot java 
+member id 
+flag 
+uuid 
+caller id 
+caller id 
+join time 
+talk 
+member type 
+record path 
+record start time 
+
+
+flag 
+pars int 
+temp val 
+temp val 
+temp val 
+pars int 
+pars int 
+member type 
+path 
+record start time 
+
+
+id 
+flag 
+caller id 
+caller id 
+mute 
+speak 
+set flag 
+set id 
+set uuid 
+uuid 
+set caller id 
+set caller id 
+set join time 
+set talk 
+set member type 
+member type 
+set record path 
+record path 
+set record start time 
+record start time 
+

@@ -1,6 +1,0 @@
-field 
-entri type 
-field 
-meta data 
-field 
-bib databas mode 

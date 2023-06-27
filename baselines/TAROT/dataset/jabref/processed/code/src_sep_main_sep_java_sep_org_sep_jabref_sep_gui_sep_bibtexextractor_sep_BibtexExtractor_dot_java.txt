@@ -1,0 +1,48 @@
+src sep main sep java sep org sep jabref sep gui sep bibtexextractor sep bibtex extractor dot java 
+author tag 
+url tag 
+year tag 
+page tag 
+initi group 
+lastnam group 
+url pattern 
+year pattern 
+author pattern 
+author pattern 
+page pattern 
+url 
+url 
+author 
+author 
+year 
+page 
+titl 
+articl 
+journal publish 
+
+
+input 
+input 
+input 
+input 
+input 
+input 
+pattern 
+
+initi 
+input 
+input 
+input 
+
+
+extract 
+generat entiti 
+find url 
+find year 
+find author 
+find author pattern 
+generat author 
+find page 
+fix space 
+find part 
+

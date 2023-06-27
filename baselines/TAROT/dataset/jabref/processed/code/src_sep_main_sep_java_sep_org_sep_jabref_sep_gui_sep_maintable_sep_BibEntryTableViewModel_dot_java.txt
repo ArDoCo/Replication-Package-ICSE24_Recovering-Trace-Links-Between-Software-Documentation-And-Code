@@ -1,0 +1,40 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep bib entri tabl view model dot java 
+entri 
+field valu formatt 
+field valu formatt 
+field valu 
+field valu 
+special field valu 
+special field valu 
+link file 
+link file 
+link identifi 
+link identifi 
+match group 
+match group 
+bib databas context 
+
+
+entri 
+bib databas context 
+field valu formatt 
+entri 
+databas 
+entri 
+field 
+field 
+field 
+
+
+bib entri tabl view model 
+creat link identifi bind 
+entri 
+creat match group bind 
+field 
+link file 
+link identifi 
+match group 
+special field 
+field 
+bib databas context properti 
+

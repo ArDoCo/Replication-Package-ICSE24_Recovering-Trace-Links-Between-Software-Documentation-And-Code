@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep gui sep action sep standard action dot java 
+text 
+descript 
+icon 
+icon 
+key bind 
+key bind 
+
+
+text 
+text 
+icon 
+text 
+icon 
+key bind 
+text 
+descript 
+icon 
+text 
+descript 
+icon 
+key bind 
+text 
+key bind 
+text 
+descript 
+text 
+descript 
+key bind 
+
+
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+standard action 
+icon 
+key bind 
+text 
+descript 
+

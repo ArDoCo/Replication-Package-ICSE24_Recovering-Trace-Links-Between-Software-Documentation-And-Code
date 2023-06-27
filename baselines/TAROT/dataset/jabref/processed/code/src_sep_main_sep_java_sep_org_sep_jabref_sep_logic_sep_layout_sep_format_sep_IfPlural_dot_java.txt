@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep logic sep layout sep format sep plural dot java 
+plural text 
+singular text 
+
+
+arg 
+field text 
+
+
+set argument 
+format 
+

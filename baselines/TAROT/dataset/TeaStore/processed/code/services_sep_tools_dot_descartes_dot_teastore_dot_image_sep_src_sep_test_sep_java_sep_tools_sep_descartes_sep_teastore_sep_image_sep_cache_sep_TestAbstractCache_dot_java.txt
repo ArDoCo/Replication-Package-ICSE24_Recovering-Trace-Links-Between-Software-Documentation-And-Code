@@ -1,0 +1,39 @@
+servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep cach sep test abstract cach dot java 
+entri 
+entri 
+ 
+ 
+ 
+ 
+ 
+storag 
+storag 
+storag 
+storag 
+
+
+
+
+initi 
+test constructor 
+test constructor storag null 
+test constructor collect null 
+test constructor predic null 
+test constructor size 
+test constructor negat size 
+test max cach size 
+test current cach size 
+test free space 
+test storag 
+test uncach data 
+test data cachabl 
+test data cach 
+test clear cach 
+test set max cach size 
+test data exist 
+test load data 
+test save data 
+test data storabl 
+test delet data 
+test cach data 
+

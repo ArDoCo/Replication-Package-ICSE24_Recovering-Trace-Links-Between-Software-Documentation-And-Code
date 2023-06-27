@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep diffhighlight sep split diff highlight dot java 
+
+
+sourc textview 
+target textview 
+diff method 
+posit token list 
+token list 
+
+
+split diff highlight 
+highlight 
+posit text 
+

@@ -1,0 +1,57 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback mcq question detail dot java 
+question type 
+mcq min num choic 
+mcq error choic 
+mcq error invalid option 
+mcq error invalid weight 
+mcq error empti mcq option 
+mcq error content provid 
+mcq error duplic mcq option 
+assign weight 
+mcq weight 
+mcq weight 
+mcq weight 
+mcq choic 
+mcq choic 
+enabl 
+question dropdown enabl 
+generat option 
+
+
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+assign weight 
+mcq weight 
+mcq weight 
+mcq choic 
+enabl 
+question dropdown enabl 
+generat option 
+
+
+feedback mcq question detail 
+feedback mcq question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+assign weight 
+set assign weight 
+mcq weight 
+set mcq weight 
+mcq weight 
+set mcq weight 
+num mcq choic 
+mcq choic 
+set mcq choic 
+enabl 
+set enabl 
+question dropdown enabl 
+set question dropdown enabl 
+generat option 
+set generat option 
+

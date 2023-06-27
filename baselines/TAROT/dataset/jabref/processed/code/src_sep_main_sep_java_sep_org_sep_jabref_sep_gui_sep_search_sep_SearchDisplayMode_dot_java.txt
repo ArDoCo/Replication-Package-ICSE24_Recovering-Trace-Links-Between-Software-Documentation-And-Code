@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep search sep search display mode dot java 
+display 
+display 
+tool tip text 
+tool tip text 
+
+
+display 
+tool tip text 
+
+
+search display mode 
+display 
+tool tip text 
+

@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep model sep util sep tree collector dot java 
+children 
+children 
+add child 
+add child 
+equival 
+equival 
+
+
+children 
+add child 
+equival 
+equival 
+target 
+node 
+
+
+tree collector 
+merg tree 
+supplier 
+accumul 
+merg 
+combin 
+finish 
+characterist 
+

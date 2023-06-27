@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep map base editor view model dot java 
+logger 
+
+
+field 
+suggest provid 
+field checker 
+object 
+string 
+string 
+
+
+map base editor view model 
+item map 
+string convert 
+string 
+string 
+valu string 
+item 
+

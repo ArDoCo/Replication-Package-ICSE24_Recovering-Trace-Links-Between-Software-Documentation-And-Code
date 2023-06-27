@@ -1,0 +1,23 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep meet prop dot java 
+
+ext id 
+int id 
+meet camera cap 
+max pin camera 
+parent id 
+sequenc 
+breakout 
+
+
+
+ext id 
+int id 
+meet camera cap 
+max pin camera 
+parent id 
+sequenc 
+breakout 
+
+
+meet prop 
+

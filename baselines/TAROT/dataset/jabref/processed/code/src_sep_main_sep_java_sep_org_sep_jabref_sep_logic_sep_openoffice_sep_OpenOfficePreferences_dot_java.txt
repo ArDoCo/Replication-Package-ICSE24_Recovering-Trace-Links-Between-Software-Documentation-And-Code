@@ -1,0 +1,46 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep open offic prefer dot java 
+default win exec path 
+window execut 
+default osx exec path 
+osx execut 
+default linux exec path 
+default linux flatpak exec path 
+linux execut 
+execut path 
+databas 
+sync cite 
+extern style 
+extern style 
+current style 
+
+
+execut path 
+databas 
+sync cite 
+extern style 
+current style 
+execut path 
+databas 
+sync cite 
+list 
+current style 
+
+
+open offic prefer 
+clear connect set 
+clear current style 
+execut path 
+execut path properti 
+set execut path 
+databas 
+databas properti 
+set databas 
+sync cite 
+sync cite properti 
+set sync cite 
+extern style 
+set extern style 
+current style 
+current style properti 
+set current style 
+

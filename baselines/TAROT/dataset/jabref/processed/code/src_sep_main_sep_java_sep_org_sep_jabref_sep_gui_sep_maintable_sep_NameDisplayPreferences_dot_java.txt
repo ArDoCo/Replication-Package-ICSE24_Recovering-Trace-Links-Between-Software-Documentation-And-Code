@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep display prefer dot java 
+display style 
+display style 
+abbrevi style 
+abbrevi style 
+
+
+display style 
+abbrevi style 
+display style 
+abbrevi style 
+
+
+display prefer 
+display style 
+display style properti 
+set display style 
+abbrevi style 
+abbrevi style properti 
+set abbrevi style 
+

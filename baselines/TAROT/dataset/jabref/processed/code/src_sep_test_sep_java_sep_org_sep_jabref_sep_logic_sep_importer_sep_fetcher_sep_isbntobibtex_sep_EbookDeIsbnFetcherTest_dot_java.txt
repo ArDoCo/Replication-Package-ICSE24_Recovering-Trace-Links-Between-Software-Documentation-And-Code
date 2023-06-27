@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep ebook de isbn fetcher test dot java 
+
+
+
+
+set 
+test 
+search id success short isbn 
+search id success long isbn 
+author correct format 
+search valid isbn 
+

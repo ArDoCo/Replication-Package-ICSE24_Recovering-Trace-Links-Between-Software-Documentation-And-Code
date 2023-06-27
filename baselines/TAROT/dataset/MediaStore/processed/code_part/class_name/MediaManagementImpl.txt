@@ -1,1 +1,0 @@
-media manag impl 

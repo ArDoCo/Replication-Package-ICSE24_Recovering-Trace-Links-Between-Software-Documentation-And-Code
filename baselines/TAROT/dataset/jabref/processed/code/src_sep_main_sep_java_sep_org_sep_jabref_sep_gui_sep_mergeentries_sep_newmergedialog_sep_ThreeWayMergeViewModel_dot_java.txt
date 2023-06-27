@@ -1,0 +1,40 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep merg view model dot java 
+left entri 
+left entri 
+entri 
+entri 
+merg entri 
+merg entri 
+left header 
+header 
+visibl field 
+visibl field 
+
+
+left entri 
+entri 
+left header 
+header 
+left header 
+header 
+bib entri 
+bib entri 
+field 
+
+
+merg view model 
+left header properti 
+left header 
+set left header 
+header properti 
+header 
+set header 
+left entri 
+set left entri 
+entri 
+set entri 
+merg entri 
+visibl field 
+number visibl field 
+set visibl field 
+

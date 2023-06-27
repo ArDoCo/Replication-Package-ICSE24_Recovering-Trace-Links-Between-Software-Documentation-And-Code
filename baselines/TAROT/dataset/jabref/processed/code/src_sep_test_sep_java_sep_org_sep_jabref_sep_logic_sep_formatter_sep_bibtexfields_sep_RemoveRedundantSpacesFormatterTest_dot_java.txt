@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep remov redund space formatt test dot java 
+formatt 
+
+
+
+
+set 
+noth singl space 
+noth space 
+remov space 
+remov space 
+

@@ -1,0 +1,27 @@
+src sep sep java sep teammat sep sep case sep instructor home page test dot java 
+instructor 
+student email 
+cours 
+cours 
+feedback session await 
+feedback session open 
+feedback session close 
+feedback session publish 
+cours session 
+file 
+
+
+session 
+feedback session 
+state 
+instructor id 
+cours 
+
+
+prepar test data 
+class setup 
+test 
+expect respons rate 
+verifi session publish state 
+verifi cours archiv databas 
+

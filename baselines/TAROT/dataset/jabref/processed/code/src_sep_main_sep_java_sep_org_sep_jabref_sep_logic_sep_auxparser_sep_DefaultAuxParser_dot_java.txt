@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep logic sep auxpars sep default aux parser dot java 
+logger 
+cite pattern 
+input pattern 
+master databas 
+
+
+databas 
+aux file 
+aux file 
+base aux file 
+result 
+file list 
+line 
+result 
+line 
+result 
+entri 
+result 
+entri 
+result 
+
+
+default aux parser 
+pars 
+pars aux file 
+match nest aux 
+match citat 
+resolv tag 
+resolv cross refer 
+insert entri 
+

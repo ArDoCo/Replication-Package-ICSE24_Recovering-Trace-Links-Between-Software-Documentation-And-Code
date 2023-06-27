@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep logic sep texpars sep tex bib entri resolv dot java 
+logger 
+master databas 
+general prefer 
+import format prefer 
+file monitor 
+
+
+master databas 
+general prefer 
+import format prefer 
+file monitor 
+latex parser result 
+map entri 
+latex parser result 
+bib databas 
+entri 
+bib file 
+bib databas 
+
+
+tex bib entri resolv 
+resolv 
+appli 
+add cross referenc data 
+

@@ -1,0 +1,10 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex action dot java 
+state manag 
+
+
+state manag 
+
+
+pars latex action 
+execut 
+

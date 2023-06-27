@@ -1,0 +1,34 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback numer scale question detail dot java 
+question type 
+numscal error min max 
+numscal error step 
+numscal error rang 
+min scale 
+max scale 
+step 
+
+
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+min scale 
+max scale 
+step 
+
+
+feedback numer scale question detail 
+feedback numer scale question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+min scale 
+set min scale 
+max scale 
+set max scale 
+step 
+set step 
+

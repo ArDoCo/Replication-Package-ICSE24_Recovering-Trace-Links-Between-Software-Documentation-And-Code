@@ -1,0 +1,10 @@
+src sep main sep java sep org sep jabref sep logic sep import sep search base fetcher dot java 
+
+
+lucen queri 
+search queri 
+
+
+perform search 
+perform search 
+

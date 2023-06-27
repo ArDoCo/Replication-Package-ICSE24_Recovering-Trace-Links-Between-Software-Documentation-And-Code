@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep month editor view model dot java 
+databas mode 
+
+
+field 
+suggest provid 
+databas mode 
+field checker 
+object 
+string 
+object 
+
+
+month editor view model 
+string convert 
+string 
+string 
+item 
+convert display text 
+

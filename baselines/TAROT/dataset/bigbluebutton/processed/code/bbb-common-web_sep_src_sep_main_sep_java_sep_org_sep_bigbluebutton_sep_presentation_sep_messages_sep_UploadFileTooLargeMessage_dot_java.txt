@@ -1,0 +1,21 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep messag sep upload file larg messag dot java 
+pod id 
+meet id 
+filenam 
+authz token 
+key 
+upload file size 
+max upload file size 
+
+
+pod id 
+meet id 
+filenam 
+authz token 
+key 
+upload file size 
+max upload file size 
+
+
+upload file larg messag 
+

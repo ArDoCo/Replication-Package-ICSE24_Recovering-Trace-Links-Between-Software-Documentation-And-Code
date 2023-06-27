@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep model sep search sep rule sep full text search rule dot java 
+logger 
+search flag 
+search flag 
+queri 
+search result 
+search result 
+databas context 
+
+
+search flag 
+queri 
+bib entri 
+
+
+full text search rule 
+search flag 
+fulltext result 
+

@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep sidebutton sep toggl merg unmerg button dot java 
+field state 
+field state 
+merg 
+action factori 
+field 
+merg action 
+unmerg action 
+
+
+field 
+field state 
+valu 
+
+
+toggl merg unmerg button 
+configur merg button 
+configur unmerg button 
+field state properti 
+set field state 
+field state 
+merg properti 
+merg 
+set merg 
+icon 
+text 
+icon 
+text 
+execut 
+

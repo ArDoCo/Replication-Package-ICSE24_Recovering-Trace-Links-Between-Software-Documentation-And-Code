@@ -1,0 +1,46 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditor sep entri editor tab view model dot java 
+open entri properti 
+default sourc properti 
+enabl relat articl tab properti 
+accept recommend properti 
+enabl latex citat tab properti 
+enabl valid properti 
+integ edit properti 
+enabl auto complet properti 
+auto complet field properti 
+auto complet properti 
+auto complet properti 
+auto complet properti 
+mode abbrevi properti 
+mode full properti 
+mode properti 
+entri editor prefer 
+auto complet prefer 
+restart warn 
+restart warn 
+
+
+entri editor prefer 
+auto complet prefer 
+
+
+entri editor tab view model 
+set valu 
+store set 
+restart warn 
+open entri properti 
+default sourc properti 
+enabl relat articl tab properti 
+accept recommend properti 
+enabl latex citat tab properti 
+enabl valid properti 
+integ edit properti 
+enabl auto complet properti 
+auto complet field properti 
+auto complet properti 
+auto complet properti 
+auto complet properti 
+mode abbrevi properti 
+mode full properti 
+mode properti 
+

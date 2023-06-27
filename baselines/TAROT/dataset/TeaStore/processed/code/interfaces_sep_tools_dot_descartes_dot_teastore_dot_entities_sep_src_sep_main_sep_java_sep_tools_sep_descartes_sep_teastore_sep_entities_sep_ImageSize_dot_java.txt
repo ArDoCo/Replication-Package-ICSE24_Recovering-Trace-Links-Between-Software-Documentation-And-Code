@@ -1,0 +1,28 @@
+interfac sep tool dot descart dot teastor dot entiti sep src sep main sep java sep tool sep descart sep teastor sep entiti sep imag size dot java 
+imag size divid 
+width 
+height 
+
+
+width 
+height 
+size 
+width 
+height 
+str 
+obj 
+
+
+imag size 
+imag size 
+imag size 
+width 
+set width 
+height 
+set height 
+pixel count 
+pars imag size 
+hash code 
+equal 
+string 
+

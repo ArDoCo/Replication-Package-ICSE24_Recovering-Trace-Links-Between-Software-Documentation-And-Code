@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep edit insert dot java 
+
+
+entri 
+doc 
+frontend 
+cursor 
+entri 
+databas 
+style 
+citat type 
+page info 
+
+
+edit insert 
+insert entri citat key 
+insert citat group 
+

@@ -1,7 +1,0 @@
-abbrevi file view model 
-abbrevi view model 
-abbrevi file view model 
-abbrevi view model 
-dialog servic 
-task executor 
-journal abbrevi prefer 

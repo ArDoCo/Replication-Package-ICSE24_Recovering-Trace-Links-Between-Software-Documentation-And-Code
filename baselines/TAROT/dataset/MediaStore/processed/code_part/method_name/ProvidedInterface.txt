@@ -1,6 +1,0 @@
-provid interfac 
-full 
-
-provid ejb 
-provid ejb 
-string 

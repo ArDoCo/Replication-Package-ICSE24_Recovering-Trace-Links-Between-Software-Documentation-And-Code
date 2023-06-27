@@ -1,0 +1,13 @@
+entri type view model 
+search succes properti 
+search properti 
+select item properti 
+id field valid status 
+id text properti 
+focus select properti 
+store select fetcher 
+select fetcher 
+fetcher item properti 
+stop fetch 
+call 
+run fetcher worker 

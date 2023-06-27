@@ -1,0 +1,9 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep properti tab view model dot java 
+
+
+
+
+set valu 
+store set 
+valid set 
+

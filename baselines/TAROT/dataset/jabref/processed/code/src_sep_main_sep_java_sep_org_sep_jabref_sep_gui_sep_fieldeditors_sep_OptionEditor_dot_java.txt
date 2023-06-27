@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep option editor dot java 
+view model 
+view model 
+combo box 
+combo box 
+
+
+view model 
+entri 
+
+
+option editor 
+view model 
+bind entri 
+node 
+

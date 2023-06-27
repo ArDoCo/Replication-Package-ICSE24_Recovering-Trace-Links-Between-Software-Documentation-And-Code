@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane compon dot java 
+side pane type 
+close command 
+move command 
+move command 
+content factori 
+button 
+
+
+side pane type 
+close command 
+move command 
+move command 
+content factori 
+button 
+posit 
+
+
+side pane compon 
+initi 
+creat header view 
+add extra button header 
+

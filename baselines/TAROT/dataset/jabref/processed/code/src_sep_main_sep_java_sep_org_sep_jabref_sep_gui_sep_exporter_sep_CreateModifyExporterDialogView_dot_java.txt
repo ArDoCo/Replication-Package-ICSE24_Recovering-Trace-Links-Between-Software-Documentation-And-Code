@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep export sep creat modifi export dialog view dot java 
+repositori 
+export 
+
+file 
+extens 
+save export 
+dialog servic 
+prefer 
+view model 
+
+
+export 
+event 
+
+
+creat modifi export dialog view 
+initi 
+brows 
+

@@ -1,0 +1,28 @@
+src sep test sep java sep teammat sep ui sep webapi sep cours action test dot java 
+test data 
+
+
+actual cours 
+expect cours 
+actual cours 
+expect cours 
+param 
+
+
+action uri 
+request method 
+prepar test data 
+test execut 
+test cours action paramet throw http paramet 
+test cours action invalid entiti type return bad respons 
+test cours action instructor entiti type cours status throw paramet failur 
+test cours action invalid cours status return bad respons 
+test cours action instructor entiti type activ cours return correct cours 
+test cours action instructor entiti type archiv cours return correct cours 
+test cours action instructor entiti type soft delet cours return correct cours 
+test cours action student entiti type return correct cours 
+verifi cours data 
+verifi cours data student 
+valid cours 
+test access control 
+

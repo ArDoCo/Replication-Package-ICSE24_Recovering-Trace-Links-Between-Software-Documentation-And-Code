@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep externalfil sep git ignor file filter dot java 
+logger 
+git ignor pattern 
+git ignor pattern 
+
+
+path 
+path 
+
+
+git ignor file filter 
+accept 
+

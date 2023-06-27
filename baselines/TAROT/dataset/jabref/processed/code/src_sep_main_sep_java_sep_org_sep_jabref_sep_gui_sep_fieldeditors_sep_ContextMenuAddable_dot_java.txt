@@ -1,0 +1,8 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep context menu addabl dot java 
+
+
+item 
+
+
+init context menu 
+

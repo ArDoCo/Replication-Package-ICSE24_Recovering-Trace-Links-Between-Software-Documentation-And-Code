@@ -1,0 +1,48 @@
+src sep lnp sep java sep teammat sep lnp sep case sep base lnp test case dot java 
+
+post 
+put 
+delet 
+log 
+result count 
+backdoor 
+time stamp 
+specif 
+
+
+file 
+directori 
+file 
+test data 
+test data 
+valu 
+creat jmx file 
+origin string 
+
+
+test data 
+lnp test plan 
+setup specif 
+json data path 
+csv config path 
+jtl result path 
+test data folder 
+path test data file 
+path test statist result file 
+creat file directori 
+creat json data file 
+creat csv config data file 
+convert csv 
+result statist 
+renam statist file 
+set jmeter properti 
+creat test data 
+persist test data 
+display lnp result 
+run jmeter 
+delet test data 
+delet data file 
+cleanup result 
+sanit csv 
+generat time stamp 
+

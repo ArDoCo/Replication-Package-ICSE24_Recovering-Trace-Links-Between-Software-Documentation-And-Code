@@ -1,8 +1,0 @@
-page counter 
-
-
-present 
-
-
-count number page 
-

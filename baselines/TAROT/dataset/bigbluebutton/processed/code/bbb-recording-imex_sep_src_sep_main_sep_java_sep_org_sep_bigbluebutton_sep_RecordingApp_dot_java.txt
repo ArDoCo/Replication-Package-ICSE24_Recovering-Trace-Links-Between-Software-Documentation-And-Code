@@ -1,0 +1,32 @@
+bbb record imex sep src sep main sep java sep org sep bigbluebutton sep record app dot java 
+
+
+arg 
+arg 
+export 
+persist 
+id 
+path 
+prompt 
+option 
+error 
+prompt 
+respons 
+error 
+array 
+key 
+
+
+main 
+command mode 
+print usag 
+creat default directori 
+execut command 
+interact mode 
+import record 
+export record 
+respons 
+respons 
+pars respons 
+
+

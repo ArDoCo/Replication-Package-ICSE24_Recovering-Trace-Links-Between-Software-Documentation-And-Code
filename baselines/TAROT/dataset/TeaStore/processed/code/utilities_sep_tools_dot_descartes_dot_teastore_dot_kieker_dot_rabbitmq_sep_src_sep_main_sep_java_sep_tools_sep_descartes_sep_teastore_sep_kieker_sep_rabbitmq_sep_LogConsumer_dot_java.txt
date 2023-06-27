@@ -1,0 +1,13 @@
+util sep tool dot descart dot teastor dot kieker dot rabbitmq sep src sep main sep java sep tool sep descart sep teastor sep kieker sep rabbitmq sep log consum dot java 
+input port 
+
+
+configur 
+project context 
+record 
+
+
+log consum 
+monitor record 
+current configur 
+

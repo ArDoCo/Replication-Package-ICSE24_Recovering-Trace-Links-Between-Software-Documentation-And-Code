@@ -1,9 +1,0 @@
-ordin 
-number pattern 
-
-
-field text 
-
-
-format 
-

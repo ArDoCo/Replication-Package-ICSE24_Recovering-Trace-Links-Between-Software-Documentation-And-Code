@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl prefer dot java 
+column prefer 
+resiz column fit 
+extra file column enabl 
+
+
+column prefer 
+resiz column fit 
+extra file column enabl 
+resiz column fit 
+extra file column enabl 
+
+
+main tabl prefer 
+column prefer 
+resiz column fit 
+resiz column fit properti 
+set resiz column fit 
+extra file column enabl 
+extra file column enabl properti 
+set extra file column enabl 
+

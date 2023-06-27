@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep diff mode dot java 
+text 
+
+
+text 
+
+
+
+diff mode 
+pars 
+display text 
+

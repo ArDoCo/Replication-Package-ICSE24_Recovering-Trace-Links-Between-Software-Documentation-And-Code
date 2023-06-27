@@ -1,0 +1,67 @@
+src sep main sep java sep org sep jabref sep gui sep search sep global search bar dot java 
+logger 
+search delay 
+class result 
+class result 
+search field 
+case sensit button 
+regular express button 
+fulltext button 
+open global search button 
+search string 
+search field tooltip 
+current result 
+state manag 
+prefer servic 
+regex valid 
+undo manag 
+search prefer 
+dialog servic 
+global search activ 
+global search result dialog 
+control 
+control 
+suggest list 
+suggest list 
+
+
+
+frame 
+state manag 
+prefer servic 
+undo manag 
+dialog servic 
+queri 
+search button 
+search complet 
+auto complet bind 
+match 
+descript 
+grammar base search 
+descript 
+search term 
+control 
+suggest 
+
+
+global search bar 
+updat search result queri 
+init search modifi button 
+init search modifi button 
+focus 
+perform search 
+valid regex 
+inform user invalid search queri 
+set auto complet 
+popup 
+updat result 
+set search field hint tooltip 
+updat hint visibl 
+set search term 
+search popup skin 
+regist event listen 
+suggest chosen 
+node 
+skinnabl 
+dispos 
+

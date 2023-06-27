@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep uno sep uno style dot java 
+charact style 
+paragraph style 
+
+
+doc 
+famili 
+style 
+doc 
+style 
+doc 
+style 
+doc 
+famili 
+
+doc 
+
+doc 
+
+
+
+uno style 
+style famili 
+paragraph style 
+charact style 
+intern style 
+intern paragraph style 
+intern charact style 
+

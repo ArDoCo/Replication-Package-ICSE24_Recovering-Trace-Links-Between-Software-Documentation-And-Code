@@ -1,0 +1,57 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep request sep join meet dot java 
+valu 
+meet id 
+user id 
+full 
+password 
+guest string 
+guest 
+auth string 
+auth 
+creat time string 
+creat time 
+role 
+join password 
+
+
+valu 
+checksum 
+meet id 
+user id 
+full 
+password 
+guest string 
+guest 
+auth string 
+auth 
+creat time string 
+creat time 
+role 
+param 
+
+
+param 
+valu 
+join meet 
+meet id 
+set meet id 
+user id 
+set user id 
+full 
+set full 
+password 
+set password 
+set guest string 
+guest 
+set guest 
+set auth string 
+auth 
+set auth 
+set creat time string 
+creat time 
+set creat time 
+role 
+set role 
+popul param map 
+convert param string 
+

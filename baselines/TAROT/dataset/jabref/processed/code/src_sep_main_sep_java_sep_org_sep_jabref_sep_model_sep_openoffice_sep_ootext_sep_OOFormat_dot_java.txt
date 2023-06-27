@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep model sep openoffic sep ootext sep oo format dot java 
+
+
+ootext 
+local 
+ootext 
+ootext 
+char style 
+ootext 
+para style 
+ootext 
+refer mark 
+
+
+oo format 
+set local 
+set local 
+set char style 
+paragraph 
+paragraph 
+format refer page number refer mark 
+

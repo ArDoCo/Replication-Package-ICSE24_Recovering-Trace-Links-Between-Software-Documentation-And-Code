@@ -1,0 +1,22 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep imag dot java 
+width 
+height 
+alt 
+valu 
+
+
+width 
+height 
+alt 
+valu 
+
+
+set width 
+width 
+set height 
+height 
+set alt 
+alt 
+valu 
+set valu 
+

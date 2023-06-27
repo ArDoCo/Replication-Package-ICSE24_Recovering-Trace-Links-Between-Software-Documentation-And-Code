@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep type bib entri test dot java 
+entri type manag 
+
+
+
+
+set 
+requir field fail 
+requir field 
+requir field unknown type return true 
+type display return type 
+type display unknown type capit letter 
+

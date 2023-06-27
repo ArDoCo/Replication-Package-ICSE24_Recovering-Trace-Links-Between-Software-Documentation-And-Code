@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep doab fetcher dot java 
+search url 
+
+
+lucen queri 
+metadata array 
+bitstream array 
+author 
+
+
+
+
+url queri 
+parser 
+json bib entri 
+author 
+preprocess 
+

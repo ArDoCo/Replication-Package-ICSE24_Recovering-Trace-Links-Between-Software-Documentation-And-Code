@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep fx dialog dot java 
+
+
+type 
+titl 
+imag 
+modal 
+type 
+titl 
+imag 
+type 
+titl 
+modal 
+type 
+titl 
+type 
+modal 
+type 
+imag 
+
+
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+fx dialog 
+set dialog icon 
+dialog window 
+

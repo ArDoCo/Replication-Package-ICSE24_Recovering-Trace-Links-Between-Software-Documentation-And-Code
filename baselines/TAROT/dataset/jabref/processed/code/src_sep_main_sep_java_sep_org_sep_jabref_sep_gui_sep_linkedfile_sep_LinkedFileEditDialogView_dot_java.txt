@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep linkedfil sep link file edit dialog view dot java 
+link 
+descript 
+file type 
+file type 
+dialog servic 
+state manag 
+prefer 
+view model 
+link file 
+
+
+link file 
+event 
+
+
+link file edit dialog view 
+initi 
+open brows dialog 
+

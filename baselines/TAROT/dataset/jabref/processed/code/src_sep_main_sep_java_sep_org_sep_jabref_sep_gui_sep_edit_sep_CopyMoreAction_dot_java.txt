@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep copi action dot java 
+logger 
+action 
+dialog servic 
+state manag 
+clip board manag 
+prefer servic 
+
+
+action 
+dialog servic 
+state manag 
+clip board manag 
+prefer servic 
+doi 
+size 
+
+
+copi action 
+execut 
+copi titl 
+copi key 
+copi doi 
+copi doi list 
+copi cite key 
+copi key titl 
+copi key link 
+

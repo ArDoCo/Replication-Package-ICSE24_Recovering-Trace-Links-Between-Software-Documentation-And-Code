@@ -1,0 +1,51 @@
+src sep main sep java sep org sep jabref sep gui sep group sep group dialog view dot java 
+field 
+descript field 
+icon field 
+icon picker button 
+color field 
+hierarch context combo 
+hierarch context combo 
+explicit radio button 
+keyword radio button 
+search radio button 
+auto radio button 
+tex radio button 
+keyword group search term 
+keyword group search field 
+keyword group case sensit 
+keyword group regex 
+search group search term 
+search group case sensit 
+search group regex 
+auto group keyword option 
+auto group keyword field 
+auto group keyword delimin 
+auto group keyword hierarch delimin 
+auto group person option 
+auto group person field 
+tex group file path 
+hierarchi text 
+hierarchi text 
+hierarchi tool tip 
+hierarchi tool tip 
+valid visual 
+view model 
+
+
+dialog servic 
+current databas 
+prefer servic 
+edit group 
+group dialog header 
+ikon 
+empti 
+
+
+group dialog view 
+initi 
+tex group brows 
+open 
+open icon picker 
+updat item 
+

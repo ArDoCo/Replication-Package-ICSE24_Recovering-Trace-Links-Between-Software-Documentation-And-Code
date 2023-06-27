@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep editfieldcont sep edit field content tab view dot java 
+append valu button 
+clear field button 
+set valu button 
+field combo box 
+field combo box 
+field valu text field 
+overwrit field content check box 
+select entri 
+select entri 
+databas 
+view model 
+state manag 
+visual 
+
+
+databas 
+state manag 
+
+
+edit field content tab view 
+initi 
+tab 
+append field valu 
+clear field 
+set field valu 
+

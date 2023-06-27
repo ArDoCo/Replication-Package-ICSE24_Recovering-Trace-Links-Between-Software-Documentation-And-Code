@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep logic sep msbib sep bib author dot java 
+
+middl 
+author 
+corpor 
+
+
+author 
+author 
+corpor 
+
+
+bib author 
+bib author 
+
+middl 
+
+
+
+corpor 
+

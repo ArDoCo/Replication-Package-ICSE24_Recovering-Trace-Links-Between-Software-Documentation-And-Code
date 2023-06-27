@@ -1,0 +1,37 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep edit merg dot java 
+logger 
+group 
+group 
+group cursor 
+current group 
+current group 
+current group cursor 
+cursor 
+prev 
+prev rang 
+
+
+doc 
+frontend 
+style 
+group 
+group cursor 
+state 
+group 
+current rang 
+state 
+group 
+current rang 
+doc 
+frontend 
+
+
+edit merg 
+merg citat group 
+joinabl group data 
+scan state 
+reset 
+check add group 
+add current group 
+scan 
+

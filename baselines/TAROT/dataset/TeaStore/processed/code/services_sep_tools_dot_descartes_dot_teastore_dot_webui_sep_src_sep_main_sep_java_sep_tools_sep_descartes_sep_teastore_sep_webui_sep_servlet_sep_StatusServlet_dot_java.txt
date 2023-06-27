@@ -1,0 +1,14 @@
+servic sep tool dot descart dot teastor dot webui sep src sep main sep java sep tool sep descart sep teastor sep webui sep servlet sep status servlet dot java 
+serial version uid 
+
+
+request 
+respons 
+
+
+status servlet 
+handl request 
+databas finish 
+imag finish 
+recommend finish 
+

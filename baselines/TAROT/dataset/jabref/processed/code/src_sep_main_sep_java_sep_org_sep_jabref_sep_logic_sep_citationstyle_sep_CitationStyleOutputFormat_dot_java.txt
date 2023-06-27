@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style output format dot java 
+format 
+line separ 
+
+
+format 
+line separ 
+
+
+citat style output format 
+format 
+line separ 
+string 
+

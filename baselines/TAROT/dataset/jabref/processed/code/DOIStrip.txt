@@ -1,8 +1,0 @@
-doi strip 
-
-
-field text 
-
-
-format 
-

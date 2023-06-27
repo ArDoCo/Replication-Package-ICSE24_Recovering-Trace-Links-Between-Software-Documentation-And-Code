@@ -1,0 +1,32 @@
+src sep sep java sep teammat sep sep case sep feedback submit page test dot java 
+student 
+instructor 
+cours 
+open session 
+close session 
+grace period session 
+
+
+student 
+session 
+current student 
+current student 
+current student 
+question id 
+recipi 
+
+answer 
+respons id 
+comment 
+
+
+prepar test data 
+test 
+student submit page url 
+student 
+instructor 
+teammat 
+team 
+mcq respons 
+feedback respons comment 
+

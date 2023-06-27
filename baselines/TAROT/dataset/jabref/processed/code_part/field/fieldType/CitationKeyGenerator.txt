@@ -1,3 +1,0 @@
-abstract citat key pattern 
-bib databas 
-citat key pattern prefer 

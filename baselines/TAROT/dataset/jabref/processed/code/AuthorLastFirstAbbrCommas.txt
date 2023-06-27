@@ -1,8 +1,0 @@
-author abbr comma 
-
-
-field text 
-
-
-format 
-

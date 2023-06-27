@@ -1,0 +1,14 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep trim whitespac formatt test dot java 
+formatt 
+
+
+
+
+set 
+remov horizont tabul 
+remov line feed 
+remov form feed 
+remov carriag return feed 
+remov separ space 
+remov mix whitespac char 
+

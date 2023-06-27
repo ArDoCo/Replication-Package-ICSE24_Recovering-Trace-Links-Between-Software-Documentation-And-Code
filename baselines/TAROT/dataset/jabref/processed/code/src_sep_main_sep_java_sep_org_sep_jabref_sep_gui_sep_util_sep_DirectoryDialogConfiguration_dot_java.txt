@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep util sep directori dialog configur dot java 
+initi directori 
+initi directori 
+
+
+initi directori 
+directori 
+directori 
+
+
+directori dialog configur 
+initi directori 
+build 
+initi directori 
+initi directori 
+

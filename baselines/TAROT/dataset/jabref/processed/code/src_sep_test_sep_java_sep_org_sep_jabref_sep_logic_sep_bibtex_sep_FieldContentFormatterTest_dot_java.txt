@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep field content formatt test dot java 
+parser 
+
+
+
+
+set 
+doe unifi line break 
+retain whitespac multi line field 
+remov whitespac multi line field 
+

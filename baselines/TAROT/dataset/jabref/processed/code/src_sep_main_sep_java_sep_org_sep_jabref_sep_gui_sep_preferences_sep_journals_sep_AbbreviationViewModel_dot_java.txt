@@ -1,0 +1,32 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep journal sep abbrevi view model dot java 
+
+abbrevi 
+shortest uniqu abbrevi 
+pseudo abbrevi 
+
+
+abbrevi object 
+
+abbrevi 
+shortest uniqu abbrevi 
+ 
+search term 
+
+
+abbrevi view model 
+abbrevi object 
+
+set 
+abbrevi 
+set abbrevi 
+shortest uniqu abbrevi 
+set shortest uniqu abbrevi 
+pseudo abbrevi 
+properti 
+abbrevi properti 
+shortest uniqu abbrevi properti 
+pseudo abbrevi properti 
+equal 
+hash code 
+case independ 
+

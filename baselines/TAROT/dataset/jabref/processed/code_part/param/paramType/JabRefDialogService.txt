@@ -1,5 +1,0 @@
-theme manag 
-file dialog configur 
-file dialog configur 
-file dialog configur 
-file dialog configur 

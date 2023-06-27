@@ -1,0 +1,44 @@
+src sep main sep java sep org sep jabref sep logic sep bibtex sep bib entri writer dot java 
+logger 
+entri type manag 
+field writer 
+
+
+field writer 
+entri type manag 
+entri 
+databas mode 
+entri 
+
+bib databas mode 
+entri 
+
+bib databas mode 
+reformat 
+entri 
+
+entri 
+
+bib databas mode 
+entri 
+
+entri 
+
+field 
+indent 
+entri 
+field 
+indent 
+
+
+bib entri writer 
+serial 
+write 
+write 
+write user comment 
+write requir field remain field 
+write key field 
+write field 
+length longest field 
+format field 
+

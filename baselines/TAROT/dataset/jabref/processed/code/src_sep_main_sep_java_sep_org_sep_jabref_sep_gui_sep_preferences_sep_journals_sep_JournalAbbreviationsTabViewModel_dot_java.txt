@@ -1,0 +1,62 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep journal sep journal abbrevi tab view model dot java 
+logger 
+journal file 
+journal file 
+abbrevi 
+abbrevi 
+abbrevi count 
+current file 
+current file 
+current abbrevi 
+current abbrevi 
+file remov 
+load 
+edit remov 
+abbrevi edit remov 
+journal 
+dialog servic 
+task executor 
+abbrevi prefer 
+journal abbrevi repositori 
+write list 
+
+
+abbrevi prefer 
+dialog servic 
+task executor 
+journal abbrevi repositori 
+file path 
+abbrevi object 
+abbrevi object 
+abbrevi object 
+abbrevi 
+
+
+journal abbrevi tab view model 
+set valu 
+creat file object 
+select journal file 
+add built list 
+add file 
+open file 
+open file 
+remov current file 
+add abbrevi 
+add abbrevi 
+edit abbrevi 
+set current abbrevi abbrevi valid 
+delet abbrevi 
+remov abbrevi 
+save journal abbrevi file 
+store set 
+load properti 
+journal file properti 
+abbrevi properti 
+abbrevi count properti 
+current file properti 
+current abbrevi properti 
+edit remov properti 
+abbrevi edit remov 
+file remov properti 
+journal properti 
+

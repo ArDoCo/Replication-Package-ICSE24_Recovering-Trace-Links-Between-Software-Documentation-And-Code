@@ -1,0 +1,26 @@
+src sep test sep java sep org sep jabref sep model sep entri sep entri link list test dot java 
+key 
+databas 
+link 
+link 
+link 
+sourc 
+target 
+
+
+cite key 
+target 
+sourc 
+
+
+befor 
+creat 
+field valu databas pars expect key 
+field valu databas pars expect data base 
+field valu databas pars expect empti link entri 
+field valu databas pars expect link 
+bib entri pars expect link 
+null field valu databas pars expect link empti 
+target sourc sourc crossref target sourc crossref target 
+assert sourc crossref target 
+

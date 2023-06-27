@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep util sep open hyperlink extern browser dot java 
+logger 
+click event 
+anchor tag 
+web view 
+
+
+web view 
+extend 
+valu 
+valu 
+event 
+
+
+open hyperlink extern browser 
+chang 
+handl event 
+

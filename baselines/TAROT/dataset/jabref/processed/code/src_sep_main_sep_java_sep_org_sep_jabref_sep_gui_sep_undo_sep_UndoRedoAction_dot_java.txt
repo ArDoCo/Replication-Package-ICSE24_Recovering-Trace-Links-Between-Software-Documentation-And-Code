@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep undo sep undo redo action dot java 
+logger 
+action 
+frame 
+dialog servic 
+
+
+action 
+frame 
+dialog servic 
+state manag 
+
+
+undo redo action 
+execut 
+

@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex result view dot java 
+resolv result 
+databas context 
+base path 
+refer list view 
+refer list view 
+citat display 
+import button type 
+theme manag 
+view model 
+
+
+resolv result 
+databas context 
+base path 
+
+
+pars latex result view 
+initi 
+

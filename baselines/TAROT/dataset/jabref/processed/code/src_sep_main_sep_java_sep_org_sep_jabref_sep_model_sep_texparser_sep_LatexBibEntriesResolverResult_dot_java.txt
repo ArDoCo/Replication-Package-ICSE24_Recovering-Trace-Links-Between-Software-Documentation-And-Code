@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep model sep texpars sep latex bib entri resolv result dot java 
+latex parser result 
+entri 
+entri 
+
+
+latex parser result 
+entri 
+obj 
+
+
+latex bib entri resolv result 
+latex parser result 
+entri 
+add entri 
+bib file 
+citat 
+string 
+equal 
+hash code 
+

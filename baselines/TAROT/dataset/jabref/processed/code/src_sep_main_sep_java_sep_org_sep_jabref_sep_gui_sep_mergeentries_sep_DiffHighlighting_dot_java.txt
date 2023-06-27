@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep diff highlight dot java 
+logger 
+
+
+base string 
+modifi string 
+separ 
+text 
+text 
+text 
+text 
+base string 
+modifi string 
+separ 
+
+
+diff highlight 
+generat diff highlight 
+chang 
+unchang 
+ad 
+remov 
+generat symmetr highlight 
+

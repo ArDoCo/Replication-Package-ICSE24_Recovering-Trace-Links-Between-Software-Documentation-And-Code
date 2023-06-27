@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep specialfield sep special field valu view model dot java 
+valu 
+
+
+valu 
+
+
+special field valu view model 
+valu 
+icon 
+menu string 
+tool tip text 
+action 
+

@@ -1,0 +1,16 @@
+bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep pubsub sep receiv messag dot java 
+pattern 
+channel 
+messag 
+
+
+pattern 
+channel 
+messag 
+
+
+receiv messag 
+pattern 
+channel 
+messag 
+

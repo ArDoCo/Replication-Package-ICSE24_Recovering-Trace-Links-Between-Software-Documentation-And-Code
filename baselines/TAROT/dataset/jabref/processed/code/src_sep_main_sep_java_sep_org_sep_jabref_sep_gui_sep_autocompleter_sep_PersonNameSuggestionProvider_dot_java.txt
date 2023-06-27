@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep autocomplet sep person suggest provid dot java 
+field 
+field 
+databas 
+
+
+field 
+databas 
+field 
+databas 
+entri 
+candid 
+request 
+
+
+person suggest provid 
+person suggest provid 
+author 
+equival 
+compar 
+match 
+sourc 
+

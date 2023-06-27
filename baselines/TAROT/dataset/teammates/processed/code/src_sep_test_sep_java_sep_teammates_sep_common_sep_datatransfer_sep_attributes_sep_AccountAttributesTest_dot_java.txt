@@ -1,0 +1,22 @@
+src sep test sep java sep teammat sep common sep datatransf sep attribut sep account attribut test dot java 
+
+
+
+
+test invalid state info 
+test entiti 
+test string 
+test sanit save 
+test builder build noth default valu 
+test builder typic data build correct attribut 
+test builder null argument throw 
+test valu 
+test copi typic data creat copi correct 
+test copi field null creat copi correct 
+test equal 
+test hash code 
+test updat option builder null input fail assert error 
+creat invalid account attribut object 
+creat valid account attribut object 
+creat account attribut sanit 
+

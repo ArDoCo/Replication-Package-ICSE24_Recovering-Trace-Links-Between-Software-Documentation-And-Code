@@ -1,0 +1,27 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep mime type util dot java 
+xls 
+xlsx 
+doc 
+docx 
+ppt 
+pptx 
+odt 
+rtf 
+txt 
+od 
+odp 
+pdf 
+jpeg 
+png 
+svg 
+extens mime 
+extens mime 
+
+
+mime type 
+final extens 
+
+
+extens match mime type 
+valid mime type 
+

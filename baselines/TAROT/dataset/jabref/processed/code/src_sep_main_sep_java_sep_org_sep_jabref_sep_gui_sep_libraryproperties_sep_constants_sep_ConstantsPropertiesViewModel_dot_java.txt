@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep constant sep constant properti view model dot java 
+string label 
+string list properti 
+string list properti 
+valid properti 
+databas context 
+dialog servic 
+
+
+databas context 
+dialog servic 
+item 
+bibtex string 
+view model 
+label 
+
+
+constant properti view model 
+set valu 
+add string 
+remov string 
+convert bib tex string 
+store set 
+bibtex string view model 
+label alreadi exist 
+open page 
+string list properti 
+valid properti 
+

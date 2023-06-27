@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep googl scholar test dot java 
+finder 
+entri 
+
+
+
+
+set 
+link 
+link 
+find singl entri 
+find mani entri 
+fetcher 
+page fetcher 
+test author 
+test journal 
+

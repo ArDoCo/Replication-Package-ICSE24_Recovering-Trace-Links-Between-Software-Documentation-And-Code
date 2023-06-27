@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep model sep entri sep keyword dot java 
+default hierarch delimit 
+keyword 
+
+
+keyword 
+keyword 
+ 
+ 
+keyword 
+hierarch delimit 
+hierarch delimit 
+hierarch delimit 
+
+
+keyword 
+
+equal 
+hash code 
+string 
+compar 
+add 
+subchain string 
+
+path root string 
+flatten 
+subchain string 
+

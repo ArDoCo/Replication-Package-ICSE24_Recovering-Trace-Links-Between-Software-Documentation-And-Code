@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib convert dot java 
+msbib prefix 
+bibtex prefix 
+
+
+entri 
+entri 
+author 
+field 
+
+
+ms bib convert 
+convert 
+author 
+

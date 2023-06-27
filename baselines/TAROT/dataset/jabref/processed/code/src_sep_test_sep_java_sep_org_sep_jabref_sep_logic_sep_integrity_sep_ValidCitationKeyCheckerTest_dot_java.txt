@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep valid citat key checker test dot java 
+checker 
+
+
+option argument 
+citat key 
+
+
+citat key valid 
+provid citat key 
+

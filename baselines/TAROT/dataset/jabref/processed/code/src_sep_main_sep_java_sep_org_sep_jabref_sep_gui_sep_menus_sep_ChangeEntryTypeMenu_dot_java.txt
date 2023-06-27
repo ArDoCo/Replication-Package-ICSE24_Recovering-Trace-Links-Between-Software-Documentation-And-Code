@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep gui sep menus sep chang entri type menu dot java 
+entri 
+entri 
+bib databas context 
+undo manag 
+factori 
+entri type manag 
+
+
+entri 
+bib databas context 
+undo manag 
+key bind repositori 
+entri type manag 
+entri 
+bib databas context 
+undo manag 
+text 
+entri type 
+entri 
+undo manag 
+type 
+entri 
+undo manag 
+
+
+chang entri type menu 
+context menu 
+menu 
+menu item 
+creat menu 
+entri type 
+

@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep tor queri transform dot java 
+
+
+author 
+titl 
+journal titl 
+year 
+year rang 
+
+
+logic oper 
+logic oper 
+logic oper 
+handl author 
+handl titl 
+handl journal 
+handl year 
+handl year rang 
+

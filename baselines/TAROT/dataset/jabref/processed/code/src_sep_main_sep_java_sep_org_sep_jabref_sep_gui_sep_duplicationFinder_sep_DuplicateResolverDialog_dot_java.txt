@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep duplic finder sep duplic resolv dialog dot java 
+databas 
+state manag 
+merg 
+dialog servic 
+action factori 
+prefer servic 
+
+
+
+
+type 
+databas 
+state manag 
+dialog servic 
+prefer servic 
+
+
+type 
+
+
+duplic resolv dialog 
+init 
+merg entri 
+left entri 
+entri 
+

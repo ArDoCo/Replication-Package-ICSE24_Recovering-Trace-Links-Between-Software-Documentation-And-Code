@@ -1,0 +1,67 @@
+akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep voic confer servic dot java 
+
+
+voic conf id 
+record stream 
+record 
+timestamp 
+voic conf id 
+run 
+voic conf id 
+voic user id 
+user id 
+caller id 
+caller id num 
+mute 
+speak 
+avatar url 
+voic conf id 
+conf member 
+conf record 
+voic conf id 
+voic user id 
+voic conf id 
+voic user id 
+lock 
+voic conf id 
+voic user id 
+mute 
+voic conf id 
+voic user id 
+talk 
+room 
+voic user id 
+voic user id 
+floor timestamp 
+room 
+run 
+record 
+conf record 
+conf 
+call session 
+client session 
+user id 
+caller 
+call state 
+orig caller id 
+orig call dest 
+send command timestamp 
+status 
+receiv respons timestamp 
+heartbeat 
+
+
+voic conf record start 
+voic conf run 
+user join voic conf 
+voic user status 
+user left voic conf 
+user lock voic conf 
+user mute voic conf 
+user talk voic conf 
+audio floor chang 
+voic conf run record 
+voic call state event 
+freeswitch status repli event 
+freeswitch heartbeat event 
+

@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep net sep url download test dot java 
+logger 
+
+
+
+
+test string download set encod 
+test string download 
+test file download 
+test determin mime type 
+download temporari file path file save tmp file 
+download temporari file 
+download ftp succeed 
+download http succeed 
+download https succeed 
+test check connect success 
+test check connect fail 
+connect timeout null 
+test error throw nest io fetcher server 
+test error throw nest io fetcher server 
+

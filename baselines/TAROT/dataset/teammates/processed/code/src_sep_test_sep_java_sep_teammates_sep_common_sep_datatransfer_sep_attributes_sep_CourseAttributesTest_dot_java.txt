@@ -1,0 +1,19 @@
+src sep test sep java sep teammat sep common sep datatransf sep attribut sep cours attribut test dot java 
+
+
+
+
+test valu typic data generat attribut correct 
+test valu invalid timezon str fallback default timezon 
+test valu field popul null default valu 
+test builder typic data build correct attribut 
+test builder build noth default valu 
+test builder null argument throw 
+test valid 
+test valid info 
+test valid 
+test string 
+test equal 
+test hash code 
+generat valid cours attribut object 
+

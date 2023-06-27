@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep field writer test dot java 
+writer 
+
+
+text 
+
+
+markdown 
+set 
+normal newlin abstract field 
+preserv newlin abstract field 
+preserv multipl newlin abstract field 
+preserv newlin review field 
+remov whitespac multi line field 
+report unbalanc brace 
+report unbalanc brace escap brace 
+toler balanc brace 
+toler escap charact 
+hash enclos word real string month field 
+hash sign comment 
+

@@ -1,8 +1,0 @@
-open offic type 
-
-
-field text 
-
-
-format 
-

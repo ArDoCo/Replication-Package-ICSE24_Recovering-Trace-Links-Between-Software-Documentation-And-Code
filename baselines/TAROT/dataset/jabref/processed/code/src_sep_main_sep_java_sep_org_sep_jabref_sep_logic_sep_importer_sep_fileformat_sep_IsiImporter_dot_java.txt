@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep import dot java 
+logger 
+pattern 
+isi pattern 
+eol 
+eol pattern 
+
+
+reader 
+map 
+map 
+reader 
+valu 
+valu 
+author 
+author 
+author 
+
+
+
+file type 
+id 
+descript 
+recogn format 
+process 
+process capit 
+import databas 
+pars page 
+pars month 
+isi author convert 
+isi author convert 
+isi author convert 
+

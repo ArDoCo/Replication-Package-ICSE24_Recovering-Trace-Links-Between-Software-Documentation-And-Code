@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep errorconsol sep error consol view model dot java 
+logger 
+dialog servic 
+clip board manag 
+build info 
+messag data 
+messag data 
+
+
+dialog servic 
+clip board manag 
+build info 
+messag 
+messag 
+
+
+error consol view model 
+messag data properti 
+log messag string 
+copi log 
+copi log 
+clear log 
+report issu 
+

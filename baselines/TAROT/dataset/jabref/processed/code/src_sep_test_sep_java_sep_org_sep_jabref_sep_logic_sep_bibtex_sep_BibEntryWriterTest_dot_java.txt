@@ -1,0 +1,54 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep bib entri writer test dot java 
+import format prefer 
+string writer 
+bib writer 
+bib entri writer 
+file monitor 
+
+
+bibtex entri 
+expect 
+field 
+indent 
+expect 
+entri 
+
+
+set writer 
+test serial 
+write type test 
+write entri file 
+write entri field 
+write entri field field present 
+write realli unknown type test 
+trip test 
+trip file path backslash 
+trip escap charact 
+trip file path backslash 
+trip prepend newlin 
+trip crlf line break style 
+trip lf line break style 
+trip modif 
+trip camel case origin entri result case 
+test entri type chang 
+trip append newlin 
+trip normal line 
+multipl write modif 
+test singl write 
+month field special syntax 
+custom type bewritten 
+constant month april 
+month april 
+filenam unmodifi dure write 
+add field longer length 
+write empti field 
+write throw error field unbalanc brace 
+trip preced comment test 
+trip preced comment modif test 
+alphabet serial 
+test serial 
+test format field data 
+test format field 
+test length longest field data 
+test length longest field 
+

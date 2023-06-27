@@ -1,0 +1,43 @@
+src sep main sep java sep teammat sep logic sep core sep account logic dot java 
+instanc 
+account db 
+cours logic 
+instructor logic 
+student logic 
+notif logic 
+
+
+account data 
+googl id 
+googl id 
+email 
+registr key 
+googl id 
+key 
+googl id 
+registr key 
+googl id 
+registr key 
+googl id 
+googl id 
+student 
+googl id 
+notif id 
+time 
+
+
+account logic 
+inst 
+init logic depend 
+creat account 
+account 
+read notif id 
+account email 
+join cours student 
+join cours instructor 
+valid instructor join request 
+valid student join request 
+delet account cascad 
+creat student account 
+updat read notif 
+

@@ -1,0 +1,42 @@
+src sep main sep java sep org sep jabref sep gui sep action sep action factori dot java 
+logger 
+key bind repositori 
+
+
+key bind repositori 
+node 
+action 
+menu item 
+action 
+command 
+menu item 
+action 
+command 
+action 
+command 
+select 
+action 
+command 
+select bind 
+action 
+action 
+children 
+action 
+command 
+action 
+command 
+button 
+
+
+action factori 
+set graphic 
+associ node 
+configur menu item 
+creat menu item 
+creat check menu item 
+creat check menu item 
+creat menu 
+creat menu 
+creat icon button 
+configur icon button 
+

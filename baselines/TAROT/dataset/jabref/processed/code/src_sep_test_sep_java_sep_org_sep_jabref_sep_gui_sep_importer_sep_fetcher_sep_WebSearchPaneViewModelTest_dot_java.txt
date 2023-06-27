@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep gui sep import sep fetcher sep web search pane view model test dot java 
+prefer servic 
+dialog servic 
+state manag 
+view model 
+
+
+
+
+set 
+queri consist singl valid 
+fals queri valid status 
+correct queri valid status 
+fals queri valid status 
+correct queri valid status 
+

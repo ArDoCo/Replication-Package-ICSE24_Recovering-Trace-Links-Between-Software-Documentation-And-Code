@@ -1,0 +1,16 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep url editor view model dot java 
+dialog servic 
+valid url present 
+
+
+field 
+suggest provid 
+dialog servic 
+field checker 
+
+
+url editor view model 
+valid url present 
+valid url present properti 
+open extern link 
+

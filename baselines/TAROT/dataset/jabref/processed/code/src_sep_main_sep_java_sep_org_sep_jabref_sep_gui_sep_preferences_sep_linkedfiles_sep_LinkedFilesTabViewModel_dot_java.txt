@@ -1,0 +1,41 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep linkedfil sep link file tab view model dot java 
+main file directori properti 
+main file directori properti 
+bib locat primari properti 
+autolink file start bibtex properti 
+autolink file exact bibtex properti 
+autolink regex properti 
+autolink regex key properti 
+default file pattern properti 
+default file pattern properti 
+fulltext index 
+file pattern properti 
+file directori pattern properti 
+main file dir valid 
+dialog servic 
+file prefer 
+auto link prefer 
+
+
+dialog servic 
+prefer 
+
+
+link file tab view model 
+set valu 
+store set 
+main file dir valid status 
+valid set 
+main file dir brows 
+main file directori properti 
+bib locat primari properti 
+autolink file start bibtex properti 
+autolink file exact bibtex properti 
+autolink regex properti 
+autolink regex key properti 
+fulltext index properti 
+default file pattern properti 
+file pattern properti 
+file directori pattern properti 
+main file directori properti 
+

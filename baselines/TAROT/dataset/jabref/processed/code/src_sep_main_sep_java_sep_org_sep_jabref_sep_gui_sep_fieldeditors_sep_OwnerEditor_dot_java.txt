@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep owner editor dot java 
+view model 
+text area 
+
+
+field 
+prefer 
+suggest provid 
+field checker 
+entri 
+
+
+owner editor 
+view model 
+bind entri 
+node 
+set owner 
+

@@ -1,0 +1,58 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep marc xml parser dot java 
+logger 
+
+
+input stream 
+content 
+element 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+bib entri 
+datafield 
+ 
+datafield 
+
+ 
+
+ 
+
+
+pars entri 
+pars entri 
+pars entri 
+put isbn 
+put person 
+put titl 
+put edit 
+put public 
+put physic descript 
+put seri 
+put summari 
+put keyword 
+put doi 
+put electron locat 
+put note 
+subfield 
+child 
+children 
+

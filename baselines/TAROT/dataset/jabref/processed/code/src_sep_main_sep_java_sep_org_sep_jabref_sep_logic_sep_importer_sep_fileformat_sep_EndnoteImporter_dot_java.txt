@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep endnot import dot java 
+endofrecord 
+pattern 
+pattern 
+prefer 
+
+
+prefer 
+reader 
+reader 
+ 
+
+
+endnot import 
+
+file type 
+id 
+descript 
+recogn format 
+import databas 
+fix author 
+

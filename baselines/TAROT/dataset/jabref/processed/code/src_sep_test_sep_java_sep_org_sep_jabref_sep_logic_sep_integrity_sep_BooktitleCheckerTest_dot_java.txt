@@ -1,0 +1,10 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep booktitl checker test dot java 
+checker 
+
+
+
+
+booktitl accept doe confer 
+booktitl doe accept confer 
+booktitl blank 
+

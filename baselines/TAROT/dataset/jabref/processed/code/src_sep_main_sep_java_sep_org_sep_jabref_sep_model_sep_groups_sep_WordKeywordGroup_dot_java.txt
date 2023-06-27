@@ -1,0 +1,49 @@
+src sep main sep java sep org sep jabref sep model sep group sep word keyword group dot java 
+keyword separ 
+search strategi 
+onli split word separ 
+search word 
+search word 
+search word 
+search word 
+search word 
+
+
+
+context 
+search field 
+search express 
+case sensit 
+keyword separ 
+onli split word separ 
+search 
+search 
+search 
+search 
+entri add 
+entri remov 
+ 
+entri 
+entri 
+entri 
+entri 
+entri 
+
+
+word keyword group 
+case insensit 
+case insensit 
+add 
+remov 
+equal 
+
+deep copi 
+hash code 
+
+string search strategi 
+
+type search strategi 
+
+keyword list search strategi 
+
+

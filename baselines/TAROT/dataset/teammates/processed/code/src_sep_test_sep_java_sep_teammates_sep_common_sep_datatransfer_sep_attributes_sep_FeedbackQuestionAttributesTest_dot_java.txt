@@ -1,0 +1,28 @@
+src sep test sep java sep teammat sep common sep datatransf sep attribut sep feedback question attribut test dot java 
+typic bundl 
+
+
+
+
+test entiti 
+test valu field popul feedback question generat attribut correct 
+test valu field popul null default valu 
+test valu modif attribut leak state entiti 
+test builder irrelev feedback particip generat attribut correct 
+test valu text question deseri correct 
+test builder null argument throw 
+test builder descript null build correct attribut 
+test builder typic data build correct attribut 
+test builder build noth default valu 
+test valid 
+test question detail 
+test remov irrelev visibl option 
+test question detail deep copi 
+test set question detail deep copi 
+test updat option typic updat option updat attribut correct 
+test updat option builder null descript input updat attribut correct 
+test updat option builder null input fail assert error 
+test equal 
+test hash code 
+feedback question attribut 
+

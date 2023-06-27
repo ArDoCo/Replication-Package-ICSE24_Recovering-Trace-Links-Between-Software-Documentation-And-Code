@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep gui sep libraryproperti sep abstract properti tab view dot java 
+dialog servic 
+databas context 
+view model 
+
+
+
+
+builder 
+set valu 
+store set 
+valid set 
+

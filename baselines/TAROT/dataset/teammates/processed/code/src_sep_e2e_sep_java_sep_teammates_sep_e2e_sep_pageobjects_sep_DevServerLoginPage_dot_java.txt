@@ -1,0 +1,13 @@
+src sep sep java sep teammat sep sep pageobject sep dev server login page dot java 
+email text box 
+login button 
+
+
+browser 
+usernam 
+
+
+dev server login page 
+expect page content 
+login user 
+

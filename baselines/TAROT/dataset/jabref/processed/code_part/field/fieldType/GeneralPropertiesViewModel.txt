@@ -1,6 +1,0 @@
-bib databas mode 
-bib databas mode 
-dialog servic 
-prefer servic 
-meta data 
-directori dialog configur 

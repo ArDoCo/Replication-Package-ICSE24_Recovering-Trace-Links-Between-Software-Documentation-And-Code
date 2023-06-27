@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep model sep group sep automat person group test dot java 
+
+
+
+
+
+creat person group 
+creat subgroup comma separ 
+creat subgroup space separ 
+creat subgroup latex 
+creat subgroup unicod 
+

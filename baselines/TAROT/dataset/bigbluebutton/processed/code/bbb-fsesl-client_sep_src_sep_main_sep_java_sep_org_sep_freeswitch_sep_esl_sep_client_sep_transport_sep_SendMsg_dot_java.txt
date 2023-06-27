@@ -1,0 +1,31 @@
+bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep transport sep send msg dot java 
+msg line 
+msg line 
+uuid 
+
+
+uuid 
+command 
+app 
+arg 
+count 
+caus 
+valu 
+
+valu 
+
+
+send msg 
+send msg 
+add call command 
+add execut app 
+add execut app arg 
+add loop 
+add hangup caus 
+add nomedia uuid 
+add event lock 
+add generic line 
+msg line 
+uuid 
+string 
+

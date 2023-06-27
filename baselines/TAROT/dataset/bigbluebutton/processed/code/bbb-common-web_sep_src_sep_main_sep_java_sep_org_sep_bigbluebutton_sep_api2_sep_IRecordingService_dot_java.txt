@@ -1,0 +1,32 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep record servic dot java 
+
+
+id list 
+state 
+id list 
+state 
+rec list 
+metadata filter 
+record 
+metadata filter 
+
+id list 
+id list 
+publish 
+id list 
+id list 
+meta param 
+meet id 
+
+
+record metadata 
+record 
+filter record metadata 
+filter record metadata 
+reorder record 
+exist ani record 
+set publish record 
+delet record 
+updat record 
+process record 
+

@@ -1,0 +1,48 @@
+util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep rest sep load balanc crud oper dot java 
+
+
+servic 
+endpoint uri 
+entiti class 
+entiti 
+servic 
+endpoint uri 
+entiti class 
+id 
+entiti 
+servic 
+endpoint uri 
+entiti class 
+id 
+servic 
+endpoint uri 
+entiti class 
+id 
+servic 
+endpoint uri 
+entiti class 
+properti 
+properti valu 
+servic 
+endpoint uri 
+entiti class 
+start index 
+limit 
+servic 
+endpoint uri 
+entiti class 
+filter uri 
+filter id 
+start index 
+limit 
+
+
+load balanc crud oper 
+send entiti creation 
+send entiti updat 
+delet entiti 
+entiti 
+entiti properti 
+entiti 
+entiti 
+

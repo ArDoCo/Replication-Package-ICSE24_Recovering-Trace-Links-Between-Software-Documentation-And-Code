@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep ap fetcher dot java 
+logger 
+doi url 
+pdf url 
+
+
+entri 
+doi 
+
+
+find full text 
+trust level 
+id 
+

@@ -1,0 +1,21 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep page counter servic dot java 
+log 
+max num page 
+page counter 
+
+
+pres 
+number page 
+number page 
+pres 
+max page 
+page counter 
+
+
+determin number page 
+number page valid 
+check number page exceed limit 
+count page 
+set max num page 
+set page counter 
+

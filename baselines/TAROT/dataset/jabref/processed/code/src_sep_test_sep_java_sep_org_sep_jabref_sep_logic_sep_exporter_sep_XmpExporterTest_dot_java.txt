@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep export sep xmp export test dot java 
+export 
+databas context 
+xmp prefer 
+
+
+test folder 
+test folder 
+test folder 
+test folder 
+
+
+set 
+export singl entri 
+write multipl entri singl file 
+write multipl entri differ file 
+export singl entri privaci filter 
+

@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep model sep group sep explicit group dot java 
+legaci entri key 
+legaci entri key 
+
+
+
+context 
+keyword separ 
+key 
+ 
+
+
+explicit group 
+add legaci entri key 
+deep copi 
+equal 
+clear legaci entri key 
+legaci entri key 
+hash code 
+dynam 
+

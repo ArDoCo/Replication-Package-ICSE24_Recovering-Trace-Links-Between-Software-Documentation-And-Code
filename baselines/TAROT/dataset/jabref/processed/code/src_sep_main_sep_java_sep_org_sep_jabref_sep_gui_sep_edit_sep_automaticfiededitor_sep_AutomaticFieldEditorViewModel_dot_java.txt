@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor view model dot java 
+compound edit 
+field editor tab 
+field editor tab 
+dialog edit 
+undo manag 
+
+
+select entri 
+databas 
+undo manag 
+state manag 
+
+
+automat field editor view model 
+dialog edit 
+field editor tab 
+save chang 
+cancel chang 
+

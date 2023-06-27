@@ -1,2 +1,0 @@
-unprotect term formatt 
-xmp prefer 

@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep logic sep bibtex sep compar sep group diff test dot java 
+origin meta data 
+meta data 
+root origin 
+
+
+
+
+setup 
+compar empti group 
+compar group 
+compar chang group 
+

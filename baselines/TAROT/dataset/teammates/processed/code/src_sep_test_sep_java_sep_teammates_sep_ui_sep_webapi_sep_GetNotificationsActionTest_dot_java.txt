@@ -1,0 +1,23 @@
+src sep test sep java sep teammat sep ui sep webapi sep notif action test dot java 
+
+
+expect 
+actual 
+notif 
+read id 
+
+
+action uri 
+request method 
+test execut 
+test access control 
+test execut valid user type admin return data 
+test execut user type admin return notif 
+test execut user type admin fail 
+test execut invalid user type fail 
+test execut fals fetch updat shown return unread notif 
+test execut fetch updat shown return unread notif 
+test execut invalid fetch fail 
+verifi notif equal 
+verifi doe notif 
+

@@ -1,0 +1,11 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fulltext fetcher test dot java 
+entri 
+
+
+
+
+accept pdf url 
+reject pdf url 
+trust level 
+higher trust level win 
+

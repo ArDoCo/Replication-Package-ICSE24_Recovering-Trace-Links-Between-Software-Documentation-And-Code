@@ -1,0 +1,22 @@
+src sep test sep java sep org sep jabref sep model sep entri sep identifi sep doi test dot java 
+
+
+expect 
+input 
+
+
+test data 
+test equal 
+equal work doi 
+short doi return true short doi 
+doi insid arbitrari text 
+reject url short doi 
+short doi return fals doi 
+reject embed doi 
+reject embed short doi 
+reject invalid directori indic 
+reject invalid directori indic short doi 
+reject invalid doi uri 
+reject divid 
+reject divid short doi 
+

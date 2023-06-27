@@ -1,0 +1,69 @@
+src sep main sep java sep teammat sep common sep datatransf sep question sep feedback msq question detail dot java 
+question type 
+msq min num choic 
+msq error empti msq option 
+msq error content provid 
+msq error abov answer 
+msq error choic 
+msq error invalid option 
+msq error max select exceed total 
+msq error num select maximum 
+msq error min select num choic 
+msq error num select minimum 
+msq error min select exceed max select 
+msq error min max select choic 
+msq error min min select choic 
+msq error invalid weight 
+msq answer abov 
+msq error duplic msq option 
+msq choic 
+msq choic 
+enabl 
+assign weight 
+msq weight 
+msq weight 
+msq weight 
+generat option 
+max select choic 
+min select choic 
+
+
+question text 
+detail 
+respons 
+num recipi 
+feedback question attribut 
+msq choic 
+enabl 
+assign weight 
+msq weight 
+msq weight 
+generat option 
+max select choic 
+min select choic 
+
+
+feedback msq question detail 
+feedback msq question detail 
+chang requir respons delet 
+valid question detail 
+valid respons detail 
+feedback particip comment respons 
+valid giver recipi visibl 
+msq choic 
+set msq choic 
+enabl 
+set enabl 
+assign weight 
+set assign weight 
+msq weight 
+set msq weight 
+msq weight 
+set msq weight 
+generat option 
+set generat option 
+max select choic 
+set max select choic 
+min select choic 
+set min select choic 
+

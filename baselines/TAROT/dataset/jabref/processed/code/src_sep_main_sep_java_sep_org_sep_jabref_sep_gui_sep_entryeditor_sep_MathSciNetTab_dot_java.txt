@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep math sci net tab dot java 
+
+
+entri 
+entri 
+entri 
+entri 
+
+
+math sci net tab 
+math sci net id 
+pane 
+show 
+bind entri 
+

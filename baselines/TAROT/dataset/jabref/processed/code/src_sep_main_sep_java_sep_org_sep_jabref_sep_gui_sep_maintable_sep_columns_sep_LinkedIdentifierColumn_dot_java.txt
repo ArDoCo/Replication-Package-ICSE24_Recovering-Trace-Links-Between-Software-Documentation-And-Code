@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep column sep link identifi column dot java 
+databas 
+cell factori 
+dialog servic 
+prefer 
+
+
+model 
+cell factori 
+databas 
+dialog servic 
+prefer 
+state manag 
+valu 
+valu 
+entri 
+valu 
+
+
+link identifi column 
+creat identifi graphic 
+creat identifi tooltip 
+creat identifi menu 
+

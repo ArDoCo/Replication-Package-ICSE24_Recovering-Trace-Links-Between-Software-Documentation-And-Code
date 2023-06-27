@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep model sep entri sep entri link list dot java 
+separ 
+
+
+field valu 
+databas 
+list 
+
+
+entri link list 
+pars 
+serial 
+

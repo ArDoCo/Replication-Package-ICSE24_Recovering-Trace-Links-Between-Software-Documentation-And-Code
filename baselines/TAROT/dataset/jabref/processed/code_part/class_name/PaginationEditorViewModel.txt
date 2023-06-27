@@ -1,1 +1,0 @@
-pagin editor view model 

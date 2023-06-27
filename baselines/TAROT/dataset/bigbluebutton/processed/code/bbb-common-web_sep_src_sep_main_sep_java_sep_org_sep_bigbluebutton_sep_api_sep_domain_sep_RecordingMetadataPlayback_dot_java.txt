@@ -1,0 +1,31 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep record metadata playback dot java 
+format 
+link 
+process time 
+durat 
+extens 
+size 
+
+
+format 
+link 
+process time 
+durat 
+extens 
+size 
+
+
+set format 
+format 
+set link 
+link 
+set process time 
+process time 
+set durat 
+durat 
+calcul durat 
+set extens 
+extens 
+set size 
+size 
+

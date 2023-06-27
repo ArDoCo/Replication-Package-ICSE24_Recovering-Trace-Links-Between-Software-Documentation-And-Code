@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep maintabl sep smart constrain resiz polici dot java 
+logger 
+
+
+prop 
+tabl 
+column 
+delta 
+prop 
+prop 
+run 
+content width 
+extend 
+tabl 
+
+
+call 
+init column size 
+resiz 
+constrain resiz 
+constrain resiz 
+content width 
+

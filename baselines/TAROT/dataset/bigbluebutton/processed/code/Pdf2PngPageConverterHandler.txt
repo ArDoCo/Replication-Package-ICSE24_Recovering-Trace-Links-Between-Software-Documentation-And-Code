@@ -1,7 +1,0 @@
-pdf png page convert handler 
-log 
-
-
-
-
-

@@ -1,0 +1,17 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep entri link checker test dot java 
+databas 
+checker 
+entri 
+
+
+
+
+set 
+test entri link checker 
+test check field 
+test check relat field onli 
+test check exist crossref 
+test check exist crossref 
+test check exist relat 
+test check exist relat 
+

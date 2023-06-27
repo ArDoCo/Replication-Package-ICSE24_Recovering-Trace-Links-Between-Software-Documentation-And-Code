@@ -1,0 +1,43 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep iacr eprint fetcher dot java 
+
+letter space 
+identifi predic 
+identifi predic 
+citat url prefix 
+descript url prefix 
+fulltext url prefix 
+version url prefix 
+pref 
+
+
+pref 
+identifi 
+valid identifi 
+entri 
+identifi 
+identifi 
+version html 
+descript html 
+descript html 
+url 
+
+
+haystack 
+entri 
+entri 
+
+
+iacr eprint fetcher 
+perform search id 
+creat entri iacr citat 
+set addit field 
+version 
+abstract 
+date 
+html 
+requir valu 
+year 
+
+find full text 
+trust level 
+

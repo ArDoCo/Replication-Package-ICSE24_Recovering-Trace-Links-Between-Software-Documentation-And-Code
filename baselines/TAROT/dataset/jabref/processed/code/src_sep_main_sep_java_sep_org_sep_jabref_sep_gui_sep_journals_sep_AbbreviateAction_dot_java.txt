@@ -1,0 +1,26 @@
+src sep main sep java sep org sep jabref sep gui sep journal sep abbrevi action dot java 
+logger 
+action 
+frame 
+dialog servic 
+state manag 
+journal abbrevi prefer 
+abbrevi type 
+
+
+action 
+frame 
+dialog servic 
+state manag 
+journal abbrevi prefer 
+databas context 
+entri 
+databas context 
+entri 
+
+
+abbrevi action 
+execut 
+abbrevi 
+unabbrevi 
+

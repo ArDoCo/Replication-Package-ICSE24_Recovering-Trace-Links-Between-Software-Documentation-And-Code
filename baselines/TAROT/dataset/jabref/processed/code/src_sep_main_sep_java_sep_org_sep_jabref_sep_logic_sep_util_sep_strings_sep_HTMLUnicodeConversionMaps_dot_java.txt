@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep logic sep util sep string sep html unicod convers map dot java 
+html latex convers map 
+html latex convers map 
+escap accent 
+escap accent 
+unicod escap accent 
+unicod escap accent 
+numer latex convers map 
+numer latex convers map 
+unicod latex convers map 
+unicod latex convers map 
+latex html convers map 
+latex html convers map 
+latex unicod convers map 
+latex unicod convers map 
+convers list 
+accent list 
+
+
+escap string 
+
+
+html unicod convers map 
+clean la te 
+

@@ -1,0 +1,18 @@
+src sep main sep java sep org sep jabref sep gui sep push sep push applic set dot java 
+command label 
+path 
+set pane 
+prefer 
+applic 
+
+
+applic 
+dialog servic 
+file prefer 
+prefer 
+
+
+push applic set 
+store set 
+set pane 
+

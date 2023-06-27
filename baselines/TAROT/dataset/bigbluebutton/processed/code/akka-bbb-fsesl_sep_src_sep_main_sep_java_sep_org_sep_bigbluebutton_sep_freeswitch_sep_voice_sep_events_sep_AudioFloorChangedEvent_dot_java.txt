@@ -1,0 +1,17 @@
+akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep event sep audio floor chang event dot java 
+voic user id 
+voic user id 
+floor timestamp 
+
+
+room 
+voic user id 
+voic user id 
+floor timestamp 
+
+
+audio floor chang event 
+voic user id 
+voic user id 
+floor timestamp 
+

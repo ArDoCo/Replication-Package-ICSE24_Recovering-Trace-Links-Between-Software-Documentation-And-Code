@@ -1,0 +1,61 @@
+servic sep tool dot descart dot teastor dot webui sep src sep main sep java sep tool sep descart sep teastor sep webui sep servlet sep abstract ui servlet dot java 
+serial version uid 
+messagecooki 
+errormessagecooki 
+sucesslogin 
+sucesslogout 
+wrongcredenti 
+productcooki 
+blob 
+orderconfirm 
+cartupd 
+addproduct 
+removeproduct 
+
+
+request 
+blob 
+respons 
+blob 
+respons 
+target 
+respons 
+cookienam 
+valu 
+target 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+request 
+respons 
+servic 
+request 
+respons 
+ 
+request 
+respons 
+ 
+
+
+session blob 
+save session blob 
+destroy session blob 
+redirect 
+redirect 
+checkfor cooki 
+
+post 
+handl post request 
+handl request 
+serv timout respons 
+serv respons 
+serv 
+

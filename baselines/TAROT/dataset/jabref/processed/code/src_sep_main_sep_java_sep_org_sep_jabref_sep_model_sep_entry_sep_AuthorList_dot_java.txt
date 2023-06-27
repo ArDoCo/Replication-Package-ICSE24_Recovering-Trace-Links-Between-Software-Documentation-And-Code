@@ -1,0 +1,74 @@
+src sep main sep java sep org sep jabref sep model sep entri sep author list dot java 
+author cach 
+author cach 
+author 
+author 
+latex free author 
+
+
+author 
+author 
+author 
+author 
+style 
+oxford comma 
+author 
+oxford comma 
+author 
+author 
+abbrevi 
+oxford comma 
+author 
+author 
+abbrevi 
+oxford comma 
+author 
+author 
+abbrevi 
+author 
+oxford comma 
+author 
+author 
+ 
+oxford comma 
+abbrevi 
+oxford comma 
+abbrevi 
+abbrevi 
+abbrevi 
+oxford comma 
+ 
+
+
+author list 
+
+
+collect 
+coordin conjunct 
+coordin conjunct 
+pars 
+fix author comma 
+fix author 
+fix author comma 
+fix author 
+fix author 
+fix author onli comma 
+fix author alphabet 
+fix author natbib 
+number author 
+empti 
+author 
+author 
+latex free 
+natbib 
+
+
+string 
+
+
+
+equal 
+hash code 
+
+alphabet 
+

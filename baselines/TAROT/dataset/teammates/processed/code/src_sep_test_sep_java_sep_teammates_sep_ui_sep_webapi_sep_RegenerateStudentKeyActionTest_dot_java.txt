@@ -1,0 +1,15 @@
+src sep test sep java sep teammat sep ui sep webapi sep regener student key action test dot java 
+
+
+
+
+action uri 
+request method 
+base class setup 
+test execut paramet 
+test execut exist cours fail 
+test execut exist student cours fail 
+test execut regener student key 
+test execut 
+test access control 
+

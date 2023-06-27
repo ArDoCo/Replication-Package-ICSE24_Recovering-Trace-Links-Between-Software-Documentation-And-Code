@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep manag citat dot java 
+
+
+doc 
+doc 
+citat entri 
+
+
+manag citat 
+citat entri 
+appli citat entri 
+

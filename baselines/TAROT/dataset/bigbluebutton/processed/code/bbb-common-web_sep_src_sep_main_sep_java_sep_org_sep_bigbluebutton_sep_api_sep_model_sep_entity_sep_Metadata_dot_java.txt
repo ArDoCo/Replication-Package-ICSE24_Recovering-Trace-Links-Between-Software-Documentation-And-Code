@@ -1,0 +1,28 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep entiti sep metadata dot java 
+id 
+key 
+valu 
+record 
+
+
+id 
+key 
+valu 
+record 
+ 
+ 
+
+
+id 
+set id 
+key 
+set key 
+valu 
+set valu 
+record 
+set record 
+equal 
+hash code 
+string 
+indent string 
+

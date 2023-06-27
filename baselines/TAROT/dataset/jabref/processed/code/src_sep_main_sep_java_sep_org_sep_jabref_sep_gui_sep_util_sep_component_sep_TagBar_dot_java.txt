@@ -1,0 +1,34 @@
+src sep main sep java sep org sep jabref sep gui sep util sep compon sep tag bar dot java 
+tag 
+tag 
+string convert 
+string convert 
+input text field 
+tag list 
+tag click 
+tag click 
+properti 
+properti 
+
+
+tag 
+extend 
+item 
+event 
+string convert 
+tag click 
+properti 
+
+
+tag bar 
+input text field 
+tag 
+set tag 
+tag properti 
+tag chang 
+creat tag 
+add text tag 
+set string convert 
+set tag click 
+set field properti 
+

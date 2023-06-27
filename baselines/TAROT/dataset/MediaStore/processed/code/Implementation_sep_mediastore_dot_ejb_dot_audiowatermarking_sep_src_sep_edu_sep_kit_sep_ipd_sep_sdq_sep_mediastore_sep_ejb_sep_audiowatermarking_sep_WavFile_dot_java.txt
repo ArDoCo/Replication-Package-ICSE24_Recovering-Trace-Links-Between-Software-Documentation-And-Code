@@ -1,0 +1,144 @@
+implement sep mediastor dot ejb dot audiowatermark sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep audiowatermark sep wav file dot java 
+buffer size 
+fmt chunk id 
+data chunk id 
+riff chunk id 
+riff type id 
+file 
+io state 
+byte sampl 
+num frame 
+stream 
+stream 
+float scale 
+float offset 
+word align adjust 
+num channel 
+sampl rate 
+block align 
+valid bit 
+buffer 
+buffer pointer 
+byte read 
+frame counter 
+
+
+file 
+num channel 
+num frame 
+valid bit 
+sampl rate 
+file 
+buffer 
+pos 
+num byte 
+val 
+buffer 
+pos 
+num byte 
+val 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame read 
+sampl buffer 
+offset 
+num frame read 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+sampl buffer 
+num frame write 
+sampl buffer 
+offset 
+num frame write 
+
+arg 
+
+
+wav file 
+num channel 
+num frame 
+frame remain 
+sampl rate 
+valid bit 
+wav file 
+open wav file 
+le 
+put le 
+write sampl 
+read sampl 
+read frame 
+read frame 
+read frame 
+read frame 
+write frame 
+write frame 
+write frame 
+write frame 
+read frame 
+read frame 
+read frame 
+read frame 
+write frame 
+write frame 
+write frame 
+write frame 
+read frame 
+read frame 
+read frame 
+read frame 
+write frame 
+write frame 
+write frame 
+write frame 
+close 
+display 
+display 
+main 
+

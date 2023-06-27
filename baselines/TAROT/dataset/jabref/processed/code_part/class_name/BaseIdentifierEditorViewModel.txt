@@ -1,1 +1,0 @@
-base identifi editor view model 

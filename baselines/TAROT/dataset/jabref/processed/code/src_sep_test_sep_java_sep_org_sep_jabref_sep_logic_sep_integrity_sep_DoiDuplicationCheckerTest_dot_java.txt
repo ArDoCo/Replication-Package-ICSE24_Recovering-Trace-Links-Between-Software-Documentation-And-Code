@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep integr sep doi duplic checker test dot java 
+checker 
+doi 
+doi 
+doi 
+doi entri 
+doi entri 
+doi entri 
+doi entri 
+doi entri 
+
+
+
+
+test pair duplic doi 
+test multi pair duplic doi 
+test duplic doi 
+

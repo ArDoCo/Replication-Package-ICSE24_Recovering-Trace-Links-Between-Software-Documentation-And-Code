@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep gui sep texpars sep citat display dot java 
+base path 
+base path 
+
+
+item 
+item 
+
+
+citat display 
+base path properti 
+display graphic 
+display tooltip 
+

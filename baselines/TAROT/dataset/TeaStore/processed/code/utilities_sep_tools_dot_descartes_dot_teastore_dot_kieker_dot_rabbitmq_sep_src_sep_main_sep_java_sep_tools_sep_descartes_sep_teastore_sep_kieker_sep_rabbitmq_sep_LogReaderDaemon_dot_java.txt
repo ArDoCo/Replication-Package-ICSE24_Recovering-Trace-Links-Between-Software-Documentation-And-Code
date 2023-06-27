@@ -1,0 +1,9 @@
+util sep tool dot descart dot teastor dot kieker dot rabbitmq sep src sep main sep java sep tool sep descart sep teastor sep kieker sep rabbitmq sep log reader daemon dot java 
+uri 
+queuenam 
+
+
+
+
+run 
+

@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep keybind sep key bind tab view model dot java 
+key bind repositori 
+initi key bind repositori 
+prefer 
+select key bind 
+select key bind 
+root key bind 
+root key bind 
+key bind preset 
+key bind preset 
+dialog servic 
+restart warn 
+restart warn 
+
+
+key bind repositori 
+dialog servic 
+prefer 
+event 
+preset 
+
+
+key bind tab view model 
+set valu 
+set bind current 
+store set 
+reset default 
+load preset 
+key bind preset 
+restart warn 
+select key bind properti 
+root key bind properti 
+

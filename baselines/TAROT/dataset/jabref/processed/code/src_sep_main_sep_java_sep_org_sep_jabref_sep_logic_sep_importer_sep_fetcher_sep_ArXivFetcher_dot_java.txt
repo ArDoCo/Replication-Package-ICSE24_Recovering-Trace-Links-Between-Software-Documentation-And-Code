@@ -1,0 +1,133 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep ar xiv fetcher dot java 
+logger 
+doi prefix 
+chosen automat doi field 
+chosen automat doi field 
+chosen manual doi field 
+chosen manual doi field 
+arxiv keyword comma replac 
+arxiv keyword comma replac 
+ar xiv 
+doi fetcher 
+import format prefer 
+logger 
+api url 
+import format prefer 
+titl 
+titl 
+url abstract page 
+url abstract page 
+publish date 
+publish date 
+abstract text 
+abstract text 
+author 
+author 
+categori 
+categori 
+pdf url 
+pdf url 
+doi 
+doi 
+journal refer text 
+journal refer text 
+primari categori 
+primari categori 
+
+
+import format prefer 
+import format prefer 
+doi fetcher 
+entri 
+bib entri 
+ar xiv id 
+ar xiv bib entri 
+ar xiv id 
+doi 
+ar xiv bib entri 
+bib entri futur 
+ar xiv entri 
+bib entri futur 
+prioriti field 
+id 
+ar xiv bib entri 
+ar xiv bib entri futur 
+ar xiv id 
+lucen queri 
+page number 
+identifi 
+entri 
+import format prefer 
+entri 
+search queri 
+id 
+origin entri 
+search queri 
+page number 
+search queri 
+id 
+start 
+max result 
+search queri 
+id 
+start 
+max result 
+error 
+lucen queri 
+page number 
+search result 
+transform 
+identifi 
+identifi 
+entri 
+item 
+ 
+keyword delimit 
+
+
+ar xiv fetcher 
+ar xiv fetcher 
+find full text 
+trust level 
+
+page 
+adapt keyword 
+automat doi 
+automat doi 
+automat doi 
+manual doi 
+manual doi 
+wait bib entri retriev 
+merg ar xiv entri futur doi entri 
+inplac async infus ar xiv doi 
+inplac async infus ar xiv doi 
+perform search page 
+perform search id 
+find identifi 
+identifi 
+ar xiv 
+find full text 
+trust level 
+search entri 
+search entri id 
+search entri 
+search entri 
+queri api 
+call api 
+
+
+page 
+perform search page 
+filter year 
+async perform search id 
+perform search id 
+find identifi 
+identifi 
+ar xiv entri 
+correct line break 
+pdf url 
+id string 
+id 
+date 
+bib entri 
+

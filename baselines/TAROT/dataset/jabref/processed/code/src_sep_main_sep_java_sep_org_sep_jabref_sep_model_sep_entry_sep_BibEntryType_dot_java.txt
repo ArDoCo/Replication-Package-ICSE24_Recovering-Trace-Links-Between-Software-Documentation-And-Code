@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep model sep entri sep bib entri type dot java 
+type 
+requir field 
+requir field 
+field 
+field 
+
+
+type 
+field 
+requir field 
+field 
+mode 
+mode 
+ 
+ 
+
+
+bib entri type 
+type 
+option field 
+requir 
+requir field 
+bib field 
+field 
+primari option field 
+secondari option field 
+deprec field 
+secondari option deprec field 
+option field alias 
+equal 
+hash code 
+string 
+compar 
+

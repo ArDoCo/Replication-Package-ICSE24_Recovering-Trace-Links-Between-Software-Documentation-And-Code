@@ -1,6 +1,0 @@
-serial version uid 
-id 
-firstnam 
-lastnam 
-email 
-password hash 

@@ -1,0 +1,53 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep request sep creat meet dot java 
+valu 
+
+meet id 
+voic bridg string 
+voic bridg 
+attende pw 
+moder pw 
+breakout room string 
+breakout room 
+record string 
+record 
+
+
+valu 
+checksum 
+
+meet id 
+voic bridg string 
+voic bridg 
+attende pw 
+moder pw 
+breakout room string 
+breakout room 
+record string 
+record 
+param 
+
+
+param 
+valu 
+creat meet 
+
+set 
+meet id 
+set meet id 
+voic bridg string 
+set voic bridg string 
+voic bridg 
+set voic bridg 
+attende pw 
+set attende pw 
+moder pw 
+set moder pw 
+set breakout room string 
+breakout room 
+set breakout room 
+set record string 
+record 
+set record 
+popul param map 
+convert param string 
+

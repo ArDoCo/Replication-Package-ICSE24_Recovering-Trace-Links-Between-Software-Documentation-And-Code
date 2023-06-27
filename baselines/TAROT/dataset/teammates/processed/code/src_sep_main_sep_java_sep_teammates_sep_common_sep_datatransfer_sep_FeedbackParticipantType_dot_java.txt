@@ -1,0 +1,18 @@
+src sep main sep java sep teammat sep common sep datatransf sep feedback particip type dot java 
+valid giver 
+valid recipi 
+valid viewer 
+
+
+giver 
+recipi 
+viewer 
+
+
+feedback particip type 
+valid giver 
+valid recipi 
+valid viewer 
+team 
+singular form string 
+

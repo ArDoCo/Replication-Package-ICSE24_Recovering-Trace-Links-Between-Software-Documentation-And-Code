@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep nameformatt sep formatt tab dot java 
+formatt list 
+formatt list 
+formatt column 
+formatt column 
+formatt string column 
+formatt string column 
+action column 
+action column 
+add formatt 
+add formatt string 
+formatt 
+
+
+
+
+formatt tab 
+tab 
+initi 
+add formatt 
+

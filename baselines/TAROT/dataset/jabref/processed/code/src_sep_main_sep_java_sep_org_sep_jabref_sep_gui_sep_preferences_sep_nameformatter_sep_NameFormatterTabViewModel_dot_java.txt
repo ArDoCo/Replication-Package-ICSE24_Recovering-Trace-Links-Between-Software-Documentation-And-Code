@@ -1,0 +1,21 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep nameformatt sep formatt tab view model dot java 
+formatt list properti 
+formatt list properti 
+add formatt properti 
+add formatt string properti 
+formatt prefer 
+
+
+prefer 
+formatt 
+
+
+formatt tab view model 
+set valu 
+store set 
+add formatt 
+remov formatt 
+formatt list properti 
+add formatt properti 
+add formatt string properti 
+

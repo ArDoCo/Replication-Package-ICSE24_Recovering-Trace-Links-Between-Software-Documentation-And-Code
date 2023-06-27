@@ -1,0 +1,22 @@
+src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane dot java 
+view model 
+prefer servic 
+state manag 
+visibl bind 
+visibl bind 
+
+
+prefer servic 
+task executor 
+dialog servic 
+state manag 
+undo manag 
+pane 
+side pane 
+
+
+side pane 
+updat view 
+pane visibl bind 
+toggl command 
+

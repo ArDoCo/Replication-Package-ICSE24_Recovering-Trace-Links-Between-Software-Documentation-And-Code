@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep ieee queri transform test dot java 
+
+
+expect 
+queri string 
+
+
+transform 
+author prefix 
+field prefix 
+journal prefix 
+titl prefix 
+convert journal field prefix 
+convert year field 
+convert year rang field 
+titl test data 
+test stop word remov 
+

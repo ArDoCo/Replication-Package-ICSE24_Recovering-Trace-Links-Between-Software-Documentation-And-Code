@@ -1,0 +1,68 @@
+src sep main sep java sep teammat sep logic sep core sep data bundl logic dot java 
+instanc 
+account db 
+account request db 
+cours db 
+deadlin extens db 
+student db 
+instructor db 
+fb db 
+fq db 
+fr db 
+fc db 
+nf db 
+
+
+data bundl 
+valu 
+valu 
+data bundl 
+instructor 
+googl id account map 
+student 
+googl id account map 
+question 
+respons 
+respons comment 
+creat question 
+creat question 
+respons 
+question id map 
+respons comment 
+question id map 
+instructor 
+student 
+instructor 
+student 
+feedback session 
+cours id 
+session key 
+question number 
+session key 
+question number 
+data bundl 
+cours 
+
+
+data bundl logic 
+inst 
+persist data bundl 
+updat data bundl valu 
+put document 
+process instructor 
+process student 
+process question 
+inject real id 
+question id map 
+inject real id respons 
+inject real id respons comment 
+valid instructor privileg 
+popul null section 
+account 
+account 
+session key 
+question key 
+question key 
+remov data bundl 
+delet cours 
+

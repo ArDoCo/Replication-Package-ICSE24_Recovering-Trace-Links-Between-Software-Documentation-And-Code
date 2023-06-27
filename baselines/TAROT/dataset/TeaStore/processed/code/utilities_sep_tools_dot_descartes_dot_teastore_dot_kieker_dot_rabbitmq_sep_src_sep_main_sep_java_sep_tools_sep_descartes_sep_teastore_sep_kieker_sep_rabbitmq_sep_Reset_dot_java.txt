@@ -1,0 +1,15 @@
+util sep tool dot descart dot teastor dot kieker dot rabbitmq sep src sep main sep java sep tool sep descart sep teastor sep kieker sep rabbitmq sep reset dot java 
+serial version uid 
+
+
+request 
+respons 
+folder 
+prefix 
+folder 
+
+
+
+delet folder 
+delet folder 
+

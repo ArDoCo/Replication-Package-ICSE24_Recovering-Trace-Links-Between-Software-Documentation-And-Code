@@ -1,0 +1,11 @@
+src sep main sep java sep org sep jabref sep gui sep util sep base dialog dot java 
+
+
+imag 
+
+
+base dialog 
+default button 
+default button type 
+set dialog icon 
+

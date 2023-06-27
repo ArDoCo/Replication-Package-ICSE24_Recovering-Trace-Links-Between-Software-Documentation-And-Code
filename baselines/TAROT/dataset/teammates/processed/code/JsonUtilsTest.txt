@@ -1,8 +1,0 @@
-util test 
-
-
-
-
-test feedback question detail adaptor compos question detail serial concret class 
-test feedback respons detail adaptor compos respons detail serial concret class 
-

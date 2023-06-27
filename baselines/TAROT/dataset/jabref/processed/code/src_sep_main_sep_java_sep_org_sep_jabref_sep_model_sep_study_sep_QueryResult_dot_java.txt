@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep model sep studi sep queri result dot java 
+queri 
+result librari 
+result librari 
+
+
+queri 
+result librari 
+
+
+queri result 
+queri 
+result fetcher 
+

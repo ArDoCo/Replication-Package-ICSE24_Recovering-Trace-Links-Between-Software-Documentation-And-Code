@@ -1,0 +1,55 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep meet servic dot java 
+
+
+token 
+user 
+meet id 
+intern user id 
+fullnam 
+role 
+extern user id 
+auth token 
+avatar url 
+guest 
+auth 
+token 
+token 
+ 
+meet id 
+meet id 
+meet id 
+voic bridg 
+channel 
+messag 
+meet id 
+meet id 
+user id 
+user custom data 
+messag 
+messag 
+messag 
+messag 
+messag 
+
+
+add user session 
+regist user 
+user session 
+remov user session 
+purg regist user 
+meet 
+session 
+creat meet 
+meet 
+meet id 
+meet id 
+meet voic bridg exist 
+send 
+meet 
+add user custom data 
+user join voic 
+user left voic 
+user listen onli 
+user share webcam 
+user unshar webcam 
+

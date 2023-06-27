@@ -1,0 +1,13 @@
+src sep test sep java sep org sep jabref sep gui sep search sep regex base search rule describ test dot java 
+
+
+stage 
+
+
+start 
+test simpl term 
+test ast 
+test ast regex 
+test ast regex case sensit 
+test ast case sensit 
+

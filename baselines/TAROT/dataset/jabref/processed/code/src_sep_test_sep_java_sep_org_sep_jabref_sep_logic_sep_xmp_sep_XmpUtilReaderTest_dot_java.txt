@@ -1,0 +1,16 @@
+src sep test sep java sep org sep jabref sep logic sep xmp sep xmp util reader test dot java 
+xmp prefer 
+test import 
+xmp util reader 
+
+
+
+
+set 
+test read articl dublin core read raw xmp 
+test read articl dublin core read xmp 
+test read articl dublin core read xmp partial date 
+test read emtpi metadata 
+test read pd metadata 
+test read descript metadata 
+

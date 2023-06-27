@@ -1,0 +1,11 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag sep guest status dot java 
+user id 
+status 
+
+
+user id 
+status 
+
+
+guest status 
+

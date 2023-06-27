@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep replac escap doubl quot test dot java 
+formatt 
+
+
+
+
+set 
+replac singl doubl quot 
+replac multipl doubl quot 
+replac singl doubl quot comma 
+noth 
+

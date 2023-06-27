@@ -1,2 +1,0 @@
-protect term loader 
-standard action 

@@ -1,0 +1,12 @@
+src sep main sep java sep org sep jabref sep gui sep fieldeditor sep editor valid dot java 
+prefer 
+
+
+prefer 
+status 
+text input 
+
+
+editor valid 
+configur valid 
+

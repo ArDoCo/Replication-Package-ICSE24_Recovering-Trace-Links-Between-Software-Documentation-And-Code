@@ -1,0 +1,29 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep editfieldcont sep edit field content view model dot java 
+tab index 
+select entri 
+select entri 
+field valu 
+select field 
+select field 
+overwrit field content 
+field valid 
+append 
+
+
+databas 
+select entri 
+state manag 
+
+
+edit field content view model 
+field valid status 
+append properti 
+clear select field 
+set field valu 
+append field valu 
+select field properti 
+select field 
+field valu 
+field valu properti 
+overwrit field content properti 
+

@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep nameformatt sep formatt item model dot java 
+
+format 
+
+
+
+
+format 
+
+format 
+
+
+formatt item model 
+formatt item model 
+formatt item model 
+set 
+
+properti 
+set format 
+format 
+format properti 
+string 
+

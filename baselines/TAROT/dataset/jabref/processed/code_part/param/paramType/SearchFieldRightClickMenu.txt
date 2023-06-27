@@ -1,2 +1,0 @@
-key bind repositori 
-action factori 

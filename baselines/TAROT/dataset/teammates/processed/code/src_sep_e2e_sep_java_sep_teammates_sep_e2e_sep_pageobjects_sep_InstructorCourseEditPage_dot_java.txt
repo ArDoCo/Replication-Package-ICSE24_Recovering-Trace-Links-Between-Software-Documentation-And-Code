@@ -1,0 +1,209 @@
+src sep sep java sep teammat sep sep pageobject sep instructor cours edit page dot java 
+instructor type coowner 
+instructor type manag 
+instructor type observ 
+instructor type tutor 
+instructor type custom 
+cours modifi cours 
+cours modifi instructor 
+cours modifi session 
+cours modifi student 
+cours view student 
+cours give respons session 
+cours view respons session 
+cours modifi respons session 
+section view student 
+section give respons session 
+section view respons session 
+section modifi respons session 
+session give respons 
+session view respons 
+session modifi respons 
+cours id text box 
+cours text box 
+cours institut text box 
+time zone drop 
+edit cours button 
+delet cours button 
+save cours button 
+add instructor button 
+copi instructor button 
+
+
+browser 
+cours 
+instructor 
+instr num 
+privileg 
+instr num 
+cours level privileg 
+instr num 
+section level privileg 
+instr num 
+session level privileg 
+expect num 
+cours 
+instructor 
+instructor 
+instructor 
+instructor 
+instructor 
+instr num 
+instructor 
+instr num 
+privileg 
+instr num 
+panel num 
+section 
+privileg 
+instr num 
+panel num 
+section 
+session 
+privileg 
+time zone 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+panel num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+instr num 
+radio num 
+instr num 
+role index 
+instr num 
+instr num 
+instr num 
+checkbox num 
+instr num 
+instr num 
+panel num 
+instr num 
+panel num 
+instr num 
+panel num 
+instr num 
+instr num 
+section 
+instr num 
+panel num 
+section num 
+instr num 
+panel num 
+check box index 
+instr num 
+panel num 
+instr num 
+panel num 
+session index 
+instr num 
+panel num 
+session index 
+check box index 
+role 
+privileg 
+privileg 
+privileg 
+email 
+instr num 
+section 
+instr num 
+session 
+
+
+instructor cours edit page 
+expect page content 
+verifi cours detail 
+verifi instructor detail 
+verifi custom privileg 
+verifi cours level privileg 
+verifi section level privileg 
+verifi session level privileg 
+verifi cours edit 
+verifi instructor edit 
+verifi add instructor 
+verifi copi instructor 
+verifi num instructor equal 
+edit cours 
+delet cours 
+add instructor 
+copi instructor 
+verifi copi instructor exist email 
+resend instructor invit 
+delet instructor 
+edit instructor 
+toggl custom cours level privileg 
+toggl custom section level privileg 
+toggl custom session level privileg 
+num instructor 
+click edit cours button 
+click save cours button 
+select time zone 
+click add instructor button 
+click copi instructor button 
+click edit instructor button 
+click cancel instructor button 
+click save instructor button 
+click add section privileg link 
+click add session privileg link 
+cours id 
+cours 
+cours institut 
+time zone 
+edit instructor button 
+invit instructor button 
+delet instructor button 
+cancel instructor button 
+save instructor button 
+field 
+email field 
+display student check box 
+display field 
+instructor googl id 
+instructor 
+instructor email 
+instructor display student 
+instructor display 
+instructor role 
+access level 
+access level radio button 
+select role instructor 
+cours level panel 
+cours level panel check box 
+cours level panel check box 
+add section level privileg link 
+add session level privileg link 
+section select 
+section level panel bodi 
+num section level panel 
+section level panel num section select 
+section select check box 
+section level check box 
+session level tabl 
+session level tabl row 
+session level checkbox 
+role index 
+cours level privileg index 
+section level privileg index 
+session level privileg index 
+intr num 
+section index 
+session index 
+

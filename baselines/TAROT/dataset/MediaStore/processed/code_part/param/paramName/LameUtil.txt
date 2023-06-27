@@ -1,6 +1,0 @@
-input 
-output 
-bitrat 
-input 
-output 
-option 

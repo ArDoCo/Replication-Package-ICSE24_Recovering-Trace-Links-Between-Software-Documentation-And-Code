@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep edit sep edit action dot java 
+logger 
+frame 
+text 
+action 
+state manag 
+
+
+action 
+frame 
+state manag 
+
+
+edit action 
+string 
+execut 
+

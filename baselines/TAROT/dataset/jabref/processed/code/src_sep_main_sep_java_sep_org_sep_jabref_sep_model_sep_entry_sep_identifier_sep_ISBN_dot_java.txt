@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep model sep entri sep identifi sep isbn dot java 
+isbn pattern 
+isbn string 
+
+
+isbn string 
+input 
+ 
+
+
+isbn 
+pars 
+valid format 
+valid checksum 
+isbn 
+isbn 
+isbn check 
+isbn check 
+valid 
+default field 
+normal 
+extern uri 
+equal 
+hash code 
+

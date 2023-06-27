@@ -1,6 +1,0 @@
-prefer servic 
-open offic prefer 
-key bind repositori 
-task executor 
-dialog servic 
-bib entri 

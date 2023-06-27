@@ -1,0 +1,51 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep abstract queri transform dot java 
+explicit field 
+logger 
+start year 
+year 
+
+
+queri 
+queri 
+term 
+queri 
+author 
+titl 
+journal titl 
+year 
+year rang 
+year rang 
+term 
+field string 
+term 
+field string 
+term 
+separ 
+field string 
+term 
+queri 
+lucen queri 
+queri 
+
+
+transform 
+logic oper 
+logic oper 
+logic oper 
+transform 
+handl doi 
+transform 
+handl author 
+handl titl 
+handl journal 
+handl year 
+pars year rang 
+handl year rang 
+handl field term 
+creat key valu pair 
+creat key valu pair 
+handl field 
+transform 
+transform lucen queri 
+remov outer brace 
+

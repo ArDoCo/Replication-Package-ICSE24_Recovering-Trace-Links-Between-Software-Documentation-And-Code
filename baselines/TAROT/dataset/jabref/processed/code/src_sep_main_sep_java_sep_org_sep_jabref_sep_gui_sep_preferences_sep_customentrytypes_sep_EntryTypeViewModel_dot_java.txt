@@ -1,0 +1,23 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep entri type view model dot java 
+entri type 
+entri type 
+field 
+field 
+
+
+entri type 
+multilin 
+obj 
+field 
+focus item 
+
+
+entri type view model 
+hash code 
+equal 
+add field 
+field 
+entri type 
+remov field 
+string 
+

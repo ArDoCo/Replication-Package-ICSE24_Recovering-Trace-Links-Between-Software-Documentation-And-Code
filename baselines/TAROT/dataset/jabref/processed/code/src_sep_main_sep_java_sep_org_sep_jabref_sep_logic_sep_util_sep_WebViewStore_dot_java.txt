@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep util sep web view store dot java 
+logger 
+web view 
+web view 
+initi 
+config 
+
+
+config 
+number preload instanc 
+minimum number instanc 
+
+
+init 
+init 
+
+add web view 
+
+configur 
+

@@ -1,2 +1,0 @@
-push applic prefer 
-abstract push applic 

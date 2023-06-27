@@ -1,7 +1,0 @@
-key bind view model test 
-
-
-
-
-reset default 
-

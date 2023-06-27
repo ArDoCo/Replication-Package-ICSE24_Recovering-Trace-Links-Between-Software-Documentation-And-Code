@@ -1,0 +1,12 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep ap fetcher test dot java 
+finder 
+
+
+
+
+set 
+find full text doi 
+find full text lowercas doi 
+find full text unauthor 
+find full text unknown entri 
+

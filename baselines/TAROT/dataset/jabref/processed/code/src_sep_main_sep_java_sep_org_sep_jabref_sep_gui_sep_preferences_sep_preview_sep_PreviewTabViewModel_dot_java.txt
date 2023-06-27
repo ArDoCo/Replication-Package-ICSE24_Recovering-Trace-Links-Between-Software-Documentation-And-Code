@@ -1,0 +1,76 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep preview sep preview tab view model dot java 
+logger 
+show extra tab properti 
+avail list properti 
+avail list properti 
+avail select model properti 
+avail select model properti 
+filter avail layout 
+filter avail layout 
+chosen list properti 
+chosen list properti 
+chosen select model properti 
+chosen select model properti 
+select edit properti 
+select layout properti 
+select layout properti 
+sourc text properti 
+dialog servic 
+preview prefer 
+task executor 
+chosen list valid 
+local dragboard 
+drag sourc list 
+drag sourc list 
+drag sourc select model 
+drag sourc select model 
+
+
+dialog servic 
+preview prefer 
+task executor 
+state manag 
+select layout 
+
+text 
+event 
+sourc list 
+sourc select model 
+select layout 
+dragboard 
+target list 
+dragboard 
+target layout 
+dragboard 
+search term 
+
+
+preview tab view model 
+set valu 
+set preview layout 
+refresh preview 
+find layout 
+store set 
+chosen list valid status 
+valid set 
+add chosen 
+remov chosen 
+select chosen 
+select chosen 
+reset default layout 
+comput highlight 
+drag 
+drag detect 
+drag drop 
+drag drop chosen cell 
+show extra tab properti 
+avail list properti 
+filter avail layout 
+set avail filter 
+avail select model properti 
+chosen list properti 
+chosen select model properti 
+select edit properti 
+select layout properti 
+sourc text properti 
+

@@ -1,8 +1,0 @@
-author org sci 
-
-
-field text 
-
-
-format 
-

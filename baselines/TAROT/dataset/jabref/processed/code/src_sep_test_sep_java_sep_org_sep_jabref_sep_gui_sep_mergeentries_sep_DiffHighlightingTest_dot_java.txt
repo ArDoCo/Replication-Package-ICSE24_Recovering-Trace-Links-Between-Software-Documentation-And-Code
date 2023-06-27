@@ -1,0 +1,22 @@
+src sep test sep java sep org sep jabref sep gui sep mergeentri sep diff highlight test dot java 
+
+
+expect 
+actual 
+
+
+assert equal 
+test generat diff highlight null throw npe 
+test null separ throw npe 
+test generat diff highlight diff 
+test generat diff highlight singl word add text word diff 
+test generat diff highlight singl word add text charact diff 
+test generat diff highlight singl word delet text word diff 
+test generat diff highlight singl word delet text charact diff 
+generat symmetr highlight singl word add text word diff 
+generat symmetr highlight singl word add text charact diff 
+generat symmetr highlight singl word delet text word diff 
+generat symmetr highlight singl word delet text charact diff 
+generat symmetr highlight multipl word delet text charact diff 
+generat symmetr highlight multipl word delet text word diff 
+

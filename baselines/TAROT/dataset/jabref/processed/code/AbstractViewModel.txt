@@ -1,6 +1,0 @@
-abstract view model 
-
-
-
-
-

@@ -1,0 +1,16 @@
+src sep test sep java sep teammat sep ui sep webapi sep session link recoveri action test dot java 
+
+
+
+
+action uri 
+request method 
+test execut paramet 
+test execut invalid email fail 
+test execut exist email 
+test execut feedback session 
+test execut open close unpublish session 
+test execut open close publish session 
+test execut 
+test access control 
+

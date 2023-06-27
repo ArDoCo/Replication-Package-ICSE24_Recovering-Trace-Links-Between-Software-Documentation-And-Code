@@ -1,0 +1,35 @@
+src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo format bibliographi dot java 
+postformatt 
+uniquefi field 
+
+
+citat group 
+bibliographi 
+style 
+alway add cite page 
+citat group 
+bibliographi 
+style 
+alway add cite page 
+citat group 
+cite key 
+style 
+alway add cite page 
+cite key 
+style 
+layout 
+entri 
+databas 
+uniquefi 
+citat group 
+cite key 
+
+
+oo format bibliographi 
+format bibliographi 
+format bibliographi bodi 
+format bibliographi entri 
+format bibliographi entri bodi 
+format full refer bib entri 
+format cite page 
+

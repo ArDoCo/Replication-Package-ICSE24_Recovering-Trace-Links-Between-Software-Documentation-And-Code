@@ -1,0 +1,55 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep merg view dot java 
+grid column min width 
+left default header 
+default header 
+field column constraint 
+left entri column constraint 
+entri column constraint 
+merg entri column constraint 
+toolbar 
+header view 
+scroll pane 
+merg grid pane 
+view model 
+field row 
+field row 
+field merger factori 
+keyword separ 
+
+
+left entri 
+entri 
+left header 
+header 
+bib entri prefer 
+left entri 
+entri 
+bib entri prefer 
+index 
+field index 
+left header 
+header 
+diff config 
+
+
+merg view 
+merg view 
+initi toolbar 
+show hide equal field 
+updat diff 
+initi header view 
+initi scroll pane 
+initi column constraint 
+initi merg grid pane 
+field index 
+add row 
+merg entri 
+set left header 
+set header 
+select left entri valu 
+select entri valu 
+show diff 
+left entri 
+entri 
+save configur 
+

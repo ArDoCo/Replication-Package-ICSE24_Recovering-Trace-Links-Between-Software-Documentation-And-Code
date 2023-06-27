@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep merg entri action dot java 
+number entri 
+dialog servic 
+state manag 
+bib entri prefer 
+
+
+dialog servic 
+state manag 
+bib entri prefer 
+
+
+merg entri action 
+execut 
+

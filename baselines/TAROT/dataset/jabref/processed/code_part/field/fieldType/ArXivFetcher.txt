@@ -1,5 +1,0 @@
-field 
-field 
-doi fetcher 
-import format prefer 
-import format prefer 

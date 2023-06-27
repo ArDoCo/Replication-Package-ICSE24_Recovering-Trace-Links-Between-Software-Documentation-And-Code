@@ -1,2 +1,0 @@
-bib string checker 
-bib entri 

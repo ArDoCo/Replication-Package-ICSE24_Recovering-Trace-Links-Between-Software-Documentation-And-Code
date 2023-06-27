@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep relat articl tab dot java 
+logger 
+prefer 
+dialog servic 
+prefer servic 
+
+
+entri editor 
+prefer 
+prefer servic 
+dialog servic 
+entri 
+list 
+fetcher 
+entri 
+entri 
+entri 
+
+
+relat articl tab 
+relat articl pane 
+relat articl info 
+error info 
+privaci dialog 
+show 
+bind entri 
+

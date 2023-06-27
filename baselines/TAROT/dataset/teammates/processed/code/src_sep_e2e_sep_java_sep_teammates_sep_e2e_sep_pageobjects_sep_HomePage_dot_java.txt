@@ -1,0 +1,10 @@
+src sep sep java sep teammat sep sep pageobject sep home page dot java 
+
+
+browser 
+
+
+home page 
+expect page content 
+wait page load 
+

@@ -1,0 +1,33 @@
+src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep research gate dot java 
+logger 
+host 
+googl search 
+googl site 
+search 
+search bib entri 
+format prefer 
+
+
+import format prefer 
+entri 
+entri 
+queri 
+doi 
+lucen queri 
+lucen queri 
+url string 
+entri 
+
+
+research gate 
+find full text 
+html 
+url string 
+url doi 
+page 
+trust level 
+perform search 
+input stream 
+
+perform search 
+

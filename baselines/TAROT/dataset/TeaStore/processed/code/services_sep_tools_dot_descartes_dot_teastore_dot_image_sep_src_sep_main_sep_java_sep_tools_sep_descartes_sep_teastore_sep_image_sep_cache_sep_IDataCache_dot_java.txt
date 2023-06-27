@@ -1,0 +1,23 @@
+servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep cach sep data cach dot java 
+std max cach size 
+
+
+size 
+data 
+data 
+data 
+id 
+cach size 
+
+
+max cach size 
+current cach size 
+free space 
+storag 
+cach data 
+uncach data 
+data cachabl 
+data cach 
+clear cach 
+set max cach size 
+

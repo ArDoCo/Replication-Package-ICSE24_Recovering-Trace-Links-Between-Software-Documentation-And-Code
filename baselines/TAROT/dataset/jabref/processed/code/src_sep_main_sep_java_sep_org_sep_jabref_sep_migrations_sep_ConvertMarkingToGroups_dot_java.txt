@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep migrat sep convert mark group dot java 
+mark pattern 
+
+
+parser result 
+entri 
+entri 
+
+
+perform migrat 
+mark entri 
+clear mark 
+

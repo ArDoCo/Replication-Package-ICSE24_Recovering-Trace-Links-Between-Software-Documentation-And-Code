@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep cleanup sep time stamp modif date test dot java 
+custom time stamp field 
+timestamp prefer 
+
+
+expect 
+input 
+expect 
+input 
+
+
+mock return custom field 
+mock return standard field 
+standard field modif date 
+standard field modif date 
+custom field modif date 
+custom field modif date 
+

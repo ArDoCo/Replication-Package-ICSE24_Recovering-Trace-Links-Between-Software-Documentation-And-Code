@@ -1,0 +1,49 @@
+src sep main sep java sep org sep jabref sep model sep group sep abstract group dot java 
+
+context 
+color 
+color 
+expand 
+descript 
+descript 
+icon 
+icon 
+
+
+
+context 
+
+color 
+color string 
+expand 
+descript 
+icon 
+entri 
+entri 
+entri 
+entri 
+
+
+abstract group 
+string 
+equal 
+hash code 
+color 
+set color 
+set color 
+expand 
+set expand 
+descript 
+set descript 
+icon 
+set icon 
+hierarch context 
+
+properti 
+
+match 
+ani 
+
+dynam 
+deep copi 
+

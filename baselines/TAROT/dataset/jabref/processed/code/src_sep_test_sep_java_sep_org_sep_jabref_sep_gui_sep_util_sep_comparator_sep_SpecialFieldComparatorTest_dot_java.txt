@@ -1,0 +1,24 @@
+src sep test sep java sep org sep jabref sep gui sep util sep compar sep special field compar test dot java 
+compar 
+valu 
+valu 
+valu 
+prio 
+prio 
+prio 
+prio 
+read 
+read 
+
+
+
+
+set 
+compar higher prioriti 
+compar prioriti 
+compar prioriti 
+compar unrel field 
+compar empti input 
+compar input empti 
+compar input empti 
+

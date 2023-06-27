@@ -1,0 +1,17 @@
+src sep main sep java sep org sep jabref sep gui sep slr sep start studi action dot java 
+logger 
+studi 
+
+
+frame 
+file updat monitor 
+task executor 
+prefer servic 
+state manag 
+studi repositori root 
+
+
+start studi action 
+crawl prepar 
+execut 
+

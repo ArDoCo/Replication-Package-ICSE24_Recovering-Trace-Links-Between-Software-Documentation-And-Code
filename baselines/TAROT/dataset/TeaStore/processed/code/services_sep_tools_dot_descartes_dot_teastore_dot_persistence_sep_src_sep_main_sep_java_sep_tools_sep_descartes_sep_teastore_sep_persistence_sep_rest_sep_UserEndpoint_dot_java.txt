@@ -1,0 +1,20 @@
+servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep rest sep er endpoint dot java 
+
+
+categori 
+id 
+start index 
+max result count 
+id 
+categori 
+id 
+
+
+
+creat entiti 
+find entiti id 
+list entiti 
+updat entiti 
+delet entiti 
+find id 
+

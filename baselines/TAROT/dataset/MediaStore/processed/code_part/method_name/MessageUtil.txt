@@ -1,3 +1,0 @@
-show error 
-show info 
-show success 

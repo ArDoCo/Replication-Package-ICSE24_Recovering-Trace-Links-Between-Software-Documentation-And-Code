@@ -1,1 +1,0 @@
-share databas login dialog view 

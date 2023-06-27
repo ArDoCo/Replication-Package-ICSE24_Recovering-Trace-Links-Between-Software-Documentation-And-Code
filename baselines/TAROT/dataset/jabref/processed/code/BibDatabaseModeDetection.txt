@@ -1,9 +1,0 @@
-bib databas mode detect 
-
-
-databas 
-
-
-bib databas mode detect 
-infer mode 
-

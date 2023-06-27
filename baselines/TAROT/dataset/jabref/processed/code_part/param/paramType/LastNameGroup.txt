@@ -1,5 +1,0 @@
-group hierarchi type 
-field 
-field 
-bib entri 
-bib entri 

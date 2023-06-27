@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep share sep sep offlin lock dot java 
+local bib entri 
+share bib entri 
+
+
+local bib entri 
+share bib entri 
+
+
+offlin lock 
+local bib entri 
+share bib entri 
+

@@ -1,0 +1,47 @@
+src sep main sep java sep org sep jabref sep gui sep import sep import entri view model dot java 
+logger 
+messag 
+task executor 
+databas context 
+dialog servic 
+undo manag 
+state manag 
+file updat monitor 
+parser result 
+entri 
+entri 
+prefer 
+entri type manag 
+select db 
+select db 
+
+
+task 
+task executor 
+databas context 
+dialog servic 
+undo manag 
+prefer 
+state manag 
+entri type manag 
+file updat monitor 
+entri 
+entri import 
+download file 
+entri import 
+entri 
+entri 
+
+
+import entri view model 
+messag 
+messag properti 
+select db properti 
+select db 
+entri 
+duplic 
+import entri 
+build import handler import entri 
+find intern duplic 
+resolv duplic 
+

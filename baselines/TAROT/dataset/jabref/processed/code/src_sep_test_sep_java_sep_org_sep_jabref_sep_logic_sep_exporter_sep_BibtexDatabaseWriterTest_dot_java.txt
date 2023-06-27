@@ -1,0 +1,75 @@
+src sep test sep java sep org sep jabref sep logic sep export sep bibtex databas writer test dot java 
+databas writer 
+databas 
+meta data 
+bibtex context 
+import format prefer 
+file monitor 
+save configur 
+field prefer 
+citat key pattern prefer 
+entri type manag 
+string writer 
+bib writer 
+
+
+bib folder 
+bib folder 
+bib folder 
+
+
+set 
+write null context throw 
+write null entri throw 
+write encod ascii set prefer header 
+write encod window set prefer header 
+write preambl 
+write preambl encod 
+write entri 
+write entri duplic keyword 
+put key word remov duplic keyword visibl dure write 
+write encod entri 
+write epilogu 
+write epilogu encod 
+utf encod written explicit defin 
+utf encod written explicit defin 
+write metadata 
+write metadata encod 
+write group 
+write group encod 
+write string 
+write string encod 
+write utf string encod 
+write entri custom type write type declar 
+write custom type alphabet order 
+roundtrip articl month 
+roundtrip utf encod header remov 
+roundtrip win header 
+roundtrip utf header 
+roundtrip explicit utf header insert dure write 
+roundtrip complex bib 
+roundtrip user comment 
+roundtrip user comment entri chang 
+roundtrip entri user comment entri chang 
+roundtrip user comment entri chang 
+roundtrip user comment befor string chang 
+roundtrip unknown meta data 
+write save serial entri unchang 
+reformat entri 
+write save serial string unchang 
+reformat string 
+write save action 
+write save order config 
+write custom key pattern 
+write biblatex mode 
+write protect flag 
+write file directori 
+write entri sort 
+write entri origin order save order config set metadata 
+trim field content 
+newlin abstract field delet 
+roundtrip content selector umlaut 
+save save modif 
+save return origin entri entri flag unchang 
+save return origin entri entri flag unchang presenc save modif 
+

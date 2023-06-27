@@ -1,0 +1,14 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep minifi sep minifi list formatt dot java 
+
+
+valu 
+author field 
+
+
+
+key 
+format 
+descript 
+exampl input 
+abbrevi author 
+

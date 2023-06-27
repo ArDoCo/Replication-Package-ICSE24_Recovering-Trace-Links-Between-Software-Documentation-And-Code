@@ -1,0 +1,34 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep offic pdf convers servic dot java 
+log 
+offic document valid 
+skip offic precheck 
+pres offic convers exec 
+pres offic convers semaphor 
+pres offic convers timeout 
+
+
+pres 
+pres 
+pres 
+pres 
+pdf output 
+pres 
+pdf 
+ 
+skip offic precheck 
+pres offic convers exec 
+pres offic convers timeout 
+pres offic convers max concurr 
+
+
+convert offic pdf 
+initi 
+setup output pdf file 
+convert offic doc pdf 
+pdf upload file set step success 
+set offic document valid 
+set skip offic precheck 
+set pres offic convers exec 
+set pres offic convers timeout 
+set pres offic convers max concurr 
+

@@ -1,0 +1,12 @@
+src sep test sep java sep teammat sep logic sep extern sep googl recaptcha servic test dot java 
+
+
+secret key 
+captcha respons 
+secret key 
+
+
+test verif success 
+googl recaptcha servic stub 
+api respons 
+

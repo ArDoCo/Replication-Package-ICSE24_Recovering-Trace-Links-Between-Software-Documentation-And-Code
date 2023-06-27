@@ -1,0 +1,28 @@
+src sep main sep java sep org sep jabref sep gui sep specialfield sep special field menu item factori dot java 
+
+
+field 
+factori 
+frame 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+field 
+factori 
+frame 
+dialog servic 
+prefer servic 
+undo manag 
+state manag 
+field 
+factori 
+prefer servic 
+undo manag 
+command factori 
+
+
+special field singl item 
+creat special field menu 
+creat special field menu 
+

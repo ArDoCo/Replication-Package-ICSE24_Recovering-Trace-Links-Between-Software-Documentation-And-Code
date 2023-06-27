@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep group sep undoabl add remov group dot java 
+add node 
+remov node children 
+remov node children 
+group root handl 
+subtre backup 
+subtre root child count 
+path node 
+path node 
+edit type 
+
+
+group root 
+edit node 
+edit type 
+undo 
+
+
+undoabl add remov group 
+present 
+undo 
+redo 
+oper 
+

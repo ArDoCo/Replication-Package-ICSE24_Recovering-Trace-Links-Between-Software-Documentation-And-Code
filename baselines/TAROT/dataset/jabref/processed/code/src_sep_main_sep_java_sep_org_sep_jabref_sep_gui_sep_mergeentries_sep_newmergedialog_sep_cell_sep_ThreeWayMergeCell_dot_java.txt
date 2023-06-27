@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep merg cell dot java 
+odd pseudo class 
+pseudo class 
+header row 
+default style class 
+view model 
+
+
+text 
+row index 
+text 
+
+
+merg cell 
+text 
+text properti 
+set text 
+string 
+

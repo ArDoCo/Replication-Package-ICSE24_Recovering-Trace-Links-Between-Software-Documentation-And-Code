@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep export sep group serial test dot java 
+group serial 
+
+
+
+
+set 
+serial singl entri group 
+serial singl explicit group 
+serial singl explicit group icon descript 
+serial singl explicit group escap slash 
+serial singl simpl keyword group 
+serial singl regex keyword group 
+serial singl search group 
+serial singl search group regex 
+serial singl automat keyword group 
+serial singl automat person group 
+serial singl tex group 
+tree string simpl tree 
+tree string complex tree 
+

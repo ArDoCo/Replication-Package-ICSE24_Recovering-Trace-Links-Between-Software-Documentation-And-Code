@@ -1,5 +1,0 @@
-zos 
-sz 
-content 
-file list 
-local call 

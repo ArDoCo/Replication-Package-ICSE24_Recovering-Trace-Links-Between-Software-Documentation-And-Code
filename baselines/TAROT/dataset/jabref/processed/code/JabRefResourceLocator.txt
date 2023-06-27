@@ -1,9 +1,0 @@
-jab ref resourc locat 
-logger 
-
-
- 
-
-
-resourc bundl 
-

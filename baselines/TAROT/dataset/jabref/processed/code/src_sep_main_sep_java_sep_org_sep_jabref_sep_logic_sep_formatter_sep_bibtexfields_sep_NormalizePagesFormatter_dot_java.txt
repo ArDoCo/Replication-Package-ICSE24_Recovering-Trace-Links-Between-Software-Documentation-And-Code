@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep normal page formatt dot java 
+em en dash pattern 
+dash detect pattern 
+unprotect term formatt 
+
+
+valu 
+
+
+
+key 
+format 
+descript 
+exampl input 
+

@@ -1,0 +1,14 @@
+src sep test sep java sep teammat sep ui sep webapi sep archiv cours action test dot java 
+
+
+cours archiv data 
+cours id 
+archiv 
+
+
+action uri 
+request method 
+test execut 
+verifi cours archiv 
+test access control 
+

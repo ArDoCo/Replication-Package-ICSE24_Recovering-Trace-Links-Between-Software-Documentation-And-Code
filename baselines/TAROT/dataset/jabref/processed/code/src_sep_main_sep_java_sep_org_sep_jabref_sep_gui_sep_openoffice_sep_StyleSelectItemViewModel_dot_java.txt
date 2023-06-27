@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep gui sep openoffic sep style select item view model dot java 
+
+journal 
+file 
+icon 
+icon 
+style 
+intern style 
+
+
+
+journal 
+file 
+style 
+
+
+style select item view model 
+properti 
+journal properti 
+icon properti 
+file properti 
+style 
+intern style properti 
+style path 
+

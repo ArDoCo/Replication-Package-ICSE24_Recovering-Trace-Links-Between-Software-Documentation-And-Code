@@ -1,0 +1,20 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep turn sep turn server dot java 
+hmac sha algorithm 
+colon 
+secret key 
+url 
+ttl 
+
+
+secret key 
+url 
+ttl 
+user id 
+data 
+key 
+
+
+turn server 
+generat password 
+calcul rfc hmac 
+

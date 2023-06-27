@@ -1,0 +1,15 @@
+src sep main sep java sep org sep jabref sep model sep group sep entri group dot java 
+
+
+
+ 
+entri 
+
+
+entri group 
+deep copi 
+equal 
+
+dynam 
+hash code 
+

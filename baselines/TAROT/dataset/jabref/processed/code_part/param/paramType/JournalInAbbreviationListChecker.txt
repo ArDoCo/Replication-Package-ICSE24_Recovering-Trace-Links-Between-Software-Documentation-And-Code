@@ -1,3 +1,0 @@
-field 
-journal abbrevi repositori 
-bib entri 

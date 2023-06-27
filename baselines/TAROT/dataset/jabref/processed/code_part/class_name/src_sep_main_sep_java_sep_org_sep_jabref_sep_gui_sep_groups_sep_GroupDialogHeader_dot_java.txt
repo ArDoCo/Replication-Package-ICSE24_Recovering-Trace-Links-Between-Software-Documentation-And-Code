@@ -1,0 +1,1 @@
+src sep main sep java sep org sep jabref sep gui sep group sep group dialog header dot java 

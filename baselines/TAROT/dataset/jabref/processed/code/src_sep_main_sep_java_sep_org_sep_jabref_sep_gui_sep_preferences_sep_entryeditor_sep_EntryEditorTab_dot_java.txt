@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditor sep entri editor tab dot java 
+open entri 
+default sourc 
+enabl relat articl tab 
+accept recommend 
+enabl latex citat tab 
+enabl valid 
+integ edit 
+enabl auto complet 
+auto complet field 
+auto complet 
+auto complet 
+auto complet 
+mode abbrevi 
+mode full 
+mode 
+
+
+
+
+entri editor tab 
+tab 
+initi 
+

@@ -1,3 +1,0 @@
-separ 
-properti 
-timestamp 

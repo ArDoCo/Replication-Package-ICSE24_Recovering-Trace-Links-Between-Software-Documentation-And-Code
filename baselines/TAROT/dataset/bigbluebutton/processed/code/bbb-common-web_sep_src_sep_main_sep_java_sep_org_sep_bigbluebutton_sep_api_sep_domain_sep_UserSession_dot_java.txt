@@ -1,0 +1,55 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep er session dot java 
+auth token 
+intern user id 
+conferencenam 
+meet id 
+extern meet id 
+extern user id 
+fullnam 
+role 
+confer 
+room 
+guest 
+auth 
+voicebridg 
+webvoiceconf 
+mode 
+record 
+welcom 
+logout url 
+default layout 
+avatar url 
+guest status 
+client url 
+exclud dashboard 
+left guest lobbi 
+connect 
+
+
+
+
+increment connect num 
+auth token 
+intern user id 
+conferencenam 
+meet id 
+extern meet id 
+extern user id 
+fullnam 
+role 
+confer 
+room 
+guest 
+auth 
+voicebridg 
+webvoiceconf 
+mode 
+record 
+welcom 
+logout url 
+default layout 
+avatar url 
+guest status 
+client url 
+string 
+

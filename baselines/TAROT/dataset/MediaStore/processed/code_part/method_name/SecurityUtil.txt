@@ -1,7 +1,0 @@
-comput hash 
-comput hash 
-salt 
-equal 
-base byte 
-byte frombas 
-concaten 

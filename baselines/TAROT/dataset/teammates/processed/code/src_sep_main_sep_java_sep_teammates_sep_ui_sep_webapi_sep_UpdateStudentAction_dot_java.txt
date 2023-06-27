@@ -1,0 +1,16 @@
+src sep main sep java sep teammat sep ui sep webapi sep updat student action dot java 
+student edit 
+success updat 
+success updat email 
+success updat email fail 
+
+
+cours id 
+student email 
+
+
+min auth level 
+check specif access control 
+execut 
+send email 
+

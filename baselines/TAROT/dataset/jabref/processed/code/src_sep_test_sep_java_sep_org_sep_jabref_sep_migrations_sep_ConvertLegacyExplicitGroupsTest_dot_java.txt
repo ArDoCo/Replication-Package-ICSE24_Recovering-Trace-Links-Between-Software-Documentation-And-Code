@@ -1,0 +1,15 @@
+src sep test sep java sep org sep jabref sep migrat sep convert legaci explicit group test dot java 
+action 
+entri 
+group 
+
+
+group root 
+
+
+set 
+perform action write group membership entri 
+perform action clear legaci key 
+perform action write group membership entri complex group tree 
+generat parser result 
+

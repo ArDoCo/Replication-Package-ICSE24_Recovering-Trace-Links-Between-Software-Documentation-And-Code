@@ -1,0 +1,13 @@
+src sep main sep java sep org sep jabref sep logic sep import sep entri base parser fetcher dot java 
+
+
+entri 
+entri 
+entri 
+
+
+url entri 
+parser 
+post cleanup 
+perform search 
+

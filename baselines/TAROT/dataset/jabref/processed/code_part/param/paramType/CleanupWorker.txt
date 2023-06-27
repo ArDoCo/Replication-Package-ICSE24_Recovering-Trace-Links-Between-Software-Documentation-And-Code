@@ -1,4 +1,0 @@
-timestamp prefer 
-cleanup prefer 
-bib entri 
-cleanup prefer 

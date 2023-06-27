@@ -1,0 +1,60 @@
+src sep main sep java sep org sep jabref sep logic sep share sep dbms processor dot java 
+processor id 
+logger 
+connect 
+connect properti 
+
+
+dbms connect 
+tabl 
+express 
+express 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+local bib entri 
+local bib entri 
+share bib entri 
+local bib entri 
+bib entri 
+share id 
+share id 
+share id 
+data 
+connect 
+dbms synchron 
+
+
+dbms processor 
+check base integr 
+databas jab ref 
+check tabl avail 
+setup share databas 
+set 
+escap 
+escap tabl 
+current version db struct 
+insert entri 
+insert entri 
+insert entri tabl 
+exist entri 
+insert field tabl 
+updat entri 
+remov share field differ 
+insert updat field 
+remov entri 
+share entri 
+partit share entri 
+share entri 
+share entri 
+share id version map 
+share meta data 
+set share meta data 
+processor instanc 
+dbms connect properti 
+start notif listen 
+stop notif listen 
+notifi client 
+

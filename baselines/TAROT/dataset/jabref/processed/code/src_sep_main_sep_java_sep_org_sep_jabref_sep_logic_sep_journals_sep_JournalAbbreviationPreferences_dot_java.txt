@@ -1,0 +1,19 @@
+src sep main sep java sep org sep jabref sep logic sep journal sep journal abbrevi prefer dot java 
+extern journal list 
+extern journal list 
+journal field 
+
+
+extern journal list 
+journal field 
+list 
+journal field 
+
+
+journal abbrevi prefer 
+extern journal list 
+set extern journal list 
+journal field 
+journal field properti 
+set journal field 
+

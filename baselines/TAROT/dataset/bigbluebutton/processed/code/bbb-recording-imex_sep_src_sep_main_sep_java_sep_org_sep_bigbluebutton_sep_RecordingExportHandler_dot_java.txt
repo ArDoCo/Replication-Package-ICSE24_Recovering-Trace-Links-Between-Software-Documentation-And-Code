@@ -1,0 +1,20 @@
+bbb record imex sep src sep main sep java sep org sep bigbluebutton sep record export handler dot java 
+logger 
+instanc 
+data store 
+xml servic 
+
+
+path 
+record id 
+path 
+record 
+path 
+
+
+record export handler 
+instanc 
+export record 
+export record 
+export record 
+

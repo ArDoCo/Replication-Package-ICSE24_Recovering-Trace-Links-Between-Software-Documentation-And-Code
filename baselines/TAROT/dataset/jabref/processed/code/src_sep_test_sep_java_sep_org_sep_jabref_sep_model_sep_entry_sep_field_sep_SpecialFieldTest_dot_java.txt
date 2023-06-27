@@ -1,0 +1,8 @@
+src sep test sep java sep org sep jabref sep model sep entri sep field sep special field test dot java 
+
+
+
+
+special field instanc field valid 
+special field instanc field empti invalid field 
+

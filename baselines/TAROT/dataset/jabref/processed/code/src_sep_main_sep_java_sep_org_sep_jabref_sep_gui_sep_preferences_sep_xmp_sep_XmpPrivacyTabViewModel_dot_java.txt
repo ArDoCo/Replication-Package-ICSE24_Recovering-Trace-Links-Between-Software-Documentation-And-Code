@@ -1,0 +1,30 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep xmp sep xmp privaci tab view model dot java 
+xmp filter enabl properti 
+xmp filter list properti 
+xmp filter list properti 
+avail field properti 
+avail field properti 
+add field properti 
+add field properti 
+dialog servic 
+xmp prefer 
+xmp filter list valid 
+
+
+dialog servic 
+xmp prefer 
+filter 
+
+
+xmp privaci tab view model 
+set valu 
+store set 
+add field 
+remov filter 
+xmp filter list valid status 
+valid set 
+xmp filter enabl properti 
+filter list properti 
+avail field properti 
+add field properti 
+

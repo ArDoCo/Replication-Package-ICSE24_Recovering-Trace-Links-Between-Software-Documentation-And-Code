@@ -1,0 +1,20 @@
+src sep main sep java sep org sep jabref sep logic sep import sep util sep grobid servic dot java 
+code 
+grobid prefer 
+
+
+code 
+grobid prefer 
+raw citat 
+import format prefer 
+consolid citat 
+file path 
+import format prefer 
+
+
+consolid citat 
+code 
+grobid servic 
+process citat 
+process pdf 
+

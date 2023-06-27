@@ -1,0 +1,25 @@
+src sep main sep java sep org sep jabref sep model sep entri sep type sep bibtex entri type definit dot java 
+articl 
+book 
+booklet 
+confer 
+inbook 
+incollect 
+inproceed 
+manual 
+mastersthesi 
+misc 
+phdthesi 
+proceed 
+techreport 
+unpublish 
+
+
+recommend 
+recommend 
+
+
+
+
+bibtex entri type definit 
+

@@ -1,0 +1,1 @@
+src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file dialog view model dot java 

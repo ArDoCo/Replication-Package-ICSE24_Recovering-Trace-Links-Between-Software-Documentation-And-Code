@@ -1,0 +1,17 @@
+src sep sep java sep teammat sep sep case sep instructor cours detail page test dot java 
+student 
+cours 
+file 
+
+
+detail page 
+cours 
+instructor 
+student 
+
+
+prepar test data 
+class setup 
+test 
+verifi cours detail 
+

@@ -1,0 +1,18 @@
+src sep test sep java sep teammat sep ui sep webapi sep search account request action test dot java 
+account request 
+
+
+
+
+prepar test data 
+action uri 
+request method 
+test execut 
+test execut paramet fail 
+test execut search email succeed 
+test execut search institut succeed 
+test execut search succeed 
+test execut search match empti 
+test execut search servic return 
+test access control 
+

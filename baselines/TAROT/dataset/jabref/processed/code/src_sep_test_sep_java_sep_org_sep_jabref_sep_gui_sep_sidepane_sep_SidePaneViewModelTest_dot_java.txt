@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep gui sep sidepan sep side pane view model test dot java 
+prefer servic 
+state manag 
+task executor 
+dialog servic 
+undo manag 
+side pane prefer 
+side pane compon 
+side pane compon 
+side pane view model 
+
+
+
+
+set 
+move 
+move posit 
+move 
+move posit 
+sort prefer posit 
+

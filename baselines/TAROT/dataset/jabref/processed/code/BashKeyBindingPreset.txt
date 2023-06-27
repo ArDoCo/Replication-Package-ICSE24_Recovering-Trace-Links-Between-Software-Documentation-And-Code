@@ -1,8 +1,0 @@
-bash key bind preset 
-
-
-
-
-
-key bind 
-

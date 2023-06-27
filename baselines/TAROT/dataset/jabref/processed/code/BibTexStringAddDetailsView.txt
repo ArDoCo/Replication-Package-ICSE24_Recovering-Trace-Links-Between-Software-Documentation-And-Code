@@ -1,9 +1,0 @@
-bib tex string add detail view 
-
-
-string add 
-
-bib tex string add 
-
-bib tex string add detail view 
-

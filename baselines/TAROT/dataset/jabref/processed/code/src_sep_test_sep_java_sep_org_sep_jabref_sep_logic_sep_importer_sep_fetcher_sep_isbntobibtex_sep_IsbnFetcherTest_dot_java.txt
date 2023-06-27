@@ -1,0 +1,18 @@
+src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep bn fetcher test dot java 
+fetcher 
+bib entri 
+
+
+
+
+set 
+test 
+search id success short isbn 
+search id success long isbn 
+search id return empti empti isbn 
+search id throw short invalid isbn 
+search id throw long invalid isb 
+search id throw invalid isbn 
+search entri isbn success 
+search isbn avail otto bib ebook de 
+

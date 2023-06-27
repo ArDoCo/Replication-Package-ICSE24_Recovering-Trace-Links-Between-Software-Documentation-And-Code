@@ -1,0 +1,8 @@
+src sep main sep java sep org sep jabref sep gui sep collab sep stringrenam sep bib tex string renam detail view dot java 
+
+
+string renam 
+
+
+bib tex string renam detail view 
+

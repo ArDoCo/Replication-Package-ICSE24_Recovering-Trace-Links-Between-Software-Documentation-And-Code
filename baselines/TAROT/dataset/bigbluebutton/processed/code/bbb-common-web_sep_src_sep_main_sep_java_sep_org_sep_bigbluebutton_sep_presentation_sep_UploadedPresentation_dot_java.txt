@@ -1,0 +1,76 @@
+bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep upload present dot java 
+pod id 
+meet id 
+id 
+temporari present id 
+
+upload fail 
+upload fail reason 
+upload fail reason 
+upload file 
+file type 
+number page 
+convers status 
+base url 
+download 
+remov 
+current 
+authz token 
+convers start 
+
+
+pod id 
+meet id 
+id 
+temporari present id 
+
+base url 
+current 
+authz token 
+upload fail 
+upload fail reason 
+pod id 
+meet id 
+id 
+
+base url 
+current 
+authz token 
+upload fail 
+upload fail reason 
+upload file 
+file type 
+number page 
+convers status 
+remov 
+valu 
+
+
+upload present 
+upload present 
+upload file 
+set upload file 
+meet id 
+pod id 
+id 
+temporari present id 
+
+base url 
+file type 
+set file type 
+number page 
+set number page 
+convers status 
+set convers status 
+download 
+set download 
+remov 
+set remov 
+current 
+set current 
+authz token 
+start convers 
+convers start 
+upload fail 
+upload fail reason 
+

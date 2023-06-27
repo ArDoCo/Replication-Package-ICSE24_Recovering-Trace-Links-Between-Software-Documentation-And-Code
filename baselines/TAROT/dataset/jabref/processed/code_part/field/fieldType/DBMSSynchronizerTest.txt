@@ -1,6 +1,0 @@
-dbms synchron 
-bib databas 
-global citat key pattern 
-dbms connect 
-dbms processor 
-dbms type 

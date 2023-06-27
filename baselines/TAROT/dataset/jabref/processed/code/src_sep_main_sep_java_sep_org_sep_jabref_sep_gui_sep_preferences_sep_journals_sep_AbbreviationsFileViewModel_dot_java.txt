@@ -1,0 +1,27 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep journal sep abbrevi file view model dot java 
+abbrevi 
+abbrevi 
+built list 
+
+path 
+path 
+
+
+file path 
+abbrevi 
+
+obj 
+
+
+abbrevi file view model 
+abbrevi file view model 
+read abbrevi 
+write creat 
+abbrevi properti 
+exist 
+absolut path 
+built list properti 
+string 
+hash code 
+equal 
+

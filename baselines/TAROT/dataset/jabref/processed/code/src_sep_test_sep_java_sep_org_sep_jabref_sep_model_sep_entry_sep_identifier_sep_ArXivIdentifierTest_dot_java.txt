@@ -1,0 +1,31 @@
+src sep test sep java sep org sep jabref sep model sep entri sep identifi sep ar xiv identifi test dot java 
+
+
+
+
+pars 
+pars ar xiv prefix 
+pars arxiv prefix 
+pars classif 
+pars ar xiv prefix classif 
+pars identifi 
+accept legaci eprint 
+accept legaci math eprint 
+pars identifi ar xiv prefix 
+pars url 
+pars https url 
+pars pdf url 
+pars url version 
+pars url version 
+digit date invalid legaci format 
+accept plain eprint 
+accept plain eprint version 
+accept arxiv prefix 
+ignor lead trail whitespac 
+reject embed eprint 
+reject invalid eprint 
+accept url http eprint 
+accept url https eprint 
+reject url domain eprint 
+construct correct url eprint 
+

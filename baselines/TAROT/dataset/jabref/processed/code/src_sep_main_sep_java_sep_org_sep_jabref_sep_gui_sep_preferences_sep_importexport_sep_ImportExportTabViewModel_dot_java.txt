@@ -1,0 +1,51 @@
+src sep main sep java sep org sep jabref sep gui sep prefer sep importexport sep import export tab view model dot java 
+api key 
+api key 
+select api key properti 
+select api key properti 
+generat key import properti 
+custom doi properti 
+custom doi properti 
+export origin properti 
+export tabl order properti 
+export specifi order properti 
+sortabl field properti 
+sortabl field properti 
+sort criteria properti 
+sort criteria properti 
+grobid enabl properti 
+grobid url properti 
+warn duplic import properti 
+download link onlin file 
+dialog servic 
+prefer servic 
+doi prefer 
+grobid prefer 
+import prefer 
+import export prefer 
+file prefer 
+
+
+prefer servic 
+dialog servic 
+
+
+import export tab view model 
+set valu 
+store set 
+generat key import properti 
+custom doi properti 
+custom doi properti 
+save origin properti 
+save tabl order properti 
+save specifi order properti 
+sortabl field properti 
+sort criteria properti 
+grobid enabl properti 
+grobid url properti 
+fetcher api key 
+select api key properti 
+warn duplic import properti 
+download link onlin file 
+check custom api key 
+

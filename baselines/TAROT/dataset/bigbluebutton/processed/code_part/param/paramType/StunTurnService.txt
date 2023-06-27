@@ -1,2 +1,0 @@
-stun server 
-remot ice candid 

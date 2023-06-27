@@ -1,3 +1,0 @@
-file prefer 
-auto link prefer 
-bib entri 

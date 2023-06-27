@@ -1,0 +1,24 @@
+src sep main sep java sep org sep jabref sep prefer sep intern prefer dot java 
+ignor version 
+ignor version 
+prefer export path 
+prefer export path 
+user 
+
+
+ignor version 
+export path 
+user 
+ignor version 
+prefer export path 
+
+
+intern prefer 
+ignor version 
+ignor version properti 
+set ignor version 
+prefer export path 
+prefer export path properti 
+set prefer export path 
+user 
+

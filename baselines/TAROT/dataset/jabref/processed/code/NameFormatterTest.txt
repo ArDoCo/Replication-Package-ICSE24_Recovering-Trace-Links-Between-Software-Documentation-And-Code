@@ -1,8 +1,0 @@
-formatt test 
-
-
-
-
-test format string string bibtex entri 
-test format 
-

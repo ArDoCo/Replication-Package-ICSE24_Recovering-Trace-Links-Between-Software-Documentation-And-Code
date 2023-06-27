@@ -1,0 +1,57 @@
+src sep main sep java sep teammat sep logic sep core sep cours logic dot java 
+log 
+instanc 
+cours db 
+account logic 
+feedback session logic 
+fq logic 
+fr logic 
+frc logic 
+instructor logic 
+student logic 
+deadlin extens logic 
+
+
+cours id 
+cours creat 
+instructor googl id 
+cours creat 
+cours id 
+cours id 
+cours id 
+cours id 
+cours id 
+section 
+cours id 
+googl id 
+instructor list 
+instructor list 
+updat option 
+cours id 
+cours id 
+cours id 
+start time 
+time 
+
+
+cours logic 
+inst 
+init logic depend 
+cours institut 
+creat cours 
+creat cours instructor 
+cours 
+cours present 
+verifi cours present 
+section cours 
+team cours 
+team section 
+cours student account 
+cours instructor 
+soft delet cours instructor 
+updat cours cascad 
+delet cours cascad 
+move cours recycl bin 
+restor cours recycl bin 
+num cours time rang 
+

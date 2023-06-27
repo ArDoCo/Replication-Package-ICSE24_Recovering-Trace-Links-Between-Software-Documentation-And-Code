@@ -1,0 +1,39 @@
+src sep main sep java sep org sep jabref sep gui sep util sep recurs tree item dot java 
+expand properti 
+expand properti 
+children factori 
+children factori 
+filter 
+filter 
+children 
+children 
+
+
+valu 
+func 
+valu 
+func 
+expand properti 
+filter 
+valu 
+func 
+filter 
+valu 
+graphic 
+func 
+expand properti 
+filter 
+valu 
+expand properti 
+valu 
+node 
+
+
+recurs tree item 
+recurs tree item 
+recurs tree item 
+recurs tree item 
+bind expand properti 
+add children listen 
+show node 
+

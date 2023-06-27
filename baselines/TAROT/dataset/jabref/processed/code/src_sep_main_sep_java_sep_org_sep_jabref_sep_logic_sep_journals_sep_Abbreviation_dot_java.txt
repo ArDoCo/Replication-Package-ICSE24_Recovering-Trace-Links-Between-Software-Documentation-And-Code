@@ -1,0 +1,36 @@
+src sep main sep java sep org sep jabref sep logic sep journal sep abbrevi dot java 
+serial version uid 
+
+abbrevi 
+dotless abbrevi 
+shortest uniqu abbrevi 
+
+
+
+abbrevi 
+
+abbrevi 
+shortest uniqu abbrevi 
+
+abbrevi 
+dotless abbrevi 
+shortest uniqu abbrevi 
+compar 
+current 
+ 
+
+
+abbrevi 
+abbrevi 
+abbrevi 
+
+abbrevi 
+shortest uniqu abbrevi 
+default shortest uniqu abbrevi 
+dotless abbrevi 
+compar 
+
+string 
+equal 
+hash code 
+

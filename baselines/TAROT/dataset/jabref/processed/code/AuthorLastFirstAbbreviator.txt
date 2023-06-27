@@ -1,8 +1,0 @@
-author abbrevi 
-
-
-field text 
-
-
-format 
-

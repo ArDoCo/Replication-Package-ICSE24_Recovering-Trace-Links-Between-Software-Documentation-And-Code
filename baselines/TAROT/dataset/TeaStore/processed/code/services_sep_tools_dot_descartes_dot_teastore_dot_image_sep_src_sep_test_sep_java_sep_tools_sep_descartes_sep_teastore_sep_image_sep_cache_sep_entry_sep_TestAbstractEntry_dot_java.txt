@@ -1,0 +1,20 @@
+servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep cach sep entri sep test abstract entri dot java 
+mock byte size 
+mock id 
+mock img 
+mock img equal 
+null entri 
+null entri 
+
+
+
+
+initi 
+test constructor 
+test constructor null 
+test count 
+test data 
+test byte size 
+test id 
+test equal 
+

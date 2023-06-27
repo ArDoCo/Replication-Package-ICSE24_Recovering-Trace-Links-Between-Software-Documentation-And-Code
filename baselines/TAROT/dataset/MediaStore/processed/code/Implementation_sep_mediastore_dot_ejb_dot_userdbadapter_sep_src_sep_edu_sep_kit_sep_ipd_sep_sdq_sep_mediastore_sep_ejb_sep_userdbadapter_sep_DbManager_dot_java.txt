@@ -1,0 +1,13 @@
+implement sep mediastor dot ejb dot userdbadapt sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep userdbadapt sep db manag dot java 
+em 
+
+
+user data 
+usernam 
+password 
+
+
+save user 
+find user 
+clear tabl 
+

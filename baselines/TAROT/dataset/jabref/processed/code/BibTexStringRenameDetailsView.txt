@@ -1,8 +1,0 @@
-bib tex string renam detail view 
-
-
-string renam 
-
-
-bib tex string renam detail view 
-

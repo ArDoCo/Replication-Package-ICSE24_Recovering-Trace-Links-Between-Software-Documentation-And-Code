@@ -1,0 +1,14 @@
+src sep sep java sep teammat sep sep case sep autom session remind test dot java 
+
+
+
+
+prepar test data 
+prepar browser 
+test 
+test feedback session open remind 
+test feedback session open remind 
+test feedback session close remind 
+test feedback session close remind 
+test feedback session publish remind 
+

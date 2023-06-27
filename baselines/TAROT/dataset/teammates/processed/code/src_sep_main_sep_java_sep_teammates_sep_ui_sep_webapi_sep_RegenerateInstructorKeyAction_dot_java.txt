@@ -1,0 +1,13 @@
+src sep main sep java sep teammat sep ui sep webapi sep regener instructor key action dot java 
+success regener 
+success regener email sent 
+unsuccess regener 
+success regener email fail 
+
+
+instructor 
+
+
+execut 
+send email 
+

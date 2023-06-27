@@ -1,0 +1,34 @@
+src sep main sep java sep teammat sep common sep datatransf sep log sep general log entri dot java 
+sever 
+trace 
+insert id 
+resourc identifi 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+
+
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+
+
+general log entri 
+set messag 
+set detail 
+sever 
+trace 
+insert id 
+resourc identifi 
+sourc locat 
+timestamp 
+messag 
+detail 
+

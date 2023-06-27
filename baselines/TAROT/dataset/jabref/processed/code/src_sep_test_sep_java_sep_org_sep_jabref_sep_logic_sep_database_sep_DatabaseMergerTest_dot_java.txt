@@ -1,0 +1,21 @@
+src sep test sep java sep org sep jabref sep logic sep databas sep databas merger test dot java 
+import format prefer 
+
+
+
+context 
+entri 
+
+
+set 
+merg add duplic entri 
+merg add duplic entri 
+merg bib tex string import modifi 
+merg bib tex string content ignor 
+merg meta data entri group 
+merg meta data entri group 
+test group 
+
+dynam 
+deep copi 
+

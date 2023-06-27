@@ -1,0 +1,58 @@
+src sep main sep java sep org sep jabref sep gui sep entryeditor sep sourc tab dot java 
+logger 
+field prefer 
+mode 
+undo manag 
+sourc valid 
+sourc valid 
+sourc valid 
+import format prefer 
+file monitor 
+dialog servic 
+state manag 
+search highlight pattern 
+search highlight pattern 
+key bind repositori 
+code area 
+previous entri 
+command 
+
+
+command 
+bib databas context 
+undo manag 
+field prefer 
+import format prefer 
+file monitor 
+dialog servic 
+state manag 
+key bind repositori 
+entri 
+type 
+field prefer 
+ 
+ 
+offset 
+entri 
+entri 
+focus entri 
+text 
+event 
+
+
+edit action 
+execut 
+sourc tab 
+highlight search pattern 
+sourc string 
+select text 
+locat offset 
+cancel latest commit text 
+text locat 
+setup sourc editor 
+show 
+updat code area 
+bind entri 
+store sourc 
+listen save keybind 
+

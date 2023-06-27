@@ -1,0 +1,127 @@
+akka bbb app sep src sep main sep scala sep org sep bigbluebutton sep core sep util sep jhotdraw sep bezier dot java 
+
+
+digit point 
+error 
+digit point 
+error 
+digit point 
+error 
+digit point 
+min distanc 
+digit point 
+digit point 
+max angl 
+min distanc 
+digit point 
+min angl 
+min distanc 
+digit point 
+weight 
+ 
+
+
+hat 
+hat 
+error squar 
+bezier path 
+bez curv 
+bezier path 
+error squar 
+connect corner 
+ 
+
+ 
+
+ 
+center 
+ 
+
+
+ 
+
+
+ 
+bez curv 
+ 
+ 
+ 
+ 
+
+
+bez curv 
+ 
+split point 
+ 
+
+
+prime 
+hat 
+hat 
+degre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+newlen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+bezier 
+fit bezier path 
+fit bezier path 
+fit bezier path 
+remov close point 
+remov coincid point 
+split corner 
+find corner 
+reduc nois 
+fit cubic 
+add curv 
+comput left tangent 
+comput tangent 
+comput center tangent 
+chord length parameter 
+reparameter 
+newton raphson root find 
+comput max error 
+generat bezier 
+bezier ii 
+distanc point 
+squar distanc point 
+scale 
+scale iii 
+length 
+squar length 
+add 
+add ii 
+negat 
+dot 
+normal 
+ii 
+ 
+ 
+ 
+ 
+

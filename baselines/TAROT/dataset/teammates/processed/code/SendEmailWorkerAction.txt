@@ -1,7 +1,0 @@
-send email worker action 
-
-
-
-
-execut 
-

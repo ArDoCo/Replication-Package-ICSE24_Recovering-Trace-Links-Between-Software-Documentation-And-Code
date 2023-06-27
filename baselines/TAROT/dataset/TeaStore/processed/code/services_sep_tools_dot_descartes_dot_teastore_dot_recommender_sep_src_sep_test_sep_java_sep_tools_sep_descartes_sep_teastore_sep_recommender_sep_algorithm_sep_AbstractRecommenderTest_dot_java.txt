@@ -1,0 +1,41 @@
+servic sep tool dot descart dot teastor dot recommend sep src sep test sep java sep tool sep descart sep teastor sep recommend sep algorithm sep abstract recommend test dot java 
+train order item 
+train order item 
+train order 
+train order 
+user 
+user 
+recommend singl 
+recommend singl 
+recommend multi 
+recommend multi 
+algo 
+
+
+train order item 
+train order 
+recommend singl 
+recommend multi 
+algo 
+user 
+
+
+setup 
+setup algo 
+test interfac 
+test result 
+test singl result 
+test multi result 
+train order item 
+set train order item 
+train order 
+set train order 
+recommend singl 
+set recommend singl 
+recommend multi 
+set recommend multi 
+algo 
+set algo 
+user 
+set user 
+
