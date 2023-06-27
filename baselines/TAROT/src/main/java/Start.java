@@ -17,61 +17,65 @@ import java.util.Map;
 
 public class Start {
     public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
-        long startTime = System.currentTimeMillis();
+        for (ProjectEnum projectName : ProjectEnum.values()) {
+            for (IREnum model : IREnum.values()) {
+                long startTime = System.currentTimeMillis();
+                Class projectClass = Class.forName(projectName.getName()); // select project
+                Class irModelClass = Class.forName(model.getModel()); // select IR model
+                boolean lambdaFlag = true; // use global weight lambda
+                boolean thetaFlag = true; // use local weighr theta
 
-        Class projectClass = Class.forName(ProjectEnum.BIGBLUEBUTTON.getName()); // select project
-        Class irModelClass = Class.forName(IREnum.VSM.getModel()); // select IR model
-        boolean lambdaFlag = true; // use global weight lambda
-        boolean thetaFlag = true; // use local weighr theta
+                Project project = (Project) projectClass.newInstance();
+                System.setProperty("project", project.getProjectName());
+                IRModel irModel = (IRModel) irModelClass.newInstance();
 
-        Project project = (Project) projectClass.newInstance();
-        System.setProperty("project", project.getProjectName());
-        IRModel irModel = (IRModel) irModelClass.newInstance();
+                TextDataset textDataset = new TextDataset(project.getReqPath(), project.getClassDirPath(), project.getRtmClassPath());
 
-        TextDataset textDataset = new TextDataset(project.getReqPath(), project.getClassDirPath(), project.getRtmClassPath());
+                Map<String, Result> resultMap = new HashMap<>();
 
-        Map<String, Result> resultMap = new HashMap<>();
+                // IR-ONLY
+                IR ir = new IR();
+                Result result_ir = ir.compute(textDataset, irModel, new IR_Only());
+                resultMap.put(result_ir.getAlgorithmName(), result_ir);
+                try {
+                    result_ir.writeSimilarityMatrixToFile(project.getProjectPath(), project.getProjectName());
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
 
-        // IR-ONLY
-        IR ir = new IR();
-        Result result_ir = ir.compute(textDataset, irModel, new IR_Only());
-        resultMap.put(result_ir.getAlgorithmName(), result_ir);
-        try {
-            result_ir.writeSimilarityMatrixToFile(project.getProjectPath(), project.getProjectName());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+                // IR-ONLY_TAROT
+                IR_TAROT tarot = new IR_TAROT();
+                Result result_tarot = tarot.compute(project, textDataset, irModel, new IR_Only(), lambdaFlag, thetaFlag);
+                result_tarot.setAlgorithmName("IR-ONLY_TAROT");
+                resultMap.put(result_tarot.getAlgorithmName(), result_tarot);
+                try {
+                    result_tarot.writeSimilarityMatrixToFile(project.getProjectPath(), project.getProjectName());
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
+
+                for (String resultName : resultMap.keySet()) {
+                    Result result = resultMap.get(resultName);
+                    double ApValue = result.getAveragePrecisionByRanklist();
+                    String AP = String.format("%.2f", ApValue * 100);
+                    double MapValue = result.getMeanAveragePrecisionByQuery();
+                    String MAP = String.format("%.2f", MapValue * 100);
+
+                    System.out.println(project.getProjectName()
+                            + "   " + irModel.getModelName()
+                            + "   " + resultName
+                            + "   " + "AP:" + AP
+                            + "   " + "MAP:" + MAP);
+
+                    List<String> apAndMapList = new ArrayList<>();
+                    apAndMapList.add(AP);
+                    apAndMapList.add(MAP);
+                }
+
+                long endTime = System.currentTimeMillis();
+                System.out.println("time cost:" + (endTime - startTime) * 1.0 / 1000 / 60);
+            }
         }
 
-        // IR-ONLY_TAROT
-        IR_TAROT tarot = new IR_TAROT();
-        Result result_tarot = tarot.compute(project, textDataset, irModel, new IR_Only(), lambdaFlag, thetaFlag);
-        result_tarot.setAlgorithmName("IR-ONLY_TAROT");
-        resultMap.put(result_tarot.getAlgorithmName(), result_tarot);
-        try {
-            result_tarot.writeSimilarityMatrixToFile(project.getProjectPath(), project.getProjectName());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-
-        for (String resultName : resultMap.keySet()) {
-            Result result = resultMap.get(resultName);
-            double ApValue = result.getAveragePrecisionByRanklist();
-            String AP = String.format("%.2f", ApValue * 100);
-            double MapValue = result.getMeanAveragePrecisionByQuery();
-            String MAP = String.format("%.2f", MapValue * 100);
-
-            System.out.println(project.getProjectName()
-                    + "   " + irModel.getModelName()
-                    + "   " + resultName
-                    + "   " + "AP:" + AP
-                    + "   " + "MAP:" + MAP);
-
-            List<String> apAndMapList = new ArrayList<>();
-            apAndMapList.add(AP);
-            apAndMapList.add(MAP);
-        }
-
-        long endTime = System.currentTimeMillis();
-        System.out.println("time cost:" + (endTime - startTime) * 1.0 / 1000 / 60);
     }
 }

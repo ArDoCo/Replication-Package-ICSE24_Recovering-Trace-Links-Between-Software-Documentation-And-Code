@@ -3,6 +3,8 @@ package util;
 import document.SimilarityMatrix;
 import document.SingleLink;
 
+import java.io.File;
+
 public class ReadRtmUtil {
     public static SimilarityMatrix createSimilarityMatrix(String path) {
         SimilarityMatrix sims = new SimilarityMatrix();
@@ -14,7 +16,9 @@ public class ReadRtmUtil {
 
         for (int i = 0; i < lines.length; i++) {
             String[] tokens = lines[i].split(" ");
-            SingleLink link = new SingleLink(tokens[0].trim(), tokens[1].trim(), Double.valueOf(tokens[2].trim()));
+            String sentence = tokens[0].trim().replace(".txt:", "");
+            String code_artifact = tokens[1].trim().replace("/", "_sep_").replace(".", "_dot_");
+            SingleLink link = new SingleLink(sentence, code_artifact, 1.0);
             sims.addLink(link.getSourceArtifactId(), link.getTargetArtifactId(), link.getScore());
         }
         return sims;

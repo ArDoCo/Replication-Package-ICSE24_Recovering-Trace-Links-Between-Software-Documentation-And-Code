@@ -113,7 +113,8 @@ public class Result {
             headerLine[0] = "";
             int i = 1;
             for (String targetArtifactsId : this.matrix.targetArtifactsIds()) {
-                headerLine[i] = targetArtifactsId;
+                String fqn = targetArtifactsId.replace("_sep_", "/").replace("_dot_", ".");
+                headerLine[i] = fqn;
                 i++;
             }
             writer.writeNext(headerLine);

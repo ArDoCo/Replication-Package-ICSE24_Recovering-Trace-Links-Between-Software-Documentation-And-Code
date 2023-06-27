@@ -11,6 +11,8 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 
 public class JavaParse {
@@ -23,7 +25,9 @@ public class JavaParse {
         ArrayList<File> fileList = ClassUtil.getFileList(ClassUtil.srcPath,
                 ClassUtil.codeFileSuffix);
         for (File file : fileList) {
-            System.out.println(file.getName());
+            Path path = Paths.get(ClassUtil.srcPath);
+            Path relativized = path.relativize(file.toPath());
+            System.out.println(relativized);
             CompilationUnit comp = JdtAstUtil.getCompilationUnit(file.getPath());
             ClassASTVisitor visitor = new ClassASTVisitor();
             comp.accept(visitor);
@@ -35,7 +39,8 @@ public class JavaParse {
             classId++;
 
             String fileName = file.getName();
-            String fileMainName = fileName.substring(0, fileName.lastIndexOf("."));
+            //String fileMainName = fileName.substring(0, fileName.lastIndexOf("."));
+            String fileMainName = relativized.toString().replace(File.separator, "_sep_").replace(".","_dot_");
             File outputFile = new File(ClassUtil.classXmlDirectory, fileMainName + ".xml");
             try {
                 FileWriter fileWriter = new FileWriter(outputFile);

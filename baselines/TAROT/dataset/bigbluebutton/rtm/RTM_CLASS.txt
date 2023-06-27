@@ -1,1194 +1,1295 @@
-10 after-install 1.0
-10 after-remove 1.0
-10 before-install 1.0
-10 before-remove 1.0
-10 build 1.0
-10 deploy_to_usr_share 1.0
-10 kill_mongo 1.0
-10 mongod_start_pre 1.0
-10 opts-jammy 1.0
-10 run-dev 1.0
-10 run_mongo 1.0
-10 systemd_start 1.0
-10 systemd_start_frontend 1.0
-10 test-html5 1.0
-10 transifex 1.0
-10 workers-start 1.0
-11 after-install 1.0
-11 after-remove 1.0
-11 before-install 1.0
-11 before-remove 1.0
-11 build 1.0
-11 deploy_to_usr_share 1.0
-11 kill_mongo 1.0
-11 mongod_start_pre 1.0
-11 opts-jammy 1.0
-11 run-dev 1.0
-11 run_mongo 1.0
-11 systemd_start 1.0
-11 systemd_start_frontend 1.0
-11 test-html5 1.0
-11 transifex 1.0
-11 workers-start 1.0
-12 after-install 1.0
-12 after-remove 1.0
-12 before-install 1.0
-12 before-remove 1.0
-12 build 1.0
-12 deploy_to_usr_share 1.0
-12 kill_mongo 1.0
-12 mongod_start_pre 1.0
-12 opts-jammy 1.0
-12 run-dev 1.0
-12 run_mongo 1.0
-12 systemd_start 1.0
-12 systemd_start_frontend 1.0
-12 test-html5 1.0
-12 transifex 1.0
-12 workers-start 1.0
-13 after-install 1.0
-13 after-remove 1.0
-13 before-install 1.0
-13 before-remove 1.0
-13 build 1.0
-13 deploy_to_usr_share 1.0
-13 kill_mongo 1.0
-13 mongod_start_pre 1.0
-13 opts-jammy 1.0
-13 run-dev 1.0
-13 run_mongo 1.0
-13 systemd_start 1.0
-13 systemd_start_frontend 1.0
-13 test-html5 1.0
-13 transifex 1.0
-13 workers-start 1.0
-14 after-install 1.0
-14 after-remove 1.0
-14 before-install 1.0
-14 before-remove 1.0
-14 build 1.0
-14 deploy_to_usr_share 1.0
-14 kill_mongo 1.0
-14 mongod_start_pre 1.0
-14 opts-jammy 1.0
-14 run-dev 1.0
-14 run_mongo 1.0
-14 systemd_start 1.0
-14 systemd_start_frontend 1.0
-14 test-html5 1.0
-14 transifex 1.0
-14 workers-start 1.0
-15 after-install 1.0
-15 after-remove 1.0
-15 before-install 1.0
-15 before-remove 1.0
-15 build 1.0
-15 deploy_to_usr_share 1.0
-15 kill_mongo 1.0
-15 mongod_start_pre 1.0
-15 opts-jammy 1.0
-15 run-dev 1.0
-15 run_mongo 1.0
-15 systemd_start 1.0
-15 systemd_start_frontend 1.0
-15 test-html5 1.0
-15 transifex 1.0
-15 workers-start 1.0
-18 after-install 1.0
-18 after-remove 1.0
-18 before-install 1.0
-18 before-remove 1.0
-18 build 1.0
-18 deploy_to_usr_share 1.0
-18 kill_mongo 1.0
-18 mongod_start_pre 1.0
-18 opts-jammy 1.0
-18 run-dev 1.0
-18 run_mongo 1.0
-18 systemd_start 1.0
-18 systemd_start_frontend 1.0
-18 test-html5 1.0
-18 transifex 1.0
-18 workers-start 1.0
-25 Bezier 1.0
-25 BezierPath 1.0
-25 BezierPathIterator 1.0
-25 BezierWrapper 1.0
-25 build 1.0
-25 deploy 1.0
-25 Geom 1.0
-25 PathCommands 1.0
-25 PathData 1.0
-25 run 1.0
-25 run-dev 1.0
-25 Shapes 1.0
-25 Simple 1.0
-28 after-install 1.0
-28 before-install 1.0
-28 CallbackUrlService 1.0
-28 DelayCallback 1.0
-28 deploy_to_usr_share 1.0
-28 EnteredUserCleanupTimerTask 1.0
-28 ICallbackEvent 1.0
-28 IStorageService 1.0
-28 KeepAliveMessage 1.0
-28 KeepAlivePing 1.0
-28 KeepAlivePong 1.0
-28 KeepAliveService 1.0
-28 Main 1.0
-28 MeetingEndedEvent 1.0
-28 NullMessagingService 1.0
-28 opts-jammy 1.0
-28 ParamsProcessorUtilTest 1.0
-28 RemoteIceCandidate 1.0
-28 run-dev 1.0
-28 setenv 1.0
-28 StunServer 1.0
-28 StunTurnService 1.0
-28 TurnEntry 1.0
-28 TurnServer 1.0
-28 UserCleanupTimerTask 1.0
-28 WaitingGuestCleanupTimerTask 1.0
-34 after-install 1.0
-34 before-install 1.0
-34 CallbackUrlService 1.0
-34 DelayCallback 1.0
-34 deploy_to_usr_share 1.0
-34 EnteredUserCleanupTimerTask 1.0
-34 ICallbackEvent 1.0
-34 IStorageService 1.0
-34 KeepAliveMessage 1.0
-34 KeepAlivePing 1.0
-34 KeepAlivePong 1.0
-34 KeepAliveService 1.0
-34 Main 1.0
-34 MeetingEndedEvent 1.0
-34 NullMessagingService 1.0
-34 opts-jammy 1.0
-34 ParamsProcessorUtilTest 1.0
-34 RemoteIceCandidate 1.0
-34 run-dev 1.0
-34 setenv 1.0
-34 StunServer 1.0
-34 StunTurnService 1.0
-34 TurnEntry 1.0
-34 TurnServer 1.0
-34 UserCleanupTimerTask 1.0
-34 WaitingGuestCleanupTimerTask 1.0
-35 after-install 1.0
-35 before-install 1.0
-35 CallbackUrlService 1.0
-35 DelayCallback 1.0
-35 deploy_to_usr_share 1.0
-35 EnteredUserCleanupTimerTask 1.0
-35 ICallbackEvent 1.0
-35 IStorageService 1.0
-35 KeepAliveMessage 1.0
-35 KeepAlivePing 1.0
-35 KeepAlivePong 1.0
-35 KeepAliveService 1.0
-35 Main 1.0
-35 MeetingEndedEvent 1.0
-35 NullMessagingService 1.0
-35 opts-jammy 1.0
-35 ParamsProcessorUtilTest 1.0
-35 RemoteIceCandidate 1.0
-35 run-dev 1.0
-35 setenv 1.0
-35 StunServer 1.0
-35 StunTurnService 1.0
-35 TurnEntry 1.0
-35 TurnServer 1.0
-35 UserCleanupTimerTask 1.0
-35 WaitingGuestCleanupTimerTask 1.0
-37 after-install 1.0
-37 after-remove 1.0
-37 before-install 1.0
-37 before-remove 1.0
-37 build 1.0
-37 deploy_to_usr_share 1.0
-37 kill_mongo 1.0
-37 mongod_start_pre 1.0
-37 opts-jammy 1.0
-37 run-dev 1.0
-37 run_mongo 1.0
-37 systemd_start 1.0
-37 systemd_start_frontend 1.0
-37 test-html5 1.0
-37 transifex 1.0
-37 workers-start 1.0
-44 MessageDistributor 1.0
-44 MessageHandler 1.0
-44 MessageReceiver 1.0
-44 MessageSender 1.0
-44 MessageToSend 1.0
-44 ReceivedMessage 1.0
-44 ReceivedMessageHandler 1.0
-45 after-install 1.0
-45 after-remove 1.0
-45 before-install 1.0
-45 before-remove 1.0
-45 build 1.0
-45 deploy_to_usr_share 1.0
-45 kill_mongo 1.0
-45 MessageDistributor 1.0
-45 MessageHandler 1.0
-45 MessageReceiver 1.0
-45 MessageSender 1.0
-45 MessageToSend 1.0
-45 mongod_start_pre 1.0
-45 opts-jammy 1.0
-45 ReceivedMessage 1.0
-45 ReceivedMessageHandler 1.0
-45 run-dev 1.0
-45 run_mongo 1.0
-45 systemd_start 1.0
-45 systemd_start_frontend 1.0
-45 test-html5 1.0
-45 transifex 1.0
-45 workers-start 1.0
-46 Keys 1.0
-46 RedisAwareCommunicator 1.0
-46 RedisStorageService 1.0
-47 Keys 1.0
-47 RedisAwareCommunicator 1.0
-47 RedisStorageService 1.0
-49 Bezier 1.0
-49 BezierPath 1.0
-49 BezierPathIterator 1.0
-49 BezierWrapper 1.0
-49 build 1.0
-49 deploy 1.0
-49 Geom 1.0
-49 PathCommands 1.0
-49 PathData 1.0
-49 run 1.0
-49 run-dev 1.0
-49 Shapes 1.0
-49 Simple 1.0
-4 after-install 1.0
-4 after-remove 1.0
-4 before-install 1.0
-4 before-remove 1.0
-4 build 1.0
-4 deploy_to_usr_share 1.0
-4 kill_mongo 1.0
-4 mongod_start_pre 1.0
-4 opts-jammy 1.0
-4 run-dev 1.0
-4 run_mongo 1.0
-4 systemd_start 1.0
-4 systemd_start_frontend 1.0
-4 test-html5 1.0
-4 transifex 1.0
-4 workers-start 1.0
-50 Bezier 1.0
-50 BezierPath 1.0
-50 BezierPathIterator 1.0
-50 BezierWrapper 1.0
-50 build 1.0
-50 deploy 1.0
-50 Geom 1.0
-50 PathCommands 1.0
-50 PathData 1.0
-50 run 1.0
-50 run-dev 1.0
-50 Shapes 1.0
-50 Simple 1.0
-52 Bezier 1.0
-52 BezierPath 1.0
-52 BezierPathIterator 1.0
-52 BezierWrapper 1.0
-52 build 1.0
-52 deploy 1.0
-52 Geom 1.0
-52 PathCommands 1.0
-52 PathData 1.0
-52 run 1.0
-52 run-dev 1.0
-52 Shapes 1.0
-52 Simple 1.0
-55 AbstractEslClientHandler 1.0
-55 AbstractOutboundClientHandler 1.0
-55 AbstractOutboundPipelineFactory 1.0
-55 after-install 1.0
-55 after-remove 1.0
-55 AudioFloorChangedEvent 1.0
-55 before-install 1.0
-55 before-remove 1.0
-55 BroadcastConferenceCommand 1.0
-55 ChannelEventRunnable 1.0
-55 CheckFreeswitchStatusCommand 1.0
-55 CheckIfConfIsRunningCommand 1.0
-55 Client 1.0
-55 ClientTest 1.0
-55 CommandResponse 1.0
-55 ConferenceCheckRecordCommand 1.0
-55 ConferenceCommand 1.0
-55 ConferenceCommandResult 1.0
-55 ConferenceEventListener 1.0
-55 ConferenceMember 1.0
-55 ConferenceMemberFlags 1.0
-55 ConferenceServerListener 1.0
-55 ConfMember 1.0
-55 ConfRecording 1.0
-55 ConnectionManager 1.0
-55 DeafUserCommand 1.0
-55 DefaultManagerConnection 1.0
-55 DelayedCommand 1.0
-55 DelayedCommandSenderService 1.0
-55 deploy 1.0
-55 EjectAllUsersCommand 1.0
-55 EslEvent 1.0
-55 EslEventHeaderNames 1.0
-55 EslEventListener 1.0
-55 ESLEventListener 1.0
-55 EslFrameDecoder 1.0
-55 EslFrameDecoderTest 1.0
-55 EslHeaders 1.0
-55 EslMessage 1.0
-55 ExampleClient 1.0
-55 ExecutionHandler 1.0
-55 ForceEjectUserCommand 1.0
-55 FreeswitchApplication 1.0
-55 FreeswitchCommand 1.0
-55 FreeswitchConferenceEventListener 1.0
-55 FreeswitchHeartbeatEvent 1.0
-55 freeswitch.placeholder 1.0
-55 FreeswitchStatusReplyEvent 1.0
-55 GetAllUsersCommand 1.0
-55 GetUsersCommand 1.0
-55 GetUsersStatusCommand 1.0
-55 HeaderParser 1.0
-55 HeartbeatThread 1.0
-55 HoldUserCommand 1.0
-55 IDelayedCommandListener 1.0
-55 IEslEventListener 1.0
-55 IEslProtocolListener 1.0
-55 InboundClientHandler 1.0
-55 InboundConnectionFailure 1.0
-55 InboundPipelineFactory 1.0
-55 IVoiceConferenceService 1.0
-55 ManagerConnection 1.0
-55 ManagerConnectionImpl 1.0
-55 PlaySoundCommand 1.0
-55 RecordCommand 1.0
-55 RecordConferenceCommand 1.0
-55 run 1.0
-55 run-dev 1.0
-55 SendMsg 1.0
-55 SimpleHangupOutboundHandler 1.0
-55 SimpleHangupPipelineFactory 1.0
-55 SocketClient 1.0
-55 SocketClientTest 1.0
-55 StopSoundCommand 1.0
-55 TransferUserToMeetingCommand 1.0
-55 UnknownConferenceEvent 1.0
-55 VoiceCallStateEvent 1.0
-55 VoiceConferenceEvent 1.0
-55 VoiceConfRunningAndRecordingEvent 1.0
-55 VoiceConfRunningEvent 1.0
-55 VoiceStartRecordingEvent 1.0
-55 VoiceUserJoinedEvent 1.0
-55 VoiceUserLeftEvent 1.0
-55 VoiceUserLockedEvent 1.0
-55 VoiceUserMutedEvent 1.0
-55 VoiceUsersStatusEvent 1.0
-55 VoiceUserTalkingEvent 1.0
-55 wait-for-it 1.0
-55 XMLResponseConferenceListParser 1.0
-56 AbstractEslClientHandler 1.0
-56 AbstractOutboundClientHandler 1.0
-56 AbstractOutboundPipelineFactory 1.0
-56 after-install 1.0
-56 after-remove 1.0
-56 AudioFloorChangedEvent 1.0
-56 before-install 1.0
-56 before-remove 1.0
-56 BroadcastConferenceCommand 1.0
-56 ChannelEventRunnable 1.0
-56 CheckFreeswitchStatusCommand 1.0
-56 CheckIfConfIsRunningCommand 1.0
-56 Client 1.0
-56 ClientTest 1.0
-56 CommandResponse 1.0
-56 ConferenceCheckRecordCommand 1.0
-56 ConferenceCommand 1.0
-56 ConferenceCommandResult 1.0
-56 ConferenceEventListener 1.0
-56 ConferenceMember 1.0
-56 ConferenceMemberFlags 1.0
-56 ConferenceServerListener 1.0
-56 ConfMember 1.0
-56 ConfRecording 1.0
-56 ConnectionManager 1.0
-56 DeafUserCommand 1.0
-56 DefaultManagerConnection 1.0
-56 DelayedCommand 1.0
-56 DelayedCommandSenderService 1.0
-56 EjectAllUsersCommand 1.0
-56 EslEvent 1.0
-56 EslEventHeaderNames 1.0
-56 EslEventListener 1.0
-56 ESLEventListener 1.0
-56 EslFrameDecoder 1.0
-56 EslFrameDecoderTest 1.0
-56 EslHeaders 1.0
-56 EslMessage 1.0
-56 ExampleClient 1.0
-56 ExecutionHandler 1.0
-56 ForceEjectUserCommand 1.0
-56 FreeswitchApplication 1.0
-56 FreeswitchCommand 1.0
-56 FreeswitchConferenceEventListener 1.0
-56 FreeswitchHeartbeatEvent 1.0
-56 freeswitch.placeholder 1.0
-56 FreeswitchStatusReplyEvent 1.0
-56 GetAllUsersCommand 1.0
-56 GetUsersCommand 1.0
-56 GetUsersStatusCommand 1.0
-56 HeaderParser 1.0
-56 HeartbeatThread 1.0
-56 HoldUserCommand 1.0
-56 IDelayedCommandListener 1.0
-56 IEslEventListener 1.0
-56 IEslProtocolListener 1.0
-56 InboundClientHandler 1.0
-56 InboundConnectionFailure 1.0
-56 InboundPipelineFactory 1.0
-56 IVoiceConferenceService 1.0
-56 ManagerConnection 1.0
-56 ManagerConnectionImpl 1.0
-56 PlaySoundCommand 1.0
-56 RecordCommand 1.0
-56 RecordConferenceCommand 1.0
-56 SendMsg 1.0
-56 SimpleHangupOutboundHandler 1.0
-56 SimpleHangupPipelineFactory 1.0
-56 SocketClient 1.0
-56 SocketClientTest 1.0
-56 StopSoundCommand 1.0
-56 TransferUserToMeetingCommand 1.0
-56 UnknownConferenceEvent 1.0
-56 VoiceCallStateEvent 1.0
-56 VoiceConferenceEvent 1.0
-56 VoiceConfRunningAndRecordingEvent 1.0
-56 VoiceConfRunningEvent 1.0
-56 VoiceStartRecordingEvent 1.0
-56 VoiceUserJoinedEvent 1.0
-56 VoiceUserLeftEvent 1.0
-56 VoiceUserLockedEvent 1.0
-56 VoiceUserMutedEvent 1.0
-56 VoiceUsersStatusEvent 1.0
-56 VoiceUserTalkingEvent 1.0
-56 XMLResponseConferenceListParser 1.0
-58 AbstractEslClientHandler 1.0
-58 AbstractOutboundClientHandler 1.0
-58 AbstractOutboundPipelineFactory 1.0
-58 AudioFloorChangedEvent 1.0
-58 Bezier 1.0
-58 BezierPath 1.0
-58 BezierPathIterator 1.0
-58 BezierWrapper 1.0
-58 BroadcastConferenceCommand 1.0
-58 ChannelEventRunnable 1.0
-58 CheckFreeswitchStatusCommand 1.0
-58 CheckIfConfIsRunningCommand 1.0
-58 Client 1.0
-58 ClientTest 1.0
-58 CommandResponse 1.0
-58 ConferenceCheckRecordCommand 1.0
-58 ConferenceCommand 1.0
-58 ConferenceCommandResult 1.0
-58 ConferenceEventListener 1.0
-58 ConferenceMember 1.0
-58 ConferenceMemberFlags 1.0
-58 ConferenceServerListener 1.0
-58 ConfMember 1.0
-58 ConfRecording 1.0
-58 ConnectionManager 1.0
-58 DeafUserCommand 1.0
-58 DefaultManagerConnection 1.0
-58 DelayedCommand 1.0
-58 DelayedCommandSenderService 1.0
-58 EjectAllUsersCommand 1.0
-58 EslEvent 1.0
-58 EslEventHeaderNames 1.0
-58 EslEventListener 1.0
-58 ESLEventListener 1.0
-58 EslFrameDecoder 1.0
-58 EslFrameDecoderTest 1.0
-58 EslHeaders 1.0
-58 EslMessage 1.0
-58 ExampleClient 1.0
-58 ExecutionHandler 1.0
-58 ForceEjectUserCommand 1.0
-58 FreeswitchApplication 1.0
-58 FreeswitchCommand 1.0
-58 FreeswitchConferenceEventListener 1.0
-58 FreeswitchHeartbeatEvent 1.0
-58 FreeswitchStatusReplyEvent 1.0
-58 Geom 1.0
-58 GetAllUsersCommand 1.0
-58 GetUsersCommand 1.0
-58 GetUsersStatusCommand 1.0
-58 HeaderParser 1.0
-58 HeartbeatThread 1.0
-58 HoldUserCommand 1.0
-58 IDelayedCommandListener 1.0
-58 IEslEventListener 1.0
-58 IEslProtocolListener 1.0
-58 InboundClientHandler 1.0
-58 InboundConnectionFailure 1.0
-58 InboundPipelineFactory 1.0
-58 IVoiceConferenceService 1.0
-58 ManagerConnection 1.0
-58 ManagerConnectionImpl 1.0
-58 MessageDistributor 1.0
-58 MessageHandler 1.0
-58 MessageReceiver 1.0
-58 MessageSender 1.0
-58 MessageToSend 1.0
-58 PathCommands 1.0
-58 PathData 1.0
-58 PlaySoundCommand 1.0
-58 ReceivedMessage 1.0
-58 ReceivedMessageHandler 1.0
-58 RecordCommand 1.0
-58 RecordConferenceCommand 1.0
-58 SendMsg 1.0
-58 Shapes 1.0
-58 Simple 1.0
-58 SimpleHangupOutboundHandler 1.0
-58 SimpleHangupPipelineFactory 1.0
-58 SocketClient 1.0
-58 SocketClientTest 1.0
-58 StopSoundCommand 1.0
-58 TransferUserToMeetingCommand 1.0
-58 UnknownConferenceEvent 1.0
-58 VoiceCallStateEvent 1.0
-58 VoiceConferenceEvent 1.0
-58 VoiceConfRunningAndRecordingEvent 1.0
-58 VoiceConfRunningEvent 1.0
-58 VoiceStartRecordingEvent 1.0
-58 VoiceUserJoinedEvent 1.0
-58 VoiceUserLeftEvent 1.0
-58 VoiceUserLockedEvent 1.0
-58 VoiceUserMutedEvent 1.0
-58 VoiceUsersStatusEvent 1.0
-58 VoiceUserTalkingEvent 1.0
-58 wait-for-it 1.0
-58 XMLResponseConferenceListParser 1.0
-59 AbstractEslClientHandler 1.0
-59 AbstractOutboundClientHandler 1.0
-59 AbstractOutboundPipelineFactory 1.0
-59 after-install 1.0
-59 after-remove 1.0
-59 AudioFloorChangedEvent 1.0
-59 before-install 1.0
-59 before-remove 1.0
-59 BroadcastConferenceCommand 1.0
-59 ChannelEventRunnable 1.0
-59 CheckFreeswitchStatusCommand 1.0
-59 CheckIfConfIsRunningCommand 1.0
-59 Client 1.0
-59 ClientTest 1.0
-59 CommandResponse 1.0
-59 ConferenceCheckRecordCommand 1.0
-59 ConferenceCommand 1.0
-59 ConferenceCommandResult 1.0
-59 ConferenceEventListener 1.0
-59 ConferenceMember 1.0
-59 ConferenceMemberFlags 1.0
-59 ConferenceServerListener 1.0
-59 ConfMember 1.0
-59 ConfRecording 1.0
-59 ConnectionManager 1.0
-59 DeafUserCommand 1.0
-59 DefaultManagerConnection 1.0
-59 DelayedCommand 1.0
-59 DelayedCommandSenderService 1.0
-59 EjectAllUsersCommand 1.0
-59 EslEvent 1.0
-59 EslEventHeaderNames 1.0
-59 EslEventListener 1.0
-59 ESLEventListener 1.0
-59 EslFrameDecoder 1.0
-59 EslFrameDecoderTest 1.0
-59 EslHeaders 1.0
-59 EslMessage 1.0
-59 ExampleClient 1.0
-59 ExecutionHandler 1.0
-59 ForceEjectUserCommand 1.0
-59 FreeswitchApplication 1.0
-59 FreeswitchCommand 1.0
-59 FreeswitchConferenceEventListener 1.0
-59 FreeswitchHeartbeatEvent 1.0
-59 freeswitch.placeholder 1.0
-59 FreeswitchStatusReplyEvent 1.0
-59 GetAllUsersCommand 1.0
-59 GetUsersCommand 1.0
-59 GetUsersStatusCommand 1.0
-59 HeaderParser 1.0
-59 HeartbeatThread 1.0
-59 HoldUserCommand 1.0
-59 IDelayedCommandListener 1.0
-59 IEslEventListener 1.0
-59 IEslProtocolListener 1.0
-59 InboundClientHandler 1.0
-59 InboundConnectionFailure 1.0
-59 InboundPipelineFactory 1.0
-59 IVoiceConferenceService 1.0
-59 ManagerConnection 1.0
-59 ManagerConnectionImpl 1.0
-59 PlaySoundCommand 1.0
-59 RecordCommand 1.0
-59 RecordConferenceCommand 1.0
-59 SendMsg 1.0
-59 SimpleHangupOutboundHandler 1.0
-59 SimpleHangupPipelineFactory 1.0
-59 SocketClient 1.0
-59 SocketClientTest 1.0
-59 StopSoundCommand 1.0
-59 TransferUserToMeetingCommand 1.0
-59 UnknownConferenceEvent 1.0
-59 VoiceCallStateEvent 1.0
-59 VoiceConferenceEvent 1.0
-59 VoiceConfRunningAndRecordingEvent 1.0
-59 VoiceConfRunningEvent 1.0
-59 VoiceStartRecordingEvent 1.0
-59 VoiceUserJoinedEvent 1.0
-59 VoiceUserLeftEvent 1.0
-59 VoiceUserLockedEvent 1.0
-59 VoiceUserMutedEvent 1.0
-59 VoiceUsersStatusEvent 1.0
-59 VoiceUserTalkingEvent 1.0
-59 XMLResponseConferenceListParser 1.0
-5 after-install 1.0
-5 after-remove 1.0
-5 before-install 1.0
-5 before-remove 1.0
-5 build 1.0
-5 deploy_to_usr_share 1.0
-5 kill_mongo 1.0
-5 mongod_start_pre 1.0
-5 opts-jammy 1.0
-5 run-dev 1.0
-5 run_mongo 1.0
-5 systemd_start 1.0
-5 systemd_start_frontend 1.0
-5 test-html5 1.0
-5 transifex 1.0
-5 workers-start 1.0
-61 AbstractEslClientHandler 1.0
-61 AbstractOutboundClientHandler 1.0
-61 AbstractOutboundPipelineFactory 1.0
-61 after-install 1.0
-61 after-remove 1.0
-61 AudioFloorChangedEvent 1.0
-61 before-install 1.0
-61 before-remove 1.0
-61 BroadcastConferenceCommand 1.0
-61 ChannelEventRunnable 1.0
-61 CheckFreeswitchStatusCommand 1.0
-61 CheckIfConfIsRunningCommand 1.0
-61 Client 1.0
-61 ClientTest 1.0
-61 CommandResponse 1.0
-61 ConferenceCheckRecordCommand 1.0
-61 ConferenceCommand 1.0
-61 ConferenceCommandResult 1.0
-61 ConferenceEventListener 1.0
-61 ConferenceMember 1.0
-61 ConferenceMemberFlags 1.0
-61 ConferenceServerListener 1.0
-61 ConfMember 1.0
-61 ConfRecording 1.0
-61 ConnectionManager 1.0
-61 DeafUserCommand 1.0
-61 DefaultManagerConnection 1.0
-61 DelayedCommand 1.0
-61 DelayedCommandSenderService 1.0
-61 EjectAllUsersCommand 1.0
-61 EslEvent 1.0
-61 EslEventHeaderNames 1.0
-61 EslEventListener 1.0
-61 ESLEventListener 1.0
-61 EslFrameDecoder 1.0
-61 EslFrameDecoderTest 1.0
-61 EslHeaders 1.0
-61 EslMessage 1.0
-61 ExampleClient 1.0
-61 ExecutionHandler 1.0
-61 ForceEjectUserCommand 1.0
-61 FreeswitchApplication 1.0
-61 FreeswitchCommand 1.0
-61 FreeswitchConferenceEventListener 1.0
-61 FreeswitchHeartbeatEvent 1.0
-61 freeswitch.placeholder 1.0
-61 FreeswitchStatusReplyEvent 1.0
-61 GetAllUsersCommand 1.0
-61 GetUsersCommand 1.0
-61 GetUsersStatusCommand 1.0
-61 HeaderParser 1.0
-61 HeartbeatThread 1.0
-61 HoldUserCommand 1.0
-61 IDelayedCommandListener 1.0
-61 IEslEventListener 1.0
-61 IEslProtocolListener 1.0
-61 InboundClientHandler 1.0
-61 InboundConnectionFailure 1.0
-61 InboundPipelineFactory 1.0
-61 IVoiceConferenceService 1.0
-61 ManagerConnection 1.0
-61 ManagerConnectionImpl 1.0
-61 PlaySoundCommand 1.0
-61 RecordCommand 1.0
-61 RecordConferenceCommand 1.0
-61 SendMsg 1.0
-61 SimpleHangupOutboundHandler 1.0
-61 SimpleHangupPipelineFactory 1.0
-61 SocketClient 1.0
-61 SocketClientTest 1.0
-61 StopSoundCommand 1.0
-61 TransferUserToMeetingCommand 1.0
-61 UnknownConferenceEvent 1.0
-61 VoiceCallStateEvent 1.0
-61 VoiceConferenceEvent 1.0
-61 VoiceConfRunningAndRecordingEvent 1.0
-61 VoiceConfRunningEvent 1.0
-61 VoiceStartRecordingEvent 1.0
-61 VoiceUserJoinedEvent 1.0
-61 VoiceUserLeftEvent 1.0
-61 VoiceUserLockedEvent 1.0
-61 VoiceUserMutedEvent 1.0
-61 VoiceUsersStatusEvent 1.0
-61 VoiceUserTalkingEvent 1.0
-61 XMLResponseConferenceListParser 1.0
-63 after-install 1.0
-63 bbb-webrtc-sfu.placeholder 1.0
-63 before-install 1.0
-63 before-remove 1.0
-63 build 1.0
-63 opts-jammy 1.0
-64 AbstractEslClientHandler 1.0
-64 AbstractOutboundClientHandler 1.0
-64 AbstractOutboundPipelineFactory 1.0
-64 after-install 1.0
-64 after-remove 1.0
-64 AudioFloorChangedEvent 1.0
-64 before-install 1.0
-64 before-remove 1.0
-64 BroadcastConferenceCommand 1.0
-64 ChannelEventRunnable 1.0
-64 CheckFreeswitchStatusCommand 1.0
-64 CheckIfConfIsRunningCommand 1.0
-64 Client 1.0
-64 ClientTest 1.0
-64 CommandResponse 1.0
-64 ConferenceCheckRecordCommand 1.0
-64 ConferenceCommand 1.0
-64 ConferenceCommandResult 1.0
-64 ConferenceEventListener 1.0
-64 ConferenceMember 1.0
-64 ConferenceMemberFlags 1.0
-64 ConferenceServerListener 1.0
-64 ConfMember 1.0
-64 ConfRecording 1.0
-64 ConnectionManager 1.0
-64 DeafUserCommand 1.0
-64 DefaultManagerConnection 1.0
-64 DelayedCommand 1.0
-64 DelayedCommandSenderService 1.0
-64 EjectAllUsersCommand 1.0
-64 EslEvent 1.0
-64 EslEventHeaderNames 1.0
-64 EslEventListener 1.0
-64 ESLEventListener 1.0
-64 EslFrameDecoder 1.0
-64 EslFrameDecoderTest 1.0
-64 EslHeaders 1.0
-64 EslMessage 1.0
-64 ExampleClient 1.0
-64 ExecutionHandler 1.0
-64 ForceEjectUserCommand 1.0
-64 FreeswitchApplication 1.0
-64 FreeswitchCommand 1.0
-64 FreeswitchConferenceEventListener 1.0
-64 FreeswitchHeartbeatEvent 1.0
-64 freeswitch.placeholder 1.0
-64 FreeswitchStatusReplyEvent 1.0
-64 GetAllUsersCommand 1.0
-64 GetUsersCommand 1.0
-64 GetUsersStatusCommand 1.0
-64 HeaderParser 1.0
-64 HeartbeatThread 1.0
-64 HoldUserCommand 1.0
-64 IDelayedCommandListener 1.0
-64 IEslEventListener 1.0
-64 IEslProtocolListener 1.0
-64 InboundClientHandler 1.0
-64 InboundConnectionFailure 1.0
-64 InboundPipelineFactory 1.0
-64 IVoiceConferenceService 1.0
-64 ManagerConnection 1.0
-64 ManagerConnectionImpl 1.0
-64 PlaySoundCommand 1.0
-64 RecordCommand 1.0
-64 RecordConferenceCommand 1.0
-64 SendMsg 1.0
-64 SimpleHangupOutboundHandler 1.0
-64 SimpleHangupPipelineFactory 1.0
-64 SocketClient 1.0
-64 SocketClientTest 1.0
-64 StopSoundCommand 1.0
-64 TransferUserToMeetingCommand 1.0
-64 UnknownConferenceEvent 1.0
-64 VoiceCallStateEvent 1.0
-64 VoiceConferenceEvent 1.0
-64 VoiceConfRunningAndRecordingEvent 1.0
-64 VoiceConfRunningEvent 1.0
-64 VoiceStartRecordingEvent 1.0
-64 VoiceUserJoinedEvent 1.0
-64 VoiceUserLeftEvent 1.0
-64 VoiceUserLockedEvent 1.0
-64 VoiceUserMutedEvent 1.0
-64 VoiceUsersStatusEvent 1.0
-64 VoiceUserTalkingEvent 1.0
-64 XMLResponseConferenceListParser 1.0
-65 after-install 1.0
-65 bbb-webrtc-sfu.placeholder 1.0
-65 before-install 1.0
-65 before-remove 1.0
-65 build 1.0
-65 opts-jammy 1.0
-68 after-install 1.0
-68 bbb-webrtc-sfu.placeholder 1.0
-68 before-install 1.0
-68 before-remove 1.0
-68 build 1.0
-68 opts-jammy 1.0
-6 after-install 1.0
-6 after-remove 1.0
-6 before-install 1.0
-6 before-remove 1.0
-6 build 1.0
-6 deploy_to_usr_share 1.0
-6 kill_mongo 1.0
-6 mongod_start_pre 1.0
-6 opts-jammy 1.0
-6 run-dev 1.0
-6 run_mongo 1.0
-6 systemd_start 1.0
-6 systemd_start_frontend 1.0
-6 test-html5 1.0
-6 transifex 1.0
-6 workers-start 1.0
-70 AbstractEslClientHandler 1.0
-70 AbstractOutboundClientHandler 1.0
-70 AbstractOutboundPipelineFactory 1.0
-70 AudioFloorChangedEvent 1.0
-70 BroadcastConferenceCommand 1.0
-70 ChannelEventRunnable 1.0
-70 CheckFreeswitchStatusCommand 1.0
-70 CheckIfConfIsRunningCommand 1.0
-70 Client 1.0
-70 ClientTest 1.0
-70 CommandResponse 1.0
-70 ConferenceCheckRecordCommand 1.0
-70 ConferenceCommand 1.0
-70 ConferenceCommandResult 1.0
-70 ConferenceEventListener 1.0
-70 ConferenceMember 1.0
-70 ConferenceMemberFlags 1.0
-70 ConferenceServerListener 1.0
-70 ConfMember 1.0
-70 ConfRecording 1.0
-70 ConnectionManager 1.0
-70 DeafUserCommand 1.0
-70 DefaultManagerConnection 1.0
-70 DelayedCommand 1.0
-70 DelayedCommandSenderService 1.0
-70 deploy_to_usr_share 1.0
-70 EjectAllUsersCommand 1.0
-70 EslEvent 1.0
-70 EslEventHeaderNames 1.0
-70 EslEventListener 1.0
-70 ESLEventListener 1.0
-70 EslFrameDecoder 1.0
-70 EslFrameDecoderTest 1.0
-70 EslHeaders 1.0
-70 EslMessage 1.0
-70 ExampleClient 1.0
-70 ExecutionHandler 1.0
-70 ForceEjectUserCommand 1.0
-70 FreeswitchApplication 1.0
-70 FreeswitchCommand 1.0
-70 FreeswitchConferenceEventListener 1.0
-70 FreeswitchHeartbeatEvent 1.0
-70 freeswitch.placeholder 1.0
-70 FreeswitchStatusReplyEvent 1.0
-70 GetAllUsersCommand 1.0
-70 GetUsersCommand 1.0
-70 GetUsersStatusCommand 1.0
-70 HeaderParser 1.0
-70 HeartbeatThread 1.0
-70 HoldUserCommand 1.0
-70 IDelayedCommandListener 1.0
-70 IEslEventListener 1.0
-70 IEslProtocolListener 1.0
-70 InboundClientHandler 1.0
-70 InboundConnectionFailure 1.0
-70 InboundPipelineFactory 1.0
-70 IVoiceConferenceService 1.0
-70 kill_mongo 1.0
-70 ManagerConnection 1.0
-70 ManagerConnectionImpl 1.0
-70 mongod_start_pre 1.0
-70 PlaySoundCommand 1.0
-70 RecordCommand 1.0
-70 RecordConferenceCommand 1.0
-70 run-dev 1.0
-70 run_mongo 1.0
-70 SendMsg 1.0
-70 SimpleHangupOutboundHandler 1.0
-70 SimpleHangupPipelineFactory 1.0
-70 SocketClient 1.0
-70 SocketClientTest 1.0
-70 StopSoundCommand 1.0
-70 systemd_start 1.0
-70 systemd_start_frontend 1.0
-70 test-html5 1.0
-70 TransferUserToMeetingCommand 1.0
-70 transifex 1.0
-70 UnknownConferenceEvent 1.0
-70 VoiceCallStateEvent 1.0
-70 VoiceConferenceEvent 1.0
-70 VoiceConfRunningAndRecordingEvent 1.0
-70 VoiceConfRunningEvent 1.0
-70 VoiceStartRecordingEvent 1.0
-70 VoiceUserJoinedEvent 1.0
-70 VoiceUserLeftEvent 1.0
-70 VoiceUserLockedEvent 1.0
-70 VoiceUserMutedEvent 1.0
-70 VoiceUsersStatusEvent 1.0
-70 VoiceUserTalkingEvent 1.0
-70 workers-start 1.0
-70 XMLResponseConferenceListParser 1.0
-71 after-remove 1.0
-71 bbb-webrtc-sfu.placeholder 1.0
-71 deploy_to_usr_share 1.0
-71 kill_mongo 1.0
-71 mongod_start_pre 1.0
-71 run-dev 1.0
-71 run_mongo 1.0
-71 systemd_start 1.0
-71 systemd_start_frontend 1.0
-71 test-html5 1.0
-71 transifex 1.0
-71 workers-start 1.0
-76 after-install 1.0
-76 before-install 1.0
-76 CallbackUrlService 1.0
-76 DelayCallback 1.0
-76 deploy_to_usr_share 1.0
-76 EnteredUserCleanupTimerTask 1.0
-76 ICallbackEvent 1.0
-76 IStorageService 1.0
-76 KeepAliveMessage 1.0
-76 KeepAlivePing 1.0
-76 KeepAlivePong 1.0
-76 KeepAliveService 1.0
-76 Main 1.0
-76 MeetingEndedEvent 1.0
-76 NullMessagingService 1.0
-76 opts-jammy 1.0
-76 ParamsProcessorUtilTest 1.0
-76 RemoteIceCandidate 1.0
-76 run-dev 1.0
-76 setenv 1.0
-76 StunServer 1.0
-76 StunTurnService 1.0
-76 TurnEntry 1.0
-76 TurnServer 1.0
-76 UserCleanupTimerTask 1.0
-76 WaitingGuestCleanupTimerTask 1.0
-77 MessageDistributor 1.0
-77 MessageHandler 1.0
-77 MessageReceiver 1.0
-77 MessageSender 1.0
-77 MessageToSend 1.0
-77 ReceivedMessage 1.0
-77 ReceivedMessageHandler 1.0
-78 AbstractCommandHandler 1.0
-78 AddNamespaceToSvgHandler 1.0
-78 BigPdfException 1.0
-78 ConversionMessageConstants 1.0
-78 ConversionUpdateMessage 1.0
-78 CountingPageException 1.0
-78 DocConversionProgress 1.0
-78 DocConversionRequestReceived 1.0
-78 DocInvalidMimeType 1.0
-78 DocPageCompletedProgress 1.0
-78 DocPageConversionStarted 1.0
-78 DocPageCountExceeded 1.0
-78 DocPageCountFailed 1.0
-78 DocPageGeneratedProgress 1.0
-78 DocumentConversionService 1.0
-78 DocumentConversionServiceImp 1.0
-78 ExternalProcessExecutor 1.0
-78 FileTypeConstants 1.0
-78 GeneratedSlidesInfoHelper 1.0
-78 IDocConversionMsg 1.0
-78 ImageResizer 1.0
-78 ImageResizerHandler 1.0
-78 ImageResizerImp 1.0
-78 ImageSlidesGenerationService 1.0
-78 IPresentationCompletionMessage 1.0
-78 MimeTypeUtils 1.0
-78 Office2PdfConverterHandler 1.0
-78 Office2PdfPageConverter 1.0
-78 OfficeDocumentValidator 1.0
-78 OfficeDocumentValidator2 1.0
-78 OfficeToPdfConversionService 1.0
-78 OfficeToPdfConversionSuccessFilter 1.0
-78 Page 1.0
-78 PageAnalyser 1.0
-78 PageConverter 1.0
-78 PageConvertProgressMessage 1.0
-78 PageCounter 1.0
-78 PageCounterService 1.0
-78 PageExtractor 1.0
-78 PageExtractorImp 1.0
-78 PageToConvert 1.0
-78 Pdf2PngPageConverterHandler 1.0
-78 PdfConversionInvalid 1.0
-78 PdfFontType3DetectorHandler 1.0
-78 PdfPageCounter 1.0
-78 PdfPageCounterHandler 1.0
-78 PdfPageDownscaler 1.0
-78 PdfSlidesGenerationService 1.0
-78 Png2SvgConversionHandler 1.0
-78 PngCreator 1.0
-78 PngCreatorImp 1.0
-78 PresentationConversionCompletionService 1.0
-78 PresentationConvertMessage 1.0
-78 PresentationFileProcessor 1.0
-78 PresentationToConvert 1.0
-78 PresentationUrlDownloadService 1.0
-78 SlidesGenerationProgressNotifier 1.0
-78 SupportedDocumentFilter 1.0
-78 SupportedFileTypes 1.0
-78 SvgConversionHandler 1.0
-78 SvgImageCreator 1.0
-78 SvgImageCreatorImp 1.0
-78 TextFileCreator 1.0
-78 TextFileCreatorImp 1.0
-78 ThumbnailCreator 1.0
-78 ThumbnailCreatorImp 1.0
-78 UploadedPresentation 1.0
-78 UploadFileTimedoutMessage 1.0
-78 UploadFileTooLargeMessage 1.0
-78 Util 1.0
-79 AbstractCommandHandler 1.0
-79 AddNamespaceToSvgHandler 1.0
-79 BigPdfException 1.0
-79 ConversionMessageConstants 1.0
-79 ConversionUpdateMessage 1.0
-79 CountingPageException 1.0
-79 DocConversionProgress 1.0
-79 DocConversionRequestReceived 1.0
-79 DocInvalidMimeType 1.0
-79 DocPageCompletedProgress 1.0
-79 DocPageConversionStarted 1.0
-79 DocPageCountExceeded 1.0
-79 DocPageCountFailed 1.0
-79 DocPageGeneratedProgress 1.0
-79 DocumentConversionService 1.0
-79 DocumentConversionServiceImp 1.0
-79 ExternalProcessExecutor 1.0
-79 FileTypeConstants 1.0
-79 GeneratedSlidesInfoHelper 1.0
-79 IDocConversionMsg 1.0
-79 ImageResizer 1.0
-79 ImageResizerHandler 1.0
-79 ImageResizerImp 1.0
-79 ImageSlidesGenerationService 1.0
-79 IPresentationCompletionMessage 1.0
-79 MimeTypeUtils 1.0
-79 Office2PdfConverterHandler 1.0
-79 Office2PdfPageConverter 1.0
-79 OfficeDocumentValidator 1.0
-79 OfficeDocumentValidator2 1.0
-79 OfficeToPdfConversionService 1.0
-79 OfficeToPdfConversionSuccessFilter 1.0
-79 Page 1.0
-79 PageAnalyser 1.0
-79 PageConverter 1.0
-79 PageConvertProgressMessage 1.0
-79 PageCounter 1.0
-79 PageCounterService 1.0
-79 PageExtractor 1.0
-79 PageExtractorImp 1.0
-79 PageToConvert 1.0
-79 Pdf2PngPageConverterHandler 1.0
-79 PdfConversionInvalid 1.0
-79 PdfFontType3DetectorHandler 1.0
-79 PdfPageCounter 1.0
-79 PdfPageCounterHandler 1.0
-79 PdfPageDownscaler 1.0
-79 PdfSlidesGenerationService 1.0
-79 Png2SvgConversionHandler 1.0
-79 PngCreator 1.0
-79 PngCreatorImp 1.0
-79 PresentationConversionCompletionService 1.0
-79 PresentationConvertMessage 1.0
-79 PresentationFileProcessor 1.0
-79 PresentationToConvert 1.0
-79 PresentationUrlDownloadService 1.0
-79 SlidesGenerationProgressNotifier 1.0
-79 SupportedDocumentFilter 1.0
-79 SupportedFileTypes 1.0
-79 SvgConversionHandler 1.0
-79 SvgImageCreator 1.0
-79 SvgImageCreatorImp 1.0
-79 TextFileCreator 1.0
-79 TextFileCreatorImp 1.0
-79 ThumbnailCreator 1.0
-79 ThumbnailCreatorImp 1.0
-79 UploadedPresentation 1.0
-79 UploadFileTimedoutMessage 1.0
-79 UploadFileTooLargeMessage 1.0
-79 Util 1.0
-8 after-install 1.0
-8 after-remove 1.0
-8 before-install 1.0
-8 before-remove 1.0
-8 build 1.0
-8 deploy_to_usr_share 1.0
-8 kill_mongo 1.0
-8 mongod_start_pre 1.0
-8 opts-jammy 1.0
-8 run-dev 1.0
-8 run_mongo 1.0
-8 systemd_start 1.0
-8 systemd_start_frontend 1.0
-8 test-html5 1.0
-8 transifex 1.0
-8 workers-start 1.0
-9 after-install 1.0
-9 after-remove 1.0
-9 before-install 1.0
-9 before-remove 1.0
-9 build 1.0
-9 deploy_to_usr_share 1.0
-9 kill_mongo 1.0
-9 mongod_start_pre 1.0
-9 opts-jammy 1.0
-9 run-dev 1.0
-9 run_mongo 1.0
-9 systemd_start 1.0
-9 systemd_start_frontend 1.0
-9 test-html5 1.0
-9 transifex 1.0
-9 workers-start 1.0
+4.txt: build/packages-template/bbb-html5/kill_mongo.sh
+4.txt: build/packages-template/bbb-html5/workers-start.sh
+4.txt: build/packages-template/bbb-html5/opts-jammy.sh
+4.txt: build/packages-template/bbb-html5/systemd_start.sh
+4.txt: build/packages-template/bbb-html5/before-remove.sh
+4.txt: build/packages-template/bbb-html5/run_mongo.sh
+4.txt: build/packages-template/bbb-html5/build.sh
+4.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+4.txt: bigbluebutton-html5/test-html5.sh
+4.txt: build/packages-template/bbb-html5/after-install.sh
+4.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+4.txt: build/packages-template/bbb-html5/before-install.sh
+4.txt: bigbluebutton-html5/run-dev.sh
+4.txt: build/packages-template/bbb-html5/after-remove.sh
+4.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+4.txt: bigbluebutton-html5/transifex.sh
+5.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+5.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+5.txt: build/packages-template/bbb-html5/after-install.sh
+5.txt: build/packages-template/bbb-html5/before-install.sh
+5.txt: build/packages-template/bbb-html5/run_mongo.sh
+5.txt: build/packages-template/bbb-html5/opts-jammy.sh
+5.txt: build/packages-template/bbb-html5/build.sh
+5.txt: build/packages-template/bbb-html5/systemd_start.sh
+5.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+5.txt: build/packages-template/bbb-html5/workers-start.sh
+5.txt: build/packages-template/bbb-html5/after-remove.sh
+5.txt: build/packages-template/bbb-html5/before-remove.sh
+5.txt: build/packages-template/bbb-html5/kill_mongo.sh
+5.txt: bigbluebutton-html5/transifex.sh
+5.txt: bigbluebutton-html5/run-dev.sh
+5.txt: bigbluebutton-html5/test-html5.sh
+6.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+6.txt: build/packages-template/bbb-html5/after-install.sh
+6.txt: build/packages-template/bbb-html5/systemd_start.sh
+6.txt: build/packages-template/bbb-html5/before-remove.sh
+6.txt: build/packages-template/bbb-html5/opts-jammy.sh
+6.txt: build/packages-template/bbb-html5/workers-start.sh
+6.txt: build/packages-template/bbb-html5/build.sh
+6.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+6.txt: build/packages-template/bbb-html5/after-remove.sh
+6.txt: build/packages-template/bbb-html5/before-install.sh
+6.txt: build/packages-template/bbb-html5/run_mongo.sh
+6.txt: bigbluebutton-html5/transifex.sh
+6.txt: bigbluebutton-html5/test-html5.sh
+6.txt: bigbluebutton-html5/run-dev.sh
+6.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+6.txt: build/packages-template/bbb-html5/kill_mongo.sh
+8.txt: build/packages-template/bbb-html5/systemd_start.sh
+8.txt: build/packages-template/bbb-html5/after-install.sh
+8.txt: build/packages-template/bbb-html5/before-install.sh
+8.txt: build/packages-template/bbb-html5/kill_mongo.sh
+8.txt: bigbluebutton-html5/test-html5.sh
+8.txt: build/packages-template/bbb-html5/build.sh
+8.txt: build/packages-template/bbb-html5/run_mongo.sh
+8.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+8.txt: bigbluebutton-html5/transifex.sh
+8.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+8.txt: build/packages-template/bbb-html5/workers-start.sh
+8.txt: build/packages-template/bbb-html5/after-remove.sh
+8.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+8.txt: build/packages-template/bbb-html5/before-remove.sh
+8.txt: bigbluebutton-html5/run-dev.sh
+8.txt: build/packages-template/bbb-html5/opts-jammy.sh
+9.txt: bigbluebutton-html5/test-html5.sh
+9.txt: build/packages-template/bbb-html5/workers-start.sh
+9.txt: build/packages-template/bbb-html5/before-remove.sh
+9.txt: build/packages-template/bbb-html5/systemd_start.sh
+9.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+9.txt: build/packages-template/bbb-html5/kill_mongo.sh
+9.txt: build/packages-template/bbb-html5/after-install.sh
+9.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+9.txt: build/packages-template/bbb-html5/opts-jammy.sh
+9.txt: build/packages-template/bbb-html5/run_mongo.sh
+9.txt: bigbluebutton-html5/transifex.sh
+9.txt: build/packages-template/bbb-html5/after-remove.sh
+9.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+9.txt: bigbluebutton-html5/run-dev.sh
+9.txt: build/packages-template/bbb-html5/build.sh
+9.txt: build/packages-template/bbb-html5/before-install.sh
+10.txt: bigbluebutton-html5/transifex.sh
+10.txt: build/packages-template/bbb-html5/workers-start.sh
+10.txt: build/packages-template/bbb-html5/before-remove.sh
+10.txt: build/packages-template/bbb-html5/after-remove.sh
+10.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+10.txt: build/packages-template/bbb-html5/systemd_start.sh
+10.txt: build/packages-template/bbb-html5/after-install.sh
+10.txt: build/packages-template/bbb-html5/kill_mongo.sh
+10.txt: build/packages-template/bbb-html5/run_mongo.sh
+10.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+10.txt: build/packages-template/bbb-html5/build.sh
+10.txt: bigbluebutton-html5/test-html5.sh
+10.txt: build/packages-template/bbb-html5/before-install.sh
+10.txt: bigbluebutton-html5/run-dev.sh
+10.txt: build/packages-template/bbb-html5/opts-jammy.sh
+10.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+11.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+11.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+11.txt: build/packages-template/bbb-html5/before-install.sh
+11.txt: build/packages-template/bbb-html5/after-install.sh
+11.txt: build/packages-template/bbb-html5/systemd_start.sh
+11.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+11.txt: build/packages-template/bbb-html5/run_mongo.sh
+11.txt: build/packages-template/bbb-html5/opts-jammy.sh
+11.txt: build/packages-template/bbb-html5/before-remove.sh
+11.txt: build/packages-template/bbb-html5/workers-start.sh
+11.txt: build/packages-template/bbb-html5/kill_mongo.sh
+11.txt: build/packages-template/bbb-html5/build.sh
+11.txt: build/packages-template/bbb-html5/after-remove.sh
+11.txt: bigbluebutton-html5/run-dev.sh
+11.txt: bigbluebutton-html5/test-html5.sh
+11.txt: bigbluebutton-html5/transifex.sh
+12.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+12.txt: bigbluebutton-html5/run-dev.sh
+12.txt: build/packages-template/bbb-html5/after-install.sh
+12.txt: build/packages-template/bbb-html5/build.sh
+12.txt: build/packages-template/bbb-html5/workers-start.sh
+12.txt: build/packages-template/bbb-html5/before-install.sh
+12.txt: build/packages-template/bbb-html5/systemd_start.sh
+12.txt: build/packages-template/bbb-html5/opts-jammy.sh
+12.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+12.txt: build/packages-template/bbb-html5/after-remove.sh
+12.txt: bigbluebutton-html5/test-html5.sh
+12.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+12.txt: build/packages-template/bbb-html5/kill_mongo.sh
+12.txt: bigbluebutton-html5/transifex.sh
+12.txt: build/packages-template/bbb-html5/before-remove.sh
+12.txt: build/packages-template/bbb-html5/run_mongo.sh
+13.txt: build/packages-template/bbb-html5/kill_mongo.sh
+13.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+13.txt: build/packages-template/bbb-html5/opts-jammy.sh
+13.txt: bigbluebutton-html5/run-dev.sh
+13.txt: build/packages-template/bbb-html5/build.sh
+13.txt: build/packages-template/bbb-html5/after-remove.sh
+13.txt: build/packages-template/bbb-html5/workers-start.sh
+13.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+13.txt: build/packages-template/bbb-html5/before-install.sh
+13.txt: build/packages-template/bbb-html5/systemd_start.sh
+13.txt: build/packages-template/bbb-html5/after-install.sh
+13.txt: build/packages-template/bbb-html5/run_mongo.sh
+13.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+13.txt: bigbluebutton-html5/test-html5.sh
+13.txt: bigbluebutton-html5/transifex.sh
+13.txt: build/packages-template/bbb-html5/before-remove.sh
+14.txt: build/packages-template/bbb-html5/systemd_start.sh
+14.txt: build/packages-template/bbb-html5/after-remove.sh
+14.txt: bigbluebutton-html5/run-dev.sh
+14.txt: build/packages-template/bbb-html5/build.sh
+14.txt: build/packages-template/bbb-html5/after-install.sh
+14.txt: build/packages-template/bbb-html5/workers-start.sh
+14.txt: bigbluebutton-html5/test-html5.sh
+14.txt: build/packages-template/bbb-html5/run_mongo.sh
+14.txt: bigbluebutton-html5/transifex.sh
+14.txt: build/packages-template/bbb-html5/opts-jammy.sh
+14.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+14.txt: build/packages-template/bbb-html5/before-install.sh
+14.txt: build/packages-template/bbb-html5/kill_mongo.sh
+14.txt: build/packages-template/bbb-html5/before-remove.sh
+14.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+14.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+15.txt: bigbluebutton-html5/run-dev.sh
+15.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+15.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+15.txt: build/packages-template/bbb-html5/before-install.sh
+15.txt: bigbluebutton-html5/test-html5.sh
+15.txt: build/packages-template/bbb-html5/after-remove.sh
+15.txt: bigbluebutton-html5/transifex.sh
+15.txt: build/packages-template/bbb-html5/workers-start.sh
+15.txt: build/packages-template/bbb-html5/kill_mongo.sh
+15.txt: build/packages-template/bbb-html5/systemd_start.sh
+15.txt: build/packages-template/bbb-html5/after-install.sh
+15.txt: build/packages-template/bbb-html5/run_mongo.sh
+15.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+15.txt: build/packages-template/bbb-html5/build.sh
+15.txt: build/packages-template/bbb-html5/opts-jammy.sh
+15.txt: build/packages-template/bbb-html5/before-remove.sh
+18.txt: build/packages-template/bbb-html5/build.sh
+18.txt: bigbluebutton-html5/transifex.sh
+18.txt: bigbluebutton-html5/test-html5.sh
+18.txt: bigbluebutton-html5/run-dev.sh
+18.txt: build/packages-template/bbb-html5/systemd_start.sh
+18.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+18.txt: build/packages-template/bbb-html5/opts-jammy.sh
+18.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+18.txt: build/packages-template/bbb-html5/after-install.sh
+18.txt: build/packages-template/bbb-html5/workers-start.sh
+18.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+18.txt: build/packages-template/bbb-html5/before-remove.sh
+18.txt: build/packages-template/bbb-html5/before-install.sh
+18.txt: build/packages-template/bbb-html5/run_mongo.sh
+18.txt: build/packages-template/bbb-html5/after-remove.sh
+18.txt: build/packages-template/bbb-html5/kill_mongo.sh
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
+25.txt: akka-bbb-apps/deploy.sh
+25.txt: akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
+25.txt: akka-bbb-apps/run-dev.sh
+25.txt: akka-bbb-apps/run.sh
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
+25.txt: build/packages-template/bbb-apps-akka/build.sh
+25.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveService.java
+28.txt: bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
+28.txt: bigbluebutton-web/deploy_to_usr_share.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnEntry.java
+28.txt: build/packages-template/bbb-web/before-install.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/DelayCallback.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/UserCleanupTimerTask.java
+28.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
+28.txt: build/packages-template/bbb-web/after-install.sh
+28.txt: bigbluebutton-web/pres-checker/build.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/WaitingGuestCleanupTimerTask.java
+28.txt: bigbluebutton-web/pres-checker/run.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunTurnService.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/RemoteIceCandidate.java
+28.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
+28.txt: build/packages-template/bbb-web/build.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePong.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/ICallbackEvent.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
+28.txt: build/packages-template/bbb-web/setenv.sh
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
+28.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
+28.txt: bigbluebutton-web/build.sh
+28.txt: bigbluebutton-web/run.sh
+28.txt: bigbluebutton-web/run-dev.sh
+28.txt: build/packages-template/bbb-web/opts-jammy.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/UserCleanupTimerTask.java
+34.txt: build/packages-template/bbb-web/opts-jammy.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/WaitingGuestCleanupTimerTask.java
+34.txt: bigbluebutton-web/pres-checker/run.sh
+34.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
+34.txt: build/packages-template/bbb-web/build.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePong.java
+34.txt: bigbluebutton-web/deploy_to_usr_share.sh
+34.txt: build/packages-template/bbb-web/after-install.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnEntry.java
+34.txt: build/packages-template/bbb-web/setenv.sh
+34.txt: bigbluebutton-web/run-dev.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveService.java
+34.txt: bigbluebutton-web/pres-checker/build.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/RemoteIceCandidate.java
+34.txt: bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
+34.txt: bigbluebutton-web/build.sh
+34.txt: build/packages-template/bbb-web/before-install.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunTurnService.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/DelayCallback.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/ICallbackEvent.java
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
+34.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
+34.txt: bigbluebutton-web/run.sh
+34.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
+35.txt: bigbluebutton-web/deploy_to_usr_share.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/WaitingGuestCleanupTimerTask.java
+35.txt: bigbluebutton-web/run-dev.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePong.java
+35.txt: bigbluebutton-web/run.sh
+35.txt: bigbluebutton-web/pres-checker/build.sh
+35.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/RemoteIceCandidate.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveService.java
+35.txt: bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
+35.txt: bigbluebutton-web/build.sh
+35.txt: bigbluebutton-web/pres-checker/run.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/UserCleanupTimerTask.java
+35.txt: build/packages-template/bbb-web/after-install.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/DelayCallback.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
+35.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnEntry.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
+35.txt: build/packages-template/bbb-web/before-install.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
+35.txt: build/packages-template/bbb-web/build.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunTurnService.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/ICallbackEvent.java
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
+35.txt: build/packages-template/bbb-web/setenv.sh
+35.txt: build/packages-template/bbb-web/opts-jammy.sh
+35.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
+37.txt: build/packages-template/bbb-html5/before-remove.sh
+37.txt: build/packages-template/bbb-html5/after-remove.sh
+37.txt: bigbluebutton-html5/test-html5.sh
+37.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+37.txt: build/packages-template/bbb-html5/workers-start.sh
+37.txt: build/packages-template/bbb-html5/build.sh
+37.txt: bigbluebutton-html5/transifex.sh
+37.txt: build/packages-template/bbb-html5/run_mongo.sh
+37.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+37.txt: build/packages-template/bbb-html5/opts-jammy.sh
+37.txt: bigbluebutton-html5/run-dev.sh
+37.txt: build/packages-template/bbb-html5/after-install.sh
+37.txt: build/packages-template/bbb-html5/kill_mongo.sh
+37.txt: build/packages-template/bbb-html5/systemd_start.sh
+37.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+37.txt: build/packages-template/bbb-html5/before-install.sh
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageReceiver.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageHandler.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageToSend.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessage.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageSender.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageDistributor.java
+44.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessageHandler.java
+45.txt: build/packages-template/bbb-html5/after-remove.sh
+45.txt: build/packages-template/bbb-html5/after-install.sh
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessageHandler.java
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageToSend.java
+45.txt: build/packages-template/bbb-html5/kill_mongo.sh
+45.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+45.txt: build/packages-template/bbb-html5/before-install.sh
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessage.java
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageHandler.java
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageDistributor.java
+45.txt: build/packages-template/bbb-html5/before-remove.sh
+45.txt: build/packages-template/bbb-html5/run_mongo.sh
+45.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageReceiver.java
+45.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+45.txt: build/packages-template/bbb-html5/build.sh
+45.txt: bigbluebutton-html5/run-dev.sh
+45.txt: bigbluebutton-html5/transifex.sh
+45.txt: bigbluebutton-html5/test-html5.sh
+45.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageSender.java
+45.txt: build/packages-template/bbb-html5/systemd_start.sh
+45.txt: build/packages-template/bbb-html5/opts-jammy.sh
+45.txt: build/packages-template/bbb-html5/workers-start.sh
+46.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/RedisStorageService.java
+46.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/RedisAwareCommunicator.java
+46.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/Keys.java
+47.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/RedisStorageService.java
+47.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/Keys.java
+47.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/RedisAwareCommunicator.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
+49.txt: akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
+49.txt: build/packages-template/bbb-apps-akka/build.sh
+49.txt: akka-bbb-apps/deploy.sh
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
+49.txt: akka-bbb-apps/run-dev.sh
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
+49.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
+49.txt: akka-bbb-apps/run.sh
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
+50.txt: build/packages-template/bbb-apps-akka/build.sh
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
+50.txt: akka-bbb-apps/run-dev.sh
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
+50.txt: akka-bbb-apps/deploy.sh
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
+50.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
+50.txt: akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
+50.txt: akka-bbb-apps/run.sh
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
+52.txt: akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
+52.txt: build/packages-template/bbb-apps-akka/build.sh
+52.txt: akka-bbb-apps/run.sh
+52.txt: akka-bbb-apps/run-dev.sh
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
+52.txt: akka-bbb-apps/deploy.sh
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
+52.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+55.txt: akka-bbb-fsesl/wait-for-it.sh
+55.txt: bbb-fsesl-client/deploy.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+55.txt: freeswitch.placeholder.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+55.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+55.txt: build/packages-template/bbb-fsesl-akka/build.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+55.txt: build/packages-template/bbb-freeswitch-core/build.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+55.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+55.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+55.txt: akka-bbb-fsesl/run.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+55.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+55.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+55.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+55.txt: akka-bbb-fsesl/run-dev.sh
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+55.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+55.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+55.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+55.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+55.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+55.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+56.txt: freeswitch.placeholder.sh
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+56.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+56.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+56.txt: build/packages-template/bbb-freeswitch-core/build.sh
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+56.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+56.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+56.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+56.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+56.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+56.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+56.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+56.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+56.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+56.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageHandler.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+58.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathCommands.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessage.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+58.txt: akka-bbb-apps/deploy.sh
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Geom.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+58.txt: akka-bbb-apps/run.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+58.txt: build/packages-template/bbb-fsesl-akka/build.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+58.txt: akka-bbb-fsesl/run.sh
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+58.txt: akka-bbb-fsesl/wait-for-it.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageDistributor.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageSender.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageReceiver.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+58.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+58.txt: bbb-fsesl-client/deploy.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+58.txt: akka-bbb-fsesl/run-dev.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Bezier.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+58.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPath.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+58.txt: akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierPathIterator.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+58.txt: akka-bbb-apps/run-dev.sh
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessageHandler.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+58.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageToSend.java
+58.txt: build/packages-template/bbb-apps-akka/build.sh
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+58.txt: akka-bbb-apps/src/test/java/org/bigbluebutton/xml/Simple.java
+58.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+58.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+59.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+59.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+59.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+59.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+59.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+59.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+59.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+59.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+59.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+59.txt: freeswitch.placeholder.sh
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+59.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+59.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+59.txt: build/packages-template/bbb-freeswitch-core/build.sh
+59.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+61.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+61.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+61.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+61.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+61.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+61.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+61.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+61.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+61.txt: freeswitch.placeholder.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+61.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+61.txt: build/packages-template/bbb-freeswitch-core/build.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+61.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+61.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+61.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+63.txt: build/packages-template/bbb-webrtc-sfu/opts-jammy.sh
+63.txt: build/packages-template/bbb-webrtc-sfu/after-install.sh
+63.txt: bbb-webrtc-sfu.placeholder.sh
+63.txt: build/packages-template/bbb-webrtc-sfu/build.sh
+63.txt: build/packages-template/bbb-webrtc-sfu/before-install.sh
+63.txt: build/packages-template/bbb-webrtc-sfu/before-remove.sh
+64.txt: freeswitch.placeholder.sh
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+64.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+64.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+64.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+64.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+64.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+64.txt: build/packages-template/bbb-freeswitch-core/build.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+64.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+64.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+64.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+64.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+64.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+64.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+64.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+65.txt: build/packages-template/bbb-webrtc-sfu/before-remove.sh
+65.txt: build/packages-template/bbb-webrtc-sfu/build.sh
+65.txt: build/packages-template/bbb-webrtc-sfu/opts-jammy.sh
+65.txt: build/packages-template/bbb-webrtc-sfu/before-install.sh
+65.txt: bbb-webrtc-sfu.placeholder.sh
+65.txt: build/packages-template/bbb-webrtc-sfu/after-install.sh
+68.txt: build/packages-template/bbb-webrtc-sfu/build.sh
+68.txt: build/packages-template/bbb-webrtc-sfu/after-install.sh
+68.txt: build/packages-template/bbb-webrtc-sfu/opts-jammy.sh
+68.txt: bbb-webrtc-sfu.placeholder.sh
+68.txt: build/packages-template/bbb-webrtc-sfu/before-install.sh
+68.txt: build/packages-template/bbb-webrtc-sfu/before-remove.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/RecordConferenceCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserJoinedEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
+70.txt: build/packages-template/bbb-html5/systemd_start.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetAllUsersCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/DelayedCommandSenderService.java
+70.txt: freeswitch.placeholder.sh
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslMessage.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEventHeaderNames.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DeafUserCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/HeartbeatThread.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/XMLResponseConferenceListParser.java
+70.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckIfConfIsRunningCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/DefaultManagerConnection.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/GetUsersStatusCommand.java
+70.txt: build/packages-template/bbb-freeswitch-core/after-install.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/AudioFloorChangedEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/MuteUserCommand.java
+70.txt: build/packages-template/bbb-freeswitch-core/build.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ForceEjectUserCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/IEslEventListener.java
+70.txt: build/packages-template/bbb-freeswitch-core/before-install.sh
+70.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+70.txt: build/packages-template/bbb-html5/workers-start.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/FreeswitchCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslFrameDecoder.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/IEslProtocolListener.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLockedEvent.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupPipelineFactory.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfRecording.java
+70.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/FreeswitchApplication.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ChannelEventRunnable.java
+70.txt: bigbluebutton-html5/test-html5.sh
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/CommandResponse.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundPipelineFactory.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/HoldUserCommand.java
+70.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundConnectionFailure.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/FreeswitchConferenceEventListener.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserMutedEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/IDelayedCommandListener.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/ExampleClient.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningAndRecordingEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/DelayedCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/TransferUserToMeetingCommand.java
+70.txt: build/packages-template/bbb-html5/before-install.sh
+70.txt: build/packages-template/bbb-html5/after-install.sh
+70.txt: bigbluebutton-html5/run-dev.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommandResult.java
+70.txt: build/packages-template/bbb-html5/build.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectUserCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/UnknownConferenceEvent.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundPipelineFactory.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/internal/ManagerConnectionImpl.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchHeartbeatEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/CheckFreeswitchStatusCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/InboundClientHandler.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
+70.txt: bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/MuteUserCommand.java
+70.txt: bigbluebutton-html5/transifex.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/EjectAllUsersCommand.java
+70.txt: build/packages-template/bbb-html5/kill_mongo.sh
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceStartRecordingEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ESLEventListener.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/ConferenceCheckRecordCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/StopSoundCommand.java
+70.txt: build/packages-template/bbb-html5/run_mongo.sh
+70.txt: build/packages-template/bbb-freeswitch-core/before-remove.sh
+70.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMemberFlags.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/response/ConferenceMember.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/debug/ExecutionHandler.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/event/EslEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/ConferenceCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConfMember.java
+70.txt: build/packages-template/bbb-html5/before-remove.sh
+70.txt: build/packages-template/bbb-freeswitch-sounds/build.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/GetUsersCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceCallStateEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/FreeswitchStatusReplyEvent.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserTalkingEvent.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/inbound/Client.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/SocketClient.java
+70.txt: build/packages-template/bbb-freeswitch-sounds/opts-jammy.sh
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/message/EslHeaders.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/example/EslEventListener.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/EjectUserCommand.java
+70.txt: build/packages-template/bbb-freeswitch-core/after-remove.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConferenceEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/ConferenceEventListener.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUserLeftEvent.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/example/SimpleHangupOutboundHandler.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/IVoiceConferenceService.java
+70.txt: build/packages-template/bbb-html5/after-remove.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/ConferenceServerListener.java
+70.txt: build/packages-template/bbb-html5/opts-jammy.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/ConnectionManager.java
+70.txt: build/packages-template/bbb-freeswitch-core/opts-jammy.sh
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/PlaySoundCommand.java
+70.txt: akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/commands/RecordCommand.java
+70.txt: bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/AbstractEslClientHandler.java
+71.txt: bigbluebutton-html5/deploy_to_usr_share.sh
+71.txt: build/packages-template/bbb-html5/opts-jammy.sh
+71.txt: build/packages-template/bbb-html5/mongod_start_pre.sh
+71.txt: build/packages-template/bbb-webrtc-sfu/before-install.sh
+71.txt: build/packages-template/bbb-html5/before-install.sh
+71.txt: build/packages-template/bbb-webrtc-sfu/after-install.sh
+71.txt: build/packages-template/bbb-html5/workers-start.sh
+71.txt: build/packages-template/bbb-webrtc-sfu/opts-jammy.sh
+71.txt: bigbluebutton-html5/test-html5.sh
+71.txt: bigbluebutton-html5/run-dev.sh
+71.txt: build/packages-template/bbb-html5/kill_mongo.sh
+71.txt: build/packages-template/bbb-html5/after-install.sh
+71.txt: build/packages-template/bbb-html5/systemd_start.sh
+71.txt: bigbluebutton-html5/transifex.sh
+71.txt: bbb-webrtc-sfu.placeholder.sh
+71.txt: build/packages-template/bbb-webrtc-sfu/build.sh
+71.txt: build/packages-template/bbb-html5/run_mongo.sh
+71.txt: build/packages-template/bbb-html5/systemd_start_frontend.sh
+71.txt: build/packages-template/bbb-html5/before-remove.sh
+71.txt: build/packages-template/bbb-html5/after-remove.sh
+71.txt: build/packages-template/bbb-html5/build.sh
+71.txt: build/packages-template/bbb-webrtc-sfu/before-remove.sh
+76.txt: bigbluebutton-web/run.sh
+76.txt: build/packages-template/bbb-web/build.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/UserCleanupTimerTask.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnEntry.java
+76.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
+76.txt: bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
+76.txt: bigbluebutton-web/pres-checker/build.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/WaitingGuestCleanupTimerTask.java
+76.txt: build/packages-template/bbb-web/setenv.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunTurnService.java
+76.txt: bigbluebutton-web/build.sh
+76.txt: build/packages-template/bbb-web/opts-jammy.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePing.java
+76.txt: bigbluebutton-web/pres-checker/run.sh
+76.txt: bigbluebutton-web/deploy_to_usr_share.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/TurnServer.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveService.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/EnteredUserCleanupTimerTask.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
+76.txt: build/packages-template/bbb-web/after-install.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/MeetingEndedEvent.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/DelayCallback.java
+76.txt: build/packages-template/bbb-web/before-install.sh
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/ICallbackEvent.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/RemoteIceCandidate.java
+76.txt: bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAlivePong.java
+76.txt: bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
+76.txt: bigbluebutton-web/run-dev.sh
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageHandler.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageDistributor.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageReceiver.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessageHandler.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessage.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageSender.java
+77.txt: bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageToSend.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageExtractor.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/Util.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ConversionUpdateMessage.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/SvgConversionHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageToConvert.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageCounter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/UploadFileTimedoutMessage.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageCounterService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCountFailed.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ExternalProcessExecutor.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Office2PdfConverterHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/ImageResizerHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/PdfPageCounterHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/SlidesGenerationProgressNotifier.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/Page.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Png2SvgConversionHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/CountingPageException.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/OfficeToPdfConversionSuccessFilter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ThumbnailCreator.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageExtractorImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocInvalidMimeType.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/IPresentationCompletionMessage.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageAnalyser.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/MimeTypeUtils.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/SvgImageCreatorImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeToPdfConversionService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/DocumentConversionService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/GeneratedSlidesInfoHelper.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/AbstractCommandHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCountExceeded.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SupportedDocumentFilter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PresentationUrlDownloadService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ImageResizer.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ImageResizerImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfPageDownscaler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/UploadedPresentation.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCompletedProgress.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationToConvert.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/Office2PdfPageConverter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfPageCounter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeDocumentValidator2.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfSlidesGenerationService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SvgImageCreator.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeDocumentValidator.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Pdf2PngPageConverterHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ImageSlidesGenerationService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/IDocConversionMsg.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/TextFileCreator.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageConverter.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SupportedFileTypes.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PngCreatorImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/AddNamespaceToSvgHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationFileProcessor.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PngCreator.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationConversionCompletionService.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ThumbnailCreatorImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/BigPdfException.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PdfConversionInvalid.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ConversionMessageConstants.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocConversionRequestReceived.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageGeneratedProgress.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/PdfFontType3DetectorHandler.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/TextFileCreatorImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageConversionStarted.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PageConvertProgressMessage.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/DocumentConversionServiceImp.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/FileTypeConstants.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocConversionProgress.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/UploadFileTooLargeMessage.java
+78.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PresentationConvertMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/Util.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/Office2PdfPageConverter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocConversionProgress.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/SvgConversionHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PngCreator.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ConversionMessageConstants.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/BigPdfException.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfPageDownscaler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SupportedFileTypes.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/FileTypeConstants.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ImageResizerImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfSlidesGenerationService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/OfficeToPdfConversionSuccessFilter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationConversionCompletionService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/ImageResizerHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ImageResizer.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageConversionStarted.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationFileProcessor.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SvgImageCreator.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/GeneratedSlidesInfoHelper.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeToPdfConversionService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/TextFileCreator.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/IPresentationCompletionMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/AddNamespaceToSvgHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocConversionRequestReceived.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeDocumentValidator.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/PdfFontType3DetectorHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/UploadFileTooLargeMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ThumbnailCreator.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PageConvertProgressMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/CountingPageException.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/IDocConversionMsg.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageCounterService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Png2SvgConversionHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/UploadedPresentation.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageExtractor.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCountExceeded.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PresentationToConvert.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PresentationUrlDownloadService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageAnalyser.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCompletedProgress.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Office2PdfConverterHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PresentationConvertMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/DocumentConversionService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/SvgImageCreatorImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageConverter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/TextFileCreatorImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/PdfPageCounterHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageExtractorImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ThumbnailCreatorImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/ConversionUpdateMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/OfficeDocumentValidator2.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PdfPageCounter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/SlidesGenerationProgressNotifier.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocInvalidMimeType.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PageToConvert.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageCountFailed.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/SupportedDocumentFilter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/Page.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/UploadFileTimedoutMessage.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ExternalProcessExecutor.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/Pdf2PngPageConverterHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/DocPageGeneratedProgress.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/PngCreatorImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/messages/PdfConversionInvalid.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/PageCounter.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/handlers/AbstractCommandHandler.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/DocumentConversionServiceImp.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/imp/ImageSlidesGenerationService.java
+79.txt: bbb-common-web/src/main/java/org/bigbluebutton/presentation/MimeTypeUtils.java
