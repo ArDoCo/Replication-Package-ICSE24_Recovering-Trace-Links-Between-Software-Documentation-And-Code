@@ -1,0 +1,1 @@
+The storage layer of the application uses the persistence framework provided by GAE Datastore, a NoSQL database.

@@ -1,0 +1,1 @@
+This structure can be used to send results of a feedback session (e.g., when showing a feedback session report to an instructor).

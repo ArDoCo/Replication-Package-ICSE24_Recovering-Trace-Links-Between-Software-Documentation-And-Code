@@ -1,0 +1,1 @@
+To allow users to download several files at a time, we provide the Packaging component, which archives multiple audio files into a single compressed file.

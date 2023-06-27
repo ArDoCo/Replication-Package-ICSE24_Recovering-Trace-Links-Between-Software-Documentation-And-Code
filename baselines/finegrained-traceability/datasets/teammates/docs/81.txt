@@ -1,0 +1,1 @@
+Sanitizing input values received from the UI component.

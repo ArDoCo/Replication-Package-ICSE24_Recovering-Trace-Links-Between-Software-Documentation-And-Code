@@ -1,0 +1,1 @@
+It contains minimal logic beyond what is directly relevant to CRUD operations.

@@ -1,0 +1,1 @@
+Frontends still require MeetingStarted and MeetingEnded events to create/destroy per-meeting event processing queues.

@@ -1,0 +1,1 @@
+In this way, you can change configuration values of BigBlueButton, or use some of the helper functions in apply-lib.sh.

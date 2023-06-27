@@ -1,0 +1,1 @@
+Eventual consistency here means it takes some time for a database operation to propagate across all serves of the Google's distributed datastore.

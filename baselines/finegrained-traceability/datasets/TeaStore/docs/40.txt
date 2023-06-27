@@ -1,0 +1,1 @@
+Services missing their heartbeat for more than 10 s are assumed to be offline until the register function is called again.

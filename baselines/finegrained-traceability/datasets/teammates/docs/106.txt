@@ -1,0 +1,1 @@
+To API for updating entities the following information are presented.

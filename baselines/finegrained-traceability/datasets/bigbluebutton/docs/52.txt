@@ -1,0 +1,1 @@
+Below is a diagram of the different components of Apps Akka.

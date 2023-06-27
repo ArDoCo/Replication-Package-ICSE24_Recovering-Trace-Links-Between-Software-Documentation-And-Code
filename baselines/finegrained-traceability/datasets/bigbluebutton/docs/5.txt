@@ -1,0 +1,2 @@
+The HTML5 client is a single page, responsive web application that is built upon the following components:
+React.js for rendering the user interface in an efficient manner, WebRTC for sending/receiving audio and video.

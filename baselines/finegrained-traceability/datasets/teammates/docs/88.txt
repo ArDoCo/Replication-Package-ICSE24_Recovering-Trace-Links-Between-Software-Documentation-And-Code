@@ -1,0 +1,1 @@
+Logic is a Facade class which connects to the several Logic classes to handle the logic related to various types of data and to access data from the Storage component.

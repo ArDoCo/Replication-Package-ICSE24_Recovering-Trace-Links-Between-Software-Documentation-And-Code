@@ -1,0 +1,1 @@
+When a meeting is recorded, all events are stored in Redis DB.

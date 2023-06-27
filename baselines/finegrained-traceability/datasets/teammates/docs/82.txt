@@ -1,0 +1,1 @@
+Providing a mechanism for checking access control rights.

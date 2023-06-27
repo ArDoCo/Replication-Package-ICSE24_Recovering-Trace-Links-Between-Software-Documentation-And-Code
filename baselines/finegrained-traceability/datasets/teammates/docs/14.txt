@@ -1,0 +1,1 @@
+HttpUnit is used to set up a simulated web server in servlet-level tests, where an actual web server is not required.

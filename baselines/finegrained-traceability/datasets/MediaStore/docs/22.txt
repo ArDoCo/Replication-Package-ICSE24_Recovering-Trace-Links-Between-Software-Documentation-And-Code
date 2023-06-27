@@ -1,0 +1,1 @@
+The persistence tier contains components that are concerned with the storage of audio files and their meta-data.

@@ -1,0 +1,1 @@
+FreeSWITCH provides the voice conferencing capability in BigBlueButton.

@@ -1,0 +1,1 @@
+This structure can be used to transfer data of a course (e.g., when constructing the home page for an instructor).

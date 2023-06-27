@@ -1,0 +1,1 @@
+Every running instance of the TeaStore uses one single registry.

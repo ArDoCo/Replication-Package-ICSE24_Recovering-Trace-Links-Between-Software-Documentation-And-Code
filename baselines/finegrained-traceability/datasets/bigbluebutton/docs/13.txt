@@ -1,0 +1,1 @@
+Updates to MongoDB on the server side are automatically pushed to MiniMongo on the client side.

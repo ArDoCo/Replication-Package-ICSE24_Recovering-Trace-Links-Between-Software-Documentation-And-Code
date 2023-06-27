@@ -1,0 +1,1 @@
+To API for retrieving entities the following information are presented.

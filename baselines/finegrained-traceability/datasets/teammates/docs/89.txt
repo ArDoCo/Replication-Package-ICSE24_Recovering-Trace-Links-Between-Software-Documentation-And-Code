@@ -1,0 +1,1 @@
+GateKeeper checks access rights of a user for a given action.

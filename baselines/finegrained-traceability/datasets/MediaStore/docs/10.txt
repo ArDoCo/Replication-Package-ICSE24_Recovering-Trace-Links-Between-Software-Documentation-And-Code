@@ -1,0 +1,1 @@
+As described above, to communicate with the system, users' registration and authentication are needed.

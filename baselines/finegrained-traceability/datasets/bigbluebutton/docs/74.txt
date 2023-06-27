@@ -1,0 +1,1 @@
+Uploaded presentations go through a conversion process in order to be displayed inside the client.

@@ -1,0 +1,2 @@
+Frontends other DDP events including method calls to send events to akka-apps
+Frontends handle completely the Streamer redis events: Cursor, Annotations, External video share.

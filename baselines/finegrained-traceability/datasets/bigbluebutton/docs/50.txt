@@ -1,0 +1,1 @@
+BigBlueButton Apps is the main application that pulls together the different applications to provide real-time collaboration in the meeting.

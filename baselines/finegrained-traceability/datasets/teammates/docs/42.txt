@@ -1,0 +1,1 @@
+Subsequent AJAX requests sent to the server will be processed as follows.

@@ -1,0 +1,1 @@
+It stores user information and meta-data of audio files such as the name and the genre.

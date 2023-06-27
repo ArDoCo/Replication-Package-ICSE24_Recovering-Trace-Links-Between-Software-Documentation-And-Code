@@ -1,0 +1,1 @@
+The Registry provides information about how many service instances are online for each service and where they are located.

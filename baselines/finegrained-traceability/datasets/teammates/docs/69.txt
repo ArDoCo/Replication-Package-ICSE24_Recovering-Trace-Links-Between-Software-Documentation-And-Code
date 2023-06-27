@@ -1,0 +1,1 @@
+GAE server sends such automated requests through two different configurations.

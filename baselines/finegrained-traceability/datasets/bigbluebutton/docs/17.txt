@@ -1,0 +1,1 @@
+This process would start to bottleneck (the nodejs process, running on a single CPU core, started to use 100% of the core).

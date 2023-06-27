@@ -1,0 +1,1 @@
+To speed up image delivery, an in-memory cache with Least Frequently Used (LFU) replacemenent strategy is in place.

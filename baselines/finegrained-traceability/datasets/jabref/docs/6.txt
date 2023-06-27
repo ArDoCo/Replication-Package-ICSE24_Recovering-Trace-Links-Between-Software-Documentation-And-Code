@@ -1,0 +1,1 @@
+The logic is responsible for reading/writing/importing/exporting and manipulating the model, and it is structured often as an API the gui can call and use.

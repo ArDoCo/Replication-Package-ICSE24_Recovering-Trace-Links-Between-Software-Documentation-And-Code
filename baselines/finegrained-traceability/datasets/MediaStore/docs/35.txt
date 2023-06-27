@@ -1,0 +1,1 @@
+Afterwards, based on the user request and the corresponding meta-data, the file will be retrieved from the DataStorage.

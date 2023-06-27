@@ -1,0 +1,1 @@
+The MediaAccess component encapsulates database access for meta-data of audio files.

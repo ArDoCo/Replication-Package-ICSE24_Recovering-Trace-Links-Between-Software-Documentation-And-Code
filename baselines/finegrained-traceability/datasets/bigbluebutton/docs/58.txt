@@ -1,0 +1,1 @@
+Communication between apps and FreeSWITCH Event Socket Layer (fsels) uses messages through redis pubsub.

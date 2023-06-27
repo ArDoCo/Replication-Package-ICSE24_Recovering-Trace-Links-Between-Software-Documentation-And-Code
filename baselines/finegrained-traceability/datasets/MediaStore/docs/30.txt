@@ -1,0 +1,1 @@
+The UserDBAdapter component creates a query based on the user's request.

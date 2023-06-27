@@ -1,0 +1,1 @@
+If the product ID or UI name is not available to the Image Provider, a standard "not found" image will be delivered in the correct size.

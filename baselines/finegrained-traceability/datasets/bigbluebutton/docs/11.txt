@@ -1,0 +1,1 @@
+Each user's client is only aware of the their meeting's state, such the user's public and private chat messages sent and received.

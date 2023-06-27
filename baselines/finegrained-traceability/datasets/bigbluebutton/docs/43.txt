@@ -1,0 +1,1 @@
+Regardless of which front-end you use, they all use the API under the hood.

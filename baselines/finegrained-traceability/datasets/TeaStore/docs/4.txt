@@ -1,0 +1,1 @@
+Data is retrieved from the PersistenceProvider and product recommendations from the Recommender service.

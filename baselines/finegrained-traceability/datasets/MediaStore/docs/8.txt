@@ -1,0 +1,1 @@
+The MediaManagement component coordinates the communication of other components.

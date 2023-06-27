@@ -1,0 +1,1 @@
+In general, delete operation do not throw exceptions if the target entity does not exist.

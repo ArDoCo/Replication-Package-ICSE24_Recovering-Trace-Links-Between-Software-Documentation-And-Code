@@ -1,0 +1,1 @@
+A user can join the voice conference (running in FreeSWITCH) from the BigBlueButton HTML5 client or through the phone.

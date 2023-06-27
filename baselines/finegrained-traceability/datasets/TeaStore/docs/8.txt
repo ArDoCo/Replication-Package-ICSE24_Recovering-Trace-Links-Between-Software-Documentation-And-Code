@@ -1,0 +1,1 @@
+The UI provides a status page at link indicating the current state of the TeaStore.

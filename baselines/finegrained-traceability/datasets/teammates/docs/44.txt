@@ -1,0 +1,1 @@
+Second, WebApiServlet uses the ActionFactory to generate the matching Action object, e.g. InstructorHomePageAction.

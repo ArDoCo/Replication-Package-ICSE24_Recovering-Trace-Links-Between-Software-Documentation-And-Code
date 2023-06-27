@@ -1,0 +1,1 @@
+The ReEncoder component converts the bit rates of audio files.

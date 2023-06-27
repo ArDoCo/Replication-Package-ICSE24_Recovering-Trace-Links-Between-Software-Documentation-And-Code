@@ -1,0 +1,1 @@
+EmailSender sends email with the provider chosen based on the build configuration.

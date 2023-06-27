@@ -1,0 +1,1 @@
+Connecting to GAE-provided or third-party APIs, e.g. for adding tasks to the task queue and for sending emails with third-party providers.

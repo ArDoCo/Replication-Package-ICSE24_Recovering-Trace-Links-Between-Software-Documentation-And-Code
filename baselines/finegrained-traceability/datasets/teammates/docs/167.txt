@@ -1,0 +1,1 @@
+These classes use public variables for data for easy access.

@@ -1,0 +1,1 @@
+When a parent entity is deleted, entities that have referential integrity with the deleted entity should also be deleted.

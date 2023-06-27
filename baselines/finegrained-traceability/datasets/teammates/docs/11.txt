@@ -1,0 +1,1 @@
+TEAMMATES makes heavy use of automated regression testing.

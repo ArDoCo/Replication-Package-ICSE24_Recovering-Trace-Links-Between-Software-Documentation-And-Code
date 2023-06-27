@@ -1,0 +1,1 @@
+logic.api provides the API of the component to be accessed by the UI.

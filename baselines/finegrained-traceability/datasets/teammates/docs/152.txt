@@ -1,0 +1,1 @@
+Attempt to update an entity with invalid data throws InvalidParametersException.

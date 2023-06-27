@@ -1,0 +1,1 @@
+Classes in the storage.entity package are not visible outside this component to hide information specific to data persistence.
