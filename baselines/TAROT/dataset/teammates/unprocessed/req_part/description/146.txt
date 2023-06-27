@@ -1,0 +1,1 @@
+Attempt to create an entity that already exists throws EntityAlreadyExistsException.

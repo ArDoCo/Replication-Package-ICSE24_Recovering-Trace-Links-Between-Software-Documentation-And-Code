@@ -1,0 +1,1 @@
+The Recommender is used to generate individual product recommendations for each user.

@@ -1,0 +1,1 @@
+As a result, the data may be in an inconsistent states for short periods of time although things should become consistent eventually.

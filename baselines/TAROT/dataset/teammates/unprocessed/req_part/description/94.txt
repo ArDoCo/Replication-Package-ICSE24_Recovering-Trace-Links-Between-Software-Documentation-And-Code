@@ -1,0 +1,1 @@
+It connects to GAE's task queue API.

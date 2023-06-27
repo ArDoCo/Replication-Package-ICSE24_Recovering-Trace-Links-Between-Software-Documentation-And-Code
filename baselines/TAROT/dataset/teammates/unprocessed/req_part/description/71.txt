@@ -1,0 +1,1 @@
+Cron jobs are jobs that are automatically scheduled for a specified period of time, e.g. scheduling feedback session opening reminders.

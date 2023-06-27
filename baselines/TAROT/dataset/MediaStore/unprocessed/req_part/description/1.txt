@@ -1,0 +1,1 @@
+One of the main components of Media Store is a server-side web front end, namely the Facade component, which delivers websites to the users and provides session management.

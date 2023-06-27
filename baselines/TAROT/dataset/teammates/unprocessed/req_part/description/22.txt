@@ -1,0 +1,1 @@
+logic, ui.website, ui.controller represent an application of Model-View-Controller pattern.

@@ -1,0 +1,1 @@
+The E2E end-to-end component is used to interact with the application as a whole with Web browsers.

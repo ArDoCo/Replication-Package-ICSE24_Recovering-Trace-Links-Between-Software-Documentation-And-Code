@@ -1,0 +1,1 @@
+e2e.pageobjects contains abstractions of the pages as they appear on a Browser (i.e. SUTs).

@@ -1,0 +1,1 @@
+BigBlueButton 2.2 used a single nodejs process for all client-side communication.

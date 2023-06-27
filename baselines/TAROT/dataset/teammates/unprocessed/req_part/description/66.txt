@@ -1,0 +1,1 @@
+Fifth, automatedServlet uses the AutomatedActionFactory to generate the matching AutomatedAction object, e.g. CompileLogsAction.

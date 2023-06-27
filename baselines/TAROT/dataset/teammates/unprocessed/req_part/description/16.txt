@@ -1,0 +1,1 @@
+Its primary function is for E2E tests.

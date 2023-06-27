@@ -1,0 +1,1 @@
+e2e.util contains helpers needed for running E2E tests.

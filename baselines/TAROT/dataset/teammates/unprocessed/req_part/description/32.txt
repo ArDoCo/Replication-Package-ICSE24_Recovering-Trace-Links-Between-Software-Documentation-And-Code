@@ -1,0 +1,1 @@
+Second, custom filters are applied according to the order specified in web.xml, e.g. OriginCheckFilter.

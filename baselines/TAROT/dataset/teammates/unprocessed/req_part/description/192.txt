@@ -1,0 +1,1 @@
+x.e2e contains system test cases for testing the application as a whole.

@@ -1,0 +1,1 @@
+Since the high-level workflow of processing a request is same for any request (differing by the two request types only), we use the Template Method pattern to abstract the process flow into the Action and AutomatedAction classes.

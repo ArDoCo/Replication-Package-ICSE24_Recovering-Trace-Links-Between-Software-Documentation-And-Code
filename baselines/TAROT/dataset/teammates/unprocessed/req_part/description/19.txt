@@ -1,0 +1,1 @@
+It is used for administrative purposes, e.g. migrating data to a new schema.

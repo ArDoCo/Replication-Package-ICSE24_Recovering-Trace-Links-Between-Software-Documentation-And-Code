@@ -1,0 +1,1 @@
+Furthermore, it fetches audio files from a specific location (e.g., a dedicated file server or a local disk) when processing download requests.

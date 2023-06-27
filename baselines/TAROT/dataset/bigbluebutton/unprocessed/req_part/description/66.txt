@@ -1,0 +1,1 @@
+Kurento Media Server KMS is a media server that implements both SFU and MCU models.

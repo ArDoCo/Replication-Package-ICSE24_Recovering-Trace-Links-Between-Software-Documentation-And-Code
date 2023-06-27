@@ -1,0 +1,1 @@
+common.datatransfer package contains lightweight data transfer object classes for transferring data among components.

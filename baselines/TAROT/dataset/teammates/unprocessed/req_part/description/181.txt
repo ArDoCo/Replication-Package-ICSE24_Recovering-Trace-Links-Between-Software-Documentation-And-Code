@@ -1,0 +1,1 @@
+Some Component tests are pure unit tests (i.e. testing one component in isolation) while others are integration tests that test units as well as integration of units with each other.

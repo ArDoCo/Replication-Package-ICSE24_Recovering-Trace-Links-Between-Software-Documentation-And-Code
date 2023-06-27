@@ -1,0 +1,1 @@
+WebRTC provides the user with high-quality audio with lower delay.

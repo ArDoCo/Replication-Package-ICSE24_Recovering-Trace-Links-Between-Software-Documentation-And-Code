@@ -1,0 +1,1 @@
+Every access to BigBlueButton comes through a front-end portal (we refer to as a third-party application).

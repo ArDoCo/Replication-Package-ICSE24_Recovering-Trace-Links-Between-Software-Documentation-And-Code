@@ -1,0 +1,1 @@
+When the uploaded presentation is an Office document, it needs to be converted into PDF using LibreOffice.

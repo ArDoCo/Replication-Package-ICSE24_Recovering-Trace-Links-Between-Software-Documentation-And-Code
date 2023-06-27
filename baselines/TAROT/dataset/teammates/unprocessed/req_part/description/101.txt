@@ -1,0 +1,1 @@
+Entity already exists throws EntityAlreadyExistsException (escalated from Storage level).

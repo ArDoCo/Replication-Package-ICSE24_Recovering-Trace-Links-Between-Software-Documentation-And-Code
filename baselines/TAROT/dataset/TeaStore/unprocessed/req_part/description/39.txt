@@ -1,0 +1,1 @@
+Services are also required to send a heartbeat signal by re-registering periodically.

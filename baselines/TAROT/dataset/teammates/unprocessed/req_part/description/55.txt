@@ -1,0 +1,1 @@
+Authentication and authorization check checks if the logged in user (or lack thereof) has sufficient privileges to trigger the API's actions.

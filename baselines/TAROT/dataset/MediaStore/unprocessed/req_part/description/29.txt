@@ -1,0 +1,1 @@
+By contrast, the UserDBAdapter component provides all functions required in order to encapsulate database access for the user data.

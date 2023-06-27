@@ -1,0 +1,1 @@
+The Client component can connect to the back end directly without using a Web browser.

@@ -1,0 +1,1 @@
+Requests for static asset files (e.g. CSS, JS files, images) are served directly without going through web.xml configuration at all.

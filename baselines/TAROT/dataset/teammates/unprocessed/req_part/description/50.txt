@@ -1,0 +1,1 @@
+Sixth, WebApiServlet sends the result back to the browser which will then process it on the front-end.

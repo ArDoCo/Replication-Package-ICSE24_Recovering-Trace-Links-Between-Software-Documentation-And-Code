@@ -1,0 +1,1 @@
+The most common format is JsonResult (requests for obtaining data or processing existing data), and other formats are defined as necessary, e.g. FileDownloadResult (e.g. downloading feedback session report) and ImageResult (e.g. profile pictures).

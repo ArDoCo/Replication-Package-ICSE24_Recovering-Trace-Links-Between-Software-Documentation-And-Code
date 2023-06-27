@@ -1,0 +1,1 @@
+Some of these classes are methodless and thus more of a data structure rather than a class.

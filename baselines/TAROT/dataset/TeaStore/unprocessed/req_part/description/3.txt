@@ -1,0 +1,1 @@
+Users are authenticated by the Auth service.

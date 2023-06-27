@@ -1,0 +1,1 @@
+This allows us to keep the architecture but still react upon changes within the core in the outer layers.

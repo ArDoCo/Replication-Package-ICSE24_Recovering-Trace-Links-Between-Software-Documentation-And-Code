@@ -1,0 +1,1 @@
+As such, it also acts as a caching layer.

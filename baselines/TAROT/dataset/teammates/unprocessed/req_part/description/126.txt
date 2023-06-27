@@ -1,0 +1,1 @@
+Instead, a corresponding non-persistent data transfer object named Attributes (e.g., CourseAttributes is the data transfer object for Course entities) object is returned.

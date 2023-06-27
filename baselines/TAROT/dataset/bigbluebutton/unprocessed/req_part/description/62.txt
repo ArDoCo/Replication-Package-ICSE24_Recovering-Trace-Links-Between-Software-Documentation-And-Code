@@ -1,0 +1,1 @@
+Users are able to join the voice conference through the headset.

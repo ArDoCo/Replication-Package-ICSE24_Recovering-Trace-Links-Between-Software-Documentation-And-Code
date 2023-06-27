@@ -1,0 +1,1 @@
+This is where information about the meeting is stored and where all messages for a meeting is processed.

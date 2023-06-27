@@ -1,0 +1,1 @@
+The Common component contains utility code (data transfer objects, helper classes, etc.) used across the application.

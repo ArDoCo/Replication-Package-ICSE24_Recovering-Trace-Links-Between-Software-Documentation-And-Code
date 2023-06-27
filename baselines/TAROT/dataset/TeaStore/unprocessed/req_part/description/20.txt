@@ -1,0 +1,1 @@
+To validate sessions, the SessionBlob is salted and hashed using SHA512 and stored in a cookie.

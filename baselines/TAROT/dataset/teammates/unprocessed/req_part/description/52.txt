@@ -1,0 +1,1 @@
+The Web API is protected by two layers of access control check.

@@ -1,0 +1,1 @@
+This is because we want to keep the data schema flexible so that new entity types can be added later with minimal modifications to existing elements.

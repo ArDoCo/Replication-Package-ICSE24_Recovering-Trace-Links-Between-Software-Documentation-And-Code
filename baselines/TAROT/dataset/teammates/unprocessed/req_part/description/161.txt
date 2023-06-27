@@ -1,0 +1,1 @@
+They can be combined in various ways to transfer structured data between components.

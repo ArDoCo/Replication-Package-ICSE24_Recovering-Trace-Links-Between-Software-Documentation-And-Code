@@ -1,0 +1,1 @@
+It is a conceptual package representing the front-end of the application.

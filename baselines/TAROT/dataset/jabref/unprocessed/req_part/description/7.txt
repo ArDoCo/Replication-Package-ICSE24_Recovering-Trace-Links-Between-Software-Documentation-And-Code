@@ -1,0 +1,1 @@
+Only the gui knows the user and his preferences and can interact with him to help him solve tasks.

@@ -1,0 +1,1 @@
+Its recommendation time is dependent on the number of items in the current cart as well as the total number of stored orders.

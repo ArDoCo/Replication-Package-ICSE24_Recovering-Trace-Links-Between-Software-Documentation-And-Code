@@ -1,0 +1,1 @@
+After the user calls the page to list all available audio files, AudioAccess creates a query that is sent to the Database component.

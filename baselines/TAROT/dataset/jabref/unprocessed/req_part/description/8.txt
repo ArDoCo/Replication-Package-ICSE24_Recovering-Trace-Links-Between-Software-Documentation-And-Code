@@ -1,0 +1,1 @@
+For each layer, we form packages according to their responsibility, i.e., vertical structuring.

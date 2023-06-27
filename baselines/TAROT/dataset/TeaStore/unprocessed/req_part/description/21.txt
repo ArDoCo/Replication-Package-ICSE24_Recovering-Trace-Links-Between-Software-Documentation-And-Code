@@ -1,0 +1,1 @@
+When a SessionBlob is received, the cookie content is re-salted and checked against the hash to check for session tampering.

@@ -1,0 +1,1 @@
+The status view lists the instance count and hosts for all registered service instances.

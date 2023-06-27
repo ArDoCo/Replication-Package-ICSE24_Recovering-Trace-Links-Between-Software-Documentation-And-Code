@@ -1,0 +1,1 @@
+Validating data inside entities before creating/updating them, to ensure they are in a valid state.

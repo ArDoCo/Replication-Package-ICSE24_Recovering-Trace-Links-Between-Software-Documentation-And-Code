@@ -1,0 +1,1 @@
+Special keys (csrf key and backdoor key) can be used to bypass each of the checks, typically for testing purpose.

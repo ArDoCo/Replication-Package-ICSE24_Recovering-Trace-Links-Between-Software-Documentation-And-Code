@@ -1,0 +1,1 @@
+The Auth service handles user and session authentication.

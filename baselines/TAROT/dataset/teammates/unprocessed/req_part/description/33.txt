@@ -1,0 +1,1 @@
+Third, request forwarded to a Servlet object as specified in web.xml for further processing, depending on the type of request.

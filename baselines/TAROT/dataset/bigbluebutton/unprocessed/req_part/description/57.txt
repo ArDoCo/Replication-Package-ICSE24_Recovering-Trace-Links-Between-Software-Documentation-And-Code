@@ -1,0 +1,1 @@
+This allows others who are using voice conference systems other than FreeSWITCH to easily create their own integration.

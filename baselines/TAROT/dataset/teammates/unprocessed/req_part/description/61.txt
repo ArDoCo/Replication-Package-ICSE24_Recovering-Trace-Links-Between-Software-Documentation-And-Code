@@ -1,0 +1,1 @@
+If this privilege is absent (e.g. non-administrator users trying to invoke the automated actions), the request will be dropped and a 403 Forbidden status will be returned.
