@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep version dot java 
+version 
 jabref download url 
 unknown version 
 version pattern 
@@ -14,6 +14,7 @@ develop version
 stabil 
 stage 
 
+version 
 
 version 
 version 
@@ -25,6 +26,9 @@ stabil
 stage 
 stage 
 
+version 
+version 
+version 
 
 version 
 logger 

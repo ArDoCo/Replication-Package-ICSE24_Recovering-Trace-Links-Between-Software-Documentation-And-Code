@@ -1,0 +1,10 @@
+key bind repositori 
+action 
+action 
+action 
+action 
+action 
+action 
+action 
+action 
+action 

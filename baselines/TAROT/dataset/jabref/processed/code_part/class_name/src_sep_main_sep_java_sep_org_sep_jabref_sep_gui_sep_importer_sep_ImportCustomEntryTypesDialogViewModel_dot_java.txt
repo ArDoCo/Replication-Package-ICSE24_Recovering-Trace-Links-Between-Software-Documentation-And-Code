@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep import sep import custom entri type dialog view model dot java 
+import custom entri type dialog view model 

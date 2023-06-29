@@ -1,12 +1,16 @@
-src sep main sep java sep org sep jabref sep logic sep export sep xmp pdf export dot java 
+xmp pdf export 
 xmp prefer 
 
+xmp prefer 
 
 xmp prefer 
 databas context 
 pdf file 
 entri 
 
+xmp prefer 
+bib databas context 
+bib entri 
 
 xmp pdf export 
 export 

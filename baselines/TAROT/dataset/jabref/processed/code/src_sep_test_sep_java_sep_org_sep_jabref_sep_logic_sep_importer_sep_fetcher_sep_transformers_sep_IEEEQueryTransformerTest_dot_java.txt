@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep ieee queri transform test dot java 
+ieee queri transform test 
 
 
 expect 

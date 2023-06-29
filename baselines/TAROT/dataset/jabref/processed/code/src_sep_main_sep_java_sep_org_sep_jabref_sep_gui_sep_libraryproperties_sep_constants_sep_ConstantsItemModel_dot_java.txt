@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep constant sep constant item model dot java 
+constant item model 
 number 
 label properti 
 content properti 

@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep metedatachang sep metadata chang detail view dot java 
+metadata chang detail view 
 
 
 metadata chang 
 prefer servic 
 chang 
 
+metadata chang 
+prefer servic 
 
 metadata chang detail view 
 differ string 

@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep intern sep abstract esl client handler dot java 
+abstract esl client handler 
 messag termin 
 line termin 
 log 
@@ -25,6 +25,7 @@ event
 ctx 
 respons 
 
+event 
 
 messag receiv 
 send sync singl line command 

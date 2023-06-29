@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang resolv dialog dot java 
+databas chang resolv dialog 
 logger 
 detail view cach 
 detail view cach 
@@ -19,11 +19,23 @@ prefer servic
 theme manag 
 entri type manag 
 
+databas chang 
+databas chang 
+databas chang 
+databas chang 
+bib databas context 
+extern chang resolv view model 
+dialog servic 
+prefer servic 
+theme manag 
+bib entri type manag 
 
 chang 
 databas 
 dialog titl 
 
+databas chang 
+bib databas context 
 
 databas chang resolv dialog 
 initi 

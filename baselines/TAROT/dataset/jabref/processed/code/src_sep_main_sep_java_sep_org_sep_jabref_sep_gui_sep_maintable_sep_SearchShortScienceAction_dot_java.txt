@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep search short scienc action dot java 
+search short scienc action 
 dialog servic 
 state manag 
 prefer servic 

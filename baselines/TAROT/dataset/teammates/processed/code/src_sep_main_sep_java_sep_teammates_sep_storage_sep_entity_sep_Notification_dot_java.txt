@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep entiti sep notif dot java 
+notif 
 notif id 
 start time 
 time 
@@ -10,6 +10,7 @@ shown
 creat 
 updat 
 
+notif target user 
 
 start time 
 time 
@@ -36,6 +37,9 @@ messag
 creat 
 updat 
 
+notif target user 
+notif target user 
+notif target user 
 
 notif 
 notif 

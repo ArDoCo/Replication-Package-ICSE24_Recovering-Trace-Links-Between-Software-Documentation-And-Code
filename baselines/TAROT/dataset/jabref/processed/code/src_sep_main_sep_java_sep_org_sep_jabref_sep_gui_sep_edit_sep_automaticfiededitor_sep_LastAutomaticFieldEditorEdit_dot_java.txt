@@ -1,13 +1,15 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor edit dot java 
+automat field editor edit 
 affect entri 
 edit 
 tab index 
 
+compound 
 
 affect entri 
 tab index 
 edit 
 
+compound 
 
 automat field editor edit 
 affect entri 

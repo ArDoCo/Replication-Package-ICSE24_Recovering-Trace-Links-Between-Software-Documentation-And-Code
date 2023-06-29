@@ -1,10 +1,12 @@
-src sep client sep java sep teammat sep client sep script sep data migrat instructor null archiv field dot java 
+data migrat instructor null archiv field 
 
 
 arg 
 instructor 
 instructor 
 
+instructor 
+instructor 
 
 main 
 filter queri 

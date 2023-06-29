@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep basic feedback submiss action dot java 
+basic feedback submiss action 
 
 
 feedback question 
@@ -22,6 +22,10 @@ giver type
 recipi type 
 recipi identifi 
 
+feedback question attribut 
+feedback question attribut 
+feedback particip type 
+feedback particip type 
 
 instructor question 
 verifi instructor question moder 

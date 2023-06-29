@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep sidepan sep side pane view model test dot java 
+side pane view model test 

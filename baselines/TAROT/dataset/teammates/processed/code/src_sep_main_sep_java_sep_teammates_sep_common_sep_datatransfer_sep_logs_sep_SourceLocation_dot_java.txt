@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep sourc locat dot java 
+sourc locat 
 file 
 line 
 function 

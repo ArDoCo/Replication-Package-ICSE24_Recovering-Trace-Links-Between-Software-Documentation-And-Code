@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep common sep datatransf sep attribut sep deadlin extens attribut test dot java 
+deadlin extens attribut test 
 valid cours id 
 valid feedback session 
 valid user email 

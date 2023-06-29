@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep team eval result calcul dot java 
+team eval result calcul 
 
 
 input 

@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep logic sep pdf sep search sep index sep document reader dot java 
+document reader 
 logger 
 hyphen linebreak pattern 
 linebreak period pattern 
 entri 
 file prefer 
 
+bib entri 
+file prefer 
 
 bib entri 
 file prefer 
@@ -27,6 +29,12 @@ page number
 document 
 path 
 
+bib entri 
+file prefer 
+bib databas context 
+link file 
+bib databas context 
+link file 
 
 document reader 
 read link pdf 

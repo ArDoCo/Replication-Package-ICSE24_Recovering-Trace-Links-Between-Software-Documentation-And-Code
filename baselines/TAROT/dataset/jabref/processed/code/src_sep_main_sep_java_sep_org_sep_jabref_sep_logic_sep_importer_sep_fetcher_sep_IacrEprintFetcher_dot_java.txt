@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep iacr eprint fetcher dot java 
+iacr eprint fetcher 
 
 letter space 
 identifi predic 
@@ -9,6 +9,7 @@ fulltext url prefix
 version url prefix 
 pref 
 
+import format prefer 
 
 pref 
 identifi 
@@ -26,6 +27,10 @@ haystack
 entri 
 entri 
 
+import format prefer 
+bib entri 
+bib entri 
+bib entri 
 
 iacr eprint fetcher 
 perform search id 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep custom local dragboard dot java 
+custom local dragboard 
 bib entri 
 bib entri 
 content 

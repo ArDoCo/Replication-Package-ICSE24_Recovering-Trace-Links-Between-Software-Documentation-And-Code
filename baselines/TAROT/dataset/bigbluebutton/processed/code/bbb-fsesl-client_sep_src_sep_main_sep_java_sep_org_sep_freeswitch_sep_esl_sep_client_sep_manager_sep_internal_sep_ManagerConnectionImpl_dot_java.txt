@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep manag sep intern sep manag connect impl dot java 
+manag connect impl 
 default hostnam 
 default port 
 default timeout 

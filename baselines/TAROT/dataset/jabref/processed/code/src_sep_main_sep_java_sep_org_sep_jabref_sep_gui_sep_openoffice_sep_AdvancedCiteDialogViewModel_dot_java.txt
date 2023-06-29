@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep advanc cite dialog view model dot java 
+advanc cite dialog view model 
 page info 
 cite par 
 cite text 

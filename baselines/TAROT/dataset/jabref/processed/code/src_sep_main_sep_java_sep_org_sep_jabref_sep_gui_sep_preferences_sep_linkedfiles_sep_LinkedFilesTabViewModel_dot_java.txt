@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep linkedfil sep link file tab view model dot java 
+link file tab view model 
 main file directori properti 
 main file directori properti 
 bib locat primari properti 
@@ -16,10 +16,15 @@ dialog servic
 file prefer 
 auto link prefer 
 
+dialog servic 
+file prefer 
+auto link prefer 
 
 dialog servic 
 prefer 
 
+dialog servic 
+prefer servic 
 
 link file tab view model 
 set valu 

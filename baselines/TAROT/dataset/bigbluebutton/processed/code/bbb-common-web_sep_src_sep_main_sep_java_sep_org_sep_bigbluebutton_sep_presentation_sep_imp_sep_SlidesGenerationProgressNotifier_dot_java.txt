@@ -1,9 +1,10 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep slide generat progress notifi dot java 
+slide generat progress notifi 
 log 
 messag servic 
 max number attempt 
 generat slide info helper 
 
+bbb web api gw app 
 
 msg 
 pres 
@@ -26,6 +27,7 @@ helper
 pres 
 pres 
 
+bbb web api gw app 
 
 send doc convers progress 
 send upload file larg messag 

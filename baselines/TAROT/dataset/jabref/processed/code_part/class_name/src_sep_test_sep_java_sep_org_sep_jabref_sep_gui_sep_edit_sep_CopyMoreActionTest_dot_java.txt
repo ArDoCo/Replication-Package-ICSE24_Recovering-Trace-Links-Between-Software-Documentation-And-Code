@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep edit sep copi action test dot java 
+copi action test 

@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep grobid citat fetcher dot java 
+grobid citat fetcher 
 logger 
 import format prefer 
 grobid servic 
 
+import format prefer 
+grobid servic 
 
 grobid prefer 
 import format prefer 
@@ -12,6 +14,10 @@ plain text
 search queri 
 lucen queri 
 
+grobid prefer 
+import format prefer 
+import format prefer 
+grobid servic 
 
 grobid citat fetcher 
 grobid citat fetcher 

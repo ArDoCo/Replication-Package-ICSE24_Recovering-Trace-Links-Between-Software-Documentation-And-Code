@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep sep local entri dot java 
+local entri 
 path 
 key 
 bundl 
@@ -10,6 +10,7 @@ bundl
  
  
 
+local entri 
 
 local entri 
 path 

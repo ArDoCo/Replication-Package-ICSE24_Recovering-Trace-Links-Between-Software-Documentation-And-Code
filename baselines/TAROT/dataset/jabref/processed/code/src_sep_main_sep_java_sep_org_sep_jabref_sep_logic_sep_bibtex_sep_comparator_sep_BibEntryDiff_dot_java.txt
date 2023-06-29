@@ -1,11 +1,15 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep bib entri diff dot java 
+bib entri diff 
 origin entri 
 entri 
 
+bib entri 
+bib entri 
 
 origin entri 
 entri 
 
+bib entri 
+bib entri 
 
 bib entri diff 
 origin entri 

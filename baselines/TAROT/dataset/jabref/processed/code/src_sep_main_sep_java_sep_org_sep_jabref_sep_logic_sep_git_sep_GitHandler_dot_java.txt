@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep git sep git handler dot java 
+git handler 
 logger 
 repositori path 
 repositori path file 

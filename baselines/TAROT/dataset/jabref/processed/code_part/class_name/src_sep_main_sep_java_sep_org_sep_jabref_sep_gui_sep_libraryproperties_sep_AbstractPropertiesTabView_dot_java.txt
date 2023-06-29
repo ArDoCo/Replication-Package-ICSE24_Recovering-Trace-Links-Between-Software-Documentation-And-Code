@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep abstract properti tab view dot java 
+abstract properti tab view 

@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep common sep messag sep bbb app aliv messag dot java 
+bbb app aliv messag 
 bbb app aliv 
 version 
 timestamp 

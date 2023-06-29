@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep instructor logic dot java 
+instructor logic 
 log 
 instanc 
 instructor db 
@@ -8,6 +8,14 @@ fq logic
 fs logic 
 de logic 
 
+logger 
+instructor logic 
+instructor db 
+feedback respons logic 
+feedback respons comment logic 
+feedback question logic 
+feedback session logic 
+deadlin extens logic 
 
 instructor 
 queri string 
@@ -49,6 +57,10 @@ googl id
 start time 
 time 
 
+instructor attribut 
+instructor attribut 
+attribut delet queri 
+instructor attribut 
 
 instructor logic 
 inst 

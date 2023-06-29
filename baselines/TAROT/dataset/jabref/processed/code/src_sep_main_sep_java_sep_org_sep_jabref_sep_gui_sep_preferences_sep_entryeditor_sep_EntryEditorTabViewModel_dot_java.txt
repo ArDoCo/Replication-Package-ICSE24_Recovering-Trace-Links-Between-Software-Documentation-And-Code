@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditor sep entri editor tab view model dot java 
+entri editor tab view model 
 open entri properti 
 default sourc properti 
 enabl relat articl tab properti 
@@ -19,10 +19,12 @@ auto complet prefer
 restart warn 
 restart warn 
 
+entri editor prefer 
 
 entri editor prefer 
 auto complet prefer 
 
+entri editor prefer 
 
 entri editor tab view model 
 set valu 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep pdf sep file annot cach dot java 
+file annot cach 

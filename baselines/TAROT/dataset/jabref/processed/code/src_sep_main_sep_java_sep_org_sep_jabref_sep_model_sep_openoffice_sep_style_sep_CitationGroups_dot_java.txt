@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep citat group dot java 
+citat group 
 logger 
 citat group unord 
 citat group unord 
@@ -7,6 +7,8 @@ global order
 bibliographi 
 bibliographi 
 
+citat group id 
+cite key 
 
 citat group 
 
@@ -21,6 +23,16 @@ group id
 group 
 group 
 
+citat group id 
+citat path 
+bib databas 
+citat group id 
+bib entri 
+bib entri 
+bib entri 
+citat group id 
+citat group 
+citat group 
 
 citat group 
 number citat group 

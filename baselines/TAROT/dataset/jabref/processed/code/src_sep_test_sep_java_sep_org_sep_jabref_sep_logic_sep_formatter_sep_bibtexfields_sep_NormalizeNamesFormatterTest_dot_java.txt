@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep normal formatt test dot java 
+normal formatt test 
 formatt 
 
+normal formatt 
 
 
 

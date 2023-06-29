@@ -1,11 +1,15 @@
-src sep main sep java sep org sep jabref sep logic sep import sep import cleanup dot java 
+import cleanup 
 target bib entri format 
 
+bib databas mode 
 
 target bib entri format 
 entri 
 entri 
 
+bib databas mode 
+bib entri 
+bib entri 
 
 import cleanup 
 post cleanup 

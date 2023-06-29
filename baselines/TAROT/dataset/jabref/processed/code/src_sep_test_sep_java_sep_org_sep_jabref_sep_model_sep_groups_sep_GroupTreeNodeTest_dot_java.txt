@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep group sep group tree node test dot java 
+group tree node test 
 entri 
 entri 
 entri 

@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep author nat bib test dot java 
+author nat bib test 
 author nat bib formatt 
 
+layout formatt 
 
 expect string 
 input string 

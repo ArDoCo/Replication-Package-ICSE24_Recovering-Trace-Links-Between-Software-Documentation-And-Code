@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep thumbnail creator dot java 
+thumbnail creator 
 
 
 pres 

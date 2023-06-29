@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep auth info dot java 
+auth info 
 student login url 
 instructor login url 
 admin login url 
@@ -6,6 +6,7 @@ maintain login url
 user 
 masquerad 
 
+er info 
 
 student login url 
 instructor login url 
@@ -14,6 +15,7 @@ maintain login url
 user 
 masquerad 
 
+er info 
 
 auth info 
 auth info 

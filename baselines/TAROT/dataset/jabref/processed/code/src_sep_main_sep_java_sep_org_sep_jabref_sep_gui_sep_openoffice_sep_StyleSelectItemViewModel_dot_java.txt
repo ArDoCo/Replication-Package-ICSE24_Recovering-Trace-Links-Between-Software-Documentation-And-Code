@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep style select item view model dot java 
+style select item view model 
 
 journal 
 file 
@@ -7,12 +7,14 @@ icon
 style 
 intern style 
 
+oo bib style 
 
 
 journal 
 file 
 style 
 
+oo bib style 
 
 style select item view model 
 properti 

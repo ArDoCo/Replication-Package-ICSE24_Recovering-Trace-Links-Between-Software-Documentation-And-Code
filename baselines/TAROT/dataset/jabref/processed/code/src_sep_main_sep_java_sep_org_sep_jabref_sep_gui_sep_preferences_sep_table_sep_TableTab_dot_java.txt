@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep tabl sep tabl tab dot java 
+tabl tab 
 column list 
 column list 
 column 
@@ -20,6 +20,10 @@ abbrevi enabl
 abbrevi onli 
 valid visual 
 
+main tabl column model 
+main tabl column model 
+main tabl column model 
+main tabl column model 
 
 
 

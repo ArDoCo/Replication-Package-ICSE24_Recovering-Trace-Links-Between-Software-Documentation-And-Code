@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep string sep string similar dot java 
+string similar 
 metric distanc 
 metric threshold 
 

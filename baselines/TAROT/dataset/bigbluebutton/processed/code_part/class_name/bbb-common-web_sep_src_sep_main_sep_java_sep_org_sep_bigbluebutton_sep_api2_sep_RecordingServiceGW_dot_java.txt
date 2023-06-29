@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep record servic gw dot java 
+record servic gw 

@@ -1,8 +1,10 @@
-src sep sep java sep teammat sep sep case sep base test case dot java 
+base test case 
 backdoor 
 test data 
 browser 
 
+door 
+browser 
 
 context 
 relat url 
@@ -54,6 +56,18 @@ deadlin extens
 test data 
 test data 
 
+app url 
+app url 
+app url 
+account attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback session attribut 
+instructor attribut 
+account request attribut 
+notif attribut 
+deadlin extens attribut 
 
 base class setup 
 prepar browser 

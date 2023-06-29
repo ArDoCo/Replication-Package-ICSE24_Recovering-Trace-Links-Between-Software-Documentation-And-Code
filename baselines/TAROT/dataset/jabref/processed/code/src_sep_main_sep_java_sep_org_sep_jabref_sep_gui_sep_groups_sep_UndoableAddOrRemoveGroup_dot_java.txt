@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep undoabl add remov group dot java 
+undoabl add remov group 
 add node 
 remov node children 
 remov node children 
@@ -9,12 +9,16 @@ path node
 path node 
 edit type 
 
+group tree node view model 
+group tree node 
 
 group root 
 edit node 
 edit type 
 undo 
 
+group tree node view model 
+group tree node view model 
 
 undoabl add remov group 
 present 

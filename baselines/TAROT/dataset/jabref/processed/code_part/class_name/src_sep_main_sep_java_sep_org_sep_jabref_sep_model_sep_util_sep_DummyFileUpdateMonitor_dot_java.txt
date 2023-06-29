@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep util sep dummi file updat monitor dot java 
+dummi file updat monitor 

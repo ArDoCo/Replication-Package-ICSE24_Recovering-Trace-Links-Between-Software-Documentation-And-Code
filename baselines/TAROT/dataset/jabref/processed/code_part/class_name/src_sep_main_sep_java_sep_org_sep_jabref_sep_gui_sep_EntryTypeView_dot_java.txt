@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep entri type view dot java 
+entri type view 

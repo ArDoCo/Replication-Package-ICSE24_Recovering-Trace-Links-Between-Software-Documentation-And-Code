@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep convert sep messag sep destroy meet messag dot java 
+destroy meet messag 
 destroy meet request event 
 version 
 meet id 

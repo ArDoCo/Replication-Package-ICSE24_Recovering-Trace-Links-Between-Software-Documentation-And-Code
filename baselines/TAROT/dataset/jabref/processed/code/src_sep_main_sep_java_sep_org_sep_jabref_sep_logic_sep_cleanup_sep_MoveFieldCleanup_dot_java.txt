@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep move field cleanup dot java 
+move field cleanup 
 sourc field 
 target field 
 

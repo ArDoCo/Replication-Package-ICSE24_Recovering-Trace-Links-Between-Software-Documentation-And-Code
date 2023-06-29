@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep event sep connect lost event dot java 
+connect lost event 
 bib databas context 
 
 

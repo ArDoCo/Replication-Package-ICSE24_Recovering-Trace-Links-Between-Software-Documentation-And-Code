@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep auto link file action dot java 
+auto link file action 
 dialog servic 
 prefer 
 state manag 
 undo manag 
 task executor 
 
+dialog servic 
 
 dialog servic 
 prefer 
@@ -12,6 +13,7 @@ state manag
 undo manag 
 task executor 
 
+dialog servic 
 
 auto link file action 
 execut 

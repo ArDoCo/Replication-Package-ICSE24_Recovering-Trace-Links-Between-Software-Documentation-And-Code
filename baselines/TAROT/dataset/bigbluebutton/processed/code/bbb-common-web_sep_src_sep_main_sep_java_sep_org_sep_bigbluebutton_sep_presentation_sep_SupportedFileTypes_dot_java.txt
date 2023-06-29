@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep support file type dot java 
+support file type 
 log 
 mime type util 
 support file list 

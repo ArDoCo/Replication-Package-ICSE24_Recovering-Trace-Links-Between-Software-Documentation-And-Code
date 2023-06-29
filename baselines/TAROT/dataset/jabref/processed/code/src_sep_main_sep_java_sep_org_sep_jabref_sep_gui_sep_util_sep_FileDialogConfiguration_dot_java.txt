@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep file dialog configur dot java 
+file dialog configur 
 extens filter 
 extens filter 
 initi directori 
@@ -31,6 +31,10 @@ file type
 descript 
 file type 
 
+file type 
+file type 
+file type 
+file type 
 
 file dialog configur 
 initi directori 

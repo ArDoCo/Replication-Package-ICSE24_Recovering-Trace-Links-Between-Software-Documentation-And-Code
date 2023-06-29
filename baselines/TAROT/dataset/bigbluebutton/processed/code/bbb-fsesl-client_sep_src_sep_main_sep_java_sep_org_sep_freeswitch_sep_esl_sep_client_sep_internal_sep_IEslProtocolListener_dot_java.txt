@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep intern sep protocol listen dot java 
+protocol listen 
 
 
 respons 

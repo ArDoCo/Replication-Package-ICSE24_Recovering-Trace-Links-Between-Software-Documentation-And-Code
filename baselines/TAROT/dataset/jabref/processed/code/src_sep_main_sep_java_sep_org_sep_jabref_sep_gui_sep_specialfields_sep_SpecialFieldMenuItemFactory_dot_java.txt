@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep specialfield sep special field menu item factori dot java 
+special field menu item factori 
 
 
 field 
@@ -21,6 +21,19 @@ prefer servic
 undo manag 
 command factori 
 
+special field 
+action factori 
+jab ref frame 
+dialog servic 
+prefer servic 
+special field 
+action factori 
+jab ref frame 
+dialog servic 
+prefer servic 
+special field 
+action factori 
+prefer servic 
 
 special field singl item 
 creat special field menu 

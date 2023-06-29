@@ -1,12 +1,15 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep cell factori dot java 
+cell factori 
 tabl icon 
 tabl icon 
 
+field 
 
 prefer servic 
 undo manag 
 field 
 
+prefer servic 
+field 
 
 cell factori 
 tabl icon 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep desktop sep os sep window dot java 
+window 
 logger 
 default execut extens 
 
@@ -16,6 +16,7 @@ file path
 absolut path 
 dialog servic 
 
+dialog servic 
 
 open file 
 detect program path 

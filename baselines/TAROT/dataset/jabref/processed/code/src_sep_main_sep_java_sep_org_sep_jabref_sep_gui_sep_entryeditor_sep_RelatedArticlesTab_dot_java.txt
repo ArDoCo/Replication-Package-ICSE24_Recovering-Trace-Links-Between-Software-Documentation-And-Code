@@ -1,9 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep relat articl tab dot java 
+relat articl tab 
 logger 
 prefer 
 dialog servic 
 prefer servic 
 
+entri editor prefer 
+dialog servic 
+prefer servic 
 
 entri editor 
 prefer 
@@ -16,6 +19,16 @@ entri
 entri 
 entri 
 
+entri editor 
+entri editor prefer 
+prefer servic 
+dialog servic 
+bib entri 
+bib entri 
+lib fetcher 
+bib entri 
+bib entri 
+bib entri 
 
 relat articl tab 
 relat articl pane 

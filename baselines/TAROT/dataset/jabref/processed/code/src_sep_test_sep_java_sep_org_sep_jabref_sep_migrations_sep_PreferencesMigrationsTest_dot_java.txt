@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep migrat sep prefer migrat test dot java 
+prefer migrat test 
 pref 
 main pref node 
 style pattern 

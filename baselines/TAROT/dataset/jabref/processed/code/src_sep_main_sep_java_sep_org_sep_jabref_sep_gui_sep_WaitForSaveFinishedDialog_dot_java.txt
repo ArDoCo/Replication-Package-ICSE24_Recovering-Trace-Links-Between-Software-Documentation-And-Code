@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep gui sep wait save finish dialog dot java 
+wait save finish dialog 
 dialog servic 
 
+dialog servic 
 
 dialog servic 
 librari tab 
 
+dialog servic 
+librari tab 
 
 wait save finish dialog 
 show wait 

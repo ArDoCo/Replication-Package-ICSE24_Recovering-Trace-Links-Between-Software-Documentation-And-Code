@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep storag sep entiti sep base entiti dot java 
+base entiti 

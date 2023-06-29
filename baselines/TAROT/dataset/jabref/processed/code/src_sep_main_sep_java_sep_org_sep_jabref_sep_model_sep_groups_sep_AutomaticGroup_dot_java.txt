@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep automat group dot java 
+automat group 
 
 
 
@@ -7,6 +7,10 @@ entri
 entri 
 entri 
 
+group hierarchi type 
+bib entri 
+bib entri 
+bib entri 
 
 automat group 
 

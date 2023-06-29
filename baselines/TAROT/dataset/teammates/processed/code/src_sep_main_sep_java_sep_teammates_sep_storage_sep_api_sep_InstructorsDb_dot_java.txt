@@ -1,7 +1,8 @@
-src sep main sep java sep teammat sep storag sep api sep instructor db dot java 
+instructor db 
 max key regener tri 
 instanc 
 
+instructor db 
 
 instructor 
 instructor uniqu id 
@@ -46,6 +47,8 @@ attribut
 start time 
 time 
 
+attribut delet queri 
+instructor 
 
 instructor db 
 inst 

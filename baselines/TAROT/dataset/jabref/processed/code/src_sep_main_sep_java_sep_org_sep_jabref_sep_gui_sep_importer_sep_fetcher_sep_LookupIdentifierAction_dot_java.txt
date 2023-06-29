@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep fetcher sep lookup identifi action dot java 
+lookup identifi action 
 logger 
 frame 
 fetcher 
@@ -6,6 +6,7 @@ fetcher
 state manag 
 undo manag 
 
+id fetcher 
 
 frame 
 fetcher 

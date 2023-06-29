@@ -1,0 +1,2 @@
+automat field editor tab 
+compound 

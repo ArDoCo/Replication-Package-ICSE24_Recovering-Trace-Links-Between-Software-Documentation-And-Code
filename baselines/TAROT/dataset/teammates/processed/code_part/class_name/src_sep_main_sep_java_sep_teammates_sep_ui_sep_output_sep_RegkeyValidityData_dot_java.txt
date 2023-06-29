@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep ui sep output sep regkey valid data dot java 
+regkey valid data 

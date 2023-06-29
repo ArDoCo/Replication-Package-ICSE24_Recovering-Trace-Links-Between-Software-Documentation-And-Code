@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep edit checker test dot java 
+edit checker test 
 
 
 integ edit 
@@ -6,6 +6,7 @@ integ edit
 bib databas context edit 
 integ edit 
 
+bib databas context 
 
 charact number 
 charact number fals empti string 

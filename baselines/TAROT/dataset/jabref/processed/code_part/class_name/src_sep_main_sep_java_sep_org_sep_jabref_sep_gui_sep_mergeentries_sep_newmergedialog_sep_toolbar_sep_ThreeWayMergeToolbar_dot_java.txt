@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep toolbar sep merg toolbar dot java 
+merg toolbar 

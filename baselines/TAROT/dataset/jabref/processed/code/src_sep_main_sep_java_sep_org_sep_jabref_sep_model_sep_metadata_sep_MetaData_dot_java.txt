@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep metadata sep meta data dot java 
+meta data 
 meta flag 
 entrytyp flag 
 save order config 
@@ -41,6 +41,13 @@ event propag enabl
 encod explicit suppli 
 version db structur 
 
+entri type 
+group tree node 
+group tree node 
+save order 
+field formatt cleanup 
+bib databas mode 
+content selector 
 
 save order 
 root 
@@ -74,6 +81,17 @@ key
 valu 
  
 
+save order 
+group tree node 
+global citat key pattern 
+abstract citat key pattern 
+entri type 
+field formatt cleanup 
+bib databas mode 
+content selector 
+field 
+field 
+chang propag 
 
 meta data 
 save order config 

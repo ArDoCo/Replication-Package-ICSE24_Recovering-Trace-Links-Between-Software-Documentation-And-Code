@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep linkedfil sep link file tab dot java 
+link file tab 
 main file directori 
 main file directori 
 bib locat primari 

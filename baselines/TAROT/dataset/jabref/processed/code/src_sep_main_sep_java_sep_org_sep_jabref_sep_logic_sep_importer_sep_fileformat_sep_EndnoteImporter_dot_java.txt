@@ -1,15 +1,17 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep endnot import dot java 
+endnot import 
 endofrecord 
 pattern 
 pattern 
 prefer 
 
+import format prefer 
 
 prefer 
 reader 
 reader 
  
 
+import format prefer 
 
 endnot import 
 

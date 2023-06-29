@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep main applic dot java 
+main applic 
 parser result 
 parser result 
 blank 

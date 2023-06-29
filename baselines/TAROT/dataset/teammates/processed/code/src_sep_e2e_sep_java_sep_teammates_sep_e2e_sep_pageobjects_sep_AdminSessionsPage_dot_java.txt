@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep admin session page dot java 
+admin session page 
 toggl filter button 
 ongo session tabl 
 
@@ -11,6 +11,7 @@ instant
 instant 
 time zone 
 
+browser 
 
 admin session page 
 expect page content 

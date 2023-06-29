@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep format sep open offic type dot java 
+open offic type 
 
 
 field text 

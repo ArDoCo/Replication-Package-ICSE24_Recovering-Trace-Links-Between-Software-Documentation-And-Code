@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep bib databas writer dot java 
+bib databas writer 
 refer pattern 
 bib writer 
 save configur 
@@ -7,6 +7,9 @@ save action field chang
 save action field chang 
 entri type manag 
 
+save configur 
+citat key pattern prefer 
+bib entri type manag 
 
 bib writer 
 save configur 
@@ -47,6 +50,20 @@ custom type
 databas context 
 entri 
 
+save configur 
+citat key pattern prefer 
+bib entri type manag 
+save configur 
+bib databas context 
+save configur 
+save configur 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas mode 
+bibtex string 
+bibtex string 
+bib databas context 
 
 bib databas writer 
 appli save action 

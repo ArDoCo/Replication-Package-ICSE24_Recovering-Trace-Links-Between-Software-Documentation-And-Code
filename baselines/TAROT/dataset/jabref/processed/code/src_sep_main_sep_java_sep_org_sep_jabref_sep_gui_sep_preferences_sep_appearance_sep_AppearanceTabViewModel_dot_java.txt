@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep sep tab view model dot java 
+tab view model 
 font size valu factori 
 font size valu factori 
 font overrid properti 

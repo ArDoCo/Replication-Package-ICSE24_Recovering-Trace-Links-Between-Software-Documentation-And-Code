@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep citat key pattern panel dot java 
+citat key pattern panel 
 entri type column 
 entri type column 
 pattern column 
@@ -10,6 +10,11 @@ view model
 key press time 
 tabl search term 
 
+citat key pattern panel item model 
+citat key pattern panel item model 
+citat key pattern panel item model 
+prefer servic 
+citat key pattern panel view model 
 
 entri type list 
 key pattern 
@@ -17,6 +22,9 @@ keypress
 item 
 empti 
 
+bib entri type 
+abstract citat key pattern 
+citat key pattern panel item model 
 
 citat key pattern panel 
 initi 

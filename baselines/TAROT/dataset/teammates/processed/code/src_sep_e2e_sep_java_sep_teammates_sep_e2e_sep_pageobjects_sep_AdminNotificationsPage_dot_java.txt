@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep admin notif page dot java 
+admin notif page 
 add notif button 
 creat notif button 
 edit notif button 
@@ -32,6 +32,14 @@ date
 user type 
 style 
 
+browser 
+notif attribut 
+notif attribut 
+notif attribut 
+notif attribut 
+notif attribut 
+notif attribut 
+notif target user 
 
 admin notif page 
 expect page content 

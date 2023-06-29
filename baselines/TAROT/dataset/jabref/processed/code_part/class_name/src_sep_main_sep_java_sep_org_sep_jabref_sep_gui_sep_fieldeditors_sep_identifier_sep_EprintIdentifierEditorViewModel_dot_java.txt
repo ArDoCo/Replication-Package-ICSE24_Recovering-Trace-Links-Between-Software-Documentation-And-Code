@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep eprint identifi editor view model dot java 
+eprint identifi editor view model 

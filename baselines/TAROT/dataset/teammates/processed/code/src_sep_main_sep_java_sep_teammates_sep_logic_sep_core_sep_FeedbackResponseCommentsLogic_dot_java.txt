@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep feedback respons comment logic dot java 
+feedback respons comment logic 
 instanc 
 frc db 
 cours logic 
@@ -7,6 +7,11 @@ fs logic
 instructor logic 
 student logic 
 
+feedback respons comment logic 
+feedback respons comment db 
+feedback respons logic 
+feedback session logic 
+student logic 
 
 fr comment 
 feedback respons comment id 
@@ -68,6 +73,27 @@ comment feedback particip
 cours id 
 feedback session 
 
+feedback respons comment attribut 
+attribut delet queri 
+feedback respons comment attribut 
+feedback respons attribut 
+cours roster 
+feedback respons attribut 
+cours roster 
+feedback particip type 
+feedback respons attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback particip type 
+feedback particip type 
 
 feedback respons comment logic 
 inst 

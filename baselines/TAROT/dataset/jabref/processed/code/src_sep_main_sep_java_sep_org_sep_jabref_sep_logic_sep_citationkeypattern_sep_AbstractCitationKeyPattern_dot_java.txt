@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep abstract citat key pattern dot java 
+abstract citat key pattern 
 default pattern 
 default pattern 
 data 

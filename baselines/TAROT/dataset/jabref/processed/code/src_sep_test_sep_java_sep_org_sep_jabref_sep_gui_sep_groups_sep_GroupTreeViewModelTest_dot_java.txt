@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep group sep group tree view model test dot java 
+group tree view model test 
 state manag 
 group tree 
 databas context 
@@ -6,6 +6,10 @@ task executor
 prefer servic 
 dialog servic 
 
+group tree view model 
+bib databas context 
+prefer servic 
+dialog servic 
 
 
 

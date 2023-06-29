@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl prefer dot java 
+main tabl prefer 
 column prefer 
 resiz column fit 
 extra file column enabl 

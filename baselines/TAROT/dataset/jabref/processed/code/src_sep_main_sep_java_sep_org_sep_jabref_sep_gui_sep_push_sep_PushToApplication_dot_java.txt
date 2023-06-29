@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push applic dot java 
+push applic 
 
 
 databas 
@@ -7,6 +7,7 @@ key string
 applic 
 push applic prefer 
 
+push applic 
 
 display 
 tooltip 

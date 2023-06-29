@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep sep java local entri parser test dot java 
+java local entri parser test 
 
 
 code 

@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep zb math dot java 
+zb math 
 prefer 
 
+import format prefer 
 
 prefer 
 entri 
@@ -8,6 +9,7 @@ lucen queri
 identifi 
 entri 
 
+import format prefer 
 
 zb math 
 

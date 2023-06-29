@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep option editor view model dot java 
+option editor view model 
 
 
 field 
@@ -6,6 +6,8 @@ suggest provid
 field checker 
 object 
 
+field 
+field checker 
 
 option editor view model 
 string convert 

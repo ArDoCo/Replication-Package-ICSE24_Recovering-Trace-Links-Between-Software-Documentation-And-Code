@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entri type view model dot java 
+entri type view model 
 logger 
 prefer servic 
 search properti 
@@ -20,6 +20,14 @@ task executor
 fetcher 
 search id 
 
+prefer servic 
+id base fetcher 
+id base fetcher 
+librari tab 
+dialog servic 
+import format reader 
+task executor 
+id base fetcher 
 
 prefer 
 librari tab 
@@ -28,6 +36,11 @@ state manag
 import format reader 
 task executor 
 
+prefer servic 
+librari tab 
+dialog servic 
+import format reader 
+task executor 
 
 entri type view model 
 search succes properti 

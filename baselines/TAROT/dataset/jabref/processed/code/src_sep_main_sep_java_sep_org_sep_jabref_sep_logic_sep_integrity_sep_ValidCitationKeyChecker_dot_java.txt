@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep valid citat key checker dot java 
+valid citat key checker 
 
 
 valu 

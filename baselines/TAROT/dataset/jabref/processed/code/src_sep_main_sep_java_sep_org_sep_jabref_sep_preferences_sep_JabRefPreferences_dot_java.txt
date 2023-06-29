@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep jab ref prefer dot java 
+jab ref prefer 
 push emac path 
 push emac addit paramet 
 push lyxpip 
@@ -246,6 +246,26 @@ search dialog column prefer
 journal abbrevi prefer 
 field prefer 
 
+jab ref prefer 
+general prefer 
+telemetri prefer 
+doi prefer 
+preview prefer 
+open offic prefer 
+side pane prefer 
+protect term prefer 
+entri editor prefer 
+search prefer 
+auto link prefer 
+formatt prefer 
+xmp prefer 
+auto complet prefer 
+cleanup prefer 
+push applic prefer 
+citat key pattern prefer 
+display prefer 
+main tabl prefer 
+journal abbrevi prefer 
 
 valu 
 convert 
@@ -321,6 +341,15 @@ histori
 import 
 fetcher api key 
 
+number 
+bib databas mode 
+bib databas mode 
+bib entri type manag 
+bib databas mode 
+bib databas mode 
+main tabl column model 
+save order 
+fetcher api key 
 
 jab ref prefer 
 instanc 

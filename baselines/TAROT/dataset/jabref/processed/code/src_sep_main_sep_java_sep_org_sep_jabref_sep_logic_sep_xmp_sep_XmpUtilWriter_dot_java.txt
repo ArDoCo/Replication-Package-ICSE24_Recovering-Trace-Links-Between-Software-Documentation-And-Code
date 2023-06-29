@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep xmp sep xmp util writer dot java 
+xmp util writer 
 xmp tag 
 logger 
 unprotect term formatt 
 xmp prefer 
 
+xmp prefer 
 
 xmp prefer 
 file 
@@ -28,6 +29,7 @@ databas
 default entri 
 databas 
 
+xmp prefer 
 
 xmp util writer 
 write xmp 

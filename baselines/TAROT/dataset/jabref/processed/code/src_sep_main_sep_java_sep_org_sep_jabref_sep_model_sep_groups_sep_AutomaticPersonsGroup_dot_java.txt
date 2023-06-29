@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep model sep group sep automat person group dot java 
+automat person group 
 field 
 
+field 
 
 
 context 
@@ -8,6 +9,9 @@ field
  
 entri 
 
+group hierarchi type 
+field 
+bib entri 
 
 automat person group 
 equal 

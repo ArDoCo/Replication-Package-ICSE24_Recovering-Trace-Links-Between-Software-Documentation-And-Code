@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep trim whitespac formatt dot java 
+trim whitespac formatt 
 
 
 valu 

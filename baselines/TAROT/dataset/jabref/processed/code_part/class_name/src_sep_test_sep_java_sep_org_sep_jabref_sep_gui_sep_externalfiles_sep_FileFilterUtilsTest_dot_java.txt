@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep externalfil sep file filter util test dot java 
+file filter util test 

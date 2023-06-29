@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep multi merg entri view model dot java 
+multi merg entri view model 

@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep model sep databas sep key chang listen dot java 
+key chang listen 
 databas 
 
+bib databas 
 
 databas 
 event 
@@ -18,6 +19,12 @@ entri
 field 
 field content 
 
+bib databas 
+entri remov event 
+bib entri 
+field 
+bib entri 
+field 
 
 key chang listen 
 listen 

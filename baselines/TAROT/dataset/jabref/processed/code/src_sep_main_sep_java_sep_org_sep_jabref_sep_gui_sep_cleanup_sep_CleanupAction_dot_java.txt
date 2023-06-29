@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep cleanup sep cleanup action dot java 
+cleanup action 
 frame 
 prefer 
 dialog servic 
@@ -6,6 +6,9 @@ state manag
 cancel 
 modifi entri count 
 
+jab ref frame 
+prefer servic 
+dialog servic 
 
 frame 
 prefer 
@@ -18,6 +21,15 @@ ce
 databas context 
 cleanup prefer 
 
+jab ref frame 
+prefer servic 
+dialog servic 
+bib databas context 
+cleanup prefer 
+bib entri 
+compound 
+bib databas context 
+cleanup prefer 
 
 cleanup action 
 execut 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep copyfil sep copi singl file action dot java 
+copi singl file action 
 link file 
 dialog servic 
 databas context 
@@ -6,6 +6,7 @@ file prefer
 resolv path filenam 
 resolv path filenam 
 
+bib databas context 
 
 link file 
 dialog servic 
@@ -13,6 +14,7 @@ databas context
 file prefer 
 export path 
 
+bib databas context 
 
 copi singl file action 
 execut 

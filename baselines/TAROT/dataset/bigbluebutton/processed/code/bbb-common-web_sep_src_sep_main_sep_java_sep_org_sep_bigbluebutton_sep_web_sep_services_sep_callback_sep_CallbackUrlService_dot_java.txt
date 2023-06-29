@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep callback sep callback url servic dot java 
+callback url servic 
 log 
 receiv messag 
 receiv messag 

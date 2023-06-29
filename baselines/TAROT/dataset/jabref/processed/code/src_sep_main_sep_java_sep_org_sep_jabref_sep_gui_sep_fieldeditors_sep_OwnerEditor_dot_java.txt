@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep owner editor dot java 
+owner editor 
 view model 
 text area 
 
+owner editor view model 
 
 field 
 prefer 
@@ -9,6 +10,10 @@ suggest provid
 field checker 
 entri 
 
+field 
+prefer servic 
+field checker 
+bib entri 
 
 owner editor 
 view model 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep abstract view model dot java 
+abstract view model 
 
 
 

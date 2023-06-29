@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep notif attribut dot java 
+notif attribut 
 notif id 
 start time 
 time 
@@ -28,6 +28,9 @@ shown option
 updat option 
 builder 
 
+notif target user 
+notif attribut 
+notif target user 
 
 notif id 
  
@@ -58,6 +61,10 @@ target user
 titl 
 messag 
 
+notif 
+notif target user 
+notif attribut 
+notif target user 
 
 notif attribut 
 valu 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep importexport sep import export tab dot java 
+import export tab 

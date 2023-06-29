@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep extern sep googl cloud log servic dot java 
+googl cloud log servic 
 resourc type gae app 
 stdout log 
 stderr log 
@@ -9,6 +9,7 @@ log
 resourc type 
 queri log param 
 
+queri log param 
 
 queri log param 
 sever 
@@ -31,6 +32,9 @@ log
 resourc type 
 queri log param 
 
+queri log param 
+queri log param 
+queri log param 
 
 queri log 
 convert sever 

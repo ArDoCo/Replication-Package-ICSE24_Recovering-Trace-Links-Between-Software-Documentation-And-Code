@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep databas sep bib databas mode detect test dot java 
+bib databas mode detect test 
 unknown type 
 
 

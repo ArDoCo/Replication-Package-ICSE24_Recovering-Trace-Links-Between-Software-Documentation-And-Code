@@ -1,12 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep persist visual state tabl dot java 
+persist visual state tabl 
 tabl 
 tabl 
 prefer 
 
+bib entri tabl view model 
+column prefer 
 
 tabl 
 prefer 
 
+bib entri tabl view model 
+column prefer 
 
 persist visual state tabl 
 updat column 

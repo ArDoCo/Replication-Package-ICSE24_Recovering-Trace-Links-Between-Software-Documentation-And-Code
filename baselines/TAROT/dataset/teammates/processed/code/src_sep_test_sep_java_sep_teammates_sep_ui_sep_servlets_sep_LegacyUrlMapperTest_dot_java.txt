@@ -1,8 +1,9 @@
-src sep test sep java sep teammat sep ui sep servlet sep legaci url mapper test dot java 
+legaci url mapper test 
 mapper 
 mock request 
 mock respons 
 
+mock http servlet respons 
 
 request url 
 

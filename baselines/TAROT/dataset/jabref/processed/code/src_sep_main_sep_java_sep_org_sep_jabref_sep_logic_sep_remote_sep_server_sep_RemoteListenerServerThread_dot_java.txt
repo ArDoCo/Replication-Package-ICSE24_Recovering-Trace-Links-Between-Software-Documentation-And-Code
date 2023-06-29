@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep logic sep remot sep server sep remot listen server thread dot java 
+remot listen server thread 
 logger 
 server 
 
+remot listen server 
 
 messag handler 
 port 

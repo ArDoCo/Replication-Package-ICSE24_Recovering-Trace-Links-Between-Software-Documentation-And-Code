@@ -1,9 +1,11 @@
-src sep test sep java sep teammat sep logic sep api sep mock log processor dot java 
+mock log processor 
 feedback session log 
 feedback session log 
 general log 
 general log 
 
+feedback session log entri 
+general log entri 
 
 student email 
 feedback session 
@@ -45,6 +47,10 @@ start time
 time 
 fs 
 
+log detail 
+log detail 
+log detail 
+log detail 
 
 insert feedback session log 
 insert info log 

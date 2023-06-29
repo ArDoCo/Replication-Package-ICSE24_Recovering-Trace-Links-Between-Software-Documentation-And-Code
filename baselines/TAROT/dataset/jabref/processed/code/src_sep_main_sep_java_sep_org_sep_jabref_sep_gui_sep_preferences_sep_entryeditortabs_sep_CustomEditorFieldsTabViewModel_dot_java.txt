@@ -1,14 +1,19 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditortab sep custom editor field tab view model dot java 
+custom editor field tab view model 
 field properti 
 dialog servic 
 prefer 
 entri editor prefer 
 
+dialog servic 
+prefer servic 
+entri editor prefer 
 
 dialog servic 
 prefer 
 tab field 
 
+dialog servic 
+prefer servic 
 
 custom editor field tab view model 
 set valu 

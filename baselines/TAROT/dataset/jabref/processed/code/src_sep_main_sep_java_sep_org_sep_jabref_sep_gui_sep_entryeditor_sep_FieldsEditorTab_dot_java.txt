@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep field editor tab dot java 
+field editor tab 
 databas context 
 editor 
 editor 
@@ -17,6 +17,17 @@ field
 field 
 grid pane 
 
+bib databas context 
+field 
+suggest provid 
+dialog servic 
+prefer servic 
+theme manag 
+task executor 
+journal abbrevi repositori 
+state manag 
+preview panel 
+field 
 
 compress 
 databas context 
@@ -45,6 +56,19 @@ entri
 entri 
 entri 
 
+bib databas context 
+suggest provid 
+dialog servic 
+prefer servic 
+state manag 
+theme manag 
+task executor 
+journal abbrevi repositori 
+bib entri 
+field 
+bib entri 
+bib entri 
+bib entri 
 
 field editor tab 
 add column 

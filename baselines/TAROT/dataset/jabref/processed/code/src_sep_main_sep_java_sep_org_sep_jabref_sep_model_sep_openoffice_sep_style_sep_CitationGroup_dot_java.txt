@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep citat group dot java 
+citat group 
 data model 
 group id 
 citat type 
@@ -13,6 +13,8 @@ index global order
 citat marker 
 citat marker 
 
+oo data model 
+citat 
 
 data model 
 group id 
@@ -24,6 +26,8 @@ index global order
 refer mark link 
 citat marker 
 
+oo data model 
+citat 
 
 citat group 
 number citat 

@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep case sep instructor student activ log page test dot java 
+instructor student activ log page test 

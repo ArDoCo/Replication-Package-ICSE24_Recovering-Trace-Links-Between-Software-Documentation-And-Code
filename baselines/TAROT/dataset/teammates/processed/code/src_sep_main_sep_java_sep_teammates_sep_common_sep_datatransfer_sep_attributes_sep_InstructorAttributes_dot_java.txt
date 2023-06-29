@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep instructor attribut dot java 
+instructor attribut 
 cours id 
 email 
 
@@ -37,6 +37,9 @@ instructor privileg option
 updat option 
 builder 
 
+instructor privileg 
+instructor attribut 
+instructor privileg 
 
 cours id 
 email 
@@ -94,6 +97,10 @@ instructor privileg
 display student 
 achiev 
 
+instructor 
+instructor privileg 
+instructor attribut 
+instructor privileg 
 
 instructor attribut 
 builder 

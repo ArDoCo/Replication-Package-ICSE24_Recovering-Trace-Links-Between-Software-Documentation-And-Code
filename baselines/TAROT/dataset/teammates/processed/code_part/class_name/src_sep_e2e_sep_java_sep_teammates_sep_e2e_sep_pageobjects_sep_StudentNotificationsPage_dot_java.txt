@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep pageobject sep student notif page dot java 
+student notif page 

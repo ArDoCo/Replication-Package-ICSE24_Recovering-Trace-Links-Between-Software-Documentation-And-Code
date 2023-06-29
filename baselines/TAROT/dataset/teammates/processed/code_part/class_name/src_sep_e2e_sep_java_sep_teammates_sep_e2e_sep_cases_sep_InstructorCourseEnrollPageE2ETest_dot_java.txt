@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep case sep instructor cours enrol page test dot java 
+instructor cours enrol page test 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep coin parser dot java 
+coin parser 
 doi 
 titl 
 journal 
@@ -16,6 +16,8 @@ entri
 pattern 
 field 
 
+bib entri 
+field 
 
 pars entri 
 append data 

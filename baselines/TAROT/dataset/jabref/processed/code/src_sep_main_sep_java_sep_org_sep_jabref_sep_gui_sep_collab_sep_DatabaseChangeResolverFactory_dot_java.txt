@@ -1,14 +1,21 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang resolv factori dot java 
+databas chang resolv factori 
 dialog servic 
 databas context 
 bib entri prefer 
 
+dialog servic 
+bib databas context 
+bib entri prefer 
 
 dialog servic 
 databas context 
 bib entri prefer 
 chang 
 
+dialog servic 
+bib databas context 
+bib entri prefer 
+databas chang 
 
 databas chang resolv factori 
 creat 

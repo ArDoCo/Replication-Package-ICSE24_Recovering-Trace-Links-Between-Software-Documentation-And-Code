@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep search sep search queri test dot java 
+search queri test 

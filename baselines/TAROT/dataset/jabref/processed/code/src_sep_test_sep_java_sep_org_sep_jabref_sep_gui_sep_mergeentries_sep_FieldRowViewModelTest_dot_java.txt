@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep mergeentri sep field row view model test dot java 
+field row view model test 
 left entri 
 entri 
 extra entri 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep extern sep extern tab dot java 
+extern tab 
 mail refer subject 
 auto open attach folder 
 push applic combo 
@@ -12,6 +12,7 @@ custom file browser command
 custom file browser brows 
 valid visual 
 
+push applic 
 
 
 

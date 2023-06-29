@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style preview layout dot java 
+citat style preview layout 

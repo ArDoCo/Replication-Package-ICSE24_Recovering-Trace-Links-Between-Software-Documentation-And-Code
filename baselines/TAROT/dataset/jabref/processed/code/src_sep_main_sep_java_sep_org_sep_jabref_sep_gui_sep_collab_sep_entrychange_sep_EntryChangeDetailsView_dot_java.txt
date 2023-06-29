@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entrychang sep entri chang detail view dot java 
+entri chang detail view 
 preview sourc tab 
 preview sourc tab 
 
@@ -13,6 +13,8 @@ prefer servic
 entri type manag 
 preview viewer 
 
+bib databas context 
+bib entri type manag 
 
 entri chang detail view 
 

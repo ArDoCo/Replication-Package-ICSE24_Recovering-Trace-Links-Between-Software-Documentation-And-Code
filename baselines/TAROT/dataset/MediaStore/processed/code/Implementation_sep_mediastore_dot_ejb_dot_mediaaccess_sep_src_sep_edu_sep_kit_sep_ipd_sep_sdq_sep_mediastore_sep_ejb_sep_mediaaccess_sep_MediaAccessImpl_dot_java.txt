@@ -1,4 +1,4 @@
-implement sep mediastor dot ejb dot mediaaccess sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep mediaaccess sep media access impl dot java 
+media access impl 
 serial version uid 
 db manag 
 
@@ -13,6 +13,7 @@ local call
 payload user id 
 payload size 
 
+audio file 
 
 media access impl 
 upload 

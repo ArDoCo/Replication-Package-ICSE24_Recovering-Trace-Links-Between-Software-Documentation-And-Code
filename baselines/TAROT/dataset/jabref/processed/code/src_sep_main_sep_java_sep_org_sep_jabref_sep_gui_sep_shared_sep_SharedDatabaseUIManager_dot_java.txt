@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep share sep share databas ui manag dot java 
+share databas ui manag 
 jab ref frame 
 dbms synchron 
 dialog servic 

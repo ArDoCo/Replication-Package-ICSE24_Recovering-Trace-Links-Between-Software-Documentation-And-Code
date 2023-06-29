@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep gui sep autocomplet sep content selector suggest provid test dot java 
+content selector suggest provid test 
 auto complet 
 
+content selector suggest provid 
 
 
 

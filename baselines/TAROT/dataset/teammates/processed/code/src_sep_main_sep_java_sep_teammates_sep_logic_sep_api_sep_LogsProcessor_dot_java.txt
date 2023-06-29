@@ -1,7 +1,8 @@
-src sep main sep java sep teammat sep logic sep api sep log processor dot java 
+log processor 
 instanc 
 servic 
 
+log processor 
 
 queri log param 
 cours id 

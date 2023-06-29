@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane dot java 
+side pane 
 view model 
 prefer servic 
 state manag 
 visibl bind 
 visibl bind 
 
+side pane view model 
+prefer servic 
+side pane type 
 
 prefer servic 
 task executor 
@@ -14,6 +17,10 @@ undo manag
 pane 
 side pane 
 
+prefer servic 
+dialog servic 
+side pane type 
+side pane type 
 
 side pane 
 updat view 

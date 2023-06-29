@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file result item view model dot java 
+copi file result item view model 

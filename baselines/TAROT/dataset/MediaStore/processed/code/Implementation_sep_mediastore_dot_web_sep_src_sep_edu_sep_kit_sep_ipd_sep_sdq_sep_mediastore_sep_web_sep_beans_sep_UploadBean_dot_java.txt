@@ -1,4 +1,4 @@
-implement sep mediastor dot web sep src sep sep kit sep ipd sep sdq sep mediastor sep web sep bean sep upload bean dot java 
+upload bean 
 serial version uid 
 session bean 
 download bean 
@@ -12,6 +12,7 @@ upload
 facad 
 file 
 
+download bean 
 
 file 
 album 
@@ -24,6 +25,7 @@ upload
 session bean 
 download bean 
 
+download bean 
 
 init facad 
 file 

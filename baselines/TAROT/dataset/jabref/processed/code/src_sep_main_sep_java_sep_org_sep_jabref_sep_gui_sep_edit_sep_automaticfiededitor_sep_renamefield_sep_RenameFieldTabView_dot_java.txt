@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep renamefield sep renam field tab view dot java 
+renam field tab view 
 renam button 
 field combo box 
 field combo box 

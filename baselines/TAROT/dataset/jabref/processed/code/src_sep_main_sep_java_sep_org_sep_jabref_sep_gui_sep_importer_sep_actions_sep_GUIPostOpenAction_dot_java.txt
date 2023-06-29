@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep gui sep import sep action sep gui post open action dot java 
+gui post open action 
 
 
 pr 
 panel 
 pr 
 
+parser result 
+librari tab 
+parser result 
 
 action necessari 
 perform action 

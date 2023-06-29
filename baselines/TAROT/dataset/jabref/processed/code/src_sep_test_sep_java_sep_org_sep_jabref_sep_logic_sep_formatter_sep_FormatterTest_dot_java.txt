@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep formatt test dot java 
+formatt test 
 protect term loader 
 
 

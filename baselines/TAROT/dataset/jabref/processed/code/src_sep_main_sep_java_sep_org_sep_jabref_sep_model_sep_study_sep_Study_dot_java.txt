@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep studi sep studi dot java 
+studi 
 author 
 author 
 titl 
@@ -9,6 +9,8 @@ queri
 databas 
 databas 
 
+studi queri 
+studi databas 
 
 author 
 titl 
@@ -22,6 +24,10 @@ titl
 research question 
 
 
+studi queri 
+studi databas 
+studi queri 
+studi databas 
 
 studi 
 studi 

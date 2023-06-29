@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep ris keyword test dot java 
+ris keyword test 
 
 
 

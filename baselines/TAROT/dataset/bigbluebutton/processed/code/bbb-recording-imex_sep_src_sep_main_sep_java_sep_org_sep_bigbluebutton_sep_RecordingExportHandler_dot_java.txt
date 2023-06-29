@@ -1,9 +1,10 @@
-bbb record imex sep src sep main sep java sep org sep bigbluebutton sep record export handler dot java 
+record export handler 
 logger 
 instanc 
 data store 
 xml servic 
 
+record export handler 
 
 path 
 record id 
@@ -11,6 +12,7 @@ path
 record 
 path 
 
+record 
 
 record export handler 
 instanc 

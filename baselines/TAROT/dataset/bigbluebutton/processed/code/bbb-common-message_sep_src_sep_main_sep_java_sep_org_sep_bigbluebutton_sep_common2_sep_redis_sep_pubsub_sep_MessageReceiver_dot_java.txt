@@ -1,4 +1,4 @@
-bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep pubsub sep messag receiv dot java 
+messag receiv 
 log 
 handler 
 connect pool 
@@ -7,6 +7,7 @@ run exec
 receiv messag 
 bbb app pattern 
 
+receiv messag handler 
 
 handler 
 channel 
@@ -23,6 +24,7 @@ count
 pattern 
 count 
 
+receiv messag handler 
 
 start 
 run 

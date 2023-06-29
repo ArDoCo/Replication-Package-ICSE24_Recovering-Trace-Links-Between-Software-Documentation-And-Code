@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo process author year marker dot java 
+oo process author year marker 
 
 
 sort cite key 
@@ -9,6 +9,13 @@ citat group
 citat group 
 style 
 
+cite key 
+oo bib style 
+cite key 
+citat group 
+citat group 
+citat group 
+oo bib style 
 
 oo process author year marker 
 creat normal citat marker 

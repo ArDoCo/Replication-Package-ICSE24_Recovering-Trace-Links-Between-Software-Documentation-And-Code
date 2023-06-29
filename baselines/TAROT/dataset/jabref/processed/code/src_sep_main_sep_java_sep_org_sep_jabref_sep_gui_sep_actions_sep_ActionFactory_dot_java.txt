@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep gui sep action sep action factori dot java 
+action factori 
 logger 
 key bind repositori 
 
+key bind repositori 
 
 key bind repositori 
 node 
@@ -27,6 +28,16 @@ action
 command 
 button 
 
+key bind repositori 
+action 
+action 
+action 
+action 
+action 
+action 
+action 
+action 
+action 
 
 action factori 
 set graphic 

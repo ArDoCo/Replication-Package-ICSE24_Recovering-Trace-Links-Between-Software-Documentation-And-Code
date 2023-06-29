@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep text base preview layout dot java 
+text base preview layout 
 
 logger 
 layout 
 text 
 layout formatt prefer 
 
+layout 
 
 text 
 layout formatt prefer 
@@ -13,6 +14,7 @@ text
 entri 
 databas context 
 
+layout 
 
 text base preview layout 
 text base preview layout 

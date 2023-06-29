@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep replac string view model dot java 
+replac string view model 

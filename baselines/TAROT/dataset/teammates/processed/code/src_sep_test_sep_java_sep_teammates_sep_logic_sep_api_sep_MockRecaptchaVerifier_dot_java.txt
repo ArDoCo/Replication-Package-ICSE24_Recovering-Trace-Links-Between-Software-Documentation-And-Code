@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep api sep mock recaptcha verifi dot java 
+mock recaptcha verifi 
 
 
 captcha respons 

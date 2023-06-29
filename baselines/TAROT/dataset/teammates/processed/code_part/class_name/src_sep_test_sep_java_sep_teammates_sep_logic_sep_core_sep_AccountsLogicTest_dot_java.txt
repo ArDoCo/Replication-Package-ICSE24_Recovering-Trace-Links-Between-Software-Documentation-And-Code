@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep logic sep core sep account logic test dot java 
+account logic test 

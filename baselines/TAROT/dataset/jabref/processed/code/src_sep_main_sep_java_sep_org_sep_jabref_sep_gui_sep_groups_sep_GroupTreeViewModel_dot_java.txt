@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group tree view model dot java 
+group tree view model 
 root group 
 root group 
 select group 
@@ -16,6 +16,7 @@ comp alphabet ignor case
 current databas 
 current databas 
 
+custom local dragboard 
 
 state manag 
 dialog servic 
@@ -45,6 +46,8 @@ groupnod
 groupnod 
 groupnod 
 
+custom local dragboard 
+group dialog header 
 
 group tree view model 
 refresh 

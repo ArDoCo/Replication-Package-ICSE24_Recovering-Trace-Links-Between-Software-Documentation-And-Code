@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane view model dot java 
+side pane view model 
 logger 
 side pane compon lookup 
 side pane compon lookup 
@@ -32,6 +32,7 @@ move pane
 move pane 
 close pane 
 
+side pane prefer 
 
 side pane view model 
 side pane compon 

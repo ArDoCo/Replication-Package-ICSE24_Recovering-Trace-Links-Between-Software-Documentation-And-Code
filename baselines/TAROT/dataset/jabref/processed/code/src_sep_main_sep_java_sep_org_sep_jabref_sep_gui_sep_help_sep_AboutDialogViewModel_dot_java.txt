@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep sep dialog view model dot java 
+dialog view model 
 homepag url 
 donat url 
 librari url 
@@ -17,12 +17,16 @@ dialog servic
 develop version 
 clip board manag 
 
+dialog servic 
+clip board manag 
 
 dialog servic 
 clip board manag 
 build info 
 url 
 
+dialog servic 
+clip board manag 
 
 dialog view model 
 develop version 

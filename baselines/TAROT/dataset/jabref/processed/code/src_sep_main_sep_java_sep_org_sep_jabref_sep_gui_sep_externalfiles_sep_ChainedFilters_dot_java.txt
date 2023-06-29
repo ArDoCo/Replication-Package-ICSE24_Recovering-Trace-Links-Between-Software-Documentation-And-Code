@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep chain filter dot java 
+chain filter 
 logger 
 filter 
 

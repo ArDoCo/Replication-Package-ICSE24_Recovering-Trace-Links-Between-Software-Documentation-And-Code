@@ -1,0 +1,4 @@
+bib databas 
+bib entri 
+automat field editor view model 
+notif pane adapt 

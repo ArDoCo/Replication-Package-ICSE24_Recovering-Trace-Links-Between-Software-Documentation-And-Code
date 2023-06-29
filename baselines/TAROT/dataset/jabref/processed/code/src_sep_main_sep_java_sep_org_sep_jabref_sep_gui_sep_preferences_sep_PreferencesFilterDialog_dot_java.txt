@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep prefer filter dialog dot java 
+prefer filter dialog 
 prefer filter 
 prefer option 
 prefer option 
@@ -18,9 +18,11 @@ show onli deviat prefer option
 count 
 search field 
 
+prefer filter 
 
 prefer filter 
 
+prefer filter 
 
 prefer filter dialog 
 initi 

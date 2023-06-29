@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep net sep progress input stream dot java 
+progress input stream 
 max num byte 
 total num byte read 
 progress 

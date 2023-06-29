@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep edit sep replac string view model test dot java 
+replac string view model test 
 librari tab 
 view model 
 

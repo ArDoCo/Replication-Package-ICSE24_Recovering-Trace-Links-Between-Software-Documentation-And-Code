@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep util sep io sep reg exp base file finder test dot java 
+reg exp base file finder test 
 pdf extens 
 pdf extens 
 file 

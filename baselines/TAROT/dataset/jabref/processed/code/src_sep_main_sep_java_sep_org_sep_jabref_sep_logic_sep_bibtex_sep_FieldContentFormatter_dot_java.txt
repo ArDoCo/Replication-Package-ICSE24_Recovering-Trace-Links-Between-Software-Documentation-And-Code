@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep field content formatt dot java 
+field content formatt 
 whitespac 
 multi line field 
 multi line field 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep git sep slr git handler dot java 
+slr git handler 

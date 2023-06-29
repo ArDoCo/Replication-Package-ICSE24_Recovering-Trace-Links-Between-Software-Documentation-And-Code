@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep open databas test dot java 
+open databas test 
 default encod 
 general prefer 
 import format prefer 

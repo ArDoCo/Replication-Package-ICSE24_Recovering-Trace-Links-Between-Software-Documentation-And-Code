@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep abstract prefer tab view dot java 
+abstract prefer tab view 
 task executor 
 dialog servic 
 prefer servic 

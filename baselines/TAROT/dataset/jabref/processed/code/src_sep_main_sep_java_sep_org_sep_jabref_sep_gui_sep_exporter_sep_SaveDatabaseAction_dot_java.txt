@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep export sep save databas action dot java 
+save databas action 
 logger 
 librari tab 
 frame 
@@ -6,6 +6,10 @@ dialog servic
 prefer 
 entri type manag 
 
+jab ref frame 
+dialog servic 
+prefer servic 
+bib entri type manag 
 
 librari tab 
 prefer 
@@ -28,6 +32,9 @@ encod
 encod problem 
 save type 
 
+prefer servic 
+bib entri type manag 
+bib databas context 
 
 save databas action 
 save 

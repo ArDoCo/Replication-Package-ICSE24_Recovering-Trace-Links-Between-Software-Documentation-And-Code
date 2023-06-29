@@ -1,4 +1,4 @@
-bbb record imex sep src sep test sep java sep org sep bigbluebutton sep record import handler test dot java 
+record import handler test 
 logger 
 handler 
 

@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep casechang sep case formatt test dot java 
+case formatt test 
 formatt 
 
+case formatt 
 
 expect 
 input 

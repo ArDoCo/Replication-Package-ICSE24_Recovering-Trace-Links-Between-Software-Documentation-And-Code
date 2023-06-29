@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep util sep inspir bibtex filter reader dot java 
+inspir bibtex filter reader 
 pattern 
 reader 
 line 

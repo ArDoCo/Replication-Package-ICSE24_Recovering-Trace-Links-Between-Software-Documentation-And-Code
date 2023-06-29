@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep default file updat monitor dot java 
+default file updat monitor 
 logger 
 listen 
 listen 
@@ -14,6 +14,8 @@ listen
 path 
 listen 
 
+file updat listen 
+file updat listen 
 
 run 
 activ 

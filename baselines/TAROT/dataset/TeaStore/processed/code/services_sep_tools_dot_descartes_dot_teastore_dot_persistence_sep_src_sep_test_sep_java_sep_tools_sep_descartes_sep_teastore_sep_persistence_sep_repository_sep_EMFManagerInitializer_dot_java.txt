@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep test sep java sep tool sep descart sep teastor sep persist sep repositori sep emf manag initi dot java 
+emf manag initi 
 ddl properti 
 ddl valu 
 ddl output properti 

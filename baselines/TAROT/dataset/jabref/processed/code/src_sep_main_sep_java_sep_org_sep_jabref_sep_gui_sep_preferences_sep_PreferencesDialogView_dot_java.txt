@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep prefer dialog view dot java 
+prefer dialog view 
 search box 
 prefer tab list 
 prefer tab list 
@@ -10,6 +10,9 @@ theme manag
 frame 
 view model 
 
+prefer tab 
+dialog servic 
+theme manag 
 
 frame 
 

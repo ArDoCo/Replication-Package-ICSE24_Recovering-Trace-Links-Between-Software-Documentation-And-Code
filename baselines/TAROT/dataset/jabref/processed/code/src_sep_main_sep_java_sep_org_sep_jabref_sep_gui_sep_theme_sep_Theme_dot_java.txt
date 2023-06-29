@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep theme sep theme dot java 
+theme 
 base css 
 embed dark css 
 type 
@@ -6,6 +6,7 @@ type
 addit stylesheet 
 addit stylesheet 
 
+style sheet 
 
 
 

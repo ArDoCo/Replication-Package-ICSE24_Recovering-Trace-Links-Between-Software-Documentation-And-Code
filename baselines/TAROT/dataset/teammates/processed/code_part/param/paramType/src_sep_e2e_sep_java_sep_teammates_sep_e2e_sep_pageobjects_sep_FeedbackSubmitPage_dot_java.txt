@@ -1,0 +1,39 @@
+browser 
+feedback session attribut 
+feedback question attribut 
+feedback text question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback mcq question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback msq question detail 
+feedback msq question detail 
+feedback msq question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback numer scale question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback constant sum question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback contribut question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback rubric question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback rank question detail 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback question attribut 
+feedback question attribut 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 

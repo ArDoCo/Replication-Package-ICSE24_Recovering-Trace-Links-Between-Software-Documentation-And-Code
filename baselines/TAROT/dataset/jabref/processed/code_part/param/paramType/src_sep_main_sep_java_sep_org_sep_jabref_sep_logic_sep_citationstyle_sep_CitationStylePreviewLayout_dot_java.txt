@@ -1,0 +1,4 @@
+citat style 
+bib entri type manag 
+bib entri 
+bib databas context 

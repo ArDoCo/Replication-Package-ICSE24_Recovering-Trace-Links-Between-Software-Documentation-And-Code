@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep bib tex field checker test dot java 
+bib tex field checker test 

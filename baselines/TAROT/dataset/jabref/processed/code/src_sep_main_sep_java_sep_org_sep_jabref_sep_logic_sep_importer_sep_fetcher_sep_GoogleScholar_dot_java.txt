@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep googl scholar dot java 
+googl scholar 
 logger 
 link bib pattern 
 basic search url 
 num result 
 import format prefer 
 
+import format prefer 
 
 import format prefer 
 entri 
@@ -16,6 +17,9 @@ link
 lucen queri 
 page number 
 
+import format prefer 
+bib entri 
+bib entri 
 
 googl scholar 
 find full text 

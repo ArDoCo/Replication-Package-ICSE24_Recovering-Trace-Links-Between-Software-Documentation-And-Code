@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep sep local key test dot java 
+local key test 

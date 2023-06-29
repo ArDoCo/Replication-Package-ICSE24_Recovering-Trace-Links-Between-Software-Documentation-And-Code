@@ -1,4 +1,4 @@
-implement sep mediastor dot ejb dot userdbadapt sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep userdbadapt sep er dot java 
+er 
 serial version uid 
 id 
 firstnam 

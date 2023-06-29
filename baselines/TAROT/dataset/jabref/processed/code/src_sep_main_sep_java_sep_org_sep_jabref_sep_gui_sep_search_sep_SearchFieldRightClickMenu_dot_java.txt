@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep search field click menu dot java 
+search field click menu 
 
 
 key bind repositori 

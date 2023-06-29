@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep date editor view model dot java 
+date editor view model 
 logger 
 date formatt 
 

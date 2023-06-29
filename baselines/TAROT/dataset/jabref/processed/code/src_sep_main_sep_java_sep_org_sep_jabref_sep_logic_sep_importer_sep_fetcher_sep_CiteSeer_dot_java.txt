@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep cite seer dot java 
+cite seer 
 
 
 lucen queri 
 entri 
 field text 
 
+bib entri 
 
 cite seer 
 

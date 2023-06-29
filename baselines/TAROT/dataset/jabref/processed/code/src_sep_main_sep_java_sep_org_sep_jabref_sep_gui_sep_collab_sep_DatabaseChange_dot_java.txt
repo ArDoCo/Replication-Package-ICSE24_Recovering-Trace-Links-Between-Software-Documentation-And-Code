@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang dot java 
+databas chang 
 entri add 
 entri chang 
 entri delet 
@@ -15,6 +15,9 @@ extern chang resolv
 accept 
 
 
+bib databas context 
+option object properti 
+databas chang resolv 
 
 databas context 
 databas chang resolv factori 
@@ -22,6 +25,8 @@ accept
 chang 
 undo edit 
 
+bib databas context 
+compound 
 
 databas chang 
 accept 

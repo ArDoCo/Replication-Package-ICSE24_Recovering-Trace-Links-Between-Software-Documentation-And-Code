@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep account logic dot java 
+account logic 
 instanc 
 account db 
 cours logic 
@@ -6,6 +6,9 @@ instructor logic
 student logic 
 notif logic 
 
+account logic 
+student logic 
+notif logic 
 
 account data 
 googl id 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push lyx set dot java 
+push lyx set 
 
 
 applic 
@@ -6,6 +6,7 @@ dialog servic
 file prefer 
 prefer 
 
+push applic 
 
 push lyx set 
 

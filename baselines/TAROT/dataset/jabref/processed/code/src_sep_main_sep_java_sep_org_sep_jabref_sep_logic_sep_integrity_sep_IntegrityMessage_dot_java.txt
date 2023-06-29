@@ -1,14 +1,18 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep integr messag dot java 
+integr messag 
 entri 
 field 
 messag 
 
+bib entri 
+field 
 
 messag 
 entri 
 field 
  
 
+bib entri 
+field 
 
 integr messag 
 string 

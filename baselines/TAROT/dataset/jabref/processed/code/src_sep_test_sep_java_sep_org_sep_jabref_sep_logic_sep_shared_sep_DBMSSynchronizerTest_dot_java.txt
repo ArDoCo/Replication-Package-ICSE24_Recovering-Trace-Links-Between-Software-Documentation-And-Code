@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep share sep dbms synchron test dot java 
+dbms synchron test 
 dbms synchron 
 bib databas 
 pattern 

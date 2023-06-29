@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep doc book export test dot java 
+doc book export test 
 databas context 
 charset 
 entri 
@@ -6,6 +6,9 @@ entri
 xml file 
 export 
 
+bib databas context 
+bib entri 
+export 
 
 test folder 
 

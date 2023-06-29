@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep test sep java sep org sep freeswitch sep esl sep client sep transport sep messag sep frame decod test dot java 
+frame decod test 
 log 
 embedd 
 embedd 

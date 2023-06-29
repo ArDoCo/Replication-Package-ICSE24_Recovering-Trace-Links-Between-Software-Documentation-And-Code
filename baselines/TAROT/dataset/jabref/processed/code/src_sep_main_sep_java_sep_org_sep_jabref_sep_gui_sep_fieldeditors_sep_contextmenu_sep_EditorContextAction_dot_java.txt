@@ -1,14 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep editor context action dot java 
+editor context action 
 show handl 
 command 
 text input control 
 
+standard action 
 
 command 
 text input control 
 text input control 
 key bind repositori 
 
+standard action 
+key bind repositori 
 
 editor context action 
 execut 

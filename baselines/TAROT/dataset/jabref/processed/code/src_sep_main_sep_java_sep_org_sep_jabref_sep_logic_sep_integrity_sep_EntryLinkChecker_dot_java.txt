@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep entri link checker dot java 
+entri link checker 
 databas 
 
+bib databas 
 
 databas 
 entri 
 
+bib databas 
+bib entri 
 
 entri link checker 
 check 

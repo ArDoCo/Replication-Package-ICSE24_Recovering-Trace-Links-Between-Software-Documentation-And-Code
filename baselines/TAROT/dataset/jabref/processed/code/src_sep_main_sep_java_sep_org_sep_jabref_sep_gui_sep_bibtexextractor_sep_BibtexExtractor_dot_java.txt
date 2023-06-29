@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep bibtexextractor sep bibtex extractor dot java 
+bibtex extractor 
 author tag 
 url tag 
 year tag 

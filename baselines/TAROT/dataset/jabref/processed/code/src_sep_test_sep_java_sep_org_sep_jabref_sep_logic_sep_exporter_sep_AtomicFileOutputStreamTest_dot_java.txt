@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep atom file output stream test dot java 
+atom file output stream test 
 fifti char 
 thousand char 
 

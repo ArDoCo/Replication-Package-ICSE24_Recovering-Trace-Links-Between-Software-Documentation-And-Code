@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep student home page dot java 
+student home page 
 
 
 browser 
@@ -7,6 +7,7 @@ index
 feedback session 
 index 
 
+browser 
 
 student home page 
 expect page content 

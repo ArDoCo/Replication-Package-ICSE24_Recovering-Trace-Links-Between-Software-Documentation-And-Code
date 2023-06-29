@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep respons sep xml respons confer list parser dot java 
+xml respons confer list parser 
 confrenc member 
 confrenc member 
 temp val 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep time stamp modif date dot java 
+time stamp modif date 
 time stamp field 
 
 

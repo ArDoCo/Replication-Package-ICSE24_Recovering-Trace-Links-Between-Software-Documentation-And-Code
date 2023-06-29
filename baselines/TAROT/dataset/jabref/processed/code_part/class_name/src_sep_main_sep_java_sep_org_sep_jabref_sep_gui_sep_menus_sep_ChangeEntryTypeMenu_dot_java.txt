@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep menus sep chang entri type menu dot java 
+chang entri type menu 

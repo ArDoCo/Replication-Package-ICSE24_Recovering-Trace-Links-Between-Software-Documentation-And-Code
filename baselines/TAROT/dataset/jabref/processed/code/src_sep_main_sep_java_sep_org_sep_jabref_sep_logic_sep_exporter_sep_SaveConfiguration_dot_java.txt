@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep save configur dot java 
+save configur 
 encod prefix 
 reformat file 
 save order 
@@ -6,6 +6,7 @@ backup
 save type 
 metadata save order 
 
+save order 
 
 save order 
 backup 
@@ -18,6 +19,8 @@ backup
 save type 
 reformat 
 
+save order 
+save order 
 
 save configur 
 save configur 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep cross ref dot java 
+cross ref 
 api url 
 remov brace formatt 
 
@@ -13,6 +13,10 @@ type
 input entri 
 fetch entri 
 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 
 url entri 

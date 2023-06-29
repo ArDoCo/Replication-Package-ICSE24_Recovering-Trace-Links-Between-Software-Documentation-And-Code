@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep research gate test dot java 
+research gate test 
 url pdf 
 url page 
 fetcher 

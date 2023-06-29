@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep file sep file tab view model dot java 
+file tab view model 

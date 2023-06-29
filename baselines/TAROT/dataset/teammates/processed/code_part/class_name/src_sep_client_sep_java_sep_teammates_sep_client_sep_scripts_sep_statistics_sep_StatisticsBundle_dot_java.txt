@@ -1,1 +1,1 @@
-src sep client sep java sep teammat sep client sep script sep statist sep statist bundl dot java 
+statist bundl 

@@ -1,11 +1,13 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep copi field valu command dot java 
+copi field valu command 
 field valu 
 clip board manag 
 
+clip board manag 
 
 prefer servic 
 field valu 
 
+prefer servic 
 
 copi field valu command 
 execut 

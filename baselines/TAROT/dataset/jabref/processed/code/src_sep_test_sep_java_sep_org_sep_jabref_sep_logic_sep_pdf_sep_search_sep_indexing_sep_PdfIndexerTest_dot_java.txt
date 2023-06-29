@@ -1,8 +1,10 @@
-src sep test sep java sep org sep jabref sep logic sep pdf sep search sep index sep pdf index test dot java 
+pdf index test 
 index 
 databas 
 context 
 
+bib databas 
+bib databas context 
 
 index dir 
 

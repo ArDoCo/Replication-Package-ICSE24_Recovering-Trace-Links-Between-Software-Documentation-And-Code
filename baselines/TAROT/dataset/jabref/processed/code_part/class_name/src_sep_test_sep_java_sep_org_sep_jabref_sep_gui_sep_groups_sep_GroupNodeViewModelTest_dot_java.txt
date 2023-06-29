@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep group sep group node view model test dot java 
+group node view model test 

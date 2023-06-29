@@ -1,0 +1,3 @@
+bib databas context 
+option object properti 
+databas chang resolv 

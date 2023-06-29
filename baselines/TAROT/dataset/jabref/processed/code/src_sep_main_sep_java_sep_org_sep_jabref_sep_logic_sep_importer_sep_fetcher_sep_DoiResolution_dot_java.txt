@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep doi resolut dot java 
+doi resolut 
 logger 
 doi prefer 
 
+doi prefer 
 
 doi prefer 
 entri 
@@ -10,6 +11,8 @@ html
 base 
 url 
 
+doi prefer 
+bib entri 
 
 doi resolut 
 find full text 

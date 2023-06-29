@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep default lucen queri transform dot java 
+default lucen queri transform 

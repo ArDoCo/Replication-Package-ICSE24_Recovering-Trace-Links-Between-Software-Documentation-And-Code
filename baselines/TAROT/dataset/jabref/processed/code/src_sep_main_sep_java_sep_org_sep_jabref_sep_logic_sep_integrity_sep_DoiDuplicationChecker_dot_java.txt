@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep doi duplic checker dot java 
+doi duplic checker 
 
 
 databas 
 
+bib databas 
 
 check 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep sidepan sep side pane compon dot java 
+side pane compon 
 side pane type 
 close command 
 move command 
@@ -6,6 +6,10 @@ move command
 content factori 
 button 
 
+side pane type 
+simpl command 
+simpl command 
+simpl command 
 
 side pane type 
 close command 
@@ -15,6 +19,10 @@ content factori
 button 
 posit 
 
+side pane type 
+simpl command 
+simpl command 
+simpl command 
 
 side pane compon 
 initi 

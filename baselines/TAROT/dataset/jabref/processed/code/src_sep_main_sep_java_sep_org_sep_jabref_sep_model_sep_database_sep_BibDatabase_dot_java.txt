@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep databas sep bib databas dot java 
+bib databas 
 logger 
 resolv content pattern 
 entri 
@@ -11,6 +11,7 @@ epilog
 share databas id 
 line separ 
 
+bib entri 
 
 entri 
 line separ 
@@ -64,6 +65,30 @@ key
 key 
 line separ 
 
+bib entri 
+bib entri 
+bib databas 
+bib entri 
+bib entri 
+bib entri 
+entri event sourc 
+bib entri 
+bib entri 
+bib entri 
+entri event sourc 
+bib entri 
+bib entri 
+entri event sourc 
+bib entri 
+bib entri 
+entri event sourc 
+bibtex string 
+bibtex string 
+bib databas 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 bib databas 
 bib databas 

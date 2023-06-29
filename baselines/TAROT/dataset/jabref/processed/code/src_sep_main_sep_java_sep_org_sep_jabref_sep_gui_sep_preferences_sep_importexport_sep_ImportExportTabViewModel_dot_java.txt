@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep importexport sep import export tab view model dot java 
+import export tab view model 
 api key 
 api key 
 select api key properti 
@@ -25,6 +25,9 @@ import prefer
 import export prefer 
 file prefer 
 
+fetcher api key 
+fetcher api key 
+doi prefer 
 
 prefer servic 
 dialog servic 

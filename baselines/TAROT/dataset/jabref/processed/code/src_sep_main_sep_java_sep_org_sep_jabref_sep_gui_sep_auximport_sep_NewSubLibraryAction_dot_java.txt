@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep auximport sep librari action dot java 
+librari action 
 jab ref frame 
 
+jab ref frame 
 
 jab ref frame 
 state manag 
 
+jab ref frame 
 
 librari action 
 execut 

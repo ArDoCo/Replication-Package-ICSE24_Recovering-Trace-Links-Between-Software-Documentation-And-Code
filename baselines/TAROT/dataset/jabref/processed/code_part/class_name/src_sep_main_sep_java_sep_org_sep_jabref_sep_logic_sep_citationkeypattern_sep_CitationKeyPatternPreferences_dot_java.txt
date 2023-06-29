@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep citat key pattern prefer dot java 
+citat key pattern prefer 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep type editor view model dot java 
+type editor view model 

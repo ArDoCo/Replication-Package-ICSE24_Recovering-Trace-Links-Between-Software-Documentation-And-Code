@@ -1,14 +1,21 @@
-src sep main sep java sep org sep jabref sep gui sep integr sep integr check action dot java 
+integr check action 
 task executor 
 dialog servic 
 frame 
 state manag 
 
+task executor 
+dialog servic 
+jab ref frame 
+state manag 
 
 frame 
 state manag 
 task executor 
 
+jab ref frame 
+state manag 
+task executor 
 
 integr check action 
 execut 

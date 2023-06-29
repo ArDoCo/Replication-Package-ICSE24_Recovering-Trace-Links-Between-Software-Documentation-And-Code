@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep pref sep share databas prefer dot java 
+share databas prefer 
 logger 
 default node 
 prefer path 

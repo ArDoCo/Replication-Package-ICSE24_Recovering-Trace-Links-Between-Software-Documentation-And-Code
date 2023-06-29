@@ -1,0 +1,9 @@
+bib entri 
+bib entri 
+bib entri 
+pdf xmp import 
+xmp pdf export 
+xmp prefer 
+bib databas context 
+bib databas 
+file prefer 

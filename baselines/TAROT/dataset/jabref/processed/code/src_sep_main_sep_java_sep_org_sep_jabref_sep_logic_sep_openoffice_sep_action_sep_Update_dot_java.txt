@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep updat dot java 
+updat 
 databas 
 databas 
 updat bibliographi 
 alway add cite page 
 
+bib databas 
 
 doc 
 frontend 
@@ -25,6 +26,16 @@ style
 fcursor 
 sync option 
 
+oo frontend 
+bib databas 
+oo bib style 
+function text view cursor 
+bib databas 
+oo frontend 
+oo bib style 
+function text view cursor 
+oo bib style 
+function text view cursor 
 
 updat 
 updat document 

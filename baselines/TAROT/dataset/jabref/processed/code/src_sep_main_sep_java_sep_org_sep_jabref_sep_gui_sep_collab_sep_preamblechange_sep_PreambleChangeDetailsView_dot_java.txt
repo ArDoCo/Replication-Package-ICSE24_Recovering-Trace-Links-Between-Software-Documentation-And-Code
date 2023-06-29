@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep preamblechang sep preambl chang detail view dot java 
+preambl chang detail view 
 
 
 preambl chang 

@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl header context menu dot java 
+main tabl header context menu 
 bound 
 main tabl 
 factori 
 index 
 visibl tabl 
 
+main tabl 
 
 main tabl 
 factori 
@@ -25,6 +26,15 @@ visibl
 index 
 visibl tabl 
 
+main tabl 
+main tabl 
+bib entri tabl view model 
+main tabl column 
+main tabl column 
+main tabl column 
+main tabl column 
+main tabl column 
+main tabl column 
 
 main tabl header context menu 
 show 

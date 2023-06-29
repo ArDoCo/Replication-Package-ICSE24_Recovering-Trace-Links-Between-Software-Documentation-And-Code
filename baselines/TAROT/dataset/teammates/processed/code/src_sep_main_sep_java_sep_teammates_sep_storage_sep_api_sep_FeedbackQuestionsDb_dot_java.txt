@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep storag sep api sep feedback question db dot java 
+feedback question db 
 instanc 
 
+feedback question db 
 
 feedback question id 
 feedback session 
@@ -32,6 +33,12 @@ giver type
 entiti creat 
 entiti 
 
+feedback particip type 
+feedback particip type 
+attribut delet queri 
+feedback particip type 
+feedback particip type 
+feedback question attribut 
 
 feedback question db 
 inst 

@@ -1,10 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep citationkeypattern sep label databas test dot java 
+label databas test 
 databas 
 prefer 
 pattern 
 bibtex key pattern 
 entri 
 
+citat key pattern prefer 
 
 
 

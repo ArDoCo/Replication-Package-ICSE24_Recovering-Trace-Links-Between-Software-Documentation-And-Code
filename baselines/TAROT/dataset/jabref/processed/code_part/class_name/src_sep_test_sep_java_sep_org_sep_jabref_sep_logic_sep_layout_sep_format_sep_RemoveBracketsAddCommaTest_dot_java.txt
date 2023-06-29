@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep remov bracket add comma test dot java 
+remov bracket add comma test 

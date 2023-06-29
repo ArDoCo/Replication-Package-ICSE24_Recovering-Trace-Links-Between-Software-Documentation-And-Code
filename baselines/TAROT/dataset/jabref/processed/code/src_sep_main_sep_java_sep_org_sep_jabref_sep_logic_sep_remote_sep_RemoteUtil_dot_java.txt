@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep remot sep remot util dot java 
+remot util 
 
 
 port number 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep open access doi dot java 
+open access doi 
 logger 
 api url 
 
@@ -6,6 +6,7 @@ api url
 entri 
 doi 
 
+bib entri 
 
 find full text 
 trust level 

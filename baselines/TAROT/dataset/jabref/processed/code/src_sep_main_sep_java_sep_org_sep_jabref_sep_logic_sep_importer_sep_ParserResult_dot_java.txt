@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep parser result dot java 
+parser result 
 entri type 
 entri type 
 warn 
@@ -27,6 +27,7 @@ invalid
 bib databas context 
 chang migrat 
 
+bib databas context 
 
 parser result 
 parser result 

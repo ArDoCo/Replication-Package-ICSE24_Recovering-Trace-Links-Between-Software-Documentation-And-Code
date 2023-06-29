@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep servic sep xml servic dot java 
+xml servic 
 
 
 record 
@@ -14,6 +14,11 @@ respons
 record id 
 xml 
 
+record 
+record 
+metadata 
+playback format 
+callback data 
 
 record xml 
 record xml 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep link file view model dot java 
+link file view model 
 logger 
 link file 
 databas context 
@@ -34,6 +34,7 @@ url
 import 
 file path 
 
+import 
 
 link file view model 
 offlin pdf properti 

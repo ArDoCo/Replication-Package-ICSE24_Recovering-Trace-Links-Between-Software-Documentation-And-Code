@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep util sep axe util dot java 
+axe util 
 disabl rule 
 disabl rule 
 axe builder 

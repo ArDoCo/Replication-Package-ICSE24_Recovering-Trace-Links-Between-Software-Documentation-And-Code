@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib convert dot java 
+ms bib convert 
 msbib prefix 
 bibtex prefix 
 
@@ -8,6 +8,9 @@ entri
 author 
 field 
 
+bib entri 
+bib entri 
+field 
 
 ms bib convert 
 convert 

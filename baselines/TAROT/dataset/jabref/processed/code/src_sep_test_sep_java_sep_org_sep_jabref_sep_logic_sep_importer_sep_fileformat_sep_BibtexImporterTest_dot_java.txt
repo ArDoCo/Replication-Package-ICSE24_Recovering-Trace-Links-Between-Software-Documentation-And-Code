@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep bibtex import test dot java 
+bibtex import test 
 import 
 
 

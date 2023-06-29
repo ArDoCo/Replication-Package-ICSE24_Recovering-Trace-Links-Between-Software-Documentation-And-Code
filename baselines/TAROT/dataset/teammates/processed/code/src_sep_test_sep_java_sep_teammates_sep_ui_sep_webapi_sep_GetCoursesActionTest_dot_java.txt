@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep cours action test dot java 
+cours action test 
 test data 
 
 
@@ -8,6 +8,8 @@ actual cours
 expect cours 
 param 
 
+cours data 
+cours data 
 
 action uri 
 request method 

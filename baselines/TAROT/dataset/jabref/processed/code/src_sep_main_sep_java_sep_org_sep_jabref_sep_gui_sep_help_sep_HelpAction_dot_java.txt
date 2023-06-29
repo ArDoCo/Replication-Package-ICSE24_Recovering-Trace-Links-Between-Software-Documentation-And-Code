@@ -1,12 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep sep action dot java 
+action 
 page 
 dialog servic 
 
+file 
+dialog servic 
 
 page 
 dialog servic 
 page 
 
+file 
+dialog servic 
+file 
 
 action 
 open page 

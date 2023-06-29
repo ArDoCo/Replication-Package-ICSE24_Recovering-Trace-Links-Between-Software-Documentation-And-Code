@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep merg view dot java 
+merg view 
 grid column min width 
 left default header 
 default header 
@@ -16,6 +16,7 @@ field row
 field merger factori 
 keyword separ 
 
+merg view model 
 
 left entri 
 entri 
@@ -31,6 +32,7 @@ left header
 header 
 diff config 
 
+show diff config 
 
 merg view 
 merg view 

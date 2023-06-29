@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep atom file output stream dot java 
+atom file output stream 
 logger 
 temporari extens 
 save extens 

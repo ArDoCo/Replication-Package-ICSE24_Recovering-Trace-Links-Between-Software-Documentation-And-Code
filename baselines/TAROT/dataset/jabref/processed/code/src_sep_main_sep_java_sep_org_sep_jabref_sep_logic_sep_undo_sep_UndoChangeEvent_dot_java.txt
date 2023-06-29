@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep undo sep undo chang event dot java 
+undo chang event 
 undo 
 undo descript 
 redo 

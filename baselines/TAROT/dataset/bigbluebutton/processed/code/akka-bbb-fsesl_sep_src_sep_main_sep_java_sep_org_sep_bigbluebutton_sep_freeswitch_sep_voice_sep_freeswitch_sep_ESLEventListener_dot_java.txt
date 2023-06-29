@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep esl event listen dot java 
+esl event listen 
 log 
 start talk event 
 stop talk event 
@@ -14,6 +14,12 @@ callernam sess info pattern
 callernam listenon pattern 
 echo test dest pattern 
 
+confer event listen 
+pattern 
+pattern 
+pattern 
+pattern 
+pattern 
 
 confer event listen 
 uniqu id 
@@ -66,6 +72,27 @@ event
  
  
 
+confer event listen 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
+event 
 
 esl event listen 
 confer event play file 

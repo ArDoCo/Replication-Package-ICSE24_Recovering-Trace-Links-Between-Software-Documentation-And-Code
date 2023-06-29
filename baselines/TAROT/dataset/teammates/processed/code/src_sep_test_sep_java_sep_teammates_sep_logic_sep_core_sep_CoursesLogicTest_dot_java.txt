@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep core sep cours logic test dot java 
+cours logic test 
 account logic 
 cours logic 
 cours db 
@@ -9,6 +9,11 @@ fs logic
 instructor logic 
 student logic 
 
+account logic 
+cours db 
+feedback question logic 
+feedback session logic 
+student logic 
 
 
 

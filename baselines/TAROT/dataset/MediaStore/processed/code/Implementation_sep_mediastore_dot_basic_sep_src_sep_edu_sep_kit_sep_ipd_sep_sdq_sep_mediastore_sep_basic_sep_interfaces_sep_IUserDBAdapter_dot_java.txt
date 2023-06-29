@@ -1,10 +1,11 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep interfac sep iu er db adapt dot java 
+iu er db adapt 
 
 
 user 
 usernam 
 password 
 
+er reg data 
 
 add user 
 user data 

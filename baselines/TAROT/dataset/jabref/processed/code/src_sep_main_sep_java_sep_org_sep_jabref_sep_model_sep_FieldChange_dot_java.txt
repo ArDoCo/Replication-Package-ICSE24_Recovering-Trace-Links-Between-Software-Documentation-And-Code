@@ -1,9 +1,11 @@
-src sep main sep java sep org sep jabref sep model sep field chang dot java 
+field chang 
 entri 
 field 
 valu 
 valu 
 
+bib entri 
+field 
 
 entri 
 field 
@@ -11,6 +13,8 @@ valu
 valu 
 obj 
 
+bib entri 
+field 
 
 field chang 
 entri 

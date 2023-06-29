@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep format sep entri type formatt dot java 
+entri type formatt 
 
 
 entri type 

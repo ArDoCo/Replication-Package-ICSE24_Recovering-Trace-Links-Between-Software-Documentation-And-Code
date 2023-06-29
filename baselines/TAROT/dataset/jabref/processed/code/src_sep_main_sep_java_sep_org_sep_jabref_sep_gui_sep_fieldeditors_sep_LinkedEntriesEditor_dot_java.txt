@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep link entri editor dot java 
+link entri editor 
 view model 
 chip view 
 chip view 
 
+pars entri link 
 
 field 
 databas context 

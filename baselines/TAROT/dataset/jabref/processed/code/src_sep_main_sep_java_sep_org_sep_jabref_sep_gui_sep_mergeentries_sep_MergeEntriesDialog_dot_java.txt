@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep merg entri dialog dot java 
+merg entri dialog 
 merg view 
 
 
 
+merg view 
 
 
 
@@ -11,6 +12,7 @@ left header text
 header text 
 diff config 
 
+show diff config 
 
 merg entri dialog 
 init 

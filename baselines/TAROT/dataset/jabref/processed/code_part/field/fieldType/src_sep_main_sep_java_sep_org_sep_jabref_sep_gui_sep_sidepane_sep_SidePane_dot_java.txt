@@ -1,0 +1,3 @@
+side pane view model 
+prefer servic 
+side pane type 

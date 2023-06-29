@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep persist categori dot java 
+persist categori 
 id 
 
 descript 

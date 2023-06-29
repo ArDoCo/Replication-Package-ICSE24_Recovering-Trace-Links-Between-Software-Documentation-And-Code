@@ -1,10 +1,11 @@
-src sep main sep java sep teammat sep ui sep webapi sep queri log action dot java 
+queri log action 
 default page size 
 twenti hour milli 
 
 
 queri result 
 
+queri log result 
 
 min auth level 
 check specif access control 

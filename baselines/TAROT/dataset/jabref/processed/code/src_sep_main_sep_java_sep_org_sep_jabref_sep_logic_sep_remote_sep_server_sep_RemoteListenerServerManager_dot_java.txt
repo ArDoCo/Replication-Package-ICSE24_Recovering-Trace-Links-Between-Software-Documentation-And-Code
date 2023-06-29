@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep remot sep server sep remot listen server manag dot java 
+remot listen server manag 
 logger 
 remot server thread 
 

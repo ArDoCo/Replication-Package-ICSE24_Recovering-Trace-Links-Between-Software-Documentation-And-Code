@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep abstract push applic dot java 
+abstract push applic 
 logger 
 call 
 connect 
@@ -7,6 +7,8 @@ command path
 dialog servic 
 prefer servic 
 
+dialog servic 
+prefer servic 
 
 dialog servic 
 prefer servic 
@@ -17,6 +19,12 @@ key string
 applic 
 prefer 
 
+dialog servic 
+prefer servic 
+bib databas context 
+bib entri 
+push applic 
+push applic prefer 
 
 abstract push applic 
 applic icon 

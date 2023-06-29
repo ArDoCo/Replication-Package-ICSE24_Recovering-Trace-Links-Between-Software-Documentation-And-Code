@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep keyboard sep text input key bind dot java 
+text input key bind 
 
 
 scene 

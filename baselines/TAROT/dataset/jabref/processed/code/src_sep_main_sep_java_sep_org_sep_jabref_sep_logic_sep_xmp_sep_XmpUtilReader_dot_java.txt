@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep xmp sep xmp util reader dot java 
+xmp util reader 
 logger 
 start tag 
 tag 
@@ -10,6 +10,7 @@ xmp prefer
 document 
 path 
 
+xmp prefer 
 
 xmp util reader 
 read raw xmp 

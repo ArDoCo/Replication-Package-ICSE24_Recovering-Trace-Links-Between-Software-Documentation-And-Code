@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep tabl sep tabl tab view model dot java 
+tabl tab view model 
 column string convert 
 column string convert 
 column list properti 
@@ -27,6 +27,10 @@ special field prefer
 display prefer 
 main tabl prefer 
 
+main tabl column model 
+main tabl column model 
+main tabl column model 
+main tabl column model 
 
 object 
 string 
@@ -34,6 +38,8 @@ dialog servic
 prefer 
 column 
 
+main tabl column model 
+main tabl column model 
 
 string 
 string 

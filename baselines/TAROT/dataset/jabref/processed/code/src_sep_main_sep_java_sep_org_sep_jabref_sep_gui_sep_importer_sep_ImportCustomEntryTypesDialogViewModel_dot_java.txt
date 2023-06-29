@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep import custom entri type dialog view model dot java 
+import custom entri type dialog view model 
 mode 
 prefer servic 
 type 
@@ -6,6 +6,7 @@ type
 differ custom type 
 differ custom type 
 
+bib databas mode 
 
 mode 
 entri type 
@@ -13,6 +14,7 @@ prefer servic
 check unknown entri type 
 check differ entri type 
 
+bib databas mode 
 
 import custom entri type dialog view model 
 type 

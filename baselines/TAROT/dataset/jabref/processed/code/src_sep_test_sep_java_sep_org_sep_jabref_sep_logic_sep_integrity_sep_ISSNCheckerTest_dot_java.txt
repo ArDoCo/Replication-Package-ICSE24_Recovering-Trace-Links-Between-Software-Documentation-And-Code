@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep issn checker test dot java 
+issn checker test 
 checker 
 
+issn checker 
 
 wrong issn 
 

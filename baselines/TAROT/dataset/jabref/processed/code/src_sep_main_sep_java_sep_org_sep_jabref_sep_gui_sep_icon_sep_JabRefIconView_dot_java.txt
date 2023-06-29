@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep icon sep jab ref icon view dot java 
+jab ref icon view 
 glyph 
 glyph 
 glyph size 
 glyph size 
 
+number 
 
 icon 
 size 
@@ -11,6 +12,7 @@ icon
 icon 
 valu 
 
+number 
 
 jab ref icon view 
 jab ref icon view 

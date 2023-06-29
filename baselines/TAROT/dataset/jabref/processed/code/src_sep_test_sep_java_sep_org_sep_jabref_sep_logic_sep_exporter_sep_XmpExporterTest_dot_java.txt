@@ -1,8 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep export sep xmp export test dot java 
+xmp export test 
 export 
 databas context 
 xmp prefer 
 
+export 
+bib databas context 
+xmp prefer 
 
 test folder 
 test folder 

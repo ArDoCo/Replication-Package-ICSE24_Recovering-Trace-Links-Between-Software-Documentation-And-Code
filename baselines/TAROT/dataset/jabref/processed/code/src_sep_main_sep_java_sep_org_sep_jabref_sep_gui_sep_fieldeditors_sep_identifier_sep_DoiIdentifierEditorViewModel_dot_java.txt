@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep doi identifi editor view model dot java 
+doi identifi editor view model 
 logger 
 
 
@@ -10,6 +10,9 @@ prefer
 bib entri 
 bib entri 
 
+dialog servic 
+bib entri 
+bib entri 
 
 doi identifi editor view model 
 lookup identifi 

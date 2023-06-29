@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep jab ref resourc locat dot java 
+jab ref resourc locat 
 logger 
 
 

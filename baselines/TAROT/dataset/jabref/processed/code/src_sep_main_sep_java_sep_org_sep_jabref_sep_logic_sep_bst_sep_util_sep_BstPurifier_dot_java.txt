@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep util sep purifi dot java 
+purifi 
 logger 
 
 

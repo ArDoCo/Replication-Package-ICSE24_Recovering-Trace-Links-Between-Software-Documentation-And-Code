@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep util sep tree collector dot java 
+tree collector 
 children 
 children 
 add child 

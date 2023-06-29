@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep sidepan sep side pane view model test dot java 
+side pane view model test 
 prefer servic 
 state manag 
 task executor 
@@ -9,6 +9,12 @@ side pane compon
 side pane compon 
 side pane view model 
 
+prefer servic 
+task executor 
+dialog servic 
+side pane prefer 
+side pane type 
+side pane view model 
 
 
 

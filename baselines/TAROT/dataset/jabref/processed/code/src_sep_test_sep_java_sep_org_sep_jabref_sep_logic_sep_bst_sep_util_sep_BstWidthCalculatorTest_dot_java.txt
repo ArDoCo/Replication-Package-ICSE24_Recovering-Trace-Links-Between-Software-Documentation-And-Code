@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep bst sep util sep width calcul test dot java 
+width calcul test 
 
 
  

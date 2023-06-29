@@ -1,8 +1,10 @@
-src sep main sep java sep teammat sep storag sep api sep student db dot java 
+student db 
 log 
 max key regener tri 
 instanc 
 
+logger 
+student db 
 
 student 
 queri string 
@@ -59,6 +61,9 @@ attribut
 start time 
 time 
 
+instructor attribut 
+attribut delet queri 
+cours student 
 
 student db 
 inst 

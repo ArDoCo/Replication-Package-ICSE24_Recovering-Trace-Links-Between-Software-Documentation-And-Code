@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep titl checker dot java 
+titl checker 
 insid cur braket 
 delimit 
 capit letter 

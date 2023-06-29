@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib databas dot java 
+ms bib databas 
 namespac 
 prefix 
 logger 

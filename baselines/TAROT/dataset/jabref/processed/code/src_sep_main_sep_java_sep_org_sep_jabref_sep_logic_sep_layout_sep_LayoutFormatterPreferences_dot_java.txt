@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep layout formatt prefer dot java 
+layout formatt prefer 
 formatt prefer 
 main file directori properti 
 custom export formatt 
 custom export formatt 
 journal abbrevi repositori 
 
+formatt prefer 
 
 formatt prefer 
 main file directori properti 
@@ -13,6 +14,7 @@ formatt
 content 
 formatt 
 
+formatt prefer 
 
 layout formatt prefer 
 formatt prefer 

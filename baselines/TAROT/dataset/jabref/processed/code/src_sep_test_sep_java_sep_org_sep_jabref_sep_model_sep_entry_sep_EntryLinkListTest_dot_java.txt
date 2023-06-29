@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep entri sep entri link list test dot java 
+entri link list test 
 key 
 databas 
 link 
@@ -7,11 +7,17 @@ link
 sourc 
 target 
 
+pars entri link 
+pars entri link 
+bib entri 
+bib entri 
 
 cite key 
 target 
 sourc 
 
+bib entri 
+bib entri 
 
 befor 
 creat 

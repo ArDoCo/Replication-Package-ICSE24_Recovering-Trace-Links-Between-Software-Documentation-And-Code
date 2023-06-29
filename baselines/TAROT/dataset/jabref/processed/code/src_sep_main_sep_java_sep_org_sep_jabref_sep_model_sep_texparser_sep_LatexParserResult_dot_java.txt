@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep texpars sep latex parser result dot java 
+latex parser result 
 file list 
 file list 
 nest file 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep sep enrol dot java 
+enrol 
 
 
 messag 

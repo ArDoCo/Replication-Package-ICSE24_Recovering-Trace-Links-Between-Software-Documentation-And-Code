@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep move file cleanup test dot java 
+move file cleanup test 
 default file folder 
 file befor 
 cleanup 
@@ -6,6 +6,10 @@ entri
 file prefer 
 databas context 
 
+move file cleanup 
+bib entri 
+file prefer 
+bib databas context 
 
 bib folder 
 

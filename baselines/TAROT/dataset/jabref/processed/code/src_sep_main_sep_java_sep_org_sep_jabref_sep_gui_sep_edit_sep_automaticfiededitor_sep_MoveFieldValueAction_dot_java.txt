@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep move field valu action dot java 
+move field valu action 
 field 
 field 
 entri 

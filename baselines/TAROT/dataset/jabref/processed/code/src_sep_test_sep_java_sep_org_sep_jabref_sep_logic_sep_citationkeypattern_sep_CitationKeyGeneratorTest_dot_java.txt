@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep citationkeypattern sep citat key generat test dot java 
+citat key generat test 
 author empti 
 author string firstnam full lastnam full count 
 author firstnam full lastnam full count 

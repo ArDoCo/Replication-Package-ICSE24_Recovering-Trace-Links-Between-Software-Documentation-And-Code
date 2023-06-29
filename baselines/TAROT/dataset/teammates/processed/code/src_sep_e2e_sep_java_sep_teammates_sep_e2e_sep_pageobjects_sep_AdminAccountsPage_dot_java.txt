@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep admin account page dot java 
+admin account page 
 account id 
 account 
 account email 
@@ -12,6 +12,7 @@ account
 cours id 
 cours id 
 
+browser 
 
 admin account page 
 expect page content 

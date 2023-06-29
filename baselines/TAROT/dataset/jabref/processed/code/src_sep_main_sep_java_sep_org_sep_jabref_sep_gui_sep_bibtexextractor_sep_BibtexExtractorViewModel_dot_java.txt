@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep bibtexextractor sep bibtex extractor view model dot java 
+bibtex extractor view model 
 logger 
 input text properti 
 dialog servic 
@@ -6,6 +6,7 @@ prefer servic
 task executor 
 import handler 
 
+dialog servic 
 
 bibdatabas context 
 dialog servic 
@@ -18,6 +19,9 @@ import format reader
 bib entri 
 event messag 
 
+bib databas context 
+dialog servic 
+file updat monitor 
 
 bibtex extractor view model 
 input text properti 

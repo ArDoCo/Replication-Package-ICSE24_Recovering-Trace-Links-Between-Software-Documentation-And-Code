@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep link entri editor view model dot java 
+link entri editor view model 
 databas context 
 link entri 
 link entri 
 
+pars entri link 
 
 field 
 suggest provid 
@@ -12,6 +13,8 @@ link entri
 key 
 pars entri link 
 
+pars entri link 
+pars entri link 
 
 link entri editor view model 
 link entri properti 

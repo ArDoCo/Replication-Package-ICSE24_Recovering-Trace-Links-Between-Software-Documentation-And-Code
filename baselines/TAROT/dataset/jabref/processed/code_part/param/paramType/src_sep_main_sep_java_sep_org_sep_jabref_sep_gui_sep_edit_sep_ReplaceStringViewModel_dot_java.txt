@@ -1,0 +1,6 @@
+librari tab 
+bib entri 
+compound 
+bib entri 
+field 
+compound 

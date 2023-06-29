@@ -1,8 +1,9 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep callback sep delay callback dot java 
+delay callback 
 callback event 
 call time 
 num attempt 
 
+callback event 
 
 event 
 delay milli 
@@ -10,6 +11,7 @@ num attempt
 unit 
  
 
+callback event 
 
 delay callback 
 delay 

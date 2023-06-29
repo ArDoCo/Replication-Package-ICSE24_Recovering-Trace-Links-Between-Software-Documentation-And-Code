@@ -1,14 +1,17 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep bib author dot java 
+bib author 
 
 middl 
 author 
 corpor 
 
+author 
 
 author 
 author 
 corpor 
 
+author 
+author 
 
 bib author 
 bib author 

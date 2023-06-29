@@ -1,7 +1,8 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep googl scholar test dot java 
+googl scholar test 
 finder 
 entri 
 
+bib entri 
 
 
 

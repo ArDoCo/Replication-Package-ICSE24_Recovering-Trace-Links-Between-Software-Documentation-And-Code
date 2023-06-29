@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback rank option question detail dot java 
+feedback rank option question detail 
 question type 
 min num option 
 error invalid max option enabl 
@@ -20,6 +20,8 @@ num recipi
 feedback question attribut 
 option 
 
+feedback question detail 
+feedback question attribut 
 
 feedback rank option question detail 
 feedback rank option question detail 

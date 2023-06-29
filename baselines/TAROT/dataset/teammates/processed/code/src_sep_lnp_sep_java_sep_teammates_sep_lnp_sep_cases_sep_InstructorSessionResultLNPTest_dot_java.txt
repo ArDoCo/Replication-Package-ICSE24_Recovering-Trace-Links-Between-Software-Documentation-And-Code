@@ -1,4 +1,4 @@
-src sep lnp sep java sep teammat sep lnp sep case sep instructor session result lnp test dot java 
+instructor session result lnp test 
 ramp period 
 number user account 
 number question 

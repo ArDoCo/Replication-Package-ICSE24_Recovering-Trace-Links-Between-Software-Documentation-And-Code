@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep document viewer view model dot java 
+document viewer view model 
 logger 
 state manag 
 prefer servic 
@@ -11,6 +11,8 @@ current page
 current page 
 max page 
 
+document view model 
+link file 
 
 state manag 
 prefer servic 
@@ -20,6 +22,7 @@ path
 file 
 page number 
 
+link file 
 
 document viewer view model 
 current page 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep entri dot java 
+entri 
 entri 
 local string 
 local string 
@@ -7,9 +7,11 @@ field
 local integ 
 local integ 
 
+bib entri 
 
  
 
+bib entri 
 
 entri 
 

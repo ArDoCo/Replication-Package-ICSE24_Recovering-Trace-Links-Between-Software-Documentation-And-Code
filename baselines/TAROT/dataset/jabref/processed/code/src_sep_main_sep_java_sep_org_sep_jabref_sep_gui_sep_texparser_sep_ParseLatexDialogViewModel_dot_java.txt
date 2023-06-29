@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex dialog view model dot java 
+pars latex dialog view model 
 logger 
 tex ext 
 databas context 
@@ -16,6 +16,12 @@ file
 search progress 
 success search 
 
+bib databas context 
+dialog servic 
+task executor 
+prefer servic 
+file updat monitor 
+file node view model 
 
 databas context 
 dialog servic 
@@ -25,6 +31,11 @@ file monitor
 
 directori 
 
+bib databas context 
+dialog servic 
+task executor 
+prefer servic 
+file updat monitor 
 
 pars latex dialog view model 
 latex file directori properti 

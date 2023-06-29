@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep ui sep webapi sep join cours action dot java 
+join cours action 
 log 
 
+logger 
 
 regkey 
 regkey 

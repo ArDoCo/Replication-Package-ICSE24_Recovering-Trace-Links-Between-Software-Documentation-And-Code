@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep entryeditortab sep custom editor field tab dot java 
+custom editor field tab 
 general field 
 field text area 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfiletyp sep standard extern file type dot java 
+standard extern file type 
 
 extens 
 mime type 
@@ -6,6 +6,7 @@ open
 icon 
 icon 
 
+jab ref icon 
 
 
 extens 
@@ -14,6 +15,7 @@ open
 icon 
 icon 
 
+jab ref icon 
 
 standard extern file type 
 

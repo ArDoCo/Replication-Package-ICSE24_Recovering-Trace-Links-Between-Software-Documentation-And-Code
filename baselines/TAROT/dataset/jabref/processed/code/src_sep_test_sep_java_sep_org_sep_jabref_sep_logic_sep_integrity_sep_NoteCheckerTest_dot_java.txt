@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep note checker test dot java 
+note checker test 
 checker 
 checker biblatex 
 

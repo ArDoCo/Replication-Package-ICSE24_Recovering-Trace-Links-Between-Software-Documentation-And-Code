@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep valid sep size valid dot java 
+size valid 
 min 
 max 
 
@@ -7,6 +7,7 @@ constraint annot
  
 constraint valid context 
 
+size 
 
 initi 
 valid 

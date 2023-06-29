@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep specialfield sep special field view model dot java 
+special field view model 
 field 
 prefer servic 
 undo manag 
 
+special field 
 
 field 
 prefer servic 
@@ -15,6 +16,8 @@ bib entri
 valu 
 entri 
 
+special field 
+dialog servic 
 
 special field view model 
 field 

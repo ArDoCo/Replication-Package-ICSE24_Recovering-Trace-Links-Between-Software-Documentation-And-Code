@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep slr sep exist studi search action dot java 
+exist studi search action 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep git ignor file filter dot java 
+git ignor file filter 
 logger 
 git ignor pattern 
 git ignor pattern 

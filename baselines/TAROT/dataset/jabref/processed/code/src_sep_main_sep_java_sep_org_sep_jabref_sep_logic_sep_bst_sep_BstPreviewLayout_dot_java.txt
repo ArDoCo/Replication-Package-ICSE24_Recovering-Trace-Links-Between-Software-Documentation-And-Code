@@ -1,14 +1,17 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep preview layout dot java 
+preview layout 
 logger 
 
 bst vm 
 error 
 
+vm 
 
 path 
 origin entri 
 databas context 
 
+bib entri 
+bib databas context 
 
 preview layout 
 generat preview 

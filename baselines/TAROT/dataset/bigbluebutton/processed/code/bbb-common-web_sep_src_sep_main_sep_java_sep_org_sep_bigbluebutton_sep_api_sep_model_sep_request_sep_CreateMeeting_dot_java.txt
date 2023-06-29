@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep request sep creat meet dot java 
+creat meet 
 valu 
 
 meet id 

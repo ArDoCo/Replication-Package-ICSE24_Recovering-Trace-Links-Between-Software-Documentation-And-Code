@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep transport sep send msg dot java 
+send msg 
 msg line 
 msg line 
 uuid 

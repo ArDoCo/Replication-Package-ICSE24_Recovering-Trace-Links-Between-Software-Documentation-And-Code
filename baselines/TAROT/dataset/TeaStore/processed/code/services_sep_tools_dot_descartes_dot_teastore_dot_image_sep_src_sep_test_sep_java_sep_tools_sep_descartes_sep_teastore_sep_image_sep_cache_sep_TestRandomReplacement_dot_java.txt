@@ -1,10 +1,12 @@
-servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep cach sep test random replac dot java 
+test random replac 
 
 
 cach valu 
 rand 
 data 
 
+dummi data 
+dummi data 
 
 test constructor simpl 
 test constructor size 

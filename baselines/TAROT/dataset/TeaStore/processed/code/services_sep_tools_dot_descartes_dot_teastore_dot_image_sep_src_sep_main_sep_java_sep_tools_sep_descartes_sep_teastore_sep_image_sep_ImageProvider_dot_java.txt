@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep imag provid dot java 
+imag provid 
 imag 
 db 
 storag 
@@ -16,6 +16,8 @@ size
 key 
 size 
 
+imag size 
+imag size 
 
 imag provid 
 set imag db 

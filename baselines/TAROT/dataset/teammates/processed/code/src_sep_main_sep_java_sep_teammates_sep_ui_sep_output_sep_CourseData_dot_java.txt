@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep cours data dot java 
+cours data 
 cours id 
 cours 
 time zone 
@@ -7,12 +7,14 @@ creation timestamp
 delet timestamp 
 privileg 
 
+instructor permiss set 
 
 cours attribut 
 creation timestamp 
 delet timestamp 
 privileg 
 
+instructor permiss set 
 
 cours data 
 cours id 

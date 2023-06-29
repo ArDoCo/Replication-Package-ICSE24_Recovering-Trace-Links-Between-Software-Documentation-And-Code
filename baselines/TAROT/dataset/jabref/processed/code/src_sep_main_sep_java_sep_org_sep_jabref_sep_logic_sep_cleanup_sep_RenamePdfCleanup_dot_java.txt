@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep renam pdf cleanup dot java 
+renam pdf cleanup 
 logger 
 databas context 
 onli relat path 

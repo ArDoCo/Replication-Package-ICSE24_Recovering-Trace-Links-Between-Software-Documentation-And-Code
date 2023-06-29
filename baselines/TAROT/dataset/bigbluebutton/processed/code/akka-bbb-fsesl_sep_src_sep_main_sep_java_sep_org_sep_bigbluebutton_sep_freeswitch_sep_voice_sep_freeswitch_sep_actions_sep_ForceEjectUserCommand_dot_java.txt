@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep forc eject user command dot java 
+forc eject user command 
 log 
 voic conf 
 user id 
@@ -11,6 +11,7 @@ uuid
 respons 
 event listen 
 
+confer event listen 
 
 forc eject user command 
 command 

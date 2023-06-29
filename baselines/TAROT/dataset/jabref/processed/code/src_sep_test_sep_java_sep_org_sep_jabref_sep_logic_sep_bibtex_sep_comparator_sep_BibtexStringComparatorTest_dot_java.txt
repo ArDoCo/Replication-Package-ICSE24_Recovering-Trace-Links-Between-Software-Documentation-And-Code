@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep bibtex sep compar sep bibtex string compar test dot java 
+bibtex string compar test 
 bsc 
 bsc 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep copyormovecont sep copi move field content tab view dot java 
+copi move field content tab view 
 copi content button 
 move content button 
 swap content button 
@@ -14,10 +14,16 @@ databas
 state manag 
 visual 
 
+field 
+field 
+copi move field content tab view model 
+bib entri 
+bib databas 
 
 databas 
 state manag 
 
+bib databas 
 
 copi move field content tab view 
 initi 

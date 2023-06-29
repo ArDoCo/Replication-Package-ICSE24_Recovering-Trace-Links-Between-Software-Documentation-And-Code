@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep open offic panel dot java 
+open offic panel 
 logger 
 dialog servic 
 connect 
@@ -25,6 +25,11 @@ loader
 oo base 
 style 
 
+dialog servic 
+prefer servic 
+task executor 
+style loader 
+oo bib base 
 
 prefer servic 
 open offic prefer 
@@ -41,6 +46,13 @@ citat type
 add page info 
 entri 
 
+prefer servic 
+open offic prefer 
+key bind repositori 
+task executor 
+dialog servic 
+citat type 
+bib entri 
 
 open offic panel 
 content 

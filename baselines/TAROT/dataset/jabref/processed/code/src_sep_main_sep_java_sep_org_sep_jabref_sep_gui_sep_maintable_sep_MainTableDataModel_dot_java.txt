@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep main tabl data model dot java 
+main tabl data model 
 entri filter 
 entri filter 
 entri sort 
@@ -9,6 +9,10 @@ group prefer
 display prefer 
 bib databas context 
 
+bib entri tabl view model 
+bib entri tabl view model 
+display prefer 
+bib databas context 
 
 context 
 prefer servic 
@@ -22,6 +26,16 @@ group
 entri 
 select group 
 
+bib databas context 
+prefer servic 
+group tree node 
+search queri 
+bib entri tabl view model 
+search queri 
+bib entri tabl view model 
+group tree node 
+bib entri tabl view model 
+group tree node 
 
 main tabl data model 
 match 

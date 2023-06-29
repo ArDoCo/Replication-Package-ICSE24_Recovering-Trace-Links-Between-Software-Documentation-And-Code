@@ -1,16 +1,23 @@
-src sep test sep java sep org sep jabref sep logic sep databas sep duplic check test dot java 
+duplic check test 
 simpl articl 
 unrel articl 
 simpl inbook 
 simpl incollect 
 duplic checker 
 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+duplic check 
 
 cloneabl 
 field 
 valu 
 valu 
 
+bib entri 
+field 
 
 set 
 test duplic detect 

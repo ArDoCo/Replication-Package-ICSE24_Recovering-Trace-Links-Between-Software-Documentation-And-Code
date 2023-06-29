@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep deprec field tab dot java 
+deprec field tab 
 entri type manag 
 
 
@@ -15,6 +15,7 @@ task executor
 journal abbrevi repositori 
 entri 
 
+suggest provid 
 
 deprec field tab 
 determin field show 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep rebuild fulltext search index action dot java 
+rebuild fulltext search index action 
 logger 
 state manag 
 current librari tab 
@@ -7,12 +7,17 @@ file prefer
 databas context 
 continu 
 
+dialog servic 
+file prefer 
+bib databas context 
 
 state manag 
 current librari tab 
 dialog servic 
 file prefer 
 
+dialog servic 
+file prefer 
 
 rebuild fulltext search index action 
 execut 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep pdf sep search sep english stem analyz dot java 
+english stem analyz 
 
 
 field 

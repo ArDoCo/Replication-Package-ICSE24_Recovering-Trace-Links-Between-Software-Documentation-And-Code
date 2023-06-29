@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep general sep general properti view dot java 
+general properti view 
 encod 
 encod 
 databas mode 
@@ -10,9 +10,12 @@ preambl
 prefer servic 
 undo manag 
 
+bib databas mode 
+prefer servic 
 
 databas context 
 
+bib databas context 
 
 general properti view 
 tab 

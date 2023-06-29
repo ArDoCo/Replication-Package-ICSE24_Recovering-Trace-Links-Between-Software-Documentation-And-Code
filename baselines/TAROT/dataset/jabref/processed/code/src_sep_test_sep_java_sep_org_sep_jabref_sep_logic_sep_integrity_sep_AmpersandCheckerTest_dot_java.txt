@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep ampersand checker test dot java 
+ampersand checker test 
 checker 
 entri 
 

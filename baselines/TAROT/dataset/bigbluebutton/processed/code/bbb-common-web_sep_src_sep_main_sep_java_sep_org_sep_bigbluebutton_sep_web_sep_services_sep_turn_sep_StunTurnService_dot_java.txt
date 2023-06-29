@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep turn sep stun turn servic dot java 
+stun turn servic 
 log 
 stun server 
 stun server 
@@ -7,12 +7,14 @@ turn server
 remot ice candid 
 remot ice candid 
 
+turn server 
 
 user id 
 stun 
 turn 
 candid 
 
+turn server 
 
 stun server 
 stun turn server 

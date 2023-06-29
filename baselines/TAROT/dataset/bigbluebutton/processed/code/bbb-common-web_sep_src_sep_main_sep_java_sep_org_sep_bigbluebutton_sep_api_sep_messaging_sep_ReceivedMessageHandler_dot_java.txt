@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep receiv messag handler dot java 
+receiv messag handler 
 log 
 receiv messag 
 receiv messag 
@@ -7,12 +7,16 @@ msg processor exec
 run exec 
 gw 
 
+receiv messag 
 
 messag 
 msg 
 messag 
 gw 
 
+messag 
+receiv messag 
+messag 
 
 stop 
 start 

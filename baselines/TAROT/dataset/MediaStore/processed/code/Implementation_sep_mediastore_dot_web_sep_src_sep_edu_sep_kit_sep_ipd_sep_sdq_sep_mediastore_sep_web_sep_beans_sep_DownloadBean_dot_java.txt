@@ -1,4 +1,4 @@
-implement sep mediastor dot web sep src sep sep kit sep ipd sep sdq sep mediastor sep web sep bean sep download bean dot java 
+download bean 
 serial version uid 
 session bean 
 audio 
@@ -12,6 +12,8 @@ bitrat
 file 
 facad 
 
+audio file info 
+audio file info 
 
 event 
 session bean 
@@ -23,6 +25,9 @@ audio info
 valu 
 index 
 
+audio file info 
+audio file info 
+audio file info 
 
 init 
 init facad 

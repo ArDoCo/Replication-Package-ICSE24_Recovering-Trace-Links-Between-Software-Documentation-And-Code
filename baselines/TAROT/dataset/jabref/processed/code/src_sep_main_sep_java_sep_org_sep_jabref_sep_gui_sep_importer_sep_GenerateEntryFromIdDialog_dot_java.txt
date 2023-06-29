@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep generat entri id dialog dot java 
+generat entri id dialog 
 dialog pane 
 id text field 
 generat button 
@@ -9,6 +9,11 @@ task executor
 state manag 
 entri id pop 
 
+prefer servic 
+dialog servic 
+librari tab 
+task executor 
+state manag 
 
 librari tab 
 dialog servic 
@@ -17,6 +22,11 @@ task executor
 state manag 
 entri id pop 
 
+librari tab 
+dialog servic 
+prefer servic 
+task executor 
+state manag 
 
 generat entri id dialog 
 generat entri 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep remot sep server sep remot messag handler dot java 
+remot messag handler 
 
 
 messag 

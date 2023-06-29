@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style test helper dot java 
+oo bib style test helper 
 unresolv entri number 
 citat key 
 num 
@@ -9,6 +9,7 @@ key
 number 
 number 
 
+oo text 
 
 citat key 
 num 
@@ -56,6 +57,15 @@ sourc
 page info 
 style 
 
+oo text 
+bib entri 
+bib entri 
+bib entri 
+uniqu citat marker 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 citat marker numer entri impl 
 citat key 

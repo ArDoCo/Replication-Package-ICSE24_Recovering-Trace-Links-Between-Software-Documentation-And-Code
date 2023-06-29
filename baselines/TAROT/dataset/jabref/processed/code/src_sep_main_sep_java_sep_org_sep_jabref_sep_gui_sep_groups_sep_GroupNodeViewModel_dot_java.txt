@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group node view model dot java 
+group node view model 
 display 
 root 
 children 
@@ -19,6 +19,15 @@ entri list
 prefer servic 
 invalid group 
 
+group node view model 
+bib databas context 
+state manag 
+group tree node 
+bib entri 
+task executor 
+custom local dragboard 
+bib entri 
+prefer servic 
 
 databas context 
 state manag 
@@ -52,6 +61,30 @@ target index
 target 
 mous locat 
 
+bib databas context 
+state manag 
+task executor 
+group tree node 
+custom local dragboard 
+prefer servic 
+bib databas context 
+state manag 
+task executor 
+abstract group 
+custom local dragboard 
+prefer servic 
+bib databas context 
+state manag 
+task executor 
+custom local dragboard 
+prefer servic 
+group tree node 
+bib entri 
+abstract group 
+group node view model 
+group tree node 
+group node view model 
+drop mous locat 
 
 group node view model 
 group node view model 

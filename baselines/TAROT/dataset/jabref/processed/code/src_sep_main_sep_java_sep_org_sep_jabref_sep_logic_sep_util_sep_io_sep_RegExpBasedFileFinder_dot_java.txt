@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep io sep reg exp base file finder dot java 
+reg exp base file finder 
 ext marker 
 escap pattern 
 reg exp 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep search sep search manag factori dot java 
+search manag factori 
 instructor instanc 
 student instanc 
 account request instanc 

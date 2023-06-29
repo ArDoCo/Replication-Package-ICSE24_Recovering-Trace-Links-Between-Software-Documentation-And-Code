@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep uno sep uno style dot java 
+uno style 
 charact style 
 paragraph style 
 

@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep check freeswitch status command dot java 
+check freeswitch status command 
 log 
 send command timestamp 
 
@@ -8,6 +8,7 @@ request id
 respons 
 event listen 
 
+confer event listen 
 
 check freeswitch status command 
 command 

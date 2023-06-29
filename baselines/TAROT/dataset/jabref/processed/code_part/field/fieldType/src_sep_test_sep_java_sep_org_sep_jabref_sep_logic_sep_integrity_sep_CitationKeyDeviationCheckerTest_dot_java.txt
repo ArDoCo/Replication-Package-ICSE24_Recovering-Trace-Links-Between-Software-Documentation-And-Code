@@ -1,0 +1,5 @@
+bib databas context 
+bib databas 
+abstract citat key pattern 
+citat key pattern prefer 
+citat key deviat checker 

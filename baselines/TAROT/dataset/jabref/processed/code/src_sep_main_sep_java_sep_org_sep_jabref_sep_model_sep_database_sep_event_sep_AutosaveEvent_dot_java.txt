@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep databas sep event sep autosav event dot java 
+autosav event 
 
 
 

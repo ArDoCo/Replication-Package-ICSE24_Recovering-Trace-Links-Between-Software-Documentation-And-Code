@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep feedback respons comment data dot java 
+feedback respons comment data 
 comment giver 
 editor email 
 feedback respons comment id 
@@ -11,10 +11,14 @@ show giver
 show comment 
 show comment 
 
+comment visibl type 
+comment visibl type 
 
 frc 
 feedback particip type list 
 
+feedback respons comment attribut 
+feedback particip type 
 
 feedback respons comment data 
 convert feedback visibl type 

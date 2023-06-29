@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep extern applic prefer dot java 
+extern applic prefer 
 mail subject 
 auto open email attach folder 
 cite command 

@@ -1,13 +1,18 @@
-src sep test sep java sep org sep jabref sep gui sep mergeentri sep merg view model test dot java 
+merg view model test 
 view model 
 left entri 
 entri 
 visibl field 
 visibl field 
 
+merg view model 
+bib entri 
+bib entri 
+field 
 
 field 
 
+field 
 
 setup 
 visibl field return sort list field entri type head list 

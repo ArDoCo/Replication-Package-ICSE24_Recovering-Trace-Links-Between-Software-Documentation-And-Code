@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep merg header view dot java 
+merg header view 
 default style class 
 left header cell 
 header cell 

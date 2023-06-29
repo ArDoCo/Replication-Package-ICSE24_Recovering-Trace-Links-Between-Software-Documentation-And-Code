@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep util sep string sep string length compar test dot java 
+string length compar test 
 slc 
 
 

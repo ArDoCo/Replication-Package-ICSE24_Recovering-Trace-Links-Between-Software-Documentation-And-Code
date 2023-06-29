@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep jab ref gui dot java 
+jab ref gui 
 logger 
 main frame 
 prefer servic 
@@ -11,6 +11,11 @@ fail
 open tab 
 open tab 
 
+jab ref frame 
+prefer servic 
+parser result 
+parser result 
+parser result 
 
 main stage 
 databas 
@@ -20,6 +25,8 @@ main stage
 main stage 
 main stage 
 
+parser result 
+prefer servic 
 
 jab ref gui 
 open window 

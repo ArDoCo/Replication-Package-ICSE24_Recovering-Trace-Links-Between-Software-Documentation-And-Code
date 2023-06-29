@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep externalfiletyp sep custom extern file type dot java 
+custom extern file type 

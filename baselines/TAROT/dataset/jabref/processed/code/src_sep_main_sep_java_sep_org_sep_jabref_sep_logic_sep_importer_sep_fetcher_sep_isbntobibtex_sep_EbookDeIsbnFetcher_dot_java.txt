@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep ebook de isbn fetcher dot java 
+ebook de isbn fetcher 
 base url 
 
 
@@ -6,6 +6,8 @@ import format prefer
 identifi 
 entri 
 
+import format prefer 
+bib entri 
 
 ebook de isbn fetcher 
 

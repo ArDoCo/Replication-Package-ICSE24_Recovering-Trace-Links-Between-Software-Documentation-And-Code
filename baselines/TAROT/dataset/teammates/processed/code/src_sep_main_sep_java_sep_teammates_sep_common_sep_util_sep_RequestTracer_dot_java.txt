@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep util sep request tracer dot java 
+request tracer 
 thread local 
 thread local 
 trace id 

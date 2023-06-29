@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep share sep synchron event listen test dot java 
+synchron event listen test 
 share entri present event 
 updat refus event 
 

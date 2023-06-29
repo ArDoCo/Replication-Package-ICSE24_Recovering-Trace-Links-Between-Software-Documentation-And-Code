@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep format sep creat doc book author dot java 
+creat doc book author 
 
 
 field text 

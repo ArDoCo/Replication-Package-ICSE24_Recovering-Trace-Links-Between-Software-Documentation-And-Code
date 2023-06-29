@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep trophys data system test dot java 
+trophys data system test 
 fetcher 
 diez slice theorem entri 
 famaey mc gaugh entri 

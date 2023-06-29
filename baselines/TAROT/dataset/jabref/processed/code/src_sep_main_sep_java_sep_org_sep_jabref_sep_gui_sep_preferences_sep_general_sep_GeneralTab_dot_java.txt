@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep general sep general tab dot java 
+general tab 
 languag 
 languag 
 biblatex mode 
@@ -10,6 +10,7 @@ open startup
 collect telemetri 
 show advanc hint 
 
+bib databas mode 
 
 
 

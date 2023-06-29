@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep storag sep api sep student db test dot java 
+student db test 
 student db 
 
 

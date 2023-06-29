@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep search base fetcher capabl test dot java 
+search base fetcher capabl test 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfiletyp sep extern file type dot java 
+extern file type 
 file type remov flag 
 html fallback type 
 
@@ -21,6 +21,14 @@ file prefer
 file type 
 store file type 
 
+file prefer 
+file prefer 
+file prefer 
+file prefer 
+file prefer 
+file prefer 
+link file 
+file prefer 
 
 extern file type 
 default extern file type 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep bib entri type manag dot java 
+bib entri type manag 
 bibtex entrytyp 
 biblatex entrytyp 
 custom modifi type 
@@ -32,6 +32,17 @@ type
 type 
 entri type 
 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
+bib databas mode 
 
 bib entri type manag 
 entri type 

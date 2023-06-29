@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot recommend sep src sep main sep java sep tool sep descart sep teastor sep recommend sep algorithm sep recommend dot java 
+recommend 
 
 
 order item 
@@ -6,6 +6,9 @@ order
 userid 
 current item 
 
+order item 
+order 
+order item 
 
 train 
 recommend product 

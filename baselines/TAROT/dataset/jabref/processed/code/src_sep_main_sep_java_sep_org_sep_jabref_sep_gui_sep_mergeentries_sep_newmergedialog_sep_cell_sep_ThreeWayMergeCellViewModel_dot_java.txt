@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep merg cell view model dot java 
+merg cell view model 
 text 
 odd 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep action sep check entri type action dot java 
+check entri type action 
 
 
 parser result 

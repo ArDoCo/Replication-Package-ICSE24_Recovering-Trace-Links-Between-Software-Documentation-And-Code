@@ -1,15 +1,19 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep user status command dot java 
+user status command 
 log 
 callernam pattern 
 callernam sess info pattern 
 global audion pattern 
 
+pattern 
+pattern 
+pattern 
 
 room 
 request id 
 respons 
 event listen 
 
+confer event listen 
 
 user status command 
 command arg 

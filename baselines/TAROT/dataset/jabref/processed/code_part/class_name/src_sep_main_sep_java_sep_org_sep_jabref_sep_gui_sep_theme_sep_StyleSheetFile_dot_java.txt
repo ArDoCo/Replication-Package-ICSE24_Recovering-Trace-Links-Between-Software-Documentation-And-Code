@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep theme sep style sheet file dot java 
+style sheet file 

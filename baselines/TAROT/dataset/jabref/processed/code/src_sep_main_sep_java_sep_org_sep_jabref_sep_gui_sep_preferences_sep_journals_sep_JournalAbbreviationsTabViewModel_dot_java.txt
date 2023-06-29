@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep journal sep journal abbrevi tab view model dot java 
+journal abbrevi tab view model 
 logger 
 journal file 
 journal file 

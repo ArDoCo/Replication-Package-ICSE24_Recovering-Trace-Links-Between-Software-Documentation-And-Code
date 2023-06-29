@@ -1,0 +1,3 @@
+bibtex string 
+bib databas context 
+compound 

@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep util sep io sep file finder dot java 
+file finder 
 
 
 entri 
 directori 
 extens 
 
+bib entri 
 
 find associ file 
 

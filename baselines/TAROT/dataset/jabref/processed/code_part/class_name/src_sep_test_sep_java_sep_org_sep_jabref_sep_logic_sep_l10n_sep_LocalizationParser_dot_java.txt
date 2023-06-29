@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep sep local parser dot java 
+local parser 

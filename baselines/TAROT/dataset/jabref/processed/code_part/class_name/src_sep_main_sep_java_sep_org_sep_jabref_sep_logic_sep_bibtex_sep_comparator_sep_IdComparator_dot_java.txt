@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep id compar dot java 
+id compar 

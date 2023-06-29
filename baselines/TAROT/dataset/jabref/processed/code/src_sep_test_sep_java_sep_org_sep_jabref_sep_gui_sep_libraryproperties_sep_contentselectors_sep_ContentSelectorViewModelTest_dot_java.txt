@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep libraryproperti sep contentselector sep content selector view model test dot java 
+content selector view model test 
 dialog servic 
 default field 
 default field 

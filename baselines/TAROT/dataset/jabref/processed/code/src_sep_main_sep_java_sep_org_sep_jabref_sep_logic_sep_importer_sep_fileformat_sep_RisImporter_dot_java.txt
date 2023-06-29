@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep ris import dot java 
+ris import 
 recogn format pattern 
 formatt 
 
@@ -8,6 +8,7 @@ reader
 hm 
 val 
 
+field 
 
 
 file type 

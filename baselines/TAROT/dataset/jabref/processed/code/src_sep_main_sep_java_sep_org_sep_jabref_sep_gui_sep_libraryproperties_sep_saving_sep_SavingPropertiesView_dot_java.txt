@@ -1,12 +1,15 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep save sep save properti view dot java 
+save properti view 
 protect 
 save order config panel 
 field formatt cleanup panel 
 prefer servic 
 
+field formatt cleanup panel 
+prefer servic 
 
 databas context 
 
+bib databas context 
 
 save properti view 
 tab 

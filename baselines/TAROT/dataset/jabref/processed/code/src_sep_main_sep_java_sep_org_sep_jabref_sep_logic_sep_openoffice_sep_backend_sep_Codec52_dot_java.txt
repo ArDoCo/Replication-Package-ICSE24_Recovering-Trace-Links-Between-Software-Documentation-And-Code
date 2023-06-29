@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep backend sep codec dot java 
+codec 
 bib citat 
 cite pattern 
 index 
@@ -6,6 +6,7 @@ citat type
 citat key 
 citat key 
 
+citat type 
 
 index 
 citat type 
@@ -19,6 +20,9 @@ ref mark
 
 
 
+citat type 
+citat type 
+citat type 
 
 codec 
 pars mark 

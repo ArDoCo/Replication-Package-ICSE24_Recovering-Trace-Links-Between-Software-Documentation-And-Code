@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep citationkeypattern sep bracket pattern test dot java 
+bracket pattern test 

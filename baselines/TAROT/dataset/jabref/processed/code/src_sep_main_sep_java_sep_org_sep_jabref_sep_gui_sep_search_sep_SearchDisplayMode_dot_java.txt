@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep search display mode dot java 
+search display mode 
 display 
 display 
 tool tip text 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep search sep text flow equal helper dot java 
+text flow equal helper 
 
 
 expect text 

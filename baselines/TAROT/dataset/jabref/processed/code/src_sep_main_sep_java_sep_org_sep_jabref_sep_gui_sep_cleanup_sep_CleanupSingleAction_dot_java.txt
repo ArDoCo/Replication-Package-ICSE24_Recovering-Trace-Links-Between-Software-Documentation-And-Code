@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep cleanup sep cleanup singl action dot java 
+cleanup singl action 
 prefer 
 dialog servic 
 state manag 
@@ -7,6 +7,9 @@ undo manag
 cancel 
 modifi entri count 
 
+prefer servic 
+dialog servic 
+bib entri 
 
 entri 
 prefer 
@@ -20,6 +23,15 @@ ce
 databas context 
 cleanup prefer 
 
+bib entri 
+prefer servic 
+dialog servic 
+bib databas context 
+cleanup prefer 
+bib entri 
+compound 
+bib databas context 
+cleanup prefer 
 
 cleanup singl action 
 execut 

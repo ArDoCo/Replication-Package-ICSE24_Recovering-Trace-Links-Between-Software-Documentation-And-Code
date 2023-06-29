@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf verbatim bib text import dot java 
+pdf verbatim bib text import 
 import format prefer 
 
+import format prefer 
 
 import format prefer 
 input 
@@ -9,6 +10,7 @@ data
 file path 
 document 
 
+import format prefer 
 
 pdf verbatim bib text import 
 recogn format 

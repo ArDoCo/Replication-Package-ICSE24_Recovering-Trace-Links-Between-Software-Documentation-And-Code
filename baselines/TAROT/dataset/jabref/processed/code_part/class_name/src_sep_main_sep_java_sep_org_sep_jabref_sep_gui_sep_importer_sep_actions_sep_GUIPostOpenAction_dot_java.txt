@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep import sep action sep gui post open action dot java 
+gui post open action 

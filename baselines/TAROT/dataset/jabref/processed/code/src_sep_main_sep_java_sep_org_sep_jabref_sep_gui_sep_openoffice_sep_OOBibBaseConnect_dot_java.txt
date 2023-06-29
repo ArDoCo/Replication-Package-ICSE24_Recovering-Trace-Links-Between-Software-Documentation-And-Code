@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep oo bib base connect dot java 
+oo bib base connect 
 logger 
 dialog servic 
 desktop 

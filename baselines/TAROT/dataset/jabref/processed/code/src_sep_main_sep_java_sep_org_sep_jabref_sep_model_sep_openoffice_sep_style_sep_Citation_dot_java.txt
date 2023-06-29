@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep citat dot java 
+citat 
 citat key 
 db 
 db 
@@ -26,6 +26,9 @@ pair
 pair 
 pair 
 
+citat 
+citat 
+citat 
 
 citat 
 citat key 

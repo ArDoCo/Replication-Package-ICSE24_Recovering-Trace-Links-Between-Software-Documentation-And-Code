@@ -1,12 +1,16 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep bib string checker test dot java 
+bib string checker test 
 checker 
 entri 
 
+bib string checker 
+bib entri 
 
 expect 
 field 
 valu 
 
+integr messag 
+field 
 
 accept input 
 provid accept input 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep import data test dot java 
+import data test 
 file databas 
 file databas 
 exist folder 

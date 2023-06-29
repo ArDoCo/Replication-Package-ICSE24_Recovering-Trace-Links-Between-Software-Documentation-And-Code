@@ -1,0 +1,3 @@
+save configur 
+citat key pattern prefer 
+bib entri type manag 

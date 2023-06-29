@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep bracket pattern dot java 
+bracket pattern 
 logger 
 char 
 max alpha author 
@@ -88,6 +88,7 @@ content
 word 
 
 
+author 
 
 find type 
 bracket pattern 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep search sep rule sep full text search rule dot java 
+full text search rule 
 logger 
 search flag 
 search flag 
@@ -7,6 +7,7 @@ search result
 search result 
 databas context 
 
+search result 
 
 search flag 
 queri 

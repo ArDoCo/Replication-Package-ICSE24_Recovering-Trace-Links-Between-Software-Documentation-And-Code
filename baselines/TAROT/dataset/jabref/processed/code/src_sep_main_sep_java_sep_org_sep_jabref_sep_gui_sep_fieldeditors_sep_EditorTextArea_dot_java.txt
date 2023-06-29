@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep editor text area dot java 
+editor text area 
 context menu 
 action handler 
 

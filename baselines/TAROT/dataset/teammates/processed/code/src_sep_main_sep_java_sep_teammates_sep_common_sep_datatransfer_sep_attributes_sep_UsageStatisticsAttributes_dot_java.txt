@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep age statist attribut dot java 
+age statist attribut 
 start time 
 time period 
 num respons 
@@ -10,6 +10,7 @@ num email
 num submiss 
 usa 
 
+age statist attribut 
 
 start time 
 time period 
@@ -27,6 +28,7 @@ num account request
 num email 
 num submiss 
 
+age statist 
 
 age statist attribut 
 valu 

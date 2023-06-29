@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep file filter convert dot java 
+file filter convert 
 ani file 
 
 
@@ -16,6 +16,9 @@ extens filter
 extens 
 extens 
 
+import 
+import 
+import 
 
 file filter convert 
 extens filter 

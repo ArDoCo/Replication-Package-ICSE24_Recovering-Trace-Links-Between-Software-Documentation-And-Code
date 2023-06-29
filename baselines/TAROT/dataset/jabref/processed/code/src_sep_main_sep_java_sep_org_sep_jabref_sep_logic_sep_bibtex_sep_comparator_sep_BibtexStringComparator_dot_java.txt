@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep bibtex string compar dot java 
+bibtex string compar 
 consid ref 
 
 
@@ -6,6 +6,8 @@ consid ref
  
  
 
+bibtex string 
+bibtex string 
 
 bibtex string compar 
 compar 

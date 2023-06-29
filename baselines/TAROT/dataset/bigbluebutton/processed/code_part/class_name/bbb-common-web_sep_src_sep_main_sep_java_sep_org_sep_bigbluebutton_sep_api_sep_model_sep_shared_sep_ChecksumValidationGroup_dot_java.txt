@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep share sep checksum valid group dot java 
+checksum valid group 

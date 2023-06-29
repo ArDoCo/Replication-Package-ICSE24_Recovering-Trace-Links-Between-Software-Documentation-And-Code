@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep grobid opt dialog helper dot java 
+grobid opt dialog helper 
 
 
 dialog servic 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep grobid citat fetcher test dot java 
+grobid citat fetcher test 
 import format prefer 
 grobid prefer 
 grobid citat fetcher 

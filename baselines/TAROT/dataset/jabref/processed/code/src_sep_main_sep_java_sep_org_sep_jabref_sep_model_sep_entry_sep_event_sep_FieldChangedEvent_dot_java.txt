@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep model sep entri sep event sep field chang event dot java 
+field chang event 
 field 
 valu 
 valu 
 major charact chang 
 
+field 
 
 bib entri 
 field 
@@ -20,6 +21,14 @@ field chang
 valu 
 valu 
 
+bib entri 
+field 
+entri event sourc 
+bib entri 
+field 
+field chang 
+entri event sourc 
+field chang 
 
 field chang event 
 field chang event 

@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep text file creator dot java 
+text file creator 

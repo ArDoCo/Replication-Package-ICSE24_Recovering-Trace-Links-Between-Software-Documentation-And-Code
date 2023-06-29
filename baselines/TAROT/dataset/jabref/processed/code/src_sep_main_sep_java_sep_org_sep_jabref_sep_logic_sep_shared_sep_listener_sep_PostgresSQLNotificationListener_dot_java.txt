@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep listen sep postgr sql notif listen dot java 
+postgr sql notif listen 
 logger 
 dbms synchron 
 pg connect 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep import file result item view model dot java 
+import file result item view model 
 file 
 icon 
 icon 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep migrat sep merg review comment migrat dot java 
+merg review comment migrat 
 logger 
 
 
@@ -15,6 +15,16 @@ parser result
 entri 
 review 
 
+parser result 
+parser result 
+parser result 
+parser result 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+parser result 
+bib entri 
 
 migrat 
 perform migrat 

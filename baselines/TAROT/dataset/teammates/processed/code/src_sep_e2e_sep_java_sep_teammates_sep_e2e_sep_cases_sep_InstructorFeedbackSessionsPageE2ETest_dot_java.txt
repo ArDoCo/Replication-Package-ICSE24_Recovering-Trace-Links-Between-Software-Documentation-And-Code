@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep case sep instructor feedback session page test dot java 
+instructor feedback session page test 
 instructor 
 cours 
 copi cours 
@@ -8,11 +8,17 @@ close session
 session 
 file 
 
+instructor attribut 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
 
 session 
 feedback session 
 state 
 
+feedback session attribut 
+feedback session attribut 
 
 prepar test data 
 class setup 

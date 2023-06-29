@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep protectedterm sep protect term list test dot java 
+protect term list test 

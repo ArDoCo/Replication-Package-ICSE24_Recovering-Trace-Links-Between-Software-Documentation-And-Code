@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep util sep const dot java 
+const 
 user nobodi text 
 user team instructor 
 default display instructor 

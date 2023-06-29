@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep unlink file dialog view model dot java 
+unlink file dialog view model 
 logger 
 import handler 
 directori path 
@@ -34,6 +34,14 @@ task executor
 scan directori valid 
 scan directori valid 
 
+file extens view model 
+extern file sorter 
+import file result item view model 
+file extens view model 
+extern file sorter 
+dialog servic 
+file node view model 
+bib databas context 
 
 dialog servic 
 undo manag 
@@ -43,6 +51,8 @@ state manag
 task executor 
 import format reader 
 
+dialog servic 
+file updat monitor 
 
 unlink file dialog view model 
 start search 

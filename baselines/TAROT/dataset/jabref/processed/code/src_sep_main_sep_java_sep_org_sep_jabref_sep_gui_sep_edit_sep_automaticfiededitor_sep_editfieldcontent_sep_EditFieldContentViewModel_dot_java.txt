@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep editfieldcont sep edit field content view model dot java 
+edit field content view model 
 tab index 
 select entri 
 select entri 

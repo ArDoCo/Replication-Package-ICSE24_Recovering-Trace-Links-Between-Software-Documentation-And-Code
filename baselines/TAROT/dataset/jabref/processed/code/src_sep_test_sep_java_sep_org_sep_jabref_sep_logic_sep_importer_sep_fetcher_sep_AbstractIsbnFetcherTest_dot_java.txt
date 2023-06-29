@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep abstract isbn fetcher test dot java 
+abstract isbn fetcher test 
 fetcher 
 bib entri effect java 
 

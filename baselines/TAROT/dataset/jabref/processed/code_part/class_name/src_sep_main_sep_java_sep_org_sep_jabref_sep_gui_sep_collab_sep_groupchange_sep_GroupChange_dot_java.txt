@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep groupchang sep group chang dot java 
+group chang 

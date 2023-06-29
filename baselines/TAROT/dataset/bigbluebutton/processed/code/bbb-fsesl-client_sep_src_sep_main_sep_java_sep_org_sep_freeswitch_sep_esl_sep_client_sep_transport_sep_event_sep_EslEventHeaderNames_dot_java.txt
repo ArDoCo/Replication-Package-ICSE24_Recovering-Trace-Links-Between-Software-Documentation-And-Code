@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep transport sep event sep event header dot java 
+event header 
 event 
 event subclass 
 event date local 

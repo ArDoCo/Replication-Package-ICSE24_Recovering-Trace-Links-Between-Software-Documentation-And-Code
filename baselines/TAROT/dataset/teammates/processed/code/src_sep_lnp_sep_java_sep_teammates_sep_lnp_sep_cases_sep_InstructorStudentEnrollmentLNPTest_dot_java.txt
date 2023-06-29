@@ -1,4 +1,4 @@
-src sep lnp sep java sep teammat sep lnp sep case sep instructor student enrol lnp test dot java 
+instructor student enrol lnp test 
 num instructor 
 ramp period 
 num student instructor 

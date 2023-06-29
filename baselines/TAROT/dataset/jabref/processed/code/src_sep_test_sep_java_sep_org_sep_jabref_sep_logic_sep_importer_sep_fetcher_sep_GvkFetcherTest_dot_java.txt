@@ -1,8 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep gvk fetcher test dot java 
+gvk fetcher test 
 fetcher 
 bib entri ppn 
 bib entri ppn 
 
+gvk fetcher 
+bib entri 
+bib entri 
 
 
 

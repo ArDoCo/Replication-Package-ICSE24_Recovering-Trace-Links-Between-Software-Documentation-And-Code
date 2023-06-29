@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep open offic prefer dot java 
+open offic prefer 
 default win exec path 
 window execut 
 default osx exec path 

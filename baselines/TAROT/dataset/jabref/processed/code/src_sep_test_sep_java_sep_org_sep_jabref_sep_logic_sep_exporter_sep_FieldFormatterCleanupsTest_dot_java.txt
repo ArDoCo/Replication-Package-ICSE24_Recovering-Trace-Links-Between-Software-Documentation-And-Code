@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep export sep field formatt cleanup test dot java 
+field formatt cleanup test 
 entri 
 
+bib entri 
 
 
 

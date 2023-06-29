@@ -1,8 +1,10 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep field formatt cleanup test dot java 
+field formatt cleanup test 
 entri 
 field map 
 field map 
 
+bib entri 
+field 
 
 
 

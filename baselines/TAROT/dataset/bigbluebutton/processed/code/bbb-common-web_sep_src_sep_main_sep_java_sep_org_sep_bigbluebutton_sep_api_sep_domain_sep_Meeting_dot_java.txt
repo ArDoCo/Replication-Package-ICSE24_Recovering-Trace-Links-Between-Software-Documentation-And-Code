@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep meet dot java 
+meet 
 role moder 
 role attende 
 
@@ -136,6 +136,8 @@ html instanc id
 group 
 group 
 
+group 
+group 
 
 builder 
 meet id 
@@ -247,6 +249,9 @@ moder delay minut
 instanc id 
 group 
 
+group 
+er 
+group 
 
 meet 
 add breakout room 

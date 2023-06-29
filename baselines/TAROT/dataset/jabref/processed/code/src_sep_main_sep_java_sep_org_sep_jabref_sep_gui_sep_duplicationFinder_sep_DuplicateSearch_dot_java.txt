@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep duplic finder sep duplic search dot java 
+duplic search 
 frame 
 duplic 
 duplic 
@@ -17,6 +17,8 @@ add
 add 
 duplic 
 
+dialog servic 
+bib entri 
 
 frame 
 dialog servic 
@@ -37,6 +39,18 @@ entri
 replac 
 entri 
 
+dialog servic 
+bib entri 
+bib databas mode 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 duplic search 
 execut 

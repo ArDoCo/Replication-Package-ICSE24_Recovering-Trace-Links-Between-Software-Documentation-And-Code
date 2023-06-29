@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep convert sep messag sep unpublish record messag dot java 
+unpublish record messag 
 unpublish record event 
 version 
 record id 

@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep ui sep webapi sep search account request action dot java 
+search account request action 

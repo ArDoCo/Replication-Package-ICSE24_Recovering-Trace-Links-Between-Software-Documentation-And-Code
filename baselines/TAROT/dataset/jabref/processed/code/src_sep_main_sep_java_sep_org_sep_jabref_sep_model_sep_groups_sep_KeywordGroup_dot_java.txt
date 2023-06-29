@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep model sep group sep keyword group dot java 
+keyword group 
 search field 
 search express 
 case sensit 
 
+field 
 
 
 context 
@@ -11,6 +12,8 @@ search express
 case sensit 
  
 
+group hierarchi type 
+field 
 
 keyword group 
 case sensit 

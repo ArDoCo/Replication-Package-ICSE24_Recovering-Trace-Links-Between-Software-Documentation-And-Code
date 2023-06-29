@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep general sep general properti view model dot java 
+general properti view model 
 encod disabl properti 
 encod properti 
 encod properti 
@@ -19,12 +19,18 @@ meta data
 directori dialog configur 
 undo manag 
 
+bib databas mode 
+bib databas mode 
+dialog servic 
+bib databas context 
 
 databas context 
 dialog servic 
 prefer servic 
 undo manag 
 
+bib databas context 
+dialog servic 
 
 general properti view model 
 set valu 

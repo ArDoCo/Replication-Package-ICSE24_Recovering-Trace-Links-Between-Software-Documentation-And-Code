@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep sep version worker dot java 
+version worker 
 logger 
 instal version 
 dialog servic 
 task executor 
 intern prefer 
 
+dialog servic 
 
 instal version 
 dialog servic 
@@ -15,6 +16,7 @@ manual execut
 newer version 
 manual execut 
 
+dialog servic 
 
 version worker 
 version 

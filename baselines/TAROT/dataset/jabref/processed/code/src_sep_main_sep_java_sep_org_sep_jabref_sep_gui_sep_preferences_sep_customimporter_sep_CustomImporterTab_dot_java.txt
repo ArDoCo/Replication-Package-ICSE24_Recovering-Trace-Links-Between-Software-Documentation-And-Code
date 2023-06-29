@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customimport sep custom import tab dot java 
+custom import tab 
 import tabl 
 import tabl 
 column 
@@ -9,6 +9,10 @@ base path column
 base path column 
 add button 
 
+import view model 
+import view model 
+import view model 
+import view model 
 
 
 

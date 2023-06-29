@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep dialog sep backup ui manag dot java 
+backup ui manag 

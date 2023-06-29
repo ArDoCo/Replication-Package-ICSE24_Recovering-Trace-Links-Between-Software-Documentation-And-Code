@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep manag keyword dialog dot java 
+manag keyword dialog 
 entri 
 entri 
 keyword tabl main column 
@@ -13,9 +13,13 @@ display type
 prefer 
 view model 
 
+bib entri 
+prefer servic 
+manag keyword view model 
 
 entri 
 
+bib entri 
 
 manag keyword dialog 
 initi 

@@ -1,12 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep entri editor tab dot java 
+entri editor tab 
 current entri 
 current entri type 
 
+bib entri 
 
 entri 
 entri 
 entri 
 
+bib entri 
+bib entri 
+bib entri 
 
 show 
 bind entri 

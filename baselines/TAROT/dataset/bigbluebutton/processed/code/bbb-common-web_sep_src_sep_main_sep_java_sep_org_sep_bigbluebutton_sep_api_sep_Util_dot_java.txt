@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep util dot java 
+util 
 meet id pattern 
 pres id pattern 
 pres file id pattern 

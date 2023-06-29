@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep upper case test dot java 
+upper case test 

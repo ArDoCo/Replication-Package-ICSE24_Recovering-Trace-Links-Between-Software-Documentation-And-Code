@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep util sep recurs tree item dot java 
+recurs tree item 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep event sep event listen test dot java 
+event listen test 
 ad entri 
 ad entri 
 insert entri 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep auxpars sep default aux parser dot java 
+default aux parser 
 logger 
 cite pattern 
 input pattern 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep protectedterm sep protect term prefer dot java 
+protect term prefer 
 enabl intern term list 
 enabl intern term list 
 enabl extern term list 

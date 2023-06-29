@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep instructor action dot java 
+instructor action 
 unauthor access 
 
 

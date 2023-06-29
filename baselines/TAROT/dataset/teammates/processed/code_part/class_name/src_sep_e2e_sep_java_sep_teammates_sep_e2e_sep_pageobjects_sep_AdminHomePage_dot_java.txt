@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep pageobject sep admin home page dot java 
+admin home page 

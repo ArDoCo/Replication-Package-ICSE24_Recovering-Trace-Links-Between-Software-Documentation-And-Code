@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep mod export dot java 
+mod export 
 mod namespac uri 
 
 doubl 

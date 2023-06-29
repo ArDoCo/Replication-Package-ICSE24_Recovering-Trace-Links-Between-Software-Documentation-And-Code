@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep edit insert dot java 
+edit insert 
 
 
 entri 
@@ -11,6 +11,12 @@ style
 citat type 
 page info 
 
+bib entri 
+oo frontend 
+bib entri 
+bib databas 
+oo bib style 
+citat type 
 
 edit insert 
 insert entri citat key 

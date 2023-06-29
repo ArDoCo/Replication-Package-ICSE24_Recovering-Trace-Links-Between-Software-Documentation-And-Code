@@ -1,0 +1,15 @@
+bib databas context 
+global citat key pattern 
+file updat monitor 
+entri ad event 
+field chang event 
+entri remov event 
+meta data chang event 
+bib entri 
+bib entri 
+meta data 
+global citat key pattern 
+entri event 
+databas connect 
+bib entri 
+meta data 

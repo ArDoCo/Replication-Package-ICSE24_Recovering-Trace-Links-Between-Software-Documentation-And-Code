@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep case sep instructor feedback report page test dot java 
+instructor feedback report page test 
 instructor 
 file 
 student email 
@@ -36,6 +36,19 @@ qn recipi respons
 respons comment 
 comment 
 
+instructor attribut 
+instructor attribut 
+app url 
+instructor feedback result page 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons comment attribut 
 
 feedback session 
 state 
@@ -79,6 +92,18 @@ respons
 group team 
 cours id 
 
+feedback session attribut 
+feedback respons attribut 
+feedback particip type 
+feedback question attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
 
 prepar test data 
 class setup 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file action dot java 
+copi file action 
 dialog servic 
 prefer servic 
 state manag 

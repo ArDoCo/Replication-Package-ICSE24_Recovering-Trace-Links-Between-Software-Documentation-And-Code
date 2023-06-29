@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep record dot java 
+record 
 id 
 meet id 
 
@@ -33,6 +33,8 @@ state unpublish
 state delet 
 state delet 
 
+playback 
+extens 
 
 id 
 state 
@@ -58,6 +60,8 @@ meet id
 playback 
 olddat 
 
+extens 
+playback 
 
 id 
 set id 

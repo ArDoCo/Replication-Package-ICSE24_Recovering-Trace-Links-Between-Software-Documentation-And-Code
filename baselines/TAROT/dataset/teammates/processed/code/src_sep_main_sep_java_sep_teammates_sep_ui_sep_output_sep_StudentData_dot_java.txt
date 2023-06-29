@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep student data dot java 
+student data 
 email 
 cours id 
 
@@ -10,6 +10,7 @@ join state
 team 
 section 
 
+join state 
 
 student attribut 
 googl id 
@@ -21,6 +22,7 @@ key
 institut 
 googl id 
 
+join state 
 
 student data 
 email 

@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep valid sep checksum valid dot java 
+checksum valid 
 log 
 
 
@@ -6,6 +6,7 @@ checksum constraint
 checksum 
 context 
 
+checksum 
 
 initi 
 valid 

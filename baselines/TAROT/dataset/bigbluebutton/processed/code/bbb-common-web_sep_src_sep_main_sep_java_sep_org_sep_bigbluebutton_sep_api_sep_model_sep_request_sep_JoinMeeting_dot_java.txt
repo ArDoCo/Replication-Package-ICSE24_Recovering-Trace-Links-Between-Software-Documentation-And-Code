@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep request sep join meet dot java 
+join meet 
 valu 
 meet id 
 user id 
@@ -13,6 +13,7 @@ creat time
 role 
 join password 
 
+password 
 
 valu 
 checksum 
@@ -29,6 +30,7 @@ creat time
 role 
 param 
 
+checksum 
 
 param 
 valu 

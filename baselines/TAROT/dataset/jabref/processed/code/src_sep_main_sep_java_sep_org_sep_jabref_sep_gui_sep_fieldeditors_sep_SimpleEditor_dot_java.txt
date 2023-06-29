@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep simpl editor dot java 
+simpl editor 
 view model 
 text input 
 
+simpl editor view model 
 
 field 
 suggest provid 
@@ -14,6 +15,13 @@ field checker
 prefer 
 entri 
 
+field 
+field checker 
+prefer servic 
+field 
+field checker 
+prefer servic 
+bib entri 
 
 simpl editor 
 simpl editor 

@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep repositori sep data generat dot java 
+data generat 
 mainten status code 
 small db categori 
 small db product categori 
@@ -20,6 +20,7 @@ preffer categori chanc
 generat 
 mainten mode 
 
+data generat 
 
 categori 
 product categori 

@@ -1,12 +1,17 @@
-src sep sep java sep teammat sep sep case sep instructor feedback edit page test dot java 
+instructor feedback edit page test 
 instructor 
 feedback session 
 cours 
 copi cours 
 
+instructor attribut 
+feedback session attribut 
+cours attribut 
+cours attribut 
 
 question 
 
+feedback question attribut 
 
 prepar test data 
 test 

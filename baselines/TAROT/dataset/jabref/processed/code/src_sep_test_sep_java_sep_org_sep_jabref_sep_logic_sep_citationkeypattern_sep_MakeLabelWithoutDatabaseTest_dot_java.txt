@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep citationkeypattern sep label databas test dot java 
+label databas test 
 citat key generat 
 
+citat key generat 
 
 
 

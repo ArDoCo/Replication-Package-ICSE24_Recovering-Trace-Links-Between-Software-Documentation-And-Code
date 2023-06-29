@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep util sep recurs tree item test dot java 
+recurs tree item test 

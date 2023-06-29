@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep setup sep setup control dot java 
+setup control 
 std work dir 
 persist creation max wait time 
 persist creation wait time 
@@ -27,6 +27,11 @@ img creation pool
 log 
 finish 
 
+storag rule 
+cach rule 
+storag mode 
+imag db 
+data storag 
 
 categori 
 product 
@@ -41,6 +46,13 @@ imag
 termin 
 wait time 
 
+categori 
+categori 
+product 
+categori 
+categori 
+categori 
+imag db 
 
 setup control 
 wait persist 

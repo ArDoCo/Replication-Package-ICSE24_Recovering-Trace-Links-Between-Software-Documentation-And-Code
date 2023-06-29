@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep auto complet prefer dot java 
+auto complet prefer 
 auto complet 
 mode 
 mode 
@@ -7,6 +7,7 @@ format
 complet field 
 complet field 
 
+auto complet mode 
 
 auto complet 
 mode 
@@ -16,6 +17,8 @@ auto complet
 mode 
 format 
 
+auto complet mode 
+auto complet mode 
 
 auto complet prefer 
 auto complet 

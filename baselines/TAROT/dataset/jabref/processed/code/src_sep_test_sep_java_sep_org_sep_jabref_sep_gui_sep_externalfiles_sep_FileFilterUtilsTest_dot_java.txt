@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep externalfil sep file filter util test dot java 
+file filter util test 
 file filter util 
 time 
 file 
@@ -16,6 +16,7 @@ target file
 ignor file set 
 ignor file set 
 
+file filter util 
 
 temp dir 
 temp dir 

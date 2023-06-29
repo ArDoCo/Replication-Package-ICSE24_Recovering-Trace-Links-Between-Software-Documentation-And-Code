@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep field compar dot java 
+field compar 
 collat 
 field 
 field type 
 numer 
 multipli 
 
+field 
 
 field 
 sort criterion 
@@ -14,6 +15,11 @@ entri
  
  
 
+field 
+field 
+bib entri 
+bib entri 
+bib entri 
 
 field compar 
 field compar 

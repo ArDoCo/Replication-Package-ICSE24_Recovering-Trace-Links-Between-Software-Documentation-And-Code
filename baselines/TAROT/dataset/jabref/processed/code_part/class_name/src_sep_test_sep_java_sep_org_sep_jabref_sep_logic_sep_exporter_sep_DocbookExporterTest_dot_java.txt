@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep export sep docbook export test dot java 
+docbook export test 

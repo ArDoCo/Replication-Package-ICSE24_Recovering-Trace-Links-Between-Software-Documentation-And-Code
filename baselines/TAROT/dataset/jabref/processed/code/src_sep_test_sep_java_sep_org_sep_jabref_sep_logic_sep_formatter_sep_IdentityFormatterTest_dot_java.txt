@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep ident formatt test dot java 
+ident formatt test 
 formatt 
 
+ident formatt 
 
 
 

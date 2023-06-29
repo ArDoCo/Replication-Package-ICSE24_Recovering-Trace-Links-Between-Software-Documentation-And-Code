@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep compar cite key dot java 
+compar cite key 
 entri compar 
 entri compar 
 unresolv 
 
+bib entri 
 
 entri compar 
 unresolv 
  
  
 
+bib entri 
 
 compar cite key 
 compar 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep uithreadawar sep ui thread invalid listen dot java 
+ui thread invalid listen 
 deleg 
 
 

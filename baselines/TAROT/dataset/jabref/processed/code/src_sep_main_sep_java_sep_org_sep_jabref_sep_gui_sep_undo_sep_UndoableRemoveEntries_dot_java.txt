@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undoabl remov entri dot java 
+undoabl remov entri 
 logger 
 base 
 entri 
 entri 
 cut 
 
+bib databas 
+bib entri 
 
 base 
 entri 
@@ -14,6 +16,12 @@ base
 entri 
 cut 
 
+bib databas 
+bib entri 
+bib databas 
+bib entri 
+bib databas 
+bib entri 
 
 undoabl remov entri 
 undoabl remov entri 

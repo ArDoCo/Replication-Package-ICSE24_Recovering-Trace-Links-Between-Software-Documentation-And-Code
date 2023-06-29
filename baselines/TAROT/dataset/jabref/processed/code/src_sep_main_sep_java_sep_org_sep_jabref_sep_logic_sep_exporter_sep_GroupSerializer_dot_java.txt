@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep group serial dot java 
+group serial 
 
 
 group 
@@ -14,6 +14,7 @@ builder
 group 
 group 
 
+automat keyword group 
 
 serial entri group 
 serial explicit group 

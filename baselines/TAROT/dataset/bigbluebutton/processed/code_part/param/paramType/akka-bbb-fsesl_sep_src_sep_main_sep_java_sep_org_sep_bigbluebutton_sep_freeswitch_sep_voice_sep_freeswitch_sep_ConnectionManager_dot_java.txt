@@ -1,0 +1,6 @@
+manag connect 
+check conf run command 
+mute user command 
+play sound command 
+eject user command 
+eject user command 

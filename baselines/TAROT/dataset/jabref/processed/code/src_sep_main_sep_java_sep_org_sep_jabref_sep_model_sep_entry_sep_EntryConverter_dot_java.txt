@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep entri convert dot java 
+entri convert 
 field alias bibtex biblatex 
 field alias bibtex biblatex 
 field alias biblatex bibtex 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep file prefer dot java 
+file prefer 
 default filenam pattern 
 user 
 main file directori 

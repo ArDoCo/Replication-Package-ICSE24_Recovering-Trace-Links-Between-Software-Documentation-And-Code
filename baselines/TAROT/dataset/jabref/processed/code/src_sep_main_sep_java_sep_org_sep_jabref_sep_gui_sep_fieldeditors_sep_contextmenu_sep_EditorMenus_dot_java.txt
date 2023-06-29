@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep editor menus dot java 
+editor menus 
 
 
 text input 

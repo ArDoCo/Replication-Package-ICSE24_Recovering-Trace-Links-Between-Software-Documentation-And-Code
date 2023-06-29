@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep group sep automat keyword group dot java 
+automat keyword group 

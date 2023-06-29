@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep backup sep backup resolv dialog dot java 
+backup resolv dialog 
 restor backup 
 review backup 
 ignor backup 

@@ -1,10 +1,14 @@
-src sep test sep java sep org sep jabref sep gui sep externalfil sep auto set file link util test dot java 
+auto set file link util test 
 file prefer 
 auto link pref 
 databas context 
 entri 
 path 
 
+file prefer 
+auto link prefer 
+bib databas context 
+bib entri 
 
 folder 
 

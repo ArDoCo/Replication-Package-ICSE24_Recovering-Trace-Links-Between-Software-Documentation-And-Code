@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep search sep rule sep sentenc analyz dot java 
+sentenc analyz 
 escap char 
 quot char 
 queri 

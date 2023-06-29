@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep data migrat unencrypt key student dot java 
+data migrat unencrypt key student 
 
 
 arg 

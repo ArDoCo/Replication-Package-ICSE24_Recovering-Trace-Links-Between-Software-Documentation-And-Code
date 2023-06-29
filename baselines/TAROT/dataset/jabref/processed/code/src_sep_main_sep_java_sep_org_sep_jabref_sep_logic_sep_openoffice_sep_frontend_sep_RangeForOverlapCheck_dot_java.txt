@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep frontend sep rang overlap check dot java 
+rang overlap check 
 refer mark kind 
 footnot mark kind 
 cursor mark kind 

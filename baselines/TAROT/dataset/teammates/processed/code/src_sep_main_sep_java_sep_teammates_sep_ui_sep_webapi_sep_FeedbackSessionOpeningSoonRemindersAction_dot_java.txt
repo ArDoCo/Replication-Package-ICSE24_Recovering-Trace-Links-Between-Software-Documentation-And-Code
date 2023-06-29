@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep feedback session open remind action dot java 
+feedback session open remind action 
 log 
 
 

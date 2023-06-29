@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep sep entiti doe exist dot java 
+entiti doe exist 
 
 
 messag 

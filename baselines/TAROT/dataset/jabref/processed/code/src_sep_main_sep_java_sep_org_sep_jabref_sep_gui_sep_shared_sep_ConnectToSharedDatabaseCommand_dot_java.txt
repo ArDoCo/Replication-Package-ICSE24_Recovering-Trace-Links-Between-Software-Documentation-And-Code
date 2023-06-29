@@ -1,9 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep share sep connect share databas command dot java 
+connect share databas command 
 jab ref frame 
 
+jab ref frame 
 
 jab ref frame 
 
+jab ref frame 
 
 connect share databas command 
 execut 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep medlin sep investig dot java 
+investig 
 
 
 

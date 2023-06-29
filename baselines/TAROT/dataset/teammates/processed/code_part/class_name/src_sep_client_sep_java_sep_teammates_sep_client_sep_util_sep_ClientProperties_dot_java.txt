@@ -1,1 +1,1 @@
-src sep client sep java sep teammat sep client sep util sep client properti dot java 
+client properti 

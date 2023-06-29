@@ -1,9 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep export sep open document represent dot java 
+open document represent 
 logger 
 entri 
 entri 
 databas 
 
+bib entri 
+bib databas 
 
 databas 
 entri 
@@ -13,6 +15,10 @@ doc
 parent 
 content 
 
+bib databas 
+bib entri 
+bib entri 
+field 
 
 open document represent 
 mrepresent 

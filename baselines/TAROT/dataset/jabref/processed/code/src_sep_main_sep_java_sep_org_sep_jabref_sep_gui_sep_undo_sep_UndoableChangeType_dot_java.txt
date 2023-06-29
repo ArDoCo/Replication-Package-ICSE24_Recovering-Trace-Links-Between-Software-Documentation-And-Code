@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undoabl chang type dot java 
+undoabl chang type 
 type 
 type 
 entri 
 
+bib entri 
 
 chang 
 entri 
 type 
 type 
 
+bib entri 
 
 undoabl chang type 
 undoabl chang type 

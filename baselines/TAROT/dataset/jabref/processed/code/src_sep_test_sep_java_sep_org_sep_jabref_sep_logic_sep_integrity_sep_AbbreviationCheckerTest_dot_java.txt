@@ -1,8 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep abbrevi checker test dot java 
+abbrevi checker test 
 abbrevi repositori 
 checker 
 entri 
 
+journal abbrevi repositori 
+abbrevi checker 
+bib entri 
 
 
 

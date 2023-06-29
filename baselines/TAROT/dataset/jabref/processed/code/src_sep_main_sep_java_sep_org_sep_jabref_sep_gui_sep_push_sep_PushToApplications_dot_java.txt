@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push applic dot java 
+push applic 
 emac 
 lyx 
 texmak 
@@ -8,6 +8,7 @@ win edt
 applic 
 applic 
 
+push applic 
 
 dialog servic 
 prefer servic 
@@ -15,6 +16,10 @@ applic
 dialog servic 
 prefer servic 
 
+dialog servic 
+prefer servic 
+dialog servic 
+prefer servic 
 
 push applic 
 applic 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep formatt sep casechang sep case formatt dot java 
+case formatt 
 
 
 input 

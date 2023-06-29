@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep texpars sep default latex parser dot java 
+default latex parser 
 logger 
 tex ext 
 bib ext 
@@ -11,6 +11,7 @@ includ group
 includ pattern 
 latex parser result 
 
+latex parser result 
 
 cite string 
 latex file 

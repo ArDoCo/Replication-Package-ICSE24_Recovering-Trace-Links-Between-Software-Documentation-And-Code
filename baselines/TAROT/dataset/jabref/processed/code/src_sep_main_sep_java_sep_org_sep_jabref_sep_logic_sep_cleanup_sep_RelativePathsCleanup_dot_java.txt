@@ -1,12 +1,17 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep relat path cleanup dot java 
+relat path cleanup 
 databas context 
 file prefer 
 
+bib databas context 
+file prefer 
 
 databas context 
 file prefer 
 entri 
 
+bib databas context 
+file prefer 
+bib entri 
 
 relat path cleanup 
 cleanup 

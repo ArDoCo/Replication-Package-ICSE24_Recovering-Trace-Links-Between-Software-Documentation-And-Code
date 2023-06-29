@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep type sep entri type dot java 
+entri type 
 
 
 

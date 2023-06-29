@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep citationkeypattern sep generat citat key singl action dot java 
+generat citat key singl action 
 dialog servic 
 databas context 
 prefer servic 

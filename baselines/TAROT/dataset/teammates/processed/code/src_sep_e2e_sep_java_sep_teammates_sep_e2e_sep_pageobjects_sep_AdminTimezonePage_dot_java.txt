@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep admin timezon page dot java 
+admin timezon page 
 java timezon offset 
 moment timezon offset 
 java timezon version 
@@ -7,6 +7,7 @@ moment timezon version
 
 browser 
 
+browser 
 
 admin timezon page 
 expect page content 

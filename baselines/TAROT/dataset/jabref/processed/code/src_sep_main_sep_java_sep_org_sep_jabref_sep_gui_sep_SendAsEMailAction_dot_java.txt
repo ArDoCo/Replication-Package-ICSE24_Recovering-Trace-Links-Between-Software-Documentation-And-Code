@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep send mail action dot java 
+send mail action 
 logger 
 dialog servic 
 prefer servic 

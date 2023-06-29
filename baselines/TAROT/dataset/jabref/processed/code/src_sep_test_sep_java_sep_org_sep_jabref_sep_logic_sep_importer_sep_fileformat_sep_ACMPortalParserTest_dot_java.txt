@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep acm portal parser test dot java 
+acm portal parser test 
 parser 
 search entri list 
 search entri list 
@@ -6,6 +6,8 @@ search url
 search queri 
 json str 
 
+acm portal parser 
+bib entri 
 
 
 

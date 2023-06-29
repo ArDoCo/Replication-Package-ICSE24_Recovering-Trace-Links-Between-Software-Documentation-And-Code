@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo process citat key marker dot java 
+oo process citat key marker 
 
 
 citat group 

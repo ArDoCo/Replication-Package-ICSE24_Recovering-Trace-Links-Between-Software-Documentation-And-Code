@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep crawler sep crawler dot java 
+crawler 
 filenam studi result bib 
 studi repositori 
 studi fetcher 

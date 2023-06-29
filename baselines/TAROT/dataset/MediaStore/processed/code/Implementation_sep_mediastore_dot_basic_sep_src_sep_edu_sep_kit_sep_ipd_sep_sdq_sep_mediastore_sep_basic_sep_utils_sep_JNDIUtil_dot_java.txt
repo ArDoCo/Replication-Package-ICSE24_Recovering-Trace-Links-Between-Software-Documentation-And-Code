@@ -1,9 +1,10 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep util sep jndi util dot java 
+jndi util 
 
 
 pi 
 local call 
 
+provid interfac 
 
 find 
 

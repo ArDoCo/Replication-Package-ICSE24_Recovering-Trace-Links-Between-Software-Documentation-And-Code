@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep html latex formatt dot java 
+html latex formatt 

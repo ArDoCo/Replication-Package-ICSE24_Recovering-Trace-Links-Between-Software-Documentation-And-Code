@@ -1,4 +1,4 @@
-util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep rest sep http wrapper dot java 
+http wrapper 
 ctrlinst 
 log 
 cf registri 

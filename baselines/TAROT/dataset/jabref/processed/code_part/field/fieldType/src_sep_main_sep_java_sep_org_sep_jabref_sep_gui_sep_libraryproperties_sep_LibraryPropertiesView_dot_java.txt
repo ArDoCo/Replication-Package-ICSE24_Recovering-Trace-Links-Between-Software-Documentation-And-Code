@@ -1,0 +1,3 @@
+theme manag 
+bib databas context 
+librari properti view model 

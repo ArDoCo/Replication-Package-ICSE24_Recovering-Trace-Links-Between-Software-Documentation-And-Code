@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep action sep jab ref action dot java 
+jab ref action 
 
 
 action 
@@ -16,6 +16,15 @@ action
 action 
 sourc 
 
+action 
+key bind repositori 
+action 
+key bind repositori 
+action 
+key bind repositori 
+sourc 
+action 
+sourc 
 
 jab ref action 
 jab ref action 

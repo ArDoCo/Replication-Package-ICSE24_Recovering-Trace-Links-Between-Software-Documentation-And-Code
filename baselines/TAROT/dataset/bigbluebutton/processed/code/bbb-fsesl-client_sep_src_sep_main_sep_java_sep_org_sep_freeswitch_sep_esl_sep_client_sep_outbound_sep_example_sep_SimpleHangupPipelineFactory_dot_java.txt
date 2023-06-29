@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep outbound sep exampl sep simpl hangup pipelin factori dot java 
+simpl hangup pipelin factori 
 
 
 

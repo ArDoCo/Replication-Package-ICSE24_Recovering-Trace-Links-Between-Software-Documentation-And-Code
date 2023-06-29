@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep file field writer dot java 
+file field writer 
 
 
 field 
@@ -7,6 +7,8 @@ valu
 entri 
  
 
+link file 
+link file 
 
 file field writer 
 string represent 

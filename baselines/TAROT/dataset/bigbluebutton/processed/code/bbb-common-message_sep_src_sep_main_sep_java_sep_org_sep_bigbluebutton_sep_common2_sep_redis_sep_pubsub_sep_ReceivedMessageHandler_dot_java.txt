@@ -1,4 +1,4 @@
-bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep pubsub sep receiv messag handler dot java 
+receiv messag handler 
 log 
 receiv messag 
 receiv messag 
@@ -7,6 +7,8 @@ msg processor exec
 run exec 
 handler 
 
+receiv messag 
+messag distributor 
 
 msg 
 pattern 
@@ -14,6 +16,8 @@ channel
 messag 
  
 
+receiv messag 
+messag distributor 
 
 stop 
 start 

@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep oo bib base dot java 
+oo bib base 
 logger 
 dialog servic 
 refresh bibliographi dure sync cite 
 alway add cite page 
 connect 
 
+oo bib base connect 
 
 lo path 
 dialog servic 
@@ -59,6 +60,13 @@ return partial result
 databas 
 style 
 
+oo error 
+oo error 
+oo error 
+oo error 
+oo error 
+oo error 
+oo error 
 
 oo bib base 
 gui action select document 

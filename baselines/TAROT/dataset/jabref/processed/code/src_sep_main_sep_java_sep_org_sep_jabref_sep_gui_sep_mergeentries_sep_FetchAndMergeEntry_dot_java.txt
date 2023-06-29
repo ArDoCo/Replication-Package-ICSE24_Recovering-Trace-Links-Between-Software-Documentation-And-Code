@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep fetch merg entri dot java 
+fetch merg entri 
 support field 
 support field 
 logger 

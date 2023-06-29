@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep type bib entri test dot java 
+type bib entri test 

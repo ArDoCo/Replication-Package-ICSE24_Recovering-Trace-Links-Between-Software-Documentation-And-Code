@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entrychang sep entri chang resolv dot java 
+entri chang resolv 
 entri chang 
 databas context 
 bib entri prefer 
 
+bib databas context 
 
 entri chang 
 dialog servic 
@@ -10,6 +11,8 @@ databas context
 bib entri prefer 
 entri merg result 
 
+bib databas context 
+entri merg result 
 
 entri chang resolv 
 user resolv chang 

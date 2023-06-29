@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep embed bib file pdf export test dot java 
+embed bib file pdf export test 
 temp dir 
 olli 
 toral 
@@ -8,6 +8,12 @@ databas context
 data base 
 file prefer 
 
+bib entri 
+bib entri 
+bib entri 
+bib databas context 
+bib databas 
+file prefer 
 
 bib entri valid pdf file link 
 bib entri valid pdf file link 
@@ -16,6 +22,8 @@ path
 file 
 temp dir 
 
+bib entri 
+bib entri 
 
 init bib entri 
 set 

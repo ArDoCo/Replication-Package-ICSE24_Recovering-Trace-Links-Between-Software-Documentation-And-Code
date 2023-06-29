@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep feedback question recipi action test dot java 
+feedback question recipi action test 
 session cours 
 session cours 
 session cours 
@@ -18,6 +18,9 @@ param
 expect 
 actual 
 
+intent 
+feedback question recipi data 
+feedback question recipi data 
 
 prepar test data 
 action uri 

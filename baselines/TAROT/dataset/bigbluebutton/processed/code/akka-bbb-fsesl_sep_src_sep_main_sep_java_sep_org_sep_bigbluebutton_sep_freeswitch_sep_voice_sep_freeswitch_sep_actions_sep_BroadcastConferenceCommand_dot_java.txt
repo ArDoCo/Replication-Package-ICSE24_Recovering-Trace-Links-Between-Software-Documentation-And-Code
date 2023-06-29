@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep broadcast confer command dot java 
+broadcast confer command 
 record 
 icecast path 
 
@@ -10,6 +10,7 @@ icecast path
 respons 
 event listen 
 
+confer event listen 
 
 broadcast confer command 
 command arg 

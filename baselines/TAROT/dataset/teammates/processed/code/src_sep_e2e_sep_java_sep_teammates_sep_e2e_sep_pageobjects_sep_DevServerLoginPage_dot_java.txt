@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep dev server login page dot java 
+dev server login page 
 email text box 
 login button 
 
@@ -6,6 +6,7 @@ login button
 browser 
 usernam 
 
+browser 
 
 dev server login page 
 expect page content 

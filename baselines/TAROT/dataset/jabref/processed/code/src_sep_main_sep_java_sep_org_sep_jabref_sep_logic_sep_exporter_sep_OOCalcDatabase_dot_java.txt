@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep oo calc databas dot java 
+oo calc databas 
 logger 
 report type field 
 entri 
@@ -6,6 +6,9 @@ entri
 export field 
 export field 
 
+field 
+bib entri 
+field 
 
 bibtex 
 entri 
@@ -22,6 +25,11 @@ content
 tabl 
 document 
 
+bib databas 
+bib entri 
+bib entri 
+field 
+bib entri 
 
 oo calc databas 
 field 

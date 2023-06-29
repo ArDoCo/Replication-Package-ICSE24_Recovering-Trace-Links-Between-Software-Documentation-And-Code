@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep field valu cell dot java 
+field valu cell 
 logger 
 default style class 
 select box style class 
@@ -12,6 +12,7 @@ select box
 action 
 view model 
 
+field valu cell view model 
 
 text 
 row index 

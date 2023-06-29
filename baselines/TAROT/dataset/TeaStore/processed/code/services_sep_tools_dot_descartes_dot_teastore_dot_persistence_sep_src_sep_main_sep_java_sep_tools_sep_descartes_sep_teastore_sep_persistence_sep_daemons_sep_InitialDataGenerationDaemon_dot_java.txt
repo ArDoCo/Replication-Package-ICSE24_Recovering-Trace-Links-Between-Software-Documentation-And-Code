@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep daemon sep initi data generat daemon dot java 
+initi data generat daemon 
 log 
 databas offlin wait ms 
 

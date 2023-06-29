@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep unicod latex formatt test dot java 
+unicod latex formatt test 
 formatt 
 
+unicod latex formatt 
 
 expect result 
 input 

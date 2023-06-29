@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep feedback session basic request dot java 
+feedback session basic request 
 instruct 
 submiss start timestamp 
 submiss timestamp 
@@ -10,6 +10,7 @@ custom respons visibl timestamp
 close email enabl 
 publish email enabl 
 
+session visibl set 
 
 instruct 
 submiss start timestamp 
@@ -22,6 +23,7 @@ custom respons visibl timestamp
 close email enabl 
 publish email enabl 
 
+session visibl set 
 
 instruct 
 submiss start time 

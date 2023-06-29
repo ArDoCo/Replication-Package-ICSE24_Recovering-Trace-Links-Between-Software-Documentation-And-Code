@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep biodivers librari dot java 
+biodivers librari 
 api key 
 base url 
 respons format 
@@ -6,6 +6,7 @@ test url api key
 fetcher 
 import prefer 
 
+import prefer 
 
 import prefer 
 identifi 
@@ -17,6 +18,8 @@ item
 author 
 lucen queri 
 
+import prefer 
+bib entri 
 
 biodivers librari 
 

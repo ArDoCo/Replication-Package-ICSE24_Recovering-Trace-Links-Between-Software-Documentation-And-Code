@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep share sep share databas login dialog view dot java 
+share databas login dialog view 

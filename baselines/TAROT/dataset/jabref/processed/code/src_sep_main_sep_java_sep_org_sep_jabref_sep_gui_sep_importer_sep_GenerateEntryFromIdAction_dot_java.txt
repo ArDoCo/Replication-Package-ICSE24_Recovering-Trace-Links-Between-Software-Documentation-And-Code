@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep generat entri id action dot java 
+generat entri id action 
 logger 
 librari tab 
 dialog servic 
@@ -8,6 +8,10 @@ task executor
 entri id pop 
 state manag 
 
+librari tab 
+dialog servic 
+prefer servic 
+task executor 
 
 librari tab 
 dialog servic 
@@ -17,6 +21,10 @@ entri id pop
 identifi 
 state manag 
 
+librari tab 
+dialog servic 
+prefer servic 
+task executor 
 
 generat entri id action 
 execut 

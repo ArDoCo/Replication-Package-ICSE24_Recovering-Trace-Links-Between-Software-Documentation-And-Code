@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep basic request dot java 
+basic request 
 
 
 condit 

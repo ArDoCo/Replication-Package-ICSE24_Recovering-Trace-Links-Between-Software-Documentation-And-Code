@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fulltext fetcher test dot java 
+fulltext fetcher test 
 entri 
 
+bib entri 
 
 
 

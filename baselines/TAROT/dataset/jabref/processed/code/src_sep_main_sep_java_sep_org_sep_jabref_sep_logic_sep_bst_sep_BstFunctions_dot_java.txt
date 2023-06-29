@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep function dot java 
+function 
 logger 
 add period pattern 
 string 

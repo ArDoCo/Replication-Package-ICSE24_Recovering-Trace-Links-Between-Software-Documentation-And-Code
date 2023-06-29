@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep contextmenu sep protect term menu dot java 
+protect term menu 
 formatt 
 text input control 
 factori 
 protect select action inform 
 list 
 
+protect term list 
 
 list 
 text input control 
 
+protect term list 
 
 text 
 icon 

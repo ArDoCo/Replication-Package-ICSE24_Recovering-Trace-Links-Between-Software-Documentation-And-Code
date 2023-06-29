@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep generat usag statist object dot java 
+generat usag statist object 
 num statist object 
 logic 
 

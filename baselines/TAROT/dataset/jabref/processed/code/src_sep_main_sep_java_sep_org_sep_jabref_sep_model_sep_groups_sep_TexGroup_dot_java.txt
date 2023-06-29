@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep tex group dot java 
+tex group 
 logger 
 file path 
 key aux 
@@ -8,6 +8,8 @@ aux parser
 meta data 
 user 
 
+file updat monitor 
+aux parser 
 
 
 context 
@@ -39,6 +41,18 @@ entri
 path 
 path 
 
+group hierarchi type 
+aux parser 
+file updat monitor 
+group hierarchi type 
+aux parser 
+file updat monitor 
+group hierarchi type 
+aux parser 
+file updat monitor 
+group hierarchi type 
+aux parser 
+file updat monitor 
 
 tex group 
 tex group 

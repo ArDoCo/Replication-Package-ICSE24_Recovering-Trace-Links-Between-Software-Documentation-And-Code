@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep ui sep webapi sep search student action test dot java 
+search student action test 

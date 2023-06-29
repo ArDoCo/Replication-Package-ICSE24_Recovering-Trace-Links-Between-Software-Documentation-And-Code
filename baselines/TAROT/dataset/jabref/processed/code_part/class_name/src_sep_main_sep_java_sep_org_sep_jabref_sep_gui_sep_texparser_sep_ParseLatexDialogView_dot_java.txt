@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex dialog view dot java 
+pars latex dialog view 

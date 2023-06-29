@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep base identifi editor view model dot java 
+base identifi editor view model 
 logger 
 invalid identifi 
 identifi lookup progress 
@@ -11,6 +11,10 @@ dialog servic
 task executor 
 prefer 
 
+identifi parser 
+dialog servic 
+task executor 
+prefer servic 
 
 field 
 suggest provid 
@@ -26,6 +30,14 @@ bib entri
 bib entri 
 entri 
 
+field 
+field checker 
+dialog servic 
+task executor 
+prefer servic 
+bib entri 
+bib entri 
+bib entri 
 
 base identifi editor view model 
 configur 

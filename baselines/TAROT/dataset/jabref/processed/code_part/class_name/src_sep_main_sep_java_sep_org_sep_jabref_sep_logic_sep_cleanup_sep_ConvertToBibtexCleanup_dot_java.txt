@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep convert bibtex cleanup dot java 
+convert bibtex cleanup 

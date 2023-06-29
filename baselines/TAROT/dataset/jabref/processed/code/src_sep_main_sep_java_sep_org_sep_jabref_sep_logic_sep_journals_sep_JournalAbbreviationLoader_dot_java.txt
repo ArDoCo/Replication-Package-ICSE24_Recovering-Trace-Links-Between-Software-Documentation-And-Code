@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep journal sep journal abbrevi loader dot java 
+journal abbrevi loader 
 logger 
 
 
 file 
 journal abbrevi prefer 
 
+journal abbrevi prefer 
 
 read journal list file 
 load repositori 

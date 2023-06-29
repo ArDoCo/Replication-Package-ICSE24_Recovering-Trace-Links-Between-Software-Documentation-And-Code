@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep delet cours action dot java 
+delet cours action 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep externalfiletyp sep edit extern file type entri dialog dot java 
+edit extern file type entri dialog 
 default applic 
 applic toggl group 
 extens 

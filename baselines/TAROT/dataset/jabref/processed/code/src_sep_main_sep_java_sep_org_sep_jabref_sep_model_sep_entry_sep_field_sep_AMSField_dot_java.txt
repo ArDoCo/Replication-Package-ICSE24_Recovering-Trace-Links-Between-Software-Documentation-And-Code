@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep model sep entri sep field sep field dot java 
+field 
 
 display 
 properti 
 properti 
 
+field properti 
 
 
 
@@ -18,6 +19,10 @@ rest
 type 
 
 
+field properti 
+field properti 
+field properti 
+field properti 
 
 field 
 field 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep default log detail dot java 
+default log detail 
 
 
 

@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot recommend sep src sep main sep java sep tool sep descart sep teastor sep recommend sep servlet sep train synchron dot java 
+train synchron 
 default max time valu 
 persist creation max wait time 
 persist creation wait time 
@@ -8,6 +8,7 @@ readi
 log 
 max time 
 
+train synchron 
 
 readi 
 max time 

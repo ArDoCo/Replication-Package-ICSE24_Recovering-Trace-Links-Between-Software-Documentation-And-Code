@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep entiti sep feedback respons comment dot java 
+feedback respons comment 
 feedback respons comment id 
 cours id 
 feedback session 
@@ -19,6 +19,9 @@ comment text
 editor email 
 edit 
 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 cours id 
 feedback session 
@@ -53,6 +56,12 @@ editor email
 edit 
 comment feedback particip 
 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 feedback respons comment 
 feedback respons comment 

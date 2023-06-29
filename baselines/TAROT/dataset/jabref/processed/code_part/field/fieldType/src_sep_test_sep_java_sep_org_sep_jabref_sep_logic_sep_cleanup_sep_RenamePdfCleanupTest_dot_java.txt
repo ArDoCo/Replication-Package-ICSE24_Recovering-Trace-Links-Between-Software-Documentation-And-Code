@@ -1,0 +1,3 @@
+bib entri 
+file prefer 
+renam pdf cleanup 

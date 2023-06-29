@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback msq question detail dot java 
+feedback msq question detail 
 question type 
 msq min num choic 
 msq error empti msq option 
@@ -27,6 +27,7 @@ generat option
 max select choic 
 min select choic 
 
+feedback particip type 
 
 question text 
 detail 
@@ -42,6 +43,9 @@ generat option
 max select choic 
 min select choic 
 
+feedback question detail 
+feedback question attribut 
+feedback particip type 
 
 feedback msq question detail 
 feedback msq question detail 

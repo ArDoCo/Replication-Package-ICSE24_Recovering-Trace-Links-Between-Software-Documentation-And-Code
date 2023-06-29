@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep desktop sep os sep nativ desktop dot java 
+nativ desktop 
 
 
 file path 
@@ -11,6 +11,7 @@ dialog servic
 program 
 directori 
 
+dialog servic 
 
 open file 
 open file applic 

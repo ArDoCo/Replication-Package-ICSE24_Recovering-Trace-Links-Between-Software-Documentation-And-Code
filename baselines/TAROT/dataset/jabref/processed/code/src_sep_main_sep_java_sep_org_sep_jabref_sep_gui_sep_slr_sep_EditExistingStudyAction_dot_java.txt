@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep slr sep edit exist studi action dot java 
+edit exist studi action 
 logger 
 dialog servic 
 state manag 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entrychang sep preview sourc tab dot java 
+preview sourc tab 
 logger 
 
 
@@ -18,6 +18,17 @@ type
 field prefer 
 entri type manag 
 
+bib entri 
+bib databas context 
+prefer servic 
+bib entri type manag 
+bib entri 
+bib databas context 
+prefer servic 
+bib entri type manag 
+bib entri 
+bib databas mode 
+bib entri type manag 
 
 preview sourc tab 
 preview sourc tab 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep util sep control helper test dot java 
+control helper test 
 text 
 max charact 
 default max charact 

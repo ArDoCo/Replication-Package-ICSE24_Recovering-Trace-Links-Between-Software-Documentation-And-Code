@@ -1,0 +1,6 @@
+queri log param 
+general log entri 
+queri log param 
+log detail 
+log detail 
+general log entri 

@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep edit checker test dot java 
+edit checker test 

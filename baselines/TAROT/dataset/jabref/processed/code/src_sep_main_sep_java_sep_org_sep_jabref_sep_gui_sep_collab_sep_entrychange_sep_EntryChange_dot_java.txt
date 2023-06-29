@@ -1,7 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entrychang sep entri chang dot java 
+entri chang 
 entri 
 entri 
 
+bib entri 
+bib entri 
 
 entri 
 entri 
@@ -12,6 +14,13 @@ entri
 databas context 
 undo edit 
 
+bib entri 
+bib entri 
+bib databas context 
+bib entri 
+bib entri 
+bib databas context 
+compound 
 
 entri chang 
 entri chang 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep view model tabl row factori dot java 
+view model tabl row factori 
 mous click event 
 mous click event 
 context menu factori 

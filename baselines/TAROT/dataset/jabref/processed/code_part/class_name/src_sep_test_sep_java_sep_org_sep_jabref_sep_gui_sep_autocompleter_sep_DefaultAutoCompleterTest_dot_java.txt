@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep autocomplet sep default auto complet test dot java 
+default auto complet test 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang monitor dot java 
+databas chang monitor 
 logger 
 databas 
 file monitor 
@@ -8,6 +8,12 @@ task executor
 dialog servic 
 prefer servic 
 
+bib databas context 
+file updat monitor 
+databas chang listen 
+task executor 
+dialog servic 
+prefer servic 
 
 databas 
 file monitor 
@@ -17,6 +23,12 @@ prefer servic
 notif pane 
 listen 
 
+bib databas context 
+file updat monitor 
+task executor 
+dialog servic 
+prefer servic 
+databas chang listen 
 
 databas chang monitor 
 file updat 

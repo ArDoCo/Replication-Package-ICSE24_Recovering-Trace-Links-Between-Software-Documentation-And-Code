@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep page info dot java 
+page info 
 
 
 option text 
  
  
 
+oo text 
+oo text 
+oo text 
 
 page info 
 normal page info 

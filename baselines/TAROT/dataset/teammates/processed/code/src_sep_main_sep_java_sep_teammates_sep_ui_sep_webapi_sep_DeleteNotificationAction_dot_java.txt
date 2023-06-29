@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep delet notif action dot java 
+delet notif action 
 
 
 

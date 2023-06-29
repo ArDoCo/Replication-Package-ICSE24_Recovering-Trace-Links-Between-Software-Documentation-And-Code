@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep texpars sep default tex parser test dot java 
+default tex parser test 

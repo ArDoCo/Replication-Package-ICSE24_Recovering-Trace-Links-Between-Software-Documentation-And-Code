@@ -1,10 +1,15 @@
-src sep test sep java sep org sep jabref sep cli sep argument processor test dot java 
+argument processor test 
 processor 
 bibtex import 
 prefer servic 
 import prefer 
 import format prefer 
 
+argument processor 
+bibtex import 
+prefer servic 
+import prefer 
+import format prefer 
 
 temp dir 
 temp dir 

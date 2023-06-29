@@ -1,1 +1,1 @@
-bbb fsesl client sep src sep test sep java sep org sep freeswitch sep esl sep client sep inbound sep client test dot java 
+client test 

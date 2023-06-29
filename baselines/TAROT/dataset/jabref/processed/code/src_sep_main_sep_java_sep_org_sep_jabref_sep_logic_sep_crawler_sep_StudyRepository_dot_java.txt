@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep crawler sep studi repositori dot java 
+studi repositori 
 studi definit file 
 logger 
 match colon 
@@ -14,6 +14,10 @@ prefer servic
 file updat monitor 
 bib entri type manag 
 
+slr git handler 
+prefer servic 
+file updat monitor 
+bib entri type manag 
 
 path repositori 
 git handler 
@@ -42,6 +46,16 @@ fetcher
 queri 
 queri 
 
+slr git handler 
+prefer servic 
+file updat monitor 
+bib entri type manag 
+queri result 
+search base fetcher 
+queri result 
+bib databas context 
+bib databas 
+bib databas 
 
 studi repositori 
 fetcher result entri 

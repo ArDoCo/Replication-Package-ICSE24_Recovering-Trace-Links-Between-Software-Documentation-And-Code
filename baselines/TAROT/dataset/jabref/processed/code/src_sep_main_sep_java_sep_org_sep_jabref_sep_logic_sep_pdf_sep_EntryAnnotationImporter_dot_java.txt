@@ -1,11 +1,15 @@
-src sep main sep java sep org sep jabref sep logic sep pdf sep entri annot import dot java 
+entri annot import 
 entri 
 
+bib entri 
 
 entri 
 databas context 
 file prefer 
 
+bib entri 
+bib databas context 
+file prefer 
 
 entri annot import 
 filter file list 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep errorconsol sep error consol view dot java 
+error consol view 
 view model 
 copi log button 
 clear log button 
@@ -17,6 +17,10 @@ messag
 head 
 stacktrac 
 
+dialog servic 
+clip board manag 
+build info 
+theme manag 
 
 event 
 empti 

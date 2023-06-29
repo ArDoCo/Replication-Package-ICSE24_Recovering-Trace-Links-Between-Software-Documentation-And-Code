@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep jab ref dialog servic dot java 
+jab ref dialog servic 
 dialog size limit 
 toast messag display time 
 logger 

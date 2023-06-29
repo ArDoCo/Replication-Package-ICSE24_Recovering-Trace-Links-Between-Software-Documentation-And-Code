@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback rank question detail dot java 
+feedback rank question detail 
 min option rank 
 max option rank 
 duplic 

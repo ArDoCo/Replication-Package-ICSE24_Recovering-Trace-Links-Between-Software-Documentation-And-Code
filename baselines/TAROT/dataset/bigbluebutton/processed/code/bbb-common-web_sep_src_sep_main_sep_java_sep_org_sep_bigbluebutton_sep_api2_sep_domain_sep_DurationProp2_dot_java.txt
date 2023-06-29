@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep durat prop dot java 
+durat prop 
 durat 
 creat time 
 start time 

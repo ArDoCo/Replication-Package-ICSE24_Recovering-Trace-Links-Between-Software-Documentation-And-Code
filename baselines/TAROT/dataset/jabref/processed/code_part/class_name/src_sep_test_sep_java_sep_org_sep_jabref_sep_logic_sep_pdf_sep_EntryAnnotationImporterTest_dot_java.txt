@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep pdf sep entri annot import test dot java 
+entri annot import test 

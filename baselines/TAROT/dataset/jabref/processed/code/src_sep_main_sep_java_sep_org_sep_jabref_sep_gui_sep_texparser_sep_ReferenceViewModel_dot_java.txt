@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep refer view model dot java 
+refer view model 
 entri 
 highlight 
 citat list 
 citat list 
 
+citat 
 
 entri 
 highlight 
 citat coll 
 
+citat 
 
 refer view model 
 highlight 

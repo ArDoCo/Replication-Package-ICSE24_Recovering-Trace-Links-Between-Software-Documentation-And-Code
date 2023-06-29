@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undoabl preambl chang dot java 
+undoabl preambl chang 
 base 
 valu 
 valu 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push emac dot java 
+push emac 
 
 logger 
 
@@ -11,6 +11,12 @@ key
 applic 
 prefer 
 
+dialog servic 
+prefer servic 
+bib databas context 
+bib entri 
+push applic 
+push applic prefer 
 
 push emac 
 display 

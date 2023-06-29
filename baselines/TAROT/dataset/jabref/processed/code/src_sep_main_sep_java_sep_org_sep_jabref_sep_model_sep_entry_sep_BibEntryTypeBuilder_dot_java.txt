@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep bib entri type builder dot java 
+bib entri type builder 
 type 
 field 
 field 
@@ -19,6 +19,13 @@ requir field
 
 requir field 
 
+field 
+field 
+field 
+field 
+field 
+field 
+field 
 
 type 
 import field 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep util sep tzdb resourc zone rule provid dot java 
+tzdb resourc zone rule provid 
 zrule 
 zot 
 zotrul 

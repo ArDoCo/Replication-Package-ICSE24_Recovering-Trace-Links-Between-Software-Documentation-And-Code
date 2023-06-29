@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep icon sep icon theme dot java 
+icon theme 
 default disabl color 
 select color 
 default icon path 

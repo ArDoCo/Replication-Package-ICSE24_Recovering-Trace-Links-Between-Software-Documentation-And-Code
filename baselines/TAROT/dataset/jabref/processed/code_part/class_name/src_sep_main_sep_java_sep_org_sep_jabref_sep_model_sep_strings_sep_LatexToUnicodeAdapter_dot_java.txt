@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep string sep latex unicod adapt dot java 
+latex unicod adapt 

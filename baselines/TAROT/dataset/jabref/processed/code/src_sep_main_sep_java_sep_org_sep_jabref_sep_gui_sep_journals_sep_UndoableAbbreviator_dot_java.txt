@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep journal sep undoabl abbrevi dot java 
+undoabl abbrevi 
 journal abbrevi repositori 
 abbrevi type 
 journal field 
 
+journal abbrevi repositori 
+abbrevi type 
 
 journal abbrevi repositori 
 abbrevi type 
@@ -13,6 +15,12 @@ field
 ce 
 text 
 
+journal abbrevi repositori 
+abbrevi type 
+bib databas 
+bib entri 
+field 
+abbrevi 
 
 undoabl abbrevi 
 abbrevi 

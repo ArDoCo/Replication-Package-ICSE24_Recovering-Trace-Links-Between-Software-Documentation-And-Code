@@ -1,12 +1,15 @@
-src sep test sep java sep org sep jabref sep logic sep citationstyl sep citat style generat test dot java 
+citat style generat test 
 bib entri type manag 
 
+bib entri type manag 
 
 expect 
 mode 
 entri 
 csl file 
 
+bib databas mode 
+bib entri 
 
 test acm citat 
 test apa citat 

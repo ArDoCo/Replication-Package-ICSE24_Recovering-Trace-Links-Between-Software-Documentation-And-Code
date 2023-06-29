@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep action factori dot java 
+action factori 
 action map 
 action map 
 

@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep extern file entri linker dot java 
+extern file entri linker 
 logger 
 file prefer 
 bib databas context 
 move file cleanup 
 renam file cleanup 
 
+file prefer 
+bib databas context 
+renam pdf cleanup 
 
 file prefer 
 bib databas context 
@@ -20,6 +23,13 @@ entri
 file 
 index task manag 
 
+file prefer 
+bib databas context 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 extern file entri linker 
 copi file file dir 

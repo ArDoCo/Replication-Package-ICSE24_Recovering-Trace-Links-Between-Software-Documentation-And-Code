@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep automat field editor dialog dot java 
+automat field editor dialog 
 logger 
 tab pane 
 undo manag 
@@ -10,6 +10,10 @@ view model
 notif pane 
 notif pane 
 
+bib databas 
+bib entri 
+automat field editor view model 
+notif pane adapt 
 
 state manag 
 

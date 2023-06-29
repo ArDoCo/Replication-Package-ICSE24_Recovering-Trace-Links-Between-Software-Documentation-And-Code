@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep page sep page dot java 
+page 
 page number 
 queri 
 content 

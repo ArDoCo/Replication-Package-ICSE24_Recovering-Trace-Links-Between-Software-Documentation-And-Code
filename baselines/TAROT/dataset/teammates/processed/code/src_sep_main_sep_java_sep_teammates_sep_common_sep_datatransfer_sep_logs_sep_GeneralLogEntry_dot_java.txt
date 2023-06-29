@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep general log entri dot java 
+general log entri 
 sever 
 trace 
 insert id 
@@ -9,6 +9,7 @@ timestamp
 messag 
 detail 
 
+log detail 
 
 sever 
 trace 
@@ -19,6 +20,7 @@ timestamp
 messag 
 detail 
 
+log detail 
 
 general log entri 
 set messag 

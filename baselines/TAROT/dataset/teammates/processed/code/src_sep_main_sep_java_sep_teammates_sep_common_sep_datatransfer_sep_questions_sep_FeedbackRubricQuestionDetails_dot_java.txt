@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback rubric question detail dot java 
+feedback rubric question detail 
 question type 
 rubric answer chosen 
 rubric min num choic 
@@ -32,6 +32,8 @@ rubric choic
 rubric question 
 rubric descript 
 
+feedback question detail 
+feedback question attribut 
 
 feedback rubric question detail 
 feedback rubric question detail 

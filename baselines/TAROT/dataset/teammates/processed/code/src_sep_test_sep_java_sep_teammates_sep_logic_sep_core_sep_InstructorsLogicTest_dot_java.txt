@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep core sep instructor logic test dot java 
+instructor logic test 
 instructor logic 
 instructor db 
 cours logic 
@@ -6,10 +6,14 @@ fr logic
 frc logic 
 fs logic 
 
+instructor db 
+feedback session logic 
 
 instructor 
 instructor 
 
+instructor attribut 
+instructor attribut 
 
 prepar test data 
 refresh test data 

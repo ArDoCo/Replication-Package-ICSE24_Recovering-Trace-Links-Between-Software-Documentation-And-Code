@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep cite key dot java 
+cite key 
 data 
 data 
 
@@ -11,6 +11,7 @@ citat group
 citat group 
 citat group 
 
+bib entri 
 
 cite key 
 valu 

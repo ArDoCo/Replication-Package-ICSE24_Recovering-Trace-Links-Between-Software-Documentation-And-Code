@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep test imag db dot java 
+test imag db 
 product id 
 
 product imag id 
@@ -10,6 +10,8 @@ uut
 mock product key 
 mock key 
 
+imag size 
+imag size 
 
 
 

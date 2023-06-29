@@ -1,0 +1,10 @@
+instructor attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback question attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+instructor attribut 
+instructor attribut 

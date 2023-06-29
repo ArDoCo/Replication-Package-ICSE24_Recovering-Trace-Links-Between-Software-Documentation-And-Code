@@ -1,7 +1,9 @@
-src sep test sep java sep org sep jabref sep logic sep pdf sep search sep index sep document reader test dot java 
+document reader test 
 databas context 
 file prefer 
 
+bib databas context 
+file prefer 
 
 expect 
 line merg 

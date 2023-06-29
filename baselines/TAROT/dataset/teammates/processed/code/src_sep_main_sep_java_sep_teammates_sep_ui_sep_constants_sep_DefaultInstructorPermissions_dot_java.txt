@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep constant sep default instructor permiss dot java 
+default instructor permiss 
 valu 
 
 

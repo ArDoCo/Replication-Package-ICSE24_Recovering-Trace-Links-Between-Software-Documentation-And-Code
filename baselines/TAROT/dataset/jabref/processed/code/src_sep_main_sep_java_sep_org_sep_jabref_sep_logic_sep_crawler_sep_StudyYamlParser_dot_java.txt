@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep crawler sep studi yaml parser dot java 
+studi yaml parser 
 
 
 studi yaml file 

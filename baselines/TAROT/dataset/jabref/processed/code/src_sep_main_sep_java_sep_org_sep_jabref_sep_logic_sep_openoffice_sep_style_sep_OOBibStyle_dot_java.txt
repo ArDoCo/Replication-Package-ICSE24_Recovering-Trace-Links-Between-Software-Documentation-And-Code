@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style dot java 
+oo bib style 
 ital al 
 multi cite chronolog 
 minimum group count 
@@ -72,6 +72,9 @@ style file modif time
 local copi 
 default layout present 
 
+layout formatt 
+layout formatt prefer 
+layout 
 
 style file 
 pref 
@@ -107,6 +110,14 @@ uniqu citat marker handl
 citat text 
 prop 
 
+layout formatt prefer 
+layout formatt prefer 
+oo bib style 
+layout 
+citat marker numer bib entri 
+citat marker norm entri 
+uniqu citat marker 
+oo text 
 
 oo bib style 
 oo bib style 

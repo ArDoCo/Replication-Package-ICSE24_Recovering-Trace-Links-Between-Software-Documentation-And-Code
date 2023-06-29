@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep logic sep texpars sep tex bib entri resolv dot java 
+tex bib entri resolv 
 logger 
 master databas 
 general prefer 
 import format prefer 
 file monitor 
 
+general prefer 
+file updat monitor 
 
 master databas 
 general prefer 
@@ -18,6 +20,10 @@ entri
 bib file 
 bib databas 
 
+general prefer 
+file updat monitor 
+latex parser result 
+latex parser result 
 
 tex bib entri resolv 
 resolv 

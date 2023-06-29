@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep entri sep author list test dot java 
+author list test 
 muhammad alkhwarizmi 
 corrado bohm 
 kurt godel 
@@ -12,6 +12,10 @@ institut start paranthesi
 institut latex 
 mix author institut latex 
 
+author 
+author 
+author 
+author 
 
 bibtex 
 

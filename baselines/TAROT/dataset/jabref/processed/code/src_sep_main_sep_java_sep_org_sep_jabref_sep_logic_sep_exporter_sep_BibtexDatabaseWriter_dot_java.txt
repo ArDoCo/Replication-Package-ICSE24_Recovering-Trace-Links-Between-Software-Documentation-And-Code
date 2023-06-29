@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep bibtex databas writer dot java 
+bibtex databas writer 
 databas id prefix 
 comment prefix 
 preambl prefix 
@@ -29,6 +29,16 @@ share databas id
 entri 
 mode 
 
+save configur 
+citat key pattern prefer 
+bib entri type manag 
+save configur 
+citat key pattern prefer 
+bib entri type manag 
+bibtex string 
+bib databas context 
+bib entri 
+bib databas mode 
 
 bibtex databas writer 
 bibtex databas writer 

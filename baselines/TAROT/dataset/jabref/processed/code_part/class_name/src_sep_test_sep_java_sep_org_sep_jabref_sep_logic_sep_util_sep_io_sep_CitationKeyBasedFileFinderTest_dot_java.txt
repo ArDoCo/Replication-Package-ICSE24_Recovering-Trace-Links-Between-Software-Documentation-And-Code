@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep util sep io sep citat key base file finder test dot java 
+citat key base file finder test 

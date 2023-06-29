@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep imag slide generat servic dot java 
+imag slide generat servic 
 log 
 executor 
 notifi 
@@ -13,6 +13,11 @@ max convers time
 svg imag requir 
 generat pngs 
 
+slide generat progress notifi 
+svg imag creator 
+thumbnail creator 
+png creator 
+imag resiz 
 
 pres 
 pres 
@@ -37,6 +42,11 @@ imag resiz
 max imag width 
 max imag height 
 
+thumbnail creator 
+png creator 
+svg imag creator 
+slide generat progress notifi 
+imag resiz 
 
 imag slide generat servic 
 generat slide 

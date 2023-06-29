@@ -1,16 +1,21 @@
-src sep main sep java sep teammat sep ui sep request sep feedback respons comment basic request dot java 
+feedback respons comment basic request 
 comment text 
 show comment 
 show comment 
 show giver 
 show giver 
 
+comment visibl type 
+comment visibl type 
 
 comment text 
 show comment 
 show giver 
 comment visibl type 
 
+comment visibl type 
+comment visibl type 
+comment visibl type 
 
 feedback respons comment basic request 
 valid 

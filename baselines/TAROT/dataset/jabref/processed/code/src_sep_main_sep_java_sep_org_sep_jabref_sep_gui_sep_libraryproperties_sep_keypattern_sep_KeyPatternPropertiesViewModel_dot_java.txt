@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep keypattern sep key pattern properti view model dot java 
+key pattern properti view model 
 pattern list properti 
 pattern list properti 
 default key pattern properti 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep util sep compar sep rank field compar test dot java 
+rank field compar test 
 compar 
 valu 
 valu 
@@ -10,6 +10,10 @@ rank
 rank 
 rank 
 
+rank field compar 
+special field valu 
+special field valu 
+special field valu 
 
 
 

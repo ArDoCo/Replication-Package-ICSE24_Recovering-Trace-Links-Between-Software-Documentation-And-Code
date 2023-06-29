@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep rest sep categori endpoint dot java 
+categori endpoint 
 
 
 categori 
@@ -9,6 +9,8 @@ id
 categori 
 id 
 
+categori 
+categori 
 
 creat entiti 
 find entiti id 

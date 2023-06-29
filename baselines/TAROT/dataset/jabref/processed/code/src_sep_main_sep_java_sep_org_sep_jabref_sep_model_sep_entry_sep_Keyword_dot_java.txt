@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep keyword dot java 
+keyword 
 default hierarch delimit 
 keyword 
 
@@ -12,6 +12,7 @@ hierarch delimit
 hierarch delimit 
 hierarch delimit 
 
+keyword 
 
 keyword 
 

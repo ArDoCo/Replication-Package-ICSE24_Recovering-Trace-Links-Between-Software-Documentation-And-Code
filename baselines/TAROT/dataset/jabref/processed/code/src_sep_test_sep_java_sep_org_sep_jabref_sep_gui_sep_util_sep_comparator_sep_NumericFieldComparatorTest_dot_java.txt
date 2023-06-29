@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep gui sep util sep compar sep numer field compar test dot java 
+numer field compar test 
 compar 
 
+numer field compar 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep identifi sep iacr eprint dot java 
+iacr eprint 
 resolv 
 logger 
 iacr eprint exp 

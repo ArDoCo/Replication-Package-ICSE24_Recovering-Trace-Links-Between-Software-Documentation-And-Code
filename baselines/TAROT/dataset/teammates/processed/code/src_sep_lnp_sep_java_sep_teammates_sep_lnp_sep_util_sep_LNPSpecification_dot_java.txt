@@ -1,9 +1,10 @@
-src sep lnp sep java sep teammat sep lnp sep util sep lnp specif dot java 
+lnp specif 
 error rate limit 
 res time limit 
 result error messag 
 specif 
 
+lnp specif 
 
 result statist 
 res time 
@@ -11,6 +12,7 @@ error pct
 error rate limit 
 res time limit 
 
+lnp result statist 
 
 lnp specif 
 verifi lnp test success 

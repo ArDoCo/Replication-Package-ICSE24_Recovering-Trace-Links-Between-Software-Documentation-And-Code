@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep remot sep remot communic test dot java 
+remot communic test 
 client 
 server life cycl 
 server 

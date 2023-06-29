@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep texpars sep latex parser test dot java 
+latex parser test 
 darwin 
 einstein 
 newton 
@@ -11,6 +11,11 @@ import format prefer
 databas 
 databas 
 
+file updat monitor 
+general prefer 
+import format prefer 
+bib databas 
+bib databas 
 
 
 

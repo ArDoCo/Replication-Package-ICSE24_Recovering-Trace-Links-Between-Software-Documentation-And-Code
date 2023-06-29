@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file task dot java 
+copi file task 
 logger 
 logfil prefix 
 logfil ext 
@@ -19,6 +19,9 @@ total file counter
 resolv path filenam 
 resolv path filenam 
 
+bib databas context 
+prefer servic 
+bib entri 
 
 databas context 
 entri 
@@ -31,6 +34,9 @@ file
 success 
 log messag 
 
+bib databas context 
+bib entri 
+prefer servic 
 
 copi file task 
 call 

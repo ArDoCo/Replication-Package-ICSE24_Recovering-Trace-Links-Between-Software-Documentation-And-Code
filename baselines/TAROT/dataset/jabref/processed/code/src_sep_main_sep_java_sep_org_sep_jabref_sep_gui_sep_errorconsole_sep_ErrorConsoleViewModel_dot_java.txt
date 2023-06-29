@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep errorconsol sep error consol view model dot java 
+error consol view model 
 logger 
 dialog servic 
 clip board manag 
@@ -6,6 +6,9 @@ build info
 messag data 
 messag data 
 
+dialog servic 
+clip board manag 
+build info 
 
 dialog servic 
 clip board manag 
@@ -13,6 +16,9 @@ build info
 messag 
 messag 
 
+dialog servic 
+clip board manag 
+build info 
 
 error consol view model 
 messag data properti 

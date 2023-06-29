@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep bibtex field checker dot java 
+bibtex field checker 
 
 
 entri 
 
+bib entri 
 
 biblatex onli field 
 check 

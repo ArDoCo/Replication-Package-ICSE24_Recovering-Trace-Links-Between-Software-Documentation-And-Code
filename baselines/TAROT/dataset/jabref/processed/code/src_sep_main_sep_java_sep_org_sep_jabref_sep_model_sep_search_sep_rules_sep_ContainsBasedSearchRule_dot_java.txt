@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep search sep rule sep base search rule dot java 
+base search rule 
 
 
 search flag 
@@ -6,6 +6,7 @@ queri
 queri 
 bib entri 
 
+bib entri 
 
 base search rule 
 valid search string 

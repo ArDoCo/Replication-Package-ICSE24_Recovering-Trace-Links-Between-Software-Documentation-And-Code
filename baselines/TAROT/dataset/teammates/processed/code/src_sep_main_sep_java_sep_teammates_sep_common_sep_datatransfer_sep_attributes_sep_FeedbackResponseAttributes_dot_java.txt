@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep feedback respons attribut dot java 
+feedback respons attribut 
 feedback question id 
 giver 
 recipi 
@@ -25,6 +25,7 @@ respons detail updat option
 updat option 
 builder 
 
+feedback respons attribut 
 
 feedback question id 
 giver 
@@ -60,6 +61,8 @@ giver section
 recipi section 
 respons detail 
 
+feedback respons attribut 
+feedback respons 
 
 feedback respons attribut 
 feedback respons attribut 

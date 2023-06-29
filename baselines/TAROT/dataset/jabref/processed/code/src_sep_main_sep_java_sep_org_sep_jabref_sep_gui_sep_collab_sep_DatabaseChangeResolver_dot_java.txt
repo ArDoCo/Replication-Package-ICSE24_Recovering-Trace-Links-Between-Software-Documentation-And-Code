@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang resolv dot java 
+databas chang resolv 
 entri chang resolv 
 dialog servic 
 

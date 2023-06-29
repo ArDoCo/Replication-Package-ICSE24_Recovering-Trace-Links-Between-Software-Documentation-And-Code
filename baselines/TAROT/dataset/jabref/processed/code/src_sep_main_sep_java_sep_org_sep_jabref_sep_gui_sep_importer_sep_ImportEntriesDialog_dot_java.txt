@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep import entri dialog dot java 
+import entri dialog 
 entri list view 
 entri list view 
 librari list view 
@@ -19,12 +19,24 @@ entri type manag
 file updat monitor 
 databas 
 
+bib entri 
+bib databas context 
+parser result 
+import entri view model 
+dialog servic 
+prefer servic 
+bib entri type manag 
+file updat monitor 
+bib databas context 
 
 databas 
 task 
 entri 
 type 
 
+bib databas context 
+parser result 
+bib entri 
 
 import entri dialog 
 initi 

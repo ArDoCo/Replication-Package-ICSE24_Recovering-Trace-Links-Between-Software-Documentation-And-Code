@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep field prefer dot java 
+field prefer 
 resolv string 
 resolv field 
 resolv field 
 wrappabl field 
 wrappabl field 
 
+field 
+field 
 
 resolv string 
 resolv field 
@@ -13,6 +15,10 @@ resolv string
 list 
 list 
 
+field 
+field 
+field 
+field 
 
 field prefer 
 resolv string 

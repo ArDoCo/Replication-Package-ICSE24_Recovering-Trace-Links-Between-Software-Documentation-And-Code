@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep citationstyl sep citat style cach test dot java 
+citat style cach test 
 bib entri 
 entri 
 entri 
@@ -6,6 +6,11 @@ databas
 databas context 
 cs cach 
 
+bib entri 
+bib entri 
+bib databas 
+bib databas context 
+citat style cach 
 
 
 

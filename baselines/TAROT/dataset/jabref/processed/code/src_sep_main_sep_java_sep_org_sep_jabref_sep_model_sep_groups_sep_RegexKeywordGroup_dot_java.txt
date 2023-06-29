@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep regex keyword group dot java 
+regex keyword group 
 pattern 
 
 
@@ -12,6 +12,7 @@ case sensit
 entri 
  
 
+group hierarchi type 
 
 regex keyword group 
 compil pattern 

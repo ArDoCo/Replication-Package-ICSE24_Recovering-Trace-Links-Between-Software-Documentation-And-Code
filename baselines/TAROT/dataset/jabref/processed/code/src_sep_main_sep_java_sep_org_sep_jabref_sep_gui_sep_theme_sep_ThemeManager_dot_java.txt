@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep theme sep theme manag dot java 
+theme manag 
 logger 
 prefer 
 file updat monitor 
@@ -10,6 +10,7 @@ main window scene
 web engin 
 web engin 
 
+file updat monitor 
 
 prefer 
 file updat monitor 
@@ -21,6 +22,7 @@ main window scene
 web engin 
 scene 
 
+file updat monitor 
 
 theme manag 
 updat theme set 

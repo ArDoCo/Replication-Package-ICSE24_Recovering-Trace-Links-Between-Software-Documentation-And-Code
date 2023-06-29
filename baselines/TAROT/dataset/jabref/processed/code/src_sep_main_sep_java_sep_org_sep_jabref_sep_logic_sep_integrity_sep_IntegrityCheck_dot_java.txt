@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep integr check dot java 
+integr check 
 bib databas context 
 field checker 
 entri checker 
 entri checker 
 
+bib databas context 
 
 bib databas context 
 file prefer 
@@ -13,6 +14,11 @@ integ edit
 entri 
 databas 
 
+bib databas context 
+file prefer 
+citat key pattern prefer 
+bib entri 
+bib databas 
 
 integr check 
 check 

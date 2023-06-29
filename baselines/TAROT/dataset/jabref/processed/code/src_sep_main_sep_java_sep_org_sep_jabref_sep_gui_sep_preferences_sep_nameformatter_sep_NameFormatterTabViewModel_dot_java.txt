@@ -1,14 +1,18 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep nameformatt sep formatt tab view model dot java 
+formatt tab view model 
 formatt list properti 
 formatt list properti 
 add formatt properti 
 add formatt string properti 
 formatt prefer 
 
+formatt item model 
+formatt prefer 
 
 prefer 
 formatt 
 
+formatt prefer 
+formatt item model 
 
 formatt tab view model 
 set valu 

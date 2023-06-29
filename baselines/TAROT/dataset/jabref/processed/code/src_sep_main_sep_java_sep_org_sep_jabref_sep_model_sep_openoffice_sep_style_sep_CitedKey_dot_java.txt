@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep style sep cite key dot java 
+cite key 
 citat key 
 
 
@@ -11,6 +11,9 @@ uniqu letter
 norm cit marker 
 norm cit marker 
 
+citat path 
+citat lookup result 
+oo text 
 
 citat key 
 path 
@@ -25,6 +28,15 @@ citat group
 citat group 
 citat group 
 
+citat path 
+citat 
+oo text 
+citat path 
+citat 
+bib databas 
+citat group 
+citat group 
+citat group 
 
 cite key 
 citat key 

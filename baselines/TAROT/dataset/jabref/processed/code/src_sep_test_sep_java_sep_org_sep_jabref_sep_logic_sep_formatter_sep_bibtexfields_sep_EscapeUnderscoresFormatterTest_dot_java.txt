@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep cape underscor formatt test dot java 
+cape underscor formatt test 
 formatt 
 
 

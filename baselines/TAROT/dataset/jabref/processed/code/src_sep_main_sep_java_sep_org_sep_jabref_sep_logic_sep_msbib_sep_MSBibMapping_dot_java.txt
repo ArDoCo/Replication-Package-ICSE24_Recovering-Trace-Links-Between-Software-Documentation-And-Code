@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib map dot java 
+ms bib map 
 bibtex prefix 
 msbib prefix 
 biblatex ms bib 
@@ -6,6 +6,7 @@ biblatex ms bib
 lang lcid 
 lang lcid 
 
+field 
 
 msbib type 
 bibtex type 
@@ -14,6 +15,7 @@ lcid
 field 
 msbib field 
 
+field 
 
 ms bib map 
 biblatex entri type 

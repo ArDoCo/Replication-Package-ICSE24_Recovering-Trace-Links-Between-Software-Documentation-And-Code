@@ -1,12 +1,14 @@
-src sep main sep java sep org sep jabref sep logic sep formatt sep casechang sep protect term formatt dot java 
+protect term formatt 
 protect term loader 
 
+protect term loader 
 
 protect term loader 
 text 
 list word 
 text 
 
+protect term loader 
 
 protect term formatt 
 format 

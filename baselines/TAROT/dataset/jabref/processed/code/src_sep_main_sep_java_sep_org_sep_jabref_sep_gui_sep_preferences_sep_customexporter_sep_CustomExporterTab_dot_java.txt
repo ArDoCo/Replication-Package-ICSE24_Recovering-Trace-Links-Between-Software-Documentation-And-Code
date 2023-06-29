@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customexport sep custom export tab dot java 
+custom export tab 
 export tabl 
 export tabl 
 column 
@@ -9,6 +9,10 @@ extens column
 extens column 
 repositori 
 
+export view model 
+export view model 
+export view model 
+export view model 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep metadata sep save order dot java 
+save order 
 
 logger 
 sort criteria 

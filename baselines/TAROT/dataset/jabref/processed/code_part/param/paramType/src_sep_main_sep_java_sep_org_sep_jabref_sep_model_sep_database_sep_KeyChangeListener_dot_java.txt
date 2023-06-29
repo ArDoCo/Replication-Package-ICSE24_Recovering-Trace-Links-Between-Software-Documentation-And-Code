@@ -1,0 +1,6 @@
+bib databas 
+entri remov event 
+bib entri 
+field 
+bib entri 
+field 

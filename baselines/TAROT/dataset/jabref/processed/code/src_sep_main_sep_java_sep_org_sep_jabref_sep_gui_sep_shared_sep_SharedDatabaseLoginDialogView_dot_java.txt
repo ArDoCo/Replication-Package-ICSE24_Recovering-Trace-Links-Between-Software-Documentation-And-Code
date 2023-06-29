@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep share sep share databas login dialog view dot java 
+share databas login dialog view 
 frame 
 databas type 
 databas type 
@@ -22,11 +22,16 @@ prefer servic
 view model 
 visual 
 
+jab ref frame 
+dialog servic 
+prefer servic 
+share databas login dialog view model 
 
 frame 
 event 
 event 
 
+jab ref frame 
 
 share databas login dialog view 
 open databas 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep person field row view dot java 
+person field row view 
 left entri 
 entri 
 
@@ -10,6 +10,11 @@ merg entri
 field merger factori 
 row index 
 
+field 
+bib entri 
+bib entri 
+bib entri 
+field merger factori 
 
 person field row view 
 show person info 

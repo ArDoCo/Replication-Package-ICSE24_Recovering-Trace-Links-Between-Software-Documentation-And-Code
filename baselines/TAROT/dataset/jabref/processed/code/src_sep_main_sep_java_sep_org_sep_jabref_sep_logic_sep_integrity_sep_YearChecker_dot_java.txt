@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep year checker dot java 
+year checker 
 digit 
 digit 
 digit 

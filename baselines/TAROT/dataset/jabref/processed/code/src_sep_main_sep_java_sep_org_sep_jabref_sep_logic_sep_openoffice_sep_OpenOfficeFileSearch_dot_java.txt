@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep open offic file search dot java 
+open offic file search 
 logger 
 
 

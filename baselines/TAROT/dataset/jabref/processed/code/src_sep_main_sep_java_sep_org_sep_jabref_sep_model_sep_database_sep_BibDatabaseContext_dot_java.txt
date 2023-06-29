@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep databas sep bib databas context dot java 
+bib databas context 
 logger 
 databas 
 meta data 
@@ -7,6 +7,7 @@ dbms synchron
 dbms listen 
 locat 
 
+databas synchron 
 
 databas 
 databas 
@@ -26,6 +27,8 @@ prefer
 directori 
 dmbs synchron 
 
+bib databas mode 
+databas synchron 
 
 bib databas context 
 bib databas context 

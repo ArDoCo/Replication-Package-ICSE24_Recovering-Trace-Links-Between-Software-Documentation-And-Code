@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep minifi sep minifi list formatt test dot java 
+minifi list formatt test 

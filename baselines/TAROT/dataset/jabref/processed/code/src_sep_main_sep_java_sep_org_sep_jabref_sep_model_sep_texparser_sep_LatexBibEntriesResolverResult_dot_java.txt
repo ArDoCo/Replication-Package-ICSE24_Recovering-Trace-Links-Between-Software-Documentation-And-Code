@@ -1,13 +1,15 @@
-src sep main sep java sep org sep jabref sep model sep texpars sep latex bib entri resolv result dot java 
+latex bib entri resolv result 
 latex parser result 
 entri 
 entri 
 
+latex parser result 
 
 latex parser result 
 entri 
 obj 
 
+latex parser result 
 
 latex bib entri resolv result 
 latex parser result 

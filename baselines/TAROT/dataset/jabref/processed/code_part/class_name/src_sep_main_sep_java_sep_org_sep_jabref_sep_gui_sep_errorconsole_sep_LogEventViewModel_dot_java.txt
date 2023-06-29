@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep errorconsol sep log event view model dot java 
+log event view model 

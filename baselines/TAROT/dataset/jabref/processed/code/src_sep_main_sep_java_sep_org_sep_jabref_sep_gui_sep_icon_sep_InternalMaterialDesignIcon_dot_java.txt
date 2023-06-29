@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep icon sep intern materi design icon dot java 
+intern materi design icon 
 icon 
 icon 
 color 

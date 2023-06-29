@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep compon sep diff highlight text pane dot java 
+diff highlight text pane 
 bodi style 
 addit style 
 remov style 

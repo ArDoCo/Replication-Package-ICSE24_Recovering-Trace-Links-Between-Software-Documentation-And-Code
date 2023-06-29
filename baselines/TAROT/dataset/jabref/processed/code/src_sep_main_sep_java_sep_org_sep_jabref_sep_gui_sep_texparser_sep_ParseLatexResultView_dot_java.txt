@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex result view dot java 
+pars latex result view 
 resolv result 
 databas context 
 base path 
@@ -9,11 +9,13 @@ import button type
 theme manag 
 view model 
 
+latex bib entri resolv result 
 
 resolv result 
 databas context 
 base path 
 
+latex bib entri resolv result 
 
 pars latex result view 
 initi 

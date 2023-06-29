@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep present file processor dot java 
+present file processor 
 log 
 svg imag requir 
 generat pngs 
@@ -20,6 +20,8 @@ process present
 present 
 present 
 
+page extractor 
+png creator 
 
 num convers thread 
 pres 
@@ -51,6 +53,9 @@ minut
  
  
 
+count page 
+page extractor 
+png creator 
 
 present file processor 
 process 

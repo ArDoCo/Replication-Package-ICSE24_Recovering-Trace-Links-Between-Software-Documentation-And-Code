@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep prefer search handler dot java 
+prefer search handler 
 label highlight 
 prefer tab 
 prefer tab 
@@ -9,6 +9,9 @@ prefer tab label
 highlight label 
 highlight label 
 
+prefer tab 
+prefer tab 
+prefer tab 
 
 prefer tab 
 text 
@@ -19,6 +22,9 @@ parent
 pref tab label map 
 prefer tab 
 
+prefer tab 
+prefer tab 
+prefer tab 
 
 prefer search handler 
 filter tab 

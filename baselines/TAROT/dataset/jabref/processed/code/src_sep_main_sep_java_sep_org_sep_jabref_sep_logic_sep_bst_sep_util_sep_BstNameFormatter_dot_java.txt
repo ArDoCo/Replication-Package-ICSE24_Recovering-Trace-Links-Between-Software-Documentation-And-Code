@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep util sep formatt dot java 
+formatt 
 logger 
 
 
@@ -14,6 +14,7 @@ pos
 token 
 stop 
 
+author 
 
 formatt 
 format 

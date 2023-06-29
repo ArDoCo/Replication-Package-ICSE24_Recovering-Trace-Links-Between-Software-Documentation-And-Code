@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep bib te convert dot java 
+bib te convert 

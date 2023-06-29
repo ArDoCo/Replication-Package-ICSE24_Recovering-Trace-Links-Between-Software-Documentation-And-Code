@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep append word strategi dot java 
+append word strategi 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep export sep creat modifi export dialog view dot java 
+creat modifi export dialog view 
 repositori 
 export 
 
@@ -9,10 +9,15 @@ dialog servic
 prefer 
 view model 
 
+export view model 
+dialog servic 
+prefer servic 
+creat modifi export dialog view model 
 
 export 
 event 
 
+export view model 
 
 creat modifi export dialog view 
 initi 

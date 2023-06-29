@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep request log detail dot java 
+request log detail 

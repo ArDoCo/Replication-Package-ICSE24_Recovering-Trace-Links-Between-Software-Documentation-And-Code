@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep core sep feedback respons comment logic test dot java 
+feedback respons comment logic test 
 frc logic 
 fq logic 
 fr logic 
@@ -14,6 +14,10 @@ question data bundl
 respons data bundl 
 question data bundl 
 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
 
 prepar test data 
 refresh test data 

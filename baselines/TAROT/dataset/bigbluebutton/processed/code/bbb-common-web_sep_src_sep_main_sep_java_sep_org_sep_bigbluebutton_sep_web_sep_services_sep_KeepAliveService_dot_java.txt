@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep aliv servic dot java 
+aliv servic 
 log 
 aliv request 
 gw 
@@ -16,6 +16,8 @@ aliv messag
 akka app timestamp 
 system 
 
+bbb web api gw app 
+aliv messag 
 
  
 gw 
@@ -28,6 +30,10 @@ bbb web timestamp
 akka app timestamp 
 messag 
 
+bbb web api gw app 
+aliv messag 
+aliv messag 
+messag 
 
 start 
 stop 

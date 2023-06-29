@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep custom entri type tab dot java 
+custom entri type tab 
 entri type tabl 
 entri type tabl 
 entri typ column 
@@ -24,6 +24,13 @@ state manag
 visual 
 local dragboard 
 
+field view model 
+field view model 
+field view model 
+field view model 
+field view model 
+field 
+custom local dragboard 
 
 column 
 text 
@@ -40,6 +47,14 @@ row
 field view model 
 drag event 
 
+field view model 
+field view model 
+field view model 
+field view model 
+field view model 
+field view model 
+field view model 
+field view model 
 
 custom entri type tab 
 tab 

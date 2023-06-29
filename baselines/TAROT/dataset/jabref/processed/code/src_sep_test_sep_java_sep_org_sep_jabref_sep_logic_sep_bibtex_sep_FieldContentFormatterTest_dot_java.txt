@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep bibtex sep field content formatt test dot java 
+field content formatt test 
 parser 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep event sep share entri present event dot java 
+share entri present event 
 bib entri 
 bib entri 
 

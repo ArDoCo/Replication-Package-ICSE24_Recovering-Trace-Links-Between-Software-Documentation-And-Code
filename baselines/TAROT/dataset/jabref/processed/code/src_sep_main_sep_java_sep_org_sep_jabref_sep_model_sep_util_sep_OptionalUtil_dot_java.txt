@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep util sep option util dot java 
+option util 
 
 
 valu 

@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep breakout room param dot java 
+breakout room param 

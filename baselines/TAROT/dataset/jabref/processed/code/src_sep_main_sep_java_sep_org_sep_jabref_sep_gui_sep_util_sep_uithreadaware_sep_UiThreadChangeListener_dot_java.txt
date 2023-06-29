@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep uithreadawar sep ui thread chang listen dot java 
+ui thread chang listen 
 deleg 
 deleg 
 

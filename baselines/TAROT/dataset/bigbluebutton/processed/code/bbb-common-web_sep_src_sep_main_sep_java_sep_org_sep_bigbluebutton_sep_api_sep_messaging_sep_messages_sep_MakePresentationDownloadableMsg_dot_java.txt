@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag sep present download msg dot java 
+present download msg 
 meet id 
 pres id 
 pres filenam 

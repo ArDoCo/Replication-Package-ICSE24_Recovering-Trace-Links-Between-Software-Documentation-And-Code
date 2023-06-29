@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep layout test dot java 
+layout test 
 layout formatt prefer 
 
 
@@ -8,6 +8,8 @@ entri
 layout 
 entri 
 
+bib entri 
+bib entri 
 
 set 
 layout 

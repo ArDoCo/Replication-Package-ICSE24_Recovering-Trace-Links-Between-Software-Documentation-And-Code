@@ -1,7 +1,8 @@
-src sep test sep java sep org sep jabref sep logic sep git sep git handler test dot java 
+git handler test 
 repositori path 
 git handler 
 
+git handler 
 
 
 

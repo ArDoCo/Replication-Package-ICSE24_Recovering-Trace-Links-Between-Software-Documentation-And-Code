@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep latex cleanup formatt test dot java 
+latex cleanup formatt test 

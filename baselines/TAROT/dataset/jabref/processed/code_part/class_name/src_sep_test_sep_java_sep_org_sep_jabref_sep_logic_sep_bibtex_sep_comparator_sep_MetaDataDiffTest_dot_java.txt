@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep bibtex sep compar sep meta data diff test dot java 
+meta data diff test 

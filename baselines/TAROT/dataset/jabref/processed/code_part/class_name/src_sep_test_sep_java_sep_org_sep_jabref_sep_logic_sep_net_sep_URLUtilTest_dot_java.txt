@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep net sep url util test dot java 
+url util test 

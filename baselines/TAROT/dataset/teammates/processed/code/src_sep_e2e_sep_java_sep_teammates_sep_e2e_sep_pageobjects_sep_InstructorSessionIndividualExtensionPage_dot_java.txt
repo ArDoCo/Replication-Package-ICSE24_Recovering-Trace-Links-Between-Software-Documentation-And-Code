@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep instructor session individu extens page dot java 
+instructor session individu extens page 
 student section index 
 student team index 
 student index 
@@ -45,6 +45,14 @@ notifi user
 instant 
 timezon 
 
+browser 
+feedback session attribut 
+instructor attribut 
+feedback session attribut 
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+feedback session attribut 
 
 instructor session individu extens page 
 expect page content 

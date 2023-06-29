@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep search result tabl dot java 
+search result tabl 
 
 
 model 
@@ -8,6 +8,7 @@ undo manag
 dialog servic 
 state manag 
 
+search result tabl data model 
 
 search result tabl 
 

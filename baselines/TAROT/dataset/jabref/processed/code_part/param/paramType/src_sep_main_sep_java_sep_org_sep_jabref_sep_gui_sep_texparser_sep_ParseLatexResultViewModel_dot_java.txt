@@ -1,0 +1,2 @@
+latex bib entri resolv result 
+bib databas context 

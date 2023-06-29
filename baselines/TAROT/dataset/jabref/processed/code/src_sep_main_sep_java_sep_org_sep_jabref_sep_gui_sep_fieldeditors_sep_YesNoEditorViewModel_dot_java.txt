@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep editor view model dot java 
+editor view model 
 item map 
 item map 
 
@@ -8,6 +8,7 @@ suggest provid
 field checker 
 object 
 
+field 
 
 editor view model 
 item map 

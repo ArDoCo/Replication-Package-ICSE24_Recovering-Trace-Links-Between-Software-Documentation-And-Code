@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep biblioscap import type test dot java 
+biblioscap import type test 

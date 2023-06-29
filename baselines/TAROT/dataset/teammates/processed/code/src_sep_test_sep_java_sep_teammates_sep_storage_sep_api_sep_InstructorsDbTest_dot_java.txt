@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep storag sep api sep instructor db test dot java 
+instructor db test 
 instructor db 
 data bundl 
 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep group sep explicit group test dot java 
+explicit group test 
 group 
 group 
 entri 

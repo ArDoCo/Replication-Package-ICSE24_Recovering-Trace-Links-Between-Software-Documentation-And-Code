@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep model sep databas sep duplic checker test dot java 
+duplic checker test 
 databas 
 
+bib databas 
 
 
 

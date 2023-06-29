@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep citat display dot java 
+citat display 
 base path 
 base path 
 
@@ -6,6 +6,8 @@ base path
 item 
 item 
 
+citat 
+citat 
 
 citat display 
 base path properti 

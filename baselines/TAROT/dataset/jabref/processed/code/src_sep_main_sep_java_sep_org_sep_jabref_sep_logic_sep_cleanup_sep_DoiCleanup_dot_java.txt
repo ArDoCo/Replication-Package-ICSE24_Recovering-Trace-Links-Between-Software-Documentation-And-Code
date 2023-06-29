@@ -1,13 +1,18 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep doi cleanup dot java 
+doi cleanup 
 field 
 field 
 
+field 
 
 entri 
 entri 
 field 
 chang 
 
+bib entri 
+bib entri 
+field 
+field chang 
 
 cleanup 
 remov field valu 

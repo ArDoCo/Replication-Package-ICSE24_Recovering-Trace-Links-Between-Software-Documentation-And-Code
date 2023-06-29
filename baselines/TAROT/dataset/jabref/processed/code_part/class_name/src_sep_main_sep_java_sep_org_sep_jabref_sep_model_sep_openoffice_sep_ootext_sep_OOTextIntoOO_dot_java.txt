@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep ootext sep oo text oo dot java 
+oo text oo 

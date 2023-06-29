@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep import format reader integr test dot java 
+import format reader integr test 

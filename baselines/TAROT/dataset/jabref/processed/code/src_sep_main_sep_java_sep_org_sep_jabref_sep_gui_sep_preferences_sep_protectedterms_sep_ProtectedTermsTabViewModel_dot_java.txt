@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep protectedterm sep protect term tab view model dot java 
+protect term tab view model 
 logger 
 term loader 
 term file properti 
@@ -7,6 +7,11 @@ prefer
 dialog servic 
 protect term prefer 
 
+protect term loader 
+protect term list item model 
+prefer servic 
+dialog servic 
+protect term prefer 
 
 term loader 
 dialog servic 
@@ -16,6 +21,13 @@ file
 item model 
 item model 
 
+protect term loader 
+dialog servic 
+prefer servic 
+protect term list item model 
+protect term list item model 
+protect term list item model 
+protect term list item model 
 
 protect term tab view model 
 set valu 

@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep common sep datatransf sep session result bundl test dot java 
+session result bundl test 
 
 
 

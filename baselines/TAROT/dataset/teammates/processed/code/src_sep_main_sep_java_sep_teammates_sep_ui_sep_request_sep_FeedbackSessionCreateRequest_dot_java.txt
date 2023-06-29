@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep feedback session creat request dot java 
+feedback session creat request 
 feedback session 
 copi cours id 
 copi session 

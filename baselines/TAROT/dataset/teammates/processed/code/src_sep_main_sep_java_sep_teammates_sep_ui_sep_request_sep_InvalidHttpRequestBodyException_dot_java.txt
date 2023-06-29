@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep invalid http request bodi dot java 
+invalid http request bodi 
 
 
 messag 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep crawler sep studi repositori test dot java 
+studi repositori test 
 exist directori 
 citat key pattern prefer 
 prefer servic 
@@ -13,9 +13,18 @@ hash code quantum
 hash code cloud comput 
 hash code softwar engin 
 
+citat key pattern prefer 
+prefer servic 
+general prefer 
+import format prefer 
+save configur 
+bib entri type manag 
+studi repositori 
+slr git handler 
 
 entri 
 
+bib entri 
 
 set mock 
 provid path exist repositori throw 

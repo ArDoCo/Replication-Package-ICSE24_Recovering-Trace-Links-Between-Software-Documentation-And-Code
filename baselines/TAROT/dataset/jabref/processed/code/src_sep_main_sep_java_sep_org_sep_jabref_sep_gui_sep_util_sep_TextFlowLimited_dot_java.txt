@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep text flow limit dot java 
+text flow limit 
 collaps 
 link 
 clip 

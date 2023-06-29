@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep toolbar sep merg toolbar dot java 
+merg toolbar 
 highlight charact radio button 
 highlight word radio button 
 diff highlight method toggl group 

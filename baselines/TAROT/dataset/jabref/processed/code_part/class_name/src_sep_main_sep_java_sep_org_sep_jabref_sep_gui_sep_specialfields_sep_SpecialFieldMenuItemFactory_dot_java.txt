@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep specialfield sep special field menu item factori dot java 
+special field menu item factori 

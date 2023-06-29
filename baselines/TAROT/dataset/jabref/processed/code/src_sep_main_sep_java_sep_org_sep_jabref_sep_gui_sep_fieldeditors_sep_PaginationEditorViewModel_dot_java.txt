@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep pagin editor view model dot java 
+pagin editor view model 
 item map 
 item map 
 

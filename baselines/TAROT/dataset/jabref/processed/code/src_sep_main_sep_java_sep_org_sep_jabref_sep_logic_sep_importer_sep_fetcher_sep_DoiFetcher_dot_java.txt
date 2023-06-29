@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep doi fetcher dot java 
+doi fetcher 
 
 ap journal org doi id 
 ap suffix 
@@ -8,6 +8,7 @@ data cite dcn rate limit
 crossref dcn rate limit 
 prefer 
 
+import format prefer 
 
 prefer 
 identifi 
@@ -22,6 +23,12 @@ doi string
 entri 
 doi string 
 
+import format prefer 
+bib entri 
+bib entri 
+doi 
+bib entri 
+bib entri 
 
 doi fetcher 
 

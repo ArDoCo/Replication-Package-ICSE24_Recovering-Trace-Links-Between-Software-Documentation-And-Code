@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep biodivers librari transform dot java 
+biodivers librari transform 
 
 
 author 

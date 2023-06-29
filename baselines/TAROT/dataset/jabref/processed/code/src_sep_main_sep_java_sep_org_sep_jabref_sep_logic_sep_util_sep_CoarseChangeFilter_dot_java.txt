@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep coars chang filter dot java 
+coars chang filter 
 context 
 event bus 
 field chang 
@@ -7,12 +7,17 @@ entri chang
 entri chang 
 total delta 
 
+bib databas context 
+field 
+bib entri 
 
 bib databas context 
 event 
 listen 
 listen 
 
+bib databas context 
+bib databas context chang event 
 
 coars chang filter 
 listen 

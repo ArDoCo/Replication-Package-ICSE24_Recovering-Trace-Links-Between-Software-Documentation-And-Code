@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep er info cooki dot java 
+er info cooki 
 user id 
 verif code 
 expiri time 

@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep storag sep api sep deadlin extens db dot java 
+deadlin extens db 
 instanc 
 
+deadlin extens db 
 
 cours id 
 feedback session 
@@ -21,6 +22,10 @@ queri
 entiti creat 
 entiti 
 
+attribut delet queri 
+attribut delet queri 
+deadlin extens attribut 
+deadlin extens 
 
 deadlin extens db 
 inst 

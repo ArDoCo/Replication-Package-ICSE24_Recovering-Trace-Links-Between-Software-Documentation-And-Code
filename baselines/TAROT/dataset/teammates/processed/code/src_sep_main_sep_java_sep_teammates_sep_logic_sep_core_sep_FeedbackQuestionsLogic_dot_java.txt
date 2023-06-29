@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep feedback question logic dot java 
+feedback question logic 
 user 
 log 
 instanc 
@@ -9,6 +9,10 @@ fs logic
 instructor logic 
 student logic 
 
+logger 
+feedback question logic 
+feedback session logic 
+student logic 
 
 fqa 
 feedback question id 
@@ -56,6 +60,21 @@ queri
 question number shift 
 question shift 
 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback particip type 
+feedback question attribut 
+cours roster 
+feedback question attribut 
+cours roster 
+feedback question attribut 
+cours roster 
+feedback question attribut 
+feedback question attribut 
+attribut delet queri 
+feedback question attribut 
 
 feedback question logic 
 inst 

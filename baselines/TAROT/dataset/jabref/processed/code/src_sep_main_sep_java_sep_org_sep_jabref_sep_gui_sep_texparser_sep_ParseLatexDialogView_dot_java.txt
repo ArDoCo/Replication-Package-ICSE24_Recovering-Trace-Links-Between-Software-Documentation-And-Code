@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex dialog view dot java 
+pars latex dialog view 
 databas context 
 valid visual 
 latex directori field 
@@ -17,9 +17,15 @@ file monitor
 theme manag 
 view model 
 
+bib databas context 
+file node view model 
+dialog servic 
+file updat monitor 
+theme manag 
 
 databas context 
 
+bib databas context 
 
 pars latex dialog view 
 initi 

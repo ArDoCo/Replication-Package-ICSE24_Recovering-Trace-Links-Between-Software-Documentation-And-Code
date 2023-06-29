@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep edit sep edit field content tab view model test dot java 
+edit field content tab view model test 

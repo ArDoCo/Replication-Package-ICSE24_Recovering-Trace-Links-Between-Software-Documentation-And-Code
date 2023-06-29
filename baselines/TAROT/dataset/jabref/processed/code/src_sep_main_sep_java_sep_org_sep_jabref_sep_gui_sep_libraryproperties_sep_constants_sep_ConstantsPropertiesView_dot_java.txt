@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep constant sep constant properti view dot java 
+constant properti view 
 string list 
 string list 
 label column 
@@ -12,9 +12,16 @@ save button
 prefer servic 
 dialog servic 
 
+constant item model 
+constant item model 
+constant item model 
+constant item model 
+prefer servic 
+dialog servic 
 
 databas context 
 
+bib databas context 
 
 constant properti view 
 tab 

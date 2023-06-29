@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep fetcher sep web search pane view dot java 
+web search pane view 
 queri invalid 
 view model 
 prefer 

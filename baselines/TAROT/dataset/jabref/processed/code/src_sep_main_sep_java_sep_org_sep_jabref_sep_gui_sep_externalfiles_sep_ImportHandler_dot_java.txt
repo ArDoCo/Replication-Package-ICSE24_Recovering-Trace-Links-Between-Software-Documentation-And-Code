@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep import handler dot java 
+import handler 
 logger 
 bib databas context 
 prefer servic 
@@ -14,6 +14,14 @@ counter
 result 
 result 
 
+bib databas context 
+prefer servic 
+file updat monitor 
+extern file entri linker 
+dialog servic 
+import format reader 
+task executor 
+import file result item view model 
 
 databas 
 prefer servic 
@@ -40,6 +48,19 @@ data
 doi 
 ar xiv identifi 
 
+bib databas context 
+prefer servic 
+file updat monitor 
+dialog servic 
+import format reader 
+task executor 
+bib entri 
+bib databas context 
+bib entri 
+bib entri 
+group tree node 
+bib entri 
+ar xiv identifi 
 
 import handler 
 linker 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style cach dot java 
+citat style cach 
 cach size 
 citat style 
 citat style cach 

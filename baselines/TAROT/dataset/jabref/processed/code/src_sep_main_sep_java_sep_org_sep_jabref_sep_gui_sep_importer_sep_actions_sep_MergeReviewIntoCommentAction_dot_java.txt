@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep action sep merg review comment action dot java 
+merg review comment action 
 
 
 parser result 

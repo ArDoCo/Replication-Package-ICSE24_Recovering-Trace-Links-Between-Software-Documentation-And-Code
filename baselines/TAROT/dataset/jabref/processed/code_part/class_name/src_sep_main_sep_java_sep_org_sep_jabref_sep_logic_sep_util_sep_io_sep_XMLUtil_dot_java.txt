@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep util sep io sep xml util dot java 
+xml util 

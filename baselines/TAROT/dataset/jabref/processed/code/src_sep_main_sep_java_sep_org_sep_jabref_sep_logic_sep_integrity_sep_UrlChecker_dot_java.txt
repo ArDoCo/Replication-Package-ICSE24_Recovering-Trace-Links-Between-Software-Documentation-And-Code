@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep url checker dot java 
+url checker 
 
 
 valu 

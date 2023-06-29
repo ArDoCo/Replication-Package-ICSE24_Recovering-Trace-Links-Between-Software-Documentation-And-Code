@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep keybind sep key bind tab view model dot java 
+key bind tab view model 

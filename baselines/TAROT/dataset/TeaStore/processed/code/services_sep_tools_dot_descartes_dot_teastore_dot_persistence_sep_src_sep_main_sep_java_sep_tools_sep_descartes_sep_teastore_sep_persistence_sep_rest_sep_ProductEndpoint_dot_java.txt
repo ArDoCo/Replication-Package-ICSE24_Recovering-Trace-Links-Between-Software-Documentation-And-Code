@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep rest sep product endpoint dot java 
+product endpoint 
 
 
 product 
@@ -13,6 +13,8 @@ start posit
 max result 
 categori id 
 
+product 
+product 
 
 creat entiti 
 find entiti id 

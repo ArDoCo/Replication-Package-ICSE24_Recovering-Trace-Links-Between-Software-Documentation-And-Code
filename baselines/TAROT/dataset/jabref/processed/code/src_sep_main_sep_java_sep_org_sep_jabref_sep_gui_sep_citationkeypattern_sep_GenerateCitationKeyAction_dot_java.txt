@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep citationkeypattern sep generat citat key action dot java 
+generat citat key action 
 frame 
 dialog servic 
 state manag 
@@ -9,6 +9,11 @@ task executor
 prefer servic 
 compound 
 
+jab ref frame 
+dialog servic 
+bib entri 
+prefer servic 
+compound 
 
 frame 
 dialog servic 
@@ -21,6 +26,11 @@ success
 start 
 count 
 
+jab ref frame 
+dialog servic 
+prefer servic 
+dialog servic 
+prefer servic 
 
 generat citat key action 
 execut 

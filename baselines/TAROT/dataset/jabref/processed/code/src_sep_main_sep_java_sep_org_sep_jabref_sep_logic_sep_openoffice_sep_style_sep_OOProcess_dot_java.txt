@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep oo process dot java 
+oo process 
 author year titl compar 
 author year titl compar 
 year author titl compar 

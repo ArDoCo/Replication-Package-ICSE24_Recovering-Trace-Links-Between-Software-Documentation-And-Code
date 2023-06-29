@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep share sep dbms processor test dot java 
+dbms processor test 

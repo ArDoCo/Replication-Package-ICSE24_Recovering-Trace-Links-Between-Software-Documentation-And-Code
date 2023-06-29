@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep import export prefer dot java 
+import export prefer 
 alway reformat save 
 import work directori 
 import work directori 
@@ -10,6 +10,7 @@ export save order
 auto save 
 warn duplic import 
 
+save order 
 
 alway reformat save 
 import work directori 
@@ -26,6 +27,8 @@ export save order
 auto save 
 warn duplic import 
 
+save order 
+save order 
 
 import export prefer 
 alway reformat save 

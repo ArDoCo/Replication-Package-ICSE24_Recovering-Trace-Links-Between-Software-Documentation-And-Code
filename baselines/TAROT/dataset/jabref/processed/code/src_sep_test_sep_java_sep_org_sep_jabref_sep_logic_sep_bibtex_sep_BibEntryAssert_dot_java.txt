@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep bibtex sep bib entri assert dot java 
+bib entri assert 
 
 
 clazz 
@@ -27,6 +27,17 @@ expect
 file import 
 import 
 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+import 
+import 
+bib entri 
+import 
+bib entri 
+import 
 
 assert equal 
 assert equal 

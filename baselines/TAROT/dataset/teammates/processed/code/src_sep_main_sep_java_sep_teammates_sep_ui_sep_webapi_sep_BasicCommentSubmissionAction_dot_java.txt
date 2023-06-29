@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep basic comment submiss action dot java 
+basic comment submiss action 
 feedback respons comment empti 
 
 
@@ -10,6 +10,11 @@ question
 instructor 
 respons 
 
+feedback question attribut 
+feedback respons attribut 
+feedback question attribut 
+instructor attribut 
+feedback respons attribut 
 
 valid question comment submiss 
 verifi comment exist 

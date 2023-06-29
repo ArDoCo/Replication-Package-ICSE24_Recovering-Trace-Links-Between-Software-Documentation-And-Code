@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep default queri transform test dot java 
+default queri transform test 

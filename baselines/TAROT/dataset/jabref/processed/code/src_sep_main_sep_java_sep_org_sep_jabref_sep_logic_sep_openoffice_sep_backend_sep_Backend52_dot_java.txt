@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep backend sep backend dot java 
+backend 
 logger 
 data model 
 citat storag manag 
 cgid rang 
 cgid rang 
 
+oo data model 
+rang manag 
 
 doc 
 doc 
@@ -40,6 +42,17 @@ citat group
 doc 
 citat entri 
 
+citat 
+citat group 
+oo data model 
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
 
 backend 
 jab ref refer mark 

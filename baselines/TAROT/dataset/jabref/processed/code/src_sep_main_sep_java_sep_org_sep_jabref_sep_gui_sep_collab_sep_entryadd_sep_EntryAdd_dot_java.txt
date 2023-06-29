@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entryadd sep entri add dot java 
+entri add 
 ad entri 
 
 

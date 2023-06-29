@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep complex search queri dot java 
+complex search queri 
 default field 
 default field 
 author 

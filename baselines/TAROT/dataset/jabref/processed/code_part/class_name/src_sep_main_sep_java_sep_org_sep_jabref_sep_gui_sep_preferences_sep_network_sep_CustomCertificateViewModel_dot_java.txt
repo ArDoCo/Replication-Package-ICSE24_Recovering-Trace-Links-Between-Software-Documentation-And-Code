@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep network sep custom certif view model dot java 
+custom certif view model 

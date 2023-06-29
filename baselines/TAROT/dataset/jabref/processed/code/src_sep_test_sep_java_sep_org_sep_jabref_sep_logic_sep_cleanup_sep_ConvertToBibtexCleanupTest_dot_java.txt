@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep convert bibtex cleanup test dot java 
+convert bibtex cleanup test 
 worker 
 
 

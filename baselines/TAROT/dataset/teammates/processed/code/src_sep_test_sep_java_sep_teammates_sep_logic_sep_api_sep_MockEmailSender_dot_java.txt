@@ -1,10 +1,12 @@
-src sep test sep java sep teammat sep logic sep api sep mock email sender dot java 
+mock email sender 
 sent email 
 sent email 
 
+email wrapper 
 
 email 
 
+email wrapper 
 
 send email 
 email sent 

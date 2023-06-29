@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep session result data dot java 
+session result data 
 regex anonym particip hash 
 question 
 question 
@@ -80,6 +80,11 @@ comment giver
 editor email 
 editor 
 
+feedback respons comment attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
 
 session result data 
 init instructor 

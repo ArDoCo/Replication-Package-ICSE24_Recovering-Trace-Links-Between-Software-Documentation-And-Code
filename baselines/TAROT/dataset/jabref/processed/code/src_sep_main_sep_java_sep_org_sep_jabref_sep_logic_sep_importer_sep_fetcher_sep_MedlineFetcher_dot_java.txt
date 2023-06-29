@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep medlin fetcher dot java 
+medlin fetcher 
 logger 
 number fetch 
 id url 
@@ -13,6 +13,7 @@ queri
 id 
 lucen queri 
 
+bib entri 
 
 pub med id queri 
 

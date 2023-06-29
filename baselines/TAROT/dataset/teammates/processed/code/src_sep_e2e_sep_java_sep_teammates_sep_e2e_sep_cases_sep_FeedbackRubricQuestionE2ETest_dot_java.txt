@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep case sep feedback rubric question test dot java 
+feedback rubric question test 
 
 
 question id 

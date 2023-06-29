@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep linkedfil sep attach file url action dot java 
+attach file url action 
 state manag 
 dialog servic 
 prefer servic 

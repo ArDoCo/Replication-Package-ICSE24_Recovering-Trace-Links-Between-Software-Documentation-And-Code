@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep data migrat text question detail format dot java 
+data migrat text question detail format 
 
 
 arg 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep export sep write metadata pdf action dot java 
+write metadata pdf action 
 state manag 
 entri type manag 
 field prefer 
@@ -19,6 +19,15 @@ cancel button
 cancel 
 progress area 
 
+state manag 
+bib entri type manag 
+field prefer 
+dialog servic 
+task executor 
+file prefer 
+xmp prefer 
+bib databas 
+bib entri 
 
 state manag 
 entri type manag 
@@ -32,6 +41,16 @@ entri
 databas context 
 databas 
 
+state manag 
+bib entri type manag 
+field prefer 
+dialog servic 
+task executor 
+file prefer 
+xmp prefer 
+bib entri 
+bib databas context 
+bib databas 
 
 write metadata pdf action 
 execut 

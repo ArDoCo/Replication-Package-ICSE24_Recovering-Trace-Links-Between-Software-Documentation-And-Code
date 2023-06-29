@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep common sep datatransf sep attribut sep account attribut test dot java 
+account attribut test 

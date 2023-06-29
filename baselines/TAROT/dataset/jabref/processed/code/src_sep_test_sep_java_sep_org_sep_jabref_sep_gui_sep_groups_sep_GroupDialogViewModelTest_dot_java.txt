@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep group sep group dialog view model test dot java 
+group dialog view model test 
 view model 
 temporari folder 
 bib databas context 
@@ -8,6 +8,10 @@ dialog servic
 group 
 prefer servic 
 
+bib databas context 
+dialog servic 
+abstract group 
+prefer servic 
 
 temporari folder 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep theme sep style sheet dot java 
+style sheet 
 data url prefix 
 empti webengin css 
 logger 

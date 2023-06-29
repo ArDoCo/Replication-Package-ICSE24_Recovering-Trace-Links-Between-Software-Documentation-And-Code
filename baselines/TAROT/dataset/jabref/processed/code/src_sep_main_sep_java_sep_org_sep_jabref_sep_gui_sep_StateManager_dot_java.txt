@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep state manag dot java 
+state manag 
 logger 
 local dragboard 
 open databas 
@@ -34,6 +34,18 @@ automat field editor edit
 search histori 
 search histori 
 
+custom local dragboard 
+bib databas context 
+option object properti 
+bib databas context 
+group tree node 
+bib entri 
+bib databas context 
+option object properti 
+search queri 
+bib databas context 
+option object properti 
+side pane type 
 
 databas 
 result size 
@@ -53,6 +65,15 @@ automat field editor edit
 search 
 size 
 
+bib databas context 
+bib entri 
+bib databas context 
+group tree node 
+bib databas context 
+bib databas context 
+bib databas context 
+search queri 
+dialog window state 
 
 state manag 
 visibl side pane compon 

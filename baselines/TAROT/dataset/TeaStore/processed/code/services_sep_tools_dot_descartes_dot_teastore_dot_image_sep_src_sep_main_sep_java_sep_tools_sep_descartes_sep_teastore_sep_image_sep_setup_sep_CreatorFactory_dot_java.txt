@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep setup sep creator factori dot java 
+creator factori 
 shape imag 
 img size 
 work dir 
@@ -12,6 +12,10 @@ img db
 nr imag generat 
 log 
 
+imag size 
+categori 
+categori 
+imag db 
 
 shape imag 
 img db 
@@ -21,6 +25,10 @@ product
 categori imag 
 nr imag generat 
 
+imag db 
+imag size 
+categori 
+categori 
 
 creator factori 
 runnabl 

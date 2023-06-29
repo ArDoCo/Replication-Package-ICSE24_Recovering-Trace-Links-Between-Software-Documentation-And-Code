@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep metadata serial configur dot java 
+metadata serial configur 
 group quot char 
 group unit separ 
 keyword group id 

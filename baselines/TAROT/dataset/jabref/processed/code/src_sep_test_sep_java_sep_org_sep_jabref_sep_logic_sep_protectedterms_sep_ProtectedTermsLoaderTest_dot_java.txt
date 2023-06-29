@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep protectedterm sep protect term loader test dot java 
+protect term loader test 
 loader 
 
+protect term loader 
 
 temp dir 
 temp dir 

@@ -1,7 +1,9 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep bib string diff dot java 
+bib string diff 
 origin string 
 string 
 
+bibtex string 
+bibtex string 
 
 origin string 
 string 
@@ -9,6 +11,10 @@ origin databas
 databas 
 
 
+bibtex string 
+bibtex string 
+bib databas 
+bib databas 
 
 bib string diff 
 compar 

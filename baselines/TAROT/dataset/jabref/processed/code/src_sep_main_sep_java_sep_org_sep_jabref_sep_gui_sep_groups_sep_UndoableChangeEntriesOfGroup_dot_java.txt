@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep group sep undoabl chang entri group dot java 
+undoabl chang entri group 
 
 
 node 
 chang 
 
+group tree node view model 
 
 undoabl chang entri group 
 undoabl edit 

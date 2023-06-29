@@ -1,4 +1,4 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep inbound sep client dot java 
+client 
 log 
 event listen 
 event listen 
@@ -12,6 +12,9 @@ authent respons
 channel 
 protocol listen 
 
+event listen 
+command respons 
+protocol listen 
 
  
  
@@ -36,6 +39,9 @@ respons
 event 
  
 
+event listen 
+command respons 
+event 
 
 thread 
 thread 

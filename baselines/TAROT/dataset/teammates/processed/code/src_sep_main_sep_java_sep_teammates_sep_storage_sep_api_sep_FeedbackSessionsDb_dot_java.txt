@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep storag sep api sep feedback session db dot java 
+feedback session db 
 instanc 
 
+feedback session db 
 
 rang start 
 rang 
@@ -28,6 +29,9 @@ cours id
 entiti creat 
 entiti 
 
+attribut delet queri 
+feedback session attribut 
+feedback session 
 
 feedback session db 
 inst 

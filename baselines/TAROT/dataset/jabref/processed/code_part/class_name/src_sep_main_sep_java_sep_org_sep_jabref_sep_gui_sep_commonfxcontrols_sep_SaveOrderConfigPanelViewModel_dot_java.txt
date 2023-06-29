@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep save order config panel view model dot java 
+save order config panel view model 

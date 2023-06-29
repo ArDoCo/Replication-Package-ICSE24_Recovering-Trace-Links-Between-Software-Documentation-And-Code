@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep global dot java 
+global 
 build info 
 remot listen 
 state manag 
@@ -15,6 +15,18 @@ theme manag
 file updat monitor 
 telemetri client 
 
+build info 
+remot listen server manag 
+import format reader 
+task executor 
+jab ref prefer 
+protect term loader 
+count undo manag 
+bib entri type manag 
+clip board manag 
+key bind repositori 
+theme manag 
+default file updat monitor 
 
 
 

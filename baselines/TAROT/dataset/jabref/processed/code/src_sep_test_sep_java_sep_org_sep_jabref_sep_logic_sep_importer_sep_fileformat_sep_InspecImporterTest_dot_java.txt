@@ -1,7 +1,8 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep inspec import test dot java 
+inspec import test 
 file 
 import 
 
+inspec import 
 
 file 
 file 

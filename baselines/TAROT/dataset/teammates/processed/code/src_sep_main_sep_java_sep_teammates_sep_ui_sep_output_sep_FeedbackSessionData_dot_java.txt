@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep feedback session data dot java 
+feedback session data 
 cours id 
 time zone 
 feedback session 
@@ -25,6 +25,10 @@ student deadlin
 instructor deadlin 
 instructor deadlin 
 
+session visibl set 
+feedback session submiss status 
+feedback session publish status 
+instructor permiss set 
 
 feedback session attribut 
 session visibl timestamp 
@@ -42,6 +46,10 @@ privileg
 student deadlin 
 instructor deadlin 
 
+feedback session attribut 
+session visibl set 
+feedback session publish status 
+instructor permiss set 
 
 feedback session data 
 cours id 

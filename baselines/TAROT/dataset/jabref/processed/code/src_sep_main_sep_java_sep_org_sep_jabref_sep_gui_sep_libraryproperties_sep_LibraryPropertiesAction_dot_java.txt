@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep librari properti action dot java 
+librari properti action 
 logger 
 state manag 
 altern databas 
 altern databas 
 
+bib databas context 
 
 state manag 
 databas context 
 state manag 
 
+bib databas context 
 
 librari properti action 
 librari properti action 

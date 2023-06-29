@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep extern sep extern tab view model dot java 
+extern tab view model 
 mail refer subject properti 
 auto open attach folder properti 
 push applic list properti 
@@ -19,6 +19,10 @@ initi extern applic prefer
 initi push applic prefer 
 work push applic prefer 
 
+push applic 
+push applic 
+push applic prefer 
+push applic prefer 
 
 dialog servic 
 prefer servic 

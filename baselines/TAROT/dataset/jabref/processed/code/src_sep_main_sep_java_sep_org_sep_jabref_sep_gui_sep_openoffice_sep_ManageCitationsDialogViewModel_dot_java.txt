@@ -1,14 +1,19 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep manag citat dialog view model dot java 
+manag citat dialog view model 
 fail citat entri 
 citat 
 citat 
 oo base 
 dialog servic 
 
+citat entri view model 
+oo bib base 
+dialog servic 
 
 oo base 
 dialog servic 
 
+oo bib base 
+dialog servic 
 
 manag citat dialog view model 
 store set 

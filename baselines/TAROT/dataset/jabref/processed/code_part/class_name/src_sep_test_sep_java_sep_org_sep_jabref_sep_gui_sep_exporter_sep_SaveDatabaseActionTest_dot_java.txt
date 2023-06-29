@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep export sep save databas action test dot java 
+save databas action test 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep entri sep field sep intern field dot java 
+intern field 

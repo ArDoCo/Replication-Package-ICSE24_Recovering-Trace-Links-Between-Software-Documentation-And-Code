@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep logic sep share sep postgr sql processor dot java 
+postgr sql processor 
 listen 
 version db struct default 
 current version db struct 
 
+postgr sql notif listen 
 
 connect 
 bib entri 
@@ -10,6 +11,8 @@ express
 express 
 dbms synchron 
 
+databas connect 
+bib entri 
 
 postgr sql processor 
 set 

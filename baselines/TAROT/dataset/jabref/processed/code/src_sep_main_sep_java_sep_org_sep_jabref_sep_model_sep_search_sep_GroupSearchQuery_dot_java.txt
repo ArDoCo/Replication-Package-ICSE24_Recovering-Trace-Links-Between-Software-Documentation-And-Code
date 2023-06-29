@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep search sep group search queri dot java 
+group search queri 
 queri 
 search flag 
 search flag 

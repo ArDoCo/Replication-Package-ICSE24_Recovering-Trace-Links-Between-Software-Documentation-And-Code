@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep research gate dot java 
+research gate 
 logger 
 host 
 googl search 
@@ -7,6 +7,7 @@ search
 search bib entri 
 format prefer 
 
+import format prefer 
 
 import format prefer 
 entri 
@@ -18,6 +19,11 @@ lucen queri
 url string 
 entri 
 
+import format prefer 
+bib entri 
+bib entri 
+doi 
+bib entri 
 
 research gate 
 find full text 

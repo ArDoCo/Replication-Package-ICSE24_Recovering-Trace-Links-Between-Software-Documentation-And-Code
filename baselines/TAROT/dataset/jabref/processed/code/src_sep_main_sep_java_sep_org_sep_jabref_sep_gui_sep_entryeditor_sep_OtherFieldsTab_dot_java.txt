@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep field tab dot java 
+field tab 
 custom tab field 
 custom tab field 
 entri type manag 
 
+field 
+bib entri type manag 
 
 databas context 
 suggest provid 
@@ -17,6 +19,14 @@ task executor
 journal abbrevi repositori 
 entri 
 
+bib databas context 
+suggest provid 
+dialog servic 
+prefer servic 
+theme manag 
+bib entri type manag 
+task executor 
+bib entri 
 
 field tab 
 determin field show 

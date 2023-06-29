@@ -1,7 +1,8 @@
-src sep test sep java sep org sep jabref sep gui sep edit sep manag keyword view model test dot java 
+manag keyword view model test 
 bib entri prefer 
 keyword view model 
 
+manag keyword view model 
 
 
 

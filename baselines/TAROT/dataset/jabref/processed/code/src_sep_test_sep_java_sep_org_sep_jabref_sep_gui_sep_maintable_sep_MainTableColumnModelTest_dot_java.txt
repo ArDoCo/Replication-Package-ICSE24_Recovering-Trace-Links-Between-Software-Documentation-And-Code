@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep maintabl sep main tabl column model test dot java 
+main tabl column model test 
 test 
 test type 
 test qualifi 

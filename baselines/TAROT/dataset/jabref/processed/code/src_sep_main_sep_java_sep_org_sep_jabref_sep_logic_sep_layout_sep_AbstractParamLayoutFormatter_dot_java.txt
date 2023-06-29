@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep abstract param layout formatt dot java 
+abstract param layout formatt 
 separ 
 
 

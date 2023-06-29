@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep url editor dot java 
+url editor 
 view model 
 text area 
 
+url editor view model 
 
 field 
 dialog servic 

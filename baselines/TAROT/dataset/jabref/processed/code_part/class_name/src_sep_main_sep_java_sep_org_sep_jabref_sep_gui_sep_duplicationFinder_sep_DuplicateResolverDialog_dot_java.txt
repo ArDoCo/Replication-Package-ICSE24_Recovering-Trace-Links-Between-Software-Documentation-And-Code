@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep duplic finder sep duplic resolv dialog dot java 
+duplic resolv dialog 

@@ -1,9 +1,12 @@
-src sep test sep java sep org sep jabref sep gui sep autocomplet sep person suggest provid test dot java 
+person suggest provid test 
 vassili kostako 
 auto complet 
 entri 
 databas 
 
+author 
+bib entri 
+bib databas 
 
 
 

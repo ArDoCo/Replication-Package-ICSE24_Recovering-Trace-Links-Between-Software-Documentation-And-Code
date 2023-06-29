@@ -1,9 +1,10 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep request sep meet dot java 
+meet 
 valu 
 meet id 
 password 
 moder password 
 
+password 
 
 valu 
 checksum 
@@ -11,6 +12,7 @@ meet id
 password 
 param 
 
+checksum 
 
 param 
 valu 

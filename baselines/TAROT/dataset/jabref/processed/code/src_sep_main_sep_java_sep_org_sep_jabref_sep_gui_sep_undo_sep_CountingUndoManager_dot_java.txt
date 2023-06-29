@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep count undo manag dot java 
+count undo manag 
 unchang point 
 current 
 event bus 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationstyl sep jab ref local provid dot java 
+jab ref local provid 
 local root 
 local 
 local 

@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep ampersand checker dot java 
+ampersand checker 
 backslash preced ampersand 
 
 
 entri 
 
+bib entri 
 
 check 
 

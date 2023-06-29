@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep text base preview layout dot java 
+text base preview layout 

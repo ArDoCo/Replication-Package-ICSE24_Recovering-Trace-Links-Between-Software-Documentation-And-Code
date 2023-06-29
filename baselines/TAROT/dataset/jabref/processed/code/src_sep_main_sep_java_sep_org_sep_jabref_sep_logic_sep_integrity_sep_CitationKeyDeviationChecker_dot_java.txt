@@ -1,12 +1,16 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep citat key deviat checker dot java 
+citat key deviat checker 
 bib databas context 
 citat key pattern prefer 
 
+bib databas context 
+citat key pattern prefer 
 
 bib databas context 
 citat key pattern prefer 
 entri 
 
+bib databas context 
+citat key pattern prefer 
 
 citat key deviat checker 
 check 

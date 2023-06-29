@@ -1,0 +1,14 @@
+save configur 
+citat key pattern prefer 
+bib entri type manag 
+save configur 
+bib databas context 
+save configur 
+save configur 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas mode 
+bibtex string 
+bibtex string 
+bib databas context 

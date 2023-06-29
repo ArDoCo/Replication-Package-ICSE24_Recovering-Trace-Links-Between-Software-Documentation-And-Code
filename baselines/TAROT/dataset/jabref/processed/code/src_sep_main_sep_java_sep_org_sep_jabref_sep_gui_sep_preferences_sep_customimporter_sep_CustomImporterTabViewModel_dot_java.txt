@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customimport sep custom import tab view model dot java 
+custom import tab view model 
 logger 
 import 
 import 
@@ -7,12 +7,16 @@ select import
 prefer 
 dialog servic 
 
+import view model 
+import view model 
+dialog servic 
 
 prefer 
 dialog servic 
 base path 
 path 
 
+dialog servic 
 
 custom import tab view model 
 set valu 

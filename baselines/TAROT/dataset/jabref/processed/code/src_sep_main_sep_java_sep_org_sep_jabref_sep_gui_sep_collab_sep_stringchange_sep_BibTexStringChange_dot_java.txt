@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep stringchang sep bib tex string chang dot java 
+bib tex string chang 
 logger 
 string 
 string 
 
+bibtex string 
+bibtex string 
 
 string 
 string 
@@ -10,6 +12,10 @@ databas context
 databas chang resolv factori 
 undo edit 
 
+bibtex string 
+bibtex string 
+bib databas context 
+compound 
 
 bib tex string chang 
 appli chang 

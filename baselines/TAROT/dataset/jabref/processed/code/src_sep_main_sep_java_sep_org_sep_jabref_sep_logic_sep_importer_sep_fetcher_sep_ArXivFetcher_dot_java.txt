@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep ar xiv fetcher dot java 
+ar xiv fetcher 
 logger 
 doi prefix 
 chosen automat doi field 
@@ -34,6 +34,10 @@ journal refer text
 primari categori 
 primari categori 
 
+field 
+field 
+import format prefer 
+import format prefer 
 
 import format prefer 
 import format prefer 
@@ -84,6 +88,25 @@ item
  
 keyword delimit 
 
+import format prefer 
+import format prefer 
+bib entri 
+bib entri 
+bib entri 
+ar xiv identifi 
+bib entri 
+bib entri 
+field 
+bib entri 
+ar xiv identifi 
+bib entri 
+import format prefer 
+bib entri 
+bib entri 
+ar xiv identifi 
+ar xiv identifi 
+bib entri 
+bib entri 
 
 ar xiv fetcher 
 ar xiv fetcher 

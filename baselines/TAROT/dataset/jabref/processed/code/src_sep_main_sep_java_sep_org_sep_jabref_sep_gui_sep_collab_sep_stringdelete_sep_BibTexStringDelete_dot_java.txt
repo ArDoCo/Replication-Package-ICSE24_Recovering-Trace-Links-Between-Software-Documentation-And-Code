@@ -1,13 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep stringdelet sep bib tex string delet dot java 
+bib tex string delet 
 logger 
 delet string 
 
+bibtex string 
 
 delet string 
 databas context 
 databas chang resolv factori 
 undo edit 
 
+bibtex string 
+bib databas context 
+compound 
 
 bib tex string delet 
 appli chang 

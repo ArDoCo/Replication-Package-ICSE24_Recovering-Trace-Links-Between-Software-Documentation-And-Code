@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep import sep util sep file field parser dot java 
+file field parser 

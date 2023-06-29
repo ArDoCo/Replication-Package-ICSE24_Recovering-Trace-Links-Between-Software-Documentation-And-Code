@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep autosaveandbackup sep backup manag dot java 
+backup manag 
 logger 
 maximum backup file count 
 delay backup attempt 
@@ -13,6 +13,7 @@ backup file queue
 backup file queue 
 backup 
 
+backup manag 
 
 bib databas context 
 entri type manag 

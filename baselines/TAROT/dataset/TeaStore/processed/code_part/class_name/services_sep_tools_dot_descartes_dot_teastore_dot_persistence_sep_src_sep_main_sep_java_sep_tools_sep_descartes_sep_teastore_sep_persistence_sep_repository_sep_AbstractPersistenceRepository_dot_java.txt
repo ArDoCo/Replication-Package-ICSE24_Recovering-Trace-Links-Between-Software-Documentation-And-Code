@@ -1,1 +1,1 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep repositori sep abstract persist repositori dot java 
+abstract persist repositori 

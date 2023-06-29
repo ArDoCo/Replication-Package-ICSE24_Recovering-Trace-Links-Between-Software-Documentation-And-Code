@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep util sep config dot java 
+config 
 app id 
 app region 
 app version 
@@ -35,6 +35,7 @@ taskqueu activ
 dev server 
 log 
 
+logger 
 
 properti 
 dev properti 

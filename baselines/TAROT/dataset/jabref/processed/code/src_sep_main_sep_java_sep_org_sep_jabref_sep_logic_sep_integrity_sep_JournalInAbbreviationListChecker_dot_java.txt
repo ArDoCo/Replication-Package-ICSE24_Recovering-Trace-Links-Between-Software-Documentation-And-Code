@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep journal abbrevi list checker dot java 
+journal abbrevi list checker 
 field 
 abbrevi repositori 
 

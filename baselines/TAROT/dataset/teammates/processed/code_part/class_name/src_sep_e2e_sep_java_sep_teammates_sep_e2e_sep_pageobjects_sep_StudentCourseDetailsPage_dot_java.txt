@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep pageobject sep student cours detail page dot java 
+student cours detail page 

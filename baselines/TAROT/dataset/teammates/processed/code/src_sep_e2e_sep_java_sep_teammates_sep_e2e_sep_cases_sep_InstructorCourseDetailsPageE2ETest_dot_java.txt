@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep case sep instructor cours detail page test dot java 
+instructor cours detail page test 
 student 
 cours 
 file 
@@ -9,6 +9,7 @@ cours
 instructor 
 student 
 
+instructor cours detail page 
 
 prepar test data 
 class setup 

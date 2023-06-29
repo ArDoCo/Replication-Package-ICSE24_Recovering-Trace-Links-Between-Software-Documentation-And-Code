@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep citationkeypattern sep citat key pattern tab view model dot java 
+citat key pattern tab view model 
 overwrit properti 
 overwrit warn properti 
 generat save properti 
@@ -14,9 +14,13 @@ default key pattern properti
 default key pattern properti 
 key pattern prefer 
 
+citat key pattern panel item model 
+citat key pattern panel item model 
+citat key pattern prefer 
 
 key pattern prefer 
 
+citat key pattern prefer 
 
 citat key pattern tab view model 
 set valu 

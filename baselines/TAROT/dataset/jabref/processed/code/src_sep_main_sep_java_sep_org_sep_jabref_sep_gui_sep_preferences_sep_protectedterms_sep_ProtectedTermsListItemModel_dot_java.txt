@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep protectedterm sep protect term list item model dot java 
+protect term list item model 
 term list 
 enabl properti 
 
+protect term list 
 
 term list 
 
+protect term list 
 
 protect term list item model 
 term list 

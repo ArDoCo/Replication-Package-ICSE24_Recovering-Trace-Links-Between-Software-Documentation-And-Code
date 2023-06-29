@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep open document spreadsheet creator dot java 
+open document spreadsheet creator 
 logger 
 
 
@@ -19,6 +19,10 @@ resourc
 resourc 
 
 
+bib entri 
+bib databas context 
+bib entri 
+bib entri 
 
 open document spreadsheet creator 
 store open document spreadsheet file 

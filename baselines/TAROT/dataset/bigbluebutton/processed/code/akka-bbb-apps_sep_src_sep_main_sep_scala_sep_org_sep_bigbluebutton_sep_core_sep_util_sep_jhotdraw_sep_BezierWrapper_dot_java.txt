@@ -1,4 +1,4 @@
-akka bbb app sep src sep main sep scala sep org sep bigbluebutton sep core sep util sep jhotdraw sep bezier wrapper dot java 
+bezier wrapper 
 
 
 point 

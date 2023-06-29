@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep open databas dot java 
+open databas 
 
 
 file open 
@@ -7,6 +7,9 @@ file monitor
 parser result 
 keyword delimit 
 
+import format prefer 
+file updat monitor 
+parser result 
 
 open databas 
 load databas 

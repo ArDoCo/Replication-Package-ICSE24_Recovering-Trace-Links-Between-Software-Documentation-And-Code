@@ -1,1 +1,1 @@
-src sep sep java sep teammat sep sep pageobject sep browser dot java 
+browser 

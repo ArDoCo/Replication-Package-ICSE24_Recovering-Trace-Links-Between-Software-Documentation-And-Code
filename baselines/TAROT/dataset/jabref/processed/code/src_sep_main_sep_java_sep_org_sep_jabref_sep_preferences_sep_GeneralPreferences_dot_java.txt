@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep general prefer dot java 
+general prefer 
 languag 
 languag 
 default bib databas mode 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep msbib sep ms bib entri dot java 
+ms bib entri 
 field 
 field 
 author 
@@ -50,6 +50,21 @@ journal
 bibtex entri type 
 address pattern 
 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
+bib author 
 
 entri 
 
@@ -73,6 +88,7 @@ document
 parent 
 address split 
 
+bib author 
 
 ms bib entri 
 ms bib entri 

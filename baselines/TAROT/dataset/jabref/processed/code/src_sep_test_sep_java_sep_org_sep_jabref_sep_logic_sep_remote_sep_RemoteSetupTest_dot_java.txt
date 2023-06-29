@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep remot sep remot setup test dot java 
+remot setup test 
 messag handler 
 
 

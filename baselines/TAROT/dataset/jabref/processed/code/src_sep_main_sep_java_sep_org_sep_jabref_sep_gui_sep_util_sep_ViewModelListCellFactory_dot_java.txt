@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep view model list cell factori dot java 
+view model list cell factori 
 invalid pseudo class 
 text 
 text 

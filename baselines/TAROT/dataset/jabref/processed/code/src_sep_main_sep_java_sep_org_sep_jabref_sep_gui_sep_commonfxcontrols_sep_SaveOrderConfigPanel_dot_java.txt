@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep save order config panel dot java 
+save order config panel 
 export specifi order 
 export tabl order 
 export origin order 
@@ -6,6 +6,7 @@ sort criterion list
 add button 
 view model 
 
+save order config panel view model 
 
 criterion view model 
 row 
@@ -16,6 +17,11 @@ criterion view model
 criterion view model 
 criterion view model 
 
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
+sort criterion view model 
 
 save order config panel 
 initi 

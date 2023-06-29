@@ -1,12 +1,16 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep categori repositori dot java 
+categori repositori 
 repositori 
 
+categori repositori 
 
 entiti 
 id 
 entiti 
  
 
+categori 
+categori 
+persist categori 
 
 categori repositori 
 creat entiti 

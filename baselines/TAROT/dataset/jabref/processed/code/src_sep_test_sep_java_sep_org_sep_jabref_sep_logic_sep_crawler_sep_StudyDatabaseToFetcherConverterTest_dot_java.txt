@@ -1,10 +1,13 @@
-src sep test sep java sep org sep jabref sep logic sep crawler sep studi databas fetcher convert test dot java 
+studi databas fetcher convert test 
 save configur 
 prefer servic 
 entri type manag 
 git handler 
 temp repositori directori 
 
+save configur 
+bib entri type manag 
+slr git handler 
 
 destin 
 

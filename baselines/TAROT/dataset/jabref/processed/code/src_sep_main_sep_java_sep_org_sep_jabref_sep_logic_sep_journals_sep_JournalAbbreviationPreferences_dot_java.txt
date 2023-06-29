@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep journal sep journal abbrevi prefer dot java 
+journal abbrevi prefer 
 extern journal list 
 extern journal list 
 journal field 

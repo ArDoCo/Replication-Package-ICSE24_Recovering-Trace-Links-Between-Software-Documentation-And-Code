@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep xmp sep xmp privaci tab dot java 
+xmp privaci tab 
 enabl xmp filter 
 filter list 
 filter list 
@@ -11,6 +11,10 @@ add field
 add field 
 valid visual 
 
+field 
+field 
+field 
+field 
 
 
 

@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep storag sep api sep account db dot java 
+account db 
 instanc 
 
+account db 
 
 googl id 
 email 
@@ -10,6 +11,7 @@ googl id
 entiti creat 
 entiti 
 
+account 
 
 account db 
 inst 

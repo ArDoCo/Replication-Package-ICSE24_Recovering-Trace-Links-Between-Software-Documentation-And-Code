@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep student cours detail page dot java 
+student cours detail page 
 cours field 
 cours id field 
 cours institut field 
@@ -15,6 +15,7 @@ instructor detail
 student detail 
 teammat 
 
+browser 
 
 student cours detail page 
 expect page content 

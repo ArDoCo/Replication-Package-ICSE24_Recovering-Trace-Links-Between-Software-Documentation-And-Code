@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep account data dot java 
+account data 
 googl id 
 
 email 
@@ -8,6 +8,7 @@ read notif
 
 account info 
 
+account attribut 
 
 account data 
 email 

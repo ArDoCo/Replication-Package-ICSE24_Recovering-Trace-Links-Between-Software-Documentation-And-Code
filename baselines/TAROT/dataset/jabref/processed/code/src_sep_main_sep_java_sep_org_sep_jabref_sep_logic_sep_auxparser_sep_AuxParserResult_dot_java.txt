@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep auxpars sep aux parser result dot java 
+aux parser result 
 master databas 
 uniqu key 
 uniqu key 
@@ -13,6 +13,7 @@ insert string
 master databas 
 string 
 
+bibtex string 
 
 aux parser result 
 generat bib databas 

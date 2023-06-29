@@ -1,10 +1,13 @@
-src sep main sep java sep org sep jabref sep logic sep export sep save dot java 
+save 
 file lock 
 backup creation 
 entri 
 status 
 local messag 
 
+save 
+save 
+bib entri 
 
 messag 
 messag 
@@ -23,6 +26,9 @@ base
 base 
 entri 
 
+bib entri 
+bib entri 
+bib entri 
 
 save 
 save 

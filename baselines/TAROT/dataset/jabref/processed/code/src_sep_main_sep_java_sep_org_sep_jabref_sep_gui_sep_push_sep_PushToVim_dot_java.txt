@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push vim dot java 
+push vim 
 
 logger 
 
@@ -11,6 +11,11 @@ databas
 entri 
 key 
 
+dialog servic 
+push applic 
+push applic prefer 
+bib databas context 
+bib entri 
 
 push vim 
 display 

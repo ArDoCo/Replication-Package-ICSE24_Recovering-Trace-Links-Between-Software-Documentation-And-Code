@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep word keyword group dot java 
+word keyword group 
 keyword separ 
 search strategi 
 onli split word separ 

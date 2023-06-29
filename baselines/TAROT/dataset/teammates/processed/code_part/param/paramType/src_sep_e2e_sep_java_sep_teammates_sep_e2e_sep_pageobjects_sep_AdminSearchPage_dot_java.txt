@@ -1,0 +1,25 @@
+browser 
+student attribut 
+instructor attribut 
+student attribut 
+student attribut 
+student attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+account request attribut 
+account request attribut 
+account request attribut 
+student attribut 
+cours attribut 
+student attribut 
+instructor attribut 
+cours attribut 
+instructor attribut 
+account request attribut 
+account request attribut 
+student attribut 
+instructor attribut 
+account request attribut 
+student attribut 
+instructor attribut 

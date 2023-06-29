@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep citat key pattern panel view model dot java 
+citat key pattern panel view model 
 entri type default 
 default top compar 
 default top compar 
@@ -8,12 +8,14 @@ default item properti
 default item properti 
 key pattern prefer 
 
+citat key pattern prefer 
 
 key pattern prefer 
 entri type list 
 initi key pattern 
 item 
 
+citat key pattern prefer 
 
 citat key pattern panel view model 
 set valu 

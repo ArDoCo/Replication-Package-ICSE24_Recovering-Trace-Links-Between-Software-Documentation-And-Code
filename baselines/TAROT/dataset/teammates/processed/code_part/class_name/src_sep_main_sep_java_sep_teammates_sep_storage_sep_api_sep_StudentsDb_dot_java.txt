@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep storag sep api sep student db dot java 
+student db 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep linkedfil sep link file edit dialog view dot java 
+link file edit dialog view 
 link 
 descript 
 file type 
@@ -9,10 +9,14 @@ prefer
 view model 
 link file 
 
+dialog servic 
+link file edit dialog view model 
+link file 
 
 link file 
 event 
 
+link file 
 
 link file edit dialog view 
 initi 

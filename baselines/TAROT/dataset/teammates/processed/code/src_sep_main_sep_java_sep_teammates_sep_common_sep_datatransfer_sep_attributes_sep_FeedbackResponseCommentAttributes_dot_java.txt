@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep feedback respons comment attribut dot java 
+feedback respons comment attribut 
 feedback respons comment id 
 cours id 
 feedback session 
@@ -39,6 +39,10 @@ receiv section option
 updat option 
 builder 
 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback respons comment attribut 
 
 comment 
 viewer type 
@@ -79,6 +83,13 @@ show giver
 giver section 
 receiv section 
 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 feedback respons comment attribut 
 valu 

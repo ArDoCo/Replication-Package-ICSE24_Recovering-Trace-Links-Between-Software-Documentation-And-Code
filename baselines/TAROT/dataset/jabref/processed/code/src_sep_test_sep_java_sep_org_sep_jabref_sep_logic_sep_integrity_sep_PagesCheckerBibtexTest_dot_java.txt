@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep page checker bibtex test dot java 
+page checker bibtex test 
 checker 
 
+page checker 
 
 sourc 
 sourc 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep open extern file action dot java 
+open extern file action 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep edit merg dot java 
+edit merg 
 logger 
 group 
 group 
@@ -10,6 +10,9 @@ cursor
 prev 
 prev rang 
 
+citat group 
+citat group 
+citat group 
 
 doc 
 frontend 
@@ -25,6 +28,12 @@ current rang
 doc 
 frontend 
 
+oo frontend 
+oo bib style 
+citat group 
+citat group 
+citat group 
+oo frontend 
 
 edit merg 
 merg citat group 

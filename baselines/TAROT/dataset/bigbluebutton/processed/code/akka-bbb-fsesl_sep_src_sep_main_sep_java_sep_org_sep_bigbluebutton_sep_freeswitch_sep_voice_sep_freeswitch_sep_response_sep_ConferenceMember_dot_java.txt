@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep respons sep confer member dot java 
+confer member 
 member id 
 flag 
 uuid 
@@ -10,6 +10,7 @@ member type
 record path 
 record start time 
 
+confer member flag 
 
 flag 
 pars int 
@@ -22,6 +23,7 @@ member type
 path 
 record start time 
 
+confer member flag 
 
 id 
 flag 

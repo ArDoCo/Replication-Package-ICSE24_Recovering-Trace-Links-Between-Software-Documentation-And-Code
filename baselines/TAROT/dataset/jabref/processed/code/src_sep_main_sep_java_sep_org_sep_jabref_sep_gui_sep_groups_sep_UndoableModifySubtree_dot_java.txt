@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep undoabl modifi subtre dot java 
+undoabl modifi subtre 
 group root 
 subtre backup 
 subtre root path 
@@ -7,11 +7,16 @@ modifi subtre
 modifi subtre 
 
 
+group tree node 
+group tree node 
+group tree node 
 
 group root 
 subtre 
 
 
+group tree node view model 
+group tree node view model 
 
 undoabl modifi subtre 
 present 

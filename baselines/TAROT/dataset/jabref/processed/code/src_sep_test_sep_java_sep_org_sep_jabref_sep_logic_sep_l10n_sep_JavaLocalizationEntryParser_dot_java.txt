@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep sep java local entri parser dot java 
+java local entri parser 
 infinit whitespac 
 dot 
 local start pattern 
@@ -14,6 +14,8 @@ param
 content 
 type 
 
+local bundl test 
+local bundl test 
 
 languag key string 
 content quot 

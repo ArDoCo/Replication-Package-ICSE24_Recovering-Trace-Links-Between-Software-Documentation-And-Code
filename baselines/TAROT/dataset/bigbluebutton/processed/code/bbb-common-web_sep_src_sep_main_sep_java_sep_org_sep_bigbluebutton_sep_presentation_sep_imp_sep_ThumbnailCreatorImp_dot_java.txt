@@ -1,10 +1,11 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep thumbnail creator imp dot java 
+thumbnail creator imp 
 log 
 page number pattern 
 temp thumb 
 imagemagick dir 
 blank thumbnail 
 
+pattern 
 
 pres 
 page 

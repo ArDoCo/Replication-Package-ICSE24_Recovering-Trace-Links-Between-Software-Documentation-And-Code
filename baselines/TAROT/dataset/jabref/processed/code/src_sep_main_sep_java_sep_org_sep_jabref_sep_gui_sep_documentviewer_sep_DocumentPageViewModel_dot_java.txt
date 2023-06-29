@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep document page view model dot java 
+document page view model 
 
 
 width 

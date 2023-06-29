@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep pdf sep search sep retriev sep pdf searcher dot java 
+pdf searcher 
 logger 
 index directori 
 
@@ -8,6 +8,7 @@ databas context
 search string 
 max hit 
 
+bib databas context 
 
 pdf searcher 
 

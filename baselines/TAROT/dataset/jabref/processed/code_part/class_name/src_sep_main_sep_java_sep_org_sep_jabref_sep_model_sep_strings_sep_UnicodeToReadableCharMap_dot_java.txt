@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep model sep string sep unicod readabl char map dot java 
+unicod readabl char map 

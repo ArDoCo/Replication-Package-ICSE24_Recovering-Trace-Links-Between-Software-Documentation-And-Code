@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep openoffic sep style sep oo bib style test dot java 
+oo bib style test 
 layout formatt prefer 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep compar sep meta data diff dot java 
+meta data diff 
 group diff 
 group diff 
 origin meta data 

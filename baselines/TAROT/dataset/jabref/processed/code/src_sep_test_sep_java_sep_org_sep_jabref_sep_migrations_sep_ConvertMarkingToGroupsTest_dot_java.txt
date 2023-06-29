@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep migrat sep convert mark group test dot java 
+convert mark group test 
 
 
 

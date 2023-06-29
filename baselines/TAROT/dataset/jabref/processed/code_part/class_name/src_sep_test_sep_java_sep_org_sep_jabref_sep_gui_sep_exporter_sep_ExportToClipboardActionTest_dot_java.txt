@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep export sep export clipboard action test dot java 
+export clipboard action test 

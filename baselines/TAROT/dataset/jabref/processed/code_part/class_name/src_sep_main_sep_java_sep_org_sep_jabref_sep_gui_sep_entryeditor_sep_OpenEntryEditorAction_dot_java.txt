@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep open entri editor action dot java 
+open entri editor action 

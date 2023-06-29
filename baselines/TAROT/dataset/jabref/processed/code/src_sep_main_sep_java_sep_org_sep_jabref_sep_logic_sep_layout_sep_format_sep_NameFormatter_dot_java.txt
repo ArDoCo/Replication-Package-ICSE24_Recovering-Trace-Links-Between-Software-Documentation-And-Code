@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep format sep formatt dot java 
+formatt 
 default format 
 paramet 
 
@@ -12,6 +12,7 @@ field text
 paramet 
 pref 
 
+formatt prefer 
 
 format 
 format 

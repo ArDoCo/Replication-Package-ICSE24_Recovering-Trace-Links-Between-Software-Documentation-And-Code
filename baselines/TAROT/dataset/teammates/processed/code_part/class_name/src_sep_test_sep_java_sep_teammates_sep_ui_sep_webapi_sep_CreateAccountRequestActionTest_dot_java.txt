@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep ui sep webapi sep creat account request action test dot java 
+creat account request action test 

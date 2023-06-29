@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep type sep biblatex softwar entri type definit dot java 
+biblatex softwar entri type definit 
 softwar 
 softwarevers 
 softwaremodul 
@@ -6,6 +6,11 @@ codefrag
 
 
 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
 
 
 

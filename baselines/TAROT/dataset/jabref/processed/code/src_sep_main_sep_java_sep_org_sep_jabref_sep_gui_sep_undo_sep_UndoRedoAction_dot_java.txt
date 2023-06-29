@@ -1,15 +1,19 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undo redo action dot java 
+undo redo action 
 logger 
 action 
 frame 
 dialog servic 
 
+standard action 
+dialog servic 
 
 action 
 frame 
 dialog servic 
 state manag 
 
+standard action 
+dialog servic 
 
 undo redo action 
 execut 

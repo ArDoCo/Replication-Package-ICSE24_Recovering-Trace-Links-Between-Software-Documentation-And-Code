@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep simpl editor view model dot java 
+simpl editor view model 
 
 
 field 
 suggest provid 
 field checker 
 
+field 
 
 simpl editor view model 
 auto complet strategi 

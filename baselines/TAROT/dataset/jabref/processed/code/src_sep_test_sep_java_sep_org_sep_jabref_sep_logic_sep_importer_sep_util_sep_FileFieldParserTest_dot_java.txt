@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep util sep file field parser test dot java 
+file field parser test 
 
 
 expect 
@@ -6,6 +6,8 @@ input
 expect 
 input 
 
+link file 
+link file 
 
 test data 
 check 

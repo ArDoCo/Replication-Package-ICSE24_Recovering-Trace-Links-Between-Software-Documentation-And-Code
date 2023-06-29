@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep bibtex databas writer test dot java 
+bibtex databas writer test 
 databas writer 
 databas 
 meta data 
@@ -12,6 +12,8 @@ entri type manag
 string writer 
 bib writer 
 
+file updat monitor 
+citat key pattern prefer 
 
 bib folder 
 bib folder 

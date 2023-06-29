@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep citat entri view model dot java 
+citat entri view model 
 citat 
 extra inform 
 ref mark 

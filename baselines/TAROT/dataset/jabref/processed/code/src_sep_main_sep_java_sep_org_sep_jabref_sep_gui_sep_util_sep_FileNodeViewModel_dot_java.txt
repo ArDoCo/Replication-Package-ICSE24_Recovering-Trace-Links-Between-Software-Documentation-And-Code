@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep util sep file node view model dot java 
+file node view model 
 logger 
 path 
 children 
 children 
 file count 
 
+file node view model 
 
 path 
 file count 

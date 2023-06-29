@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep ar xiv queri transform dot java 
+ar xiv queri transform 

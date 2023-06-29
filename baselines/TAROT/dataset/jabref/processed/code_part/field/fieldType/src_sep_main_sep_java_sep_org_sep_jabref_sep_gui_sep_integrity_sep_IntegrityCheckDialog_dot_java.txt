@@ -1,0 +1,2 @@
+theme manag 
+integr check dialog view model 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep export sep export clipboard action test dot java 
+export clipboard action test 
 export clipboard action 
 dialog servic 
 clip board manag 
@@ -11,6 +11,8 @@ task executor
 select entri 
 select entri 
 
+export clipboard action 
+export factori 
 
 databas context 
 file 

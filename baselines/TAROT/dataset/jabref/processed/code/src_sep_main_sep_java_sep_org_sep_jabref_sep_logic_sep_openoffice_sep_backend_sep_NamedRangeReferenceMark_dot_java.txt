@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep backend sep rang refer mark dot java 
+rang refer mark 
 width space 
 refer mark invis bracket 
 refer mark left bracket 

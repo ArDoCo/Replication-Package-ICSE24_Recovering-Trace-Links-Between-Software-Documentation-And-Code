@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep png creator imp dot java 
+png creator imp 
 log 
 page number pattern 
 blank png 
@@ -7,6 +7,7 @@ conv timeout
 wait sec 
 temp png 
 
+pattern 
 
 pres 
 page 
@@ -25,6 +26,8 @@ directori
 blank png 
 width 
 
+upload present 
+upload present 
 
 creat png 
 generat png 

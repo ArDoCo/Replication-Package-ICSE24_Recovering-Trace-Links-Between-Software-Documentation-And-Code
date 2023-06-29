@@ -1,9 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep show document viewer action dot java 
+show document viewer action 
 
 
 state manag 
 prefer 
 
+state manag 
+prefer servic 
 
 show document viewer action 
 execut 

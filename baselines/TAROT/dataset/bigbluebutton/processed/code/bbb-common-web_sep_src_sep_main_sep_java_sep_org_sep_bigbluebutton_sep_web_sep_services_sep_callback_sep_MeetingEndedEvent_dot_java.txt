@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep callback sep meet event dot java 
+meet event 
 callback url 
 meetingid 
 ext meetingid 

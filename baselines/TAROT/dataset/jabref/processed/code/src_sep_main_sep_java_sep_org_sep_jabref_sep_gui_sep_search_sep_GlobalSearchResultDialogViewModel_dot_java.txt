@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep search sep global search result dialog view model dot java 
+global search result dialog view model 
 search databas context 
 top 
 
+bib databas context 
 
 prefer servic 
 
+prefer servic 
 
 global search result dialog view model 
 search databas context 

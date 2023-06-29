@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep prefer filter dot java 
+prefer filter 
 prefer 
 key 
 valu 

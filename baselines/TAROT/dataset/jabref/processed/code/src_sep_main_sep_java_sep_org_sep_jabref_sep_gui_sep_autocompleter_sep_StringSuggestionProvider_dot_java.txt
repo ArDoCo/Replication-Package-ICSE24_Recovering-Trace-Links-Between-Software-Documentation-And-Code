@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep string suggest provid dot java 
+string suggest provid 
 
 
 candid 

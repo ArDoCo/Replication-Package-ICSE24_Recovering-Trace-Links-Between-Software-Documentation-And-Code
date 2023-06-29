@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep connect manag dot java 
+connect manag 
 log 
 event 
 conn exec 
@@ -10,6 +10,7 @@ confer event listen
 esl event listen 
 status check 
 
+manag connect 
 
 conn manag 
 event listen 
@@ -31,6 +32,12 @@ mpc
 mpc 
 rcc 
 
+manag connect 
+check conf run command 
+mute user command 
+play sound command 
+eject user command 
+eject user command 
 
 connect manag 
 connect 

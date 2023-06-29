@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep theme sep theme manag test dot java 
+theme manag test 
 test css data 
 test css content 
 temp folder 

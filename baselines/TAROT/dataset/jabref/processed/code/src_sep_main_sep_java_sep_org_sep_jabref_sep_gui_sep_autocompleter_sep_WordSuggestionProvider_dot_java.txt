@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep word suggest provid dot java 
+word suggest provid 
 field 
 databas 
 

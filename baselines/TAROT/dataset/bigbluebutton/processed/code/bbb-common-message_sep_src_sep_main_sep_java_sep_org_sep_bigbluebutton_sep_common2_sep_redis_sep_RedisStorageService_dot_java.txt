@@ -1,4 +1,4 @@
-bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep redi storag servic dot java 
+redi storag servic 
 log 
 connect 
 connect 

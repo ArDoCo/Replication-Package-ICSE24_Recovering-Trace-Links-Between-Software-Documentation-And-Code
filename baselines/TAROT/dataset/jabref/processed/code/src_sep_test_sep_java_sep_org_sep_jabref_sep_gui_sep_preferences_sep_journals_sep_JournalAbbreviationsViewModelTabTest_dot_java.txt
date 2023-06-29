@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep prefer sep journal sep journal abbrevi view model tab test dot java 
+journal abbrevi view model tab test 
 abbrevi 
 abbrevi short uniqu 
 abbrevi 
@@ -18,6 +18,8 @@ repositori
 dialog servic 
 show shortest uniqu abbrevi 
 
+journal abbrevi tab view model 
+dialog servic 
 
 
 abbrevi 

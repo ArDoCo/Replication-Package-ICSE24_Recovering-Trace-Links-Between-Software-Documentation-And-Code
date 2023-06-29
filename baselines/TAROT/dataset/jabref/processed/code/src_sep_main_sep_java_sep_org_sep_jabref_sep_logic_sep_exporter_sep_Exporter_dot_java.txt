@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep logic sep export sep export dot java 
+export 
 id 
 display 
 file type 
 
+file type 
 
 id 
 display 
@@ -23,6 +24,18 @@ data base
 file prefer 
 file path 
 
+file type 
+bib databas context 
+bib entri 
+bib databas context 
+bib entri 
+bib databas context 
+file prefer 
+bib entri 
+bib entri 
+bib databas context 
+bib databas 
+file prefer 
 
 export 
 id 

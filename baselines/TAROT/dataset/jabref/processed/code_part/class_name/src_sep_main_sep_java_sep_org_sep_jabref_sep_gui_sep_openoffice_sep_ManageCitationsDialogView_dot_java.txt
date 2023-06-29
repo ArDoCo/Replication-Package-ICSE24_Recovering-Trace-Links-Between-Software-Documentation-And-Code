@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep manag citat dialog view dot java 
+manag citat dialog view 

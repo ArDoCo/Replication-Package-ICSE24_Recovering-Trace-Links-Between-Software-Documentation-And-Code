@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep protectedterm sep protect term loader dot java 
+protect term loader 
 intern list 
 intern list 
 logger 
 main list 
 main list 
 
+protect term list 
 
 prefer 
 prefer 
@@ -23,6 +24,10 @@ enabl
 descript 
 locat 
 
+protect term prefer 
+protect term prefer 
+protect term list 
+protect term list 
 
 protect term loader 
 intern list 

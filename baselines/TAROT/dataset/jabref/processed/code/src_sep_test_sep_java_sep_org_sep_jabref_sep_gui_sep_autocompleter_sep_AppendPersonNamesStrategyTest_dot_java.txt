@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep autocomplet sep append person strategi test dot java 
+append person strategi test 
 
 
 separ space 

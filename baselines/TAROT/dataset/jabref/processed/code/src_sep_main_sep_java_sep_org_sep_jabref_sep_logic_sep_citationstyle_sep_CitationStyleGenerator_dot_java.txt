@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep logic sep citationstyl sep citat style generat dot java 
+citat style generat 
 logger 
 csl adapt 
 
+csl adapt 
 
 entri 
 style 
@@ -20,6 +21,19 @@ output format
 databas context 
 entri type manag 
 
+bib entri 
+citat style 
+bib entri type manag 
+bib entri 
+bib entri type manag 
+bib entri 
+citat style output format 
+bib databas context 
+bib entri type manag 
+bib entri 
+citat style output format 
+bib databas context 
+bib entri type manag 
 
 citat style generat 
 generat citat 

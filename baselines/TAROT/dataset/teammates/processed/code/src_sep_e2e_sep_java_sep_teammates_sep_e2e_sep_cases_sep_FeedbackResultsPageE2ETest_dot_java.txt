@@ -1,10 +1,12 @@
-src sep sep java sep teammat sep sep case sep feedback result page test dot java 
+feedback result page test 
 result page 
 cours 
 open session 
 question 
 question 
 
+feedback result page 
+feedback question attribut 
 
 current student 
 preview 
@@ -53,6 +55,20 @@ student email
 instructor email 
 respons 
 
+feedback question attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback particip type 
+feedback particip type 
 
 prepar test data 
 test 

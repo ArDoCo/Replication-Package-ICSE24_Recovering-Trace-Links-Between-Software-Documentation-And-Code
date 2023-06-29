@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep field formatt cleanup panel view model dot java 
+field formatt cleanup panel view model 
 cleanup disabl properti 
 cleanup list properti 
 cleanup list properti 
@@ -13,9 +13,13 @@ avail formatt properti
 select formatt properti 
 select formatt properti 
 
+field formatt cleanup 
+field 
+field 
 
 cleanup 
 
+field formatt cleanup 
 
 field formatt cleanup panel view model 
 reset recommend 

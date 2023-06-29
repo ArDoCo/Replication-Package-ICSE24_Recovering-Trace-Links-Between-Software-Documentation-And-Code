@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep dbms processor dot java 
+dbms processor 
 processor id 
 logger 
 connect 
@@ -26,6 +26,18 @@ data
 connect 
 dbms synchron 
 
+databas connect 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+databas connect 
 
 dbms processor 
 check base integr 

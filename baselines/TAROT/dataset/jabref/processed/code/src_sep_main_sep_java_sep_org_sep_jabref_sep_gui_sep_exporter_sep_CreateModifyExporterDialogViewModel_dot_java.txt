@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep export sep creat modifi export dialog view model dot java 
+creat modifi export dialog view model 
 logger 
 dialog servic 
 prefer 

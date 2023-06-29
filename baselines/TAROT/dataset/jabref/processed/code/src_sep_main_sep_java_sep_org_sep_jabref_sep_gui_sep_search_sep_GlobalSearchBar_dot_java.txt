@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep global search bar dot java 
+global search bar 
 logger 
 search delay 
 class result 
@@ -25,6 +25,10 @@ suggest list
 suggest list 
 
 
+prefer servic 
+search prefer 
+dialog servic 
+global search result dialog 
 
 frame 
 state manag 
@@ -43,6 +47,12 @@ search term
 control 
 suggest 
 
+jab ref frame 
+prefer servic 
+count undo manag 
+dialog servic 
+search queri 
+author 
 
 global search bar 
 updat search result queri 

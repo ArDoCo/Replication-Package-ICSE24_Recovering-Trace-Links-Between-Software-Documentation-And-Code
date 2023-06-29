@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep export sep open offic document creator dot java 
+open offic document creator 
 logger 
 
 
@@ -19,6 +19,7 @@ resourc
 resourc 
 
 
+bib databas context 
 
 open offic document creator 
 store open offic file 

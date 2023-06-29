@@ -1,11 +1,13 @@
-src sep main sep java sep org sep jabref sep model sep studi sep fetch result dot java 
+fetch result 
 fetcher 
 fetch result 
 
+bib databas 
 
 fetcher 
 fetcher result 
 
+bib databas 
 
 fetch result 
 fetcher 

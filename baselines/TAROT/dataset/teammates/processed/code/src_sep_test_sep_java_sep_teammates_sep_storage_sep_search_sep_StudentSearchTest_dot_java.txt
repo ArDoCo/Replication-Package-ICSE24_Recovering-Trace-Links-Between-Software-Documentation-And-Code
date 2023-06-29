@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep storag sep search sep student search test dot java 
+student search test 
 student db 
 
 

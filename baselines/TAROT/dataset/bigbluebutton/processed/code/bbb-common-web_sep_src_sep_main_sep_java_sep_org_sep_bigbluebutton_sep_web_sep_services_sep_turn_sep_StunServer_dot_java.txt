@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep web sep servic sep turn sep stun server dot java 
+stun server 
 url 
 
 

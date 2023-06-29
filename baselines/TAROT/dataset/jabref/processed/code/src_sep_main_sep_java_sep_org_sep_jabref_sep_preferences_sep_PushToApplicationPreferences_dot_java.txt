@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep push applic prefer dot java 
+push applic prefer 
 activ applic 
 command path 
 command path 

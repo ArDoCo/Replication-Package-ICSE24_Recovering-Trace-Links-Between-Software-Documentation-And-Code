@@ -1,10 +1,14 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep open folder action dot java 
+open folder action 
 dialog servic 
 state manag 
 prefer servic 
 entri 
 link file 
 
+dialog servic 
+prefer servic 
+bib entri 
+link file 
 
 dialog servic 
 state manag 
@@ -15,6 +19,12 @@ prefer servic
 entri 
 link file 
 
+dialog servic 
+prefer servic 
+dialog servic 
+prefer servic 
+bib entri 
+link file 
 
 open folder action 
 open folder action 

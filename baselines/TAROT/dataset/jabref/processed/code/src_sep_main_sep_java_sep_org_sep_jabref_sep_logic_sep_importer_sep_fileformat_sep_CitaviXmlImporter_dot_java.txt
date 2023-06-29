@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep citavi xml import dot java 
+citavi xml import 
 logger 
 uuid length 
 uuid semicolon offset index 
@@ -32,6 +32,7 @@ unmarshal
 citavi type 
 
 
+normal page formatt 
 
 reader 
 file path 

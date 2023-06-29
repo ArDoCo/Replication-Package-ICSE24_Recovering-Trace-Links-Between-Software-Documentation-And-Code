@@ -1,0 +1,20 @@
+jab ref prefer 
+general prefer 
+telemetri prefer 
+doi prefer 
+preview prefer 
+open offic prefer 
+side pane prefer 
+protect term prefer 
+entri editor prefer 
+search prefer 
+auto link prefer 
+formatt prefer 
+xmp prefer 
+auto complet prefer 
+cleanup prefer 
+push applic prefer 
+citat key pattern prefer 
+display prefer 
+main tabl prefer 
+journal abbrevi prefer 

@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep instructor cours student detail view page dot java 
+instructor cours student detail view page 
 specifi label 
 student 
 cours id 
@@ -15,6 +15,7 @@ student
 expect 
 detail field 
 
+browser 
 
 instructor cours student detail view page 
 expect page content 

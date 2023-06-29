@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep deadlin extens attribut dot java 
+deadlin extens attribut 
 cours id 
 feedback session 
 user email 
@@ -21,6 +21,7 @@ email option
 updat option 
 builder 
 
+deadlin extens attribut 
 
 cours id 
 feedback session 
@@ -58,6 +59,7 @@ updat option
 time 
 sent close email 
 
+deadlin extens 
 
 deadlin extens attribut 
 valu 

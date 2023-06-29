@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep frontend sep oo frontend dot java 
+oo frontend 
 backend 
 citat group 
 
+backend 
 
 doc 
 doc 
@@ -50,6 +51,15 @@ citat entri
 doc 
 fcursor 
 
+backend 
+function text view cursor 
+citat type 
+citat group 
+citat group 
+citat group 
+citat group 
+citat group 
+function text view cursor 
 
 oo frontend 
 data model 

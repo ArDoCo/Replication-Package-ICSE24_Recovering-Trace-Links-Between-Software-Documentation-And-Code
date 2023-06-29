@@ -1,9 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep cleanup worker test dot java 
+cleanup worker test 
 empti preset 
 worker 
 bib folder 
 pdf path 
 
+cleanup prefer 
+cleanup worker 
 
 bib folder 
 bib folder 

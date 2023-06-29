@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep oracl processor dot java 
+oracl processor 
 oracl connect 
 listen 
 databas chang registr 

@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep citavi xml import file test dot java 
+citavi xml import file test 

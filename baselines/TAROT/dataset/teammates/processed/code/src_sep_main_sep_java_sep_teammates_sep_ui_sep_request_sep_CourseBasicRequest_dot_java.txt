@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep cours basic request dot java 
+cours basic request 
 cours 
 time zone 
 

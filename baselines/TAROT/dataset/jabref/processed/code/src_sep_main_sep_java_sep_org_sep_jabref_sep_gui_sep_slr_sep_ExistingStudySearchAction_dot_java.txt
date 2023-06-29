@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep slr sep exist studi search action dot java 
+exist studi search action 
 logger 
 dialog servic 
 studi directori 
@@ -9,6 +9,7 @@ task executor
 frame 
 open databas action 
 
+file updat monitor 
 
 frame 
 open databas action 
@@ -27,6 +28,8 @@ state manag
 
 studi repositori root 
 
+file updat monitor 
+file updat monitor 
 
 exist studi search action 
 exist studi search action 

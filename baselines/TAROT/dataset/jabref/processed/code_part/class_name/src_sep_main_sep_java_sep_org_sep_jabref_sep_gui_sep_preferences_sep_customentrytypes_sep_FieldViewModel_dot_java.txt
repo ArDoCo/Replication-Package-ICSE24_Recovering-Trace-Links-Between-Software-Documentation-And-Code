@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep field view model dot java 
+field view model 

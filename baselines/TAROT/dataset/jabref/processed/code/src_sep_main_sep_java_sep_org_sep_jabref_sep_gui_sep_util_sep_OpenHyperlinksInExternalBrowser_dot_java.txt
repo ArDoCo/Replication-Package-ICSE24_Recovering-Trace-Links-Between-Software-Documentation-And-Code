@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep open hyperlink extern browser dot java 
+open hyperlink extern browser 
 logger 
 click event 
 anchor tag 

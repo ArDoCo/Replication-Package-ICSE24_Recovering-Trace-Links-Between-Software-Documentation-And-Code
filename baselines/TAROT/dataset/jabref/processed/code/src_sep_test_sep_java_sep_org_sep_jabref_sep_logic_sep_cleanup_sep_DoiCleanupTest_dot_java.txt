@@ -1,9 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep doi cleanup test dot java 
+doi cleanup test 
 
 
 expect 
 doi info field 
 
+bib entri 
+bib entri 
 
 test chang doi 
 provid doi 

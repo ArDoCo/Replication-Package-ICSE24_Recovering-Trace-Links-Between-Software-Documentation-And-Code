@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep journal sep abbrevi view model dot java 
+abbrevi view model 
 
 abbrevi 
 shortest uniqu abbrevi 
@@ -12,6 +12,7 @@ shortest uniqu abbrevi
  
 search term 
 
+abbrevi 
 
 abbrevi view model 
 abbrevi object 

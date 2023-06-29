@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep entiti sep record dot java 
+record 
 valu 
 id 
 record id 
@@ -17,6 +17,7 @@ metadata
 format 
 callback data 
 
+callback data 
 
 valu 
 id 
@@ -38,6 +39,7 @@ callback data
  
  
 
+callback data 
 
 state 
 valu 

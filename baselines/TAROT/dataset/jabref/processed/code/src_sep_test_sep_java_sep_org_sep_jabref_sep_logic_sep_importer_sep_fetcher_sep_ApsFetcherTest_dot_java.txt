@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep ap fetcher test dot java 
+ap fetcher test 
 finder 
 
+ap fetcher 
 
 
 

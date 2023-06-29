@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep citat key generat dot java 
+citat key generat 
 appendix charact 
 default unwant charact 
 logger 
@@ -9,6 +9,7 @@ databas
 citat key pattern prefer 
 unwant charact 
 
+citat key pattern prefer 
 
 bib databas context 
 citat key pattern prefer 
@@ -29,6 +30,8 @@ entri
 entri 
 entri 
 
+citat key pattern prefer 
+citat key pattern prefer 
 
 citat key generat 
 citat key generat 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep feedback question data dot java 
+feedback question data 
 feedback question id 
 question number 
 question 
@@ -16,11 +16,17 @@ show giver
 show recipi 
 show recipi 
 
+feedback question detail 
+feedback particip type 
+feedback particip type 
+number entiti give feedback set 
 
 feedback question attribut 
 feedback particip type list 
 question number 
 
+feedback question attribut 
+feedback particip type 
 
 feedback question data 
 convert feedback visibl type 

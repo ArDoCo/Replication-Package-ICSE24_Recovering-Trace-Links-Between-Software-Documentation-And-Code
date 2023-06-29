@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep updat timestamp listen test dot java 
+updat timestamp listen test 
 databas 
 bib entri 
 prefer mock 

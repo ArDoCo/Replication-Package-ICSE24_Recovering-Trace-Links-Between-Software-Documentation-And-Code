@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep pdf xmp import test dot java 
+pdf xmp import test 
 import 
 
+pdf xmp import 
 
 file 
 

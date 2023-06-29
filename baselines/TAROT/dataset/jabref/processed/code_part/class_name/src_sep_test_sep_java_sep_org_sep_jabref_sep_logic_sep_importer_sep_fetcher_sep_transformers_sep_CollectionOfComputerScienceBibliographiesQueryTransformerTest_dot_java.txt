@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep transform sep collect comput scienc bibliographi queri transform test dot java 
+collect comput scienc bibliographi queri transform test 

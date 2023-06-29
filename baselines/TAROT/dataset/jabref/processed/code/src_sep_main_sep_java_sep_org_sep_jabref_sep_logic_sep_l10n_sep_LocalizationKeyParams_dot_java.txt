@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep sep local key param dot java 
+local key param 
 key 
 param 
 param 

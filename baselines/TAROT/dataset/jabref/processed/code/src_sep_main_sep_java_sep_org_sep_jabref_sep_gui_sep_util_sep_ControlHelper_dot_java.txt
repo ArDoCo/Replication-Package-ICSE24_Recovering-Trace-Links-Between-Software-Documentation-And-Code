@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep control helper dot java 
+control helper 
 drag bottom 
 drag center 
 drag top 

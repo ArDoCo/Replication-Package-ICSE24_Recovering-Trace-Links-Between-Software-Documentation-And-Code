@@ -1,7 +1,9 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep html charact checker test dot java 
+html charact checker test 
 checker 
 entri 
 
+html charact checker 
+bib entri 
 
 
 

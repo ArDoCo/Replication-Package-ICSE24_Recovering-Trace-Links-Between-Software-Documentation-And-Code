@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep externalfiletyp sep extern file type test dot java 
+extern file type test 
 test list 
 test list 
 test stringlist 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep string sep rtf char map dot java 
+rtf char map 
 rtf map 
 rtf map 
 

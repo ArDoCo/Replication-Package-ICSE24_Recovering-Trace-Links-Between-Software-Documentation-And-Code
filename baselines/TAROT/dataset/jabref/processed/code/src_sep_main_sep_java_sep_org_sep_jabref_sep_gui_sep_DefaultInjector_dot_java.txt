@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep default injector dot java 
+default injector 
 logger 
 
 

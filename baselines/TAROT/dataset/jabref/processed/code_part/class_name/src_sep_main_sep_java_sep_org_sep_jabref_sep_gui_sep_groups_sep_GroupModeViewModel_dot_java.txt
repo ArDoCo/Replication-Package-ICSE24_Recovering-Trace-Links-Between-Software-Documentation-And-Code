@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group mode view model dot java 
+group mode view model 

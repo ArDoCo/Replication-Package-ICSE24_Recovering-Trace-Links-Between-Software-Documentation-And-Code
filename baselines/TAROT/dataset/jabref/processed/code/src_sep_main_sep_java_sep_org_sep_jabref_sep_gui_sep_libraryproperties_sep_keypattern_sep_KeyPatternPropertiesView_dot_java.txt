@@ -1,12 +1,15 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep keypattern sep key pattern properti view dot java 
+key pattern properti view 
 key pattern 
 bibtex key pattern tabl 
 prefer servic 
 bib entri type manag 
 
+prefer servic 
+bib entri type manag 
 
 databas context 
 
+bib databas context 
 
 key pattern properti view 
 tab 

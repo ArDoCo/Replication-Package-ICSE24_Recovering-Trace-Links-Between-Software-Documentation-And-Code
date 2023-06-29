@@ -1,10 +1,11 @@
-src sep main sep java sep org sep jabref sep logic sep prefer sep timestamp prefer dot java 
+timestamp prefer 
 add creation date 
 add modif date 
 updat timestamp 
 timestamp field 
 timestamp format 
 
+field 
 
 add creation date 
 modifi timestamp 
@@ -14,6 +15,7 @@ timestamp format
 add creation date 
 add modif date 
 
+field 
 
 timestamp prefer 
 

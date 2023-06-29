@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback question detail dot java 
+feedback question detail 
 question type 
 question text 
 
@@ -18,6 +18,10 @@ obj
 question type 
 question text 
 
+feedback question attribut 
+feedback question detail 
+feedback question attribut 
+feedback question attribut 
 
 feedback question detail 
 feedback question detail 

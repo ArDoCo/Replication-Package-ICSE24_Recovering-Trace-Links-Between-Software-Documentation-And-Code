@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag sep present upload token dot java 
+present upload token 
 pod id 
 authz token 
 filenam 

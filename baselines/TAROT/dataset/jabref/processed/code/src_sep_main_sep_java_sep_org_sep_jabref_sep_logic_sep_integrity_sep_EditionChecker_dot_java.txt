@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep edit checker dot java 
+edit checker 
 letter capit 
 letter capit 
 onli numer liter 
@@ -9,12 +9,14 @@ edit
 bib databas context edit 
 integ edit 
 
+bib databas context 
 
 bib databas context 
 integ edit 
 valu 
 input 
 
+bib databas context 
 
 edit checker 
 check valu 

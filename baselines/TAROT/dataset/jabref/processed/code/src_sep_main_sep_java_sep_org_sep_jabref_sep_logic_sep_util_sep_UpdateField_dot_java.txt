@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep updat field dot java 
+updat field 
 
 
 
@@ -29,6 +29,19 @@ bib
 owner prefer 
 timestamp prefer 
 
+bib entri 
+field 
+bib entri 
+field 
+bib entri 
+field 
+bib entri 
+owner prefer 
+bib entri 
+bib entri 
+owner prefer 
+bib entri 
+owner prefer 
 
 updat field 
 updat field 

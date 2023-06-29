@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep network sep custom certif view model dot java 
+custom certif view model 
 serial number properti 
 issuer properti 
 valid properti 
@@ -21,6 +21,7 @@ version
 path 
 ssl certif 
 
+ssl certif 
 
 custom certif view model 
 serial number properti 

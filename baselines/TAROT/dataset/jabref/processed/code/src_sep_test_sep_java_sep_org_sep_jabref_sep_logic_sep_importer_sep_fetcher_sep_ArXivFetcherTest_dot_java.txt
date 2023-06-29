@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep ar xiv fetcher test dot java 
+ar xiv fetcher test 
 import format prefer 
 fetcher 
 entri 
@@ -7,6 +7,13 @@ main origin paper
 main result paper 
 complet paper 
 
+import format prefer 
+ar xiv fetcher 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 
 

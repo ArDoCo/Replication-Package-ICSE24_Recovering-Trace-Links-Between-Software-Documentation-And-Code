@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep prefer dot java 
+prefer 
 overrid default font size 
 main font size 
 default font size 

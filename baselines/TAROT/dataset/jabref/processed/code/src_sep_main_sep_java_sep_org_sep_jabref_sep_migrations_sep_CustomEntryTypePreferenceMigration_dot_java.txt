@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep migrat sep custom entri type prefer migrat dot java 
+custom entri type prefer migrat 
 custom type 
 custom type req 
 custom type opt 
 custom type priopt 
 pref 
 
+jab ref prefer 
 
 default bib databas mode 
 number 
 
+bib databas mode 
 
 custom entri type prefer migrat 
 upgrad store bib entri type 

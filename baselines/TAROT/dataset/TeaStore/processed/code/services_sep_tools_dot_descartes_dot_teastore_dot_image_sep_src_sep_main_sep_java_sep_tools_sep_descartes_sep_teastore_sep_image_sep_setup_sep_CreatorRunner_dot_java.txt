@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep main sep java sep tool sep descart sep teastor sep imag sep setup sep creator runner dot java 
+creator runner 
 product id 
 img db 
 size 
@@ -8,6 +8,8 @@ categori imag
 nr imag generat 
 log 
 
+imag db 
+imag size 
 
 img db 
 size 
@@ -17,6 +19,8 @@ categori imag
 work dir 
 nr imag generat 
 
+imag db 
+imag size 
 
 creator runner 
 run 

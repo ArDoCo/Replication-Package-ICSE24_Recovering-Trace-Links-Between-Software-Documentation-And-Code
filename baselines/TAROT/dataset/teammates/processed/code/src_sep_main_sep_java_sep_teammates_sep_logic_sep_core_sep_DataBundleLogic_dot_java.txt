@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep data bundl logic dot java 
+data bundl logic 
 instanc 
 account db 
 account request db 
@@ -12,6 +12,16 @@ fr db
 fc db 
 nf db 
 
+data bundl logic 
+account db 
+account request db 
+cours db 
+deadlin extens db 
+instructor db 
+feedback question db 
+feedback respons db 
+feedback respons comment db 
+notif db 
 
 data bundl 
 valu 
@@ -43,6 +53,16 @@ question number
 data bundl 
 cours 
 
+instructor attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+feedback question attribut 
+feedback question attribut 
+feedback respons attribut 
+feedback respons comment attribut 
+instructor attribut 
+instructor attribut 
 
 data bundl logic 
 inst 

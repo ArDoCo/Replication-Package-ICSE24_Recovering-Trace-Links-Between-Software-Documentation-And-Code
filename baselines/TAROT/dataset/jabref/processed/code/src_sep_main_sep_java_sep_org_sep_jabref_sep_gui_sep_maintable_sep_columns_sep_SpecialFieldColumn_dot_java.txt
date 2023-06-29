@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep column sep special field column dot java 
+special field column 
 prefer servic 
 undo manag 
 
@@ -13,6 +13,7 @@ special field
 field valu 
 special field 
 
+main tabl column model 
 
 special field column 
 creat special rate 

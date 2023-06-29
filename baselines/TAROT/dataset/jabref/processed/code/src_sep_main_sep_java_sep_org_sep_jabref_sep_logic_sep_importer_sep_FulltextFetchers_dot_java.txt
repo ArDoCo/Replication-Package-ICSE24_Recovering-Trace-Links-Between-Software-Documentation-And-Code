@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fulltext fetcher dot java 
+fulltext fetcher 
 logger 
 fetcher timeout 
 finder 
@@ -6,6 +6,7 @@ finder
 pdf 
 pdf 
 
+fulltext fetcher 
 
 import format prefer 
 import prefer 
@@ -18,6 +19,14 @@ fetcher
 entri 
 fetcher 
 
+import format prefer 
+fulltext fetcher 
+bib entri 
+bib entri 
+bib entri 
+fulltext fetcher 
+bib entri 
+fulltext fetcher 
 
 fulltext fetcher 
 fulltext fetcher 

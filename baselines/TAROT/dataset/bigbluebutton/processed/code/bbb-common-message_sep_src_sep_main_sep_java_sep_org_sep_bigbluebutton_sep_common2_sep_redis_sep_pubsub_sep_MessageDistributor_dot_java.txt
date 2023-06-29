@@ -1,8 +1,9 @@
-bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep pubsub sep messag distributor dot java 
+messag distributor 
 handler 
 listen 
 listen 
 
+receiv messag handler 
 
 listen 
 handler 
@@ -10,6 +11,7 @@ pattern
 channel 
 messag 
 
+receiv messag handler 
 
 set messag listen 
 set messag handler 

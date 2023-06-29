@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep bib entri dot java 
+bib entri 
 default type 
 logger 
 share bib entri data 
@@ -18,6 +18,7 @@ comment befor entri
 pars serial 
 chang 
 
+share bib entri data 
 
 type 
 pars month 
@@ -111,6 +112,26 @@ download file
 
 priorit field 
 
+bib entri 
+entri event sourc 
+bib entri 
+entri event sourc 
+entri event sourc 
+keyword list 
+keyword 
+keyword list 
+keyword list 
+keyword 
+share bib entri data 
+date 
+pars entri link 
+link file 
+date 
+link file 
+link file 
+link file 
+bib entri 
+bib entri 
 
 bib entri 
 bib entri 

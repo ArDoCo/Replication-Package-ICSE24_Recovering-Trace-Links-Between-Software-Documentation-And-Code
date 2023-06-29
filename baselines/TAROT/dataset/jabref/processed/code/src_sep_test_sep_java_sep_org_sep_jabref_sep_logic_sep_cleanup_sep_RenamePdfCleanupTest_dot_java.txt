@@ -1,9 +1,12 @@
-src sep test sep java sep org sep jabref sep logic sep cleanup sep renam pdf cleanup test dot java 
+renam pdf cleanup test 
 entri 
 file prefer 
 cleanup 
 test folder 
 
+bib entri 
+file prefer 
+renam pdf cleanup 
 
 test folder 
 

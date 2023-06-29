@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep session result bundl dot java 
+session result bundl 
 question map 
 question map 
 question visibl preview map 
@@ -19,6 +19,7 @@ comment giver visibl tabl
 comment giver visibl tabl 
 roster 
 
+cours roster 
 
 question map 
 question visibl preview map 
@@ -41,6 +42,9 @@ type
 
 
 
+cours roster 
+feedback respons comment attribut 
+feedback particip type 
 
 session result bundl 
 build question respons map 

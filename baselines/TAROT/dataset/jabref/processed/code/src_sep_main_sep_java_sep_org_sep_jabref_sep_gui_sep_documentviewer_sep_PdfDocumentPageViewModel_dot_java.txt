@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep pdf document page view model dot java 
+pdf document page view model 
 page 
 page number 
 document 

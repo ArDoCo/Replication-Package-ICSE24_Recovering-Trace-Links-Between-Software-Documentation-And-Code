@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep auto set file link util dot java 
+auto set file link util 

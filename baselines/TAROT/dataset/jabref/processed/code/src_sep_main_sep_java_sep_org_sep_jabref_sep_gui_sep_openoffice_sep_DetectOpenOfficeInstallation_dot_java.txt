@@ -1,7 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep detect open offic instal dot java 
+detect open offic instal 
 open offic prefer 
 dialog servic 
 
+open offic prefer 
+dialog servic 
 
 open offic prefer 
 dialog servic 
@@ -9,6 +11,9 @@ open offic prefer
 instal dir 
 instal dir 
 
+open offic prefer 
+dialog servic 
+open offic prefer 
 
 detect open offic instal 
 execut path defin 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep creat instructor action dot java 
+creat instructor action 
 
 
 cours id 

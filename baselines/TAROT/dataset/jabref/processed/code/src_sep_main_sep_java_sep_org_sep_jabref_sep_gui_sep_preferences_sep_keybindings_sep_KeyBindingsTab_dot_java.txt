@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep keybind sep key bind tab dot java 
+key bind tab 
 key bind tabl 
 key bind tabl 
 action column 
@@ -12,9 +12,16 @@ clear column
 preset button 
 key bind repositori 
 
+key bind view model 
+key bind view model 
+key bind view model 
+key bind view model 
+key bind view model 
+key bind repositori 
 
 preset 
 
+key bind preset 
 
 key bind tab 
 tab 

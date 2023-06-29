@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep replac strategi dot java 
+replac strategi 

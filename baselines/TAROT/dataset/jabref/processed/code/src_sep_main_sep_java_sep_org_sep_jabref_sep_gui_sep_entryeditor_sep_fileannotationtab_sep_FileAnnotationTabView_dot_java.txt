@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep fileannotationtab sep file annot tab view dot java 
+file annot tab view 
 file 
 file 
 annot list 
@@ -14,11 +14,17 @@ file annot cach
 view model 
 file monitor 
 
+bib entri 
+file annot cach 
+file annot tab view model 
+file updat monitor 
 
 entri 
 file annot cach 
 annot 
 
+bib entri 
+file annot cach 
 
 file annot tab view 
 initi 

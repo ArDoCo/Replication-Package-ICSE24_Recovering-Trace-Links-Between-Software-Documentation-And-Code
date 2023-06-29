@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep core sep feedback respons logic test dot java 
+feedback respons logic test 
 fs logic 
 fq logic 
 fr logic 
@@ -8,6 +8,11 @@ student logic
 question type bundl 
 respons visibl bundl 
 
+feedback session logic 
+feedback question logic 
+feedback respons logic 
+feedback respons comment logic 
+student logic 
 
 question id 
 receiv 
@@ -30,6 +35,9 @@ json id
 bundl 
 respons id 
 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
 
 prepar test data 
 refresh test data 

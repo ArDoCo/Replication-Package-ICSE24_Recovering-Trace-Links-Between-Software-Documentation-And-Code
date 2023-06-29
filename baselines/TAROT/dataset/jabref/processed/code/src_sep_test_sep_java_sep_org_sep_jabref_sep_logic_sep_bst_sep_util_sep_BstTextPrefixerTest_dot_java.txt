@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep bst sep util sep text prefix test dot java 
+text prefix test 
 
 
 string 

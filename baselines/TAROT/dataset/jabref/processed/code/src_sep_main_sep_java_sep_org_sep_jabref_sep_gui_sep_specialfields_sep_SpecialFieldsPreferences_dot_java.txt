@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep specialfield sep special field prefer dot java 
+special field prefer 
 column rank width 
 special field enabl 
 

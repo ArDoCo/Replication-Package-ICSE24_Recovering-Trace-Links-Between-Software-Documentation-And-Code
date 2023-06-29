@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep preview sep preview tab dot java 
+preview tab 
 show tab check box 
 avail list view 
 avail list view 
@@ -21,6 +21,10 @@ list search term
 valid visual 
 command 
 
+preview layout 
+preview layout 
+theme manag 
+standard action 
 
 command 
 list 
@@ -35,6 +39,10 @@ event
 event 
 event 
 
+standard action 
+preview layout 
+preview layout 
+preview layout 
 
 preview tab 
 edit action 

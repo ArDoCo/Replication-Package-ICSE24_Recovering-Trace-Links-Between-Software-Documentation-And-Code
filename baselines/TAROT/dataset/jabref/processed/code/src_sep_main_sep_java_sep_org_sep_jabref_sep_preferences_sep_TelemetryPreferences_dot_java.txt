@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep telemetri prefer dot java 
+telemetri prefer 
 collect telemetri 
 collect telemetri 
 user id 

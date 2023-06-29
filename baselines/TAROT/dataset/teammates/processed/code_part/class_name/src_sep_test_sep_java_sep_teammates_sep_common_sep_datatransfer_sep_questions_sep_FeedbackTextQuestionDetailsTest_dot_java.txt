@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep common sep datatransf sep question sep feedback text question detail test dot java 
+feedback text question detail test 

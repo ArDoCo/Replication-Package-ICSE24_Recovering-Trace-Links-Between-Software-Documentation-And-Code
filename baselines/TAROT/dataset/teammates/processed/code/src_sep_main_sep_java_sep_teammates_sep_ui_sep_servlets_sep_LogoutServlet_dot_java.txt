@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep ui sep servlet sep logout servlet dot java 
+logout servlet 
 log 
 
+logger 
 
 req 
 resp 

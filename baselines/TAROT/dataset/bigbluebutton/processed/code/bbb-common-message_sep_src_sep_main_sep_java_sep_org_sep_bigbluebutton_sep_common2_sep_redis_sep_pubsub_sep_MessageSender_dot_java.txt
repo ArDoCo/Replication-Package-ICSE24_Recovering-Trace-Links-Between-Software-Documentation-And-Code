@@ -1,4 +1,4 @@
-bbb common messag sep src sep main sep java sep org sep bigbluebutton sep common sep redi sep pubsub sep messag sender dot java 
+messag sender 
 log 
 connect pool 
 connect pool 
@@ -8,6 +8,7 @@ run exec
 messag 
 messag 
 
+messag send 
 
 channel 
 messag 

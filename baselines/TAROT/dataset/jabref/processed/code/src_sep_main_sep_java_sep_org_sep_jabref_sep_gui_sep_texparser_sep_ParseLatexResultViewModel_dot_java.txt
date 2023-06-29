@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep texpars sep pars latex result view model dot java 
+pars latex result view model 
 resolv result 
 databas context 
 refer list 
@@ -7,11 +7,16 @@ citat list
 citat list 
 import button disabl 
 
+latex bib entri resolv result 
+bib databas context 
+citat 
 
 resolv result 
 databas context 
 refer 
 
+latex bib entri resolv result 
+bib databas context 
 
 pars latex result view model 
 refer list 

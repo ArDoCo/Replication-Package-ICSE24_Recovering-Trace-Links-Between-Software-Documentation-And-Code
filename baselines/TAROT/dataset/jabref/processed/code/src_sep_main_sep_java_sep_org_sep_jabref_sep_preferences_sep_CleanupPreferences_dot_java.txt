@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep cleanup prefer dot java 
+cleanup prefer 
 activ job 
 activ job 
 field formatt cleanup 

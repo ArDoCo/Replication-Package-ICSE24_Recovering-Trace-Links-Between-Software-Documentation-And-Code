@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep bst sep vm dot java 
+vm 

@@ -1,1 +1,1 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep event sep voic call state event dot java 
+voic call state event 

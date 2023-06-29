@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep databas sep bib databas context test dot java 
+bib databas context test 
 current work dir 
 file dir pref 
 

@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep creat feedback respons comment action test dot java 
+creat feedback respons comment action test 
 session cours 
 instructor cours 
 instructor cours 
@@ -14,6 +14,17 @@ student cours
 student cours 
 student cours 
 
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
+feedback respons attribut 
 
 respons id 
 comment text 

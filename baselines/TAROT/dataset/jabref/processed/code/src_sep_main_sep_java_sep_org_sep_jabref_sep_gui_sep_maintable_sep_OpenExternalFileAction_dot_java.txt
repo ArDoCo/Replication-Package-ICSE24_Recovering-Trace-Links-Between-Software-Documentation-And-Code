@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep open extern file action dot java 
+open extern file action 
 file limit 
 dialog servic 
 state manag 
@@ -6,6 +6,10 @@ prefer servic
 entri 
 link file 
 
+dialog servic 
+prefer servic 
+bib entri 
+link file 
 
 dialog servic 
 state manag 
@@ -16,6 +20,12 @@ prefer servic
 entri 
 link file 
 
+dialog servic 
+prefer servic 
+dialog servic 
+prefer servic 
+bib entri 
+link file 
 
 open extern file action 
 open extern file action 

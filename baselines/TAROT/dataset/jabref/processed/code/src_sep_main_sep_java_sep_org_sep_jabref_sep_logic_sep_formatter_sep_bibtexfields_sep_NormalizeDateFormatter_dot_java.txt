@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep normal date formatt dot java 
+normal date formatt 
 
 
 valu 

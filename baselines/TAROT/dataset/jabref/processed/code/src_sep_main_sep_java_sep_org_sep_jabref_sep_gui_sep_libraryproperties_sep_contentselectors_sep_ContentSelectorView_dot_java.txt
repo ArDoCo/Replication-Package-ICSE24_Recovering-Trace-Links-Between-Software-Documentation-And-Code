@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep contentselector sep content selector view dot java 
+content selector view 
 remov field button 
 add keyword button 
 remov keyword button 
@@ -9,11 +9,15 @@ keyword list view
 dialog servic 
 databas context 
 
+field 
+dialog servic 
+bib databas context 
 
 databas context 
 list view init 
 list 
 
+bib databas context 
 
 content selector view 
 tab 

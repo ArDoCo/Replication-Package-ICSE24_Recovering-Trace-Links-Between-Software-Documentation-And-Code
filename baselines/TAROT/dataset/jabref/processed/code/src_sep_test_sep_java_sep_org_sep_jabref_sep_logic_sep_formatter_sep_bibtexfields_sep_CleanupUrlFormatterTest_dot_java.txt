@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep cleanup url formatt test dot java 
+cleanup url formatt test 
 formatt 
 
+cleanup url formatt 
 
 
 

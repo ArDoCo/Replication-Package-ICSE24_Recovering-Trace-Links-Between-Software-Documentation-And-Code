@@ -1,10 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep doab fetcher test dot java 
+doab fetcher test 
 fetcher 
 
 
 expect 
 queri 
 
+bib entri 
 
 test 
 test perform search 

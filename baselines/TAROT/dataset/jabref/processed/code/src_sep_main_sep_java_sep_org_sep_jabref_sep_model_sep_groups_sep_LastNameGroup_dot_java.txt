@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep group dot java 
+group 
 
 
 group 
@@ -9,6 +9,7 @@ field
 bib entri 
 entri 
 
+group hierarchi type 
 
 group 
 latex free 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep meta data serial test dot java 
+meta data serial test 
 custom type 
 meta data 
 pattern 

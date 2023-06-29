@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep style sep style loader dot java 
+style loader 
 default authoryear style path 
 default numer style path 
 logger 
@@ -11,12 +11,14 @@ intern style
 extern style 
 extern style 
 
+open offic prefer 
 
 open offic prefer 
 formatt prefer 
 filenam 
 style 
 
+open offic prefer 
 
 style loader 
 style 

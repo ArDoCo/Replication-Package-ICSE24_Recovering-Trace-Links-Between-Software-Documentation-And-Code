@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep prefer dialog view model dot java 
+prefer dialog view model 
 logger 
 dialog servic 
 prefer 
@@ -6,11 +6,18 @@ prefer tab
 prefer tab 
 frame 
 
+dialog servic 
+prefer servic 
+prefer tab 
+jab ref frame 
 
 dialog servic 
 prefer 
 frame 
 
+dialog servic 
+prefer servic 
+jab ref frame 
 
 prefer dialog view model 
 prefer tab 

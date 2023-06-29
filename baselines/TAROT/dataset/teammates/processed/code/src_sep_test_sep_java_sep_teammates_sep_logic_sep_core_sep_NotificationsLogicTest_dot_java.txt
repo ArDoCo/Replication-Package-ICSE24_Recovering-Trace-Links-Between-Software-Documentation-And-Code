@@ -1,15 +1,21 @@
-src sep test sep java sep teammat sep logic sep core sep notif logic test dot java 
+notif logic test 
  
 notif db 
 notif logic 
 typic notif 
 typic notif 
 
+notif attribut 
+notif db 
+notif logic 
 
 notif 
 expect 
 actual 
 
+notif attribut 
+notif attribut 
+notif attribut 
 
 prepar test data 
 refresh test data 

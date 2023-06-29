@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep cli sep jab ref cli dot java 
+jab ref cli 
 width 
 wrap line prefix 
 cl 

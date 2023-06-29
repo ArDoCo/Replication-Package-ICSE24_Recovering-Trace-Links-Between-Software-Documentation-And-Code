@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep librari tab dot java 
+librari tab 
 logger 
 frame 
 undo manag 
@@ -30,6 +30,20 @@ data load task
 data load task 
 index task manag 
 
+jab ref frame 
+count undo manag 
+dialog servic 
+prefer servic 
+theme manag 
+bib databas context 
+citat style cach 
+file annot cach 
+entri editor 
+main tabl 
+bib entri 
+suggest provid 
+search queri 
+parser result 
 
 bib databas context 
 frame 
@@ -91,6 +105,38 @@ text
 action 
 durat 
 
+bib databas context 
+jab ref frame 
+prefer servic 
+theme manag 
+bib databas context 
+bib databas context 
+parser result 
+parser result 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas context chang event 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+field 
+bib entri 
+bib entri 
+bib entri 
+number 
+search queri 
+bib entri 
+parser result 
+prefer servic 
+jab ref frame 
+theme manag 
+entri remov event 
+entri remov event 
+entri remov event 
+action 
 
 librari tab 
 add chang inform 

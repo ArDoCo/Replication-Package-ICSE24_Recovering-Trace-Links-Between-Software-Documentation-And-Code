@@ -1,8 +1,9 @@
-src sep test sep java sep teammat sep test sep base test case local databas access dot java 
+base test case local databas access 
 local datastor helper 
 logic 
 closeabl 
 
+logic extens 
 
 account 
 cours 
@@ -18,6 +19,14 @@ notif
 data bundl 
 data bundl 
 
+account attribut 
+feedback question attribut 
+feedback respons comment attribut 
+feedback session attribut 
+instructor attribut 
+account request attribut 
+deadlin extens attribut 
+notif attribut 
 
 setup db layer 
 setup objectifi 

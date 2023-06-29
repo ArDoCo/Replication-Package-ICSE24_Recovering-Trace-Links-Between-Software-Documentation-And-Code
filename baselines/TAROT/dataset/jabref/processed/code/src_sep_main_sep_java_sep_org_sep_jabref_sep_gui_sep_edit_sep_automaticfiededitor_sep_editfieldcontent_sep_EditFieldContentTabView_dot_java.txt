@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep editfieldcont sep edit field content tab view dot java 
+edit field content tab view 
 append valu button 
 clear field button 
 set valu button 
@@ -13,10 +13,17 @@ view model
 state manag 
 visual 
 
+field 
+bib entri 
+bib databas 
+edit field content view model 
+state manag 
 
 databas 
 state manag 
 
+bib databas 
+state manag 
 
 edit field content tab view 
 initi 

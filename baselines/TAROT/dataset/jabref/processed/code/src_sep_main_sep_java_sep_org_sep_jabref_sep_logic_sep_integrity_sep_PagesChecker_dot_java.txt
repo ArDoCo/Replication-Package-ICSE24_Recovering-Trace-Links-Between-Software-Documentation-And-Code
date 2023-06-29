@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep page checker dot java 
+page checker 
 page exp bibtex 
 page exp biblatex 
 valid page number 

@@ -1,11 +1,14 @@
-src sep test sep java sep org sep jabref sep logic sep databas sep databas merger test dot java 
+databas merger test 
 import format prefer 
 
+import format prefer 
 
 
 context 
 entri 
 
+group hierarchi type 
+bib entri 
 
 set 
 merg add duplic entri 

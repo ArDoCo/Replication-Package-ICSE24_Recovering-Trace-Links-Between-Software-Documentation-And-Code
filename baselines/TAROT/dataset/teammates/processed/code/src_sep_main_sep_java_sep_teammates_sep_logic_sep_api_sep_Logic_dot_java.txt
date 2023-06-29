@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep api sep logic dot java 
+logic 
 instanc 
 account logic 
 account request logic 
@@ -14,6 +14,16 @@ feedback respons comment logic
 usag statist logic 
 data bundl logic 
 
+logic 
+account logic 
+account request logic 
+deadlin extens logic 
+notif logic 
+student logic 
+feedback session logic 
+feedback question logic 
+feedback respons logic 
+age statist logic 
 
 googl id 
 email 
@@ -207,6 +217,34 @@ feedback session
 user email 
 instructor 
 
+notif target user 
+notif attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+feedback question attribut 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+feedback question attribut 
+instructor attribut 
+feedback question attribut 
+feedback result fetch type 
+feedback question attribut 
+feedback question attribut 
+instructor attribut 
+feedback respons comment attribut 
+account request attribut 
+account request attribut 
+age statist attribut 
+deadlin extens attribut 
 
 logic 
 inst 

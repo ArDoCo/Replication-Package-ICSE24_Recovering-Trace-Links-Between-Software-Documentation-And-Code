@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep er session dot java 
+er session 
 auth token 
 intern user id 
 conferencenam 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep preview prefer dot java 
+preview prefer 
 layout cycl 
 layout cycl 
 layout cycl posit 
@@ -7,6 +7,7 @@ custom preview layout
 default custom preview layout 
 show preview extra tab 
 
+text base preview layout 
 
 layout cycl 
 layout cycl posit 
@@ -17,6 +18,8 @@ posit
 layout 
 show preview extra tab 
 
+text base preview layout 
+text base preview layout 
 
 preview prefer 
 layout cycl 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep column sep file column dot java 
+file column 

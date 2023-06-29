@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep springer fetcher dot java 
+springer fetcher 
 fetcher 
 logger 
 api url 
@@ -13,6 +13,7 @@ lucen queri
 page number 
 complex search queri 
 
+complex search queri 
 
 springer fetcher 
 pars springer jso nto bibtex 

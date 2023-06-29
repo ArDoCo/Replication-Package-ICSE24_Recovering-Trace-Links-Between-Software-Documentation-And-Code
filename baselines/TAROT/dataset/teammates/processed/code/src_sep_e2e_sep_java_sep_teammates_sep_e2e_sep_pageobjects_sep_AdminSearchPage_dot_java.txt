@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep admin search page dot java 
+admin search page 
 student col detail 
 student col 
 student col googl id 
@@ -95,6 +95,31 @@ origin join link
 instructor 
 origin join link 
 
+browser 
+student attribut 
+instructor attribut 
+student attribut 
+student attribut 
+student attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+account request attribut 
+account request attribut 
+account request attribut 
+student attribut 
+cours attribut 
+student attribut 
+instructor attribut 
+cours attribut 
+instructor attribut 
+account request attribut 
+account request attribut 
+student attribut 
+instructor attribut 
+account request attribut 
+student attribut 
+instructor attribut 
 
 admin search page 
 expect page content 

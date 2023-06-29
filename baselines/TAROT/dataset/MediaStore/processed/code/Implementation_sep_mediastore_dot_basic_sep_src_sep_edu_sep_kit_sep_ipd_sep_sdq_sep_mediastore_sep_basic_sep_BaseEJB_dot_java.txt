@@ -1,9 +1,10 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep base ejb dot java 
+base ejb 
 ejb 
 load interfac 
 load interfac 
 ejb 
 
+ejb 
 
 requir interfac 
 type 

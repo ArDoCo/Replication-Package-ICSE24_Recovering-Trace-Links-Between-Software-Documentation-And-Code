@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep entryeditor sep fileannotationtab sep file annot view model test dot java 
+file annot view model test 

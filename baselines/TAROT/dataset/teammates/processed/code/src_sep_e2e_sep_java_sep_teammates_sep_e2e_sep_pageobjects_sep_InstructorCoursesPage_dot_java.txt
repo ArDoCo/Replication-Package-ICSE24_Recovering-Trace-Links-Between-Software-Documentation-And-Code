@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep instructor cours page dot java 
+instructor cours page 
 add cours button 
 copi cours button 
 cours id text box 

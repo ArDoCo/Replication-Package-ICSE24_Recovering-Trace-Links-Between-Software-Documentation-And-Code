@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep net sep ssl sep ssl certif dot java 
+ssl certif 
 logger 
 sha thumbprint 
 serial number 

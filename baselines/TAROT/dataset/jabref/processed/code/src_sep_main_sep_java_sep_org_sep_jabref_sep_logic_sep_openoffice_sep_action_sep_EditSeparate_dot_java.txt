@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep edit separ dot java 
+edit separ 
 
 
 doc 

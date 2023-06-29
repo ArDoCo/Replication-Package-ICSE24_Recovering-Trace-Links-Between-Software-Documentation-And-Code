@@ -1,10 +1,12 @@
-src sep test sep java sep org sep jabref sep logic sep export sep html export format test dot java 
+html export format test 
 databas context 
 charset 
 entri 
 entri 
 export format 
 
+bib databas context 
+bib entri 
 
 test folder 
 

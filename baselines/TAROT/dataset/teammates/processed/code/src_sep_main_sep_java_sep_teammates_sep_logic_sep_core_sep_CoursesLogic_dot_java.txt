@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep cours logic dot java 
+cours logic 
 log 
 instanc 
 cours db 
@@ -11,6 +11,16 @@ instructor logic
 student logic 
 deadlin extens logic 
 
+logger 
+cours logic 
+cours db 
+account logic 
+feedback session logic 
+feedback question logic 
+feedback respons logic 
+feedback respons comment logic 
+student logic 
+deadlin extens logic 
 
 cours id 
 cours creat 
@@ -33,6 +43,8 @@ cours id
 start time 
 time 
 
+instructor attribut 
+instructor attribut 
 
 cours logic 
 inst 

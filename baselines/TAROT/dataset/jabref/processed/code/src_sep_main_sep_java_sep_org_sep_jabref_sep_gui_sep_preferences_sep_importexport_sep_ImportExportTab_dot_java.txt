@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep importexport sep import export tab dot java 
+import export tab 
 generat key import 
 custom doi 
 custom doi 
@@ -13,9 +13,11 @@ grobid url
 warn duplic import 
 download link onlin file 
 
+fetcher api key 
 
 api key 
 
+fetcher api key 
 
 import export tab 
 tab 

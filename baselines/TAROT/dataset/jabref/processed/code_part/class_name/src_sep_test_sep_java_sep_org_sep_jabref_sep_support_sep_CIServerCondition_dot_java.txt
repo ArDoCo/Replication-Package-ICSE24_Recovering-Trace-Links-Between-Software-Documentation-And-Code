@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep support sep ci server condit dot java 
+ci server condit 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang detail view factori dot java 
+databas chang detail view factori 
 databas context 
 dialog servic 
 state manag 
@@ -7,6 +7,12 @@ prefer servic
 entri type manag 
 preview viewer 
 
+bib databas context 
+dialog servic 
+theme manag 
+prefer servic 
+bib entri type manag 
+preview viewer 
 
 databas context 
 dialog servic 
@@ -17,6 +23,13 @@ entri type manag
 preview viewer 
 databas chang 
 
+bib databas context 
+dialog servic 
+theme manag 
+prefer servic 
+bib entri type manag 
+preview viewer 
+databas chang 
 
 databas chang detail view factori 
 creat 

@@ -1,0 +1,5 @@
+storag rule 
+cach rule 
+storag mode 
+imag db 
+data storag 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep jab ref executor servic dot java 
+jab ref executor servic 

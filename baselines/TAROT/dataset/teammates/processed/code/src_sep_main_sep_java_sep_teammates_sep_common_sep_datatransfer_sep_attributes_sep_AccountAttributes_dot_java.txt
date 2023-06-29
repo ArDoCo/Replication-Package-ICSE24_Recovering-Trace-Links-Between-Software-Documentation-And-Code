@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep account attribut dot java 
+account attribut 
 googl id 
 
 email 
@@ -12,6 +12,7 @@ read notif option
 updat option 
 builder 
 
+account attribut 
 
 googl id 
  
@@ -32,6 +33,7 @@ googl id
 updat option 
 read notif 
 
+account 
 
 account attribut 
 valu 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep mod export format file test dot java 
+mod export format file test 
 logger 
 resourc dir 
 charset 
@@ -9,6 +9,8 @@ bibtex import
 mod import 
 import file 
 
+bibtex import 
+mod import 
 
 test folder 
 filenam 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep bib te entri type checker dot java 
+bib te entri type checker 
 
 
 entri 

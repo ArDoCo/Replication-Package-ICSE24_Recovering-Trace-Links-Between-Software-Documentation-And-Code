@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep data migrat entiti base script dot java 
+data migrat entiti base script 
 base log uri 
 batch size 
 number scan key 

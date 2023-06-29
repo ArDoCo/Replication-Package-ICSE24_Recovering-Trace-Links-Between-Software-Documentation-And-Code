@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep author dot java 
+author 
 
 part 
 abbr 
@@ -7,6 +7,8 @@ part
 jr part 
 latex free author 
 
+author 
+author 
 
 
 firstabbr 

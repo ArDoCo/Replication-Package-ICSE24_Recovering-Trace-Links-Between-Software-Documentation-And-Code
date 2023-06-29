@@ -1,1 +1,1 @@
-servic sep tool dot descart dot teastor dot registri sep src sep main sep java sep tool sep descart sep teastor sep registri sep rest sep registri rest dot java 
+registri rest 

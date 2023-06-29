@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep feedback question attribut dot java 
+feedback question attribut 
 feedback session 
 cours id 
 question detail 
@@ -39,6 +39,14 @@ show recipi option
 updat option 
 builder 
 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback question attribut 
+feedback particip type 
+feedback particip type 
 
 fq 
 id 
@@ -76,6 +84,19 @@ show respons
 show giver 
 show recipi 
 
+feedback particip type 
+feedback question attribut 
+feedback question attribut 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 feedback question attribut 
 builder 

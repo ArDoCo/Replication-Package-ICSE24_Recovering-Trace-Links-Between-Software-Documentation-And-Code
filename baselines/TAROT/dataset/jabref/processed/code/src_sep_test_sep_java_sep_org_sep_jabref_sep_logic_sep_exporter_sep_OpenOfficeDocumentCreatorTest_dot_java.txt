@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep export sep open offic document creator test dot java 
+open offic document creator test 
 open offic export id 
 databas context 
 charset 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep icon sep jab ref materi design icon dot java 
+jab ref materi design icon 
 descript 
 code 
 

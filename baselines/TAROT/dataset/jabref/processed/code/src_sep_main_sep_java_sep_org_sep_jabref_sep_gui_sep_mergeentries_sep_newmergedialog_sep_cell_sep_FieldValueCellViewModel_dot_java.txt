@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep cell sep field valu cell view model dot java 
+field valu cell view model 
 field valu 
 select 
 toggl group 

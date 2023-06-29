@@ -1,9 +1,11 @@
-src sep sep java sep teammat sep sep case sep base feedback question test dot java 
+base feedback question test 
 instructor 
 cours 
 feedback session 
 student 
 
+instructor attribut 
+feedback session attribut 
 
 
 

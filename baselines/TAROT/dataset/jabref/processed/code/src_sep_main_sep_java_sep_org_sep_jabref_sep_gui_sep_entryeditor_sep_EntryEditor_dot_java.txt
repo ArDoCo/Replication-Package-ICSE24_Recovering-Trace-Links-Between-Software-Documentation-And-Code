@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep entri editor dot java 
+entri editor 
 logger 
 librari tab 
 databas context 
@@ -26,6 +26,11 @@ journal abbrevi repositori
 entri editor tab 
 entri editor tab 
 
+bib databas context 
+entri editor prefer 
+file updat monitor 
+count undo manag 
+bib entri type manag 
 
 librari tab 
 entri 

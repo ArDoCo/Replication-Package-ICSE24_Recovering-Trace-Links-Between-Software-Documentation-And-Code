@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep migrat sep convert mark group dot java 
+convert mark group 
 mark pattern 
 
 

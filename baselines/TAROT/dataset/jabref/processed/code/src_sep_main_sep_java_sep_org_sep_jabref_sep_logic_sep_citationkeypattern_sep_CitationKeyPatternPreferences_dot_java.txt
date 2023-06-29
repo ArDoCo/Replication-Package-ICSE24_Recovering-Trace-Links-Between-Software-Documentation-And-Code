@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationkeypattern sep citat key pattern prefer dot java 
+citat key pattern prefer 
 avoid overwrit cite key 
 warn befor overwrit cite key 
 generat cite key befor save 

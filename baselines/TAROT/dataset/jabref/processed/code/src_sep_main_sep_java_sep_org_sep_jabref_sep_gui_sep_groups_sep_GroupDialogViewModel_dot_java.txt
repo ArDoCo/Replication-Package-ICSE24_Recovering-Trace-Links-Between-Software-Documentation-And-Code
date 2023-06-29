@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group dialog view model dot java 
+group dialog view model 
 properti 
 descript properti 
 icon properti 
@@ -43,6 +43,13 @@ current databas
 edit group 
 group dialog header 
 
+group hierarchi type 
+group hierarchi type 
+dialog servic 
+prefer servic 
+bib databas context 
+abstract group 
+group dialog header 
 
 dialog servic 
 current databas 
@@ -53,6 +60,11 @@ input
 event 
 button 
 
+dialog servic 
+bib databas context 
+prefer servic 
+abstract group 
+group dialog header 
 
 group dialog view model 
 setup valid 

@@ -1,12 +1,14 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep abbrevi checker dot java 
+abbrevi checker 
 abbrevi repositori 
 field 
 field 
 
+field 
 
 abbrevi repositori 
 entri 
 
+bib entri 
 
 abbrevi checker 
 check 

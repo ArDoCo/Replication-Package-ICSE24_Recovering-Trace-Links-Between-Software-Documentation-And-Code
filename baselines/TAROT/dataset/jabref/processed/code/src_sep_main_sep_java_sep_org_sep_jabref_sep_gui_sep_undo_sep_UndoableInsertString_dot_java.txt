@@ -1,12 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undoabl insert string dot java 
+undoabl insert string 
 logger 
 base 
 string 
 
+bib databas 
+bibtex string 
 
 base 
 string 
 
+bib databas 
+bibtex string 
 
 undoabl insert string 
 present 

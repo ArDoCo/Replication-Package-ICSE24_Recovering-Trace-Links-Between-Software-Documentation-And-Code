@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep search sep search result tabl data model dot java 
+search result tabl data model 
 entri filter 
 entri filter 
 entri sort 
@@ -15,6 +15,7 @@ state manag
 queri 
 entri 
 
+search queri 
 
 search result tabl data model 
 match search 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep student logic dot java 
+student logic 
 error invalid team 
 error invalid team instruct 
 error enrol exceed section limit 
@@ -9,6 +9,8 @@ fr logic
 fs logic 
 de logic 
 
+student logic 
+deadlin extens logic 
 
 student data 
 cours id 
@@ -69,6 +71,7 @@ section
 start time 
 time 
 
+attribut delet queri 
 
 student logic 
 inst 

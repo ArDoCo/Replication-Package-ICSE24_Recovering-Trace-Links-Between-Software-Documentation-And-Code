@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep web view store dot java 
+web view store 
 logger 
 web view 
 web view 

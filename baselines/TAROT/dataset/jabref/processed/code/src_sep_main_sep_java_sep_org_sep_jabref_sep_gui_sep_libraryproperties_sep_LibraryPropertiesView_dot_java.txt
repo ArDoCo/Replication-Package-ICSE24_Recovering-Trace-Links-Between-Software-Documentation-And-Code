@@ -1,13 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep librari properti view dot java 
+librari properti view 
 tab pane 
 save button 
 theme manag 
 databas context 
 view model 
 
+theme manag 
+bib databas context 
+librari properti view model 
 
 databas context 
 
+bib databas context 
 
 librari properti view 
 initi 

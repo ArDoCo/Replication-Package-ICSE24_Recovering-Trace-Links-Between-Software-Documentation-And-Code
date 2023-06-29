@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep auxpars sep aux parser dot java 
+aux parser 

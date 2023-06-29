@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep servic sep impl sep record servic file impl dot java 
+record servic file impl 
 log 
 present id pattern 
 process dir 
@@ -14,6 +14,9 @@ present base dir
 default server url 
 default text track url 
 
+pattern 
+record metadata reader helper 
+xml servic 
 
 pres file 
 dlownload file 
@@ -98,6 +101,10 @@ state
 state 
 forc default 
 
+record metadata 
+record metadata 
+record metadata reader helper 
+xml servic 
 
 copi present file 
 process present download msg 

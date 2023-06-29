@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep column prefer dot java 
+column prefer 
 default column width 
 icon column width 
 column 
@@ -6,12 +6,18 @@ column
 column sort order 
 column sort order 
 
+main tabl column model 
+main tabl column model 
 
 column 
 column sort order 
 list 
 list 
 
+main tabl column model 
+main tabl column model 
+main tabl column model 
+main tabl column model 
 
 column prefer 
 column 

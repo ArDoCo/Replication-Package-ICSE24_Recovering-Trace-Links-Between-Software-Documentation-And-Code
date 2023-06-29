@@ -1,8 +1,9 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep util sep properti util dot java 
+properti util 
 
 
 interfac 
 
+provid interfac 
 
 init properti 
 

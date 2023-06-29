@@ -1,7 +1,8 @@
-src sep test sep java sep org sep jabref sep model sep texpars sep citat test dot java 
+citat test 
 path 
 citat 
 
+citat 
 
 line 
 line 

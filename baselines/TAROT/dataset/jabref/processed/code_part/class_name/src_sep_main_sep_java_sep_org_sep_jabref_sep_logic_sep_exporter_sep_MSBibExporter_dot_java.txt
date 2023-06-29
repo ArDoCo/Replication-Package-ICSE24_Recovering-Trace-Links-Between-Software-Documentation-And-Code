@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep export sep ms bib export dot java 
+ms bib export 

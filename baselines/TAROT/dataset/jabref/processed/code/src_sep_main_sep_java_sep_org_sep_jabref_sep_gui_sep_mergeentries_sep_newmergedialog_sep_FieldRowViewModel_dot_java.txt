@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep field row view model dot java 
+field row view model 
 logger 
 field merg 
 select 
@@ -17,6 +17,11 @@ left
 
 merg field 
 
+field 
+bib entri 
+bib entri 
+bib entri 
+field merger factori 
 
 field 
 left entri 
@@ -32,6 +37,11 @@ left
 
 merg field 
 
+field 
+bib entri 
+bib entri 
+bib entri 
+field merger factori 
 
 field row view model 
 select empti valu 

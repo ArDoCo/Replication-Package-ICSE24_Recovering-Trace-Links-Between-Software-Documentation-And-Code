@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep author comma test dot java 
+author comma test 
 author flc formatt 
 
+layout formatt 
 
 expect string 
 input string 

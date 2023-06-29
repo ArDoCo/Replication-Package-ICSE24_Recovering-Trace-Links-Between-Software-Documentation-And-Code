@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep bib entri type dot java 
+bib entri type 
 type 
 requir field 
 requir field 
@@ -15,6 +15,10 @@ mode
  
  
 
+field 
+bib databas mode 
+bib databas mode 
+bib entri type 
 
 bib entri type 
 type 

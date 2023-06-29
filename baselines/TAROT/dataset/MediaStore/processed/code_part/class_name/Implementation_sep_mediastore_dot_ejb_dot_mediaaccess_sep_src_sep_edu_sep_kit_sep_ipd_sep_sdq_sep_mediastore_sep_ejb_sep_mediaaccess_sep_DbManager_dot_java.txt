@@ -1,1 +1,1 @@
-implement sep mediastor dot ejb dot mediaaccess sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep mediaaccess sep db manag dot java 
+db manag 

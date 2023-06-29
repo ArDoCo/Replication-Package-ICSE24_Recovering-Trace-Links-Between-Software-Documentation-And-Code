@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep util sep compon sep tag bar dot java 
+tag bar 

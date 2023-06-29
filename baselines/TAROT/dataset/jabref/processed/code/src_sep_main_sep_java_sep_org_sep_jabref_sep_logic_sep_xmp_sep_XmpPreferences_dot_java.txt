@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep xmp sep xmp prefer dot java 
+xmp prefer 
 xmp privaci filter 
 xmp privaci filter 
 xmp privaci filter 

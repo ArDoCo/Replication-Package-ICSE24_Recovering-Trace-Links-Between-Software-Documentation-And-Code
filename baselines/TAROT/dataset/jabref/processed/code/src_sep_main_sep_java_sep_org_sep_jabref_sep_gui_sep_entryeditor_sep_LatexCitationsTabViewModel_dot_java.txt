@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep latex citat tab view model dot java 
+latex citat tab view model 
 logger 
 tex ext 
 databas context 
@@ -17,6 +17,7 @@ search task
 latex parser result 
 current entri 
 
+latex parser result 
 
 databas context 
 prefer servic 

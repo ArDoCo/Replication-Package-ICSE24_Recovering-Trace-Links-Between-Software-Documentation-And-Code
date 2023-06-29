@@ -1,9 +1,12 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep citat key editor dot java 
+citat key editor 
 prefer 
 view model 
 generat citat key button 
 text field 
 
+prefer servic 
+citat key editor view model 
+editor text field 
 
 field 
 prefer 
@@ -14,6 +17,12 @@ undo manag
 dialog servic 
 entri 
 
+field 
+prefer servic 
+field checker 
+bib databas context 
+dialog servic 
+bib entri 
 
 citat key editor 
 view model 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep integr check test dot java 
+integr check test 
 
 
 input 
@@ -17,6 +17,13 @@ context
 context 
 mode 
 
+field 
+field 
+field 
+bib databas context 
+bib databas context 
+bib databas context 
+bib databas mode 
 
 bib tex accept standard entri type 
 bib tex doe accept ieee tran entri type 

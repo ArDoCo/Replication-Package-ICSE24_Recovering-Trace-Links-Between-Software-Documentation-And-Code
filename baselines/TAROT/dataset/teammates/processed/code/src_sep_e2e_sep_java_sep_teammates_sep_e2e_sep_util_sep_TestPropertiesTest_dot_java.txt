@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep util sep test properti test dot java 
+test properti test 
 
 
 

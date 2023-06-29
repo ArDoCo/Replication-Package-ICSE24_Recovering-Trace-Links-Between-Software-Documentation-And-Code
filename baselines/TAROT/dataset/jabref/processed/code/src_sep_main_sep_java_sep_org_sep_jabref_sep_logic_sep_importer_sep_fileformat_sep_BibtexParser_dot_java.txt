@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep bibtex parser dot java 
+bibtex parser 
 logger 
 lookahead 
 field content formatt 
@@ -14,6 +14,12 @@ line
 parser result 
 meta data parser 
 
+field content formatt 
+import format prefer 
+bib databas 
+bib entri type 
+parser result 
+meta data parser 
 
 import format prefer 
 file monitor 
@@ -43,6 +49,12 @@ expect
 option 
 option 
 
+import format prefer 
+file updat monitor 
+import format prefer 
+file updat monitor 
+bib entri 
+field 
 
 bibtex parser 
 singl string 

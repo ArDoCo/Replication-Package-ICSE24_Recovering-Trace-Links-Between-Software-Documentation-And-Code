@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep dblp fetcher dot java 
+dblp fetcher 
 fetcher 
 basic search url 
 import format prefer 

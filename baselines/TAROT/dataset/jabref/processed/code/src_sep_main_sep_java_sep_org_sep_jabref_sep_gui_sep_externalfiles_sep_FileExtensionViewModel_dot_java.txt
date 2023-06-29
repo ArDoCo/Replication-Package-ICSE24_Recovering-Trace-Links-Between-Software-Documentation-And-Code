@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep file extens view model dot java 
+file extens view model 
 descript 
 extens 
 extens 
@@ -8,6 +8,7 @@ file prefer
 file type 
 file prefer 
 
+file type 
 
 file extens view model 
 descript 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep format sep ris keyword dot java 
+ris keyword 

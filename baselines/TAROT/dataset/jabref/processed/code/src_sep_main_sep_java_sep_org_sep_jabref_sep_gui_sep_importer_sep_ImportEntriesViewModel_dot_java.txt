@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep import entri view model dot java 
+import entri view model 
 logger 
 messag 
 task executor 
@@ -15,6 +15,10 @@ entri type manag
 select db 
 select db 
 
+bib databas context 
+file updat monitor 
+bib entri type manag 
+bib databas context 
 
 task 
 task executor 
@@ -32,6 +36,9 @@ entri import
 entri 
 entri 
 
+bib databas context 
+bib entri type manag 
+file updat monitor 
 
 import entri view model 
 messag 

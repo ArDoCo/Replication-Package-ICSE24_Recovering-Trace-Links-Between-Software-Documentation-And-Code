@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep linkedfil sep delet file action dot java 
+delet file action 
 logger 
 dialog servic 
 prefer 
@@ -7,6 +7,9 @@ view model
 list view 
 list view 
 
+bib databas context 
+link file editor view model 
+link file view model 
 
 dialog servic 
 prefer 
@@ -17,6 +20,11 @@ delet
 delet disk 
 file view model 
 
+bib databas context 
+link file editor view model 
+link file view model 
+link file view model 
+link file view model 
 
 delet file action 
 execut 

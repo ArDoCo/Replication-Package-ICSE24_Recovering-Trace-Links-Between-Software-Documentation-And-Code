@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep desktop sep jab ref desktop dot java 
+jab ref desktop 
 logger 
 nativ desktop 
 remot link pattern 

@@ -1,9 +1,11 @@
-bbb record imex sep src sep main sep java sep org sep bigbluebutton sep record import handler dot java 
+record import handler 
 logger 
 instanc 
 data store 
 xml servic 
 
+record import handler 
+data store 
 
 directori 
 persist 

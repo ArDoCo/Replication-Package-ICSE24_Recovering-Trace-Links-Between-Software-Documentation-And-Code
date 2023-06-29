@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep freeswitch sep action sep confer check record command dot java 
+confer check record command 
 log 
 
 
@@ -7,6 +7,7 @@ request id
 respons 
 event listen 
 
+confer event listen 
 
 confer check record command 
 command arg 

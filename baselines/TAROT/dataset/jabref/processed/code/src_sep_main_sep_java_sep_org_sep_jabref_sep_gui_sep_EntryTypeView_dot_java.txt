@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entri type view dot java 
+entri type view 
 state manag 
 import format reader 
 task executor 
@@ -19,6 +19,11 @@ type
 view model 
 visual 
 
+import format reader 
+id base fetcher 
+librari tab 
+dialog servic 
+prefer servic 
 
 librari tab 
 dialog servic 
@@ -30,6 +35,10 @@ event
 entri type 
 select type 
 
+librari tab 
+dialog servic 
+prefer servic 
+bib entri type 
 
 entri type view 
 add entri pane 

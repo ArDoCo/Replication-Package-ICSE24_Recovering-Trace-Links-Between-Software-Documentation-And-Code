@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep externalfil sep unlink file crawler dot java 
+unlink file crawler 
 logger 
 directori 
 file filter 
@@ -8,6 +8,8 @@ sorter
 databas context 
 file prefer 
 
+extern file sorter 
+bib databas context 
 
 directori 
 file filter 
@@ -18,6 +20,8 @@ file prefer
 directori 
 unlink pdf file filter 
 
+extern file sorter 
+bib databas context 
 
 unlink file crawler 
 call 

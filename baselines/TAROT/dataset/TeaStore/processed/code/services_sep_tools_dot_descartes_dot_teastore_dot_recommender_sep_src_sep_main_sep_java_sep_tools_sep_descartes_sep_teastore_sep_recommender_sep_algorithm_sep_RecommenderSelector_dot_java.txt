@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot recommend sep src sep main sep java sep tool sep descart sep teastor sep recommend sep algorithm sep recommend selector dot java 
+recommend selector 
 recommend 
 recommend 
 default recommend 
@@ -8,12 +8,16 @@ instanc
 fallbackrecommend 
 recommend 
 
+recommend selector 
 
 userid 
 current item 
 order item 
 order 
 
+order item 
+order item 
+order 
 
 recommend selector 
 recommend product 

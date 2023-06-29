@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fileformat sep pdf embed bib file import dot java 
+pdf embed bib file import 
 import format prefer 
 bibtex parser 
 

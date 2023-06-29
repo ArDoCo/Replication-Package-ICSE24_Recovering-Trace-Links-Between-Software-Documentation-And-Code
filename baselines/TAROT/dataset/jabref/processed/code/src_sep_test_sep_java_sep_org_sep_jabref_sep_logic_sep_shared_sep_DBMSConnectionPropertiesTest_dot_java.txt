@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep share sep dbms connect properti test dot java 
+dbms connect properti test 
 
 
 

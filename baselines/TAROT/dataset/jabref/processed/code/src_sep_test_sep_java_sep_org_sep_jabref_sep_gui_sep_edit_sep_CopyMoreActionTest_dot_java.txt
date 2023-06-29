@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep gui sep edit sep copi action test dot java 
+copi action test 
 copi action 
 dialog servic 
 clip board manag 
@@ -12,6 +12,12 @@ key
 doi 
 doi 
 
+copi action 
+dialog servic 
+clip board manag 
+prefer servic 
+state manag 
+bib entri 
 
 
 

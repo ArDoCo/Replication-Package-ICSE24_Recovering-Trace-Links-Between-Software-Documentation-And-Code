@@ -1,11 +1,14 @@
-src sep main sep java sep org sep jabref sep gui sep dialog sep autosav ui manag dot java 
+autosav ui manag 
 logger 
 save databas action 
 
+save databas action 
 
 librari tab 
 event 
 
+librari tab 
+autosav event 
 
 autosav ui manag 
 listen 

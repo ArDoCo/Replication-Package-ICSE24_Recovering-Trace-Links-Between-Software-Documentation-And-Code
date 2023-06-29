@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep logic sep core sep feedback question logic test dot java 
+feedback question logic test 
 fq logic 
 fr logic 
 frc logic 
@@ -6,6 +6,11 @@ fs logic
 student logic 
 instructor logic 
 
+feedback question logic 
+feedback respons logic 
+feedback respons comment logic 
+feedback session logic 
+student logic 
 
 question key 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback numer scale question detail dot java 
+feedback numer scale question detail 
 question type 
 numscal error min max 
 numscal error step 
@@ -17,6 +17,8 @@ min scale
 max scale 
 step 
 
+feedback question detail 
+feedback question attribut 
 
 feedback numer scale question detail 
 feedback numer scale question detail 

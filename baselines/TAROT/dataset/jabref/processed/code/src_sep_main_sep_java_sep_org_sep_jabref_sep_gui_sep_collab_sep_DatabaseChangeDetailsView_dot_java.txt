@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang detail view dot java 
+databas chang detail view 
 entri preview sourc detail view 
 group chang detail view 
 metadata chang detail view 

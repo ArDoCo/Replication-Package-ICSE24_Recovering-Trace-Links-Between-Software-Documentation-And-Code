@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep logic sep core sep feedback session logic dot java 
+feedback session logic 
 log 
 error exist fs string format 
 error exist fs updat 
@@ -16,6 +16,10 @@ instructor logic
 student logic 
 de logic 
 
+logger 
+feedback session logic 
+student logic 
+deadlin extens logic 
 
 fsa 
 rang start 
@@ -81,6 +85,7 @@ email address
 instructor 
 deadlin updat 
 
+attribut delet queri 
 
 feedback session logic 
 inst 

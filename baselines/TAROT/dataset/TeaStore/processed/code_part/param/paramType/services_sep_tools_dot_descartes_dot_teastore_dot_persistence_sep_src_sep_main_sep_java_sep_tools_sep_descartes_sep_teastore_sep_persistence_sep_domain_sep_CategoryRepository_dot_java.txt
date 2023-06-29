@@ -1,0 +1,3 @@
+categori 
+categori 
+persist categori 

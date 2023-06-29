@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep month editor view model dot java 
+month editor view model 
 databas mode 
 
+bib databas mode 
 
 field 
 suggest provid 
@@ -10,6 +11,11 @@ object
 string 
 object 
 
+field 
+bib databas mode 
+field checker 
+month 
+month 
 
 month editor view model 
 string convert 

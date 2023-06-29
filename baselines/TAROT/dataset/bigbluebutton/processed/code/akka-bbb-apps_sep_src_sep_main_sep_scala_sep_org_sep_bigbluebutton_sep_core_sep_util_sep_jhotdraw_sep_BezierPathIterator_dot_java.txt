@@ -1,9 +1,10 @@
-akka bbb app sep src sep main sep scala sep org sep bigbluebutton sep core sep util sep jhotdraw sep bezier path iter dot java 
+bezier path iter 
 index 
 path 
 affin 
 curves 
 
+bezier path 
 
 path 
 path 
@@ -11,6 +12,8 @@ path
 coord 
 coord 
 
+bezier path 
+bezier path 
 
 bezier path iter 
 bezier path iter 

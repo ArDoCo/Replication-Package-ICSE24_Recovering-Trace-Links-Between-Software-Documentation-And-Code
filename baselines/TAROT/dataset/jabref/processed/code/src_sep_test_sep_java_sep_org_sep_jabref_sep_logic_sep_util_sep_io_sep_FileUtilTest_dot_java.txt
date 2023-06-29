@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep util sep io sep file util test dot java 
+file util test 
 exist test path 
 exist test file 
 exist test file 

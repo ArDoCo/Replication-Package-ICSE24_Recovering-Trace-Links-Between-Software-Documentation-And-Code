@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep citationstyl sep jab ref item data provid dot java 
+jab ref item data provid 
 bibtex convert 
 string json builder factori 
 data 

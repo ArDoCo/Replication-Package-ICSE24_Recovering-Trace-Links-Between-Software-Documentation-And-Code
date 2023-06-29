@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep architectur sep main architectur test dot java 
+main architectur test 
 class org jabref global 
 packag javax swing 
 packag java awt 

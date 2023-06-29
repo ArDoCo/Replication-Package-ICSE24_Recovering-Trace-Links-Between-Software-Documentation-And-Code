@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep queri log param dot java 
+queri log param 
 sever 
 min sever 
 start time 
@@ -17,6 +17,9 @@ order
 page size 
 queri log param 
 
+request log user 
+sourc locat 
+queri log param 
 
 start time 
 time 
@@ -39,6 +42,8 @@ version
 extra filter 
 page size 
 
+request log user 
+sourc locat 
 
 queri log param 
 builder 

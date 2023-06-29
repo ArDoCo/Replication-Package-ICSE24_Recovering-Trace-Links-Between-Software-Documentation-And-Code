@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep data migrat const sum forc uneven distribut dot java 
+data migrat const sum forc uneven distribut 
 
 
 arg 

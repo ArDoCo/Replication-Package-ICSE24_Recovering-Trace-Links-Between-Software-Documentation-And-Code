@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep model sep search sep rule sep sentenc analyz test dot java 
+sentenc analyz test 

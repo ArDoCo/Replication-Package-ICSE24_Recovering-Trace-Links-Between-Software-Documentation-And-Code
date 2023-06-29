@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep replac string view dot java 
+replac string view 
 replac 
 select field onli 
 replac button 
@@ -11,6 +11,7 @@ visual
 
 librari tab 
 
+librari tab 
 
 replac string view 
 initi 

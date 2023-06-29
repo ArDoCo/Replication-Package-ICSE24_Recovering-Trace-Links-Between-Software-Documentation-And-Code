@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep util sep directori dialog configur dot java 
+directori dialog configur 

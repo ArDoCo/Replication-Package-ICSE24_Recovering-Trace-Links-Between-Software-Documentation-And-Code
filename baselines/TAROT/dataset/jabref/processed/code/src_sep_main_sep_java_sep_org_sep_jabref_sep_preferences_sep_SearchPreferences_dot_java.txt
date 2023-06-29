@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep search prefer dot java 
+search prefer 
 search display mode 
 search display mode 
 search flag 

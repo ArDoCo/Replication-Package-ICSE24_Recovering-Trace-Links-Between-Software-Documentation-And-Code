@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep contentselector sep content selector view model dot java 
+content selector view model 

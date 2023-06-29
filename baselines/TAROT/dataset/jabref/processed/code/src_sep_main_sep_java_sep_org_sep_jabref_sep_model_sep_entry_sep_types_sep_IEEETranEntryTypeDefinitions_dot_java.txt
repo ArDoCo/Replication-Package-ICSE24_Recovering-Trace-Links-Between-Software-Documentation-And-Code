@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep entri sep type sep ieee tran entri type definit dot java 
+ieee tran entri type definit 
 electron 
 ieeetranbstctl 
 period 
@@ -7,6 +7,12 @@ standard
 
 
 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
+bib entri type 
 
 
 

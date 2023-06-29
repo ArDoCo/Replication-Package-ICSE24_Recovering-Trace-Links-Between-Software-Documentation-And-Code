@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep option editor dot java 
+option editor 
 view model 
 view model 
 combo box 

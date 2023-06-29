@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep libraryproperti sep save sep save properti view model dot java 
+save properti view model 
 protect disabl properti 
 librari protect properti 
 save origin properti 
@@ -16,10 +16,14 @@ initi meta data
 export save order 
 prefer servic 
 
+field formatt cleanup 
+bib databas context 
+save order 
 
 databas context 
 prefer servic 
 
+bib databas context 
 
 save properti view model 
 set valu 

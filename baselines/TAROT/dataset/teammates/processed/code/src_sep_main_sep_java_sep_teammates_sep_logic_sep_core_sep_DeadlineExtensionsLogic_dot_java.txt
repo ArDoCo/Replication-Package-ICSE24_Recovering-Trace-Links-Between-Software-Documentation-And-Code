@@ -1,7 +1,8 @@
-src sep main sep java sep teammat sep logic sep core sep deadlin extens logic dot java 
+deadlin extens logic 
 instanc 
 de db 
 
+deadlin extens logic 
 
 updat option 
 cours id 

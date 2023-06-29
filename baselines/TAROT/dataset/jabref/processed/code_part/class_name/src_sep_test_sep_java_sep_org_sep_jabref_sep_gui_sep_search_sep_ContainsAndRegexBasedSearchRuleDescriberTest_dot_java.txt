@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep gui sep search sep regex base search rule describ test dot java 
+regex base search rule describ test 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep citat key deviat checker test dot java 
+citat key deviat checker test 
 bib databas context 
 bib databas 
 meta data 
@@ -7,6 +7,11 @@ global citat key pattern
 citat key pattern prefer 
 checker 
 
+bib databas context 
+bib databas 
+abstract citat key pattern 
+citat key pattern prefer 
+citat key deviat checker 
 
 
 

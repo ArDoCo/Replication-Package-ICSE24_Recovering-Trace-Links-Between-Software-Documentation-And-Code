@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep copyfil sep copi file dialog view dot java 
+copi file dialog view 
 tv result 
 tv result 
 col status 

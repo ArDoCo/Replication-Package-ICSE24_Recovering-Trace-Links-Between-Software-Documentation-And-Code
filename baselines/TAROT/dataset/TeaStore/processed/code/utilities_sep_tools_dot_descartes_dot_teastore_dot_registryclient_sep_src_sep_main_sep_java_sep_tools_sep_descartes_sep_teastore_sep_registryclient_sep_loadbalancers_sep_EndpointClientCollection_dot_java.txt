@@ -1,4 +1,4 @@
-util sep tool dot descart dot teastor dot registrycli sep src sep main sep java sep tool sep descart sep teastor sep registrycli sep loadbalanc sep endpoint client collect dot java 
+endpoint client collect 
 client 
 client 
 entiti class 

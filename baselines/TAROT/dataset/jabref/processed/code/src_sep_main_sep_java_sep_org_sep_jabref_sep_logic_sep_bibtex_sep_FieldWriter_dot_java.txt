@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep field writer dot java 
+field writer 
 bibtex string start symbol 
 logger 
 field start 
@@ -7,6 +7,7 @@ fail hash
 prefer 
 formatt 
 
+field content formatt 
 
 prefer 
 fail hash 

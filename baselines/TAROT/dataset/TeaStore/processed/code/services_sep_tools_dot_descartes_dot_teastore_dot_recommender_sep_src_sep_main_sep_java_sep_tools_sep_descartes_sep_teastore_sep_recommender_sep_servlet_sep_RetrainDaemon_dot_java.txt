@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot recommend sep src sep main sep java sep tool sep descart sep teastor sep recommend sep servlet sep retrain daemon dot java 
+retrain daemon 
 looptim 
 
 

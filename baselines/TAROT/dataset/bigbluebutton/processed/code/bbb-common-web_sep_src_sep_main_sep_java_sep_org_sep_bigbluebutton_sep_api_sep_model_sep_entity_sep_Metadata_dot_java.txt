@@ -1,9 +1,10 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep entiti sep metadata dot java 
+metadata 
 id 
 key 
 valu 
 record 
 
+record 
 
 id 
 key 
@@ -12,6 +13,7 @@ record
  
  
 
+record 
 
 id 
 set id 

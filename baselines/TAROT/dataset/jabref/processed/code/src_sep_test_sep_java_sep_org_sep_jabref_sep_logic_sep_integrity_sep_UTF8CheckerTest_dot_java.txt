@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep utf checker test dot java 
+utf checker test 
 entri 
 
+bib entri 
 
 
 

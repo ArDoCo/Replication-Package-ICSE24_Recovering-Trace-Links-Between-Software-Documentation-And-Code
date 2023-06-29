@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep entiti sep account dot java 
+account 
 googl id 
 
 email 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep entiti sep feedback question dot java 
+feedback question 
 feedback question id 
 feedback session 
 cours id 
@@ -18,6 +18,12 @@ show recipi
 creat 
 updat 
 
+feedback question type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 feedback session 
 cours id 
@@ -47,6 +53,18 @@ show respons
 show giver 
 show recipi 
 
+feedback question type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback question type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
+feedback particip type 
 
 feedback question 
 feedback question 

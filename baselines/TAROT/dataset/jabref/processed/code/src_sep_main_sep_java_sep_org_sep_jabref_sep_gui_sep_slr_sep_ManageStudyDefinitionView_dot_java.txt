@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep slr sep manag studi definit view dot java 
+manag studi definit view 
 logger 
 studi titl 
 add author 

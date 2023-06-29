@@ -1,4 +1,4 @@
-akka bbb fsesl sep src sep main sep java sep org sep bigbluebutton sep freeswitch sep voic sep event sep voic start record event dot java 
+voic start record event 
 timestamp 
 filenam 
 record 

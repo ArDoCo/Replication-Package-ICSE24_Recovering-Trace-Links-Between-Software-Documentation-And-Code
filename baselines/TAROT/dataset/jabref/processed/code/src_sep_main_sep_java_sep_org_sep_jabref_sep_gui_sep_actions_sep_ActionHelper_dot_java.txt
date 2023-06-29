@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep action sep action helper dot java 
+action helper 
 
 
 state manag 
@@ -16,6 +16,8 @@ prefer servic
 state manag 
 tab pane 
 
+field 
+field 
 
 databas 
 share databas 

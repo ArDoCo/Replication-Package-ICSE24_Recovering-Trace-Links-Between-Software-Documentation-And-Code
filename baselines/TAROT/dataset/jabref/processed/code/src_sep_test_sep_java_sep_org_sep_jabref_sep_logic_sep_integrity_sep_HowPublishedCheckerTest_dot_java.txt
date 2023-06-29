@@ -1,7 +1,9 @@
-src sep test sep java sep org sep jabref sep logic sep integr sep publish checker test dot java 
+publish checker test 
 checker 
 checker biblatex 
 
+publish checker 
+publish checker 
 
 
 

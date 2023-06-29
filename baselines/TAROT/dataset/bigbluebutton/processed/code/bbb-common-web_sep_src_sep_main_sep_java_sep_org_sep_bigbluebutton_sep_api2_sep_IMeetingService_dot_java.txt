@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep meet servic dot java 
+meet servic 
 
 
 token 
@@ -31,6 +31,9 @@ messag
 messag 
 messag 
 
+er session 
+meet 
+er listen onli 
 
 add user session 
 regist user 

@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep updat feedback session action test dot java 
+updat feedback session action test 
 
 
 time zone 

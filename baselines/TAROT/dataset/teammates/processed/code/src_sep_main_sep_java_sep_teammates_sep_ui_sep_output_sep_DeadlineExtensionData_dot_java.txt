@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep output sep deadlin extens data dot java 
+deadlin extens data 
 cours id 
 feedback session 
 user email 
@@ -9,6 +9,7 @@ time
 
 deadlin extens 
 
+deadlin extens attribut 
 
 deadlin extens data 
 cours id 

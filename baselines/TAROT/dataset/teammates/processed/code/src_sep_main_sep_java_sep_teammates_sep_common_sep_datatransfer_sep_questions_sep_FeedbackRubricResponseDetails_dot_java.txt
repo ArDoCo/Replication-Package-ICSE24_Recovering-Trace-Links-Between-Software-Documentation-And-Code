@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback rubric respons detail dot java 
+feedback rubric respons detail 
 answer 
 answer 
 

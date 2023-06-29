@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep student attribut dot java 
+student attribut 

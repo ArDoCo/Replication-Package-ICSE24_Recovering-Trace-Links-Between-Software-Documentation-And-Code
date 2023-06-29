@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep dbms synchron dot java 
+dbms synchron 
 logger 
 dbms processor 
 db 
@@ -13,6 +13,13 @@ file monitor
 entri chang 
 entri chang 
 
+dbms processor 
+bib databas context 
+meta data 
+bib databas 
+global citat key pattern 
+file updat monitor 
+bib entri 
 
 bib databas context 
 keyword separ 
@@ -33,6 +40,21 @@ bib entri
 meta data 
 listen 
 
+bib databas context 
+global citat key pattern 
+file updat monitor 
+entri ad event 
+field chang event 
+entri remov event 
+meta data chang event 
+bib entri 
+bib entri 
+meta data 
+global citat key pattern 
+entri event 
+databas connect 
+bib entri 
+meta data 
 
 dbms synchron 
 listen 

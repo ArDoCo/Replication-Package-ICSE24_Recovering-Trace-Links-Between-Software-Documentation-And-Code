@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep web fetcher test dot java 
+web fetcher test 
 logger 
 ignor inaccess fetcher 
 ignor inaccess fetcher 

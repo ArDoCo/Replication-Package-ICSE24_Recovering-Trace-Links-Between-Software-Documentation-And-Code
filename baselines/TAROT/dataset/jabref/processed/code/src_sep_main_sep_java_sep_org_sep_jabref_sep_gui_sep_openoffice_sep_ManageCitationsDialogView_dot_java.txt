@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep openoffic sep manag citat dialog view dot java 
+manag citat dialog view 
 html bold tag 
 html bold start tag 
 oo base 
@@ -11,6 +11,9 @@ extra info
 dialog servic 
 view model 
 
+citat entri view model 
+citat entri view model 
+citat entri view model 
 
 oo base 
 citat context 

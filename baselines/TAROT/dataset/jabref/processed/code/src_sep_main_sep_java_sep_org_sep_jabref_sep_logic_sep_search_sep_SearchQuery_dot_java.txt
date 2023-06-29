@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep search sep search queri dot java 
+search queri 
 javascript escap char pattern 
 queri 
 search flag 

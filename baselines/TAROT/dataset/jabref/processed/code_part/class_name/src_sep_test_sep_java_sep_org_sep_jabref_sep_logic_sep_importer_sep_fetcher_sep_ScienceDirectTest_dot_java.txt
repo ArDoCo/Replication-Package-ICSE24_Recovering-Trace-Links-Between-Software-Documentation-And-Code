@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep scienc direct test dot java 
+scienc direct test 

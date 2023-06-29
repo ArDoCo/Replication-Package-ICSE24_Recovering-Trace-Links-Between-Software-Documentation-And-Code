@@ -1,15 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep edit action dot java 
+edit action 
 logger 
 frame 
 text 
 action 
 state manag 
 
+standard action 
 
 action 
 frame 
 state manag 
 
+standard action 
 
 edit action 
 string 

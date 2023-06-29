@@ -1,8 +1,9 @@
-implement sep mediastor dot ejb dot facad sep src sep sep kit sep ipd sep sdq sep mediastor sep ejb sep facad sep facad impl dot java 
+facad impl 
 serial version uid 
 user manag 
 media manag 
 
+media manag 
 
 user 
 usernam 
@@ -16,6 +17,8 @@ bitrat
 download login 
 local call 
 
+er reg data 
+audio file 
 
 facad impl 
 init media manag 

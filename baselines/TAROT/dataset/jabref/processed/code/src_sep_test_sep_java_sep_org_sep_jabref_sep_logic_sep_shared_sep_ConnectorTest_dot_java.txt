@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep share sep connector test dot java 
+connector test 
 
 
 dbms type 

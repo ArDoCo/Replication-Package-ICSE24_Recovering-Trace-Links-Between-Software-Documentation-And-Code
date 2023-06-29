@@ -1,7 +1,8 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep inbound sep inbound client handler dot java 
+inbound client handler 
 password 
 listen 
 
+protocol listen 
 
 password 
 listen 
@@ -11,6 +12,7 @@ ctx
 ctx 
  
 
+protocol listen 
 
 inbound client handler 
 handl esl event 

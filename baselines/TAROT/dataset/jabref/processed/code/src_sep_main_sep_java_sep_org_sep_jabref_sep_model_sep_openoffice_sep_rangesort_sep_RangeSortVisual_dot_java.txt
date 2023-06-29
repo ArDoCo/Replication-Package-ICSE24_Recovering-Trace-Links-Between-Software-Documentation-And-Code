@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep rangesort sep rang sort visual dot java 
+rang sort visual 
 logger 
 posit 
 index posit 

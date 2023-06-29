@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep journal sep abbrevi dot java 
+abbrevi 
 serial version uid 
 
 abbrevi 
@@ -19,6 +19,7 @@ compar
 current 
  
 
+abbrevi 
 
 abbrevi 
 abbrevi 

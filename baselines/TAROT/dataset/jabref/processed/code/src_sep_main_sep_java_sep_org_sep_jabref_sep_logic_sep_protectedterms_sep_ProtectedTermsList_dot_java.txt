@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep protectedterm sep protect term list dot java 
+protect term list 
 logger 
 descript 
 term list 
@@ -23,6 +23,7 @@ term
 creat 
  
 
+protect term list 
 
 protect term list 
 protect term list 

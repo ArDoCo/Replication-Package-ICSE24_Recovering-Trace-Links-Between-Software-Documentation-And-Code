@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep entrydelet sep entri delet dot java 
+entri delet 
 delet entri 
 
 
@@ -7,6 +7,8 @@ databas context
 databas chang resolv factori 
 undo edit 
 
+bib databas context 
+compound 
 
 entri delet 
 appli chang 

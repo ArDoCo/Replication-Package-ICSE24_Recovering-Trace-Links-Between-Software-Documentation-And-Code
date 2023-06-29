@@ -1,7 +1,9 @@
-src sep test sep java sep org sep jabref sep logic sep search sep databas searcher test dot java 
+databas searcher test 
 invalid search queri 
 databas 
 
+search queri 
+bib databas 
 
 
 

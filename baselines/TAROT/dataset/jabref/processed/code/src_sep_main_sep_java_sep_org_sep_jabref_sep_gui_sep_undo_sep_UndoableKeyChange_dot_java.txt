@@ -1,14 +1,16 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep undoabl key chang dot java 
+undoabl key chang 
 entri 
 valu 
 valu 
 
+bib entri 
 
 chang 
 entri 
 valu 
 valu 
 
+bib entri 
 
 undoabl key chang 
 undoabl key chang 

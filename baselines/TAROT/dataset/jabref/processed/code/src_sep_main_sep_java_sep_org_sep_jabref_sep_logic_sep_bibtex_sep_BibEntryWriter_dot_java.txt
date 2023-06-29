@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep logic sep bibtex sep bib entri writer dot java 
+bib entri writer 
 logger 
 entri type manag 
 field writer 
 
+bib entri type manag 
+field writer 
 
 field writer 
 entri type manag 
@@ -30,6 +32,28 @@ entri
 field 
 indent 
 
+field writer 
+bib entri type manag 
+bib entri 
+bib databas mode 
+bib entri 
+bib writer 
+bib databas mode 
+bib entri 
+bib writer 
+bib databas mode 
+bib entri 
+bib writer 
+bib entri 
+bib writer 
+bib databas mode 
+bib entri 
+bib writer 
+bib entri 
+bib writer 
+field 
+bib entri 
+field 
 
 bib entri writer 
 serial 

@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep session respons stat action test dot java 
+session respons stat action test 
 
 
 

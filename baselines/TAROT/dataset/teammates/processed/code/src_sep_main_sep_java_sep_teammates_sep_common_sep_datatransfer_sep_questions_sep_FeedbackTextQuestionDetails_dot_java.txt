@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback text question detail dot java 
+feedback text question detail 
 text error invalid recommend length 
 recommend length 
 rich text 
@@ -12,6 +12,8 @@ feedback question attribut
 recommend length 
 rich text 
 
+feedback question detail 
+feedback question attribut 
 
 feedback text question detail 
 feedback text question detail 

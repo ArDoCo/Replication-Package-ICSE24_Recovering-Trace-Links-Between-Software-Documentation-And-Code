@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep cours attribut dot java 
+cours attribut 
 log 
 creat 
 delet 
@@ -17,6 +17,8 @@ institut option
 updat option 
 builder 
 
+logger 
+cours attribut 
 
 cours id 
 cours 
@@ -38,6 +40,9 @@ updat option
 timezon 
 institut 
 
+cours 
+cours attribut 
+cours attribut 
 
 cours attribut 
 valu 

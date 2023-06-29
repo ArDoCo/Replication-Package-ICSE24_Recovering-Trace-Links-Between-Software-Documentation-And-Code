@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep logic sep integr sep person checker dot java 
+person checker 
 bib mode 
 
+bib databas mode 
 
 databas context 
 valu 
 
+bib databas context 
 
 person checker 
 check valu 

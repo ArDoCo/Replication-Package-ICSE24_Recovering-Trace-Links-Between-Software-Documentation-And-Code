@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot auth sep src sep main sep java sep tool sep descart sep teastor sep auth sep secur sep sha secur provid dot java 
+sha secur provid 
 
 
 blob 
@@ -6,6 +6,9 @@ blob
 blob 
 password hash 
 
+session blob 
+session blob 
+session blob 
 
 key provid 
 secur 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep autosaveandbackup sep backup manag discard test dot java 
+backup manag discard test 
 bib databas context 
 backup manag 
 test bib 
@@ -6,6 +6,7 @@ save configur
 prefer servic 
 bib entri type manag 
 
+backup manag 
 
 temp dir 
 

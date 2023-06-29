@@ -1,10 +1,11 @@
-src sep test sep java sep org sep jabref sep logic sep xmp sep xmp util writer test dot java 
+xmp util writer test 
 temp dir 
 olli 
 toral 
 vapnik 
 xmp prefer 
 
+xmp prefer 
 
 entri 
 temp dir 

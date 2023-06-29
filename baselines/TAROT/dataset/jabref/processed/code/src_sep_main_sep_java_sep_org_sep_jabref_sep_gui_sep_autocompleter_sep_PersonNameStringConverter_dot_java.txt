@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep person string convert dot java 
+person string convert 
 auto comp ff 
 auto comp lf 
 auto complet mode 
 
+auto complet mode 
 
 auto comp ff 
 auto comp lf 
@@ -11,6 +12,8 @@ prefer
 author 
 string 
 
+auto complet mode 
+author 
 
 person string convert 
 person string convert 

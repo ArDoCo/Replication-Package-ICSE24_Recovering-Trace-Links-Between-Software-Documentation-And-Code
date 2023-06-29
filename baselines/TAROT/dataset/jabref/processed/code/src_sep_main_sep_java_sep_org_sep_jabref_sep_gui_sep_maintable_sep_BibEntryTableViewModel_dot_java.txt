@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep bib entri tabl view model dot java 
+bib entri tabl view model 
 entri 
 field valu formatt 
 field valu formatt 
@@ -14,6 +14,7 @@ match group
 match group 
 bib databas context 
 
+bib databas context 
 
 entri 
 bib databas context 
@@ -25,6 +26,8 @@ field
 field 
 field 
 
+bib databas context 
+bib databas context 
 
 bib entri tabl view model 
 creat link identifi bind 

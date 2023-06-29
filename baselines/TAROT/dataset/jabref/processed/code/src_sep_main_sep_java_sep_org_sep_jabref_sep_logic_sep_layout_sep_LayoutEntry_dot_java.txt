@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep layout entri dot java 
+layout entri 
 logger 
 option 
 option 
@@ -13,6 +13,9 @@ file dir databas
 file dir databas 
 prefer 
 
+layout formatt 
+layout formatt 
+layout entri 
 
 si 
 file dir databas 
@@ -35,6 +38,7 @@ encod
 formatt 
 call 
 
+layout formatt 
 
 layout entri 
 layout entri 

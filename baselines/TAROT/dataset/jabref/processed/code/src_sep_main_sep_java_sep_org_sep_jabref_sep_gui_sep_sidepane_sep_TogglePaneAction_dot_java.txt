@@ -1,13 +1,17 @@
-src sep main sep java sep org sep jabref sep gui sep sidepan sep toggl pane action dot java 
+toggl pane action 
 state manag 
 pane 
 side pane prefer 
 
+side pane type 
+side pane prefer 
 
 state manag 
 pane 
 side pane prefer 
 
+side pane type 
+side pane prefer 
 
 toggl pane action 
 execut 

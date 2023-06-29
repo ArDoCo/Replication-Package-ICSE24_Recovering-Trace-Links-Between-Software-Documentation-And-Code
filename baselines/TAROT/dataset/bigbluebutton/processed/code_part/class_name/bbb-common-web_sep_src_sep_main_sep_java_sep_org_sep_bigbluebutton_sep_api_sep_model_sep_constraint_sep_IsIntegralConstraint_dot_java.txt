@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep model sep constraint sep integr constraint dot java 
+integr constraint 

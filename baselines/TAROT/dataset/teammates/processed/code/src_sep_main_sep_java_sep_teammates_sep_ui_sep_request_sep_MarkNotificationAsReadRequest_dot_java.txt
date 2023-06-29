@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep mark notif read request dot java 
+mark notif read request 
 notif id 
 timestamp 
 

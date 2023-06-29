@@ -1,8 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep person suggest provid dot java 
+person suggest provid 
 field 
 field 
 databas 
 
+field 
+bib databas 
 
 field 
 databas 
@@ -12,6 +14,12 @@ entri
 candid 
 request 
 
+field 
+bib databas 
+field 
+bib databas 
+bib entri 
+author 
 
 person suggest provid 
 person suggest provid 

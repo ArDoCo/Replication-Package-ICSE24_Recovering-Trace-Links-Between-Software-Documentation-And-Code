@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep preview sep preview tab view model dot java 
+preview tab view model 
 logger 
 show extra tab properti 
 avail list properti 
@@ -25,6 +25,7 @@ drag sourc list
 drag sourc select model 
 drag sourc select model 
 
+custom local dragboard 
 
 dialog servic 
 preview prefer 

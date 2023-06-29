@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep doi bibtex convert isbn fetcher test dot java 
+doi bibtex convert isbn fetcher test 
 
 
 

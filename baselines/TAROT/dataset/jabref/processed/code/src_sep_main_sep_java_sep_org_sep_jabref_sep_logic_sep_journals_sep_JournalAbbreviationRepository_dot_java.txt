@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep journal sep journal abbrevi repositori dot java 
+journal abbrevi repositori 
 question mark 
 full abbrevi object 
 full abbrevi object 
@@ -11,6 +11,7 @@ shortest uniqu abbrevi object
 custom abbrevi 
 custom abbrevi 
 
+abbrevi 
 
 journal list 
 
@@ -27,6 +28,10 @@ text
 text 
 text 
 
+abbrevi 
+abbrevi 
+abbrevi 
+abbrevi 
 
 journal abbrevi repositori 
 match 

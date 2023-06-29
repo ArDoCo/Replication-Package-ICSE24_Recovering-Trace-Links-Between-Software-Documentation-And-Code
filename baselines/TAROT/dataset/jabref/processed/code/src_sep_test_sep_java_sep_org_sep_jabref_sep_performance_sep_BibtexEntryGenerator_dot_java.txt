@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep perform sep bibtex entri generat dot java 
+bibtex entri generat 
 
 
 number 

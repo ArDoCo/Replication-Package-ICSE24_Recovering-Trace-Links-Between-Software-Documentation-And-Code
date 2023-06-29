@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep document viewer view dot java 
+document viewer view 
 scroll bar 
 file choic 
 file choic 
@@ -13,6 +13,10 @@ prefer servic
 viewer 
 view model 
 
+link file 
+prefer servic 
+document viewer control 
+document viewer view model 
 
 live mode 
 page number 

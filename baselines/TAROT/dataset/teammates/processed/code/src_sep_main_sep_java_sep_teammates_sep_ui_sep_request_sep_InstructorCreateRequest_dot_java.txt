@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep instructor creat request dot java 
+instructor creat request 
 id 
 
 email 
@@ -6,6 +6,7 @@ role
 display 
 display student 
 
+instructor permiss role 
 
 id 
 

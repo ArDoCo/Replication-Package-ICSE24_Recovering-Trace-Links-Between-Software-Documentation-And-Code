@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep notif pane adapt dot java 
+notif pane adapt 

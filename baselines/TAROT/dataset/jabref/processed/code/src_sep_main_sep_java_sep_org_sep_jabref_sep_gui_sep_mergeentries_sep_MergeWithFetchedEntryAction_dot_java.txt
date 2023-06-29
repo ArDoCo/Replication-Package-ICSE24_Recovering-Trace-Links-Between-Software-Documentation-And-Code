@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep merg fetch entri action dot java 
+merg fetch entri action 
 librari tab 
 dialog servic 
 state manag 

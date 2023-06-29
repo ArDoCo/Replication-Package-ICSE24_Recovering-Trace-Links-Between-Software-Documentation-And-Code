@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep ui sep output sep cours archiv data dot java 
+cours archiv data 

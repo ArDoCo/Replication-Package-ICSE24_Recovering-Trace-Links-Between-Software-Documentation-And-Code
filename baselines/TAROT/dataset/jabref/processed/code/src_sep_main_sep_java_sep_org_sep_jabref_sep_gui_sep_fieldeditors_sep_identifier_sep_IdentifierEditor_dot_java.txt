@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep identifi sep identifi editor dot java 
+identifi editor 
 view model 
 view model 
 text area 
@@ -7,6 +7,7 @@ lookup identifi button
 entri 
 entri 
 
+bib entri 
 
 field 
 task executor 
@@ -16,6 +17,9 @@ field checker
 prefer 
 entri 
 
+field 
+dialog servic 
+bib entri 
 
 identifi editor 
 view model 

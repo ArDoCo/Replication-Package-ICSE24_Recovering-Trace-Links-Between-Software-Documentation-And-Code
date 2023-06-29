@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep nameformatt sep formatt tab dot java 
+formatt tab 
 formatt list 
 formatt list 
 formatt column 
@@ -11,6 +11,10 @@ add formatt
 add formatt string 
 formatt 
 
+formatt item model 
+formatt item model 
+formatt item model 
+formatt item model 
 
 
 

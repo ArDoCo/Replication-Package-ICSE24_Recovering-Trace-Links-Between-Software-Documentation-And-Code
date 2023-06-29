@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep prefer sep intern prefer dot java 
+intern prefer 
 ignor version 
 ignor version 
 prefer export path 

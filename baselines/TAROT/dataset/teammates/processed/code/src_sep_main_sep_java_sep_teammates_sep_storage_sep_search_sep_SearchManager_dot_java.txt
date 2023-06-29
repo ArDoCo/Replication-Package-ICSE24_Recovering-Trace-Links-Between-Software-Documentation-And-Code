@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep storag sep search sep search manag dot java 
+search manag 
 log 
 error delet document 
 error search document 
@@ -10,6 +10,7 @@ num result
 client 
 reset 
 
+logger 
 
 search servic host 
 reset 

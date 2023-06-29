@@ -1,4 +1,4 @@
-src sep client sep java sep teammat sep client sep script sep mock cours larg respons script dot java 
+mock cours larg respons script 
 number student 
 number team 
 number feedback question 
@@ -20,6 +20,7 @@ feedback question id
 feedback question text 
 feedback respons id 
 
+feedback particip type 
 
 arg 
 

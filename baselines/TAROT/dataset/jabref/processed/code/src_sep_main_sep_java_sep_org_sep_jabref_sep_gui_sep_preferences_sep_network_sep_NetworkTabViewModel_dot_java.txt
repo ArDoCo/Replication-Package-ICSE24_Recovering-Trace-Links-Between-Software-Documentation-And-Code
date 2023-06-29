@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep network sep network tab view model dot java 
+network tab view model 
 logger 
 remot server properti 
 remot port properti 
@@ -24,6 +24,12 @@ ssl prefer
 trust store manag 
 ssl certif chang 
 
+dialog servic 
+prefer servic 
+remot prefer 
+proxi prefer 
+proxi prefer 
+trust store manag 
 
 dialog servic 
 prefer 
@@ -31,6 +37,9 @@ proxi prefer
 valu 
 thumbprint 
 
+dialog servic 
+prefer servic 
+proxi prefer 
 
 network tab view model 
 set valu 

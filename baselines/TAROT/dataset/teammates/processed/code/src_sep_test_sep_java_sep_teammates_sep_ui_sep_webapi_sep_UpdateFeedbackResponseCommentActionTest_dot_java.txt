@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep updat feedback respons comment action test dot java 
+updat feedback respons comment action test 
 cours 
 session cours 
 instructor cours 
@@ -14,6 +14,15 @@ comment student
 comment team 
 comment instructor 
 
+feedback session attribut 
+instructor attribut 
+instructor attribut 
+instructor attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
+feedback respons comment attribut 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group dialog view dot java 
+group dialog view 
 field 
 descript field 
 icon field 
@@ -32,6 +32,10 @@ hierarchi tool tip
 valid visual 
 view model 
 
+group hierarchi type 
+group hierarchi type 
+group hierarchi type 
+group dialog view model 
 
 dialog servic 
 current databas 
@@ -41,6 +45,11 @@ group dialog header
 ikon 
 empti 
 
+dialog servic 
+bib databas context 
+prefer servic 
+abstract group 
+group dialog header 
 
 group dialog view 
 initi 

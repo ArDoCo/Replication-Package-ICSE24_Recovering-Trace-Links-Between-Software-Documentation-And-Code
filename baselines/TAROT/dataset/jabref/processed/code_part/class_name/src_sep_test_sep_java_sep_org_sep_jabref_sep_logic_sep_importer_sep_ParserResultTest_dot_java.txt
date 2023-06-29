@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep import sep parser result test dot java 
+parser result test 

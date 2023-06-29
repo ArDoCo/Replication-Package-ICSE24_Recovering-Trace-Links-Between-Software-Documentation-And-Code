@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep replac string view model dot java 
+replac string view model 
 field replac 
 find string 
 replac string 
@@ -11,6 +11,8 @@ field string properti
 field replac properti 
 select onli properti 
 
+field 
+librari tab 
 
 librari tab 
 entri 
@@ -19,6 +21,12 @@ entri
 field 
 compound 
 
+librari tab 
+bib entri 
+compound 
+bib entri 
+field 
+compound 
 
 replac string view model 
 replac 

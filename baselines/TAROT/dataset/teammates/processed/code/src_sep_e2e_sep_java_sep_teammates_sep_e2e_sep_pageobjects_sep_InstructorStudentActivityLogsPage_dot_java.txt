@@ -1,4 +1,4 @@
-src sep sep java sep teammat sep sep pageobject sep instructor student activ log page dot java 
+instructor student activ log page 
 log present session 
 log present session 
 activ type dropdown 
@@ -28,6 +28,7 @@ time box
 start instant 
 time zone 
 
+browser 
 
 instructor student activ log page 
 expect page content 

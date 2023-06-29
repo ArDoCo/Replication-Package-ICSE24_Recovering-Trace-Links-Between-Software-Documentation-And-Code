@@ -1,9 +1,10 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep latex citat tab dot java 
+latex citat tab 
 view model 
 search pane 
 progress indic 
 citat display 
 
+latex citat tab view model 
 
 databas context 
 prefer servic 
@@ -12,6 +13,8 @@ dialog servic
 entri 
 entri 
 
+bib databas context 
+dialog servic 
 
 latex citat tab 
 set search pane 

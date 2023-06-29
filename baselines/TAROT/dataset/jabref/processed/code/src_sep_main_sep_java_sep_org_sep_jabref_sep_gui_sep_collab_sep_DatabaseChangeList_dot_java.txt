@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep databas chang list dot java 
+databas chang list 
 
 
 origin databas 
@@ -11,6 +11,15 @@ origin databas
 databas chang resolv factori 
 diff 
 
+bib databas context 
+bib databas context 
+databas chang resolv factori 
+bib databas context 
+databas chang resolv factori 
+bib string diff 
+bib databas context 
+databas chang resolv factori 
+bib entri diff 
 
 databas chang list 
 compar chang 

@@ -1,7 +1,9 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fetcher sep isbntobibtex sep bn fetcher test dot java 
+bn fetcher test 
 fetcher 
 bib entri 
 
+bn fetcher 
+bib entri 
 
 
 

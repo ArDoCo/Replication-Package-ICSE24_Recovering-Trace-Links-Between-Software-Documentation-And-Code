@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep documentview sep document viewer control dot java 
+document viewer control 
 task executor 
 current page 
 current page 
@@ -12,6 +12,9 @@ imag holder
 background 
 page 
 
+document page view model 
+page dimens 
+document page view model 
 
 task executor 
 page number 
@@ -24,6 +27,10 @@ initi page
 page 
 page 
 
+document view model 
+document page view model 
+document page view model 
+document page view model 
 
 document viewer control 
 scroll max properti 

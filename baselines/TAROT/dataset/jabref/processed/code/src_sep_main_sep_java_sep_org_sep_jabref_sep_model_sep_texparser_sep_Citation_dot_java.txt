@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep texpars sep citat dot java 
+citat 
 context width 
 path 
 line 

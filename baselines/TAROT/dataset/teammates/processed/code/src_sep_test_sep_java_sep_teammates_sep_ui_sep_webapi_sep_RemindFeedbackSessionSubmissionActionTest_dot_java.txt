@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep ui sep webapi sep remind feedback session submiss action test dot java 
+remind feedback session submiss action test 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep icon sep jab ref ikon handler dot java 
+jab ref ikon handler 
 font resourc 
 
 

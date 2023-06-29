@@ -1,14 +1,16 @@
-bbb fsesl client sep src sep main sep java sep org sep freeswitch sep esl sep client sep outbound sep socket client dot java 
+socket client 
 log 
 channel 
 port 
 channel factori 
 pipelin factori 
 
+abstract outbound pipelin factori 
 
 port 
 pipelin factori 
 
+abstract outbound pipelin factori 
 
 socket client 
 start 

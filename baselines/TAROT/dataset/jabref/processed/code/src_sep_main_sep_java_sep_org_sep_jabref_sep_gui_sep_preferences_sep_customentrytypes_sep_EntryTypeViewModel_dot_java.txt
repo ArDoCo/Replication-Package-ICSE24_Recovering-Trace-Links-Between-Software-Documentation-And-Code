@@ -1,9 +1,11 @@
-src sep main sep java sep org sep jabref sep gui sep prefer sep customentrytyp sep entri type view model dot java 
+entri type view model 
 entri type 
 entri type 
 field 
 field 
 
+bib entri type 
+field view model 
 
 entri type 
 multilin 
@@ -11,6 +13,10 @@ obj
 field 
 focus item 
 
+bib entri type 
+field 
+field view model 
+field view model 
 
 entri type view model 
 hash code 

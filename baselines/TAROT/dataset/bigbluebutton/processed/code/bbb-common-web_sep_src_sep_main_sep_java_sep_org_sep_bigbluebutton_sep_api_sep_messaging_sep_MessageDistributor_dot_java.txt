@@ -1,13 +1,16 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag distributor dot java 
+messag distributor 
 handler 
 listen 
 listen 
 
+receiv messag handler 
 
 listen 
 handler 
 messag 
 
+receiv messag handler 
+messag 
 
 set messag listen 
 set messag handler 

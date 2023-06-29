@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep integr sep integr check dialog dot java 
+integr check dialog 
 messag tabl 
 messag tabl 
 key column 
@@ -18,6 +18,8 @@ view model
 tabl filter 
 tabl filter 
 
+theme manag 
+integr check dialog view model 
 
 messag 
 librari tab 

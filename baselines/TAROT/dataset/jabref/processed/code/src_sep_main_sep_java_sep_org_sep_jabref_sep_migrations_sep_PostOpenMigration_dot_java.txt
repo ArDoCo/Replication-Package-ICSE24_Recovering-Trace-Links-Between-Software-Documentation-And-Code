@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep migrat sep post open migrat dot java 
+post open migrat 
 
 
 parser result 

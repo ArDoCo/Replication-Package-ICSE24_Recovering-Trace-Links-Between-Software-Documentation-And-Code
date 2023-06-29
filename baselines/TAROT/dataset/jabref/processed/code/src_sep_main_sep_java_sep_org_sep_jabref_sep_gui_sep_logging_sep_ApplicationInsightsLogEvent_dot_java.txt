@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep log sep applic insight log event dot java 
+applic insight log event 
 log event 
 
 

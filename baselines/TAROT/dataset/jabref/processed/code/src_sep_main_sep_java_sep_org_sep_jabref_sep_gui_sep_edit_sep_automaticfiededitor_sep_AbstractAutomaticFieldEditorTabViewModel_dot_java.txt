@@ -1,14 +1,18 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep abstract automat field editor tab view model dot java 
+abstract automat field editor tab view model 
 logger 
 state manag 
 field 
 field 
 
+state manag 
+field 
 
 bib databas 
 state manag 
 extend 
 
+bib databas 
+state manag 
 
 abstract automat field editor tab view model 
 field 

@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep domain sep record metadata playback dot java 
+record metadata playback 
 format 
 link 
 process time 
@@ -6,6 +6,7 @@ durat
 extens 
 size 
 
+extens 
 
 format 
 link 
@@ -14,6 +15,7 @@ durat
 extens 
 size 
 
+extens 
 
 set format 
 format 

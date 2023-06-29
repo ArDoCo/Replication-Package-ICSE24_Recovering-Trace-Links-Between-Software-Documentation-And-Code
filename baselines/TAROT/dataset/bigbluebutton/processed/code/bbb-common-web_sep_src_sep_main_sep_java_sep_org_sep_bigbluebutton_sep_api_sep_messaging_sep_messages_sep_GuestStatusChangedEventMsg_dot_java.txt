@@ -1,12 +1,14 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep messag sep messag sep guest status chang event msg dot java 
+guest status chang event msg 
 meet id 
 guest 
 guest 
 
+guest status 
 
 meet id 
 guest 
 
+guest status 
 
 guest status chang event msg 
 

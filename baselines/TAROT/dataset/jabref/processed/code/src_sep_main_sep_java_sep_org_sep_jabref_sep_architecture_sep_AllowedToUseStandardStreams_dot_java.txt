@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep architectur sep standard stream dot java 
+standard stream 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep sourc tab dot java 
+sourc tab 
 logger 
 field prefer 
 mode 
@@ -17,6 +17,12 @@ code area
 previous entri 
 command 
 
+bib databas mode 
+import format prefer 
+file updat monitor 
+dialog servic 
+bib entri 
+standard action 
 
 command 
 bib databas context 
@@ -39,6 +45,17 @@ focus entri
 text 
 event 
 
+standard action 
+bib databas context 
+count undo manag 
+import format prefer 
+file updat monitor 
+dialog servic 
+bib entri 
+bib databas mode 
+bib entri 
+bib entri 
+bib entri 
 
 edit action 
 execut 

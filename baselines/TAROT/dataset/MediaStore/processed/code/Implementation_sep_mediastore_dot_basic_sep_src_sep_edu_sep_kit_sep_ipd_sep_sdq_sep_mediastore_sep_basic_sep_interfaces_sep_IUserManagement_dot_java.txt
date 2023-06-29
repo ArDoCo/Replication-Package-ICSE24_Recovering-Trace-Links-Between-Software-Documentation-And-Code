@@ -1,10 +1,11 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep interfac sep iu er manag dot java 
+iu er manag 
 
 
 user 
 usernam 
 password 
 
+er reg data 
 
 regist 
 login 

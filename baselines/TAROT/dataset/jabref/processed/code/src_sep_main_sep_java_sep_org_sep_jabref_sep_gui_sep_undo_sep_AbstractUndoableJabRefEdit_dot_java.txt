@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep undo sep abstract undoabl jab ref edit dot java 
+abstract undoabl jab ref edit 
 
 
 

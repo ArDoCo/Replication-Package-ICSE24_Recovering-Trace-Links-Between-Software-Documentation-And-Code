@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep webapi sep send login email action dot java 
+send login email action 
 
 
 

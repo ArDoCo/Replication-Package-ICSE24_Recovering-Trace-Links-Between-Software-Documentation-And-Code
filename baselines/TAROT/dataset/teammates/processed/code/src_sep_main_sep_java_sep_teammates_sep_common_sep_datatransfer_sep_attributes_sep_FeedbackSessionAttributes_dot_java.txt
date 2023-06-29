@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep attribut sep feedback session attribut dot java 
+feedback session attribut 
 feedback session 
 cours id 
 creator email 
@@ -64,6 +64,7 @@ instructor deadlin option
 updat option 
 builder 
 
+feedback session attribut 
 
 feedback session 
 cours id 
@@ -130,6 +131,7 @@ publish email enabl
 student deadlin 
 instructor deadlin 
 
+feedback session 
 
 feedback session attribut 
 valu 

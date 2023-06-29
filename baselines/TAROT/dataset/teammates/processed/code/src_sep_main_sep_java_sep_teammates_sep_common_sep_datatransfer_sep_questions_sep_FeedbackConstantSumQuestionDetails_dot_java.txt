@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep question sep feedback constant sum question detail dot java 
+feedback constant sum question detail 
 question type option 
 question type recipi 
 const sum min num option 
@@ -57,6 +57,8 @@ point
 min point 
 max point 
 
+feedback question detail 
+feedback question attribut 
 
 feedback constant sum question detail 
 feedback constant sum question detail 

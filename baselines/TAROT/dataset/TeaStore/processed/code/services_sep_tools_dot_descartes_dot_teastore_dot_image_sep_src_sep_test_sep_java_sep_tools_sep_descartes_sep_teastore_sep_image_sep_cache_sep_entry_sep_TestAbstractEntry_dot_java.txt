@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot imag sep src sep test sep java sep tool sep descart sep teastor sep imag sep cach sep entri sep test abstract entri dot java 
+test abstract entri 
 mock byte size 
 mock id 
 mock img 
@@ -6,6 +6,7 @@ mock img equal
 null entri 
 null entri 
 
+abstract entri 
 
 
 

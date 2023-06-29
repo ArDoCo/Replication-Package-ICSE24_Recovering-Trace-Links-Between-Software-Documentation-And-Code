@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep handler sep imag resiz handler dot java 
+imag resiz handler 

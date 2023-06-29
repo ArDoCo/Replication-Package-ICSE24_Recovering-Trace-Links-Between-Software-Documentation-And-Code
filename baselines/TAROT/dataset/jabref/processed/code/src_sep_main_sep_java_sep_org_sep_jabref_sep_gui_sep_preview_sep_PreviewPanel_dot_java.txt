@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep preview sep preview panel dot java 
+preview panel 
 logger 
 file linker 
 key bind repositori 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep io sep databas file lookup dot java 
+databas file lookup 
 file cach 
 file cach 
 possibl file path 
@@ -11,6 +11,7 @@ file prefer
 pathnam 
 entri 
 
+bib databas context 
 
 databas file lookup 
 lookup databas 

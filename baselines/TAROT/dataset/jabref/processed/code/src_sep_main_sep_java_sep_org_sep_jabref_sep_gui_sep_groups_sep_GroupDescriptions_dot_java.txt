@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group descript dot java 
+group descript 
 
 
 keyword group 
@@ -7,6 +7,7 @@ explicit group
 search group 
 show dynam 
 
+explicit group 
 
 group descript 
 short descript keyword group 

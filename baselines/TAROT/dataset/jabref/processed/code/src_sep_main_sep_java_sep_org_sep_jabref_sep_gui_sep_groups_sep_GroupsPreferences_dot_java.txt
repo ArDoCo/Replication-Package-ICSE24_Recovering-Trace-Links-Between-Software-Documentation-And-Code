@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group prefer dot java 
+group prefer 
 group view mode 
 group view mode 
 auto assign group 
@@ -6,6 +6,8 @@ display group count
 default hierarch context 
 default hierarch context 
 
+group view mode 
+group hierarchi type 
 
 group view mode 
 auto assign group 
@@ -16,6 +18,10 @@ auto assign group
 display group count 
 default hierarch context 
 
+group view mode 
+group hierarchi type 
+group view mode 
+group hierarchi type 
 
 group prefer 
 group view mode 

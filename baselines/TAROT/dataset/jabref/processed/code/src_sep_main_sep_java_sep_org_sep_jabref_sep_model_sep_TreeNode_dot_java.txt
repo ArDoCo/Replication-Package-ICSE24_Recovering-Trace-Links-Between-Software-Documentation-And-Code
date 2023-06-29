@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep tree node dot java 
+tree node 
 children 
 children 
 parent 

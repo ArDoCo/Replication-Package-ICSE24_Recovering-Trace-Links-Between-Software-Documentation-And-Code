@@ -1,4 +1,4 @@
-implement sep mediastor dot basic sep src sep sep kit sep ipd sep sdq sep mediastor sep basic sep config sep ejb dot java 
+ejb 
 
 host 
 port 
@@ -25,6 +25,7 @@ ri
 pi 
 obj 
 
+requir interfac 
 
 ejb 
 set provid interfac 

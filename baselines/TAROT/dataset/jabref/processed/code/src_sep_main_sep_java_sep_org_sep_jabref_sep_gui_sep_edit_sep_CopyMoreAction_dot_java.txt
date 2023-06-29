@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep copi action dot java 
+copi action 
 logger 
 action 
 dialog servic 
@@ -6,6 +6,7 @@ state manag
 clip board manag 
 prefer servic 
 
+standard action 
 
 action 
 dialog servic 
@@ -15,6 +16,7 @@ prefer servic
 doi 
 size 
 
+standard action 
 
 copi action 
 execut 

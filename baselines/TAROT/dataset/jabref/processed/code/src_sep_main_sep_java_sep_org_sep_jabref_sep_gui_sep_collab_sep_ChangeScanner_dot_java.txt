@@ -1,14 +1,20 @@
-src sep main sep java sep org sep jabref sep gui sep collab sep chang scanner dot java 
+chang scanner 
 logger 
 databas 
 prefer servic 
 databas chang resolv factori 
 
+bib databas context 
+prefer servic 
+databas chang resolv factori 
 
 databas 
 dialog servic 
 prefer servic 
 
+bib databas context 
+dialog servic 
+prefer servic 
 
 chang scanner 
 scan chang 

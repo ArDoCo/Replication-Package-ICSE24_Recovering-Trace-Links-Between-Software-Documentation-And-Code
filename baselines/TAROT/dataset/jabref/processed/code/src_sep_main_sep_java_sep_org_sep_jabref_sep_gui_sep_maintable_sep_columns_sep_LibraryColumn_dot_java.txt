@@ -1,8 +1,9 @@
-src sep main sep java sep org sep jabref sep gui sep maintabl sep column sep librari column dot java 
+librari column 
 
 
 model 
 
+main tabl column model 
 
 librari column 
 librari column 

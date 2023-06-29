@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep test sep base test case databas access dot java 
+base test case databas access 
 verif retri count 
 verif retri delay ms 
 oper retri count 
@@ -45,6 +45,10 @@ test data
 test data 
 test data 
 
+feedback question attribut 
+feedback question attribut 
+feedback question attribut 
+feedback respons comment attribut 
 
 verifi present databas 
 verifi present databas 

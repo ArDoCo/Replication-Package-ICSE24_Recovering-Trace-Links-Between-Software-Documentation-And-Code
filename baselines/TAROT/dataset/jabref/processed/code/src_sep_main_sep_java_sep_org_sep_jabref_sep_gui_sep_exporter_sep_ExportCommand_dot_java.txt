@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep export sep export command dot java 
+export command 
 logger 
 export method 
 frame 

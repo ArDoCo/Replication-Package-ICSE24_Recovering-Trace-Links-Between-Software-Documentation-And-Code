@@ -1,10 +1,14 @@
-src sep test sep java sep teammat sep logic sep api sep email generat test dot java 
+email generat test 
 cours logic 
 fs logic 
 instructor logic 
 student logic 
 email generat 
 
+cours logic 
+feedback session logic 
+student logic 
+email generat 
 
 email 
 recipi 
@@ -15,6 +19,8 @@ recipi
 subject 
 email content file path 
 
+email wrapper 
+email wrapper 
 
 prepar test data 
 test generat session link recoveri email 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep import sep import action dot java 
+import action 
 logger 
 frame 
 open 
@@ -9,6 +9,7 @@ import error
 task executor 
 pref 
 
+import 
 
 frame 
 open 
@@ -19,6 +20,7 @@ filenam
 file 
 import 
 
+import 
 
 import action 
 autom import 

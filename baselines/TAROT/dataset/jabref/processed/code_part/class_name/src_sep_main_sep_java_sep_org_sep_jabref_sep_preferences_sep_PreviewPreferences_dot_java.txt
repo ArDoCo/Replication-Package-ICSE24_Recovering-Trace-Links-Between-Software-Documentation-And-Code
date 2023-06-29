@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep prefer sep preview prefer dot java 
+preview prefer 

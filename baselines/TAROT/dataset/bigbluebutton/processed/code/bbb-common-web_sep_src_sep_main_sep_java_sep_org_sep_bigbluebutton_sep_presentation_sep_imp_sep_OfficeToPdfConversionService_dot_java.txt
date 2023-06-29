@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep imp sep offic pdf convers servic dot java 
+offic pdf convers servic 
 log 
 offic document valid 
 skip offic precheck 
@@ -20,6 +20,11 @@ pres offic convers exec
 pres offic convers timeout 
 pres offic convers max concurr 
 
+upload present 
+upload present 
+upload present 
+upload present 
+upload present 
 
 convert offic pdf 
 initi 

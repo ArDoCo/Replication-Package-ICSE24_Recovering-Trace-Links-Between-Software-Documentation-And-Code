@@ -1,10 +1,14 @@
-src sep test sep java sep org sep jabref sep logic sep import sep databas file lookup test dot java 
+databas file lookup test 
 databas 
 entri 
 entri 
 entri 
 entri 
 
+bib databas 
+bib entri 
+bib entri 
+bib entri 
 
 
 

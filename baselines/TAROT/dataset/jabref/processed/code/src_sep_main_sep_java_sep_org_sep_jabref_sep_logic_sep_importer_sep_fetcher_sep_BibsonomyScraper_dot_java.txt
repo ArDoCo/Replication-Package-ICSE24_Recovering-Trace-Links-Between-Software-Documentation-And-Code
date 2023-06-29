@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep bibsonomi scraper dot java 
+bibsonomi scraper 
 bibsonomi scraper 
 bibsonomi scraper post 
 logger 

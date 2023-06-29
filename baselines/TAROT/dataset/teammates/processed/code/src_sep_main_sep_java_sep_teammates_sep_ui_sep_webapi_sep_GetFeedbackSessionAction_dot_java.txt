@@ -1,9 +1,11 @@
-src sep main sep java sep teammat sep ui sep webapi sep feedback session action dot java 
+feedback session action 
 
 
 session 
 session 
 
+feedback session attribut 
+feedback session attribut 
 
 min auth level 
 check specif access control 

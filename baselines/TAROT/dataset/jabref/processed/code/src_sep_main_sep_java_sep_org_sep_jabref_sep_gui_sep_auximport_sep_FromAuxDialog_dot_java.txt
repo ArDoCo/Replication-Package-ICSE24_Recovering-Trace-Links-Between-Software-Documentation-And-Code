@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep auximport sep aux dialog dot java 
+aux dialog 
 librari tab 
 generat button type 
 generat button 
@@ -11,9 +11,15 @@ prefer
 dialog servic 
 theme manag 
 
+librari tab 
+aux parser result 
+prefer servic 
+dialog servic 
+theme manag 
 
 frame 
 
+jab ref frame 
 
 aux dialog 
 pars action perform 

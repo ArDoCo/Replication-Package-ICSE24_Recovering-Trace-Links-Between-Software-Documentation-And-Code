@@ -1,7 +1,8 @@
-src sep main sep java sep org sep jabref sep gui sep keyboard sep key bind repositori dot java 
+key bind repositori 
 bind 
 bind 
 
+key bind 
 
 bind 
 bind 
@@ -22,6 +23,11 @@ bind
 key event 
  
 
+key bind 
+key bind 
+key bind 
+key bind 
+key bind 
 
 key bind repositori 
 key bind repositori 

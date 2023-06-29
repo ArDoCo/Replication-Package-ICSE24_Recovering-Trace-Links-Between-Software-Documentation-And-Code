@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep migrat sep merg review comment action migrat test dot java 
+merg review comment action migrat test 
 action 
 entri 
 expect entri 

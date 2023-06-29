@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep ui sep servlet sep legaci url mapper dot java 
+legaci url mapper 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep preview sep copi citat action dot java 
+copi citat action 

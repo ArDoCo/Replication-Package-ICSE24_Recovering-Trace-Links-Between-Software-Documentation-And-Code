@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep edit sep automaticfiededitor sep renamefield sep renam field view model dot java 
+renam field view model 
 tab index 
 field 
 select field 
@@ -9,6 +9,8 @@ field valid
 field valid 
 renam 
 
+field 
+bib entri 
 
 select entri 
 databas 
@@ -16,6 +18,8 @@ state manag
 
 field 
 
+bib entri 
+field 
 
 renam field view model 
 field valid status 

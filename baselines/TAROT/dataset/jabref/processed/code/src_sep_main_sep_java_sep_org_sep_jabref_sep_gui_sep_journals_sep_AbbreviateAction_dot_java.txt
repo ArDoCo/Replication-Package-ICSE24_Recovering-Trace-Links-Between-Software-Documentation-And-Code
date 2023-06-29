@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep journal sep abbrevi action dot java 
+abbrevi action 
 logger 
 action 
 frame 
@@ -7,6 +7,12 @@ state manag
 journal abbrevi prefer 
 abbrevi type 
 
+standard action 
+jab ref frame 
+dialog servic 
+state manag 
+journal abbrevi prefer 
+abbrevi type 
 
 action 
 frame 
@@ -18,6 +24,15 @@ entri
 databas context 
 entri 
 
+standard action 
+jab ref frame 
+dialog servic 
+state manag 
+journal abbrevi prefer 
+bib databas context 
+bib entri 
+bib databas context 
+bib entri 
 
 abbrevi action 
 execut 

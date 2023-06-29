@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep view model text field tabl cell visual factori dot java 
+view model text field tabl cell visual factori 
 invalid pseudo class 
 valid status properti 
 valid status properti 

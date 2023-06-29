@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep rangesort sep function text view cursor dot java 
+function text view cursor 
 initi posit 
 initi select 
 view cursor 

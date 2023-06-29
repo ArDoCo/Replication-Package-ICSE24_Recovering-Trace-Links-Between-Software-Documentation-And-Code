@@ -1,1 +1,1 @@
-src sep test sep java sep teammat sep logic sep core sep feedback respons logic test dot java 
+feedback respons logic test 

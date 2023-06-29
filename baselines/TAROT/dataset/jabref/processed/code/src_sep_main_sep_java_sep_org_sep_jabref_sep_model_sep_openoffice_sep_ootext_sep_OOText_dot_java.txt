@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep ootext sep oo text dot java 
+oo text 
 data 
 
 
@@ -7,6 +7,7 @@ string
 ootext 
 object 
 
+oo text 
 
 oo text 
 string 

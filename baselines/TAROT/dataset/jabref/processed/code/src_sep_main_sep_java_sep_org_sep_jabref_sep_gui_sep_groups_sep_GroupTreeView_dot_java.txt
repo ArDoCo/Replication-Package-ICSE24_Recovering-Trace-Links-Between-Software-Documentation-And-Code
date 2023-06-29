@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep group sep group tree view dot java 
+group tree view 
 logger 
 pseudoclass anyselect 
 pseudoclass allselect 
@@ -30,6 +30,19 @@ drag start
 command 
 group 
 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+state manag 
+dialog servic 
+task executor 
+prefer servic 
+group tree view model 
+custom local dragboard 
+group node view model 
+standard action 
+group node view model 
 
 task executor 
 state manag 
@@ -63,6 +76,29 @@ tree item
 command 
 group 
 
+task executor 
+state manag 
+prefer servic 
+dialog servic 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+group node view model 
+standard action 
+group node view model 
 
 group tree view 
 creat node 

@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep cli sep jab ref cli test dot java 
+jab ref cli test 

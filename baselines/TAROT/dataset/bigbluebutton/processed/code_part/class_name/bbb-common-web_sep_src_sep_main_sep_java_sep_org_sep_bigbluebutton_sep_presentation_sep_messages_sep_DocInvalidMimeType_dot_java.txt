@@ -1,1 +1,1 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep present sep messag sep doc invalid mime type dot java 
+doc invalid mime type 

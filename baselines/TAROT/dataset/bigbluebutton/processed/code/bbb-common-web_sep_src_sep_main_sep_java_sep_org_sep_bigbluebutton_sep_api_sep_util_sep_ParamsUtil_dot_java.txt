@@ -1,8 +1,9 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep util sep param util dot java 
+param util 
 log 
 valid id pattern 
 invalid char 
 
+pattern 
 
 text 
 valu 

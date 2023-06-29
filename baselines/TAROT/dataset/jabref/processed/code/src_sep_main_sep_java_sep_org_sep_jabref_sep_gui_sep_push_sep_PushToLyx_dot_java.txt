@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push lyx dot java 
+push lyx 
 
 logger 
 
@@ -11,6 +11,12 @@ databas
 entri 
 key string 
 
+dialog servic 
+prefer servic 
+push applic 
+push applic prefer 
+bib databas context 
+bib entri 
 
 push lyx 
 display 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep pdf sep file annot type dot java 
+file annot type 
 logger 
 
 link file annot type 

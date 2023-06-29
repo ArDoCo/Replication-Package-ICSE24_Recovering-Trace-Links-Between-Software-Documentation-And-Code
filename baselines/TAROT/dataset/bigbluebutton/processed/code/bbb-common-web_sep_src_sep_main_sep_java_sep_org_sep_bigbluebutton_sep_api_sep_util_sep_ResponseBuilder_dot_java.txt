@@ -1,4 +1,4 @@
-bbb common web sep src sep main sep java sep org sep bigbluebutton sep api sep util sep respons builder dot java 
+respons builder 
 log 
 cfg 
 
@@ -50,6 +50,11 @@ templat
 data 
 
 
+meet 
+meet 
+er session 
+meet 
+er session 
 
 respons builder 
 respons builder 

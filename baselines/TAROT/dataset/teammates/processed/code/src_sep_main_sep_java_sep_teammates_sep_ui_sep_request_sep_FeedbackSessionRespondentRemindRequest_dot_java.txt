@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep feedback session respond remind request dot java 
+feedback session respond remind request 
 user remind 
 send copi instructor 
 

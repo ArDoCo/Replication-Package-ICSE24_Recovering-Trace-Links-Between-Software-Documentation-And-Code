@@ -1,8 +1,9 @@
-src sep main sep java sep teammat sep ui sep output sep general log data dot java 
+general log data 
 log entri 
 log entri 
 page 
 
+general log entri 
 
 queri result 
 

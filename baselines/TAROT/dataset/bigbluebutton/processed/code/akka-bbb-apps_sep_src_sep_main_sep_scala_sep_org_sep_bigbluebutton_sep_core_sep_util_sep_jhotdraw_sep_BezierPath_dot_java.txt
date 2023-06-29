@@ -1,4 +1,4 @@
-akka bbb app sep src sep main sep scala sep org sep bigbluebutton sep core sep util sep jhotdraw sep bezier path dot java 
+bezier path 
 serial version uid 
 mask 
 mask 
@@ -111,6 +111,7 @@ sweep flag
  
 valu 
 
+bezier path 
 
 node 
 node 

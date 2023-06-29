@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep extern link creator dot java 
+extern link creator 
 shortscienc search url 
 
 

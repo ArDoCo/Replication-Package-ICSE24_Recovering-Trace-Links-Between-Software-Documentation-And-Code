@@ -1,6 +1,7 @@
-src sep main sep java sep teammat sep storag sep api sep notif db dot java 
+notif db 
 instanc 
 
+notif db 
 
 notif id 
 target user 
@@ -11,6 +12,8 @@ notif id
 entiti creat 
 entiti 
 
+notif target user 
+notif 
 
 notif db 
 inst 

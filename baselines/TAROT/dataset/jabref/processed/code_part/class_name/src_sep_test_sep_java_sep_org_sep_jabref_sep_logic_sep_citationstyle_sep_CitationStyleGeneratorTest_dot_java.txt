@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep logic sep citationstyl sep citat style generat test dot java 
+citat style generat test 

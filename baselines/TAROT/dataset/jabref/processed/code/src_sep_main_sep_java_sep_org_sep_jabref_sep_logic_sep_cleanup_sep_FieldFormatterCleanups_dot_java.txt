@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep cleanup sep field formatt cleanup dot java 
+field formatt cleanup 
 default save action 
 default save action 
 recommend bibtex action 
@@ -12,6 +12,10 @@ enabl
 action 
 action 
 
+field formatt cleanup 
+field formatt cleanup 
+field formatt cleanup 
+field formatt cleanup 
 
 enabl 
 action 
@@ -25,6 +29,8 @@ formatt meta list
 formatt 
 obj 
 
+field formatt cleanup 
+field formatt cleanup 
 
 field formatt cleanup 
 meta data string 

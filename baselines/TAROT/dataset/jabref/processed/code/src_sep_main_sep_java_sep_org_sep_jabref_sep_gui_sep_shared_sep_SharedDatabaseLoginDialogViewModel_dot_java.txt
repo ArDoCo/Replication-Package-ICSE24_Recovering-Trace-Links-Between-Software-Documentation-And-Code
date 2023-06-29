@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep share sep share databas login dialog view model dot java 
+share databas login dialog view model 
 logger 
 select dbms type 
 select dbms type 

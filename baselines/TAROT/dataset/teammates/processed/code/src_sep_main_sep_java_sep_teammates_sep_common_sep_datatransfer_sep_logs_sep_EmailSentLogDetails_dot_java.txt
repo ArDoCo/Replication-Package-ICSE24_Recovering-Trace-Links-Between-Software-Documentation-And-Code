@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep log sep email sent log detail dot java 
+email sent log detail 
 email recipi 
 email subject 
 email content 

@@ -1,1 +1,1 @@
-src sep main sep java sep org sep jabref sep gui sep commonfxcontrol sep citat key pattern panel view model dot java 
+citat key pattern panel view model 

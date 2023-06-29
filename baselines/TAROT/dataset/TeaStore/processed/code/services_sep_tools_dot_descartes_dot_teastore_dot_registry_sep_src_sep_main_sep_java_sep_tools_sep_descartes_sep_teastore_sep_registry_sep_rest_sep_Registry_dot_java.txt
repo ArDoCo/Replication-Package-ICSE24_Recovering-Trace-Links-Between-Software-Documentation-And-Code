@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot registri sep src sep main sep java sep tool sep descart sep teastor sep registri sep rest sep registri dot java 
+registri 
 registri 
 servic locat map 
 servic locat map 
@@ -9,6 +9,7 @@ read lock
 write lock 
 log 
 
+registri 
 
 
 

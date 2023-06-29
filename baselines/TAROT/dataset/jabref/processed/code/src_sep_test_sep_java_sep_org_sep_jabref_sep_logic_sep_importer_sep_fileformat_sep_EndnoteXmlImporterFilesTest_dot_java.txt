@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep import sep fileformat sep endnot xml import file test dot java 
+endnot xml import file test 
 file 
 import format prefer 
 

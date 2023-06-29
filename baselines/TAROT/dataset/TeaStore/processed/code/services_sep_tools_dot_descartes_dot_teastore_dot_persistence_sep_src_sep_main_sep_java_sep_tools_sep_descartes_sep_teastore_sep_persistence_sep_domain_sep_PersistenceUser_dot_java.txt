@@ -1,4 +1,4 @@
-servic sep tool dot descart dot teastor dot persist sep src sep main sep java sep tool sep descart sep teastor sep persist sep domain sep persist user dot java 
+persist user 
 id 
 user 
 password 
@@ -7,6 +7,7 @@ email
 order 
 order 
 
+persist order 
 
 id 
 user 

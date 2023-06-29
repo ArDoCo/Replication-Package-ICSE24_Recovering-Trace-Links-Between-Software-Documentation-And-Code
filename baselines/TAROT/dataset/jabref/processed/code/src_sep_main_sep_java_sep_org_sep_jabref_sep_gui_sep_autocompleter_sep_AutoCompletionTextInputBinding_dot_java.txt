@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep autocomplet sep auto complet text input bind dot java 
+auto complet text input bind 
 convert 
 convert 
 input analyz 
@@ -8,6 +8,7 @@ show focus
 focus chang listen 
 focus chang listen 
 
+auto complet strategi 
 
 text input control 
 suggest provid 
@@ -36,6 +37,9 @@ text
 complet 
 show focus 
 
+auto complet strategi 
+auto complet strategi 
+auto complet strategi 
 
 auto complet text input bind 
 auto complet text input bind 

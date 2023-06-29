@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep datatransf sep instructor privileg dot java 
+instructor privileg 
 privileg coowner 
 privileg manag 
 privileg observ 
@@ -19,6 +19,12 @@ section level
 session level 
 session level 
 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
+instructor permiss set 
 
 instr role 
 legaci format 
@@ -65,6 +71,8 @@ privileg
 privileg 
 anoth 
 
+instructor privileg legaci 
+instructor permiss set 
 
 instructor privileg 
 instructor privileg 

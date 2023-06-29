@@ -1,1 +1,1 @@
-src sep test sep java sep org sep jabref sep model sep entri sep identifi sep iacr eprint test dot java 
+iacr eprint test 

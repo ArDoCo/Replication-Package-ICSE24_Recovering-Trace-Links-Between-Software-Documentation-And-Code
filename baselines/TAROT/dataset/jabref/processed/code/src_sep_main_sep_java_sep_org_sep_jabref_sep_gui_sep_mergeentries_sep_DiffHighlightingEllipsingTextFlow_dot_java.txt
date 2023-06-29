@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep diff highlight ellips text flow dot java 
+diff highlight ellips text flow 
 default ellipsi string 
 ellipsi string 
 children 
@@ -13,6 +13,7 @@ comparison string
 diff mode 
 diff mode 
 
+number 
 
 full text 
 comparison string 

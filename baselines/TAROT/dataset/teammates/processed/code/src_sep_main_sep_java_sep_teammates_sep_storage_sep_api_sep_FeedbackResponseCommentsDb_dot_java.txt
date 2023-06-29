@@ -1,7 +1,8 @@
-src sep main sep java sep teammat sep storag sep api sep feedback respons comment db dot java 
+feedback respons comment db 
 log 
 instanc 
 
+feedback respons comment db 
 
 feedback respons comment id 
 feedback respons id 
@@ -50,6 +51,8 @@ section
 entiti creat 
 entiti 
 
+attribut delet queri 
+feedback respons comment attribut 
 
 feedback respons comment db 
 inst 

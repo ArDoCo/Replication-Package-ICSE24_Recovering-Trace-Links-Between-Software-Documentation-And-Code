@@ -1,4 +1,4 @@
-src sep test sep java sep teammat sep storag sep api sep feedback question db test dot java 
+feedback question db test 
 fq db 
 
 
@@ -6,6 +6,7 @@ num
 num delet 
 attribut 
 
+feedback question attribut 
 
 test timestamp 
 test delet feedback question 

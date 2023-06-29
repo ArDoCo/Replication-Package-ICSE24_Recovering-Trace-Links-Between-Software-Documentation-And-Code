@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep openoffic sep uno sep uno cross ref dot java 
+uno cross ref 
 
 
 doc 

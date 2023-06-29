@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep share sep dbms connect properti dot java 
+dbms connect properti 
 logger 
 type 
 host 
@@ -25,6 +25,7 @@ server timezon
 key store 
 obj 
 
+share databas prefer 
 
 dbms connect properti 
 dbms connect properti 

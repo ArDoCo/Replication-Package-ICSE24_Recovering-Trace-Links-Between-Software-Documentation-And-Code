@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep databas sep duplic check dot java 
+duplic check 
 duplic threshold 
 logger 
 equal 
@@ -12,6 +12,8 @@ field weight
 field weight 
 entri type manag 
 
+field 
+bib entri type manag 
 
 entri type manag 
 
@@ -62,6 +64,36 @@ databas
 entri 
 bib databas mode 
 
+bib entri type manag 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+field 
+bib entri 
+bib entri 
+field 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
+field 
+bib entri 
+bib entri 
+bib databas mode 
+bib databas 
+bib entri 
+bib databas mode 
 
 duplic check 
 identifi 

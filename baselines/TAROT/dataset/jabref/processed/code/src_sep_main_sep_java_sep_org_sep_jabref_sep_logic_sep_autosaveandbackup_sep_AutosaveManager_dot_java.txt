@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep autosaveandbackup sep autosav manag dot java 
+autosav manag 
 logger 
 delay autosav attempt 
 run instanc 
@@ -9,6 +9,8 @@ chang filter
 executor 
 save 
 
+autosav manag 
+bib databas context 
 
 bib databas context 
 event 
@@ -17,6 +19,10 @@ bib databas context
 listen 
 listen 
 
+bib databas context 
+bib databas context chang event 
+bib databas context 
+bib databas context 
 
 autosav manag 
 listen 

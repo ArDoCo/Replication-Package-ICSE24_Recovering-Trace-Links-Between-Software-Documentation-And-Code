@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep common sep util sep email send status dot java 
+email send status 
 status code 
 messag 
 success 

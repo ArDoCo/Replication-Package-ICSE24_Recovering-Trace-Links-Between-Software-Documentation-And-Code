@@ -1,11 +1,13 @@
-src sep main sep java sep org sep jabref sep cli sep aux command line dot java 
+aux command line 
 aux file 
 databas 
 
+bib databas 
 
 aux file 
 databas 
 
+bib databas 
 
 aux command line 
 perform 

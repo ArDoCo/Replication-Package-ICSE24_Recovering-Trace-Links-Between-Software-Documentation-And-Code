@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep preview sep preview viewer dot java 
+preview viewer 
 logger 
 js select html script 
 js highlight function 
@@ -19,6 +19,12 @@ regist
 listen 
 listen 
 
+clip board manag 
+dialog servic 
+task executor 
+preview layout 
+bib entri 
+bib databas context 
 
 databas 
 dialog servic 
@@ -30,6 +36,11 @@ entri
 text 
 observ 
 
+bib databas context 
+dialog servic 
+theme manag 
+preview layout 
+bib entri 
 
 preview viewer 
 highlight search pattern 

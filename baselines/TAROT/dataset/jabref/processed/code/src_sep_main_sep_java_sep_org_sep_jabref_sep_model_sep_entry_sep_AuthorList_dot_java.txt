@@ -1,10 +1,12 @@
-src sep main sep java sep org sep jabref sep model sep entri sep author list dot java 
+author list 
 author cach 
 author cach 
 author 
 author 
 latex free author 
 
+author 
+author list 
 
 author 
 author 
@@ -39,6 +41,11 @@ abbrevi
 oxford comma 
  
 
+author 
+author 
+author 
+author 
+author 
 
 author list 
 

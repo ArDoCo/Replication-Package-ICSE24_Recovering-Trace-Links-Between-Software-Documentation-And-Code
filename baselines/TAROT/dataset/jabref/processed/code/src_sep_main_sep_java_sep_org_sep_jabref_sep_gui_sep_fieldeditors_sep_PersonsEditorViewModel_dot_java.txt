@@ -1,6 +1,7 @@
-src sep main sep java sep org sep jabref sep gui sep fieldeditor sep person editor view model dot java 
+person editor view model 
 prefer 
 
+auto complet prefer 
 
 field 
 suggest provid 
@@ -8,6 +9,9 @@ prefer
 field checker 
 request 
 
+field 
+auto complet prefer 
+field checker 
 
 person editor view model 
 auto complet convert 

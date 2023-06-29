@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push emac set dot java 
+push emac set 
 addit param 
 
 
@@ -7,6 +7,10 @@ dialog servic
 file prefer 
 prefer 
 
+push applic 
+dialog servic 
+file prefer 
+push applic prefer 
 
 push emac set 
 store set 

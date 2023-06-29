@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep model sep group sep group entri changer dot java 
+group entri changer 
 
 
 entri add 

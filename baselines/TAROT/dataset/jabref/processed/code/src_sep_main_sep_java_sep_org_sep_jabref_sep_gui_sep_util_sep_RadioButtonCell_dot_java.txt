@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep util sep radio button cell dot java 
+radio button cell 
 enumer 
 enumer 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep layout sep layout dot java 
+layout 
 logger 
 layout entri 
 layout entri 

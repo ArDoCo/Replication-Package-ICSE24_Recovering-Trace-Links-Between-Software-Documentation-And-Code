@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep entryeditor sep math sci net tab dot java 
+math sci net tab 
 
 
 entri 
@@ -6,6 +6,10 @@ entri
 entri 
 entri 
 
+bib entri 
+bib entri 
+bib entri 
+bib entri 
 
 math sci net tab 
 math sci net id 

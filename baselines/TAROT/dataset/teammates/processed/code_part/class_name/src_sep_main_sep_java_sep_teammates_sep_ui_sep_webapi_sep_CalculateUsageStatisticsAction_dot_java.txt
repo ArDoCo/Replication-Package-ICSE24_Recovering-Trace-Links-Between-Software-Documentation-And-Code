@@ -1,1 +1,1 @@
-src sep main sep java sep teammat sep ui sep webapi sep calcul usag statist action dot java 
+calcul usag statist action 

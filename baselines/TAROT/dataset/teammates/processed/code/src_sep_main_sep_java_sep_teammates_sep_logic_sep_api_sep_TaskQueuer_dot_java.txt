@@ -1,8 +1,10 @@
-src sep main sep java sep teammat sep logic sep api sep task queuer dot java 
+task queuer 
 log 
 instanc 
 servic 
 
+logger 
+task queuer 
 
 queue 
 worker url 
@@ -46,6 +48,8 @@ email
 email 
 email delay timer 
 
+email wrapper 
+email wrapper 
 
 task queuer 
 inst 

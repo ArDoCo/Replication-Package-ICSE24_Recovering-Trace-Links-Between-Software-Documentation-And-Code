@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep import sep fetcher sep lib fetcher dot java 
+lib fetcher 
 logger 
 
 mdl jabref partner id 
@@ -11,6 +11,7 @@ descript
 recommend set id 
 prefer 
 
+dlib prefer 
 
 languag 
 version 
@@ -19,6 +20,8 @@ entri
 queri titl 
 queri titl 
 
+dlib prefer 
+bib entri 
 
 lib fetcher 
 

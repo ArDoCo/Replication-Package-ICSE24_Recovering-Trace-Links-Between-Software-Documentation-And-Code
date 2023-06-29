@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep openoffic sep citat entri test dot java 
+citat entri test 
 
 
 

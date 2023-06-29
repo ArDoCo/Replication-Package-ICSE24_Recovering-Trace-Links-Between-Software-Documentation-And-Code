@@ -1,1 +1,1 @@
-akka bbb app sep src sep test sep java sep org sep bigbluebutton sep xml sep simpl dot java 
+simpl 

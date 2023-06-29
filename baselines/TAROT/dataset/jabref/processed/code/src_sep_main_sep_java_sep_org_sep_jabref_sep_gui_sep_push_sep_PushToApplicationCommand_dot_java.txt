@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep push sep push applic command dot java 
+push applic command 
 logger 
 state manag 
 dialog servic 
@@ -7,6 +7,9 @@ reconfigur control
 reconfigur control 
 applic 
 
+dialog servic 
+prefer servic 
+push applic 
 
 state manag 
 dialog servic 
@@ -15,6 +18,9 @@ node
 applic 
 entri 
 
+dialog servic 
+prefer servic 
+bib entri 
 
 push applic command 
 regist reconfigur 

@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep model sep search sep rule sep base search rule test dot java 
+base search rule test 
 
 bs case sensit 
 bs case insensit 

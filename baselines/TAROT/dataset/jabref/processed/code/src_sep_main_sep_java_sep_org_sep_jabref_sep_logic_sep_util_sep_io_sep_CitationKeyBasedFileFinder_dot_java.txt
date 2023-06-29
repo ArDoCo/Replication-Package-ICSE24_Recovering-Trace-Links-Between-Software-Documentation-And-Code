@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep util sep io sep citat key base file finder dot java 
+citat key base file finder 
 exact key onli 
 
 
@@ -11,6 +11,7 @@ cite key
 directori 
 extens 
 
+bib entri 
 
 citat key base file finder 
 find associ file 

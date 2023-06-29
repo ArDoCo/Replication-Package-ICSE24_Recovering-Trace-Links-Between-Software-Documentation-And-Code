@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep mergeentri sep newmergedialog sep field row view dot java 
+field row view 
 logger 
 view model 
 show diff 
@@ -9,6 +9,10 @@ merg valu cell
 toggl group 
 parent 
 
+field cell 
+field valu cell 
+field valu cell 
+merg field cell 
 
 field 
 left entri 
@@ -18,6 +22,12 @@ field merger factori
 row index 
 diff config 
 
+field 
+bib entri 
+bib entri 
+bib entri 
+field merger factori 
+show diff config 
 
 field row view 
 select left valu 

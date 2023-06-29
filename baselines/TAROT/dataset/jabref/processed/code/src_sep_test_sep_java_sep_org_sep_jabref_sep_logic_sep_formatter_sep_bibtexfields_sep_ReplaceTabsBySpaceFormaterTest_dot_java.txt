@@ -1,4 +1,4 @@
-src sep test sep java sep org sep jabref sep logic sep formatt sep bibtexfield sep replac tab space format test dot java 
+replac tab space format test 
 formatt 
 
 

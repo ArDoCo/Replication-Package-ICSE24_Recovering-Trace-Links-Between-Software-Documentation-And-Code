@@ -1,0 +1,4 @@
+bib entri type 
+field 
+field view model 
+field view model 

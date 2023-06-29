@@ -1,6 +1,7 @@
-src sep test sep java sep org sep jabref sep logic sep layout sep format sep replac unicod ligatur formatt test dot java 
+replac unicod ligatur formatt test 
 formatt 
 
+replac unicod ligatur formatt 
 
 
 

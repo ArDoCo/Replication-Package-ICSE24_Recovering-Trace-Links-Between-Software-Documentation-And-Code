@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep logic sep openoffic sep action sep export cite dot java 
+export cite 
 unresolv key 
 unresolv key 
 databas 

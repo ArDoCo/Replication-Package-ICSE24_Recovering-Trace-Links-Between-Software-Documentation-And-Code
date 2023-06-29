@@ -1,4 +1,4 @@
-src sep main sep java sep org sep jabref sep gui sep sep dialog view dot java 
+dialog view 
 copi version button 
 text area version 
 dialog servic 
@@ -6,6 +6,10 @@ clip board manag
 build info 
 view model 
 
+dialog servic 
+clip board manag 
+build info 
+dialog view model 
 
 
 

@@ -1,4 +1,4 @@
-src sep main sep java sep teammat sep ui sep request sep notif basic request dot java 
+notif basic request 
 start timestamp 
 timestamp 
 style 
@@ -6,6 +6,7 @@ target user
 titl 
 messag 
 
+notif target user 
 
 start timestamp 
 timestamp 
@@ -14,6 +15,7 @@ target user
 titl 
 messag 
 
+notif target user 
 
 start timestamp 
 timestamp 
