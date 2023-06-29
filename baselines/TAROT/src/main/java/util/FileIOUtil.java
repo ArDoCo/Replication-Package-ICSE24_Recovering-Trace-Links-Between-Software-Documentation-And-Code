@@ -163,5 +163,28 @@ public class FileIOUtil {
         return result;
     }
 
+    //	read all files with specified file type in the project (recursive method)
+    public static ArrayList<File> getFileList(String strPath, String fileType) {
+        ArrayList<File> fileList = new ArrayList<>();
+        File dir = new File(strPath);
+//		put all files of the directory into array
+        File[] files = dir.listFiles();
+        if (files != null) {
+            for (int i = 0; i < files.length; i++) {
+                String fileName = files[i].getName();
+//				judge whether it is a directory
+                if (files[i].isDirectory()) {
+//					get the absolute path of file
+                    fileList.addAll(getFileList(files[i].getPath(), fileType));
+                }
+//				get the file of the specified type
+                else if (fileName.endsWith(fileType)) {
+                    fileList.add(files[i]);
+                }
+            }
+        }
+        return fileList;
+    }
+
 
 }

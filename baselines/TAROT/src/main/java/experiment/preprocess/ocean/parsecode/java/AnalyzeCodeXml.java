@@ -132,7 +132,8 @@ public class AnalyzeCodeXml {
             if (classEntity == null) {
                 continue;
             }
-            String className = classXmlFile.getName().split("\\.")[0];
+            String fileName = classXmlFile.getName().split("\\.")[0];
+            String className = classEntity.getClassName();
             StringBuilder methodSb = new StringBuilder();
             StringBuilder methodProcessedSb = new StringBuilder();
 
@@ -153,8 +154,11 @@ public class AnalyzeCodeXml {
             for (MethodEntity methodEntity : list) {
                 sb.append(methodEntity.getMethodName() + "\n");
             }
+            if (className == null) {
+                className = fileName.substring(fileName.lastIndexOf("_sep_")).replace("_sep_", "").replace("_dot_java","");
+            }
             allClassSet.add(className);
-            String processedClsName = processClassName(className);
+            String processedClsName = processClassName(className, fileName);
             List<FieldEntity> fieldList = classEntity.getField();
 
             for (FieldEntity field : fieldList) {
@@ -164,11 +168,11 @@ public class AnalyzeCodeXml {
                 if (handleTypeInfoFlag)
                     processType(fieldType, fieldTypeSb, fieldTypeProcessedSb);
             }
-            FileIOUtil.writeFile(fieldNameSb.toString(), unprocessPrefix + fieldNameDir + "/" + className + ".txt");
-            FileIOUtil.writeFile(fieldNameProcessedSb.toString(), processedPartPrefix + fieldNameDir + "/" + className + ".txt");
+            FileIOUtil.writeFile(fieldNameSb.toString(), unprocessPrefix + fieldNameDir + "/" + fileName + ".txt");
+            FileIOUtil.writeFile(fieldNameProcessedSb.toString(), processedPartPrefix + fieldNameDir + "/" + fileName + ".txt");
 
-            FileIOUtil.writeFile(fieldTypeSb.toString(), unprocessPrefix + fieldTypeDir + "/" + className + ".txt");
-            FileIOUtil.writeFile(fieldTypeProcessedSb.toString(), processedPartPrefix + fieldTypeDir + "/" + className + ".txt");
+            FileIOUtil.writeFile(fieldTypeSb.toString(), unprocessPrefix + fieldTypeDir + "/" + fileName + ".txt");
+            FileIOUtil.writeFile(fieldTypeProcessedSb.toString(), processedPartPrefix + fieldTypeDir + "/" + fileName + ".txt");
 
             List<MethodEntity> methodList = classEntity.getMethod();
             for (MethodEntity methodEntity : methodList) {
@@ -184,27 +188,27 @@ public class AnalyzeCodeXml {
                     }
                 }
             }
-            FileIOUtil.writeFile(methodSb.toString(), unprocessPrefix + methodNameDir + "/" + className + ".txt");
-            FileIOUtil.writeFile(methodProcessedSb.toString(), processedPartPrefix + methodNameDir + "/" + className + ".txt");
+            FileIOUtil.writeFile(methodSb.toString(), unprocessPrefix + methodNameDir + "/" + fileName + ".txt");
+            FileIOUtil.writeFile(methodProcessedSb.toString(), processedPartPrefix + methodNameDir + "/" + fileName + ".txt");
 
-            FileIOUtil.writeFile(paramNameSb.toString(), unprocessPrefix + paramNameDir + "/" + className + ".txt");
-            FileIOUtil.writeFile(paramNameProcessedSb.toString(), processedPartPrefix + paramNameDir + "/" + className + ".txt");
+            FileIOUtil.writeFile(paramNameSb.toString(), unprocessPrefix + paramNameDir + "/" + fileName + ".txt");
+            FileIOUtil.writeFile(paramNameProcessedSb.toString(), processedPartPrefix + paramNameDir + "/" + fileName + ".txt");
 
-            FileIOUtil.writeFile(paramTypeSb.toString(), unprocessPrefix + paramTypeDir + "/" + className + ".txt");
-            FileIOUtil.writeFile(paramTypeProcessedSb.toString(), processedPartPrefix + paramTypeDir + "/" + className + ".txt");
+            FileIOUtil.writeFile(paramTypeSb.toString(), unprocessPrefix + paramTypeDir + "/" + fileName + ".txt");
+            FileIOUtil.writeFile(paramTypeProcessedSb.toString(), processedPartPrefix + paramTypeDir + "/" + fileName + ".txt");
 
             StringBuilder clsSb = new StringBuilder();
             clsSb.append(processedClsName + "\n" + fieldNameProcessedSb + "\n" + fieldTypeProcessedSb + "\n" + paramNameProcessedSb + "\n" + paramTypeProcessedSb + "\n" + methodProcessedSb + "\n");
-            FileIOUtil.continueWriteFile(clsSb.toString(), processedPrefix + classDir + "/" + className + ".txt");
+            FileIOUtil.continueWriteFile(clsSb.toString(), processedPrefix + classDir + "/" + fileName + ".txt");
         } // for
     }
 
-    private static String processClassName(String className) {
+    private static String processClassName(String className, String fileName) {
         String processedClsName = "";
-        FileIOUtil.writeFile(className + "\n", unprocessPrefix + classNameDir + "/" + className + ".txt");
+        FileIOUtil.writeFile(className + "\n", unprocessPrefix + classNameDir + "/" + fileName + ".txt");
         TextPreprocess preprocess = new TextPreprocess(className);
         processedClsName = preprocess.doJavaFileProcess();
-        FileIOUtil.writeFile(processedClsName + "\n", processedPartPrefix + classNameDir + "/" + className + ".txt");
+        FileIOUtil.writeFile(processedClsName + "\n", processedPartPrefix + classNameDir + "/" + fileName + ".txt");
         return processedClsName;
     }
 

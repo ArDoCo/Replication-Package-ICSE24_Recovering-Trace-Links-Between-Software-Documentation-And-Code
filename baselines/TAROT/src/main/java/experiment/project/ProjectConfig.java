@@ -16,6 +16,15 @@ public class ProjectConfig {
     public static String paramNameDirPath;
     public static String paramTypeDirPath;
 
+    public static String unprocessedClassNameDirPath;
+    public static String unprocessedMethodNameDirPath;
+    public static String unprocessedCommentDirPath;
+    public static String unprocessedInvokeMethodDirPath;
+    public static String unprocessedFieldNameDirPath;
+    public static String unprocessedFieldTypeDirPath;
+    public static String unprocessedParamNameDirPath;
+    public static String unprocessedParamTypeDirPath;
+
     public static String unProcessedUcTitleDirPath;
     public static String unProcessedUcPreconDirPath;
     public static String unProcessedUcMainflowDirPath;
@@ -34,6 +43,8 @@ public class ProjectConfig {
     public static String issueSummBitermDirPath;
     public static String issueDescripBitermDirPath;
 
+    public static String astXmlPath;
+
     public ProjectConfig(String projectPath) {
         this.projectPath = projectPath;
         initProjectPath();
@@ -43,6 +54,7 @@ public class ProjectConfig {
         rtmClassPath = projectPath + "rtm/RTM_CLASS.txt";
         reqDirPath = projectPath + "/processed/req";
         classDirPath = projectPath + "/processed/code";
+        astXmlPath = projectPath + "/unprocessed/code/ast_xml";
 
         classNameDirPath = projectPath + "/processed/code_part/class_name";
         methodNameDirPath = projectPath + "/processed/code_part/method_name";
@@ -52,6 +64,15 @@ public class ProjectConfig {
         fieldTypeDirPath = projectPath + "/processed/code_part/field/fieldType";
         paramNameDirPath = projectPath + "/processed/code_part/param/paramName";
         paramTypeDirPath = projectPath + "/processed/code_part/param/paramType";
+
+        unprocessedClassNameDirPath = projectPath + "/unprocessed//code/part/class_name";
+        unprocessedMethodNameDirPath = projectPath + "/unprocessed//code/part/method_name";
+        unprocessedCommentDirPath = projectPath + "/unprocessed//code/part/comment";
+        unprocessedInvokeMethodDirPath = projectPath + "/unprocessed//code/part/invoke_method";
+        unprocessedFieldNameDirPath = projectPath + "/unprocessed//code/part/field/fieldName";
+        unprocessedFieldTypeDirPath = projectPath + "/unprocessed//code/part/field/fieldType";
+        unprocessedParamNameDirPath = projectPath + "/unprocessed//code/part/param/paramName";
+        unprocessedParamTypeDirPath = projectPath + "/unprocessed//code/part/param/paramType";
 
         unProcessedUcTitleDirPath = projectPath + "/unprocessed/req_part/title";
         unProcessedUcPreconDirPath = projectPath + "/unprocessed/req_part/precon";

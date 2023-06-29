@@ -2,7 +2,7 @@ package experiment.preprocess.ocean.parsecode.java;
 
 public class RunCodeProcess {
     public static void main(String[] args) {
-        String project = "jabref";
+        String project = "TeaStore";
         // 1. parse ASR
        JavaParse.parseSourceCode(project);
 
