@@ -155,7 +155,11 @@ public class AnalyzeCodeXml {
                 sb.append(methodEntity.getMethodName() + "\n");
             }
             if (className == null) {
-                className = fileName.substring(fileName.lastIndexOf("_sep_")).replace("_sep_", "").replace("_dot_java","");
+                if (fileName.contains("_sep_")) {
+                    className = fileName.substring(fileName.lastIndexOf("_sep_")).replace("_sep_", "").replace("_dot_java","");
+                } else {
+                    className = fileName.replace("_dot_java","");
+                }
             }
             allClassSet.add(className);
             String processedClsName = processClassName(className, fileName);
