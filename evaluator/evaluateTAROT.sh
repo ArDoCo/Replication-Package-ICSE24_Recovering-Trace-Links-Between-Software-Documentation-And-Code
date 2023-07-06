@@ -28,7 +28,7 @@ done
 
 # MediaStore
 echo "Evaluating MediaStore"
-for file in $(find threshold_filtered -name "mediastore*.csv"); do
+for file in $(find threshold_filtered -name "MediaStore*.csv"); do
     # Get the filename without the extension
     filename=$(basename -- "$file")
     # Run the evaluator
@@ -48,7 +48,7 @@ done
 
 # TeaStore
 echo "Evaluating TeaStore"
-for file in $(find threshold_filtered -name "teastore*.csv"); do
+for file in $(find threshold_filtered -name "TeaStore*.csv"); do
     # Get the filename without the extension
     filename=$(basename -- "$file")
     # Run the evaluator
