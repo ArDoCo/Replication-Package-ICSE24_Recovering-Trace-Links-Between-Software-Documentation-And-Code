@@ -1,0 +1,17 @@
+sentence_no,elementID
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessLocal.java
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccess.java
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessRemote.java
+8,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaManagementLocal.java
+8,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaManagementRemote.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingLocal.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarking.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingRemote.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccessLocal.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessLocal.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccess.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccessRemote.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessMaintenance.java
+34,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessRemote.java
+7,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaManagementLocal.java
+7,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaManagementRemote.java

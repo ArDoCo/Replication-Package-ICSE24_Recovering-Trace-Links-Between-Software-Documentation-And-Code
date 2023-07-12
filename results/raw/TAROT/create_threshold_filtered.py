@@ -29,9 +29,18 @@ def handle_file(filename, identifier):
         lines = f.readlines()
         matrix: List[List[str]] = [list(map(lambda entry: entry.strip("\""), l.strip().split(','))) for l in lines]
 
-    step_size = 0.05
-    current_threshold = 0.0
-    while current_threshold <= 1.0:
+    start = 0.0
+    end = 0.2
+    step_size = 0.01
+
+    # Overwrite start, end and step_size if filename contains "mediastore"
+    if "mediastore" in identifier.lower():
+        start = 0.0
+        end = 1.0
+        step_size = 0.01
+
+    current_threshold = start
+    while current_threshold <= end:
         threshold_filename = "threshold_filtered/" + identifier + "_" + ("{:.2f}".format(current_threshold)) + ".csv"
         create_threshold_file(matrix, threshold_filename, current_threshold)
         current_threshold += step_size
