@@ -39,7 +39,7 @@ TEASTORE (SadSamCodeTraceabilityLinkRecoveryEvaluation):
         Phi Coef.:    0.83 (min. expected: 0.83)
 
 ```
-Please note that the `min. expected` values refer to thresholds that are used to determine whether the test shall fail because of some unexpected degeneration of the results.
+Please note that the `min. expected` values refer to thresholds that are used to determine whether the test shall fail because of some unexpected degradation of the results.
 
 * `SadSamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the transitive trace links between SAD and code (via SAM).
 * `SamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAM and code.
