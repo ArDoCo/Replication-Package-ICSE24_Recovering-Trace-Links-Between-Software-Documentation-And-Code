@@ -22,7 +22,7 @@ In addition, we suggest a machine with at least 8GB of RAM.
 The details for the replication of the baseline experiments are described in the README.md files of the respective baseline folder.
 
 ### Replication of the ArDoCo+ArCoTL experiments
-The execution of the ArDoCo+ArCoTL experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
+The execution of the ArDoCo+ArCoTL (TransArC) experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
 
 In order to run the experiments, please execute the following command within the ardoco+arcotl folder: `mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
 
