@@ -1,8 +1,9 @@
 # ReplicationPackageICSE24
 This is the replication package for the paper "Recovering Trace Links Between Software Documentation And Code".
 
-We've integrated our new approach into the replication package of the ArDoCo approach.
-Therefore, our approach can be found within the package structure of ArDoCo (see below).
+We've integrated our new approach into the replication package of the ArDoCo approach, which is openly available at https://doi.org/10.5281/zenodo.7555194.
+As we created our implementation as an extension of ArDoCo, we continued to use ArDoCo's package names, which refer to the name of the research group that originally created ArDoCo.
+We would like to emphasize that this does not imply that we are ourselves members of that research group.
 
 ## Structure
 Each folder contains a README.md file with instructions on how to run the code.
