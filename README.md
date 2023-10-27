@@ -10,7 +10,7 @@ Each folder contains a README.md file with instructions on how to run the code.
 The replication package is structured as follows:
 * ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
 * baselines: contains the baselines used in the paper
-* data: contains the data used in the paper
+* data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
 * evaluator: contains helper scripts to evaluate the generated results
 * results: contains the results of the experiments
 
