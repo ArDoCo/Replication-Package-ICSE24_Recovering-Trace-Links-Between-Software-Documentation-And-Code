@@ -1,0 +1,17 @@
+sentence_no,elementID
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccessLocal.java
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessLocal.java
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadMediaAccess.java
+27,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IMediaAccessRemote.java
+17,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadAudioWatermarking.java
+17,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingLocal.java
+17,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarking.java
+17,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingRemote.java
+37,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadReEncoderLocal.java
+37,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadReEncoder.java
+37,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadReEncoderRemote.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadAudioWatermarking.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingLocal.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarking.java
+16,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IDownloadTagWatermarkingRemote.java
+7,Implementation/mediastore.basic/src/edu/kit/ipd/sdq/mediastore/basic/interfaces/IBusinessInterface.java
