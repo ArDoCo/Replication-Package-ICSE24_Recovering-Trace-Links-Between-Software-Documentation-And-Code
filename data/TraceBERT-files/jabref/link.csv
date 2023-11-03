@@ -678,7 +678,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/gui/exporter/CreateModifyExporterDialogViewModel.java
 1,src/test/java/org/jabref/logic/shared/TestManager.java
 1,src/main/java/org/jabref/logic/cleanup/DoiCleanup.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/Abbreviation.java
 1,src/test/java/org/jabref/logic/crawler/StudyRepositoryTest.java
 1,src/main/java/org/jabref/gui/openoffice/AdvancedCiteDialogView.java
 1,src/main/java/org/jabref/logic/importer/util/MetaDataParser.java
@@ -734,7 +733,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/gui/entryeditor/UserDefinedFieldsTab.java
 1,src/main/java/org/jabref/gui/texparser/CitationsDisplay.java
 1,src/test/java/org/jabref/logic/exporter/MSBibExportFormatFilesTest.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationLoader.java
 1,src/main/java/org/jabref/gui/util/uithreadaware/UiThreadListChangeListener.java
 1,src/test/java/org/jabref/gui/documentviewer/PdfDocumentViewModelTest.java
 1,src/main/java/org/jabref/gui/slr/ManageStudyDefinitionView.java
@@ -805,7 +803,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/gui/util/comparator/SpecialFieldComparator.java
 1,src/main/java/org/jabref/logic/importer/FulltextFetchers.java
 1,src/main/java/org/jabref/model/database/BibDatabaseContext.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationRepository.java
 1,src/test/java/org/jabref/logic/shared/DBMSConnectionPropertiesTest.java
 1,src/main/java/org/jabref/gui/EntryTypeViewModel.java
 1,src/test/java/org/jabref/logic/exporter/AtomicFileOutputStreamTest.java
@@ -1395,7 +1392,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/logic/bibtex/comparator/BibtexStringComparator.java
 1,src/main/java/org/jabref/model/search/matchers/MatcherSets.java
 1,src/test/java/org/jabref/model/database/BibDatabaseModeDetectionTest.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationWriter.java
 1,src/main/java/org/jabref/gui/importer/ParserResultWarningDialog.java
 1,src/test/java/org/jabref/logic/util/io/CitationKeyBasedFileFinderTest.java
 1,src/main/java/org/jabref/gui/libraryproperties/constants/ConstantsPropertiesView.java
@@ -1481,7 +1477,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/logic/importer/fileformat/CustomImporter.java
 1,src/main/java/org/jabref/gui/fieldeditors/contextmenu/DefaultMenu.java
 1,src/main/java/org/jabref/gui/util/uithreadaware/UiThreadInvalidationListener.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationParser.java
 1,src/main/java/org/jabref/logic/importer/fetcher/GoogleScholar.java
 1,src/main/java/org/jabref/gui/slr/StudyDatabaseItem.java
 1,src/test/java/org/jabref/logic/bibtex/comparator/BibStringDiffTest.java
@@ -1525,7 +1520,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/gui/actions/SimpleCommand.java
 1,src/main/java/org/jabref/gui/edit/CopyMoreAction.java
 1,src/test/java/org/jabref/logic/importer/fetcher/IacrEprintFetcherTest.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationFormat.java
 1,src/main/java/org/jabref/gui/preferences/keybindings/KeyBindingViewModel.java
 1,src/test/java/org/jabref/logic/l10n/LocalizationConsistencyTest.java
 1,src/main/java/org/jabref/logic/importer/fetcher/CiteSeer.java
@@ -1550,7 +1544,6 @@ issue_id,commit_id
 1,src/main/java/org/jabref/logic/layout/format/AuthorFirstFirst.java
 1,src/main/java/org/jabref/logic/layout/format/XMLChars.java
 1,src/main/java/org/jabref/gui/collab/entrychange/EntryWithPreviewAndSourceDetailsView.java
-1,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java
 1,src/test/java/org/jabref/logic/formatter/bibtexfields/NormalizePagesFormatterTest.java
 1,src/main/java/org/jabref/gui/mergeentries/EntriesMergeResult.java
 1,src/main/java/org/jabref/logic/layout/format/AuthorLastFirstCommas.java
@@ -2438,7 +2431,6 @@ issue_id,commit_id
 4,src/test/java/org/jabref/gui/util/comparator/RankingFieldComparatorTest.java
 4,src/test/java/org/jabref/logic/util/strings/StringSimilarityTest.java
 4,src/main/java/org/jabref/model/search/matchers/AndMatcher.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationLoader.java
 4,src/main/java/org/jabref/gui/mergeentries/newmergedialog/DiffMethod.java
 4,src/main/java/org/jabref/logic/importer/ParserResult.java
 4,src/main/java/org/jabref/logic/importer/fetcher/CompositeSearchBasedFetcher.java
@@ -2525,14 +2517,12 @@ issue_id,commit_id
 4,src/test/java/org/jabref/logic/l10n/JavaLocalizationEntryParser.java
 4,src/main/java/org/jabref/logic/formatter/casechanger/Title.java
 4,src/main/java/org/jabref/gui/maintable/PersistenceVisualStateTable.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationRepository.java
 4,src/main/java/org/jabref/logic/importer/ImportFormatPreferences.java
 4,src/main/java/org/jabref/logic/exporter/BibDatabaseWriter.java
 4,src/test/java/org/jabref/logic/importer/fetcher/GoogleScholarTest.java
 4,src/test/java/org/jabref/logic/cleanup/RenamePdfCleanupTest.java
 4,src/main/java/org/jabref/logic/bibtex/comparator/EntryComparator.java
 4,src/test/java/org/jabref/gui/autocompleter/AutoCompleterUtil.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationParser.java
 4,src/main/java/org/jabref/gui/collab/DatabaseChangeResolverFactory.java
 4,src/main/java/org/jabref/gui/mergeentries/newmergedialog/diffhighlighter/DiffHighlighter.java
 4,src/main/java/org/jabref/model/entry/identifier/IacrEprint.java
@@ -2669,7 +2659,6 @@ issue_id,commit_id
 4,src/main/java/org/jabref/gui/mergeentries/newmergedialog/diffhighlighter/SplitDiffHighlighter.java
 4,src/main/java/org/jabref/logic/shared/event/UpdateRefusedEvent.java
 4,src/main/java/org/jabref/logic/database/DuplicateCheck.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java
 4,src/test/java/org/jabref/model/database/KeyChangeListenerTest.java
 4,src/main/java/org/jabref/gui/openoffice/OOBibBaseConnect.java
 4,src/main/java/org/jabref/gui/preferences/externalfiletypes/ExternalFileTypesTab.java
@@ -2925,7 +2914,6 @@ issue_id,commit_id
 4,src/main/java/org/jabref/model/pdf/search/SearchFieldConstants.java
 4,src/test/java/org/jabref/logic/formatter/bibtexfields/LatexCleanupFormatterTest.java
 4,src/test/java/org/jabref/logic/util/io/FileNameUniquenessTest.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationWriter.java
 4,src/main/java/org/jabref/gui/groups/UndoableChangeEntriesOfGroup.java
 4,src/main/java/org/jabref/logic/integrity/ASCIICharacterChecker.java
 4,src/main/java/org/jabref/gui/util/ZipFileChooser.java
@@ -2940,7 +2928,6 @@ issue_id,commit_id
 4,src/test/java/org/jabref/model/groups/GroupTreeNodeTest.java
 4,src/main/java/org/jabref/gui/citationkeypattern/GenerateCitationKeySingleAction.java
 4,src/main/java/org/jabref/gui/fieldeditors/LinkedFilesEditorViewModel.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/Abbreviation.java
 4,src/test/java/org/jabref/gui/preferences/journals/JournalAbbreviationsViewModelTabTest.java
 4,src/test/java/org/jabref/logic/crawler/StudyDatabaseToFetcherConverterTest.java
 4,src/main/java/org/jabref/gui/mergeentries/newmergedialog/fieldsmerger/FileMerger.java
@@ -3415,7 +3402,6 @@ issue_id,commit_id
 4,src/main/java/org/jabref/gui/externalfiles/ImportFilesResultItemViewModel.java
 4,src/main/java/org/jabref/logic/msbib/MSBibMapping.java
 4,src/test/java/org/jabref/logic/importer/fetcher/SemanticScholarTest.java
-4,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationFormat.java
 4,src/test/java/org/jabref/model/FieldChangeTest.java
 4,src/main/java/org/jabref/gui/entryeditor/PreviewSwitchAction.java
 4,src/main/java/org/jabref/logic/layout/format/DocBookAuthorFormatter.java
@@ -4487,7 +4473,6 @@ issue_id,commit_id
 6,src/main/java/org/jabref/logic/util/io/RegExpBasedFileFinder.java
 6,src/main/java/org/jabref/model/openoffice/uno/UnoRedlines.java
 6,src/main/java/org/jabref/model/search/SearchMatcher.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationParser.java
 6,src/main/java/org/jabref/logic/exporter/OpenOfficeDocumentCreator.java
 6,src/main/java/org/jabref/gui/externalfiles/ChainedFilters.java
 6,src/main/java/org/jabref/model/entry/identifier/ARK.java
@@ -4681,7 +4666,6 @@ issue_id,commit_id
 6,src/main/java/org/jabref/model/openoffice/style/ComparableCitation.java
 6,src/main/java/org/jabref/gui/entryeditor/fileannotationtab/FileAnnotationTabViewModel.java
 6,src/test/java/org/jabref/logic/protectedterms/ProtectedTermsListTest.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/Abbreviation.java
 6,src/main/java/org/jabref/gui/maintable/MainTableColumnFactory.java
 6,src/main/java/org/jabref/gui/mergeentries/newmergedialog/ThreeWayMergeView.java
 6,src/test/java/org/jabref/logic/layout/format/AuthorLastFirstCommasTest.java
@@ -4929,7 +4913,6 @@ issue_id,commit_id
 6,src/main/java/org/jabref/logic/JabRefException.java
 6,src/main/java/org/jabref/logic/bibtex/comparator/PreambleDiff.java
 6,src/main/java/org/jabref/logic/exporter/BlankLineBehaviour.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java
 6,src/main/java/org/jabref/logic/formatter/bibtexfields/ReplaceTabsBySpaceFormater.java
 6,src/test/java/org/jabref/model/pdf/FileAnnotationTest.java
 6,src/test/java/org/jabref/gui/keyboard/KeyBindingsTabModelTest.java
@@ -4997,7 +4980,6 @@ issue_id,commit_id
 6,src/main/java/org/jabref/model/entry/field/StandardField.java
 6,src/main/java/org/jabref/logic/importer/fileformat/RisImporter.java
 6,src/main/java/org/jabref/gui/openoffice/AdvancedCiteDialogViewModel.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationRepository.java
 6,src/test/java/org/jabref/logic/importer/fetcher/ResearchGateTest.java
 6,src/main/java/org/jabref/gui/preferences/protectedterms/NewProtectedTermsFileDialog.java
 6,src/test/java/org/jabref/logic/journals/AbbreviationsTest.java
@@ -5009,12 +4991,10 @@ issue_id,commit_id
 6,src/main/java/org/jabref/gui/exporter/SaveAction.java
 6,src/main/java/org/jabref/logic/importer/EntryBasedParserFetcher.java
 6,src/test/java/org/jabref/logic/cleanup/BibtexBiblatexRoundtripTest.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationWriter.java
 6,src/test/java/org/jabref/logic/importer/fileformat/PdfEmbeddedBibFileImporterTest.java
 6,src/test/java/org/jabref/logic/importer/util/GroupsParserTest.java
 6,src/test/java/org/jabref/model/search/matchers/MatcherSetsTest.java
 6,src/main/java/org/jabref/gui/importer/NewEntryAction.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationLoader.java
 6,src/test/java/org/jabref/logic/layout/format/CompositeFormatTest.java
 6,src/main/java/org/jabref/model/openoffice/ootext/OOFormat.java
 6,src/main/java/org/jabref/logic/importer/fetcher/transformers/ScholarQueryTransformer.java
@@ -5418,7 +5398,6 @@ issue_id,commit_id
 6,src/test/java/org/jabref/logic/protectedterms/ProtectedTermsLoaderTest.java
 6,src/main/java/org/jabref/gui/preferences/keybindings/presets/KeyBindingPreset.java
 6,src/main/java/org/jabref/logic/layout/format/Replace.java
-6,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationFormat.java
 6,src/main/java/org/jabref/model/entry/types/UnknownEntryType.java
 6,src/main/java/org/jabref/gui/openoffice/OOError.java
 6,src/main/java/org/jabref/gui/fieldeditors/EditorTextField.java
@@ -6954,7 +6933,6 @@ issue_id,commit_id
 9,src/test/java/org/jabref/logic/pdf/PdfAnnotationImporterTest.java
 9,src/test/java/org/jabref/logic/importer/fileformat/MsBibImporterFilesTest.java
 9,src/main/java/org/jabref/logic/layout/format/WrapContent.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationWriter.java
 9,src/test/java/org/jabref/model/pdf/FileAnnotationTest.java
 9,src/main/java/org/jabref/model/search/matchers/NotMatcher.java
 9,src/test/java/org/jabref/logic/exporter/XmpPdfExporterTest.java
@@ -7181,7 +7159,6 @@ issue_id,commit_id
 9,src/test/java/org/jabref/logic/l10n/LocalizationConsistencyTest.java
 9,src/main/java/org/jabref/logic/util/FileType.java
 9,src/main/java/org/jabref/logic/auxparser/AuxParser.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationLoader.java
 9,src/test/java/org/jabref/logic/exporter/MsBibExportFormatTest.java
 9,src/main/java/org/jabref/model/openoffice/style/OODataModel.java
 9,src/main/java/org/jabref/logic/formatter/bibtexfields/TrimWhitespaceFormatter.java
@@ -7414,7 +7391,6 @@ issue_id,commit_id
 9,src/main/java/org/jabref/model/openoffice/style/ComparableCitedKey.java
 9,src/test/java/org/jabref/logic/pdf/EntryAnnotationImporterTest.java
 9,src/main/java/org/jabref/model/ChainNode.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationRepository.java
 9,src/main/java/org/jabref/logic/layout/format/Authors.java
 9,src/main/java/org/jabref/logic/layout/format/HTMLParagraphs.java
 9,src/test/java/org/jabref/logic/importer/fetcher/DoiResolutionTest.java
@@ -7562,7 +7538,6 @@ issue_id,commit_id
 9,src/test/java/org/jabref/logic/layout/format/RemoveWhitespaceTest.java
 9,src/main/java/org/jabref/logic/importer/fetcher/Medra.java
 9,src/test/java/org/jabref/model/TreeNodeTestData.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/Abbreviation.java
 9,src/test/java/org/jabref/logic/exporter/MSBibExportFormatFilesTest.java
 9,src/main/java/org/jabref/model/entry/event/EntriesEventSource.java
 9,src/main/java/org/jabref/logic/openoffice/style/OOFormatBibliography.java
@@ -7844,7 +7819,6 @@ issue_id,commit_id
 9,src/test/java/org/jabref/logic/importer/fetcher/CiteSeerTest.java
 9,src/main/java/org/jabref/logic/importer/fetcher/GrobidPreferences.java
 9,src/main/java/org/jabref/logic/util/CoarseChangeFilter.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationFormat.java
 9,src/main/java/org/jabref/logic/exporter/BibtexDatabaseWriter.java
 9,src/test/java/org/jabref/logic/importer/fetcher/transformers/SpringerQueryTransformerTest.java
 9,src/test/java/org/jabref/model/entry/field/SpecialFieldTest.java
@@ -7874,7 +7848,6 @@ issue_id,commit_id
 9,src/test/java/org/jabref/logic/importer/fetcher/IEEETest.java
 9,src/main/java/org/jabref/logic/importer/OpenDatabase.java
 9,src/main/java/org/jabref/logic/util/strings/XmlCharsMap.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/AbbreviationParser.java
 9,src/main/java/org/jabref/logic/openoffice/style/OOPreFormatter.java
 9,src/test/java/org/jabref/logic/importer/fetcher/TitleFetcherTest.java
 9,src/test/java/org/jabref/logic/shared/DBMSProcessorTest.java
@@ -7889,7 +7862,6 @@ issue_id,commit_id
 9,src/main/java/org/jabref/logic/citationstyle/CitationStylePreviewLayout.java
 9,src/main/java/org/jabref/logic/formatter/bibtexfields/NormalizeEnDashesFormatter.java
 9,src/test/java/org/jabref/logic/importer/fileformat/InspecImporterTest.java
-9,buildSrc/src/copied/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java
 9,src/test/java/org/jabref/logic/importer/fetcher/DOABFetcherTest.java
 9,src/test/java/org/jabref/model/entry/EntryTypeFactoryTest.java
 9,src/test/java/org/jabref/logic/importer/OpenDatabaseTest.java
