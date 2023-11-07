@@ -67,7 +67,7 @@ For TeaStore we have the following components with their resp. IDs:
 ```
 
 Our approach recovers trace links between the code and the architecture model.
-The trace links that shall be recovered are provided as ground truth in the following file: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020_code.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020_code.csv)
+The trace links that shall be recovered are provided as ground truth in the following file: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv)
 
 We connect the code elements (ce_ids) to the architecture model elements (ae_id).
 For convenience, we also provide the name of the architecture model element (ae_name).
