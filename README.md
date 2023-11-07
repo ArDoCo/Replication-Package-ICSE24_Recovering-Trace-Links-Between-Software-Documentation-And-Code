@@ -23,14 +23,20 @@ In summary, the following tools are required to run the experiments:
 In addition, we suggest a machine with at least 8GB of RAM.
 
 ## Example
-This section illustrates the task of recovering trace links between SAD and code for the TEASTORE system.
+This section illustrates the task of recovering trace links between Software Architecture Documentation (SAD) and code for the TeaStore project.
 
 ### Artifacts
-1. The source code of the TeaStore system is located here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code). You can either use the code as described in the directory or you can use the acm file (JSON representation of code elements).
-2. The architecture model of TeaStore can be found here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml). In this directory, you can find the UML repository (teastore.uml) that contains the components and interfaces of the system (XML representation).
-3. Finally, you can find the textual software architecture documentation of TeaStore here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt). The documentation is provided in the form of a single text file.
+1. The source code of TeaStore is located here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code). You can either use the code as described in the directory or you can use the acm file (JSON representation of code elements).
+2. The architecture model (SAM) of TeaStore can be found here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml). In this directory, you can find the UML component model (teastore.uml) that contains the components and interfaces of the system (XML representation).
+3. Finally, you can find the textual software architecture documentation (SAD) of TeaStore here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt). The documentation is provided in the form of a single text file.
 
-### Code to Documentation Trace Links
+#### Components of TeaStore
+The following diagram depicts an overview of the components of TeaStore.
+For readability, we group all recommenders into a common box.
+In the model, the recommender component uses all recommenders via a strategy interface.
+![Architecture Model](.images/mermaid-teastore-components.png)
+
+### Linking SAD to Code
 We aim to recover trace links between the code and the documentation of TeaStore.
 The trace links that shall be recovered are provided as ground truth in the following file:
 [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv)
@@ -53,9 +59,9 @@ sentenceID,codeID
 ...
 ```
 
-### Code to Architecture Model Trace Links
-We use trace links between documentation and architecture models as an intermediate step for recovering trace links between documentation and code.
-The architecture model contains multiple components and interfaces.
+### Linking SAM to Code
+We use trace links between SAM and code as an intermediate step for recovering trace links between documentation and code.
+The SAM contains multiple components and interfaces.
 For TeaStore we have the following components with their resp. IDs:
 ```text
 * WebUI (_bC13QDVWEeqPG_FgW3bi6Q)
@@ -66,41 +72,7 @@ For TeaStore we have the following components with their resp. IDs:
 ...
 ```
 
-The following diagram contains an overview of the components of TeaStore:
-```mermaid
-graph TD
-
-subgraph Components
-  Auth
-  Persistence
-  WebUI
-  ImageProvider
-  Registry
-  Recommender
-  subgraph Recommenders
-    DummyRecommender
-    SlopeOneRecommender
-    PreprocessedSlopeOneRecommender
-    PopularityBasedRecommender
-    OrderBasedRecommender
-  end
-end
-
-WebUI -->|uses| Registry
-Registry -->|uses| Persistence
-Registry <-->|uses| Auth
-Registry -->|uses| ImageProvider
-Registry -->|uses| Recommender
-Recommender -->|uses| DummyRecommender
-Recommender -->|uses| SlopeOneRecommender
-Recommender -->|uses| PreprocessedSlopeOneRecommender
-Recommender -->|uses| PopularityBasedRecommender
-Recommender -->|uses| OrderBasedRecommender
-```
-
-![Architecture Model](.images/mermaid-teastore-components.png)
-
-Our approach recovers trace links between the code and the architecture model.
+Our approach recovers trace links between the code and the SAM.
 The trace links that shall be recovered are provided as ground truth in the following file: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv)
 
 We connect the code elements (ce_ids) to the architecture model elements (ae_id).

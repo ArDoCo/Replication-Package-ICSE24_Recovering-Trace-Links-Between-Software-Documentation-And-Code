@@ -1,0 +1,26 @@
+```mermaid
+graph TD
+
+subgraph Components
+  Auth
+  Persistence
+  WebUI
+  ImageProvider
+  Registry
+  Recommender
+  subgraph Recommenders
+    DummyRecommender
+    PopularityBasedRecommender
+    OrderBasedRecommender
+    SlopeOneRecommender
+    PreprocessedSlopeOneRecommender
+  end
+end
+
+WebUI -->|uses| Registry
+Registry -->|uses| Persistence
+Registry <-->|uses| Auth
+Registry -->|uses| ImageProvider
+Registry -->|uses| Recommender
+Recommender -->|uses| Recommenders
+```
