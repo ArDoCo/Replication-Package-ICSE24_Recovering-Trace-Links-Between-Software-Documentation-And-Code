@@ -22,6 +22,65 @@ In summary, the following tools are required to run the experiments:
 
 In addition, we suggest a machine with at least 8GB of RAM.
 
+## Example
+This section illustrates the task of recovering trace links between SAD and code for the TEASTORE system.
+
+### Artifacts
+1. The source code of the TeaStore system is located here: [ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2022/code](ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2022/code). You can either use the code as described in the directory or you can use the acm file (JSON representation of code elements).
+2. The architecture model of TeaStore can be found here: [ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2020/pcm](ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2020/pcm). In this directory, you can find the PCM repository (teastore.repository) that contains the components and interfaces of the system (XML representation).
+3. Finally, you can find the textual software architecture documentation of TeaStore here: [ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt](ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt). The documentation is provided in the form of a single text file.
+
+### Code to Documentation Trace Links
+We aim to recover trace links between the code and the documentation of TeaStore.
+The trace links that shall be recovered are provided as ground truth in the following file:
+[ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv](ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv)
+
+This file contains a mapping between the sentences of the documentation and the code elements that shall be linked to the respective sentence.
+
+If we consider the first two sentences of the documentation ...
+```text
+The TeaStore consists of 5 replicatable services and a single Registry instance.
+The WebUI service retrieves images from the Image Provider.
+```
+
+We should find the following trace links:
+```csv
+sentenceID,codeID
+1,services/tools.descartes.teastore.registry/src/main/java/tools/descartes/teastore/registry/
+2,services/tools.descartes.teastore.image/src/main/java/tools/descartes/teastore/image/
+2,services/tools.descartes.teastore.webui/src/main/java/tools/descartes/teastore/webui/
+2,tools/test_webui.sh
+...
+```
+
+### Code to Architecture Model Trace Links
+We use trace links between documentation and architecture models as an intermediate step for recovering trace links between documentation and code.
+The architecture model contains multiple components and interfaces.
+For TeaStore we have the following components with their resp. IDs:
+```text
+* WebUI (_bC13QDVWEeqPG_FgW3bi6Q)
+* Registy (_dhM6oDVXEeqPG_FgW3bi6Q)
+* Persistence (_lnx1oDVWEeqPG_FgW3bi6Q)
+* Recommender (_m3fxEDVWEeqPG_FgW3bi6Q)
+* Auth (_AiuxcDVdEeqPG_FgW3bi6Q)
+...
+```
+
+Our approach recovers trace links between the code and the architecture model.
+The trace links that shall be recovered are provided as ground truth in the following file: [ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020_code.csv](ardoco+arcotl/tests/test-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020_code.csv)
+
+We connect the code elements (ce_ids) to the architecture model elements (ae_id).
+For convenience, we also provide the name of the architecture model element (ae_name).
+We expect our approach to find trace links like the following:
+
+```csv
+ae_id,ae_name,ce_ids
+_AiuxcDVdEeqPG_FgW3bi6Q,Component: Auth,services/tools.descartes.teastore.auth/src/main/java/tools/descartes/teastore/auth/
+_BYKdQDVgEeqPG_FgW3bi6Q,Interface: RecommenderStrategy,services/tools.descartes.teastore.recommender/src/main/java/tools/descartes/teastore/recommender/algorithm/IRecommender.java
+...
+```
+
+
 ## Replication
 The details for the replication of the baseline experiments are described in the README.md files of the respective baseline folder.
 
