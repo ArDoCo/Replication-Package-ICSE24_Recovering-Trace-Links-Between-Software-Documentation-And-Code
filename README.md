@@ -27,7 +27,7 @@ This section illustrates the task of recovering trace links between SAD and code
 
 ### Artifacts
 1. The source code of the TeaStore system is located here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code). You can either use the code as described in the directory or you can use the acm file (JSON representation of code elements).
-2. The architecture model of TeaStore can be found here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/pcm](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/pcm). In this directory, you can find the PCM repository (teastore.repository) that contains the components and interfaces of the system (XML representation).
+2. The architecture model of TeaStore can be found here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2020/uml). In this directory, you can find the UML repository (teastore.uml) that contains the components and interfaces of the system (XML representation).
 3. Finally, you can find the textual software architecture documentation of TeaStore here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/teastore.txt). The documentation is provided in the form of a single text file.
 
 ### Code to Documentation Trace Links
