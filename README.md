@@ -66,6 +66,40 @@ For TeaStore we have the following components with their resp. IDs:
 ...
 ```
 
+The following diagram contains an overview of the components of TeaStore:
+```mermaid
+graph TD
+
+subgraph Components
+  Auth
+  Persistence
+  WebUI
+  ImageProvider
+  Registry
+  Recommender
+  subgraph Recommenders
+    DummyRecommender
+    SlopeOneRecommender
+    PreprocessedSlopeOneRecommender
+    PopularityBasedRecommender
+    OrderBasedRecommender
+  end
+end
+
+WebUI -->|uses| Registry
+Registry -->|uses| Persistence
+Registry <-->|uses| Auth
+Registry -->|uses| ImageProvider
+Registry -->|uses| Recommender
+Recommender -->|uses| DummyRecommender
+Recommender -->|uses| SlopeOneRecommender
+Recommender -->|uses| PreprocessedSlopeOneRecommender
+Recommender -->|uses| PopularityBasedRecommender
+Recommender -->|uses| OrderBasedRecommender
+```
+
+![Architecture Model](.images/mermaid-teastore-components.png)
+
 Our approach recovers trace links between the code and the architecture model.
 The trace links that shall be recovered are provided as ground truth in the following file: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/goldstandard_sam_2020-code.csv)
 
