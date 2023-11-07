@@ -33,7 +33,7 @@ This section illustrates the task of recovering trace links between SAD and code
 ### Code to Documentation Trace Links
 We aim to recover trace links between the code and the documentation of TeaStore.
 The trace links that shall be recovered are provided as ground truth in the following file:
-[ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code_2022.csv)
+[ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code-2022.csv](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/text_2020/goldstandard_code-2022.csv)
 
 This file contains a mapping between the sentences of the documentation and the code elements that shall be linked to the respective sentence.
 
