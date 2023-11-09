@@ -1,5 +1,6 @@
 # Data
 This folder contains the data used in the paper. The data is structured as follows:
+* `CodeBERT-files`: contains the documentation and source code of the projects in `.csv` files as required by the used CodeBERT implementation. Documentation sentences are regarded as issues and source code classes as commit changesets.
 * `ftlr-texts`: contains the documentation of the projects split into sentences. Each sentence is in a separate file.
 * `models`: contains the models for the projects, both as UML component diagram and as PCM repository.
 * `SAD-Code-goldstandards`: contains the gold standard for documentation (SAD) and code of the projects
