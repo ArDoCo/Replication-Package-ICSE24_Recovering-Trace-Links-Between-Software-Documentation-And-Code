@@ -8,6 +8,7 @@ We would like to emphasize that this does not imply that we are ourselves member
 ## Structure
 Each folder contains a README.md file with instructions on how to run the code.
 The replication package is structured as follows:
+* pseudocode: provides pseudocode for the computation of trace links between SAM and Code
 * ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
 * baselines: contains the baselines used in the paper
 * data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
