@@ -53,27 +53,8 @@ The path to the fine-tuned model has to be provided after training is finished.
 
 ## Attribution of the code used
 
-```
-@inproceedings{lin_traceability_2021,
-  title={Traceability transformed: Generating more accurate links with pre-trained BERT models},
-  author={Lin, Jinfeng and Liu, Yalin and Zeng, Qingkai and Jiang, Meng and Cleland-Huang, Jane},
-  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)},
-  pages={324--335},
-  year={2021},
-  organization={IEEE}
-}
-```
 
-```
-@inproceedings{feng_codebert_2020,
-  title = {{{CodeBERT}}: {{A Pre-Trained Model}} for {{Programming}} and {{Natural Languages}}},
-  shorttitle = {{{CodeBERT}}},
-  booktitle = {Findings of the {{Association}} for {{Computational Linguistics}}: {{EMNLP}} 2020},
-  author = {Feng, Zhangyin and Guo, Daya and Tang, Duyu and Duan, Nan and Feng, Xiaocheng and Gong, Ming and Shou, Linjun and Qin, Bing and Liu, Ting and Jiang, Daxin and Zhou, Ming},
-  year = {2020},
-  month = nov,
-  pages = {1536--1547},
-  publisher = {{Association for Computational Linguistics}},
-  doi = {10.18653/v1/2020.findings-emnlp.139},
-}
-```
+Lin, J., Liu, Y., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2021, May). Traceability transformed: Generating more accurate links with pre-trained bert models. In 2021 *IEEE/ACM 43rd International Conference on Software Engineering (ICSE)* (pp. 324-335). IEEE.
+
+Feng, Z., Guo, D., Tang, D., Duan, N., Feng, X., Gong, M., ... & Zhou, M. (2020). CodeBERT: A Pre-Trained Model for Programming and Natural Languages. In *Findings of the Association for Computational Linguistics: EMNLP 2020* (pp. 1536–1547), Association for Computational Linguistics (ACL).
+
