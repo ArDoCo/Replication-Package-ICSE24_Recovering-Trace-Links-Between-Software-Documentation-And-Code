@@ -201,9 +201,7 @@ SentenceId,CodeElementId
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 25,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-25,akka-bbb-apps/src/debian/DEBIAN/postrm
 25,akka-bbb-apps/deploy.sh
-25,akka-bbb-apps/src/debian/DEBIAN/preinst
 25,akka-bbb-apps/run.sh
 25,build/packages-template/bbb-apps-akka/build.sh
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/KeepAliveMessage.java
@@ -223,13 +221,11 @@ SentenceId,CodeElementId
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
 28,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
-28,bigbluebutton-web/gradlew
 28,bigbluebutton-web/pres-checker/run.sh
 28,bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
 28,bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
 28,bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
 28,bigbluebutton-web/deploy_to_usr_share.sh
-28,bigbluebutton-web/grailsw
 28,bigbluebutton-web/build.sh
 28,bigbluebutton-web/run-dev.sh
 28,bigbluebutton-web/pres-checker/build.sh
@@ -256,13 +252,11 @@ SentenceId,CodeElementId
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
 34,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
-34,bigbluebutton-web/gradlew
 34,bigbluebutton-web/pres-checker/run.sh
 34,bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
 34,bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
 34,bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
 34,bigbluebutton-web/deploy_to_usr_share.sh
-34,bigbluebutton-web/grailsw
 34,bigbluebutton-web/build.sh
 34,bigbluebutton-web/run-dev.sh
 34,bigbluebutton-web/pres-checker/build.sh
@@ -289,13 +283,11 @@ SentenceId,CodeElementId
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
 35,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
-35,bigbluebutton-web/gradlew
 35,bigbluebutton-web/pres-checker/run.sh
 35,bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
 35,bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
 35,bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
 35,bigbluebutton-web/deploy_to_usr_share.sh
-35,bigbluebutton-web/grailsw
 35,bigbluebutton-web/build.sh
 35,bigbluebutton-web/run-dev.sh
 35,bigbluebutton-web/pres-checker/build.sh
@@ -367,9 +359,7 @@ SentenceId,CodeElementId
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 49,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-49,akka-bbb-apps/src/debian/DEBIAN/postrm
 49,akka-bbb-apps/deploy.sh
-49,akka-bbb-apps/src/debian/DEBIAN/preinst
 49,akka-bbb-apps/run.sh
 49,build/packages-template/bbb-apps-akka/build.sh
 50,akka-bbb-apps/run-dev.sh
@@ -382,9 +372,7 @@ SentenceId,CodeElementId
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 50,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-50,akka-bbb-apps/src/debian/DEBIAN/postrm
 50,akka-bbb-apps/deploy.sh
-50,akka-bbb-apps/src/debian/DEBIAN/preinst
 50,akka-bbb-apps/run.sh
 50,build/packages-template/bbb-apps-akka/build.sh
 52,akka-bbb-apps/run-dev.sh
@@ -397,13 +385,9 @@ SentenceId,CodeElementId
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 52,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-52,akka-bbb-apps/src/debian/DEBIAN/postrm
 52,akka-bbb-apps/deploy.sh
-52,akka-bbb-apps/src/debian/DEBIAN/preinst
 52,akka-bbb-apps/run.sh
 52,build/packages-template/bbb-apps-akka/build.sh
-55,akka-bbb-fsesl/src/debian/DEBIAN/postrm
-55,akka-bbb-fsesl/src/debian/DEBIAN/preinst
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
 55,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
@@ -460,7 +444,6 @@ SentenceId,CodeElementId
 55,akka-bbb-fsesl/run-dev.sh
 55,akka-bbb-fsesl/wait-for-it.sh
 55,akka-bbb-fsesl/run.sh
-55,akka-bbb-fsesl/src/debian/DEBIAN/postinst
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/outbound/AbstractOutboundClientHandler.java
 55,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/manager/ManagerConnection.java
@@ -493,7 +476,6 @@ SentenceId,CodeElementId
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/transport/SendMsg.java
 55,bbb-fsesl-client/src/main/java/org/freeswitch/esl/client/internal/HeaderParser.java
 55,bbb-fsesl-client/deploy.sh
-55,build/packages-template/bbb-freeswitch-core/fs_clibbb
 55,build/packages-template/bbb-freeswitch-core/after-remove.sh
 55,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 55,build/packages-template/bbb-freeswitch-core/build.sh
@@ -588,7 +570,6 @@ SentenceId,CodeElementId
 56,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 56,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
 56,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
-56,build/packages-template/bbb-freeswitch-core/fs_clibbb
 56,build/packages-template/bbb-freeswitch-core/after-remove.sh
 56,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 56,build/packages-template/bbb-freeswitch-core/build.sh
@@ -608,12 +589,8 @@ SentenceId,CodeElementId
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/BezierWrapper.java
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/Shapes.java
 58,akka-bbb-apps/src/main/scala/org/bigbluebutton/core/util/jhotdraw/PathData.java
-58,akka-bbb-apps/src/debian/DEBIAN/postrm
 58,akka-bbb-apps/deploy.sh
-58,akka-bbb-apps/src/debian/DEBIAN/preinst
 58,akka-bbb-apps/run.sh
-58,akka-bbb-fsesl/src/debian/DEBIAN/postrm
-58,akka-bbb-fsesl/src/debian/DEBIAN/preinst
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceUsersStatusEvent.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/events/VoiceConfRunningEvent.java
 58,akka-bbb-fsesl/src/main/java/org/bigbluebutton/freeswitch/voice/freeswitch/actions/BroadcastConferenceCommand.java
@@ -670,7 +647,6 @@ SentenceId,CodeElementId
 58,akka-bbb-fsesl/run-dev.sh
 58,akka-bbb-fsesl/wait-for-it.sh
 58,akka-bbb-fsesl/run.sh
-58,akka-bbb-fsesl/src/debian/DEBIAN/postinst
 58,bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/ReceivedMessageHandler.java
 58,bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageHandler.java
 58,bbb-common-message/src/main/java/org/bigbluebutton/common2/redis/pubsub/MessageDistributor.java
@@ -796,7 +772,6 @@ SentenceId,CodeElementId
 59,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 59,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
 59,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
-59,build/packages-template/bbb-freeswitch-core/fs_clibbb
 59,build/packages-template/bbb-freeswitch-core/after-remove.sh
 59,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 59,build/packages-template/bbb-freeswitch-core/build.sh
@@ -890,7 +865,6 @@ SentenceId,CodeElementId
 61,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 61,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
 61,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
-61,build/packages-template/bbb-freeswitch-core/fs_clibbb
 61,build/packages-template/bbb-freeswitch-core/after-remove.sh
 61,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 61,build/packages-template/bbb-freeswitch-core/build.sh
@@ -990,7 +964,6 @@ SentenceId,CodeElementId
 64,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/transport/message/EslFrameDecoderTest.java
 64,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/inbound/ClientTest.java
 64,bbb-fsesl-client/src/test/java/org/freeswitch/esl/client/outbound/SocketClientTest.java
-64,build/packages-template/bbb-freeswitch-core/fs_clibbb
 64,build/packages-template/bbb-freeswitch-core/after-remove.sh
 64,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 64,build/packages-template/bbb-freeswitch-core/build.sh
@@ -1100,7 +1073,6 @@ SentenceId,CodeElementId
 70,bigbluebutton-html5/transifex.sh
 70,bigbluebutton-html5/deploy_to_usr_share.sh
 70,bigbluebutton-html5/run-dev.sh
-70,build/packages-template/bbb-freeswitch-core/fs_clibbb
 70,build/packages-template/bbb-freeswitch-core/after-remove.sh
 70,build/packages-template/bbb-freeswitch-core/opts-jammy.sh
 70,build/packages-template/bbb-freeswitch-core/build.sh
@@ -1161,13 +1133,11 @@ SentenceId,CodeElementId
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/IStorageService.java
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/turn/StunServer.java
 76,bbb-common-web/src/main/java/org/bigbluebutton/web/services/callback/CallbackUrlService.java
-76,bigbluebutton-web/gradlew
 76,bigbluebutton-web/pres-checker/run.sh
 76,bigbluebutton-web/test/groovy/org/bigbluebutton/api/messaging/NullMessagingService.java
 76,bigbluebutton-web/test/groovy/org/bigbluebutton/api/ParamsProcessorUtilTest.java
 76,bigbluebutton-web/pres-checker/src/main/java/org/bigbluebutton/prescheck/Main.java
 76,bigbluebutton-web/deploy_to_usr_share.sh
-76,bigbluebutton-web/grailsw
 76,bigbluebutton-web/build.sh
 76,bigbluebutton-web/run-dev.sh
 76,bigbluebutton-web/pres-checker/build.sh
