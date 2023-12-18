@@ -18,7 +18,7 @@ public class ExtractCodeBiterm {
     private Set<String> clsBitermsSet;
 
     public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
-        Class projectClass = Class.forName(ProjectEnum.BIGBLUEBUTTON.getName());
+        Class projectClass = Class.forName(ProjectEnum.MEDIASTORE.getName());
         Project project = (Project) projectClass.newInstance();
         ExtractCodeBiterm extractCodeBiterm = new ExtractCodeBiterm(project);
     }
@@ -89,6 +89,7 @@ public class ExtractCodeBiterm {
     private void expandBiterm() {
         File[] invokeFiles = new File(project.getInvokeMethodDirPath()).listFiles();
         Map<String, List<String>> clsCallMap = new HashMap<>();
+        if (invokeFiles == null) invokeFiles = new File[0];
         for (File f : invokeFiles) {
             String cls = f.getName().split("\\.")[0];
             clsCallMap.put(cls, FileIOUtil.readFile2List(f));
@@ -124,7 +125,9 @@ public class ExtractCodeBiterm {
 
         Map<String, List<List<String>>> commentBitermMap = new HashMap<>();
         File dir = new File(project.getCommentDirPath());
-        for (File file : dir.listFiles()) {
+        File[] dirs = dir.listFiles();
+        if (dirs == null) dirs = new File[0];
+        for (File file : dirs) {
             if (!file.getName().contains(".txt")) continue;
             String cls = file.getName().split(".txt")[0];
             List<List<String>> l = new ArrayList<>();
