@@ -4,8 +4,8 @@ from TraceabilityRunner import BaseLineMCRunner, \
 from datasets.Dataset import MediaStore, Teammates, TeaStore, BigBlueButton, JabRef
 from utility.FileUtil import setup_clear_dir
 
-ENGLISH_FASTTEXT_MODEL_PATH = "/../models/cc.en.300.bin"
-ITALIAN_FASTTEXT_MODEL_PATH = "/../models/cc.it.300.bin"
+ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
+ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
 models = {'english': ENGLISH_FASTTEXT_MODEL_PATH, 'italian': ITALIAN_FASTTEXT_MODEL_PATH}
 
 setup_clear_dir(OUTPUT_DIR)
