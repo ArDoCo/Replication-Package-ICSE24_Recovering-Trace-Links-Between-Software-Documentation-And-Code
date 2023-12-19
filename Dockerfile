@@ -16,7 +16,7 @@ COPY ./baselines/finegrained-traceability .
 
 FROM ubuntu:22.04
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
-    openjdk-17-jdk maven vim nano curl software-properties-common gnupg \
+    openjdk-17-jdk maven vim nano curl software-properties-common gnupg git \
     && add-apt-repository -y ppa:deadsnakes \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends python3.7-dev python3.7-distutils python3.9-dev python3.9-distutils \
     && apt-get clean \
@@ -47,6 +47,12 @@ RUN gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz
 
 WORKDIR /replication
 
+## Clone Source Code of Benchmarks
+RUN rm -r /replication/baselines/finegrained-traceability/datasets/bigbluebutton/code && git clone https://github.com/ArDoCo/bigbluebutton.git /replication/baselines/finegrained-traceability/datasets/bigbluebutton/code && \
+    rm -r /replication/baselines/finegrained-traceability/datasets/jabref/code && git clone https://github.com/ArDoCo/jabref.git /replication/baselines/finegrained-traceability/datasets/jabref/code && \
+    rm -r /replication/baselines/finegrained-traceability/datasets/MediaStore/code && git clone https://github.com/ArDoCo/MediaStore3.git /replication/baselines/finegrained-traceability/datasets/MediaStore/code && \
+    rm -r /replication/baselines/finegrained-traceability/datasets/teammates/code && git clone https://github.com/ArDoCo/teammates.git /replication/baselines/finegrained-traceability/datasets/teammates/code && \
+    rm -r /replication/baselines/finegrained-traceability/datasets/TeaStore/code && git clone https://github.com/ArDoCo/TeaStore.git /replication/baselines/finegrained-traceability/datasets/TeaStore/code
 
 # Cache MAVEN Dependencies
 RUN cd ardoco+arcotl && mvn -P tlr -B dependency:resolve -Dclassifier=test
