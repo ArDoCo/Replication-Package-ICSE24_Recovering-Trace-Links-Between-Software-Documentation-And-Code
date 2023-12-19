@@ -2,11 +2,10 @@
 package edu.kit.kastel.mcse.ardoco.core.cli;
 
 import java.io.File;
+import java.io.FilenameFilter;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.NoSuchElementException;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
@@ -15,23 +14,14 @@ import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
-import org.eclipse.collections.api.factory.Lists;
-import org.eclipse.collections.api.list.ImmutableList;
-import org.eclipse.collections.api.list.MutableList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import edu.kit.kastel.mcse.ardoco.core.api.models.ArchitectureModelType;
-import edu.kit.kastel.mcse.ardoco.core.api.models.CodeModelType;
-import edu.kit.kastel.mcse.ardoco.core.api.models.arcotl.Model;
-import edu.kit.kastel.mcse.ardoco.core.api.output.ArDoCoResult;
-import edu.kit.kastel.mcse.ardoco.core.common.util.DataRepositoryHelper;
-import edu.kit.kastel.mcse.ardoco.core.common.util.TraceLinkUtilities;
 import edu.kit.kastel.mcse.ardoco.core.execution.ArDoCoForSadSamCodeTraceabilityLinkRecovery;
 import edu.kit.kastel.mcse.ardoco.core.execution.ArDoCoForSadSamTraceabilityLinkRecovery;
 import edu.kit.kastel.mcse.ardoco.core.execution.ArDoCoForSamCodeTraceabilityLinkRecovery;
 import edu.kit.kastel.mcse.ardoco.core.tests.eval.CodeProject;
-import edu.kit.kastel.mcse.ardoco.core.tests.eval.Project;
 
 public class ArDoCoCli {
     // TODO
@@ -103,6 +93,37 @@ public class ArDoCoCli {
         } else {
             logger.error("No task specified. Either use the parameter to perform evaluation or specify the task.");
             printUsage();
+        }
+
+        cleanup(cmd);
+    }
+
+    private static void cleanup(CommandLine cmd) {
+        File out = ensureDir(cmd.getOptionValue(CMD_OUT));
+
+        deleteFiles(out, "inconsistencyDetection_.*\\.txt");
+        deleteFiles(out, "traceLinks_.*\\.txt");
+    }
+
+    private static void deleteFiles(File out, final String filesRegex) {
+        final File[] files = out.listFiles(new FilenameFilter() {
+            @Override
+            public boolean accept( final File dir,
+                    final String name ) {
+                return name.matches(filesRegex);
+            }
+        } );
+        if (files == null) {
+            return;
+        }
+        
+        for ( final File file : files ) {
+            try {
+                Files.delete(file.toPath());
+            } catch (IOException e) {
+                logger.warn("Some error occurred during cleanup at the end.", e);
+            }
+
         }
     }
 
