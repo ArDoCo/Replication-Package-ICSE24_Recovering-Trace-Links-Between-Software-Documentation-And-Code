@@ -1,30 +1,43 @@
-# ReplicationPackageICSE24
-This is the replication package for the paper "Recovering Trace Links Between Software Documentation And Code".
+# Replication Package For Recovering Trace Links Between Software Documentation And Code
 
-We've integrated our new approach into the replication package of the ArDoCo approach, which is openly available at https://doi.org/10.5281/zenodo.7555194.
-As we created our implementation as an extension of ArDoCo, we continued to use ArDoCo's package names, which refer to the name of the research group that originally created ArDoCo.
-We would like to emphasize that this does not imply that we are ourselves members of that research group.
 
-## Structure
-Each folder contains a README.md file with instructions on how to run the code.
-The replication package is structured as follows:
-* pseudocode: provides pseudocode for the computation of trace links between SAM and Code
-* ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
-* baselines: contains the baselines used in the paper
-* data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
-* evaluator: contains helper scripts to evaluate the generated results
-* results: contains the results of the experiments
+## Abstract
 
-## Requirements
-In summary, the following tools are required to run the experiments:
-* Python 3
-* Java 17
-* Maven 3
+*Introduction* 
+Software development involves creating various artifacts at different levels of abstraction and establishing relationships between them is essential. 
+Traceability link recovery (TLR) automates this process, enhancing software quality by aiding tasks like maintenance and evolution. 
+However, automating TLR is challenging due to semantic gaps resulting from different levels of abstraction.
+While automated TLR approaches exist for requirements and code, architecture documentation lacks tailored solutions, hindering the preservation of architecture knowledge and design decisions.
 
-In addition, we suggest a machine with at least 8GB of RAM.
+*Methods* 
+In our paper, we present our approach TransArC for TLR between architecture documentation and code, using component-based architecture models as intermediate artifacts to bridge the semantic gap. 
+We create transitive trace links by combining the existing approach ArDoCo for linking architecture documentation to models with our novel approach ArCoTL for linking architecture models to code.
 
-## Example
-This section illustrates the task of recovering trace links between Software Architecture Documentation (SAD) and code for the TeaStore project.
+*Results* 
+We evaluate our approaches with five open-source projects, comparing our results to baseline approaches. 
+The model-to-code TLR approach achieves an average F1-score of 0.98, while the documentation-to-code TLR approach achieves a promising average F1-score of 0.82, significantly outperforming baselines.
+
+*Replication*
+This replication package includes all used datasets, benchmarks, baselines, and approaches.
+The package allows to reproduce the evaluation results, as well as to apply TransArC to other projects.
+
+
+## Content 
+
+This replication package allows to: 
+* get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
+* reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
+* replicate the evaluation results by applying TransArC (ArCoTL+ArDoCo) to other projects 
+
+
+
+## How TransArC Works
+
+TransArC is an approach described in "Recovering Trace Links Between Software Documentation And Code" by :warning: *TODO* authors + link to paper.
+TransArC combines two approaches: ArDoCo for linking architecture documentation to models and ArCoTL for linking architecture models to code.
+Thereby, TransArC bridges the gap between architecture documentation and code.
+
+This section illustrates an exemplary task of recovering trace links between Software Architecture Documentation (SAD) and code for the TeaStore project.
 
 ### Artifacts
 1. The source code of TeaStore is located here: [ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code](ardoco+arcotl/tests/tests-base/src/main/resources/benchmark/teastore/model_2022/code). You can either use the code as described in the directory or you can use the acm file (JSON representation of code elements).
@@ -88,10 +101,147 @@ _BYKdQDVgEeqPG_FgW3bi6Q,Interface: RecommenderStrategy,services/tools.descartes.
 ```
 
 
-## Replication
-The details for the replication of the baseline experiments are described in the README.md files of the respective baseline folder.
 
-### Replication of the ArDoCo+ArCoTL experiments
+
+
+## Reproduction of Complete Evaluation Results
+
+Please be aware that the reproduction of the complete evaluation results can take some time due to the calculation of the baselines.
+:warning: **TODO** Describe our system + needed time.
+Everything was tested on Linux.
+
+### Hardware Requirements
+We recommend the execution on a server with at least:
+* 1 GPU with CUDA 12.2 (CodeBERT) :warning: **TODO**
+* 16 GB RAM
+
+
+### Setup
+
+The evaluation results can be created in three ways: 
+* Use the provided Docker image or
+* Build the Docker image yourself or
+* Generate the results locally by yourself.
+
+#### Provided Docker Image
+Use the provided Docker image and run: `docker run -it --rm --gpus all icse24`
+
+#### Build Docker Image
+Build Docker image by command: `docker build -t icse24 .`
+Run the Docker image with: `docker run -it --rm --gpus all icse24`
+
+#### Run Locally
+Requirements: 
+* Java JDK 17 + Maven 3 (for ArDoCo+ArCoTL, TAROT)
+* Python 3.9 (for FTLR)
+* Python 3.7 (for CodeBERT)
+* Git
+
+Install the dependencies in : :warning: **TODO**
+
+##### CodeBERT
+
+Go to the CodeBERT directory: `./baselines/CodeBERT`
+Create a python environment:
+```
+python3.7 -m venv --copies venv
+source venv/bin/activate
+python3.7 -m pip install -r requirement.txt
+```
+
+Download CodeBERT model from: :warning: **TODO**
+
+Copy and unzip the downloaded model folder to `../models/codeBert`
+
+Execute CodeBERT:
+```
+cd trace/trace_single
+python eval_trace_single_SAD.py \
+  --data_dir ../../data/<ProjectName> \
+  --model_path ../../../models/codeBert \
+  --per_gpu_eval_batch_size 10 \
+  --exp_name "<ProjectName>_single"
+```
+
+The output is written to: :warning: **TODO**
+It should look like: :warning: **TODO**
+
+
+##### FTLR
+
+Go to the FTLR directory: `./baselines/finegrained-traceability`
+Create a python environment:
+```
+python3.9 -m venv --copies venv
+source venv/bin/activate
+python3.9 -m pip install fasttext~=0.9.2 javalang~=0.13.0 pycparser~=2.21 comment-parser~=1.2.4 esprima~=4.0.1 XlsxWriter~=3.0.1 spacy~=3.1.1 pydantic~=1.8.2 typing-extensions~=4.2.0 nltk~=3.2.5 numpy~=1.22.3 scikit-learn~=1.1.1 pandas~=1.1.5 joblib~=1.1.0 autograd~=1.3 torch~=1.13.1 transformers~=4.26.1 scipy~=1.8.1 pyemd~=0.5.1 gensim~=3.6.0
+python3.9 -m spacy download it_core_news_lg
+python3.9 -m spacy download en_core_web_lg
+python3.9 -m nltk.downloader stopwords
+python3.9 -m nltk.downloader punkt
+python3.9 -m nltk.downloader wordnet
+```
+
+Download Fasttext models from: 
+* https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
+* https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz
+
+Copy the downloaded models to `../models`
+Unzip models `gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz`
+
+
+Download Source Code of Benchmarks: 
+```
+rm -r ./datasets/bigbluebutton/code && \
+git clone https://github.com/ArDoCo/bigbluebutton.git ./datasets/bigbluebutton/code && \
+rm -r ./datasets/bigbluebutton/code/.git && \
+rm -r ./datasets/jabref/code && \
+git clone https://github.com/ArDoCo/jabref.git ./datasets/jabref/code && \
+rm -r ./datasets/jabref/code/.git && \
+rm -r ./datasets/MediaStore/code && \
+git clone https://github.com/ArDoCo/MediaStore3.git ./datasets/MediaStore/code && \
+rm -r ./datasets/MediaStore/code/.git && \
+rm -r ./datasets/teammates/code && \
+git clone https://github.com/ArDoCo/teammates.git ./datasets/teammates/code && \
+rm -r ./datasets/teammates/code/.git && \
+rm -r ./datasets/TeaStore/code && \
+git clone https://github.com/ArDoCo/TeaStore.git ./datasets/TeaStore/code && \
+rm -r ./datasets/TeaStore/code/.git
+```
+
+Open `./App.py` and change the following lines to your location of the FastText models
+```
+ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
+ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
+```
+
+To run FTLR execute: `python3.9 App.py`
+
+Please be aware that the output of FTLR is very verbose.
+Warnings like `INFO:embeddingCreator.EmbeddingCreator:SKIPPED: Error on tokenizing ...` can be ignored.
+
+The output is written to: ` ./datasets/<ProjectName>/output`
+It should look like: 
+```
+(venv) root@5aab73915535:/replication/baselines/finegrained-traceability/datasets/MediaStore/output# ll
+total 88
+drwxr-xr-x 2 root root  4096 Dec 19 13:18 ./
+drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
+-rw-r--r-- 1 root root 13786 Dec 19 13:12 MediaStore_BaseLineMc_tracelinks.csv
+-rw-r--r-- 1 root root 17105 Dec 19 13:18 MediaStore_FileLevelAvgMc_tracelinks.csv
+-rw-r--r-- 1 root root 44932 Dec 19 13:15 MediaStore_FileLevelWMDMc_tracelinks.csv
+```
+
+
+
+##### TAROT
+
+
+:warning: **TODO**
+
+
+
+### Reproduction of the ArDoCo+ArCoTL experiments
 The execution of the ArDoCo+ArCoTL (TransArC) experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
 
 In order to run the experiments, please execute the following command within the ardoco+arcotl folder: `mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
@@ -114,3 +264,11 @@ Please note that the `min. expected` values refer to thresholds that are used to
 * `SadSamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the transitive trace links between SAD and code (via SAM).
 * `SamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAM and code.
 * `SadSamTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAD and SAM.
+
+
+
+
+## Replication of results using TransArC
+
+:warning: **TODO**
+
