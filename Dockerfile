@@ -70,8 +70,8 @@ RUN cd ardoco+arcotl && mvn -P tlr -B dependency:resolve -Dclassifier=test
 RUN cd baselines/TAROT && mvn -B dependency:resolve
 
 # Run Eval once:
-# RUN cd ardoco+arcotl && mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT
-# RUN cd baselines/TAROT && mvn -B compile exec:java -Dexec.mainClass="Start"
+RUN cd ardoco+arcotl && mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT
+RUN cd baselines/TAROT && mvn -B compile exec:java -Dexec.mainClass="Start"
 
 ENTRYPOINT [ "/bin/bash", "-c", "cat README.md && bash" ]
 
