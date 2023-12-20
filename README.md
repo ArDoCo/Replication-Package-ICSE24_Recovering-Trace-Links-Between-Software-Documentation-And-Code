@@ -255,7 +255,7 @@ ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
 To run FTLR execute: `python3.9 App.py`
 
 Please be aware that the output of FTLR is very verbose.
-Warnings like `INFO:embeddingCreator.EmbeddingCreator:SKIPPED: Error on tokenizing ...` can be ignored.
+Warnings like `ERROR:preprocessing.JavaLangUtil:Unknown case: [MemberReference(member=sessionBean, ...` can be ignored.
 
 The output is written to: ` ./datasets/<ProjectName>/output` <br>
 It should look like: 
@@ -274,9 +274,16 @@ App.py aufsplitten? :warning: **TODO**
 
 ##### TAROT
 
+Go to the TAROT directory: `./baselines/TAROT` <br>
+Execute the bash script: `bash execute_baseline_tarot.sh`
 
-:warning: **TODO**
+Please be aware that the output of TAROT is very verbose.
 
+The results look like:
+```
+INFO edu.kit.kastel.mcse.ardoco.evaluator.cli.EvaluatorCli - 0.06;0.20;0.09;0.94;0.95;0.08
+Running evaluator for MediaStore_IR-ONLY_TAROT_VSM_0.97.csv
+```
 
 
 ##### TransArC (ArDoCo+ArCoTL)
