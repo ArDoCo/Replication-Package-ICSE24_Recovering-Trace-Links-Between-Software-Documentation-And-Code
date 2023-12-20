@@ -164,7 +164,7 @@ source venv/bin/activate
 python3.7 -m pip install -r requirement.txt
 ```
 
-Download CodeBERT model from: :warning: **TODO**
+Download our new CodeBERT model for Java: https://huggingface.co/kit-mcse/CodeBERT-Java
 
 Copy and unzip the downloaded model folder to `../models/codeBert`
 
