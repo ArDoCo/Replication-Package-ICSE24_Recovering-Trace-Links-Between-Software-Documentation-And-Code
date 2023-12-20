@@ -24,7 +24,7 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
-This replication package belongs to "Recovering Trace Links Between Software Documentation And Code" by :warning: *TODO* authors + link to paper.
+This replication package belongs to [Recovering Trace Links Between Software Documentation And Code](https://publikationen.bibliothek.kit.edu/1000165692) by Keim et al. (DOI: 10.5445/IR/1000165692).
 
 This replication package allows to: 
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
@@ -59,7 +59,7 @@ This documentation is structured as follows:
 
 ## How TransArC Works
 
-TransArC is an approach described in "Recovering Trace Links Between Software Documentation And Code" by :warning: *TODO* authors + link to paper.
+TransArC is an approach described in [Recovering Trace Links Between Software Documentation And Code](https://publikationen.bibliothek.kit.edu/1000165692) by Keim et al. (DOI: 10.5445/IR/1000165692).
 TransArC combines two approaches: ArDoCo for linking architecture documentation to models and ArCoTL for linking architecture models to code.
 Thereby, TransArC bridges the gap between architecture documentation and code.
 
@@ -133,7 +133,11 @@ _BYKdQDVgEeqPG_FgW3bi6Q,Interface: RecommenderStrategy,services/tools.descartes.
 ## Reproduction of Complete Evaluation Results
 
 Please be aware that the reproduction of the complete evaluation results can take some time due to the calculation of the baselines.
-:warning: **TODO** Describe our system + needed time.
+On our system (Tesla V100S, 32GB VRAM, 256GB RAM, 112 CPUs á 2.7Ghz), the execution takes approximately: 
+* CodeBERT: 4h
+* FTLR: 20 min
+* TAROT: 10 min
+* TransArC: 7 min 
 Everything was tested on Linux.
 
 ### Hardware Requirements
@@ -162,8 +166,7 @@ Requirements:
 * Python 3.9 (for FTLR)
 * Python 3.7 (for CodeBERT)
 * Git + LFS Support
-
-Install the dependencies in: :warning: **TODO**
+* Internet (for CodeBERT)
 
 ##### CodeBERT
 
@@ -179,19 +182,9 @@ Download our new CodeBERT model for Java: https://huggingface.co/kit-mcse/CodeBE
 
 Copy and unzip the downloaded model folder to `../models/codeBert`
 
-Execute CodeBERT:
-```
-cd trace/trace_single
-python eval_trace_single_SAD.py \
-  --data_dir ../../data/<ProjectName> \
-  --model_path ../../../models/codeBert \
-  --per_gpu_eval_batch_size 10 \
-  --exp_name "<ProjectName>_single"
-```
+Execute CodeBERT: `bash execute_baseline_codebert.sh`
 
-The output is written to: :warning: **TODO**
-
-It should look like: 
+The output should look like: 
 
 ```
 INFO:__main__:model loaded
@@ -252,7 +245,7 @@ ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
 ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
 ```
 
-To run FTLR execute: `python3.9 App.py`
+To run FTLR execute: `bash execute_baseline_ftlr.sh`
 
 Please be aware that the output of FTLR is very verbose.
 Warnings like `ERROR:preprocessing.JavaLangUtil:Unknown case: [MemberReference(member=sessionBean, ...` can be ignored.
@@ -268,8 +261,6 @@ drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
 -rw-r--r-- 1 root root 17105 Dec 19 13:18 MediaStore_FileLevelAvgMc_tracelinks.csv
 -rw-r--r-- 1 root root 44932 Dec 19 13:15 MediaStore_FileLevelWMDMc_tracelinks.csv
 ```
-
-App.py aufsplitten? :warning: **TODO**
 
 
 ##### TAROT
