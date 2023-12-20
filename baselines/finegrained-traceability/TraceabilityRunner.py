@@ -720,8 +720,8 @@ class BaseLineMCRunner(BaseLineRunner):
     BaseLine + Method Comments
     """
 
-    LABEL = "BaseLineMc"
-    DEFAULT_DATASOURCE_SUFFIX = "BaseLineMc"
+    LABEL = "FTLRMc"
+    DEFAULT_DATASOURCE_SUFFIX = "FTLRMc"
 
     def __init__(self, dataset: Dataset, use_types=True, element_filter=None, classname_as_optional_voter=True,
                  nqk=False):

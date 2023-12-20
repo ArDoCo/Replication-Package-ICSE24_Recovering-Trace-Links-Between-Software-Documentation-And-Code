@@ -15,12 +15,8 @@ echo "Run FTLR"
 python3 App.py
 deactivate
 
-## TODO Optimzed
-
-
 echo "Copy results to results/raw/FTLR"
-# Copy CSVs from dataset/*/output/*.csv to results/raw/TAROT
-rm -f ../../results/raw/ftlr/*.csv # Remove old files if any
+# Copy CSVs from dataset/*/output/*.csv to results/raw/FTLR
 find datasets -type d -name 'output' -exec sh -c 'cp "$0"/*.csv ../../results/raw/ftlr/' {} \;
 
 echo "Calculate results for FTLR"
