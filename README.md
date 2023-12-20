@@ -288,9 +288,39 @@ Please note that the `min. expected` values refer to thresholds that are used to
 ###### CLI
 
 :warning: **TODO**
+You can simply call the provided CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
+`java -jar ardoco-cli.jar -e -o OUT`
+
+This command executes TransArC on all benchmark projects and creates CSV files with the found trace links.
+To evaluate the CSV-files against a goldstandard, you can use the provided evaluator in the [evaluator folder](./evaluator).
+You can execute it like follows to get precision, recall, and F1 when comparing the results to a goldstandard: <br>
+`java -jar evaluator.jar -t RESULT-FILE -g GOLDSTANDARD-FILE` <br>
+In the evaluator-folder are also shell-scripts that automate this, given that the files are in the correct folders.
 
 
 ## Reusing TransArC
 
-:warning: **TODO**
+To reuse TransArC, you can use the provided CLI. 
+With the CLI, you can specify the task that you want to perform (i.e., SAD-Code, SAM-Code, or SAD-SAM) and provide the necessary input files along with an output directory, where the output files will be saved to. 
+In the following, we show example commands to run the CLI. with `java -jar ardoco-cli.jar -h`, you can always find the help message.
+
+In the following, we use placeholders as follows:
+* `NAME` denotes the name of the project, e.g., `MediaStore`
+* `DOCUMENTATION` is the path to the software architecture documentation file, usually a `.txt`
+* `MODEL` is the path to the software architecture model file (`.uml` or `.pcm`)
+* `OUT` is the path to a folder where the output should be written to.
+
+To execute SAD-Code: <br> 
+`java -jar ardoco-cli.jar -t SAD-Code -n NAME -d DOCUMENTATION -m MODEL -c CODE -o OUT`
+
+To execute SAM-Code: <br> 
+`java -jar ardoco-cli.jar -t SAM-Code -n NAME -m MODEL -c CODE -o OUT`
+
+To execute SAD-SAM: <br> 
+`java -jar ardoco-cli.jar -t SAD-SAM -n NAME -d DOCUMENTATION -m MODEL -o OUT`
+
+The output files are CSV-files that contain the found trace links for each task. Depending on the current task, a CSV-file might be empty because the corresponding part was not executed (e.g., the SAD-Code part can be empty if only the SAM-Code part specfied as task).
+To evaluate the CSV-files against a goldstandard, you can use the provided evaluator in the [evaluator folder](./evaluator).
+You can execute it like follows to get precision, recall, and F1 when comparing the results to a goldstandard: <br>
+`java -jar evaluator.jar -t RESULT-FILE -g GOLDSTANDARD-FILE`
 
