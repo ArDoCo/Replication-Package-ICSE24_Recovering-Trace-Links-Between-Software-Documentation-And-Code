@@ -25,45 +25,12 @@ b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
 FTLR_DEFAULT_FINAL_THRESHOLD = 0.44
 FTLR_DEFAULT_MAJORITY_THRESHOLD = 0.59
 
-b = BaseLineMCRunner(MediaStore())
-# b = BaseLineMCRunner(Teammates())
-# b = BaseLineMCRunner(TeaStore())
-# b = BaseLineMCRunner(BigBlueButton())
-# b = BaseLineMCRunner(JabRef())
-b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
+projects = [MediaStore(), Teammates(), TeaStore(), BigBlueButton(), JabRef()]
 
-# b.calculate_f1([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD])
-# b.calculate_f1_and_map([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD])
-b.output_trace_links([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD], matrix_file_path=None,
-                     artifact_map_file_path=None, final=FTLR_DEFAULT_FINAL_THRESHOLD,
-                     maj=FTLR_DEFAULT_MAJORITY_THRESHOLD)
-
-"""
-FileLevelWMD Variant
-"""
-FILE_LEVEL_WMD_DEFAULT_THRESHOLD = 0.506
-
-b = FileLevelWMDMCRunner(MediaStore())
-# b = FileLevelWMDMCRunner(Teammates())
-# b = FileLevelWMDMCRunner(TeaStore())
-# b = FileLevelWMDMCRunner(BigBlueButton())
-# b = FileLevelWMDMCRunner(JabRef())
-b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
-b.output_trace_links([FILE_LEVEL_WMD_DEFAULT_THRESHOLD], [FILE_LEVEL_WMD_DEFAULT_THRESHOLD], matrix_file_path=None,
-                     artifact_map_file_path=None, final=FILE_LEVEL_WMD_DEFAULT_THRESHOLD,
-                     maj=FILE_LEVEL_WMD_DEFAULT_THRESHOLD)
-
-"""
-FileLevel Average Cosine Distance Variant
-"""
-FILE_LEVEL_AVG_DEFAULT_THRESHOLD = 0.741
-
-b = FileLevelAvgMCRunner(MediaStore())
-# b = FileLevelAvgMCRunner(Teammates())
-# b = FileLevelAvgMCRunner(TeaStore())
-# b = FileLevelAvgMCRunner(BigBlueButton())
-# b = FileLevelAvgMCRunner(JabRef())
-b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
-b.output_trace_links([FILE_LEVEL_AVG_DEFAULT_THRESHOLD], [FILE_LEVEL_AVG_DEFAULT_THRESHOLD], matrix_file_path=None,
-                     artifact_map_file_path=None, final=FILE_LEVEL_AVG_DEFAULT_THRESHOLD,
-                     maj=FILE_LEVEL_AVG_DEFAULT_THRESHOLD)
+for project in projects:
+    print("Project: " + project.name())
+    b = BaseLineMCRunner(project)
+    b.precalculate(models, matrix_file_path=None, artifact_map_file_path=None)
+    b.output_trace_links([FTLR_DEFAULT_FINAL_THRESHOLD], [FTLR_DEFAULT_MAJORITY_THRESHOLD], matrix_file_path=None,
+                        artifact_map_file_path=None, final=FTLR_DEFAULT_FINAL_THRESHOLD,
+                        maj=FTLR_DEFAULT_MAJORITY_THRESHOLD)

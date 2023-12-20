@@ -12,6 +12,7 @@ from utility import FileUtil
 from utility import Util
 
 log = logging.getLogger(__name__)
+log.setLevel(logging.ERROR)
 
 PREPROCESSED_TOKEN_FILENAME_PREFIX = "PreprocessedTokens_"
 
