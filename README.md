@@ -260,9 +260,7 @@ It should look like:
 total 88
 drwxr-xr-x 2 root root  4096 Dec 19 13:18 ./
 drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
--rw-r--r-- 1 root root 13786 Dec 19 13:12 MediaStore_BaseLineMc_tracelinks.csv
--rw-r--r-- 1 root root 17105 Dec 19 13:18 MediaStore_FileLevelAvgMc_tracelinks.csv
--rw-r--r-- 1 root root 44932 Dec 19 13:15 MediaStore_FileLevelWMDMc_tracelinks.csv
+-rw-r--r-- 1 root root 13786 Dec 19 13:12 MediaStore_FTLRMc_tracelinks.csv
 ```
 
 
