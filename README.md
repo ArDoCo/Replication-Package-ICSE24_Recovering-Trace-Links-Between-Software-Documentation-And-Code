@@ -24,11 +24,37 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
+This replication package belongs to "Recovering Trace Links Between Software Documentation And Code" by :warning: *TODO* authors + link to paper.
+
 This replication package allows to: 
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
 * reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
-* replicate the evaluation results by applying TransArC (ArCoTL+ArDoCo) to other projects 
+* reuse TransArC (ArDoCo+ArCoTL) on other projects 
 
+Therefore, we apply this replication package to both badges, availability and reusability:
+
+**Availability**: The replication package is placed on Zenodo DOI: :warning: **TODO** a recommended, publicly accessible repository that provides a DOI. 
+Additionally, the package is publicly available on GitHub: https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code
+
+**Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
+It further provides an extensive documentation and data to rebuild the Docker image or execute it locally. 
+Finally, the replication package also allows the reuse of TransArC on other projects. 
+Therefore, the package also includes the documentation of the TransArC CLI.
+
+The replication package is structured as follows: 
+* ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
+* baselines: contains the baselines used in the paper
+* data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
+* evaluator: contains helper scripts to evaluate the generated results
+* results: contains the results of the experiments
+
+Please be aware that the replication package is very comprehensive. 
+It requires ~50GB free storage.
+
+This documentation is structured as follows: 
+* exemplary workflow of TransArC
+* reproduction of complete evaluation results: setup and usage via provided Docker image, built Docker image, and local run
+* reusing TransArC: setup and usage via CLI
 
 
 ## How TransArC Works
@@ -112,7 +138,7 @@ Everything was tested on Linux.
 
 ### Hardware Requirements
 We recommend the execution on a server with at least:
-* 1 GPU with CUDA 12.2 (CodeBERT) :warning: **TODO**
+* 1 GPU with CUDA 12.2 (for CodeBERT)
 * 16 GB RAM
 
 
@@ -127,7 +153,7 @@ The evaluation results can be created in three ways:
 Use the provided Docker image and run: `docker run -it --rm --gpus all icse24`
 
 #### Build Docker Image
-Build Docker image by command: `docker build -t icse24 .`
+Build Docker image by command: `docker build -t icse24 .` <br>
 Run the Docker image with: `docker run -it --rm --gpus all icse24`
 
 #### Run Locally
@@ -135,9 +161,9 @@ Requirements:
 * Java JDK 17 + Maven 3 (for ArDoCo+ArCoTL, TAROT)
 * Python 3.9 (for FTLR)
 * Python 3.7 (for CodeBERT)
-* Git
+* Git + LFS Support
 
-Install the dependencies in : :warning: **TODO**
+Install the dependencies in: :warning: **TODO**
 
 ##### CodeBERT
 
@@ -164,12 +190,23 @@ python eval_trace_single_SAD.py \
 ```
 
 The output is written to: :warning: **TODO**
-It should look like: :warning: **TODO**
+
+It should look like: 
+
+```
+INFO:__main__:model loaded
+INFO:__main__:Creating examples from dataset file at ../../data/MediaStore/test
+retrieval evaluation: 100%|████████████████| 359/359 [10:04<00:00,  1.68s/it]
+
+pk3=0.243, pk2=0.189,pk1=0.135, precision=0.286 recall=0.12 best_f1 = 0.169, best_f2=0.219, MAP=0.18, MRR=0.23750049591362857, exe_time=604.0603840351105,f1_threshold=0.9998379945755005
+
+(venv) root@475915bc3e53:/replication/baselines/CodeBERT/trace/trace_single#
+```
 
 
 ##### FTLR
 
-Go to the FTLR directory: `./baselines/finegrained-traceability`
+Go to the FTLR directory: `./baselines/finegrained-traceability` <br>
 Create a python environment:
 ```
 python3.9 -m venv --copies venv
@@ -182,11 +219,11 @@ python3.9 -m nltk.downloader punkt
 python3.9 -m nltk.downloader wordnet
 ```
 
-Download Fasttext models from: 
+Download fastText models from: 
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz
 
-Copy the downloaded models to `../models`
+Copy the downloaded models to `../models`<br>
 Unzip models `gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz`
 
 
@@ -209,7 +246,7 @@ git clone https://github.com/ArDoCo/TeaStore.git ./datasets/TeaStore/code && \
 rm -r ./datasets/TeaStore/code/.git
 ```
 
-Open `./App.py` and change the following lines to your location of the FastText models
+Open `./App.py` and change the following lines to your location of the fastText models
 ```
 ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
 ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
@@ -220,7 +257,7 @@ To run FTLR execute: `python3.9 App.py`
 Please be aware that the output of FTLR is very verbose.
 Warnings like `INFO:embeddingCreator.EmbeddingCreator:SKIPPED: Error on tokenizing ...` can be ignored.
 
-The output is written to: ` ./datasets/<ProjectName>/output`
+The output is written to: ` ./datasets/<ProjectName>/output` <br>
 It should look like: 
 ```
 (venv) root@5aab73915535:/replication/baselines/finegrained-traceability/datasets/MediaStore/output# ll
@@ -232,6 +269,7 @@ drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
 -rw-r--r-- 1 root root 44932 Dec 19 13:15 MediaStore_FileLevelWMDMc_tracelinks.csv
 ```
 
+App.py aufsplitten? :warning: **TODO**
 
 
 ##### TAROT
@@ -241,10 +279,16 @@ drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
 
 
 
-### Reproduction of the ArDoCo+ArCoTL experiments
+##### TransArC (ArDoCo+ArCoTL)
+
+TransArC can be executed via Maven or its CLI. 
+
+###### Maven
+
 The execution of the ArDoCo+ArCoTL (TransArC) experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
 
-In order to run the experiments, please execute the following command within the ardoco+arcotl folder: `mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
+In order to run the experiments, please execute the following command within the ardoco+arcotl folder: <br> 
+`mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
 
 You can also run `mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT` to produce more verbose output of maven.
 
@@ -267,8 +311,41 @@ Please note that the `min. expected` values refer to thresholds that are used to
 
 
 
+###### CLI
 
-## Replication of results using TransArC
+You can simply call the provided CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
+`java -jar ardoco-cli.jar -e -o OUT`
 
-:warning: **TODO**
+This command executes TransArC on all benchmark projects and creates CSV files with the found trace links.
+To evaluate the CSV-files against a goldstandard, you can use the provided evaluator in the [evaluator folder](./evaluator).
+You can execute it like follows to get precision, recall, and F1 when comparing the results to a goldstandard: <br>
+`java -jar evaluator.jar -t RESULT-FILE -g GOLDSTANDARD-FILE` <br>
+In the evaluator-folder are also shell-scripts that automate this, given that the files are in the correct folders.
+
+
+## Reusing TransArC
+
+To reuse TransArC, you can use the provided CLI. 
+With the CLI, you can specify the task that you want to perform (i.e., SAD-Code, SAM-Code, or SAD-SAM) and provide the necessary input files along with an output directory, where the output files will be saved to. 
+In the following, we show example commands to run the CLI. with `java -jar ardoco-cli.jar -h`, you can always find the help message.
+
+In the following, we use placeholders as follows:
+* `NAME` denotes the name of the project, e.g., `MediaStore`
+* `DOCUMENTATION` is the path to the software architecture documentation file, usually a `.txt`
+* `MODEL` is the path to the software architecture model file (`.uml` or `.pcm`)
+* `OUT` is the path to a folder where the output should be written to.
+
+To execute SAD-Code: <br> 
+`java -jar ardoco-cli.jar -t SAD-Code -n NAME -d DOCUMENTATION -m MODEL -c CODE -o OUT`
+
+To execute SAM-Code: <br> 
+`java -jar ardoco-cli.jar -t SAM-Code -n NAME -m MODEL -c CODE -o OUT`
+
+To execute SAD-SAM: <br> 
+`java -jar ardoco-cli.jar -t SAD-SAM -n NAME -d DOCUMENTATION -m MODEL -o OUT`
+
+The output files are CSV-files that contain the found trace links for each task. Depending on the current task, a CSV-file might be empty because the corresponding part was not executed (e.g., the SAD-Code part can be empty if only the SAM-Code part specfied as task).
+To evaluate the CSV-files against a goldstandard, you can use the provided evaluator in the [evaluator folder](./evaluator).
+You can execute it like follows to get precision, recall, and F1 when comparing the results to a goldstandard: <br>
+`java -jar evaluator.jar -t RESULT-FILE -g GOLDSTANDARD-FILE`
 
