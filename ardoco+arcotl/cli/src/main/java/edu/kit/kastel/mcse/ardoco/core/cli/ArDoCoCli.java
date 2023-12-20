@@ -24,7 +24,6 @@ import edu.kit.kastel.mcse.ardoco.core.execution.ArDoCoForSamCodeTraceabilityLin
 import edu.kit.kastel.mcse.ardoco.core.tests.eval.CodeProject;
 
 public class ArDoCoCli {
-    // TODO
     private static final Logger logger = LoggerFactory.getLogger(ArDoCoCli.class);
     private static final String CMD_EVAL = "e";
     private static final String CMD_HELP = "h";
@@ -116,7 +115,7 @@ public class ArDoCoCli {
         if (files == null) {
             return;
         }
-        
+
         for ( final File file : files ) {
             try {
                 Files.delete(file.toPath());

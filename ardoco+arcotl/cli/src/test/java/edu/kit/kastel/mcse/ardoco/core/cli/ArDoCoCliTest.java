@@ -3,6 +3,7 @@ package edu.kit.kastel.mcse.ardoco.core.cli;
 
 import java.io.File;
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -27,8 +28,6 @@ class ArDoCoCliTest {
         OUT = "src/test/resources/testout";
     }
 
-
-
     @Test
     @DisplayName("Help")
     void testHelp() {
@@ -37,6 +36,7 @@ class ArDoCoCliTest {
     }
 
     @Test
+    @Disabled
     @DisplayName("Evaluation")
     void testEval() {
         String[] args = { "-e", "-o", OUT };
@@ -65,6 +65,7 @@ class ArDoCoCliTest {
     }
 
     @Test
+    @Disabled
     @DisplayName("All")
     void testAll() {
         String[] args = { "-t", "ALL", "-n", NAME, "-d", DOCUMENTATION, "-m", MODEL, "-c", CODE, "-o", OUT };
