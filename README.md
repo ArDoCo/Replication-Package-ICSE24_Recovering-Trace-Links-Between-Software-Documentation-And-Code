@@ -33,7 +33,7 @@ This replication package allows to:
 
 Therefore, we apply this replication package to both badges, availability and reusability:
 
-**Availability**: The replication package is placed on Zenodo DOI: :warning: **TODO** a recommended, publicly accessible repository that provides a DOI. 
+**Availability**: The replication package is placed on Zenodo (https://zenodo.org/doi/10.5281/zenodo.10411853) a recommended, publicly accessible repository that provides a DOI. 
 Additionally, the package is publicly available on GitHub: https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code
 
 **Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
