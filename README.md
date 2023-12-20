@@ -42,8 +42,19 @@ Finally, the replication package also allows the reuse of TransArC on other proj
 Therefore, the package also includes the documentation of the TransArC CLI.
 
 The replication package is structured as follows: 
-* :warning: **TODO**
+* ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
+* baselines: contains the baselines used in the paper
+* data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
+* evaluator: contains helper scripts to evaluate the generated results
+* results: contains the results of the experiments
 
+Please be aware that the replication package is very comprehensive. 
+It requires ~50GB free storage.
+
+This documentation is structured as follows: 
+* exemplary workflow of TransArC
+* reproduction of complete evaluation results: setup and usage via provided Docker image, built Docker image, and local run
+* reusing TransArC: setup and usage via CLI
 
 
 ## How TransArC Works
@@ -179,7 +190,18 @@ python eval_trace_single_SAD.py \
 ```
 
 The output is written to: :warning: **TODO**
-It should look like: :warning: **TODO**
+
+It should look like: 
+
+```
+INFO:__main__:model loaded
+INFO:__main__:Creating examples from dataset file at ../../data/MediaStore/test
+retrieval evaluation: 100%|████████████████| 359/359 [10:04<00:00,  1.68s/it]
+
+pk3=0.243, pk2=0.189,pk1=0.135, precision=0.286 recall=0.12 best_f1 = 0.169, best_f2=0.219, MAP=0.18, MRR=0.23750049591362857, exe_time=604.0603840351105,f1_threshold=0.9998379945755005
+
+(venv) root@475915bc3e53:/replication/baselines/CodeBERT/trace/trace_single#
+```
 
 
 ##### FTLR
@@ -197,7 +219,7 @@ python3.9 -m nltk.downloader punkt
 python3.9 -m nltk.downloader wordnet
 ```
 
-Download Fasttext models from: 
+Download fastText models from: 
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz
 
@@ -224,7 +246,7 @@ git clone https://github.com/ArDoCo/TeaStore.git ./datasets/TeaStore/code && \
 rm -r ./datasets/TeaStore/code/.git
 ```
 
-Open `./App.py` and change the following lines to your location of the FastText models
+Open `./App.py` and change the following lines to your location of the fastText models
 ```
 ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
 ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
@@ -285,9 +307,10 @@ Please note that the `min. expected` values refer to thresholds that are used to
 * `SamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAM and code.
 * `SadSamTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAD and SAM.
 
+
+
 ###### CLI
 
-:warning: **TODO**
 You can simply call the provided CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
 `java -jar ardoco-cli.jar -e -o OUT`
 
