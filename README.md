@@ -33,7 +33,7 @@ This replication package allows to:
 
 Therefore, we apply this replication package to both badges, availability and reusability:
 
-**Availability**: The replication package is placed on Zenodo a recommended, publicly accessible repository that provides a DOI. 
+**Availability**: The replication package is placed on Zenodo DOI: :warning: **TODO** a recommended, publicly accessible repository that provides a DOI. 
 Additionally, the package is publicly available on GitHub: https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code
 
 **Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
@@ -153,7 +153,7 @@ The evaluation results can be created in three ways:
 Use the provided Docker image and run: `docker run -it --rm --gpus all icse24`
 
 #### Build Docker Image
-Build Docker image by command: `docker build -t icse24 .`
+Build Docker image by command: `docker build -t icse24 .` <br>
 Run the Docker image with: `docker run -it --rm --gpus all icse24`
 
 #### Run Locally
@@ -206,7 +206,7 @@ pk3=0.243, pk2=0.189,pk1=0.135, precision=0.286 recall=0.12 best_f1 = 0.169, bes
 
 ##### FTLR
 
-Go to the FTLR directory: `./baselines/finegrained-traceability`
+Go to the FTLR directory: `./baselines/finegrained-traceability` <br>
 Create a python environment:
 ```
 python3.9 -m venv --copies venv
@@ -223,7 +223,7 @@ Download fastText models from:
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz
 
-Copy the downloaded models to `../models`
+Copy the downloaded models to `../models`<br>
 Unzip models `gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz`
 
 
@@ -257,7 +257,7 @@ To run FTLR execute: `python3.9 App.py`
 Please be aware that the output of FTLR is very verbose.
 Warnings like `INFO:embeddingCreator.EmbeddingCreator:SKIPPED: Error on tokenizing ...` can be ignored.
 
-The output is written to: ` ./datasets/<ProjectName>/output`
+The output is written to: ` ./datasets/<ProjectName>/output` <br>
 It should look like: 
 ```
 (venv) root@5aab73915535:/replication/baselines/finegrained-traceability/datasets/MediaStore/output# ll
@@ -269,6 +269,7 @@ drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
 -rw-r--r-- 1 root root 44932 Dec 19 13:15 MediaStore_FileLevelWMDMc_tracelinks.csv
 ```
 
+App.py aufsplitten? :warning: **TODO**
 
 
 ##### TAROT
@@ -286,7 +287,8 @@ TransArC can be executed via Maven or its CLI.
 
 The execution of the ArDoCo+ArCoTL (TransArC) experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
 
-In order to run the experiments, please execute the following command within the ardoco+arcotl folder: `mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
+In order to run the experiments, please execute the following command within the ardoco+arcotl folder: <br> 
+`mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
 
 You can also run `mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT` to produce more verbose output of maven.
 
