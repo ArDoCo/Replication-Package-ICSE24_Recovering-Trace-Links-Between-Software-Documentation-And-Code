@@ -24,10 +24,25 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
+This replication package belongs to "Recovering Trace Links Between Software Documentation And Code" by :warning: *TODO* authors + link to paper.
+
 This replication package allows to: 
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
 * reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
-* replicate the evaluation results by applying TransArC (ArCoTL+ArDoCo) to other projects 
+* reuse TransArC (ArDoCo+ArCoTL) on other projects 
+
+Therefore, we apply this replication package to both badges, availability and reusability:
+
+**Availability**: The replication package is placed on Zenodo a recommended, publicly accessible repository that provides a DOI. 
+Additionally, the package is publicly available on GitHub: https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code
+
+**Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
+It further provides an extensive documentation and data to rebuild the Docker image or execute it locally. 
+Finally, the replication package also allows the reuse of TransArC on other projects. 
+Therefore, the package also includes the documentation of the TransArC CLI.
+
+The replication package is structured as follows: 
+* :warning: **TODO**
 
 
 
@@ -135,7 +150,7 @@ Requirements:
 * Java JDK 17 + Maven 3 (for ArDoCo+ArCoTL, TAROT)
 * Python 3.9 (for FTLR)
 * Python 3.7 (for CodeBERT)
-* Git
+* Git + LFS Support
 
 Install the dependencies in : :warning: **TODO**
 
@@ -241,7 +256,12 @@ drwxr-xr-x 1 root root  4096 Dec 19 13:18 ../
 
 
 
-### Reproduction of the ArDoCo+ArCoTL experiments
+##### TransArC (ArDoCo+ArCoTL)
+
+TransArC can be executed via Maven or its CLI. 
+
+###### Maven
+
 The execution of the ArDoCo+ArCoTL (TransArC) experiments is encapsulated in a JUnit test suite: [TraceLinkEvaluationIT](ardoco+arcotl/tests/tests-tlr/src/test/java/edu/kit/kastel/mcse/ardoco/core/tests/integration/TraceLinkEvaluationIT.java).
 
 In order to run the experiments, please execute the following command within the ardoco+arcotl folder: `mvn -q -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT`
@@ -265,10 +285,12 @@ Please note that the `min. expected` values refer to thresholds that are used to
 * `SamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAM and code.
 * `SadSamTraceabilityLinkRecoveryEvaluation`: evaluation of the trace links between SAD and SAM.
 
+###### CLI
+
+:warning: **TODO**
 
 
-
-## Replication of results using TransArC
+## Reusing TransArC
 
 :warning: **TODO**
 
