@@ -16,7 +16,7 @@ COPY ./baselines/finegrained-traceability .
 
 FROM ubuntu:22.04
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
-    openjdk-17-jdk maven vim nano curl software-properties-common gnupg git \
+    openjdk-17-jdk maven vim nano curl software-properties-common gnupg git git-lfs \
     && add-apt-repository -y ppa:deadsnakes \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends python3.7-dev python3.7-distutils python3.9-dev python3.9-distutils \
     && apt-get clean \
@@ -45,6 +45,14 @@ ADD https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz .
 ADD https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz .
 RUN gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz
 
+# Copy CodeBERT Models
+RUN git lfs install && git clone https://huggingface.co/kit-mcse/CodeBERT-Java && rm -r CodeBERT-Java/.git
+WORKDIR /replication/baselines/CodeBERT
+RUN . venv/bin/activate && \
+    python3 -c "from transformers import AutoTokenizer, AutoModelForSequenceClassification; AutoTokenizer.from_pretrained('microsoft/codebert-base'); AutoModelForSequenceClassification.from_pretrained('microsoft/codebert-base')" && \
+    deactivate 
+
+
 WORKDIR /replication
 
 ## Clone Source Code of Benchmarks
@@ -68,6 +76,13 @@ RUN echo "Cloning Source Code of Benchmarks" && \
 # Cache MAVEN Dependencies
 RUN cd ardoco+arcotl && mvn -P tlr -B dependency:resolve -Dclassifier=test
 RUN cd baselines/TAROT && mvn -B dependency:resolve
+
+# Cache CodeBERT Models
+RUN cd baselines/CodeBERT && \
+    . venv/bin/activate && \
+    cd trace/trace_single && \
+    python3 eval_trace_single_SAD.py --data_dir ../../data/MediaStore --model_path ../../../models/CodeBERT-Java   --per_gpu_eval_batch_size 10 --exp_name "MediaStore_single" && \
+    deactivate
 
 # Run Eval once:
 RUN cd ardoco+arcotl && mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT
