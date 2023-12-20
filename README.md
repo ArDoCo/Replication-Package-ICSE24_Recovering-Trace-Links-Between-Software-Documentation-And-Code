@@ -138,7 +138,7 @@ Everything was tested on Linux.
 
 ### Hardware Requirements
 We recommend the execution on a server with at least:
-* 1 GPU with CUDA 12.2 (CodeBERT) :warning: **TODO**
+* 1 GPU with CUDA 12.2 (for CodeBERT)
 * 16 GB RAM
 
 
@@ -163,7 +163,7 @@ Requirements:
 * Python 3.7 (for CodeBERT)
 * Git + LFS Support
 
-Install the dependencies in : :warning: **TODO**
+Install the dependencies in: :warning: **TODO**
 
 ##### CodeBERT
 
