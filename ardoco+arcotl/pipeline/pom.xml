@@ -42,58 +42,23 @@
     <profile>
       <id>complete</id>
       <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
-      <modules>
-        <module>pipeline-core</module>
-        <module>pipeline-id</module>
-        <module>pipeline-lissa</module>
-        <module>pipeline-tlr</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>deployment</id>
-      <activation>
         <activeByDefault>false</activeByDefault>
       </activation>
       <modules>
         <module>pipeline-core</module>
-        <module>pipeline-id</module>
-        <module>pipeline-lissa</module>
         <module>pipeline-tlr</module>
       </modules>
     </profile>
+
     <profile>
       <!-- Traceability Link Recovery -->
       <id>tlr</id>
       <activation>
-        <activeByDefault>false</activeByDefault>
+        <activeByDefault>true</activeByDefault>
       </activation>
       <modules>
         <module>pipeline-core</module>
         <module>pipeline-tlr</module>
-      </modules>
-    </profile>
-    <profile>
-      <!-- Inconsistency Detection -->
-      <id>inconsistency</id>
-      <activation>
-        <activeByDefault>false</activeByDefault>
-      </activation>
-      <modules>
-        <module>pipeline-core</module>
-        <module>pipeline-id</module>
-      </modules>
-    </profile>
-    <profile>
-      <!-- Linking Sketches and Software Architecture -->
-      <id>lissa</id>
-      <activation>
-        <activeByDefault>false</activeByDefault>
-      </activation>
-      <modules>
-        <module>pipeline-core</module>
-        <module>pipeline-lissa</module>
       </modules>
     </profile>
   </profiles>

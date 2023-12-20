@@ -107,16 +107,15 @@ public class ArDoCoCli {
     private static void deleteFiles(File out, final String filesRegex) {
         final File[] files = out.listFiles(new FilenameFilter() {
             @Override
-            public boolean accept( final File dir,
-                    final String name ) {
+            public boolean accept(final File dir, final String name) {
                 return name.matches(filesRegex);
             }
-        } );
+        });
         if (files == null) {
             return;
         }
 
-        for ( final File file : files ) {
+        for (final File file : files) {
             try {
                 Files.delete(file.toPath());
             } catch (IOException e) {
@@ -177,7 +176,7 @@ public class ArDoCoCli {
     private static void doSamCode(CommandLine cmd) {
         logger.info("Starting SAM-CODE.");
 
-        if (!cmd.hasOption(CMD_NAME) || !cmd.hasOption(CMD_MODEL) ||!cmd.hasOption(CMD_CODE)) {
+        if (!cmd.hasOption(CMD_NAME) || !cmd.hasOption(CMD_MODEL) || !cmd.hasOption(CMD_CODE)) {
             logger.error("There is a parameter missing. Needing name, model, and code!");
         }
 
@@ -201,7 +200,7 @@ public class ArDoCoCli {
     private static void doSadCode(CommandLine cmd) {
         logger.info("Starting SAD-Code.");
 
-        if (!cmd.hasOption(CMD_NAME) || !cmd.hasOption(CMD_SAD) || !cmd.hasOption(CMD_MODEL) ||!cmd.hasOption(CMD_CODE)) {
+        if (!cmd.hasOption(CMD_NAME) || !cmd.hasOption(CMD_SAD) || !cmd.hasOption(CMD_MODEL) || !cmd.hasOption(CMD_CODE)) {
             logger.error("There is a parameter missing. Needing name, documentation, model, and code!");
         }
 
