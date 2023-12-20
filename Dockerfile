@@ -73,13 +73,6 @@ RUN echo "Cloning Source Code of Benchmarks" && \
     git clone https://github.com/ArDoCo/TeaStore.git /replication/baselines/finegrained-traceability/datasets/TeaStore/code && \
     rm -r /replication/baselines/finegrained-traceability/datasets/TeaStore/code/.git
 
-# Cache CodeBERT Models
-RUN cd baselines/CodeBERT && \
-    . venv/bin/activate && \
-    cd trace/trace_single && \
-    python3 eval_trace_single_SAD.py --data_dir ../../data/MediaStore --model_path ../../../models/CodeBERT-Java   --per_gpu_eval_batch_size 10 --exp_name "MediaStore_single" && \
-    deactivate
-
 # Run Eval once to cache maven deps:
 RUN cd ardoco+arcotl && mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT
 RUN cd baselines/TAROT && mvn -B compile exec:java -Dexec.mainClass="Start"
