@@ -16,7 +16,7 @@ python3 App.py
 deactivate
 
 echo "Copy results to results/raw/FTLR"
-# Copy CSVs from dataset/*/output/*.csv to results/raw/FTLR
+# Copy CSVs from datasets/*/output/*.csv to results/raw/FTLR
 find datasets -type d -name 'output' -exec sh -c 'cp "$0"/*.csv ../../results/raw/ftlr/' {} \;
 
 echo "Calculate results for FTLR"
