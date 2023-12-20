@@ -24,17 +24,16 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
-This replication package belongs to [Recovering Trace Links Between Software Documentation And Code](https://publikationen.bibliothek.kit.edu/1000165692) by Keim et al. (DOI: 10.5445/IR/1000165692).
+This replication package belongs to [Recovering Trace Links Between Software Documentation And Code](https://publikationen.bibliothek.kit.edu/1000165692) by Keim et al. [DOI: 10.5445/IR/1000165692](https://doi.org/10.5445/IR/1000165692).
 
 This replication package allows to: 
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
 * reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
 * reuse TransArC (ArDoCo+ArCoTL) on other projects 
 
-Therefore, we apply this replication package to both badges, availability and reusability:
+Therefore, we apply for both badges, availability and reusability:
 
-**Availability**: The replication package is placed on Zenodo (https://zenodo.org/doi/10.5281/zenodo.10411853) a recommended, publicly accessible repository that provides a DOI. 
-Additionally, the package is publicly available on GitHub: https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code
+**Availability**:  The replication package is placed on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10411853) with a [DOI](https://doi.org/10.5445/IR/1000165692) and is publicly available on [GitHub](https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code).
 
 **Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
 It further provides an extensive documentation and data to rebuild the Docker image or execute it locally. 
@@ -48,8 +47,7 @@ The replication package is structured as follows:
 * evaluator: contains helper scripts to evaluate the generated results
 * results: contains the results of the experiments
 
-Please be aware that the replication package is very comprehensive. 
-It requires ~50GB free storage.
+Please be aware that the replication package is extensive and requires ~50GB storage.
 
 This documentation is structured as follows: 
 * exemplary workflow of TransArC
@@ -126,22 +124,21 @@ _BYKdQDVgEeqPG_FgW3bi6Q,Interface: RecommenderStrategy,services/tools.descartes.
 ...
 ```
 
-
-
-
-
 ## Reproduction of Complete Evaluation Results
 
-Please be aware that the reproduction of the complete evaluation results can take some time due to the calculation of the baselines.
-On our system (Tesla V100S, 32GB VRAM, 256GB RAM, 112 CPUs á 2.7Ghz), the execution takes approximately: 
+Please be aware that the reproduction of the complete evaluation results can take some time.
+On our system (Tesla V100S, 32GB VRAM, 256GB RAM, 112 CPUs a 2.7Ghz), the execution takes approximately: 
+
 * CodeBERT: 4h
 * FTLR: 20 min
 * TAROT: 10 min
 * TransArC: 7 min 
+
 Everything was tested on Linux.
 
 ### Hardware Requirements
 We recommend the execution on a server with at least:
+
 * 1 GPU with CUDA 12.2 (for CodeBERT)
 * 16 GB RAM
 
@@ -149,19 +146,21 @@ We recommend the execution on a server with at least:
 ### Setup
 
 The evaluation results can be created in three ways: 
+
 * Use the provided Docker image or
 * Build the Docker image yourself or
 * Generate the results locally by yourself.
 
 #### Provided Docker Image
-Use the provided Docker image and run: `docker run -it --rm --gpus all icse24`
+Use the provided Docker image and run: `docker run -it --rm --gpus all ghcr.io/ardoco/icse24`
 
 #### Build Docker Image
 Build Docker image by command: `docker build -t icse24 .` <br>
 Run the Docker image with: `docker run -it --rm --gpus all icse24`
 
 #### Run Locally
-Requirements: 
+Requirements:
+
 * Java JDK 17 + Maven 3 (for ArDoCo+ArCoTL, TAROT)
 * Python 3.9 (for FTLR)
 * Python 3.7 (for CodeBERT)
@@ -172,6 +171,7 @@ Requirements:
 
 Go to the CodeBERT directory: `./baselines/CodeBERT`
 Create a python environment:
+
 ```
 python3.7 -m venv --copies venv
 source venv/bin/activate
@@ -201,6 +201,7 @@ pk3=0.243, pk2=0.189,pk1=0.135, precision=0.286 recall=0.12 best_f1 = 0.169, bes
 
 Go to the FTLR directory: `./baselines/finegrained-traceability` <br>
 Create a python environment:
+
 ```
 python3.9 -m venv --copies venv
 source venv/bin/activate
@@ -221,6 +222,7 @@ Unzip models `gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz`
 
 
 Download Source Code of Benchmarks: 
+
 ```
 rm -r ./datasets/bigbluebutton/code && \
 git clone https://github.com/ArDoCo/bigbluebutton.git ./datasets/bigbluebutton/code && \
@@ -240,6 +242,7 @@ rm -r ./datasets/TeaStore/code/.git
 ```
 
 Open `./App.py` and change the following lines to your location of the fastText models
+
 ```
 ENGLISH_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.en.300.bin"
 ITALIAN_FASTTEXT_MODEL_PATH = "/replication/baselines/models/cc.it.300.bin"
@@ -271,6 +274,7 @@ Execute the bash script: `bash execute_baseline_tarot.sh`
 Please be aware that the output of TAROT is very verbose.
 
 The results look like:
+
 ```
 INFO edu.kit.kastel.mcse.ardoco.evaluator.cli.EvaluatorCli - 0.06;0.20;0.09;0.94;0.95;0.08
 Running evaluator for MediaStore_IR-ONLY_TAROT_VSM_0.97.csv
@@ -291,6 +295,7 @@ In order to run the experiments, please execute the following command within the
 You can also run `mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT` to produce more verbose output of maven.
 
 The results are printed in a format like this:
+
 ```
 TEASTORE (SadSamCodeTraceabilityLinkRecoveryEvaluation):
         Precision:    1.00 (min. expected: 1.00)
@@ -301,6 +306,7 @@ TEASTORE (SadSamCodeTraceabilityLinkRecoveryEvaluation):
         Phi Coef.:    0.83 (min. expected: 0.83)
 
 ```
+
 Please note that the `min. expected` values refer to thresholds that are used to determine whether the test shall fail because of some unexpected degradation of the results.
 
 * `SadSamCodeTraceabilityLinkRecoveryEvaluation`: evaluation of the transitive trace links between SAD and code (via SAM).
@@ -328,6 +334,7 @@ With the CLI, you can specify the task that you want to perform (i.e., SAD-Code,
 In the following, we show example commands to run the CLI. with `java -jar ardoco-cli.jar -h`, you can always find the help message.
 
 In the following, we use placeholders as follows:
+
 * `NAME` denotes the name of the project, e.g., `MediaStore`
 * `DOCUMENTATION` is the path to the software architecture documentation file, usually a `.txt`
 * `MODEL` is the path to the software architecture model file (`.uml` or `.pcm`)
