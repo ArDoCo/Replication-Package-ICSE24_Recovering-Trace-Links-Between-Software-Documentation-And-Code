@@ -140,11 +140,8 @@ On our system (Tesla V100S, 32GB VRAM, 256GB RAM, 112 CPUs a 2.7Ghz), the execut
 Everything was tested on Linux.
 
 ### Hardware Requirements
-We recommend the execution on a server with at least:
-
-* 1 GPU with CUDA 12.2 (for CodeBERT)
-* 16 GB RAM
-
+We recommend the execution on a system with at least **16 GB RAM**. 
+To execute the baseline ***CodeBERT***, the system also needs a **GPU with CUDA 12.2 and ~16GB vRAM**
 
 ### Setup
 
