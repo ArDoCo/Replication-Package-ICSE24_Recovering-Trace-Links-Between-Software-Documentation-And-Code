@@ -1,5 +1,5 @@
 # Replication Package For Recovering Trace Links Between Software Documentation And Code
-
+by Jan Keim, Sophie Corallo, Dominik Fuchß, Tobias Telge, and Anne Koziolek
 
 ## Abstract
 
