@@ -141,7 +141,7 @@ Everything was tested on Linux.
 
 ### Hardware Requirements
 We recommend the execution on a system with at least **16 GB RAM**. 
-To execute the baseline ***CodeBERT***, the system also needs a **GPU with CUDA 12.2 and ~16GB vRAM**
+To execute the baseline ***CodeBERT***, the system also needs a **GPU with CUDA 12.2 and ~16GB vRAM**.
 
 ### Setup
 
