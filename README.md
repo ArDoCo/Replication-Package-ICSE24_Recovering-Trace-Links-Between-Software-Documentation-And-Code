@@ -24,7 +24,7 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
-This replication package belongs to **Recovering Trace Links Between Software Documentation And Code** by Keim et al. ([Preprint at DOI 10.5445/IR/1000165692](https://doi.org/10.5445/IR/1000165692/pre).
+This replication package belongs to **Recovering Trace Links Between Software Documentation And Code** by Keim et al. ([Preprint at DOI 10.5445/IR/1000165692](https://doi.org/10.5445/IR/1000165692/pre)).
 
 This replication package allows to:
 
