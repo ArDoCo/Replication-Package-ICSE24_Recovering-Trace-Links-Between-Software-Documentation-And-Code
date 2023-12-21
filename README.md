@@ -24,16 +24,17 @@ The package allows to reproduce the evaluation results, as well as to apply Tran
 
 ## Content 
 
-This replication package belongs to [Recovering Trace Links Between Software Documentation And Code](https://publikationen.bibliothek.kit.edu/1000165692) by Keim et al. [DOI: 10.5445/IR/1000165692](https://doi.org/10.5445/IR/1000165692).
+This replication package belongs to **Recovering Trace Links Between Software Documentation And Code** by Keim et al. ([Preprint at DOI 10.5445/IR/1000165692](https://doi.org/10.5445/IR/1000165692/pre).
 
-This replication package allows to: 
+This replication package allows to:
+
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
 * reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
 * reuse TransArC (ArDoCo+ArCoTL) on other projects 
 
 Therefore, we apply for both badges, availability and reusability:
 
-**Availability**:  The replication package is placed on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10411853) with a [DOI](https://doi.org/10.5445/IR/1000165692) and is publicly available on [GitHub](https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code).
+**Availability**:  The replication package is placed on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10411853) with a [DOI (10.5281/zenodo.10411853)](https://doi.org/10.5281/zenodo.10411853) and is publicly available on [GitHub](https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code).
 
 **Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
 It further provides an extensive documentation and data to rebuild the Docker image or execute it locally. 
@@ -41,6 +42,7 @@ Finally, the replication package also allows the reuse of TransArC on other proj
 Therefore, the package also includes the documentation of the TransArC CLI.
 
 The replication package is structured as follows: 
+
 * ardoco+arcotl: contains the source code of ArCoTL and ArDoCo
 * baselines: contains the baselines used in the paper
 * data: contains the data used in the paper, including the textual software architecture documentation, the architecture models and the gold standards.
@@ -49,7 +51,8 @@ The replication package is structured as follows:
 
 Please be aware that the replication package is extensive and requires ~50GB storage.
 
-This documentation is structured as follows: 
+This documentation is structured as follows:
+
 * exemplary workflow of TransArC
 * reproduction of complete evaluation results: setup and usage via provided Docker image, built Docker image, and local run
 * reusing TransArC: setup and usage via CLI
@@ -214,6 +217,7 @@ python3.9 -m nltk.downloader wordnet
 ```
 
 Download fastText models from: 
+
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
 * https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz
 
