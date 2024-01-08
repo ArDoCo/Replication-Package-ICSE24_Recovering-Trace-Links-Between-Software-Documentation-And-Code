@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10411853.svg)](https://doi.org/10.5281/zenodo.10411853)
 
 # Replication Package For Recovering Trace Links Between Software Documentation And Code
-by Jan Keim, Sophie Corallo, Dominik Fuchß, Tobias Telge, and Anne Koziolek
+by Jan Keim, Sophie Corallo, Dominik Fuchß, Tobias Hey, Tobias Telge, and Anne Koziolek
 
 
 ## Abstract
