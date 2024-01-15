@@ -155,11 +155,13 @@ The evaluation results can be created in three ways:
 * Generate the results locally by yourself.
 
 #### Provided Docker Image
-Use the provided Docker image and run: `docker run -it --rm --gpus all ghcr.io/ardoco/icse24`
+Use the provided Docker image and run: `docker run -it --rm --gpus all ghcr.io/ardoco/icse24`.
+
+If you do not have GPUs and want to run the image withouth GPU support, run:  `docker run -it --rm ghcr.io/ardoco/icse24`.
 
 #### Build Docker Image
 Build Docker image by command: `docker build -t icse24 .` <br>
-Run the Docker image with: `docker run -it --rm --gpus all icse24`
+Run the Docker image with: `docker run -it --rm --gpus all icse24` or `docker run -it --rm ghcr.io/ardoco/icse24` (without GPUs).
 
 #### Run Locally
 Requirements:
