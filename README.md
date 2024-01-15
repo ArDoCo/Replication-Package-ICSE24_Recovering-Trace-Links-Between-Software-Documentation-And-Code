@@ -144,7 +144,7 @@ Everything was tested on Linux.
 
 ### Hardware Requirements
 We recommend the execution on a system with at least **16 GB RAM**. 
-To execute the baseline ***CodeBERT***, the system also needs a **GPU with CUDA 12.2 and ~16GB vRAM**.
+To execute the baseline ***CodeBERT***, the system also needs GPU support and a **GPU with CUDA 12.2 and ~16GB vRAM**.
 
 ### Setup
 
@@ -157,11 +157,11 @@ The evaluation results can be created in three ways:
 #### Provided Docker Image
 Use the provided Docker image and run: `docker run -it --rm --gpus all ghcr.io/ardoco/icse24`.
 
-If you do not have GPUs and want to run the image withouth GPU support, run:  `docker run -it --rm ghcr.io/ardoco/icse24`.
+If you do not have GPUs and/or want to run the image withouth GPU support, run:  `docker run -it --rm ghcr.io/ardoco/icse24`.
 
 #### Build Docker Image
 Build Docker image by command: `docker build -t icse24 .` <br>
-Run the Docker image with: `docker run -it --rm --gpus all icse24` or `docker run -it --rm ghcr.io/ardoco/icse24` (without GPUs).
+Run the Docker image with: `docker run -it --rm --gpus all icse24` (with GPU support) or `docker run -it --rm ghcr.io/ardoco/icse24` (without GPUs).
 
 #### Run Locally
 Requirements:
@@ -338,7 +338,7 @@ In the evaluator-folder are also shell-scripts that automate this, given that th
 
 ## Reusing TransArC
 
-To reuse TransArC, you can use the provided CLI. 
+To reuse TransArC, you can use the provided CLI (see above). 
 With the CLI, you can specify the task that you want to perform (i.e., SAD-Code, SAM-Code, or SAD-SAM) and provide the necessary input files along with an output directory, where the output files will be saved to. 
 In the following, we show example commands to run the CLI. with `java -jar ardoco-cli.jar -h`, you can always find the help message.
 
