@@ -321,7 +321,12 @@ Please note that the `min. expected` values refer to thresholds that are used to
 
 ###### CLI
 
-You can simply call the provided CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
+In the folder [ardoco+arcotl/cli](./ardoco+arcotl/cli), there is the source code for the CLI.
+You can easily compile the CLI by using the command `mvn package` within the directory [ardoco+arcotl](./ardoco+arcotl). 
+To speed up the build, you can skip tests using the following command: `mvn package -DskipTests -DskipITs`. 
+The compiled CLI can then be found in the folder [ardoco+arcotl/cli/target/](./ardoco+arcotl/cli/target/) as `ardoco-cli.jar`.
+
+You can call the CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
 `java -jar ardoco-cli.jar -e -o OUT`
 
 This command executes TransArC on all benchmark projects and creates CSV files with the found trace links.
