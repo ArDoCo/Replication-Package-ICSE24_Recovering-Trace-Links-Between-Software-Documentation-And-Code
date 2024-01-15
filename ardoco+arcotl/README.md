@@ -1,11 +1,5 @@
 # ArDoCo Core
 
-[![Maven Verify](https://github.com/ArDoCo/Core/workflows/Maven%20Verify/badge.svg)](https://github.com/ArDoCo/Core/actions?query=workflow%3A%22Maven+Verify%22)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.ardoco.core/parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.ardoco.core/parent)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ArDoCo_Core&metric=alert_status)](https://sonarcloud.io/dashboard?id=ArDoCo_Core)
-[![Latest Release](https://img.shields.io/github/release/ArDoCo/Core.svg)](https://github.com/ArDoCo/Core/releases/latest)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7274034.svg)](https://doi.org/10.5281/zenodo.7274034)
-
 The goal of this project is to connect architecture documentation and models while identifying missing or deviating
 elements (inconsistencies).
 An element can be any representable item of the model, like a component or a relation.
@@ -22,12 +16,6 @@ For more information about the setup or the architecture have a look on the [Wik
 The docs are at some points deprecated, the general overview and setup should still hold.
 You can find the generated JavaDocs at [ArDoCo.github.io/Core-Docs](https://ArDoCo.github.io/Core-Docs/).
 
-## Case Studies / Benchmarks
-
-To test the Core, you could use case studies and benchmarks provided in ..
-
-* [ArDoCo Benchmark](https://github.com/ArDoCo/Benchmark)
-* [SWATTR](https://github.com/ArDoCo/SWATTR)
 
 ## Maven
 
