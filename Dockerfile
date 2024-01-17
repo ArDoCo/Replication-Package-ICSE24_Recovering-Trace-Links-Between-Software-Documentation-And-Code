@@ -41,9 +41,7 @@ RUN . venv/bin/activate && \
 
 # Copy FASTTEXT Models
 WORKDIR /replication/baselines/models
-ADD https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz .
-ADD https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz .
-RUN gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz
+RUN curl -O https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz && curl -O https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.bin.gz && gunzip cc.en.300.bin.gz && gunzip cc.it.300.bin.gz
 
 # Copy CodeBERT Models
 RUN git lfs install && git clone https://huggingface.co/kit-mcse/CodeBERT-Java && rm -r CodeBERT-Java/.git
@@ -77,5 +75,7 @@ RUN echo "Cloning Source Code of Benchmarks" && \
 RUN cd ardoco+arcotl && mvn -P tlr clean test -Dsurefire.failIfNoSpecifiedTests=false -Dtest=TraceLinkEvaluationIT
 RUN cd baselines/TAROT && mvn -B compile exec:java -Dexec.mainClass="Start"
 
-ENTRYPOINT [ "/bin/bash", "-c", "cat README.md && bash" ]
+# Build ArDoCo CLI
+RUN cd ardoco+arcotl && mvn -P tlr package -DskipTests -DskipITs && cp cli/target/ardoco-cli.jar ardoco-cli.jar && mvn -P tlr clean
 
+ENTRYPOINT [ "/bin/bash", "-c", "cat README.md && bash" ]
