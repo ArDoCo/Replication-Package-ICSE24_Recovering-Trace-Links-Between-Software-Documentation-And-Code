@@ -324,8 +324,8 @@ Please note that the `min. expected` values refer to thresholds that are used to
 In the folder [ardoco+arcotl/cli](./ardoco+arcotl/cli), there is the source code for the CLI.
 You can easily compile the CLI by using the command `mvn package` within the directory [ardoco+arcotl](./ardoco+arcotl). 
 To speed up the build, you can skip tests using the following command: `mvn package -DskipTests -DskipITs`. 
-The compiled CLI can then be found in the folder [ardoco+arcotl/cli/target/](./ardoco+arcotl/cli/target/) as `ardoco-cli.jar`.
-Note: If you are using the provided Docker image, the CLI is already compiled and can be found at `/replication/ardoco+arcotl/ardoco-cli.jar`.
+After succesful compilation, the compiled CLI can be found in the newly created folder [ardoco+arcotl/cli/target/](./ardoco+arcotl/cli/target/) as `ardoco-cli.jar`.
+Note: If you are using the provided Docker image, the CLI is already compiled and can be found at `/replication/ardoco+arcotl/ardoco-cli.jar` within the container.
 
 You can call the CLI to execute the evaluation with the following command, where OUT is the path to a folder where the output should be written to: <br>
 `java -jar ardoco-cli.jar -e -o OUT`
