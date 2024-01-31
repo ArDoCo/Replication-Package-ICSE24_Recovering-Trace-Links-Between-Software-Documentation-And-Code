@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10411853.svg)](https://doi.org/10.5281/zenodo.10411853)
 
+<img align="left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_reusable_v1_1.png" width="85" />
+<img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width="85" />
+
+
 # Replication Package For Recovering Trace Links Between Software Documentation And Code
 by Jan Keim, Sophie Corallo, Dominik Fuchß, Tobias Hey, Tobias Telge, and Anne Koziolek
 
@@ -34,15 +38,6 @@ This replication package allows to:
 * get additional details to the publication (pseudocode for the computation of trace links between SAM and Code)
 * reproduce the complete evaluation results of "Recovering Trace Links Between Software Documentation And Code"
 * reuse TransArC (ArDoCo+ArCoTL) on other projects 
-
-Therefore, we apply for both badges, availability and reusability:
-
-**Availability**:  The replication package is placed on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10411853) with a [DOI (10.5281/zenodo.10411853)](https://doi.org/10.5281/zenodo.10411853) and is publicly available on [GitHub](https://github.com/ArDoCo/Replication-Package-ICSE24_Recovering-Trace-Links-Between-Software-Documentation-And-Code).
-
-**Reusability**: The replication package includes a Docker image to reproduce the complete evaluation results, including all baselines. 
-It further provides an extensive documentation and data to rebuild the Docker image or execute it locally. 
-Finally, the replication package also allows the reuse of TransArC on other projects. 
-Therefore, the package also includes the documentation of the TransArC CLI.
 
 The replication package is structured as follows: 
 
